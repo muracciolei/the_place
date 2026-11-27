@@ -6,7 +6,7 @@
 - Tres modos: **Local — My Town**, **Country — My Country**, **World — Worldwide**.
 - 41 ciudades con fotos; **9 categorías principales** en este orden: Night Club, Restaurantes, Bares, Coffee Shop, Bookshop, Museo, Conciertos, Fashion y Shops, seguidas de categorías complementarias.
 - Feed de **3 tarjetas verticales por fila en móvil** (4 en tablet, 5 en escritorio).
-- Sin clave: **18 lugares reales por categoría y ciudad** (6.642 en total) hardcodeados en JSON, generados desde Wikipedia. Al tocarlos se abre una **ficha interna** con sus fotos y datos; un botón abre Google Maps.
+- Sin clave: **18 lugares reales por categoría y ciudad** (6.642 en total) hardcodeados en JSON, generados desde Wikipedia con descripción y coordenadas. Al tocarlos se abre una **ficha interna** con foto, descripción, coordenadas y enlace a la fuente; un botón abre Google Maps.
 - Con clave: esa misma ficha busca el lugar en Google Places y muestra sus datos y fotos reales antes del enlace a Google Maps.
 - El tab **Explorar** es un feed de lugares **al azar**, sin orden por ciudad ni categoría, con los mismos lugares de la app y "Cargar más" por lotes.
 - La página de ciudad muestra el nombre arriba (clicable → perfil con la presentación grande) y debajo las categorías y un feed aleatorio de lugares de esa ciudad.

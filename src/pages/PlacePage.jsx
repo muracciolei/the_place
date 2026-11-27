@@ -131,9 +131,25 @@ export default function PlacePage() {
         </section>
       )}
 
+      {!place.fromGoogle && place.description && (
+        <section className="detail-section">
+          <h2>{t('place.about')}</h2>
+          <p>{place.description}</p>
+          <p className="muted">
+            {t('place.descriptionSource')}
+            {place.sourceUrl && <> · <a href={place.sourceUrl} target="_blank" rel="noreferrer">Wikipedia ↗</a></>}
+          </p>
+        </section>
+      )}
+
       <section className="detail-section">
         <h2>{t('place.contact')}</h2>
         <p>{place.address ? `📍 ${place.address}` : t('place.notAvailable')}</p>
+        {place.lat != null && place.lng != null && (
+          <p className="muted">
+            {t('place.coordinates')}: {Number(place.lat).toFixed(5)}, {Number(place.lng).toFixed(5)}
+          </p>
+        )}
         {place.phone && <p>☎ <a href={`tel:${place.phone}`}>{place.phone}</a></p>}
         {place.websiteUri && <p>🌐 <a href={place.websiteUri} target="_blank" rel="noreferrer">{t('common.website')} ↗</a></p>}
         {place.weekdayText?.length > 0 && (

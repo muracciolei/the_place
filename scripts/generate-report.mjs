@@ -26,12 +26,15 @@ function csv(value) {
 const header = [
   'city_id', 'city_name', 'country', 'category_id', 'category_label',
   'place_id', 'place_name', 'rank', 'maps_url', 'source_url',
+  'description', 'latitude', 'longitude',
   'photo_url', 'photo_author', 'photo_license', 'source',
 ]
 
 const rows = []
 const files = (await readdir(DATA_DIR)).filter((file) => file.endsWith('.json')).sort()
 let totalPhotos = 0
+let totalDescriptions = 0
+let totalCoords = 0
 
 for (const file of files) {
   const data = JSON.parse(await readFile(path.join(DATA_DIR, file), 'utf8'))
@@ -40,6 +43,8 @@ for (const file of files) {
     const category = categoryById.get(categoryId)
     for (const place of places) {
       if (place.photo?.url) totalPhotos += 1
+      if (place.description) totalDescriptions += 1
+      if (place.lat != null && place.lng != null) totalCoords += 1
       rows.push([
         data.cityId,
         city?.name || data.cityId,
@@ -51,6 +56,9 @@ for (const file of files) {
         place.rank,
         place.mapsUrl,
         place.sourceUrl,
+        place.description || '',
+        place.lat ?? '',
+        place.lng ?? '',
         place.photo?.url || '',
         place.photo?.author || '',
         place.photo?.license || '',
@@ -70,11 +78,11 @@ for (const row of rows) {
   const cityKey = `${row[0]}|${row[1]}`
   const cityEntry = byCity.get(cityKey) || { name: row[1], country: row[2], places: 0, photos: 0 }
   cityEntry.places += 1
-  if (row[10]) cityEntry.photos += 1
+  if (row[13]) cityEntry.photos += 1
   byCity.set(cityKey, cityEntry)
   const catEntry = byCategory.get(row[4]) || { places: 0, photos: 0 }
   catEntry.places += 1
-  if (row[10]) catEntry.photos += 1
+  if (row[13]) catEntry.photos += 1
   byCategory.set(row[4], catEntry)
 }
 
@@ -87,6 +95,8 @@ const lines = [
   `- **Ciudades:** ${files.length}`,
   `- **Categorías por ciudad:** 9`,
   `- **Fotos disponibles:** ${totalPhotos} (${Math.round((totalPhotos / rows.length) * 100)}% de los lugares)`,
+  `- **Descripciones (Wikipedia):** ${totalDescriptions}`,
+  `- **Con coordenadas:** ${totalCoords}`,
   '- **Archivo de datos:** `places.csv`',
   '',
   '## Qué contiene cada fila',
