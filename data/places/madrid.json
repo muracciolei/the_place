@@ -1,0 +1,2909 @@
+{
+  "cityId": "madrid",
+  "generatedAt": "2026-11-27T08:45:59.421Z",
+  "source": "Wikipedia API + Maps URLs (sin scraping de Google)",
+  "incomplete": [],
+  "categories": {
+    "night_clubs": [
+      {
+        "id": "madrid-night_clubs-1",
+        "name": "Stafford Brothers",
+        "cityId": "madrid",
+        "categoryId": "night_clubs",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Stafford%20Brothers%2C%20Madrid",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Stafford_Brothers",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Stafford_Brothers.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Stafford_Brothers"
+        },
+        "description": "Stafford Brothers are Australian DJs and producers from the Gold Coast, Queensland known for blending the genres of house, electro, and progressive house music. Currently based in Los Angeles, California, the brothers were the first electronic dance music act to sign to Cash Money Records - an American record label, in 2012. Stafford Brothers also have their own syndicated network TV show The Stafford Brothers, which",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "madrid-night_clubs-2",
+        "name": "Amnesia",
+        "cityId": "madrid",
+        "categoryId": "night_clubs",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Amnesia%2C%20Madrid",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Amnesia_(nightclub)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/Amnesia_ibiza.jpeg/960px-Amnesia_ibiza.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Amnesia_(nightclub)"
+        },
+        "description": "Amnesia is a nightclub on the Spanish island of Ibiza. It opened in 1976 and won the title of Best Global Club in 2007, 2008, 2009 and 2011 at the IDMA Awards in Miami. The club is located close to the village of San Rafael on the highway between Sant Antoni de Portmany and Ibiza Town.",
+        "lat": 38.94777778,
+        "lng": 1.40805556
+      },
+      {
+        "id": "madrid-night_clubs-3",
+        "name": "Real Madrid fan club massacres",
+        "cityId": "madrid",
+        "categoryId": "night_clubs",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Real%20Madrid%20fan%20club%20massacres%2C%20Madrid",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Real_Madrid_fan_club_massacres",
+        "photo": null,
+        "description": "On 13 May 2016, a group of militants armed with AK-47s attacked a cafe in Balad, Iraq, frequented by supporters of the Spanish football club Real Madrid. The Islamic State (IS) claimed responsibility for the attack. At least 16 people were killed and at least 30 were wounded. On 29 May 2016, IS gunmen and a suicide bomber attacked another Real Madrid fan club in the same area, killing at least 12 people and injuring ",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "madrid-night_clubs-4",
+        "name": "Robinho",
+        "cityId": "madrid",
+        "categoryId": "night_clubs",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Robinho%2C%20Madrid",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Robinho",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/78/Robinho061115-2_%28cropped_2%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Robinho"
+        },
+        "description": "Robson de Souza (Brazilian Portuguese: [ˈʁɔb(i)sõ d(ʒi) ˈsowzɐ]; born 25 January 1984), known as Robinho (Brazilian Portuguese: [ʁɔˈbĩɲu]), is a Brazilian former professional footballer who played as a forward. In 1996, at 12 years of age, Robinho was picked by Brazil legend Pelé as his heir apparent and, in 2002, went on to lead Santos to their first Campeonato Brasileiro title since Pelé himself played for the club",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "madrid-night_clubs-5",
+        "name": "Margarita Sierra",
+        "cityId": "madrid",
+        "categoryId": "night_clubs",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Margarita%20Sierra%2C%20Madrid",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Margarita_Sierra",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Margarita_Sierra_1961.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Margarita_Sierra"
+        },
+        "description": "María Margarita Suárez Sierra (January 5, 1936 – September 6, 1963), better known as Margarita Sierra, was a Spanish-American singer, dancer, and actress best known for her supporting role as the nightclub-singing Cha Cha O'Brien on the early 1960s ABC/Warner Bros. television series, Surfside 6, with Troy Donahue, Van Williams, Lee Patterson, and Diane McBain. Episodes of Surfside 6 often featured Sierra singing, usu",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "madrid-night_clubs-6",
+        "name": "Sandra Delgado",
+        "cityId": "madrid",
+        "categoryId": "night_clubs",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Sandra%20Delgado%2C%20Madrid",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Sandra_Delgado",
+        "photo": null,
+        "description": "Sandra Delgado is a Colombian-American actor, writer, and producer who grew up and works in Chicago, Illinois. She is best known for her work La Havana Madrid, an acclaimed play based in the 1960s about a Chicago nightclub of the same name and the Latino community in Chicago's Lakeview neighborhood.",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "madrid-night_clubs-7",
+        "name": "The Last Circus",
+        "cityId": "madrid",
+        "categoryId": "night_clubs",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Last%20Circus%2C%20Madrid",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/The_Last_Circus",
+        "photo": null,
+        "description": "The Last Circus (Spanish: Balada triste de trompeta; transl. 'Sad Trumpet Ballad') is a 2010 comedy horror-drama film written and directed by Álex de la Iglesia, which stars Carlos Areces, Antonio de la Torre and Carolina Bang. It premiered at the 2010 Venice Film Festival.",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "madrid-night_clubs-8",
+        "name": "2004 Madrid train bombings",
+        "cityId": "madrid",
+        "categoryId": "night_clubs",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=2004%20Madrid%20train%20bombings%2C%20Madrid",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/2004_Madrid_train_bombings",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Atentado_11M.jpg/960px-Atentado_11M.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/2004_Madrid_train_bombings"
+        },
+        "description": "The 2004 Madrid train bombings (also known in Spain as 11M for 11 de marzo) (or 3/11) were a series of coordinated, nearly simultaneous bombings against the Cercanías commuter train system of Madrid, Spain, on the morning of 11 March 2004—three days before Spain's general elections. The explosions killed 193 people and injured around 2,500. The bombings constituted the deadliest terrorist attack carried out in the hi",
+        "lat": 40.40666667,
+        "lng": -3.68944444
+      },
+      {
+        "id": "madrid-night_clubs-9",
+        "name": "Café de Paris, London",
+        "cityId": "madrid",
+        "categoryId": "night_clubs",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Caf%C3%A9%20de%20Paris%2C%20London%2C%20Madrid",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Caf%C3%A9_de_Paris%2C_London",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Caf%C3%A9_de_Paris_-_London_-_08.JPG/960px-Caf%C3%A9_de_Paris_-_London_-_08.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Caf%C3%A9_de_Paris%2C_London"
+        },
+        "description": "The Café de Paris was a nightclub in the West End of London, active from 1924–41 and 1948–2020. It was located on Coventry Street, which runs between Leicester Square and Piccadilly Circus. In the 1930s it became one of the leading theatre clubs in London. On 8 March 1941, during The Blitz bombing campaign of the Second World War, the club was hit by a German bomb. The explosion killed at least 34 people, injured at ",
+        "lat": 51.5105,
+        "lng": -0.1319
+      },
+      {
+        "id": "madrid-night_clubs-10",
+        "name": "Madrid Atocha railway station",
+        "cityId": "madrid",
+        "categoryId": "night_clubs",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Madrid%20Atocha%20railway%20station%2C%20Madrid",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Madrid_Atocha_railway_station",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Atocha_railway_station_5.JPG/960px-Atocha_railway_station_5.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Madrid_Atocha_railway_station"
+        },
+        "description": "Madrid Atocha (Spanish: Estación de Madrid Atocha) is the oldest major railway station complex in Madrid. The complex includes the main train station named Madrid Puerta de Atocha-Almudena Grandes. It is the largest station serving commuter trains (Cercanías), regional trains from the south and southeast, intercity trains from Navarre, Cádiz and Huelva (Andalusia) and La Rioja, and the AVE high speed trains from Giro",
+        "lat": 40.4065,
+        "lng": -3.6893
+      },
+      {
+        "id": "madrid-night_clubs-11",
+        "name": "The Cold Light of Day",
+        "cityId": "madrid",
+        "categoryId": "night_clubs",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Cold%20Light%20of%20Day%2C%20Madrid",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/The_Cold_Light_of_Day_(2012_film)",
+        "photo": null,
+        "description": "The Cold Light of Day is a 2012 action thriller film directed by Mabrouk El Mechri and distributed by Summit Entertainment. It was written by Scott Wiper and John Petro and stars Henry Cavill, Bruce Willis, and Sigourney Weaver. The story follows Will (Cavill), who finds that his family has been kidnapped by foreign agents searching for a briefcase stolen by his father (Willis), which forces him to take matters into ",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "madrid-night_clubs-12",
+        "name": "Dolphinarium discotheque bombing",
+        "cityId": "madrid",
+        "categoryId": "night_clubs",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Dolphinarium%20discotheque%20bombing%2C%20Madrid",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Dolphinarium_discotheque_bombing",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/%D7%94%D7%A4%D7%99%D7%92%D7%95%D7%A2_%D7%91%D7%93%D7%95%D7%9C%D7%A4%D7%99%D7%A0%D7%A8%D7%99%D7%95%D7%9D_4.jpg/960px-%D7%94%D7%A4%D7%99%D7%92%D7%95%D7%A2_%D7%91%D7%93%D7%95%D7%9C%D7%A4%D7%99%D7%A0%D7%A8%D7%99%D7%95%D7%9D_4.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Dolphinarium_discotheque_bombing"
+        },
+        "description": "On 1 June 2001, Palestinian militant Saeed Hotari performed a suicide bombing outside the Dolphinarium discotheque on the beachfront in Tel Aviv, Israel, killing himself and 21 Israelis, 16 of whom were teenagers. The majority of the victims were Israeli teenage girls whose families had recently emigrated from the former Soviet Union. The death toll was the highest inflicted on Israel in five years.",
+        "lat": 32.06722222,
+        "lng": 34.76166667
+      },
+      {
+        "id": "madrid-night_clubs-13",
+        "name": "Sala La Riviera",
+        "cityId": "madrid",
+        "categoryId": "night_clubs",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Sala%20La%20Riviera%2C%20Madrid",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Sala_La_Riviera",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Sala_La_Riviera%2C_Madrid_-_M83_%40_La_Riviera_%287008297183%29.jpg/960px-Sala_La_Riviera%2C_Madrid_-_M83_%40_La_Riviera_%287008297183%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Sala_La_Riviera"
+        },
+        "description": "The Sala La Riviera is an important nightclub and concert venue located in the city of Madrid, Spain. Built in 1958, it has a capacity of 2500 people, and in the past its primary stage hosted multiple artists and both national and international groups of massive fame.",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "madrid-night_clubs-14",
+        "name": "Goodbye Country",
+        "cityId": "madrid",
+        "categoryId": "night_clubs",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Goodbye%20Country%2C%20Madrid",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Goodbye_Country_(Hello_Nightclub)",
+        "photo": null,
+        "description": "Goodbye Country (Hello Nightclub) is the third studio album by the English electronica duo Groove Armada. It was released on 10 September 2001 on the Jive Electro record label. The title of the album was meant to differentiate it from the band's previous album, Vertigo, as being more upbeat and less chill-out. The album features several guest vocalists, including Jeru the Damaja in \"Suntoucher\", MC M.A.D. in \"Superst",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "madrid-night_clubs-15",
+        "name": "Florida 135",
+        "cityId": "madrid",
+        "categoryId": "night_clubs",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Florida%20135%2C%20Madrid",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Florida_135",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Florida135_Fraga.jpg/960px-Florida135_Fraga.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Florida_135"
+        },
+        "description": "The Florida 135 club is an electronic music nightclub in Fraga, Aragon, Spain. It is considered the oldest active nightclub in the country. It is also a family business, since its foundation in 1942 by Juan Arnau Ibarz, it has remained in the Arnau family until today, the same one that created and conducts the Monegros Desert Festival in neighboring Candasnos and elrow in Viladecans. The Florida 135 is nicknamed \"the",
+        "lat": 41.51927778,
+        "lng": 0.34847222
+      },
+      {
+        "id": "madrid-night_clubs-16",
+        "name": "Guti",
+        "cityId": "madrid",
+        "categoryId": "night_clubs",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Guti%2C%20Madrid",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Guti",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/62/JM_Guti.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Guti"
+        },
+        "description": "José María Gutiérrez Hernández (born 31 October 1976), known as Guti, is a Spanish former professional footballer who played as an attacking midfielder. During his career, he played almost exclusively for Real Madrid – appearing in 542 official games and serving as vice-captain – helping the club to win 15 trophies, most notably three Champions League titles and five La Liga championships. He also competed in Turkey ",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "madrid-night_clubs-17",
+        "name": "Alcalá",
+        "cityId": "madrid",
+        "categoryId": "night_clubs",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Alcal%C3%A1%2C%20Madrid",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Alcal%C3%A1",
+        "photo": null,
+        "description": "Alcalá, Alcalà or Alcala may refer to:",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "madrid-night_clubs-18",
+        "name": "2015 Romanian protests",
+        "cityId": "madrid",
+        "categoryId": "night_clubs",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=2015%20Romanian%20protests%2C%20Madrid",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/2015_Romanian_protests",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/%22Corruption_Kills%22_%2822909992136%29.jpg/960px-%22Corruption_Kills%22_%2822909992136%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/2015_Romanian_protests"
+        },
+        "description": "The 2015 Romanian protests began on 3 November, following the Colectiv nightclub fire, when more than 15,000 people protested in front of Victoria Palace—the headquarters of the Romanian government—blocking traffic in Victory Square. The protesters demanded the resignations of Prime Minister Victor Ponta and Minister Gabriel Oprea, who they claimed fostered corruption which led to the disaster. They also called for t",
+        "lat": null,
+        "lng": null
+      }
+    ],
+    "restaurants": [
+      {
+        "id": "madrid-restaurants-1",
+        "name": "Telepizza",
+        "cityId": "madrid",
+        "categoryId": "restaurants",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Telepizza%2C%20Madrid",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Telepizza",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/St%C4%85giewna_Gda%C5%84sk_Telepizza.jpg/960px-St%C4%85giewna_Gda%C5%84sk_Telepizza.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Telepizza"
+        },
+        "description": "Telepizza (Spanish pronunciation: [teleˈpitsa]) is a Spanish multinational pizza restaurant chain. As of 2017 it is the largest pizza chain not originating in North America by number of stores.",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "madrid-restaurants-2",
+        "name": "AmRest",
+        "cityId": "madrid",
+        "categoryId": "restaurants",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=AmRest%2C%20Madrid",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/AmRest",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/en/thumb/1/18/AmRest_logo.svg/960px-AmRest_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/AmRest"
+        },
+        "description": "AmRest Holdings SE is a European multinational casual dining, fast-food restaurant and coffee shop operator headquartered in the Spanish capital, Madrid. The company runs more than 2300 locations, mostly franchises of KFC, Pizza Hut and Starbucks, and also Burger King until 2022, but also operates its own brands of restaurants. Apart from Spain, AmRest operates in Bulgaria, China, Croatia, the Czech Republic, France,",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "madrid-restaurants-3",
+        "name": "El Descanso bombing",
+        "cityId": "madrid",
+        "categoryId": "restaurants",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=El%20Descanso%20bombing%2C%20Madrid",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/El_Descanso_bombing",
+        "photo": null,
+        "description": "On 12 April 1985, the El Descanso restaurant in Torrejon de Ardoz outside Madrid, Spain, was bombed in a terrorist attack. The explosion caused the three-story building to collapse, crashing down on about 200 diners and employees, killing 18 people, all Spanish citizens, and injuring 82 others, including eleven Americans working at the nearby Torrejón Air Base who frequented the restaurant. At the time it was the dea",
+        "lat": 40.44891667,
+        "lng": -3.549
+      },
+      {
+        "id": "madrid-restaurants-4",
+        "name": "Cafetería Rolando bombing",
+        "cityId": "madrid",
+        "categoryId": "restaurants",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Cafeter%C3%ADa%20Rolando%20bombing%2C%20Madrid",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Cafeter%C3%ADa_Rolando_bombing",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/Calle_del_Correo_%28Madrid%29_01.jpg/960px-Calle_del_Correo_%28Madrid%29_01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Cafeter%C3%ADa_Rolando_bombing"
+        },
+        "description": "The Cafetería Rolando bombing was an attack on 13 September 1974 at the Rolando cafe in Calle del Correo, Madrid, Spain which killed 13 people and wounded 71. Though no claim of responsibility was made, the attack is widely believed to have been carried out by the armed Basque separatist group ETA.",
+        "lat": 40.41611111,
+        "lng": -3.70416667
+      },
+      {
+        "id": "madrid-restaurants-5",
+        "name": "Chozas de Canales",
+        "cityId": "madrid",
+        "categoryId": "restaurants",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Chozas%20de%20Canales%2C%20Madrid",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Chozas_de_Canales",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Chozas_de_Canales%2C_Ayuntamiento.jpg/960px-Chozas_de_Canales%2C_Ayuntamiento.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Chozas_de_Canales"
+        },
+        "description": "Chozas de Canales is a small farming village and municipality in the province of Toledo, part of the autonomous community of Castile-La Mancha, Spain. With improved road links from the national capital Madrid to the north, the village has doubled in size (1995–2005), with new chalets being built. The village now has a supermarket and a restaurant that opens in the evenings. But the old part of the village still has a",
+        "lat": 40.09833333,
+        "lng": -4.04277778
+      },
+      {
+        "id": "madrid-restaurants-6",
+        "name": "Sobrino de Botín",
+        "cityId": "madrid",
+        "categoryId": "restaurants",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Sobrino%20de%20Bot%C3%ADn%2C%20Madrid",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Sobrino_de_Bot%C3%ADn",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Casa_Bot%C3%ADn_2.JPG/960px-Casa_Bot%C3%ADn_2.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Sobrino_de_Bot%C3%ADn"
+        },
+        "description": "Sobrino de Botín is a restaurant in Madrid, Spain. It is listed in the Guinness Book of Records as the oldest in the world, said to have been founded in 1725 by French cook Jean Botín and his Asturian wife and to have been operating continuously ever since. This is a legend; the restaurant, then called \"Pastelería de Cándido Remis, Sobrino de Botín\", opened in 1865. However, the restaurant had to close during the COV",
+        "lat": 40.4142,
+        "lng": -3.70796
+      },
+      {
+        "id": "madrid-restaurants-7",
+        "name": "Basque cuisine",
+        "cityId": "madrid",
+        "categoryId": "restaurants",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Basque%20cuisine%2C%20Madrid",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Basque_cuisine",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Pinchos_txaka_bonito.jpg/960px-Pinchos_txaka_bonito.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Basque_cuisine"
+        },
+        "description": "Basque cuisine refers to the cuisine of the Basque Country and includes meats and fish grilled over hot coals, marmitako and lamb stews, cod, Tolosa bean dishes, paprikas from Lekeitio, pintxos (Basque tapas), Idiazabal sheep's cheese, txakoli (sparkling white wine), and Basque cider. A basquaise is a type of dish prepared in the style of Basque cuisine that often includes tomatoes and sweet or hot red peppers.",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "madrid-restaurants-8",
+        "name": "Lhardy",
+        "cityId": "madrid",
+        "categoryId": "restaurants",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Lhardy%2C%20Madrid",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Lhardy",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/Restaurante_Lhardy-2009.jpg/960px-Restaurante_Lhardy-2009.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Lhardy"
+        },
+        "description": "Lhardy is a restaurant located in Madrid, Spain, opened in 1839 by Emilio Huguenin Lhardy. It was said to have introduced French haute cuisine to Madrid in the style of Parisian cuisine. Lhardy has a deli and takeaway service on the ground floor and a formal restaurant on the second floor. Lhardy is one of the oldest restaurants in Madrid, and has been described as the first luxury restaurant in the city. Founder Emi",
+        "lat": 40.41666667,
+        "lng": -3.70138889
+      },
+      {
+        "id": "madrid-restaurants-9",
+        "name": "Joël Robuchon",
+        "cityId": "madrid",
+        "categoryId": "restaurants",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Jo%C3%ABl%20Robuchon%2C%20Madrid",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Jo%C3%ABl_Robuchon",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Jo%C3%ABl_Robuchon.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Jo%C3%ABl_Robuchon"
+        },
+        "description": "Joël Robuchon (French pronunciation: [ʒɔɛl ʁɔbyʃɔ̃], 7 April 1945 – 6 August 2018) was a French chef and restaurateur. He was named \"Chef of the Century\" by the guide Gault Millau in 1989, and awarded the Meilleur Ouvrier de France (France's best worker) in cuisine in 1976. He published several cookbooks, two of which have been translated into English, chaired the committee for the Larousse Gastronomique, and hosted ",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "madrid-restaurants-10",
+        "name": "Spanish cuisine",
+        "cityId": "madrid",
+        "categoryId": "restaurants",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Spanish%20cuisine%2C%20Madrid",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Spanish_cuisine",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Gran_paella.jpg/960px-Gran_paella.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Spanish_cuisine"
+        },
+        "description": "Spanish cuisine (Spanish: cocina española) consists of the traditions and practices of Spanish cooking. It features considerable regional diversity, with significant differences in different parts of the country. The different culinary traditions in the Iberian Peninsula can be roughly categorized within the Mediterranean diet or the Atlantic diet. Olive oil (of which Spain is the world's largest producer) is extensi",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "madrid-restaurants-11",
+        "name": "David Muñoz",
+        "cityId": "madrid",
+        "categoryId": "restaurants",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=David%20Mu%C3%B1oz%2C%20Madrid",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/David_Mu%C3%B1oz_(chef)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/David_Mu%C3%B1oz_2015_%28cropped%29.jpg/960px-David_Mu%C3%B1oz_2015_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/David_Mu%C3%B1oz_(chef)"
+        },
+        "description": "David Muñoz Rosillo (born 15 January 1980), also known as Dabiz Muñoz, is a Spanish chef specializing in avant-garde cuisine. He is the owner and head chef of DiverXO, which is the only restaurant in Madrid with three Michelin stars as of 2025. He was named the \"Best Chef in the World\" by The Best Chef Awards for three consecutive years (2021, 2022, and 2023).",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "madrid-restaurants-12",
+        "name": "Alberto Chicote",
+        "cityId": "madrid",
+        "categoryId": "restaurants",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Alberto%20Chicote%2C%20Madrid",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Alberto_Chicote",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Carnival_de_Madrid_2025_-_Alberto_Chicote_%28cropped%29.jpg/960px-Carnival_de_Madrid_2025_-_Alberto_Chicote_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Alberto_Chicote"
+        },
+        "description": "Alberto Chicote del Olmo (born 23 June 1969), is a Spanish celebrity chef, restaurateur and TV presenter. He is known for mixing traditional cuisine with new technology, pioneering the so-called fusion cuisine: mixing foreign, mainly Asian, products and techniques with Spanish cuisine. He makes frequent appearances at gastronomic conferences (some as Madrid Fusion), as well as presentations, demonstrations and master",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "madrid-restaurants-13",
+        "name": "Contamina",
+        "cityId": "madrid",
+        "categoryId": "restaurants",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Contamina%2C%20Madrid",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Contamina",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/94/Contamina_desde_el_r%C3%ADo_Jal%C3%B3n.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Contamina"
+        },
+        "description": "Contamina is a municipality located in the province of Zaragoza, Aragón, Spain to the west of the Sierra de Padros, in the upper valley of the river Jalón, a tributary of the Ebro. At the 2008 census (Instituto Nacional de Estadística) the municipality had a population of 42 inhabitants. In 1930 the population was 252. The 16th-century parish church is dedicated to St Bartholomew and is constructed in the baroque sty",
+        "lat": 41.3,
+        "lng": -1.91666667
+      },
+      {
+        "id": "madrid-restaurants-14",
+        "name": "Zuma",
+        "cityId": "madrid",
+        "categoryId": "restaurants",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Zuma%2C%20Madrid",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Zuma_(restaurant)",
+        "photo": null,
+        "description": "Zuma is a chain of Japanese izakaya-style restaurants founded in 2002 by Rainer Becker and Arjun Waney. The first Zuma location opened in the Knightsbridge area of London, with a concept developed by Becker during his six years working in Tokyo, where he immersed himself in Japanese cuisine and culture. The restaurant features three kitchens: the main kitchen, the sushi counter, and the robata grill. Zuma has expande",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "madrid-restaurants-15",
+        "name": "Volver",
+        "cityId": "madrid",
+        "categoryId": "restaurants",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Volver%2C%20Madrid",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Volver",
+        "photo": null,
+        "description": "Volver (Spanish pronunciation: [bolˈβeɾ]; lit. 'To return') is a 2006 Spanish comedy-drama film written and directed by Pedro Almodóvar. The film features an ensemble cast that includes Penélope Cruz, Carmen Maura, Lola Dueñas, Blanca Portillo, Yohana Cobo, and Chus Lampreave. Revolving around an eccentric family of women from a wind-swept region south of Madrid, Cruz stars as Raimunda, a working-class woman forced t",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "madrid-restaurants-16",
+        "name": "Pesadilla en la cocina",
+        "cityId": "madrid",
+        "categoryId": "restaurants",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Pesadilla%20en%20la%20cocina%2C%20Madrid",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Pesadilla_en_la_cocina",
+        "photo": null,
+        "description": "Pesadilla en la cocina (English: Nightmare in the kitchen) is a Spanish food reality television program hosted by chef Alberto Chicote. It airs on laSexta, and is the Spanish adaptation of the Ramsay's Kitchen Nightmares franchise.",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "madrid-restaurants-17",
+        "name": "Julian Serrano",
+        "cityId": "madrid",
+        "categoryId": "restaurants",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Julian%20Serrano%2C%20Madrid",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Julian_Serrano",
+        "photo": null,
+        "description": "Julian Serrano is a Spanish chef who lives and works in the United States. He first gained attention in San Francisco and was later active in Las Vegas until his 2025 retirement.",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "madrid-restaurants-18",
+        "name": "Foster's Hollywood",
+        "cityId": "madrid",
+        "categoryId": "restaurants",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Foster's%20Hollywood%2C%20Madrid",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Foster's_Hollywood",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Foster%27s_Hollywood%2C_Pozuelo_de_Alarc%C3%B3n%2C_Madrid%2C_Spain.jpg/960px-Foster%27s_Hollywood%2C_Pozuelo_de_Alarc%C3%B3n%2C_Madrid%2C_Spain.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Foster's_Hollywood"
+        },
+        "description": "Foster's Hollywood is a chain of casual dining American food restaurants located in Spain and Portugal, serving hamburgers and Tex-Mex cuisine. As of 2026, it operates 198 locations.",
+        "lat": null,
+        "lng": null
+      }
+    ],
+    "bars": [
+      {
+        "id": "madrid-bars-1",
+        "name": "Madrid Williams",
+        "cityId": "madrid",
+        "categoryId": "bars",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Madrid%20Williams%2C%20Madrid",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Madrid_Williams",
+        "photo": null,
+        "description": "Madrid Loyd Williams (January 16, 1911 – 1993; MAY-drid) was an American executive who, despite never finishing high school or attending college, served as executive director of the Georgia Bar Association. She was known as the \"first lady\" of the State Bar.",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "madrid-bars-2",
+        "name": "Km. 0",
+        "cityId": "madrid",
+        "categoryId": "bars",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Km.%200%2C%20Madrid",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Km._0",
+        "photo": null,
+        "description": "Km. 0 is a 2000 film Spanish directed by Yolanda García Serrano and Juan Luis Iborra. The plot concerns about several intertwining stories of mistaken identity and coincidental meetings (that may not be coincidental) that take place near the Kilometre Zero marker in the Puerta del Sol in Madrid.",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "madrid-bars-3",
+        "name": "Jesús Carballo",
+        "cityId": "madrid",
+        "categoryId": "bars",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Jes%C3%BAs%20Carballo%2C%20Madrid",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Jes%C3%BAs_Carballo",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/Jes%C3%BAs_Carballo_Mart%C3%ADnez_2016.jpg/960px-Jes%C3%BAs_Carballo_Mart%C3%ADnez_2016.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Jes%C3%BAs_Carballo"
+        },
+        "description": "Jesús Carballo (born 26 November 1976) is a Spanish former gymnast. He is a two-time World Champion on horizontal bar. Carballo represented Spain at the 1996 and 2004 Summer Olympics. He reached the horizontal bar final at the 1996 Olympics and finished in seventh place. At the 1996 World Championships, Carballo won the gold medal on horizontal bar, marking Spain's first World Championship medal. He won a second Worl",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "madrid-bars-4",
+        "name": "The Bar",
+        "cityId": "madrid",
+        "categoryId": "bars",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Bar%2C%20Madrid",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/The_Bar_(film)",
+        "photo": null,
+        "description": "The Bar (Spanish: El bar) is a 2017 black comedy thriller film directed, produced, and co-written by Álex de la Iglesia. Set in Madrid, it has the ensemble cast typical of its director, led by Blanca Suárez, Mario Casas, Carmen Machi, Secun de la Rosa, Jaime Ordóñez, Terele Pávez, Joaquín Climent, and Alejandro Awada. It is a Spanish-Argentine co-production. The Bar was screened out of competition at the 67th Berlin ",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "madrid-bars-5",
+        "name": "Montenegrin basketball clubs in European competitions",
+        "cityId": "madrid",
+        "categoryId": "bars",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Montenegrin%20basketball%20clubs%20in%20European%20competitions%2C%20Madrid",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Montenegrin_basketball_clubs_in_European_competitions",
+        "photo": null,
+        "description": "Clubs from Montenegro are playing in European basketball competitions since the 1980s. Until 2006, they represented SFR Yugoslavia and FR Yugoslavia. Almost all European seasons by Montenegrin clubs are played by KK Budućnost. Exceptions are two single seasons in European competitions played by KK Lovćen Cetinje and KK Mornar Bar. Most successful period was end of the 1990s and beginning of the 21st century. At that ",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "madrid-bars-6",
+        "name": "El Clásico",
+        "cityId": "madrid",
+        "categoryId": "bars",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=El%20Cl%C3%A1sico%2C%20Madrid",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/El_Cl%C3%A1sico",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Final_SuperCopa_ESP_2011_%286056383408%29.jpg/960px-Final_SuperCopa_ESP_2011_%286056383408%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/El_Cl%C3%A1sico"
+        },
+        "description": "El Clásico (in Spanish, also in lowercase letters; Spanish pronunciation: [el ˈklasiko]) or El Clàssic (in Catalan, pronounced [əl ˈklasik]), both meaning \"The Classic\", is the name given to any football match between rival clubs Barcelona and Real Madrid. Originally referring to competitions held in the Spanish championship, the term now includes every match between the clubs, such as those in the UEFA Champions Lea",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "madrid-bars-7",
+        "name": "Dos de Mayo Uprising",
+        "cityId": "madrid",
+        "categoryId": "bars",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Dos%20de%20Mayo%20Uprising%2C%20Madrid",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Dos_de_Mayo_Uprising",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/El_dos_de_mayo_de_1808_en_Madrid.jpg/960px-El_dos_de_mayo_de_1808_en_Madrid.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Dos_de_Mayo_Uprising"
+        },
+        "description": "The Dos de Mayo or Second of May Uprising took place in Madrid, Spain, on 2–3 May 1808. The rebellion, mainly by civilians, with some isolated military action by junior officers, was against the occupation of the city by French troops, and was violently repressed by the French Imperial forces, with hundreds of public executions. These actions led to the Spanish people revolting against French occupation and outbreak ",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "madrid-bars-8",
+        "name": "1991 Madrilenian regional election",
+        "cityId": "madrid",
+        "categoryId": "bars",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=1991%20Madrilenian%20regional%20election%2C%20Madrid",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/1991_Madrilenian_regional_election",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Ruiz_Gallard%C3%B3n_2005.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/1991_Madrilenian_regional_election"
+        },
+        "description": "A regional election was held in the Community of Madrid on 26 May 1991 to elect the 3rd Assembly of the autonomous community. All 101 seats in the Assembly were up for election. It was held concurrently with regional elections in twelve other autonomous communities and local elections all across Spain. The election saw the electoral collapse of the Democratic and Social Centre (CDS), which fell below the 5% threshold",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "madrid-bars-9",
+        "name": "Ramón Calderón",
+        "cityId": "madrid",
+        "categoryId": "bars",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Ram%C3%B3n%20Calder%C3%B3n%2C%20Madrid",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Ram%C3%B3n_Calder%C3%B3n",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Entrevista_Ram%C3%B3n_Calder%C3%B3n.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Ram%C3%B3n_Calder%C3%B3n"
+        },
+        "description": "José Ramón Calderón Ramos (born 26 May 1951) is a Spanish lawyer who is the former President of Real Madrid. He got his Law Degree in the University of Navarra, Spain in 1974 and he worked in London, England, as a lawyer, in 1975 and 1976. A member of the Madrid Bar Association since 1976, Calderón opened his Law Firm: Calderon Abogados, where he has been working during the last 40 years.",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "madrid-bars-10",
+        "name": "1999 Madrilenian regional election",
+        "cityId": "madrid",
+        "categoryId": "bars",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=1999%20Madrilenian%20regional%20election%2C%20Madrid",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/1999_Madrilenian_regional_election",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Ruiz_Gallard%C3%B3n_2005.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/1999_Madrilenian_regional_election"
+        },
+        "description": "A regional election was held in the Community of Madrid on 13 June 1999 to elect the 5th Assembly of the autonomous community. All 102 seats in the Assembly were up for election. It was held concurrently with regional elections in twelve other autonomous communities and local elections all across Spain, as well as the 1999 European Parliament election. While the People's Party (PP) of Alberto Ruiz-Gallardón was widel",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "madrid-bars-11",
+        "name": "1995 Madrilenian regional election",
+        "cityId": "madrid",
+        "categoryId": "bars",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=1995%20Madrilenian%20regional%20election%2C%20Madrid",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/1995_Madrilenian_regional_election",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Ruiz_Gallard%C3%B3n_2005.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/1995_Madrilenian_regional_election"
+        },
+        "description": "A regional election was held in the Community of Madrid on 28 May 1995 to elect the 4th Assembly of the autonomous community. All 103 seats in the Assembly were up for election. It was held concurrently with regional elections in twelve other autonomous communities and local elections all across Spain. The election resulted in the People's Party (PP) winning an absolute majority of votes and seats for the first time,",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "madrid-bars-12",
+        "name": "1983 Madrilenian regional election",
+        "cityId": "madrid",
+        "categoryId": "bars",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=1983%20Madrilenian%20regional%20election%2C%20Madrid",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/1983_Madrilenian_regional_election",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/%28Leguina%29_Felipe_Gonz%C3%A1lez_recibe_al_presidente_de_la_Comunidad_de_Madrid_%28cropped%29_%28cropped%29.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/1983_Madrilenian_regional_election"
+        },
+        "description": "A regional election was held in the Community of Madrid on 8 May 1983 to elect the 1st Assembly of the autonomous community. All 94 seats in the Assembly were up for election. It was held concurrently with regional elections in twelve other autonomous communities and local elections all across Spain. The election resulted in a landslide victory for the Spanish Socialist Workers' Party (PSOE), the only time to date th",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "madrid-bars-13",
+        "name": "2008 PSOE federal party congress",
+        "cityId": "madrid",
+        "categoryId": "bars",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=2008%20PSOE%20federal%20party%20congress%2C%20Madrid",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/2008_PSOE_federal_party_congress",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/38/Jos%C3%A9_Luis_Rodr%C3%ADguez_Zapatero_2009b_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/2008_PSOE_federal_party_congress"
+        },
+        "description": "The Spanish Socialist Workers' Party (PSOE) held its 37th federal congress in Madrid from 4 to 6 July 2008, to renovate its governing bodies—including the post of secretary-general, which amounted to that of party leader—and establish the party platform and policy until the next congress. It was held shortly after the party's victory in the 2008 general election and saw José Luis Rodríguez Zapatero being re-elected u",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "madrid-bars-14",
+        "name": "1953–54 La Liga",
+        "cityId": "madrid",
+        "categoryId": "bars",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=1953%E2%80%9354%20La%20Liga%2C%20Madrid",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/1953%E2%80%9354_La_Liga",
+        "photo": null,
+        "description": "The 1953–54 La Liga was the 23rd season since its establishment. Real Madrid conquered their third title, 21 years after their last one.",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "madrid-bars-15",
+        "name": "Lacrosse in Spain",
+        "cityId": "madrid",
+        "categoryId": "bars",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Lacrosse%20in%20Spain%2C%20Madrid",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Lacrosse_in_Spain",
+        "photo": null,
+        "description": "Lacrosse in Spain has its origins in the 2000s in Madrid. It is currently governed by the Spanish Lacrosse Association.",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "madrid-bars-16",
+        "name": "Battle of Majadahonda",
+        "cityId": "madrid",
+        "categoryId": "bars",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Battle%20of%20Majadahonda%2C%20Madrid",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Battle_of_Majadahonda",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Bataille_de_Majadahonda_Deuxi%C3%A8me_phase.svg/960px-Bataille_de_Majadahonda_Deuxi%C3%A8me_phase.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Battle_of_Majadahonda"
+        },
+        "description": "The Battle of Majadahonda (11 August 1812) saw an Imperial French cavalry division led by Anne-François-Charles Trelliard attack two brigades of cavalry under Benjamin D'Urban and forming the advance guard of Arthur Wellesley, Earl of Wellington's army. Trelliard's leading brigade routed D'Urban's Portuguese horsemen and overran three British cannons. King's German Legion (KGL) cavalry led by Eberhardt Otto George vo",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "madrid-bars-17",
+        "name": "2004 PSOE federal party congress",
+        "cityId": "madrid",
+        "categoryId": "bars",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=2004%20PSOE%20federal%20party%20congress%2C%20Madrid",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/2004_PSOE_federal_party_congress",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/44/Jos%C3%A9_Luis_Rodr%C3%ADguez_Zapatero_2004b_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/2004_PSOE_federal_party_congress"
+        },
+        "description": "The Spanish Socialist Workers' Party (PSOE) held its 36th federal congress in Madrid from 2 to 4 July 2004, to renovate its governing bodies—including the post of secretary-general, which amounted to that of party leader—and establish the party platform and policy until the next congress. It was held shortly after the party's victory in the 2004 general election and saw José Luis Rodríguez Zapatero being re-elected u",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "madrid-bars-18",
+        "name": "1873 Spanish general election",
+        "cityId": "madrid",
+        "categoryId": "bars",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=1873%20Spanish%20general%20election%2C%20Madrid",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/1873_Spanish_general_election",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/64/Pi_i_Margall_1869_cropped.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/1873_Spanish_general_election"
+        },
+        "description": "A general election was held in Spain from 10 to 13 May 1873 to elect the members of the Constituent Cortes in the First Spanish Republic. 406 of 424 seats in the Cortes were up for election. The election in Cuba was indefinitely postponed. The election was held with universal male suffrage. It was held in very unorthodox conditions and drew a very low voter turnout, as neither the Carlist or Alfonsist monarchists par",
+        "lat": null,
+        "lng": null
+      }
+    ],
+    "coffee_shops": [
+      {
+        "id": "madrid-coffee_shops-1",
+        "name": "Café Gijón",
+        "cityId": "madrid",
+        "categoryId": "coffee_shops",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Caf%C3%A9%20Gij%C3%B3n%2C%20Madrid",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Caf%C3%A9_Gij%C3%B3n",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Caf%C3%A9_Gij%C3%B3n.jpg/960px-Caf%C3%A9_Gij%C3%B3n.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Caf%C3%A9_Gij%C3%B3n"
+        },
+        "description": "Café Gijón (Also known as Gran Café de Gijón) is a culturally significant coffeehouse situated at No. 21, in the boulevard of central Madrid, Spain, which is known as Paseo de Recoletos. The café is opposite both a railway station of the same name and the National Library of Spain (BNE). The terrace in front is on the central walkway of the Paseo.",
+        "lat": 40.42231944,
+        "lng": -3.69224722
+      },
+      {
+        "id": "madrid-coffee_shops-2",
+        "name": "Cafetería Rolando bombing",
+        "cityId": "madrid",
+        "categoryId": "coffee_shops",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Cafeter%C3%ADa%20Rolando%20bombing%2C%20Madrid",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Cafeter%C3%ADa_Rolando_bombing",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/Calle_del_Correo_%28Madrid%29_01.jpg/960px-Calle_del_Correo_%28Madrid%29_01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Cafeter%C3%ADa_Rolando_bombing"
+        },
+        "description": "The Cafetería Rolando bombing was an attack on 13 September 1974 at the Rolando cafe in Calle del Correo, Madrid, Spain which killed 13 people and wounded 71. Though no claim of responsibility was made, the attack is widely believed to have been carried out by the armed Basque separatist group ETA.",
+        "lat": 40.41611111,
+        "lng": -3.70416667
+      },
+      {
+        "id": "madrid-coffee_shops-3",
+        "name": "Real Madrid fan club massacres",
+        "cityId": "madrid",
+        "categoryId": "coffee_shops",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Real%20Madrid%20fan%20club%20massacres%2C%20Madrid",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Real_Madrid_fan_club_massacres",
+        "photo": null,
+        "description": "On 13 May 2016, a group of militants armed with AK-47s attacked a cafe in Balad, Iraq, frequented by supporters of the Spanish football club Real Madrid. The Islamic State (IS) claimed responsibility for the attack. At least 16 people were killed and at least 30 were wounded. On 29 May 2016, IS gunmen and a suicide bomber attacked another Real Madrid fan club in the same area, killing at least 12 people and injuring ",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "madrid-coffee_shops-4",
+        "name": "AMC Networks International Southern Europe",
+        "cityId": "madrid",
+        "categoryId": "coffee_shops",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=AMC%20Networks%20International%20Southern%20Europe%2C%20Madrid",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/AMC_Networks_International_Southern_Europe",
+        "photo": null,
+        "description": "AMC Networks International Southern Europe (formerly AMC Networks International Iberia, Chello Multicanal and Multicanal) is a Madrid, Spain-based television company, owned by AMC Networks International. In April 2010, it closed the purchase of Teuve, the producer and distributor of thematic channels 100% owned by ONO, incorporating new channels into its offer. They operate channels under 26 channels (11 in HD and 3 ",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "madrid-coffee_shops-5",
+        "name": "Café Comercial",
+        "cityId": "madrid",
+        "categoryId": "coffee_shops",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Caf%C3%A9%20Comercial%2C%20Madrid",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Caf%C3%A9_Comercial",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Glorieta_de_Bilbao_Cafe_Comercial_DSC00185.JPG/960px-Glorieta_de_Bilbao_Cafe_Comercial_DSC00185.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Caf%C3%A9_Comercial"
+        },
+        "description": "The Café Comercial is a café located at the Glorieta de Bilbao in central Madrid, Spain. It is one of the city's oldest cafés, founded 21 March 1887 in the era of the Bourbon Restoration in Spain. It was a center for literary tertulias in the period following the Spanish Civil War. A remnant of Madrid's golden age, it was also one of the first Madrid cafés to employ women among those serving tables.",
+        "lat": 40.42863889,
+        "lng": -3.70205556
+      },
+      {
+        "id": "madrid-coffee_shops-6",
+        "name": "Modern chess",
+        "cityId": "madrid",
+        "categoryId": "coffee_shops",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Modern%20chess%2C%20Madrid",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Modern_chess",
+        "photo": null,
+        "description": "Modern chess is a chess variant played on a 9×9 board. The game was invented by Gabriel Vicente Maura in 1968. Besides the usual set of chess pieces, each player has a prime minister, which can move both like a bishop and a knight, and an additional pawn. The first match was played in Madrid at Escuela de Bellas Artes de San Fernando's cafe on March 18, 1968. The players were Gabriel Vicente Maura himself (White), an",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "madrid-coffee_shops-7",
+        "name": "Lambert's Cafe",
+        "cityId": "madrid",
+        "categoryId": "coffee_shops",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Lambert's%20Cafe%2C%20Madrid",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Lambert's_Cafe",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/LambertsCafeAlJul07.jpg/960px-LambertsCafeAlJul07.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Lambert's_Cafe"
+        },
+        "description": "Lambert's Cafe is a US restaurant chain with locations in Foley, Alabama; Sikeston, Missouri; and Ozark, Missouri. It was founded in 1942. It is known for throwing hot rolls to the customers. It features Southern or country cooking (fried chicken, catfish, etc.); a variety of side dishes, called \"pass arounds\", are brought to the table to accompany each meal. The restaurants have been cited as a prime example of \"roa",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "madrid-coffee_shops-8",
+        "name": "Carrefour City",
+        "cityId": "madrid",
+        "categoryId": "coffee_shops",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Carrefour%20City%2C%20Madrid",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Carrefour_City",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/en/2/2b/Carrefour_City_logo.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Carrefour_City"
+        },
+        "description": "Carrefour City is a French chain of local convenience stores created in 2009 by the Carrefour Group with locations in five countries: France, Belgium, Spain, UAE and Israel. Carrefour City stores are convenience stores in city centers, all of these stores are open six days a week.",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "madrid-coffee_shops-9",
+        "name": "Aigua de València",
+        "cityId": "madrid",
+        "categoryId": "coffee_shops",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Aigua%20de%20Val%C3%A8ncia%2C%20Madrid",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Aigua_de_Val%C3%A8ncia",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/Agua_de_Valencia%27s_glass.png/960px-Agua_de_Valencia%27s_glass.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Aigua_de_Val%C3%A8ncia"
+        },
+        "description": "Valencian Water (Valencian: aigua de València) is a cocktail made from a base of cava or champagne, orange juice, vodka and gin. In general, it is served in pitchers of various sizes and is consumed from a broad cocktail glass. It was made for the first time in 1959 by Constante Gil in the bar Café Madrid de Valencia in the city of Valencia, Spain. According to the writer María Ángeles Arazo in her book Valencia Noch",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "madrid-coffee_shops-10",
+        "name": "7 vidas",
+        "cityId": "madrid",
+        "categoryId": "coffee_shops",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=7%20vidas%2C%20Madrid",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/7_vidas",
+        "photo": null,
+        "description": "7 Vidas is a Spanish television series set in Madrid that aired on Telecinco from 1999 to 2006. Its title translates as \"7 Lives\" and the symbol of the sitcom is a cat, in reference to the belief that cats have 7 Lives (in contrast to English-speaking countries, where they are believed to have nine lives). Originally inspired by the American blockbuster Friends, it was not a big ratings hit initially, but over time, ",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "madrid-coffee_shops-11",
+        "name": "Café Moderno",
+        "cityId": "madrid",
+        "categoryId": "coffee_shops",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Caf%C3%A9%20Moderno%2C%20Madrid",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Caf%C3%A9_Moderno_(Pontevedra)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/Pontevedra_-_Caf%C3%A9_Moderno_Afundaci%C3%B3n_Pontevedra_1.JPG/960px-Pontevedra_-_Caf%C3%A9_Moderno_Afundaci%C3%B3n_Pontevedra_1.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Caf%C3%A9_Moderno_(Pontevedra)"
+        },
+        "description": "The Café Moderno (Modern Coffee) is an art nouveau and eclectic building located in St. Joseph's Square in Pontevedra, Spain. It is the building with the most important Art Nouveau interior in the city. It is currently the headquarters of one of the socio-cultural centres of Pontevedra Afundación, owned by the Abanca bank.",
+        "lat": 42.43086111,
+        "lng": -8.64744444
+      },
+      {
+        "id": "madrid-coffee_shops-12",
+        "name": "Parque de Atracciones de Madrid",
+        "cityId": "madrid",
+        "categoryId": "coffee_shops",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Parque%20de%20Atracciones%20de%20Madrid%2C%20Madrid",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Parque_de_Atracciones_de_Madrid",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Entrada_Parque_de_Atracciones_de_Madrid.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Parque_de_Atracciones_de_Madrid"
+        },
+        "description": "Parque de Atracciones de Madrid (in English: Madrid’s Amusement Park) is a 20-hectare (49-acre) amusement park located in the Casa de Campo in Madrid (Spain). Opened in 1969, it is the third-oldest operating amusement park in Spain behind Parc d'Atraccions Tibidabo (opened in 1901) and Parque de Atracciones Monte Igueldo (opened in 1911). It is the flagship park of Parques Reunidos, which operates the park under Madr",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "madrid-coffee_shops-13",
+        "name": "Telecinco",
+        "cityId": "madrid",
+        "categoryId": "coffee_shops",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Telecinco%2C%20Madrid",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Telecinco",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/Telecinco_2024_Logo.svg/960px-Telecinco_2024_Logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Telecinco"
+        },
+        "description": "Telecinco is a Spanish free-to-air television channel operated by Mediaset España. The channel was previously known as Tele 5, because it had first begun its experimental transmissions on 10 March 1989, and a year later, it was officially launched on 3 March 1990, becoming the fifth of the national terrestrial television channels and the second private channel in Spain. In 1997, Tele 5 was rebranded as Telecinco, dro",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "madrid-coffee_shops-14",
+        "name": "Convento de Santo Tomás",
+        "cityId": "madrid",
+        "categoryId": "coffee_shops",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Convento%20de%20Santo%20Tom%C3%A1s%2C%20Madrid",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Convento_de_Santo_Tom%C3%A1s_(Madrid)",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Iglesia_de_Santo_Tom%C3%A1s_desde_la_plaza_de_Santa_Cruz%2C_Madrid_%28J._Laurent%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Convento_de_Santo_Tom%C3%A1s_(Madrid)"
+        },
+        "description": "The defunct Convento de Santo Tomás (also called Colegio de Atocha) was a set of buildings belonging to the Dominicans, under the patronage of St. Thomas Aquinas, in Madrid. It was located in the former Arrabal de Santa Cruz, showing its main facade to the Calle de Atocha. Its exact location is close to the current Plaza de Santa Cruz, occupying part of the site of the current Church of la Santa Cruz. It was erected ",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "madrid-coffee_shops-15",
+        "name": "Madrid",
+        "cityId": "madrid",
+        "categoryId": "coffee_shops",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Madrid%2C%20Madrid",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Madrid",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/Madrid_-_Sky_Bar_360%C2%BA_%28Hotel_Riu_Plaza_Espa%C3%B1a%29%2C_vistas_19.jpg/960px-Madrid_-_Sky_Bar_360%C2%BA_%28Hotel_Riu_Plaza_Espa%C3%B1a%29%2C_vistas_19.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Madrid"
+        },
+        "description": "Madrid is the capital and largest city of Spain. It had a population of over 3.4 million in the city proper in 2025, and a metropolitan area population of approximately 6.8 million. Madrid is the second-largest city in the European Union (EU), after Berlin, and its metropolitan area is the second-largest in the EU, after Paris. The municipality covers an area of 605.77 square kilometres (233.89 sq mi). Madrid lies on",
+        "lat": 40.4169,
+        "lng": -3.7033
+      },
+      {
+        "id": "madrid-coffee_shops-16",
+        "name": "The Parisian Life",
+        "cityId": "madrid",
+        "categoryId": "coffee_shops",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Parisian%20Life%2C%20Madrid",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/The_Parisian_Life_(painting)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/The_Parisian_Life_by_Juan_Luna.jpg/960px-The_Parisian_Life_by_Juan_Luna.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/The_Parisian_Life_(painting)"
+        },
+        "description": "The Parisian Life, also known as Interior d'un Cafi (also spelled Interior d’Un Café, literally meaning \"Inside a Café\"), is an oil on canvas impressionist painting made by Filipino painter and revolutionary activist Juan Luna in 1892. The painting presently owned by the Government Service Insurance System is currently exhibited at the National Museum of Fine Arts after the state pension fund transferred management o",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "madrid-coffee_shops-17",
+        "name": "Juan Gris",
+        "cityId": "madrid",
+        "categoryId": "coffee_shops",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Juan%20Gris%2C%20Madrid",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Juan_Gris",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/en/4/4f/Juan_Gris%2C_1922%2C_photograph_by_Man_Ray%2C_Paris._Gelatin_silver_print.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Juan_Gris"
+        },
+        "description": "José Victoriano González-Pérez (23 March 1887 – 11 May 1927), better known as Juan Gris (Spanish: [ˈxwaŋ ˈɡɾis]; French: [gʀi]), was a Spanish painter born in Madrid who lived and worked in France for most of his active period. Closely connected to the innovative artistic genre Cubism, his works are among the movement's most distinctive.",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "madrid-coffee_shops-18",
+        "name": "The Apartment",
+        "cityId": "madrid",
+        "categoryId": "coffee_shops",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Apartment%2C%20Madrid",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/The_Apartment_(1996_film)",
+        "photo": null,
+        "description": "The Apartment (French: L'Appartement) is a 1996 French drama film written and directed by Gilles Mimouni (in his directorial debut), and starring Romane Bohringer, Vincent Cassel, Jean-Philippe Écoffey and Monica Bellucci.",
+        "lat": null,
+        "lng": null
+      }
+    ],
+    "bookshops": [
+      {
+        "id": "madrid-bookshops-1",
+        "name": "Used bookstore",
+        "cityId": "madrid",
+        "categoryId": "bookshops",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Used%20bookstore%2C%20Madrid",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Used_bookstore",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/MADRID_060310_MXALX_105.jpg/960px-MADRID_060310_MXALX_105.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Used_bookstore"
+        },
+        "description": "Used bookstores (usually called second-hand bookshops in Great Britain) buy and sell used books and out-of-print books. A range of titles is available in used bookstores, including in print and out-of-print books. Book collectors tend to frequent used book stores. Large online bookstores offer used books for sale, too. Individuals wishing to sell their used books using online bookstores agree to terms outlined by the",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "madrid-bookshops-2",
+        "name": "Espasa-Calpe",
+        "cityId": "madrid",
+        "categoryId": "bookshops",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Espasa-Calpe%2C%20Madrid",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Espasa-Calpe",
+        "photo": null,
+        "description": "Espasa-Calpe was a Spanish publisher house which existed during the 20th century. It was created in 1925, by the union of Editorial Calpe, founded by Nicolás María de Urgoiti in 1918, and Editorial Espasa, founded by José and Pau Espasa i Anguera in 1860. The new house, named Espasa-Calpe, was owned by the paper manufacturing company Papelera Española and it became one of the most important publishers in Spain. Espas",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "madrid-bookshops-3",
+        "name": "Fondo de Cultura Económica",
+        "cityId": "madrid",
+        "categoryId": "bookshops",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Fondo%20de%20Cultura%20Econ%C3%B3mica%2C%20Madrid",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Fondo_de_Cultura_Econ%C3%B3mica",
+        "photo": null,
+        "description": "Fondo de Cultura Económica (FCE or simply \"Fondo\") is a Spanish language, non-profit publishing group, partly funded by the Mexican government. It is based in Mexico but it has subsidiaries throughout the Spanish-speaking world. It was founded in 1934 by Daniel Cosío Villegas with the original purpose of providing students of economics from the Escuela Nacional de Economía with specialized books in Spanish. Soon, it ",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "madrid-bookshops-4",
+        "name": "Grupo Planeta",
+        "cityId": "madrid",
+        "categoryId": "bookshops",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Grupo%20Planeta%2C%20Madrid",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Grupo_Planeta",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Madrid_-_Sede_del_diario_La_Raz%C3%B3n_%28calle_Josefa_Valc%C3%A1rcel_42%29_3.JPG/960px-Madrid_-_Sede_del_diario_La_Raz%C3%B3n_%28calle_Josefa_Valc%C3%A1rcel_42%29_3.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Grupo_Planeta"
+        },
+        "description": "Planeta Corporación, S.R.L., doing business as Grupo Planeta (lit. 'Planet Group'), is a Spanish mass media conglomerate operating in Spain, Portugal, France and Latin America. It is headquartered in Madrid. Editorial Planeta, founded in 1949, was the seed of Grupo Planeta, which includes many more publishing imprints as well as other media assets. Planeta is the primary shareholder of the media group Atresmedia (dom",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "madrid-bookshops-5",
+        "name": "Sex shop",
+        "cityId": "madrid",
+        "categoryId": "bookshops",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Sex%20shop%2C%20Madrid",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Sex_shop",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Sex-shops-on-boulevard-de-clichi.jpg/960px-Sex-shops-on-boulevard-de-clichi.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Sex_shop"
+        },
+        "description": "A sex shop is a retailer that sells products related to sexual or erotic entertainment, such as sex toys, lingerie, pornography, and other related products. An early precursor of the modern sex shop was a chain of stores set up in Paris in the 1920s by Léon Vidal, the founder of the lingerie manufacturing company Diana Slip. His shops sold erotic books and photographs as well as lingerie. Beate Uhse AG opened a sex s",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "madrid-bookshops-6",
+        "name": "Saint Louis University Madrid Campus",
+        "cityId": "madrid",
+        "categoryId": "bookshops",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Saint%20Louis%20University%20Madrid%20Campus%2C%20Madrid",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Saint_Louis_University_Madrid_Campus",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a6/SLU_Logo.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Saint_Louis_University_Madrid_Campus"
+        },
+        "description": "Saint Louis University—Madrid (SLU-Madrid) is a campus in Madrid, Spain, of Saint Louis University, a private Jesuit research university in St. Louis, Missouri. SLU-Madrid offers undergraduate and graduate degrees that can be completed in Spain or combined with studies at the St. Louis campus. It has over 1,300 students representing 75 nationalities.",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "madrid-bookshops-7",
+        "name": "Autonomous University of Madrid",
+        "cityId": "madrid",
+        "categoryId": "bookshops",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Autonomous%20University%20of%20Madrid%2C%20Madrid",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Autonomous_University_of_Madrid",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/Escudo_de_la_Universidad_Aut%C3%B3noma_de_Madrid.svg/960px-Escudo_de_la_Universidad_Aut%C3%B3noma_de_Madrid.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Autonomous_University_of_Madrid"
+        },
+        "description": "The Autonomous University of Madrid (Spanish: Universidad Autónoma de Madrid; UAM), commonly known as la Autónoma, is a Spanish public university located in Madrid, Spain. The university was founded in 1968 by royal decree. UAM is widely respected as one of the most prestigious universities in Europe. According to the QS World University Rankings 2022, UAM is ranked as the top university in Spain and has consistently",
+        "lat": 40.5453,
+        "lng": -3.69611
+      },
+      {
+        "id": "madrid-bookshops-8",
+        "name": "Bohemian Lights",
+        "cityId": "madrid",
+        "categoryId": "bookshops",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Bohemian%20Lights%2C%20Madrid",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Bohemian_Lights",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Luces_de_bohemia%2C_esperpento_1924.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Bohemian_Lights"
+        },
+        "description": "Bohemian Lights, or Luces de Bohemia in the original Spanish, is a play written by Ramón del Valle-Inclán, published in 1924. The central character is Max Estrella, a struggling poet afflicted by blindness due to developing syphilis. The play is a degenerated tragedy (esperpento) focusing on the troubles of the literary and artistic world in Spain under the Restoration. Through Max's poverty, ill fortune and eventual",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "madrid-bookshops-9",
+        "name": "Tigre Juan Award",
+        "cityId": "madrid",
+        "categoryId": "bookshops",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Tigre%20Juan%20Award%2C%20Madrid",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Tigre_Juan_Award",
+        "photo": null,
+        "description": "The Tigre Juan Award (Spanish: Premio Tigre Juan) is a Spanish literary award created in 1977 in honor of the novel Tigre Juan. El curandero de su honra by Ramón Pérez de Ayala. It is awarded to the best narrative work in Spanish published in the preceding year. It has had different sponsors: the founders, the Cervantes Bookstore, the Asturian Center, the City Council of Oviedo (1986–2009) and the Tribuna Ciudadana c",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "madrid-bookshops-10",
+        "name": "Francisco Acebal",
+        "cityId": "madrid",
+        "categoryId": "bookshops",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Francisco%20Acebal%2C%20Madrid",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Francisco_Acebal",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Francisco_Acebal%2C_de_Franzen%2C_Blanco_y_Negro%2C_12-01-1901.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Francisco_Acebal"
+        },
+        "description": "Francisco López Acebal (5 April 1866, in Gijón – 5 September 1933) was a Spanish novelist, playwright and journalist.",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "madrid-bookshops-11",
+        "name": "CosmoCaixa Barcelona",
+        "cityId": "madrid",
+        "categoryId": "bookshops",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=CosmoCaixa%20Barcelona%2C%20Madrid",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/CosmoCaixa_Barcelona",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/CosmoCaixa_building.jpg/960px-CosmoCaixa_building.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/CosmoCaixa_Barcelona"
+        },
+        "description": "CosmoCaixa Barcelona (Catalan pronunciation: [ˌkɔzmuˈkaʃə βəɾsəˈlonə]) is a science museum located in Barcelona, Catalonia, Spain. It features a variety of permanent and temporary exhibitions devoted to the environment, nature, science, and space. The museum is sponsored by \"La Caixa\" banking foundation. Formerly known as the Science Museum of Barcelona, it closed for renovations in 1998 and reopened in 2004 under it",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "madrid-bookshops-12",
+        "name": "José Canalejas y Méndez",
+        "cityId": "madrid",
+        "categoryId": "bookshops",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Jos%C3%A9%20Canalejas%20y%20M%C3%A9ndez%2C%20Madrid",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Jos%C3%A9_Canalejas_y_M%C3%A9ndez",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Jos%C3%A9_Canalejas_M%C3%A9ndez.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Jos%C3%A9_Canalejas_y_M%C3%A9ndez"
+        },
+        "description": "José Canalejas y Méndez (31 July 1854 – 12 November 1912) was a Spanish politician who served as Prime Minister of Spain from 1910 until his assassination in 1912.",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "madrid-bookshops-13",
+        "name": "Francisco Javier de Istúriz",
+        "cityId": "madrid",
+        "categoryId": "bookshops",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Francisco%20Javier%20de%20Ist%C3%BAriz%2C%20Madrid",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Francisco_Javier_de_Ist%C3%BAriz",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Francisco_Javier_de_Ist%C3%BAriz_%28Palacio_del_Senado_de_Espa%C3%B1a%29.jpg/960px-Francisco_Javier_de_Ist%C3%BAriz_%28Palacio_del_Senado_de_Espa%C3%B1a%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Francisco_Javier_de_Ist%C3%BAriz"
+        },
+        "description": "Francisco Javier de Istúriz y Montero (31 October 1785 in Cádiz – 2 April 1871 in Madrid) was a Spanish politician and diplomat who served as the Prime Minister of Spain. He also served as the President of the Senate and President of the Congress of Deputies several times.",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "madrid-bookshops-14",
+        "name": "Juan Antolínez de Burgos",
+        "cityId": "madrid",
+        "categoryId": "bookshops",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Juan%20Antol%C3%ADnez%20de%20Burgos%2C%20Madrid",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Juan_Antol%C3%ADnez_de_Burgos",
+        "photo": null,
+        "description": "Juan Antolínez de Burgos (1561–1644) was a Spanish historian and writer. He wrote Historia de Valladolid. Juan Antolínez de Burgos was born in 1561, the year of the Great Fire of Valladolid. Little is known about his personal life. He may have been brother of Justin Antolínez of Burgos, vicar general and vicar official archbishopric of Granada in 1594. He studied at the University of Valladolid, where he obtained a d",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "madrid-bookshops-15",
+        "name": "José María Asensio",
+        "cityId": "madrid",
+        "categoryId": "bookshops",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Jos%C3%A9%20Mar%C3%ADa%20Asensio%2C%20Madrid",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Jos%C3%A9_Mar%C3%ADa_Asensio",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/6e/1925%2C_Biblioteca_de_autores_andaluces_modernos_y_contempor%C3%A1neos%2C_Jos%C3%A9_M._Asensio_Toledo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Jos%C3%A9_Mar%C3%ADa_Asensio"
+        },
+        "description": "José María Asensio Toledo (14 August 1829 – 14 December 1905) was a Spanish historian, journalist, biographer and writer.",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "madrid-bookshops-16",
+        "name": "Captaincy General of the Philippines",
+        "cityId": "madrid",
+        "categoryId": "bookshops",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Captaincy%20General%20of%20the%20Philippines%2C%20Madrid",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Captaincy_General_of_the_Philippines",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Flag_of_Spain_%281785%E2%80%931873%2C_1875%E2%80%931931%29.svg/960px-Flag_of_Spain_%281785%E2%80%931873%2C_1875%E2%80%931931%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Captaincy_General_of_the_Philippines"
+        },
+        "description": "The Captaincy General of the Philippines was an administrative district of the Spanish Empire in Southeast Asia governed by a governor-general as a dependency of the Viceroyalty of New Spain based in Mexico City until Mexican independence when it was transferred directly to Madrid. Also known as the Captaincy General of the Spanish East Indies, which included among others the Philippine Islands, the Mariana Islands, ",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "madrid-bookshops-17",
+        "name": "A la juventud filipina",
+        "cityId": "madrid",
+        "categoryId": "bookshops",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=A%20la%20juventud%20filipina%2C%20Madrid",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/A_la_juventud_filipina",
+        "photo": null,
+        "description": "A la juventud filipina (English Translation: To The Philippine Youth) is a poem written in Spanish by Filipino writer and patriot José Rizal, first presented in 1879 in Manila, while he was studying at the University of Santo Tomas. \"A la juventud filipina\" was written by Rizal when he was only eighteen years old, and was dedicated to the Filipino youth which he describes as \"the fair hope of my Motherland.\"",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "madrid-bookshops-18",
+        "name": "Le Diable boiteux",
+        "cityId": "madrid",
+        "categoryId": "bookshops",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Le%20Diable%20boiteux%2C%20Madrid",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Le_Diable_boiteux_(novel)",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/DevilUponTwoSticks1708.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Le_Diable_boiteux_(novel)"
+        },
+        "description": "Le Diable boiteux (English: The Devil upon Two Sticks; lit. 'The Lame Devil') is a novel by the French writer Alain-René Lesage. It is set in Madrid, and tells the story of the demon king Asmodeus, Don Cleophas Leandro Perez Zambullo and his beloved, Donna Thomasa. In the novel, Asmodeus is imprisoned in a bottle. He is freed by a young aristocrat, and then assists his rescuer in a series of pranks. He also grants th",
+        "lat": null,
+        "lng": null
+      }
+    ],
+    "museums": [
+      {
+        "id": "madrid-museums-1",
+        "name": "Museo del Prado",
+        "cityId": "madrid",
+        "categoryId": "museums",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Museo%20del%20Prado%2C%20Madrid",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Museo_del_Prado",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Museo_del_Prado_2016_%2825185969599%29.jpg/960px-Museo_del_Prado_2016_%2825185969599%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Museo_del_Prado"
+        },
+        "description": "The Museo del Prado ( PRAH-doh; Spanish pronunciation: [muˈseo ðel ˈpɾaðo]), officially known as Museo Nacional del Prado, is the main Spanish national art museum, located in central Madrid. It houses collections of European art, dating from the 12th century to the early 20th century, based on the former Spanish royal collection, and is the single best collection of Spanish art in the world. Founded as a museum of pa",
+        "lat": 40.4139,
+        "lng": -3.6922
+      },
+      {
+        "id": "madrid-museums-2",
+        "name": "Madrid",
+        "cityId": "madrid",
+        "categoryId": "museums",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Madrid%2C%20Madrid",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Madrid",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/Madrid_-_Sky_Bar_360%C2%BA_%28Hotel_Riu_Plaza_Espa%C3%B1a%29%2C_vistas_19.jpg/960px-Madrid_-_Sky_Bar_360%C2%BA_%28Hotel_Riu_Plaza_Espa%C3%B1a%29%2C_vistas_19.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Madrid"
+        },
+        "description": "Madrid is the capital and largest city of Spain. It had a population of over 3.4 million in the city proper in 2025, and a metropolitan area population of approximately 6.8 million. Madrid is the second-largest city in the European Union (EU), after Berlin, and its metropolitan area is the second-largest in the EU, after Paris. The municipality covers an area of 605.77 square kilometres (233.89 sq mi). Madrid lies on",
+        "lat": 40.4169,
+        "lng": -3.7033
+      },
+      {
+        "id": "madrid-museums-3",
+        "name": "Museo Nacional Centro de Arte Reina Sofía",
+        "cityId": "madrid",
+        "categoryId": "museums",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Museo%20Nacional%20Centro%20de%20Arte%20Reina%20Sof%C3%ADa%2C%20Madrid",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Museo_Nacional_Centro_de_Arte_Reina_Sof%C3%ADa",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Museo_Nacional_Centro_de_Arte_Reina_Sof%C3%ADa_logo.svg/960px-Museo_Nacional_Centro_de_Arte_Reina_Sof%C3%ADa_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Museo_Nacional_Centro_de_Arte_Reina_Sof%C3%ADa"
+        },
+        "description": "The Museo Nacional Centro de Arte Reina Sofía (\"Queen Sofía National Museum Art Centre\"; MNCARS) is Spain's national museum of 20th-century art. The museum was officially inaugurated on September 10, 1992, and is named for Queen Sofía. It is located in Madrid, near the Atocha train and metro stations, at the southern end of what is known as the Golden Triangle of Art (located along the Paseo del Prado and also compri",
+        "lat": 40.4086,
+        "lng": -3.694
+      },
+      {
+        "id": "madrid-museums-4",
+        "name": "Thyssen-Bornemisza Museum",
+        "cityId": "madrid",
+        "categoryId": "museums",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Thyssen-Bornemisza%20Museum%2C%20Madrid",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Thyssen-Bornemisza_Museum",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Site_of_the_Retiro_and_the_Prado_in_Madrid_49_%2829684554308%29.jpg/960px-Site_of_the_Retiro_and_the_Prado_in_Madrid_49_%2829684554308%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Thyssen-Bornemisza_Museum"
+        },
+        "description": "The Thyssen-Bornemisza National Museum (Spanish: Museo Nacional Thyssen-Bornemisza, pronounced [muˈseo ˈtisen boɾneˈmisa]; named after its founder, Baron Heinrich Thyssen-Bornemisza), or simply the Thyssen, is an art museum in Madrid, Spain, located near the Prado Museum on one of the city's main boulevards. It is known as part of the \"Golden Triangle of Art\", which also includes the Prado and the Reina Sofía nationa",
+        "lat": 40.41604111,
+        "lng": -3.694925
+      },
+      {
+        "id": "madrid-museums-5",
+        "name": "National Museum of Archaeology",
+        "cityId": "madrid",
+        "categoryId": "museums",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=National%20Museum%20of%20Archaeology%2C%20Madrid",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/National_Museum_of_Archaeology_(Madrid)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/Museo_Arqueol%C3%B3gico_Nacional_logo.svg/960px-Museo_Arqueol%C3%B3gico_Nacional_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/National_Museum_of_Archaeology_(Madrid)"
+        },
+        "description": "The National Museum of Archaeology (Spanish: Museo Arqueológico Nacional; MAN) is a archaeology museum in Madrid, Spain. It is located on Calle de Serrano beside the Plaza de Colón, sharing its building with the National Library of Spain. It is one of the National Museums of Spain and it is attached to the Ministry of Culture.",
+        "lat": 40.423645,
+        "lng": -3.689422
+      },
+      {
+        "id": "madrid-museums-6",
+        "name": "El Greco Museum, Toledo",
+        "cityId": "madrid",
+        "categoryId": "museums",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=El%20Greco%20Museum%2C%20Toledo%2C%20Madrid",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/El_Greco_Museum%2C_Toledo",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Espa%C3%B1a_-_Toledo_-_Casa_y_Museo_del_Greco.JPG/960px-Espa%C3%B1a_-_Toledo_-_Casa_y_Museo_del_Greco.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/El_Greco_Museum%2C_Toledo"
+        },
+        "description": "The El Greco Museum (Spanish: Museo del Greco) is a single-artist museum in Toledo, Spain, devoted to the work and life of El Greco (Domenikos Theotokopoulos, 1541–1614), who spent much of his life in Toledo. It is one of the National Museums of Spain and it is attached to the Ministry of Culture.",
+        "lat": 39.8559,
+        "lng": -4.0292
+      },
+      {
+        "id": "madrid-museums-7",
+        "name": "National Museum of Natural Sciences, Madrid",
+        "cityId": "madrid",
+        "categoryId": "museums",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=National%20Museum%20of%20Natural%20Sciences%2C%20Madrid%2C%20Madrid",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/National_Museum_of_Natural_Sciences%2C_Madrid",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Palacio_de_las_Artes_e_Industrias_%28Madrid%29_01.jpg/960px-Palacio_de_las_Artes_e_Industrias_%28Madrid%29_01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/National_Museum_of_Natural_Sciences%2C_Madrid"
+        },
+        "description": "The National Museum of Natural Sciences (Spanish: Museo Nacional de Ciencias Naturales) is a natural history museum in Madrid, Spain. Dependent on the Ministry of Science, it is one of the National Museums of Spain, and it is managed by the Spanish National Research Council (CSIC).",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "madrid-museums-8",
+        "name": "Naval Museum of Madrid",
+        "cityId": "madrid",
+        "categoryId": "museums",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Naval%20Museum%20of%20Madrid%2C%20Madrid",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Naval_Museum_of_Madrid",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/Emblem_of_the_Spanish_Naval_Museum.svg/960px-Emblem_of_the_Spanish_Naval_Museum.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Naval_Museum_of_Madrid"
+        },
+        "description": "The Naval Museum (Spanish: Museo Naval) is a naval museum in Madrid, Spain, devoted to the history of the Spanish Navy since the Catholic Monarchs, in the 15th century, up to the present. It is one of the National Museums of Spain and it is attached to the Ministry of Defence. The displays set naval history in a wide context with information about the history of the Spanish Empire. The collections include navigation ",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "madrid-museums-9",
+        "name": "Juan Gris",
+        "cityId": "madrid",
+        "categoryId": "museums",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Juan%20Gris%2C%20Madrid",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Juan_Gris",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/en/4/4f/Juan_Gris%2C_1922%2C_photograph_by_Man_Ray%2C_Paris._Gelatin_silver_print.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Juan_Gris"
+        },
+        "description": "José Victoriano González-Pérez (23 March 1887 – 11 May 1927), better known as Juan Gris (Spanish: [ˈxwaŋ ˈɡɾis]; French: [gʀi]), was a Spanish painter born in Madrid who lived and worked in France for most of his active period. Closely connected to the innovative artistic genre Cubism, his works are among the movement's most distinctive.",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "madrid-museums-10",
+        "name": "Real Jardín Botánico de Madrid",
+        "cityId": "madrid",
+        "categoryId": "museums",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Real%20Jard%C3%ADn%20Bot%C3%A1nico%20de%20Madrid%2C%20Madrid",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Real_Jard%C3%ADn_Bot%C3%A1nico_de_Madrid",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Puerta_de_Murillo%2C_Real_Jard%C3%ADn_Bot%C3%A1nico_de_Madrid.jpg/960px-Puerta_de_Murillo%2C_Real_Jard%C3%ADn_Bot%C3%A1nico_de_Madrid.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Real_Jard%C3%ADn_Bot%C3%A1nico_de_Madrid"
+        },
+        "description": "Real Jardín Botánico de Madrid (Spanish for \"Royal Botanical Garden of Madrid\") is an 8 hectares (20 acres) botanical garden in Madrid (Spain). The public entrance is located at Plaza de Murillo, next to the Prado Museum.",
+        "lat": 40.41111111,
+        "lng": -3.69166667
+      },
+      {
+        "id": "madrid-museums-11",
+        "name": "Museo de América",
+        "cityId": "madrid",
+        "categoryId": "museums",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Museo%20de%20Am%C3%A9rica%2C%20Madrid",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Museo_de_Am%C3%A9rica",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Museo_de_Am%C3%A9rica_%28Madrid%29_03.jpg/960px-Museo_de_Am%C3%A9rica_%28Madrid%29_03.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Museo_de_Am%C3%A9rica"
+        },
+        "description": "The Museo de América is an art, archaeology, and ethnography museum in Madrid, Spain, devoted to the whole of the Americas from the Paleolithic period to the present day. It is one of the National Museums of Spain and it is attached to the Ministry of Culture. The museum was established by the Spanish State and its initial pieces came from the former collection of American archaeological and ethnographic artifacts fr",
+        "lat": 40.4383,
+        "lng": -3.722
+      },
+      {
+        "id": "madrid-museums-12",
+        "name": "Museum of the Army",
+        "cityId": "madrid",
+        "categoryId": "museums",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Museum%20of%20the%20Army%2C%20Madrid",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Museum_of_the_Army_(Toledo)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/Emblem_of_the_Spanish_Army_Museum.svg/960px-Emblem_of_the_Spanish_Army_Museum.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Museum_of_the_Army_(Toledo)"
+        },
+        "description": "The Museum of the Army (Spanish: Museo del Ejército) is a military museum in Toledo, Spain, devoted to the history of the Spanish Army. It is one of the National Museums of Spain and it is attached to the Ministry of Defence. The collection was previously housed in Madrid, and the museum opened on its present site in 2010. It occupies two linked buildings, Toledo's historic Alcázar (castle) and a purpose-built extens",
+        "lat": 39.8587,
+        "lng": -4.0205
+      },
+      {
+        "id": "madrid-museums-13",
+        "name": "Museo del Traje",
+        "cityId": "madrid",
+        "categoryId": "museums",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Museo%20del%20Traje%2C%20Madrid",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Museo_del_Traje",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Museo_del_Traje.JPG/960px-Museo_del_Traje.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Museo_del_Traje"
+        },
+        "description": "The Museum of Garment - Ethnological Heritage Research Center (Spanish: Museo del Traje - Centro de Investigación del Patrimonio Etnológico) is a museum and ethnology heritage research center in Madrid, Spain, devoted to promote, disseminate, value, and improve knowledge about the historical evolution of clothing and fashion. It is one of the National Museums of Spain and it is attached to the Ministry of Culture. Th",
+        "lat": 40.44,
+        "lng": -3.728611
+      },
+      {
+        "id": "madrid-museums-14",
+        "name": "Lázaro Galdiano Museum",
+        "cityId": "madrid",
+        "categoryId": "museums",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=L%C3%A1zaro%20Galdiano%20Museum%2C%20Madrid",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/L%C3%A1zaro_Galdiano_Museum",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Museo_L%C3%A1zaro_Galdiano_%28Madrid%29_02.jpg/960px-Museo_L%C3%A1zaro_Galdiano_%28Madrid%29_02.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/L%C3%A1zaro_Galdiano_Museum"
+        },
+        "description": "The Lázaro Galdiano Museum (Spanish: Museo Lázaro Galdiano) is an art museum in Madrid, Spain. It houses the art collection of José Lázaro Galdiano. The museum was inaugurated on 27 January 1951.",
+        "lat": 40.43691111,
+        "lng": -3.68584806
+      },
+      {
+        "id": "madrid-museums-15",
+        "name": "Museum of Aeronautics and Astronautics",
+        "cityId": "madrid",
+        "categoryId": "museums",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Museum%20of%20Aeronautics%20and%20Astronautics%2C%20Madrid",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Museum_of_Aeronautics_and_Astronautics_(Madrid)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/CASA_C-207_Azor%2C_Museo_del_Aire.jpg/960px-CASA_C-207_Azor%2C_Museo_del_Aire.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Museum_of_Aeronautics_and_Astronautics_(Madrid)"
+        },
+        "description": "Museum of Aeronautics and Astronautics (Spanish: Museo de Aeronáutica y Astronáutica), also known as Air Museum (Museo del Aire), is an aviation museum located at the Cuatro Vientos Air Base in Madrid, Spain, devoted to the history of the Spanish Air and Space Force. It is one of the National Museums of Spain and it is attached to the Ministry of Defence. The objective of the museum is to acquire, conserve and displa",
+        "lat": 40.365945,
+        "lng": -3.803833
+      },
+      {
+        "id": "madrid-museums-16",
+        "name": "Royal Academy of Fine Arts of San Fernando",
+        "cityId": "madrid",
+        "categoryId": "museums",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Royal%20Academy%20of%20Fine%20Arts%20of%20San%20Fernando%2C%20Madrid",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Royal_Academy_of_Fine_Arts_of_San_Fernando",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Palacio_de_Goyeneche_-_Real_Academia_de_Bellas_Artes_de_San_Fernando.jpg/960px-Palacio_de_Goyeneche_-_Real_Academia_de_Bellas_Artes_de_San_Fernando.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Royal_Academy_of_Fine_Arts_of_San_Fernando"
+        },
+        "description": "The Real Academia de Bellas Artes de San Fernando (RABASF; transl. Royal Academy of Fine Arts of San Fernando), located on the Calle de Alcalá in the centre of Madrid, currently functions as a museum and gallery. A public law corporation, it is integrated together with other Spanish royal academies in the Instituto de España.",
+        "lat": 40.4178,
+        "lng": -3.7007
+      },
+      {
+        "id": "madrid-museums-17",
+        "name": "Museum of Romanticism",
+        "cityId": "madrid",
+        "categoryId": "museums",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Museum%20of%20Romanticism%2C%20Madrid",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Museum_of_Romanticism",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Logo_Museo_del_Romanticismo.jpg/960px-Logo_Museo_del_Romanticismo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Museum_of_Romanticism"
+        },
+        "description": "The Museum of Romanticism (Spanish: Museo del Romanticismo) is an art museum in Madrid, Spain, devoted to Romanticism. It was inaugurated in 1924 as Museo Romántico. It is one of the National Museums of Spain and it is attached to the Ministry of Culture.",
+        "lat": 40.425869,
+        "lng": -3.698839
+      },
+      {
+        "id": "madrid-museums-18",
+        "name": "Sephardic Museum",
+        "cityId": "madrid",
+        "categoryId": "museums",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Sephardic%20Museum%2C%20Madrid",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Sephardic_Museum_(Toledo)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/5_24_11_02_44_PM_%285801686071%29.jpg/960px-5_24_11_02_44_PM_%285801686071%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Sephardic_Museum_(Toledo)"
+        },
+        "description": "The Sephardic Museum (Spanish: Museo Sefardí) is a museum in Toledo, Spain, devoted to the Jewish cultural heritage in Spain, as well as of the Sephardim, the descendants of the Jews who lived on the Iberian peninsula until 1492. It occupies the former convent of the Knights of Calatrava, annexed to the Synagogue of El Tránsito. It is one of the National Museums of Spain and it is attached to the Ministry of Culture.",
+        "lat": 39.8558,
+        "lng": -4.0293
+      }
+    ],
+    "concerts": [
+      {
+        "id": "madrid-concerts-1",
+        "name": "National Auditorium of Music",
+        "cityId": "madrid",
+        "categoryId": "concerts",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=National%20Auditorium%20of%20Music%2C%20Madrid",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/National_Auditorium_of_Music",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Madrid_Auditorio_de_musica.jpg/960px-Madrid_Auditorio_de_musica.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/National_Auditorium_of_Music"
+        },
+        "description": "The Auditorio Nacional de Música (National Auditorium of Music) is a complex of concert venues located in Madrid, Spain and the main concert hall in the Madrid metropolitan area. It comprises two main concert rooms: a symphonic hall and a chamber music hall.",
+        "lat": 40.44583333,
+        "lng": -3.6775
+      },
+      {
+        "id": "madrid-concerts-2",
+        "name": "Teatro Monumental",
+        "cityId": "madrid",
+        "categoryId": "concerts",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Teatro%20Monumental%2C%20Madrid",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Teatro_Monumental",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Monumental_Cinema-Atocha-01.jpg/960px-Monumental_Cinema-Atocha-01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Teatro_Monumental"
+        },
+        "description": "The Teatro Monumental (Monumental Theatre) is a concert hall in Madrid. The theatre, designed by Teodoro Anasagasti Algan, was built between 1922 and 1923 as a movie theatre (Teatro Cinema Monumental) and later was transformed to house concerts of different genres, from pop to classical, and jazz to folk. The theatre is the concert venue of the RTVE Symphony Orchestra. It has a 1,600 capacity.",
+        "lat": 40.4125,
+        "lng": -3.69888889
+      },
+      {
+        "id": "madrid-concerts-3",
+        "name": "Teatro Real",
+        "cityId": "madrid",
+        "categoryId": "concerts",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Teatro%20Real%2C%20Madrid",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Teatro_Real",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Teatro_Real_de_Madrid_2025.jpg/960px-Teatro_Real_de_Madrid_2025.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Teatro_Real"
+        },
+        "description": "The Teatro Real (English: Royal Theatre or Royal Opera House) is an opera house in Madrid, Spain. Located at the Plaza de Oriente, opposite the Royal Palace, and known colloquially as \"El Real\" (The Royal One). it is considered the top institution of the performing and musical arts in the country and one of the most prestigious opera houses in Europe. The groundbreaking of the Teatro Real was on 23 April 1818, under ",
+        "lat": 40.41833333,
+        "lng": -3.71027778
+      },
+      {
+        "id": "madrid-concerts-4",
+        "name": "Aarhus Pride",
+        "cityId": "madrid",
+        "categoryId": "concerts",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Aarhus%20Pride%2C%20Madrid",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Aarhus_Pride",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Aarhus_Pride%2C_2012%2C_start_of_day.jpg/960px-Aarhus_Pride%2C_2012%2C_start_of_day.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Aarhus_Pride"
+        },
+        "description": "Aarhus Pride is a pride parade in Aarhus, Denmark and the largest Danish event focused on LGBT issues outside Copenhagen. The first event was held in 2012 and has been repeated every year since. It is managed and controlled by private individuals from the LGBT community and supported with funds from the city of Aarhus. In 2017, about 6,000 people took part in the 3.5-kilometre-long (2.2 mi) parade with floats and fla",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "madrid-concerts-5",
+        "name": "Gran Teatro de La Habana",
+        "cityId": "madrid",
+        "categoryId": "concerts",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Gran%20Teatro%20de%20La%20Habana%2C%20Madrid",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Gran_Teatro_de_La_Habana",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Gran_Teatro_de_La_Habana_Alicia_Alonso.jpg/960px-Gran_Teatro_de_La_Habana_Alicia_Alonso.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Gran_Teatro_de_La_Habana"
+        },
+        "description": "Gran Teatro de La Habana is a theater in Havana, Cuba, home to the Cuban National Ballet. It was designed by the Belgian architect Paul Belau and built by Purdy and Henderson, Engineers in 1914 at the site of the former Teatro Tacón. Its construction was paid for by the Galician immigrants of Havana to serve as a community-social center. Located in the Paseo del Prado, its facilities include theatres, a concert hall,",
+        "lat": 23.1369,
+        "lng": -82.3594
+      },
+      {
+        "id": "madrid-concerts-6",
+        "name": "Arnaldo Conti",
+        "cityId": "madrid",
+        "categoryId": "concerts",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Arnaldo%20Conti%2C%20Madrid",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Arnaldo_Conti",
+        "photo": null,
+        "description": "Arnaldo Conti (Parma, 22 February 1855 – Milan, 24 March 1919) was an Italian conductor of opera. He spent much of his life on tour in opera houses around the world, directing performances with singers such as Adelina Patti, Luisa Tetrazzini, Marcella Sembrich, Emma Calvé, Fernando De Lucia, Riccardo Stracciari, Antonio Scotti and Jean and Édouard de Reszke. He seems not to have sought publicity; he rarely ventured i",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "madrid-concerts-7",
+        "name": "Fundación Juan March",
+        "cityId": "madrid",
+        "categoryId": "concerts",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Fundaci%C3%B3n%20Juan%20March%2C%20Madrid",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Fundaci%C3%B3n_Juan_March",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Fundaci%C3%B3n_Juan_March_%28Madrid%29_01.jpg/960px-Fundaci%C3%B3n_Juan_March_%28Madrid%29_01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Fundaci%C3%B3n_Juan_March"
+        },
+        "description": "The Fundación Juan March is a foundation established in 1955 by Juan March. The foundation produces exhibitions as well as concert and lecture series. Its headquarters in Madrid houses a library devoted to contemporary Spanish music and theater. It owns and operates the Museo de Arte Abstracto Español, in Cuenca, and the Museu Fundación Juan March, in Palma. Its Center for Advanced Study in the Social Sciences (Centr",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "madrid-concerts-8",
+        "name": "Chamartín",
+        "cityId": "madrid",
+        "categoryId": "concerts",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Chamart%C3%ADn%2C%20Madrid",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Chamart%C3%ADn_(Madrid)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Vista_de_Madrid_-_Chamart%C3%ADn_02.jpg/960px-Vista_de_Madrid_-_Chamart%C3%ADn_02.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Chamart%C3%ADn_(Madrid)"
+        },
+        "description": "Chamartín (Spanish pronunciation: [tʃamaɾˈtin]) is an administrative district of Madrid, Spain and consists of the following neighbourhoods: El Viso, La Prosperidad, Ciudad Jardín, Hispanoamérica, Nueva España, and Castilla. It was originally a separate city named Chamartín de la Rosa and remained an independent municipality until it was incorporated to Madrid in 1948.",
+        "lat": 40.7017,
+        "lng": -4.95722
+      },
+      {
+        "id": "madrid-concerts-9",
+        "name": "Gran Vía 35, Madrid",
+        "cityId": "madrid",
+        "categoryId": "concerts",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Gran%20V%C3%ADa%2035%2C%20Madrid%2C%20Madrid",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Gran_V%C3%ADa_35%2C_Madrid",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Palacio_de_la_M%C3%BAsica_%28Madrid%29_02.jpg/960px-Palacio_de_la_M%C3%BAsica_%28Madrid%29_02.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Gran_V%C3%ADa_35%2C_Madrid"
+        },
+        "description": "The Gran Vía 35 Building, also known as Palacio de la Música, is a theater located at Gran Vía 35 in Madrid. It was commissioned by the Sociedad Anónima General de Espectáculos (SAGE) and built by architect Secundino Zuazo Ugalde in 1926.",
+        "lat": 40.41998,
+        "lng": -3.70466
+      },
+      {
+        "id": "madrid-concerts-10",
+        "name": "Conservatoire de Paris",
+        "cityId": "madrid",
+        "categoryId": "concerts",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Conservatoire%20de%20Paris%2C%20Madrid",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Conservatoire_de_Paris",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/LogoCNSMDP.svg/960px-LogoCNSMDP.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Conservatoire_de_Paris"
+        },
+        "description": "The Conservatoire de Paris, or the Paris Conservatory, is a college of music and dance founded in 1795. Officially known as the Conservatoire National Supérieur de Musique et de Danse de Paris (Paris National Conservatory of Music and Dance), it is located on Jean Jaurès avenue in the 19th arrondissement of Paris, France. The Conservatoire offers instruction in music and dance, drawing on the traditions of the 'Frenc",
+        "lat": 48.88888889,
+        "lng": 2.39083333
+      },
+      {
+        "id": "madrid-concerts-11",
+        "name": "Gonzalo Alcaín",
+        "cityId": "madrid",
+        "categoryId": "concerts",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Gonzalo%20Alca%C3%ADn%2C%20Madrid",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Gonzalo_Alca%C3%ADn",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Gonzalo_Alca%C3%ADn.jpg/960px-Gonzalo_Alca%C3%ADn.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Gonzalo_Alca%C3%ADn"
+        },
+        "description": "Gonzalo Alcaín (Spanish pronunciation: [ɡon´θalo alka´in], b. Madrid, June 27, 1980) is a Spanish singer and musical actor. He has been one of the contestants on the second season of the musical talent show The Voice in Spain.",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "madrid-concerts-12",
+        "name": "Church of San Sebastián, Toledo",
+        "cityId": "madrid",
+        "categoryId": "concerts",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Church%20of%20San%20Sebasti%C3%A1n%2C%20Toledo%2C%20Madrid",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Church_of_San_Sebasti%C3%A1n%2C_Toledo",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/Toledo_2015_10_26_2803_%2826732620315%29_%28cropped%29_iglesia_de_San_Sebasti%C3%A1n.jpg/960px-Toledo_2015_10_26_2803_%2826732620315%29_%28cropped%29_iglesia_de_San_Sebasti%C3%A1n.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Church_of_San_Sebasti%C3%A1n%2C_Toledo"
+        },
+        "description": "San Sebastian is a redundant church in Toledo, Spain. Originally a mosque, it was converted for use as church after the Reconquista. It is protected by the heritage listing Bien de Interés Cultural.",
+        "lat": 39.8535,
+        "lng": -4.0255
+      },
+      {
+        "id": "madrid-concerts-13",
+        "name": "Federico Jusid",
+        "cityId": "madrid",
+        "categoryId": "concerts",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Federico%20Jusid%2C%20Madrid",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Federico_Jusid",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Federico_jusid_3.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Federico_Jusid"
+        },
+        "description": "Federico Jusid is an Argentine composer who resides and works between Madrid and Los Angeles. He has written the scores for more than 60 feature films and over 70 television series. His work includes the score for the Academy Award-winner for Best Foreign Film The Secret in Their Eyes (2009, Dir. by Juan José Campanella), for which he received the nomination for the Spanish Academy Goya Award for Best Original Score.",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "madrid-concerts-14",
+        "name": "Ross Daly",
+        "cityId": "madrid",
+        "categoryId": "concerts",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Ross%20Daly%2C%20Madrid",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Ross_Daly",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Ross_Daly.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Ross_Daly"
+        },
+        "description": "Ross Daly (born 29 September 1952) is a world musician who specializes in the Cretan lyra. Although of Irish descent, he has been living on the island of Crete for over 35 years.",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "madrid-concerts-15",
+        "name": "Chamartín Symphony Orchestra",
+        "cityId": "madrid",
+        "categoryId": "concerts",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Chamart%C3%ADn%20Symphony%20Orchestra%2C%20Madrid",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Chamart%C3%ADn_Symphony_Orchestra",
+        "photo": null,
+        "description": "The Chamartín Symphony Orchestra (Spanish: Orquesta Sinfónica Chamartín) is a symphony orchestra based in Madrid, Spain.",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "madrid-concerts-16",
+        "name": "Palau de la Música Catalana",
+        "cityId": "madrid",
+        "categoryId": "concerts",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Palau%20de%20la%20M%C3%BAsica%20Catalana%2C%20Madrid",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Palau_de_la_M%C3%BAsica_Catalana",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/22_11_01_Palau_DSCF2611_52502512616_cc1e7db845_k.jpg/960px-22_11_01_Palau_DSCF2611_52502512616_cc1e7db845_k.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Palau_de_la_M%C3%BAsica_Catalana"
+        },
+        "description": "Palau de la Música Catalana (Catalan pronunciation: [pəˈlaw ðə lə ˈmuzikə kətəˈlanə], English: Palace of Catalan Music) is a concert hall in Barcelona, Catalonia, Spain. Designed in the Catalan modernista style by the architect Lluís Domènech i Montaner, it was built between 1905 and 1908 for Orfeó Català, a choral society founded in 1891 that was a leading force in the Catalan cultural movement that came to be known",
+        "lat": 41.3875,
+        "lng": 2.17555556
+      },
+      {
+        "id": "madrid-concerts-17",
+        "name": "Contemporary architecture",
+        "cityId": "madrid",
+        "categoryId": "concerts",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Contemporary%20architecture%2C%20Madrid",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Contemporary_architecture",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Hard_Rock_Hotel_Singapore.jpg/960px-Hard_Rock_Hotel_Singapore.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Contemporary_architecture"
+        },
+        "description": "Contemporary architecture is the architecture of the 21st century. No single style is dominant. Contemporary architects work in several different styles, from postmodernism, high-tech architecture and new references and interpretations of traditional architecture like New Classical architecture to highly conceptual forms and designs, resembling sculpture on an enormous scale. Some of these styles and approaches make ",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "madrid-concerts-18",
+        "name": "Eurovision Song Contest 1969",
+        "cityId": "madrid",
+        "categoryId": "concerts",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Eurovision%20Song%20Contest%201969%2C%20Madrid",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Eurovision_Song_Contest_1969",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/ESC_1969_Map_2.svg/960px-ESC_1969_Map_2.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Eurovision_Song_Contest_1969"
+        },
+        "description": "The Eurovision Song Contest 1969 was the 14th edition of the Eurovision Song Contest, held on 29 March 1969 at the Teatro Real in Madrid, Spain, and presented by Laurita Valenzuela. It was organised by the European Broadcasting Union (EBU) and host broadcaster Televisión Española (TVE), who staged the event after winning the 1968 contest for Spain with the song \"La La La\" by Massiel. Broadcasters from a total of sixt",
+        "lat": 40.41833333,
+        "lng": -3.71027778
+      }
+    ],
+    "fashion": [
+      {
+        "id": "madrid-fashion-1",
+        "name": "Hackett London",
+        "cityId": "madrid",
+        "categoryId": "fashion",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Hackett%20London%2C%20Madrid",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Hackett_London",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/en/d/d6/Hackett_%28clothing%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Hackett_London"
+        },
+        "description": "Hackett London is a British menswear brand and multi-channel retailer founded in 1983 by Jeremy Hackett and Ashley Lloyd-Jennings. Headquartered in London with its flagship store at 14 Savile Row, the company operates over 160 stores globally. The brand is owned by AWWG (formerly the Pepe Jeans Group).",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "madrid-fashion-2",
+        "name": "TOJ",
+        "cityId": "madrid",
+        "categoryId": "fashion",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=TOJ%2C%20Madrid",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/TOJ",
+        "photo": null,
+        "description": "Toj or TOJ may refer to: ToJ, a German race car constructor Madrid–Torrejón Airport, IATA code: TOJ Open-jaw ticket",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "madrid-fashion-3",
+        "name": "Going South Shopping",
+        "cityId": "madrid",
+        "categoryId": "fashion",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Going%20South%20Shopping%2C%20Madrid",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Going_South_Shopping",
+        "photo": null,
+        "description": "Going South Shopping (Spanish: Bajarse al moro, lit. 'Going Down to the Moor') is a 1989 Spanish comedy film directed by Fernando Colomo based on the play Bajarse al moro by José Luis Alonso de Santos. It stars Verónica Forqué alongside Antonio Banderas, Juan Echanove, and Aitana Sánchez-Gijón.",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "madrid-fashion-4",
+        "name": "La Ingobernable",
+        "cityId": "madrid",
+        "categoryId": "fashion",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=La%20Ingobernable%2C%20Madrid",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/La_Ingobernable",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/La_Ingobernable%2C_durante_el_desfile_del_Orgullo.jpg/960px-La_Ingobernable%2C_durante_el_desfile_del_Orgullo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/La_Ingobernable"
+        },
+        "description": "La Ingobernable is a series of self-managed social centres in central Madrid, Spain. The squats have been used by feminist, environmentalists, LGBTI, anti-racist and other cultural groups. Between 2017 and 2019, La Ingobernable was based in a municipal building located at the corner of Paseo del Prado and Calle del Gobernador (hence its name, which means ungovernable). It was then located at Calle Alberto Bosch 4, be",
+        "lat": 40.4133,
+        "lng": -3.6908
+      },
+      {
+        "id": "madrid-fashion-5",
+        "name": "Royston Drenthe",
+        "cityId": "madrid",
+        "categoryId": "fashion",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Royston%20Drenthe%2C%20Madrid",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Royston_Drenthe",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Royston_Drenthe_-_H%C3%A8rcules.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Royston_Drenthe"
+        },
+        "description": "Royston Ricky Drenthe (born 8 April 1987) is a Dutch former professional footballer. Although primarily a left winger, he has also played as a left-back. Drenthe started his professional career with Eredivisie side Feyenoord in 2005, having graduated from the club's youth academy. He made 37 appearances for the side before switching to La Liga club Real Madrid in 2007. During his five years in Madrid, he made 65 appe",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "madrid-fashion-6",
+        "name": "Dover",
+        "cityId": "madrid",
+        "categoryId": "fashion",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Dover%2C%20Madrid",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Dover_(band)",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Dover_%28banda%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Dover_(band)"
+        },
+        "description": "Dover was a Spanish rock band founded in Madrid in 1992. The group was composed of the sisters and group leaders Cristina Llanos (vocals) and Amparo Llanos (lead guitarist), drummer Jesús Antúnez and bassist Samuel Titos. They recorded eight albums, selling around two million copies. They are known for their second album Devil Came to Me, which led them to international fame. In 2006, their sixth album, Follow the Ci",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "madrid-fashion-7",
+        "name": "Yohji Yamamoto",
+        "cityId": "madrid",
+        "categoryId": "fashion",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Yohji%20Yamamoto%2C%20Madrid",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Yohji_Yamamoto",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Yohji_Yamamoto%2C_New_York_Fashion_Week%2C_February_2010.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Yohji_Yamamoto"
+        },
+        "description": "Yohji Yamamoto (山本 耀司, Yamamoto Yōji; born 3 October 1943) is a Japanese fashion designer based in Tokyo and Paris. He is considered a master tailor, alongside those such as Madeleine Vionnet, and is best known for his avant-garde tailoring featuring Japanese design aesthetics. Yamamoto has won notable awards for his contributions to fashion, including the Chevalier/Officier/Commandeur of Ordre des Arts et des Lettre",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "madrid-fashion-8",
+        "name": "Inditex",
+        "cityId": "madrid",
+        "categoryId": "fashion",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Inditex%2C%20Madrid",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Inditex",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Sede_de_inditex_arteixo.jpg/960px-Sede_de_inditex_arteixo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Inditex"
+        },
+        "description": "Industria de Diseño Textil, S.A. (Inditex; , Spanish: [indiˈteks]; lit. 'Textile Design Industry') is a Spanish multinational clothing company headquartered in Arteixo, Galicia, Spain. The largest fast fashion group in the world, it operates over 7,200 stores in 93 markets worldwide. The company's predominant brand is Zara, but it also owns a number of other brands including Zara Home, Massimo Dutti, Pull&Bear, Strad",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "madrid-fashion-9",
+        "name": "Sindicato Popular de Vendedores Ambulantes",
+        "cityId": "madrid",
+        "categoryId": "fashion",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Sindicato%20Popular%20de%20Vendedores%20Ambulantes%2C%20Madrid",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Sindicato_Popular_de_Vendedores_Ambulantes",
+        "photo": null,
+        "description": "The Sindicato Popular de Vendedores Ambulantes (Popular Union of Street Vendors) is a workers union representing street vendors (known as manteros) in Spain. The vendors often face precarious economic conditions, lack of access to government services, racist discrimination, and violence at the hands of police.",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "madrid-fashion-10",
+        "name": "Penélope Cruz",
+        "cityId": "madrid",
+        "categoryId": "fashion",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Pen%C3%A9lope%20Cruz%2C%20Madrid",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Pen%C3%A9lope_Cruz",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Pen%C3%A9lope_Cruz_%40_2010_Academy_Awards_%28cropped%29.jpg/960px-Pen%C3%A9lope_Cruz_%40_2010_Academy_Awards_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Pen%C3%A9lope_Cruz"
+        },
+        "description": "Penélope Cruz Sánchez (born 28 April 1974) is a Spanish actress who performs in both Spanish and English-language films. Her accolades include an Academy Award, a BAFTA Award, a Grammy Award, three Goya Awards and a David di Donatello. Cruz made her acting debut on television at age 16, and her feature film debut the following year in Jamón Jamón (1992). Her subsequent roles include Belle Époque (1992), Open Your Eye",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "madrid-fashion-11",
+        "name": "Wayne Hightower",
+        "cityId": "madrid",
+        "categoryId": "fashion",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Wayne%20Hightower%2C%20Madrid",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Wayne_Hightower",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Wayne_Hightower_1969_front.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Wayne_Hightower"
+        },
+        "description": "Wayne A. Hightower (January 14, 1940 – April 18, 2002) was an American professional basketball player who had a long and productive career in the National Basketball Association (NBA) and American Basketball Association (ABA) from 1962 to 1972. He stood 6 foot 8 inches (2.03 m) and primarily played the forward positions. He was born in Philadelphia, Pennsylvania and attended Overbrook High School from 1955 to 1958, w",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "madrid-fashion-12",
+        "name": "Josemaría Escrivá",
+        "cityId": "madrid",
+        "categoryId": "fashion",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Josemar%C3%ADa%20Escriv%C3%A1%2C%20Madrid",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Josemar%C3%ADa_Escriv%C3%A1",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/Josemaria_Escriva.jpg/960px-Josemaria_Escriva.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Josemar%C3%ADa_Escriv%C3%A1"
+        },
+        "description": "Josemaría Escrivá de Balaguer y Albás (9 January 1902 – 26 June 1975) was a Spanish Catholic priest who founded Opus Dei, an organization of laypeople and priests dedicated to the principle of everyday holiness. He was canonized by Pope John Paul II in 2002. Escrivá studied for the priesthood in Logroño and Zaragoza and in 1925 was ordained in the latter. He then moved to Madrid, where he pursued doctoral studies in ",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "madrid-fashion-13",
+        "name": "Michael Paul Britto",
+        "cityId": "madrid",
+        "categoryId": "fashion",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Michael%20Paul%20Britto%2C%20Madrid",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Michael_Paul_Britto",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/65/Artist_Michael_Paul_Britto_2019.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Michael_Paul_Britto"
+        },
+        "description": "Michael Paul Britto (born 1968) is a New York contemporary artist who explores the consequences of racial inequality through photography, video, collage, sculpture and performance. Britto shines a light on important racial issues using contemporary art. His work has been exhibited predominantly in New York, but also internationally, with exhibitions in Spain, Poland, and England. In 2004, he won the Individual Artist",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "madrid-fashion-14",
+        "name": "Women in Unión General de Trabajadores in Francoist Spain",
+        "cityId": "madrid",
+        "categoryId": "fashion",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Women%20in%20Uni%C3%B3n%20General%20de%20Trabajadores%20in%20Francoist%20Spain%2C%20Madrid",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Women_in_Uni%C3%B3n_General_de_Trabajadores_in_Francoist_Spain",
+        "photo": null,
+        "description": "Women in Unión General de Trabajadores (UGT) in Francoist Spain played important roles in the union dating back to the Second Republic period, even as their specific needs like maternity leave, childcare provisions and equal pay were subverted for the improvement of better overall working conditions. Women UGT leaders in the Civil War period included María Lacrampe and Claudina García Perez. In the post-Civil War per",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "madrid-fashion-15",
+        "name": "Meteoro-class patrol vessel",
+        "cityId": "madrid",
+        "categoryId": "fashion",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Meteoro-class%20patrol%20vessel%2C%20Madrid",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Meteoro-class_patrol_vessel",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Rayo_P42.jpg/960px-Rayo_P42.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Meteoro-class_patrol_vessel"
+        },
+        "description": "The Meteoro-class offshore patrol vessel, also known as Buque de Acción Marítima (BAM; literally \"Maritime Action Vessel\"), are modular offshore patrol vessels of the Spanish Navy adapted to different purposes from a common base, manufactured by Navantia. The BAMs combine high performance with mission versatility, a high commonality with other ships operated by the Spanish Navy. Acquisition and lifecycle costs are re",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "madrid-fashion-16",
+        "name": "Roberto Bautista Agut",
+        "cityId": "madrid",
+        "categoryId": "fashion",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Roberto%20Bautista%20Agut%2C%20Madrid",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Roberto_Bautista_Agut",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Bautista_Agut_MCM23_%2814%29_%2852883313449%29.jpg/960px-Bautista_Agut_MCM23_%2814%29_%2852883313449%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Roberto_Bautista_Agut"
+        },
+        "description": "Roberto Bautista Agut (Spanish pronunciation: [roˈβeɾto βawˈtista aˈɣut]; born 14 April 1988) is a Spanish former professional tennis player. He was ranked by the Association of Tennis Professionals (ATP) as world No. 9 in singles, achieved in November 2019. Bautista Agut won twelve ATP Tour singles titles, and reached the semifinals at the 2019 Wimbledon Championships. He was part of the victorious Spanish team at t",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "madrid-fashion-17",
+        "name": "CBS Columbia Square",
+        "cityId": "madrid",
+        "categoryId": "fashion",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=CBS%20Columbia%20Square%2C%20Madrid",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/CBS_Columbia_Square",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/CBS_ColumbiaSquare01.jpg/960px-CBS_ColumbiaSquare01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/CBS_Columbia_Square"
+        },
+        "description": "CBS Columbia Square (also called Columbia Studio) was the home of CBS's Los Angeles radio and television operations from 1938 until 2007. Located at 6121 Sunset Boulevard in the Hollywood neighborhood of Los Angeles, California, United States, the building housed the CBS Radio Network's West Coast facilities, as well as CBS's original Los Angeles radio stations, KNX and KCBS-FM. KNXT-TV, Channel 2 (now KCBS-TV) moved",
+        "lat": 34.098293,
+        "lng": -118.323087
+      },
+      {
+        "id": "madrid-fashion-18",
+        "name": "Lucille Soong",
+        "cityId": "madrid",
+        "categoryId": "fashion",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Lucille%20Soong%2C%20Madrid",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Lucille_Soong",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/11/Lucille_Soong_2016.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Lucille_Soong"
+        },
+        "description": "Lucille Soong (born September 5, 1935) is a Chinese-born American actress. In the 1960s she occasionally worked under the stage name Soong Ling. She is best known for her role as Jenny Huang in the television series Fresh Off the Boat (2015–2020). She has appeared in films and television shows since 1959, and is the author of the autobiography Wild Orchid: From Beijing to La-La Land.",
+        "lat": null,
+        "lng": null
+      }
+    ],
+    "shops": [
+      {
+        "id": "madrid-shops-1",
+        "name": "Hermanos Conde",
+        "cityId": "madrid",
+        "categoryId": "shops",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Hermanos%20Conde%2C%20Madrid",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Hermanos_Conde",
+        "photo": null,
+        "description": "Hermanos Conde (Conde Brothers) are luthiers, makers of classical and flamenco guitars.",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "madrid-shops-2",
+        "name": "Carlos Padrós",
+        "cityId": "madrid",
+        "categoryId": "shops",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Carlos%20Padr%C3%B3s%2C%20Madrid",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Carlos_Padr%C3%B3s",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/56/Carlos_Padr%C3%B3s.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Carlos_Padr%C3%B3s"
+        },
+        "description": "Carlos Padrós Rubió, also known as Carles Padrós Rubió (9 November 1870 – 30 December 1950) was a Spanish politician, businessman and football pioneer who was the 3rd President of Real Madrid. He was a member of the Spanish Liberal Party until its dissolution in 1931. Padrós was a founding member of Real Madrid and later served as club president between January 1904 and 1908, succeeding his brother Juan. He was also ",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "madrid-shops-3",
+        "name": "Círculo de Bellas Artes",
+        "cityId": "madrid",
+        "categoryId": "shops",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=C%C3%ADrculo%20de%20Bellas%20Artes%2C%20Madrid",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/C%C3%ADrculo_de_Bellas_Artes",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Circulo_de_Bellas_Artes_%28Madrid%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/C%C3%ADrculo_de_Bellas_Artes"
+        },
+        "description": "The Círculo de Bellas Artes is a private, non-profit, cultural organization that was founded in 1880. Its building, located in Madrid, Spain, was declared Bien de Interés Cultural in 1981. The CBA is a major multidisciplinary centre with one of the most active cultural programmes in Madrid. It has exhibition rooms, a cinema, a theatre, concert halls, lecture halls, artists’ workshops, a library, a cafeteria, a shop a",
+        "lat": 40.418307,
+        "lng": -3.696575
+      },
+      {
+        "id": "madrid-shops-4",
+        "name": "Fotogramas",
+        "cityId": "madrid",
+        "categoryId": "shops",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Fotogramas%2C%20Madrid",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Fotogramas",
+        "photo": null,
+        "description": "Fotogramas is a Spanish digital and print film magazine which has been in circulation since 1946. It is one of the early film magazines in Spain.",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "madrid-shops-5",
+        "name": "AmRest",
+        "cityId": "madrid",
+        "categoryId": "shops",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=AmRest%2C%20Madrid",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/AmRest",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/en/thumb/1/18/AmRest_logo.svg/960px-AmRest_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/AmRest"
+        },
+        "description": "AmRest Holdings SE is a European multinational casual dining, fast-food restaurant and coffee shop operator headquartered in the Spanish capital, Madrid. The company runs more than 2300 locations, mostly franchises of KFC, Pizza Hut and Starbucks, and also Burger King until 2022, but also operates its own brands of restaurants. Apart from Spain, AmRest operates in Bulgaria, China, Croatia, the Czech Republic, France,",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "madrid-shops-6",
+        "name": "Anglada",
+        "cityId": "madrid",
+        "categoryId": "shops",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Anglada%2C%20Madrid",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Anglada",
+        "photo": null,
+        "description": "Anglada was a Spanish automobile manufactured in Puerto de Santa María in Cádiz, Andalucia from 1902 to 1905. The company named Anglada. Fábrica de bicicletas y automóviles was founded by Francisco Anglada y Gallardo. Anglada made expensive cars by individual order. The cars were either one- or four-cylinder models ranging from 6 to 36 cv. Anglada is notable today, if at all, for producing the first Spanish car purch",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "madrid-shops-7",
+        "name": "Primark",
+        "cityId": "madrid",
+        "categoryId": "shops",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Primark%2C%20Madrid",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Primark",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Penney%27s%2C_Mary_Street%2C_Dublin.jpg/960px-Penney%27s%2C_Mary_Street%2C_Dublin.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Primark"
+        },
+        "description": "Primark Limited (; trading as Penneys in Ireland) is an Irish multinational retailer specialising in fast fashion. It is headquartered in Dublin, Ireland, with 491 shops in Europe and in the United States and 4 franchised shops in Kuwait and Dubai. The company was founded as Penneys; however, that brand hasn't been used outside of the Republic of Ireland since 1976 because of a trademark conflict with American retail",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "madrid-shops-8",
+        "name": "Ramírez Guitars",
+        "cityId": "madrid",
+        "categoryId": "shops",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Ram%C3%ADrez%20Guitars%2C%20Madrid",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Ram%C3%ADrez_Guitars",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/27/Ramirez_guitars_logo.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Ram%C3%ADrez_Guitars"
+        },
+        "description": "Ramírez Guitars (Guitarras Ramírez in Spanish) is a Spanish manufacturer of professional, concert-quality classical and flamenco guitars. Five generations of the Ramírez family have produced Ramirez guitars.",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "madrid-shops-9",
+        "name": "Palacio de Deportes de la Comunidad de Madrid",
+        "cityId": "madrid",
+        "categoryId": "shops",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Palacio%20de%20Deportes%20de%20la%20Comunidad%20de%20Madrid%2C%20Madrid",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Palacio_de_Deportes_de_la_Comunidad_de_Madrid",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/Palacio_de_Deportes_de_la_Comunidad_de_Madrid_%28WiZink_Center%29.jpg/960px-Palacio_de_Deportes_de_la_Comunidad_de_Madrid_%28WiZink_Center%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Palacio_de_Deportes_de_la_Comunidad_de_Madrid"
+        },
+        "description": "Sports Palace of the Community of Madrid or simply Madrid Sports Palace (Spanish: Palacio de Deportes de la Comunidad de Madrid), officially Movistar Arena since January 2025 for sponsorship reasons, is an indoor sporting arena located in Madrid, Spain. The former building, which was built in 1960, was destroyed by a fire in 2001. Architects Enrique Hermoso and Paloma Huidobro projected a High-Tech style new arena th",
+        "lat": 40.42388889,
+        "lng": -3.67166667
+      },
+      {
+        "id": "madrid-shops-10",
+        "name": "Controversies about the 2004 Madrid train bombings",
+        "cityId": "madrid",
+        "categoryId": "shops",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Controversies%20about%20the%202004%20Madrid%20train%20bombings%2C%20Madrid",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Controversies_about_the_2004_Madrid_train_bombings",
+        "photo": null,
+        "description": "The controversy regarding the handling and representation of the Madrid train bombings by the government arose with Spain's two main political parties, Spanish Socialist Workers' Party (PSOE) and Partido Popular (PP), accusing each other of concealing or distorting evidence for electoral reasons.",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "madrid-shops-11",
+        "name": "Real Madrid Fantasy Manager",
+        "cityId": "madrid",
+        "categoryId": "shops",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Real%20Madrid%20Fantasy%20Manager%2C%20Madrid",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Real_Madrid_Fantasy_Manager",
+        "photo": null,
+        "description": "Real Madrid Fantasy Manager is a football club management game developed by From The Bench. The game is available on Facebook, iPhone and Android platforms. The game has been designed according to the theme of Real Madrid CF. There are 2011, 2012, 2013, and 2014 editions.",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "madrid-shops-12",
+        "name": "Daniel Zuloaga",
+        "cityId": "madrid",
+        "categoryId": "shops",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Daniel%20Zuloaga%2C%20Madrid",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Daniel_Zuloaga",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Retrato_Daniel_Zuloaga.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Daniel_Zuloaga"
+        },
+        "description": "Daniel Zuloaga y Boneta (1852 – December 27, 1921) was a Spanish ceramist and painter. He is considered to be one of the innovators of art pottery in Spain. He worked primarily from his workshops in Madrid and Segovia, but his work extended throughout Spain. He participated in various international exhibitions, and his pieces can be found in other European countries. His work was characterized by using ancient techni",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "madrid-shops-13",
+        "name": "Convento de San Felipe el Real",
+        "cityId": "madrid",
+        "categoryId": "shops",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Convento%20de%20San%20Felipe%20el%20Real%2C%20Madrid",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Convento_de_San_Felipe_el_Real",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/de/Convento_de_san_felipe_madrid.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Convento_de_San_Felipe_el_Real"
+        },
+        "description": "The now-defunct Convento de San Felipe el Real (English: Convent of Saint Philip the Royal; briefly called as San Felipe el Real) was a former Madrilenian convent of Calced Augustinian monks, located at the beginning of Calle Mayor in Madrid, next to the Puerta del Sol. Built between 16th and 17th centuries, was rise on a large pedestal (with protected perimeter of railings), was part of it a famous talking shop of t",
+        "lat": 40.41641389,
+        "lng": -3.70501111
+      },
+      {
+        "id": "madrid-shops-14",
+        "name": "Juan de la Cuesta",
+        "cityId": "madrid",
+        "categoryId": "shops",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Juan%20de%20la%20Cuesta%2C%20Madrid",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Juan_de_la_Cuesta",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Title_page_first_edition_Don_Quijote.jpg/960px-Title_page_first_edition_Don_Quijote.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Juan_de_la_Cuesta"
+        },
+        "description": "Juan de la Cuesta (died 1627) was a Spanish printer known for printing (not publishing) the first editions of Don Quixote de la Mancha (1605) and the Novelas ejemplares (1613), by Miguel de Cervantes, as well as the works of other leading figures of Spain's Golden Age, such as Lope de Vega. Although he may previously have worked in Segovia, and there was also a Juan de la Cuesta based in Alcalá de Henares in 1589 (al",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "madrid-shops-15",
+        "name": "Madrid Metro",
+        "cityId": "madrid",
+        "categoryId": "shops",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Madrid%20Metro%2C%20Madrid",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Madrid_Metro",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/Metro_Callao_en_madrid.jpg/960px-Metro_Callao_en_madrid.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Madrid_Metro"
+        },
+        "description": "The Madrid Metro (Spanish: Metro de Madrid) is a rapid transit system serving the metropolitan area of Madrid, the capital of Spain. First opened in 1919, the system has regularly undergone numerous extensions over the next century, bringing it to today's network which comprises thirteen lines (including one two-station shuttle line). The network is largely managed by Metro de Madrid S.A., which is owned by the Gover",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "madrid-shops-16",
+        "name": "Parque de Atracciones de Madrid",
+        "cityId": "madrid",
+        "categoryId": "shops",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Parque%20de%20Atracciones%20de%20Madrid%2C%20Madrid",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Parque_de_Atracciones_de_Madrid",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Entrada_Parque_de_Atracciones_de_Madrid.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Parque_de_Atracciones_de_Madrid"
+        },
+        "description": "Parque de Atracciones de Madrid (in English: Madrid’s Amusement Park) is a 20-hectare (49-acre) amusement park located in the Casa de Campo in Madrid (Spain). Opened in 1969, it is the third-oldest operating amusement park in Spain behind Parc d'Atraccions Tibidabo (opened in 1901) and Parque de Atracciones Monte Igueldo (opened in 1911). It is the flagship park of Parques Reunidos, which operates the park under Madr",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "madrid-shops-17",
+        "name": "Kids' WB Fun Zone",
+        "cityId": "madrid",
+        "categoryId": "shops",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Kids'%20WB%20Fun%20Zone%2C%20Madrid",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Kids'_WB_Fun_Zone",
+        "photo": null,
+        "description": "Kids' WB Fun Zone is a themed attraction in Warner Bros. Movie World on the Gold Coast, Queensland, Australia based on the Looney Tunes cartoons. The attraction was originally named Looney Tunes Village and was renamed in late 2007 when two new rides were added. At the same time, the Australian Kids' WB TV show began filming at the theme park. Two similar themed attractions, Looney Tunes Land and Cartoon Village, ope",
+        "lat": -27.90638889,
+        "lng": 153.31111111
+      },
+      {
+        "id": "madrid-shops-18",
+        "name": "Francisco de Robles",
+        "cityId": "madrid",
+        "categoryId": "shops",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Francisco%20de%20Robles%2C%20Madrid",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Francisco_de_Robles",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Title_page_first_edition_Don_Quijote.jpg/960px-Title_page_first_edition_Don_Quijote.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Francisco_de_Robles"
+        },
+        "description": "Francisco de Robles was a bookseller in Madrid, whose shop was near the Puerta de Guadalajara. He was also a publisher; among his books are the first editions of Don Quixote (1605) and the Exemplary Novels (1613), by Miguel de Cervantes. Robles contracted with the printer Juan de la Cuesta to print Don Quijote in his shop at Atocha 87, in Madrid, which is today a museum and cultural center, and home of the Sociedad C",
+        "lat": null,
+        "lng": null
+      }
+    ]
+  }
+}

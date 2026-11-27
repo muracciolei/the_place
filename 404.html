@@ -1,0 +1,17 @@
+<!doctype html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <title>THE PLACE</title>
+    <script>
+      // GitHub Pages fallback para React Router (BrowserRouter).
+      // Guarda la ruta solicitada y vuelve a index.html, donde se restaura.
+      sessionStorage.setItem(
+        'the_place:redirect',
+        location.pathname + location.search + location.hash
+      )
+      location.replace('/the_place/index.html')
+    </script>
+  </head>
+  <body></body>
+</html>

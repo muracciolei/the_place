@@ -1,0 +1,2921 @@
+{
+  "cityId": "new-york",
+  "generatedAt": "2026-11-27T08:57:38.718Z",
+  "source": "Wikipedia API + Maps URLs (sin scraping de Google)",
+  "incomplete": [],
+  "categories": {
+    "night_clubs": [
+      {
+        "id": "new-york-night_clubs-1",
+        "name": "Latin Quarter",
+        "cityId": "new-york",
+        "categoryId": "night_clubs",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Latin%20Quarter%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Latin_Quarter_(nightclub)",
+        "photo": null,
+        "description": "The Latin Quarter (also known later on as The LQ) was a nightclub in New York City. The club originally opened in 1942 and featured big-name acts. In recent years, it had been a focus of hip hop, reggaeton and salsa music. Its history is similar to that of its competitor, the Copacabana.",
+        "lat": 40.755092,
+        "lng": -73.973206
+      },
+      {
+        "id": "new-york-night_clubs-2",
+        "name": "Earl Carroll Theatre",
+        "cityId": "new-york",
+        "categoryId": "night_clubs",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Earl%20Carroll%20Theatre%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Earl_Carroll_Theatre",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Earl_Carroll_Theatre%2C_Manhattan.jpg/960px-Earl_Carroll_Theatre%2C_Manhattan.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Earl_Carroll_Theatre"
+        },
+        "description": "The Earl Carroll Theatre was a Broadway theatre at 753 Seventh Avenue near 50th Street in the Theater District of Midtown Manhattan in New York City. Built by impresario Earl Carroll and designed by architect George Keister, it opened on February 25, 1922, and was highly successful for a number of years until it was demolished and rebuilt on a lavish scale. It reopened in August 1931 with Carroll's billing that it wa",
+        "lat": 40.7607,
+        "lng": -73.983
+      },
+      {
+        "id": "new-york-night_clubs-3",
+        "name": "Copacabana",
+        "cityId": "new-york",
+        "categoryId": "night_clubs",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Copacabana%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Copacabana_(nightclub)",
+        "photo": null,
+        "description": "The Copacabana is a New York City nightclub that has existed in several locations. In earlier locations, many entertainers, such as Danny Thomas, Pat Cooper, and the comedy team of Martin and Lewis, made their New York debuts at the Copacabana. The Barry Manilow song \"Copacabana\" (1978) is named after, and set in, the club. The nightclub was used as a setting in the films Goodfellas, Raging Bull, Tootsie, The Purple ",
+        "lat": 40.7672628,
+        "lng": -73.9953767,
+        "osm": {
+          "phone": null,
+          "email": null,
+          "website": null,
+          "hours": null,
+          "address": "80-26 Roosevelt Avenue, Queens, New York, 11373, United States",
+          "lat": 40.7473956,
+          "lng": -73.8850101,
+          "url": "https://www.openstreetmap.org/node/2846344693",
+          "source": "OpenStreetMap contributors (ODbL)"
+        }
+      },
+      {
+        "id": "new-york-night_clubs-4",
+        "name": "Studio 54",
+        "cityId": "new-york",
+        "categoryId": "night_clubs",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Studio%2054%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Studio_54",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/Studio_54_logo.svg/960px-Studio_54_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Studio_54"
+        },
+        "description": "Studio 54 is a Broadway theater and former nightclub at 254 West 54th Street in the Midtown Manhattan neighborhood of New York City, New York, U.S. Opened as the Gallo Opera House in 1927, it served as a CBS broadcast studio in the mid-20th century. Steve Rubell and Ian Schrager opened the Studio 54 nightclub, retaining much of the former theatrical and broadcasting fixtures, inside the venue in 1977. Roundabout Thea",
+        "lat": 40.76436111,
+        "lng": -73.98377778,
+        "osm": {
+          "phone": null,
+          "email": null,
+          "website": "https://www.roundabouttheatre.org/",
+          "hours": null,
+          "address": "254 West 54th Street, Manhattan, New York, 10019, United States",
+          "lat": 40.7643461,
+          "lng": -73.9837786,
+          "url": "https://www.openstreetmap.org/way/266155267",
+          "source": "OpenStreetMap contributors (ODbL)"
+        }
+      },
+      {
+        "id": "new-york-night_clubs-5",
+        "name": "WWF New York",
+        "cityId": "new-york",
+        "categoryId": "night_clubs",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=WWF%20New%20York%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/WWF_New_York",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/76/Paramount_Times_Square.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/WWF_New_York"
+        },
+        "description": "WWF New York (later known as The World) was a World Wrestling Federation / Entertainment (WWF/E) themed restaurant, nightclub and retail store in Times Square in New York City, leased in the Paramount Theatre building. The venue was best known for featuring in segments on Raw and SmackDown, and having live segments of Heat emanate from its complex that was hosted by Michael Cole and Tazz from October 2000 to February",
+        "lat": 40.75659,
+        "lng": -73.98626
+      },
+      {
+        "id": "new-york-night_clubs-6",
+        "name": "The Embers",
+        "cityId": "new-york",
+        "categoryId": "night_clubs",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Embers%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/The_Embers_(nightclub)",
+        "photo": null,
+        "description": "The Embers was a 1950s and 1960s-era New York City restaurant and nightclub formerly located at 161 East 54th Street between 3rd and Lexington Avenues. It was opened in late 1951 by former jazz musician Ralph Watkins, who had also been involved with clubs such as Bop City and Royal Roost, and featured many notable jazz acts over the years, including Marian McPartland, Dorothy Donegan, Joe Bushkin, George Shearing, Jo",
+        "lat": 40.7588,
+        "lng": -73.9699
+      },
+      {
+        "id": "new-york-night_clubs-7",
+        "name": "Omar Mateen",
+        "cityId": "new-york",
+        "categoryId": "night_clubs",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Omar%20Mateen%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Omar_Mateen",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Omar_Mateen.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Omar_Mateen"
+        },
+        "description": "Omar Mir Seddique Mateen (born Omar Mir Seddique; November 16, 1986 – June 12, 2016) was an American mass murderer and domestic terrorist who killed 49 people and wounded 58 others, 53 of them by gunfire in a mass shooting at the Pulse nightclub, a gay nightclub in Orlando, Florida, on June 12, 2016, before he was killed in a shootout with the local police. It was the deadliest mass shooting in American history until",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "new-york-night_clubs-8",
+        "name": "Rebar",
+        "cityId": "new-york",
+        "categoryId": "night_clubs",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Rebar%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Rebar_(New_York_City)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Rebar%2C_NYC%2C_2020.jpg/960px-Rebar%2C_NYC%2C_2020.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Rebar_(New_York_City)"
+        },
+        "description": "Rebar, or ReBar, is a gay bar and nightclub in the Chelsea neighborhood of Manhattan in New York City.",
+        "lat": 40.7422875,
+        "lng": -73.9983765
+      },
+      {
+        "id": "new-york-night_clubs-9",
+        "name": "Club 57",
+        "cityId": "new-york",
+        "categoryId": "night_clubs",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Club%2057%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Club_57_(nightclub)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Club-57.jpg/960px-Club-57.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Club_57_(nightclub)"
+        },
+        "description": "Club 57 was a nightclub located at 57 St. Mark's Place in the East Village, New York City during the late 1970s and early 1980s. It was originally founded by Stanley Zbigniew Strychacki as well as Dominic Rose, then enhanced by nightclub performer Ann Magnuson, Susan Hannaford, and poet Tom Scully. It was a hangout and venue for performance and visual artists and musicians, including The Cramps, Madonna, Keith Haring",
+        "lat": 40.728316,
+        "lng": -73.986354
+      },
+      {
+        "id": "new-york-night_clubs-10",
+        "name": "Area",
+        "cityId": "new-york",
+        "categoryId": "night_clubs",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Area%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Area_(nightclub)",
+        "photo": null,
+        "description": "Area was a themed nightclub that operated from 1983 to 1987 at 157 Hudson Street in Manhattan, New York City. It was a hot spot for celebrities and luminaries of the New York art scene. The club was known for its unusual invitations and changing themes. Area was founded by brothers Eric Goode and Christopher Goode, Shawn Hausman, Darius Azari, and Zwi Wasserstein. The life of the club is chronicled in the book Area: ",
+        "lat": 40.72166667,
+        "lng": -74.00861111
+      },
+      {
+        "id": "new-york-night_clubs-11",
+        "name": "Therapy",
+        "cityId": "new-york",
+        "categoryId": "night_clubs",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Therapy%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Therapy_(New_York_City)",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/39/Therapy_Bar_348_W52_%282%29_jeh.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Therapy_(New_York_City)"
+        },
+        "description": "Therapy was a two-story gay bar and nightclub in the Hell's Kitchen neighborhood of Manhattan in New York City. It hosted frequent drag shows, some of which featured performers who later rose to prominence on RuPaul's Drag Race. The venue was a favorite Monday-night stop for Broadway actors, who sometimes participated in the club's shows. Like other New York City nightlife establishments, Therapy was ordered to close",
+        "lat": 40.76405556,
+        "lng": -73.98691667
+      },
+      {
+        "id": "new-york-night_clubs-12",
+        "name": "Hurrah",
+        "cityId": "new-york",
+        "categoryId": "night_clubs",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Hurrah%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Hurrah_(nightclub)",
+        "photo": null,
+        "description": "Hurrah was a nightclub located at 36 West 62nd Street in New York City from 1976 until early 1981.",
+        "lat": 40.77056,
+        "lng": -73.98208
+      },
+      {
+        "id": "new-york-night_clubs-13",
+        "name": "Industry Bar",
+        "cityId": "new-york",
+        "categoryId": "night_clubs",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Industry%20Bar%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Industry_Bar",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Industry_entrance.jpg/960px-Industry_entrance.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Industry_Bar"
+        },
+        "description": "Industry Bar, or simply Industry, is a gay bar and nightclub in the Hell's Kitchen neighborhood of Manhattan in New York City. Owned by Bob Pontarelli, it is a sister establishment to Barracuda, a defunct gay bar, and Elmo, a restaurant. Industry opened in 2010 and caters primarily to a crowd of young gay men and tourists. Its musical selection is mostly pop, and its live entertainment consists of a number of weekly ",
+        "lat": 40.7645,
+        "lng": -73.9869
+      },
+      {
+        "id": "new-york-night_clubs-14",
+        "name": "The Limelight",
+        "cityId": "new-york",
+        "categoryId": "night_clubs",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Limelight%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/The_Limelight",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Avalon_NYC_2007_006.jpg/960px-Avalon_NYC_2007_006.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/The_Limelight"
+        },
+        "description": "The Limelight was a chain of nightclubs owned and operated by Peter Gatien. It had locations in New York City, Chicago, Atlanta, London and Hallandale, Florida.",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "new-york-night_clubs-15",
+        "name": "Tunnel",
+        "cityId": "new-york",
+        "categoryId": "night_clubs",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Tunnel%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Tunnel_(New_York_nightclub)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/Terminal_Warehouse_Central_Stores_Building_closeup.jpg/960px-Terminal_Warehouse_Central_Stores_Building_closeup.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Tunnel_(New_York_nightclub)"
+        },
+        "description": "Tunnel was a nightclub located at 220 Twelfth Avenue (between 27th and 28th Streets), in the Chelsea neighborhood of Manhattan, New York City. It operated from 1986 to 2001. The nightclub was located within the Terminal Warehouse Company Central Stores Building, also known as Chelsea Terminal Warehouse, which is now part of the West Chelsea Historic District.",
+        "lat": 40.7525,
+        "lng": -74.0075
+      },
+      {
+        "id": "new-york-night_clubs-16",
+        "name": "Lena Horne",
+        "cityId": "new-york",
+        "categoryId": "night_clubs",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Lena%20Horne%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Lena_Horne",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Lena_Horne%2C_1946.jpg/960px-Lena_Horne%2C_1946.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Lena_Horne"
+        },
+        "description": "Lena Mary Calhoun Horne (June 30, 1917 – May 9, 2010) was an American singer, actress, dancer and civil rights activist. Horne's career spanned more than seventy years and covered film, television and theater. Horne joined the chorus of the Cotton Club at the age of sixteen and became a nightclub performer before moving on to Hollywood and Broadway. A groundbreaking Black American performer, Horne advocated for civil",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "new-york-night_clubs-17",
+        "name": "Jackie 60",
+        "cityId": "new-york",
+        "categoryId": "night_clubs",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Jackie%2060%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Jackie_60",
+        "photo": null,
+        "description": "Jackie 60 was a nightclub hosting weekly parties from 1990 to 1999 in New York's Meatpacking District. It was founded by DJ Johnny Dynell, writer Chi Chi Valenti, fashion designer Kitty Boots and dancer/choreographer Richard Move, who were later (ca. 1995) joined by Brian Butterick AKA Hattie Hathaway. The club served \"dominant women, poets, gay men and lesbians, free-thinking heterosexuals, transvestites and transex",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "new-york-night_clubs-18",
+        "name": "Bond International Casino",
+        "cityId": "new-york",
+        "categoryId": "night_clubs",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Bond%20International%20Casino%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Bond_International_Casino",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/DKbonds1982.jpg/960px-DKbonds1982.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Bond_International_Casino"
+        },
+        "description": "Bond International Casino (sometimes called \"Bond's\") was a nightclub and music venue located on the east side of Broadway between 44th and 45th Streets near Times Square, New York City. The venue operated as the International Casino in the 1930s, a popular dinner club (not a gambling house). The club closed by 1940, the vacant location later converted to Bond Clothes, a men's clothing emporium. Starting in 1980, the",
+        "lat": 40.75766,
+        "lng": -73.98559
+      }
+    ],
+    "restaurants": [
+      {
+        "id": "new-york-restaurants-1",
+        "name": "La Grenouille",
+        "cityId": "new-york",
+        "categoryId": "restaurants",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=La%20Grenouille%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/La_Grenouille_(restaurant)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/La_Grenouille_NYC.jpg/960px-La_Grenouille_NYC.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/La_Grenouille_(restaurant)"
+        },
+        "description": "La Grenouille (French for \"The Frog\") was a French restaurant at 3 East 52nd Street between Fifth Avenue and Madison Avenue in Midtown Manhattan, New York City. Founded in 1962 by former Henri Soulé apprentice Charles Masson Sr. and his wife Gisèle, later with sons Philippe and Charles, La Grenouille became a location of choice among New York, U.S., and eventually international diners, including designers from the ne",
+        "lat": 40.75961111,
+        "lng": -73.97558611
+      },
+      {
+        "id": "new-york-restaurants-2",
+        "name": "Grand Central Oyster Bar & Restaurant",
+        "cityId": "new-york",
+        "categoryId": "restaurants",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Grand%20Central%20Oyster%20Bar%20%26%20Restaurant%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Grand_Central_Oyster_Bar_%26_Restaurant",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/The_Oyster_Bar%2C_Grand_Central_Terminal%2C_New_York_City_%284057303042%29.jpg/960px-The_Oyster_Bar%2C_Grand_Central_Terminal%2C_New_York_City_%284057303042%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Grand_Central_Oyster_Bar_%26_Restaurant"
+        },
+        "description": "The Grand Central Oyster Bar & Restaurant is a seafood restaurant on the lower level of Grand Central Terminal at 42nd Street and Park Avenue in Manhattan, New York City.",
+        "lat": 40.75233333,
+        "lng": -73.97722222
+      },
+      {
+        "id": "new-york-restaurants-3",
+        "name": "Brasserie Les Halles",
+        "cityId": "new-york",
+        "categoryId": "restaurants",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Brasserie%20Les%20Halles%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Brasserie_Les_Halles",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/WTM_tony_0009.jpg/960px-WTM_tony_0009.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Brasserie_Les_Halles"
+        },
+        "description": "Brasserie Les Halles was a French-brasserie-style restaurant originally located on Park Avenue in Manhattan, New York City. Other locations were on John Street in Manhattan, in Tokyo, Miami, and Washington, D.C. Author and television host Anthony Bourdain worked there as executive chef. The restaurant featured prominently in his 2000 book Kitchen Confidential. Les Halles went out of business in August 2017.",
+        "lat": 40.74356111,
+        "lng": -73.98368333
+      },
+      {
+        "id": "new-york-restaurants-4",
+        "name": "Marea",
+        "cityId": "new-york",
+        "categoryId": "restaurants",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Marea%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Marea_(restaurant)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Marea_interior.jpg/960px-Marea_interior.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Marea_(restaurant)"
+        },
+        "description": "Marea is an Italian and seafood restaurant at 240 Central Park South, on Columbus Circle in Manhattan, New York City, which opened in May 2009.",
+        "lat": 40.7675,
+        "lng": -73.98083333
+      },
+      {
+        "id": "new-york-restaurants-5",
+        "name": "Restaurant Aquavit",
+        "cityId": "new-york",
+        "categoryId": "restaurants",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Restaurant%20Aquavit%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Restaurant_Aquavit",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/Aquavit_NYC.jpg/960px-Aquavit_NYC.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Restaurant_Aquavit"
+        },
+        "description": "Aquavit is a Scandinavian restaurant at 65 East 55th Street in Midtown Manhattan, New York City. In November 2016, an outpost was launched in London by Philip Hamilton.",
+        "lat": 40.76079444,
+        "lng": -73.97221944
+      },
+      {
+        "id": "new-york-restaurants-6",
+        "name": "Sardi's",
+        "cityId": "new-york",
+        "categoryId": "restaurants",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Sardi's%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Sardi's",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Sardis.jpg/960px-Sardis.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Sardi's"
+        },
+        "description": "Sardi's is a continental restaurant located at 234 West 44th Street, between Broadway and Eighth Avenue, in the Theater District of Manhattan, New York City. Sardi's opened at its current location on March 5, 1927. It is known for the caricatures of Broadway celebrities on its walls, of which there are over a thousand. Sardi's was founded by Vincent Sardi Sr. and his wife Jenny Pallera, who had previously operated a ",
+        "lat": 40.75791111,
+        "lng": -73.98753333
+      },
+      {
+        "id": "new-york-restaurants-7",
+        "name": "Four Seasons Restaurant",
+        "cityId": "new-york",
+        "categoryId": "restaurants",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Four%20Seasons%20Restaurant%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Four_Seasons_Restaurant",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Four-seasons-ny.jpg/960px-Four-seasons-ny.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Four_Seasons_Restaurant"
+        },
+        "description": "The Four Seasons Restaurant (known colloquially as the Four Seasons) was a New American cuisine restaurant in the Midtown Manhattan neighborhood of New York City from 1959 to 2019. The Four Seasons operated within the Seagram Building at 99 East 52nd Street for most of its existence, although it relocated to 42 East 49th Street in its final year of operation. The restaurant was themed around the seasons of the year, ",
+        "lat": 40.75805556,
+        "lng": -73.97208333
+      },
+      {
+        "id": "new-york-restaurants-8",
+        "name": "Delmonico's",
+        "cityId": "new-york",
+        "categoryId": "restaurants",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Delmonico's%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Delmonico's",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Delmonico%27s_%2850056567651%29.jpg/960px-Delmonico%27s_%2850056567651%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Delmonico's"
+        },
+        "description": "Delmonico's is a series of restaurants that have operated in New York City, with the present version located at 56 Beaver Street in the Financial District of Manhattan. The original version opened in 1827 at 23 William Street. Delmonico's (under the Delmonico family's ownership and management) closed all locations by 1923. In 1926, Delmonico's reopened under new ownership of Oscar Tucci at 56 Beaver Street.",
+        "lat": 40.70508,
+        "lng": -74.01007
+      },
+      {
+        "id": "new-york-restaurants-9",
+        "name": "Moosewood Restaurant",
+        "cityId": "new-york",
+        "categoryId": "restaurants",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Moosewood%20Restaurant%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Moosewood_Restaurant",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/Moosewood_Restaurant_at_DeWitt_Mall%2C_Ithaca.jpg/960px-Moosewood_Restaurant_at_DeWitt_Mall%2C_Ithaca.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Moosewood_Restaurant"
+        },
+        "description": "Moosewood Restaurant is an American natural foods restaurant in Ithaca, New York, founded in 1973. In 1978, the founders sold the restaurant to the staff, who became \"The Moosewood Collective\". In addition to producing a number of James Beard Award winning and nominated cookbooks (by the Moosewood Collective), The Moosewood Restaurant also won the James Beard America's Classics award from the James Beard Foundation i",
+        "lat": 42.44138889,
+        "lng": -76.49888889
+      },
+      {
+        "id": "new-york-restaurants-10",
+        "name": "Le Pavillon",
+        "cityId": "new-york",
+        "categoryId": "restaurants",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Le%20Pavillon%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Le_Pavillon_(Daniel_Boulud_restaurant)",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Pavillon_logo.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Le_Pavillon_(Daniel_Boulud_restaurant)"
+        },
+        "description": "Le Pavillon is a restaurant in Midtown Manhattan, New York City. The restaurant is owned by the Dinex Group, a restaurant company led by chef and restaurateur Daniel Boulud. Le Pavillon opened in May 2021 in One Vanderbilt, a skyscraper completed in 2020 in Midtown East.",
+        "lat": 40.753,
+        "lng": -73.9785
+      },
+      {
+        "id": "new-york-restaurants-11",
+        "name": "Rumpelmayer's",
+        "cityId": "new-york",
+        "categoryId": "restaurants",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Rumpelmayer's%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Rumpelmayer's_(New_York_City)",
+        "photo": null,
+        "description": "Rumpelmayer's was a café and ice cream parlor in the Hotel St. Moritz and part of a chain started by Anton Rumpelmayer. It was popular for children's birthday parties, Sunday breakfasts, and afternoon teas. The Art Deco restaurant was designed by Winold Reiss and overlooked Central Park. The pink walls had Egyptian-style mosaics and the room was decorated with stuffed animals. They served hot fudge sundaes and hot co",
+        "lat": 40.76527778,
+        "lng": -73.97611111
+      },
+      {
+        "id": "new-york-restaurants-12",
+        "name": "Le Bernardin",
+        "cityId": "new-york",
+        "categoryId": "restaurants",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Le%20Bernardin%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Le_Bernardin",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/Interior_of_Le_Bernardin.jpg/960px-Interior_of_Le_Bernardin.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Le_Bernardin"
+        },
+        "description": "Le Bernardin is a three-Michelin star French seafood restaurant in Midtown Manhattan, New York City. Eric Ripert is the executive chef, and he is co-owner along with Maguy Le Coze.",
+        "lat": 40.76138889,
+        "lng": -73.98166667
+      },
+      {
+        "id": "new-york-restaurants-13",
+        "name": "Gallagher's Steakhouse",
+        "cityId": "new-york",
+        "categoryId": "restaurants",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Gallagher's%20Steakhouse%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Gallagher's_Steakhouse",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Gallagher%27s_Steakhouse_%2854077231479%29.jpg/960px-Gallagher%27s_Steakhouse_%2854077231479%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Gallagher's_Steakhouse"
+        },
+        "description": "Gallagher's Steakhouse is a steakhouse restaurant at 228 West 52nd Street in the Theater District in Manhattan, New York City. It was founded in November 1927 by Helen Gallagher, a former Ziegfeld girl, and wife of Edward Gallagher (1873–1929), and Jack Solomon, a colorful gambler with a large loyal following from the sporting element. These were the days of Prohibition and Gallagher's was one of the first speakeasy ",
+        "lat": 40.76279167,
+        "lng": -73.98376389
+      },
+      {
+        "id": "new-york-restaurants-14",
+        "name": "Windows on the World",
+        "cityId": "new-york",
+        "categoryId": "restaurants",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Windows%20on%20the%20World%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Windows_on_the_World",
+        "photo": null,
+        "description": "Windows on the World was a complex of dining, meeting, and entertainment venues on the top floors (106th and 107th) of the North Tower (Building One) of the original World Trade Center complex in Lower Manhattan, New York City, United States. It included a restaurant called Windows on the World, a smaller restaurant called Wild Blue (which before 1999 was called \"Cellar in the Sky\"), a bar called The Greatest Bar on ",
+        "lat": 40.71222222,
+        "lng": -74.01305556
+      },
+      {
+        "id": "new-york-restaurants-15",
+        "name": "Reuben's Restaurant",
+        "cityId": "new-york",
+        "categoryId": "restaurants",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Reuben's%20Restaurant%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Reuben's_Restaurant",
+        "photo": null,
+        "description": "Reuben's Restaurant and Delicatessen was a restaurant and Jewish deli in Manhattan, New York City founded by Arnold Reuben.",
+        "lat": 40.7501278,
+        "lng": -73.9814707
+      },
+      {
+        "id": "new-york-restaurants-16",
+        "name": "Per Se",
+        "cityId": "new-york",
+        "categoryId": "restaurants",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Per%20Se%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Per_Se_(restaurant)",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/52/PerSe.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Per_Se_(restaurant)"
+        },
+        "description": "Per Se is a New American and French restaurant at The Shops at Columbus Circle, on the fourth floor of the Deutsche Bank Center at 10 Columbus Circle in Manhattan, New York City. It is owned by chef Thomas Keller, and the chef de cuisine is Chad Palagi. Per Se has maintained three Michelin stars since the introduction of the New York City Guide in 2006.",
+        "lat": 40.768735,
+        "lng": -73.982938
+      },
+      {
+        "id": "new-york-restaurants-17",
+        "name": "Tom's Restaurant",
+        "cityId": "new-york",
+        "categoryId": "restaurants",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Tom's%20Restaurant%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Tom's_Restaurant",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Tom%27s_Restaurant_on_2880_Broadway%2C_New_York.JPG/960px-Tom%27s_Restaurant_on_2880_Broadway%2C_New_York.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Tom's_Restaurant"
+        },
+        "description": "Tom's Restaurant is a diner located at 2880 Broadway (on the corner of West 112th Street) in the Morningside Heights neighborhood of Manhattan in New York City. It is on the ground floor of Columbia University's Armstrong Hall, home to the Goddard Institute for Space Studies. Frequented by Columbia students and faculty, it was founded by Tom Glikas in the 1940s and after a sale at some undetermined point has been own",
+        "lat": 40.80555556,
+        "lng": -73.96555556
+      },
+      {
+        "id": "new-york-restaurants-18",
+        "name": "Russian Tea Room",
+        "cityId": "new-york",
+        "categoryId": "restaurants",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Russian%20Tea%20Room%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Russian_Tea_Room",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Russian_Tea_Room_entrance_2025.jpg/960px-Russian_Tea_Room_entrance_2025.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Russian_Tea_Room"
+        },
+        "description": "The Russian Tea Room is an Art Deco Russo-Continental restaurant, located at 150 West 57th Street (between Sixth Avenue and Seventh Avenue), between Carnegie Hall Tower and Metropolitan Tower, in the New York City borough of Manhattan.",
+        "lat": 40.765,
+        "lng": -73.97944444
+      }
+    ],
+    "bars": [
+      {
+        "id": "new-york-bars-1",
+        "name": "Grand Central Oyster Bar & Restaurant",
+        "cityId": "new-york",
+        "categoryId": "bars",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Grand%20Central%20Oyster%20Bar%20%26%20Restaurant%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Grand_Central_Oyster_Bar_%26_Restaurant",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/The_Oyster_Bar%2C_Grand_Central_Terminal%2C_New_York_City_%284057303042%29.jpg/960px-The_Oyster_Bar%2C_Grand_Central_Terminal%2C_New_York_City_%284057303042%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Grand_Central_Oyster_Bar_%26_Restaurant"
+        },
+        "description": "The Grand Central Oyster Bar & Restaurant is a seafood restaurant on the lower level of Grand Central Terminal at 42nd Street and Park Avenue in Manhattan, New York City.",
+        "lat": 40.75233333,
+        "lng": -73.97722222
+      },
+      {
+        "id": "new-york-bars-2",
+        "name": "Stonewall Inn",
+        "cityId": "new-york",
+        "categoryId": "bars",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Stonewall%20Inn%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Stonewall_Inn",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Stonewall_Inn_5_pride_weekend_2016.jpg/960px-Stonewall_Inn_5_pride_weekend_2016.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Stonewall_Inn"
+        },
+        "description": "The Stonewall Inn (also known as Stonewall) is a gay bar and recreational tavern at 53 Christopher Street in the Greenwich Village neighborhood of Lower Manhattan in New York City. It was the site of the 1969 Stonewall riots, which led to the gay liberation movement and the fight for LGBTQ+ rights in the United States. When the riots occurred, Stonewall was one of the relatively few gay bars in New York City. The ori",
+        "lat": 40.73388889,
+        "lng": -74.00222222
+      },
+      {
+        "id": "new-york-bars-3",
+        "name": "Milk Bar",
+        "cityId": "new-york",
+        "categoryId": "bars",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Milk%20Bar%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Milk_Bar_(bakery)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Momofuku_Milk_Bar_Nolita_sign_%2800330%29.jpg/960px-Momofuku_Milk_Bar_Nolita_sign_%2800330%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Milk_Bar_(bakery)"
+        },
+        "description": "Milk Bar (originally Momofuku Milk Bar) is a chain of dessert and bakery restaurants in the United States, founded in New York City by chef Christina Tosi. As of 2024, the chain has branches in New York City; Los Angeles; Washington, D.C.; Las Vegas; Bellevue, Washington, and Chicago. Tosi began and as of 2018 still owns the chain along with investors. She is the primary recipe developer of Milk Bar's products.",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "new-york-bars-4",
+        "name": "McSorley's Old Ale House",
+        "cityId": "new-york",
+        "categoryId": "bars",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=McSorley's%20Old%20Ale%20House%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/McSorley's_Old_Ale_House",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/McSorley%27s_Old_Ale_House_001_crop.jpg/960px-McSorley%27s_Old_Ale_House_001_crop.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/McSorley's_Old_Ale_House"
+        },
+        "description": "McSorley's Old Ale House is the oldest Irish saloon in New York City. Opened in the mid-19th century at 15 East 7th Street, in what is now the East Village neighborhood of Manhattan, it was one of the last of the \"Men Only\" pubs, admitting women only after legally being forced to do so in 1970. The aged artwork, newspaper articles covering the walls, sawdust floors, and the Irish waiters and bartenders give McSorley'",
+        "lat": 40.72871,
+        "lng": -73.98974
+      },
+      {
+        "id": "new-york-bars-5",
+        "name": "West End Bar",
+        "cityId": "new-york",
+        "categoryId": "bars",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=West%20End%20Bar%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/West_End_Bar",
+        "photo": null,
+        "description": "The West End Bar, also known for a time as the \"West End Gate\", was located on Broadway near 114th Street in Morningside Heights, Manhattan, New York City. From its establishment in 1911, the bar served as a common gathering place for Columbia University students, faculty and administration (its slogan was \"Where Columbia Had Its First Beer\"). Amongst the Columbia students who used the bar as a meeting place were Bea",
+        "lat": 40.80647,
+        "lng": -73.96533
+      },
+      {
+        "id": "new-york-bars-6",
+        "name": "Whiskey Soda Lounge",
+        "cityId": "new-york",
+        "categoryId": "bars",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Whiskey%20Soda%20Lounge%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Whiskey_Soda_Lounge",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Southeast_Portland%2C_Oregon_%28February_7%2C_2021%29_-_043.jpg/960px-Southeast_Portland%2C_Oregon_%28February_7%2C_2021%29_-_043.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Whiskey_Soda_Lounge"
+        },
+        "description": "Whiskey Soda Lounge was a bar and Thai restaurant by Andy Ricker in Portland, Oregon's Richmond neighborhood, in the United States. Located across the street from Ricker's Pok Pok restaurant, the whiskey-centric bar closed in 2020, during the COVID-19 pandemic.",
+        "lat": 45.5049,
+        "lng": -122.6328
+      },
+      {
+        "id": "new-york-bars-7",
+        "name": "CBGB",
+        "cityId": "new-york",
+        "categoryId": "bars",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=CBGB%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/CBGB",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/CBGB_club_facade.jpg/960px-CBGB_club_facade.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/CBGB"
+        },
+        "description": "CBGB was a New York City music club opened in 1973 by Hilly Kristal and his ex-wife Karen Kristal at 315 Bowery in the East Village in Manhattan, New York City. The club was previously a biker bar and before that it was a dive bar. The letters CBGB were for Country, Bluegrass, Blues, Kristal's original vision for the club, but CBGB soon emerged as a famed and iconic venue for punk rock and new wave bands, including P",
+        "lat": 40.72527778,
+        "lng": -73.99194444
+      },
+      {
+        "id": "new-york-bars-8",
+        "name": "Bar and bat mitzvah",
+        "cityId": "new-york",
+        "categoryId": "bars",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Bar%20and%20bat%20mitzvah%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Bar_and_bat_mitzvah",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Jewish_boy_reads_Bar_Mitzvah.JPG/960px-Jewish_boy_reads_Bar_Mitzvah.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Bar_and_bat_mitzvah"
+        },
+        "description": "A bar mitzvah (masculine) or bat mitzvah (feminine) is a coming of age ritual in Judaism. According to Jewish law, before children reach a certain age, the parents are responsible for their child's actions. Once Jewish children reach that age, they are said to \"become\" b'nai mitzvah, at which point they begin to be held accountable for their own actions. Traditionally, the father of a bar or bat mitzvah offers thanks",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "new-york-bars-9",
+        "name": "Metropolitan",
+        "cityId": "new-york",
+        "categoryId": "bars",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Metropolitan%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Metropolitan_(bar)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Metropolitan_Bar_%28cropped%29.jpg/960px-Metropolitan_Bar_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Metropolitan_(bar)"
+        },
+        "description": "Metropolitan is a gay bar in the Williamsburg neighborhood of Brooklyn in New York City.",
+        "lat": 40.71361111,
+        "lng": -73.94944444
+      },
+      {
+        "id": "new-york-bars-10",
+        "name": "Windows on the World",
+        "cityId": "new-york",
+        "categoryId": "bars",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Windows%20on%20the%20World%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Windows_on_the_World",
+        "photo": null,
+        "description": "Windows on the World was a complex of dining, meeting, and entertainment venues on the top floors (106th and 107th) of the North Tower (Building One) of the original World Trade Center complex in Lower Manhattan, New York City, United States. It included a restaurant called Windows on the World, a smaller restaurant called Wild Blue (which before 1999 was called \"Cellar in the Sky\"), a bar called The Greatest Bar on ",
+        "lat": 40.71222222,
+        "lng": -74.01305556
+      },
+      {
+        "id": "new-york-bars-11",
+        "name": "Momofuku",
+        "cityId": "new-york",
+        "categoryId": "bars",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Momofuku%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Momofuku_(restaurants)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/MomofukuRamen.jpg/960px-MomofukuRamen.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Momofuku_(restaurants)"
+        },
+        "description": "Momofuku is a culinary brand established by chef David Chang in 2004 with the opening of Momofuku Noodle Bar. It includes restaurants in New York City, Toronto (defunct), Las Vegas, and Los Angeles. Its various restaurants are called Noodle Bar, Ssäm Bar, Ko, Má Pêche (defunct), Seiōbo, Noodle Bar Toronto (defunct), Kōjin, Fuku, Fuku+, CCDC, Nishi, Ando, Las Vegas, Fuku Wall St, Kāwi, Kabawa, and Bar Kabawa. The comp",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "new-york-bars-12",
+        "name": "Campbell Apartment",
+        "cityId": "new-york",
+        "categoryId": "bars",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Campbell%20Apartment%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Campbell_Apartment",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/GCT_Campbell_1.jpg/960px-GCT_Campbell_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Campbell_Apartment"
+        },
+        "description": "The Campbell is a bar and cocktail lounge in Grand Central Terminal in Midtown Manhattan, New York City. The space, long known as the Campbell Apartment, was once the office of American financier John W. Campbell, a member of the New York Central Railroad's board of directors. It was later used as office space, as a studio by CBS and as a jail by Metro-North Railroad. Renovations in 1999 and 2007 restored the space t",
+        "lat": 40.75257222,
+        "lng": -73.97781389
+      },
+      {
+        "id": "new-york-bars-13",
+        "name": "Medals of the New York City Police Department",
+        "cityId": "new-york",
+        "categoryId": "bars",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Medals%20of%20the%20New%20York%20City%20Police%20Department%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Medals_of_the_New_York_City_Police_Department",
+        "photo": null,
+        "description": "The New York City Police Department presents medals to its members for meritorious service. The medals the NYPD awards are as follows (from highest precedence to lowest):",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "new-york-bars-14",
+        "name": "Admission to the bar in the United States",
+        "cityId": "new-york",
+        "categoryId": "bars",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Admission%20to%20the%20bar%20in%20the%20United%20States%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Admission_to_the_bar_in_the_United_States",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/Law_School_Oral_Arguments.jpg/960px-Law_School_Oral_Arguments.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Admission_to_the_bar_in_the_United_States"
+        },
+        "description": "In the United States, admission to the bar is the granting of permission by a particular court system to a lawyer to practice law in the jurisdiction. Each U.S. state and jurisdiction (e.g. territories under federal control) has its own court system and sets its own rules and standards for bar admission. In most cases, a person is admitted or called to the bar of the highest court in the jurisdiction and is thereby a",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "new-york-bars-15",
+        "name": "ZZ's Clam Bar",
+        "cityId": "new-york",
+        "categoryId": "bars",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=ZZ's%20Clam%20Bar%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/ZZ's_Clam_Bar",
+        "photo": null,
+        "description": "ZZ's Clam Bar was a seafood restaurant in New York City. The restaurant, run by Major Food Group, was on the same street as their restaurant Carbone. ZZ's Clam Bar received a Michelin star in 2014, and retained the rating until 2022. The restaurant closed in 2023.",
+        "lat": 40.72769444,
+        "lng": -74.00044444
+      },
+      {
+        "id": "new-york-bars-16",
+        "name": "Terminal Bar",
+        "cityId": "new-york",
+        "categoryId": "bars",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Terminal%20Bar%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Terminal_Bar_(bar)",
+        "photo": null,
+        "description": "Terminal Bar was a bar on Times Square in New York City at 41st Street and 8th Avenue. It had a reputation as one of the roughest bars in the city and was located across from the Port Authority Bus Terminal. Terminal Bar originally had a mainly Irish American clientele, but over time evolved into a predominantly African American and gay bar. The Terminal Bar was featured in the Martin Scorsese film Taxi Driver and wa",
+        "lat": 40.7563,
+        "lng": -73.990108
+      },
+      {
+        "id": "new-york-bars-17",
+        "name": "Bar Next Door at La Lanterna di Vittorio",
+        "cityId": "new-york",
+        "categoryId": "bars",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Bar%20Next%20Door%20at%20La%20Lanterna%20di%20Vittorio%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Bar_Next_Door_at_La_Lanterna_di_Vittorio",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/127-131_MacDougal_Street_%281%29.JPG/960px-127-131_MacDougal_Street_%281%29.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Bar_Next_Door_at_La_Lanterna_di_Vittorio"
+        },
+        "description": "La Lanterna di Vittorio is a cafe and pizzeria at 129 MacDougal Street, Greenwich Village, New York City. The restaurant is situated in a restored townhouse and serves Italian cuisine. It is noted for its Bar Next Door room in the basement which hosts regular live jazz and rock performances. The basement is characterized by \"low ceilings, and exposed brick and romantic lighting\". In 2007, Jazz Education Journal refer",
+        "lat": 40.725656,
+        "lng": -73.991794
+      },
+      {
+        "id": "new-york-bars-18",
+        "name": "Gotham Bar and Grill",
+        "cityId": "new-york",
+        "categoryId": "bars",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Gotham%20Bar%20and%20Grill%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Gotham_Bar_and_Grill",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/GOTHAM_0721_2112.jpg/960px-GOTHAM_0721_2112.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Gotham_Bar_and_Grill"
+        },
+        "description": "Gotham Bar and Grill was a New American restaurant located at 12 East 12th Street (between Fifth Avenue and University Place), in Greenwich Village in Manhattan, in New York City. It opened in 1984. It closed in 2020 due to the COVID-19 pandemic, and re-opened in November 2021.",
+        "lat": 40.7343,
+        "lng": -73.994
+      }
+    ],
+    "coffee_shops": [
+      {
+        "id": "new-york-coffee_shops-1",
+        "name": "Café des Artistes",
+        "cityId": "new-york",
+        "categoryId": "coffee_shops",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Caf%C3%A9%20des%20Artistes%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Caf%C3%A9_des_Artistes",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/WSTM_Team_Boerum_0072.jpg/960px-WSTM_Team_Boerum_0072.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Caf%C3%A9_des_Artistes"
+        },
+        "description": "Café des Artistes was a fine restaurant at 1 West 67th Street in Manhattan. New York City. Its final owner was George Lang, who closed the restaurant in early August 2009.",
+        "lat": 40.77333333,
+        "lng": -73.97886111
+      },
+      {
+        "id": "new-york-coffee_shops-2",
+        "name": "Union Square Cafe",
+        "cityId": "new-york",
+        "categoryId": "coffee_shops",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Union%20Square%20Cafe%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Union_Square_Cafe",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/Union-square-cafe1.jpg/960px-Union-square-cafe1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Union_Square_Cafe"
+        },
+        "description": "Union Square Cafe is an American restaurant featuring New American cuisine with Italian influences, located at 101 E 19th St (between Park Avenue South and Irving Place), in the Union Square neighborhood of Manhattan, New York City, New York. It is owned by the Union Square Hospitality Group.",
+        "lat": 40.737752,
+        "lng": -73.987881
+      },
+      {
+        "id": "new-york-coffee_shops-3",
+        "name": "Nuyorican Poets Café",
+        "cityId": "new-york",
+        "categoryId": "coffee_shops",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Nuyorican%20Poets%20Caf%C3%A9%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Nuyorican_Poets_Caf%C3%A9",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/Nuyorican_Poets_Cafe_in_Loisaida_section_of_New_York_City.jpg/960px-Nuyorican_Poets_Cafe_in_Loisaida_section_of_New_York_City.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Nuyorican_Poets_Caf%C3%A9"
+        },
+        "description": "The Nuyorican Poets Café is a nonprofit organization in the Alphabet City neighborhood of Manhattan in New York City. It is a bastion of the Nuyorican (Puerto Rican New Yorker) art movement, and has become a forum for poetry, music, hip-hop, video, visual arts, comedy, and theater. Several events during the PEN World Voices festival are hosted at the Café. The Nuyorican Poets Café is meant to be a venue from which Nu",
+        "lat": 40.721951,
+        "lng": -73.9817816
+      },
+      {
+        "id": "new-york-coffee_shops-4",
+        "name": "Fashion Cafe",
+        "cityId": "new-york",
+        "categoryId": "coffee_shops",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Fashion%20Cafe%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Fashion_Cafe",
+        "photo": null,
+        "description": "Fashion Cafe was an international restaurant chain founded in New York City in 1995, initially fronted by supermodels Naomi Campbell, Elle Macpherson, Claudia Schiffer, and Christy Turlington. Fashion Cafe was founded by Italian-American immigrant brothers Tammasco and Francesco Buti, and it expanded into United Kingdom, South Africa, Mexico, and Spain. Associated Press called it \"a couture version of Planet Hollywoo",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "new-york-coffee_shops-5",
+        "name": "WOW Café",
+        "cityId": "new-york",
+        "categoryId": "coffee_shops",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=WOW%20Caf%C3%A9%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/WOW_Caf%C3%A9",
+        "photo": null,
+        "description": "WOW Café Theater is a feminist theater space and collective in East Village, Manhattan, New York City. In the mid-1980s, WOW Café Theater was central to the avant garde theater and performance art scenes in the East Village. Among the artists who have presented at the space are Peggy Shaw, Lois Weaver, Lisa Kron, Holly Hughes, Deb Margolin, Dancenoise, Carmelita Tropicana, Eileen Myles, Honor Molloy, Split Britches, ",
+        "lat": 40.725656,
+        "lng": -73.991794
+      },
+      {
+        "id": "new-york-coffee_shops-6",
+        "name": "The Gaslight Cafe",
+        "cityId": "new-york",
+        "categoryId": "coffee_shops",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Gaslight%20Cafe%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/The_Gaslight_Cafe",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Site_of_the_former_Gaslight_Cafe.jpg/960px-Site_of_the_former_Gaslight_Cafe.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/The_Gaslight_Cafe"
+        },
+        "description": "The Gaslight Cafe was a coffeehouse in the Greenwich Village neighborhood of Manhattan, New York. Also called The Village Gaslight, it opened in 1958 and became a venue for folk music and other musical acts. It closed in 1971.",
+        "lat": 40.729725,
+        "lng": -74.00053611
+      },
+      {
+        "id": "new-york-coffee_shops-7",
+        "name": "Café Nicholson",
+        "cityId": "new-york",
+        "categoryId": "coffee_shops",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Caf%C3%A9%20Nicholson%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Caf%C3%A9_Nicholson",
+        "photo": null,
+        "description": "Café Nicholson (originally at 147 East 57th St., and later at 323 East 58th Street) was a New York City restaurant that operated from 1948 to 1999. The establishment became a gathering place for members of the artistic, literary and cultural elite.",
+        "lat": 40.75972222,
+        "lng": -73.96380556
+      },
+      {
+        "id": "new-york-coffee_shops-8",
+        "name": "Candle Cafe",
+        "cityId": "new-york",
+        "categoryId": "coffee_shops",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Candle%20Cafe%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Candle_Cafe",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/Candle_Cafe_NYC.jpg/960px-Candle_Cafe_NYC.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Candle_Cafe"
+        },
+        "description": "Candle Cafe, Candle West and Candle 79 were fine-dining vegan restaurants in Manhattan, New York City. Candle Cafe opened in 1994 as a juice bar and health food cafe, and was owned by Joy Pierson and Bart Potenza. The Potenzas used $53,000 they won in the New York State Take Five lottery in 1993 to start the restaurant. Celebrities such as Woody Harrelson were known to frequent the restaurant. All three restaurants c",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "new-york-coffee_shops-9",
+        "name": "Café Boulud",
+        "cityId": "new-york",
+        "categoryId": "coffee_shops",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Caf%C3%A9%20Boulud%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Caf%C3%A9_Boulud",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/Caf%C3%A9_Boulud_NYC.jpg/960px-Caf%C3%A9_Boulud_NYC.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Caf%C3%A9_Boulud"
+        },
+        "description": "Café Boulud, stylized as Café Boulud at Maison BARNES, is a French restaurant located at 100 East 63rd Street on the Upper East Side in Manhattan, in New York City. It is owned by French celebrity chef and restaurateur Daniel Boulud. Boulud is New York City's longest-tenured four-star chef. The restaurant opened in 1998 at 20 East 76th Street (between Fifth Avenue and Madison Avenue), inside the Surrey Hotel. It clos",
+        "lat": 40.765092,
+        "lng": -73.967654
+      },
+      {
+        "id": "new-york-coffee_shops-10",
+        "name": "Bruegger's",
+        "cityId": "new-york",
+        "categoryId": "coffee_shops",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Bruegger's%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Bruegger's",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/en/thumb/8/89/Bruegger%27s_%28logo%29.svg/960px-Bruegger%27s_%28logo%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Bruegger's"
+        },
+        "description": "Bruegger's Enterprises, Inc. is a restaurant operator and subsidiary of the Luxembourg-based company JAB Holding Company. Bruegger's and its wholly owned subsidiary Threecaf Brands Canada, Inc., are franchisers and operators of Bruegger's bakery-cafés, and Michel's Baguette. Bruegger's Bagels produce approximately 70 million bagels each year, and they hold the Guinness World Record for producing the world's largest b",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "new-york-coffee_shops-11",
+        "name": "Five Spot Café",
+        "cityId": "new-york",
+        "categoryId": "coffee_shops",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Five%20Spot%20Caf%C3%A9%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Five_Spot_Caf%C3%A9",
+        "photo": null,
+        "description": "The Five Spot Café was a jazz club located at 5 Cooper Square (1956–1962), in the Bowery neighborhood of New York City, between the East and West Village. In 1962, it moved to 2 St. Marks Place until closing in 1967. Its friendly, non-commercial, and low-key atmosphere with affordable drinks and food and cutting edge bebop and progressive jazz attracted a host of avant-garde artists and writers. It was a venue of his",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "new-york-coffee_shops-12",
+        "name": "Fanelli Cafe",
+        "cityId": "new-york",
+        "categoryId": "coffee_shops",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Fanelli%20Cafe%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Fanelli_Cafe",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/NYC_Soho_near_Prince_St.jpg/960px-NYC_Soho_near_Prince_St.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Fanelli_Cafe"
+        },
+        "description": "Fanelli Cafe is a historic New York City restaurant and bar considered the city's second-oldest food-and-drink establishment in the same locale, having operated under various owners at 94 Prince Street since 1847. It served as a gathering place for artists during the transition of Manhattan's SoHo neighborhood from a manufacturing area to an arts community.",
+        "lat": 40.724555,
+        "lng": -73.99882
+      },
+      {
+        "id": "new-york-coffee_shops-13",
+        "name": "Cafe Chambord",
+        "cityId": "new-york",
+        "categoryId": "coffee_shops",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Cafe%20Chambord%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Cafe_Chambord",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Cafe_Chambord.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Cafe_Chambord"
+        },
+        "description": "Cafe Chambord was a French haute cuisine restaurant in New York City, United States. Its original owner was Roger Chauveron who opened it in 1936 then sold it in 1950 to move to Deviat Charente, France.",
+        "lat": 40.76166667,
+        "lng": -73.97444444
+      },
+      {
+        "id": "new-york-coffee_shops-14",
+        "name": "Cafe Rouge",
+        "cityId": "new-york",
+        "categoryId": "coffee_shops",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Cafe%20Rouge%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Cafe_Rouge_(Hotel_Pennsylvania)",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Dining_room_of_the_Cafe_Rouge_%28Hotel_Pennsylvania%29_%28postcard_circa_1920%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Cafe_Rouge_(Hotel_Pennsylvania)"
+        },
+        "description": "The Café Rouge was constructed as the main restaurant at Hotel Pennsylvania in Midtown Manhattan, New York City. It achieved its greatest fame as a nightclub.",
+        "lat": 40.749722,
+        "lng": -73.990556
+      },
+      {
+        "id": "new-york-coffee_shops-15",
+        "name": "La MaMa Experimental Theatre Club",
+        "cityId": "new-york",
+        "categoryId": "coffee_shops",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=La%20MaMa%20Experimental%20Theatre%20Club%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/La_MaMa_Experimental_Theatre_Club",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/La_MaMa_Experimental_Theatre_Club_%2851661012659%29.jpg/960px-La_MaMa_Experimental_Theatre_Club_%2851661012659%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/La_MaMa_Experimental_Theatre_Club"
+        },
+        "description": "La MaMa Experimental Theatre Club (sometimes abbreviated as La MaMa E.T.C.) is an Off-Off-Broadway theater founded in 1961 by African-American theatre director, producer, and fashion designer Ellen Stewart. Located in the East Village neighborhood of Manhattan in New York City, the theater began in the basement boutique where Stewart sold her fashion designs. Stewart turned the space into a theater at night, focusing",
+        "lat": 40.726613,
+        "lng": -73.990105
+      },
+      {
+        "id": "new-york-coffee_shops-16",
+        "name": "Reisenweber's Cafe",
+        "cityId": "new-york",
+        "categoryId": "coffee_shops",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Reisenweber's%20Cafe%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Reisenweber's_Cafe",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Beefsteak_dinner_at_Reisenwebers_to_honour_H.H._Rogers_%26_Mark_Twain_LCCN2014681447.tif/lossy-page1-960px-Beefsteak_dinner_at_Reisenwebers_to_honour_H.H._Rogers_%26_Mark_Twain_LCCN2014681447.tif.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Reisenweber's_Cafe"
+        },
+        "description": "Reisenweber's Cafe, also known as Reisenweber's Restaurant or simply Reisenweber's, was a restaurant, nightclub, and hotel in Columbus Circle, Manhattan, on the intersection of Eighth Ave and 58th Street, from 1856/7 to 1922. Reisenweber's Cafe was known for introducing and/or popularizing jazz, cabaret, and Hawaiian dance in New York City, the modern cover charge, and for its high-profile Volstead Act lawsuit and sh",
+        "lat": 40.767359,
+        "lng": -73.982778
+      },
+      {
+        "id": "new-york-coffee_shops-17",
+        "name": "West Village",
+        "cityId": "new-york",
+        "categoryId": "coffee_shops",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=West%20Village%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/West_Village",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/2_Horatio_Street_NYC_Summer_from_the_North.jpg/960px-2_Horatio_Street_NYC_Summer_from_the_North.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/West_Village"
+        },
+        "description": "The West Village is a neighborhood in the western section of the larger Greenwich Village neighborhood of Lower Manhattan in New York City. The West Village is bounded by the Hudson River to the west and 14th Street to the north. The eastern boundary is variously cited as Greenwich Avenue, Seventh Avenue, or Sixth Avenue, while the southern boundary is either Houston Street or Christopher Street. The West Village is ",
+        "lat": 40.736,
+        "lng": -74.004
+      },
+      {
+        "id": "new-york-coffee_shops-18",
+        "name": "Bridge Cafe",
+        "cityId": "new-york",
+        "categoryId": "coffee_shops",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Bridge%20Cafe%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Bridge_Cafe",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/Bridge_Cafe_%28WTM_by_official-ly_cool_060%29.jpg/960px-Bridge_Cafe_%28WTM_by_official-ly_cool_060%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Bridge_Cafe"
+        },
+        "description": "Bridge Cafe was a historic restaurant and bar located at 279 Water Street in the South Street Seaport area of Manhattan, New York City, United States. The site was originally home to \"a grocery and wine and porter bottler\", opened in 1794, and has been home to a series of drinking and eating establishments. In the nineteenth century, the building was described in city directories variously as a grocery, a porterhouse",
+        "lat": 40.70869444,
+        "lng": -74.00083333
+      }
+    ],
+    "bookshops": [
+      {
+        "id": "new-york-bookshops-1",
+        "name": "Strand Bookstore",
+        "cityId": "new-york",
+        "categoryId": "bookshops",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Strand%20Bookstore%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Strand_Bookstore",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/en/4/47/Strand_Bookstore_logo.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Strand_Bookstore"
+        },
+        "description": "The Strand Bookstore is an independent bookstore located at 828 Broadway, at the corner of East 12th Street in the East Village neighborhood of Manhattan, New York City, two blocks south of Union Square. There are additional locations at Lincoln Center and on the Upper West Side, as well as kiosks in Central Park and Times Square, and a curated shelf at Moynihan Train Hall. The company's slogan is \"18 Miles Of Books\"",
+        "lat": 40.7333,
+        "lng": -73.9908
+      },
+      {
+        "id": "new-york-bookshops-2",
+        "name": "Barnes & Noble",
+        "cityId": "new-york",
+        "categoryId": "bookshops",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Barnes%20%26%20Noble%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Barnes_%26_Noble",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/Barnes_%26_Noble_Union_Square_NYC_May_2025.jpg/960px-Barnes_%26_Noble_Union_Square_NYC_May_2025.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Barnes_%26_Noble"
+        },
+        "description": "Barnes & Noble Booksellers is an American bookseller with the largest number of retail outlets in the United States. The company operates approximately 600 retail stores across the United States. Barnes & Noble operates mainly through its Barnes & Noble Booksellers chain of bookstores. The company's headquarters are at 33 E. 17th Street on Union Square in New York City. As a result of a series of mergers and bankrupt",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "new-york-bookshops-3",
+        "name": "Bluestockings",
+        "cityId": "new-york",
+        "categoryId": "bookshops",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Bluestockings%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Bluestockings_(bookstore)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Bluestockings_%28142607424%29.jpg/960px-Bluestockings_%28142607424%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Bluestockings_(bookstore)"
+        },
+        "description": "Bluestockings was a radical bookstore, café, and activist center located on the Lower East Side of Manhattan, New York City, operating from 1999 to 2025. It started as a volunteer-supported and collectively owned bookstore, and later became a worker-owned bookstore that also operated mutual-aid offerings/a free store. The store started in 1999 as a feminist bookstore and was named for a group of Enlightenment intelle",
+        "lat": 40.72141667,
+        "lng": -73.98896667
+      },
+      {
+        "id": "new-york-bookshops-4",
+        "name": "Oscar Wilde Bookshop",
+        "cityId": "new-york",
+        "categoryId": "bookshops",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Oscar%20Wilde%20Bookshop%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Oscar_Wilde_Bookshop",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/66/ChristopherAndGayStreets9.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Oscar_Wilde_Bookshop"
+        },
+        "description": "The Oscar Wilde Bookshop was a bookstore located in New York City's Greenwich Village neighborhood that focused on LGBTQ works. It was founded by Craig Rodwell on November 24, 1967, as the Oscar Wilde Memorial Bookshop. Initially located at 291 Mercer Street, it moved in 1973 to 15 Christopher Street, opposite Gay Street. The bookstore closed on March 29, 2009, citing the Great Recession and challenges from online bo",
+        "lat": 40.734,
+        "lng": -74.0006
+      },
+      {
+        "id": "new-york-bookshops-5",
+        "name": "Book Row",
+        "cityId": "new-york",
+        "categoryId": "bookshops",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Book%20Row%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Book_Row",
+        "photo": null,
+        "description": "Book Row was a district in New York City from the 1890s to the 1960s composed of six city blocks which, at its peak, contained over three dozen bookstores. Many – if not most – of the places were used bookstores. In its heyday, Book Row spanned the stretch of Fourth Avenue between Union Square and Astor Place. Other names for it included \"Booksellers' Row\" and \"Second-Hand Row.\" By the 1960s, skyrocketing rents had f",
+        "lat": 40.7332,
+        "lng": -73.991
+      },
+      {
+        "id": "new-york-bookshops-6",
+        "name": "Gotham Book Mart",
+        "cityId": "new-york",
+        "categoryId": "bookshops",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Gotham%20Book%20Mart%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Gotham_Book_Mart",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/Gotham-Book-Mart-Sign.jpg/960px-Gotham-Book-Mart-Sign.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Gotham_Book_Mart"
+        },
+        "description": "The Gotham Book Mart was a Midtown Manhattan bookstore and cultural landmark that operated from 1920 to 2007. The business was located first in a small basement space on West 45th Street near the Theater District in Manhattan; it later spent many years at 41 West 47th Street within the Diamond District, before finally moving to 16 East 46th Street. Beyond merely selling books, the store virtually functioned as a lite",
+        "lat": 40.7555,
+        "lng": -73.978
+      },
+      {
+        "id": "new-york-bookshops-7",
+        "name": "St. Mark's Bookshop",
+        "cityId": "new-york",
+        "categoryId": "bookshops",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=St.%20Mark's%20Bookshop%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/St._Mark's_Bookshop",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Lozupone_stmarksbooksclose.png/960px-Lozupone_stmarksbooksclose.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/St._Mark's_Bookshop"
+        },
+        "description": "St. Mark's Bookshop was an independent book store, established in 1977 in New York City's East Village neighborhood. It was the oldest independent bookstore in Manhattan owned by its original owners. The shop, run by proprietors Bob Contant and Terry McCoy, specialized in cultural and critical theory, graphic design, poetry, small presses, and film studies—what the New York Times called \"neighborhood-appropriate lite",
+        "lat": 40.72379,
+        "lng": -73.98585
+      },
+      {
+        "id": "new-york-bookshops-8",
+        "name": "University of Toronto Press",
+        "cityId": "new-york",
+        "categoryId": "bookshops",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=University%20of%20Toronto%20Press%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/University_of_Toronto_Press",
+        "photo": null,
+        "description": "University of Toronto Press (UTP) is a Canadian university press operated by the University of Toronto. Although it was founded in 1901, the press did not actually publish any books until 1911. It is the oldest and largest university press in Canada and one of the largest in North America. Its distribution division has locations in both Toronto and Buffalo, New York.",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "new-york-bookshops-9",
+        "name": "Waldenbooks",
+        "cityId": "new-york",
+        "categoryId": "bookshops",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Waldenbooks%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Waldenbooks",
+        "photo": null,
+        "description": "Walden Book Company, Inc., doing business as Waldenbooks, was an American shopping mall-based bookstore chain. In its later years it was a subsidiary of Borders. The chain also ran a video game and software chain under the name Waldensoftware, as well as a children's educational toy chain under Walden Kids. In 2011, the chain was liquidated in bankruptcy.",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "new-york-bookshops-10",
+        "name": "Argosy Book Store",
+        "cityId": "new-york",
+        "categoryId": "bookshops",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Argosy%20Book%20Store%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Argosy_Book_Store",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Argosy_Book_Store.jpeg/960px-Argosy_Book_Store.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Argosy_Book_Store"
+        },
+        "description": "The Argosy Book Store is New York City's oldest independent bookstore. Located at 116 East 59th Street, between Park and Lexington Avenues in Midtown Manhattan, it occupies an entire six-story townhouse with various sales floors specializing in first editions, Americana, leather bindings, antique maps and prints, and autographs. The store, also noted for a wide selection of bargain books, has its own framing and ship",
+        "lat": 40.7624,
+        "lng": -73.9691
+      },
+      {
+        "id": "new-york-bookshops-11",
+        "name": "J. Levine Books and Judaica",
+        "cityId": "new-york",
+        "categoryId": "bookshops",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=J.%20Levine%20Books%20and%20Judaica%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/J._Levine_Books_and_Judaica",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/J_Levine_Building.jpg/960px-J_Levine_Building.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/J._Levine_Books_and_Judaica"
+        },
+        "description": "J. Levine Books and Judaica is an independent bookstore located in Midtown Manhattan. J. Levine is a fifth-generation family business and one of the oldest standing Judaica stores in United States since it opened in 1905.",
+        "lat": 40.7463,
+        "lng": -73.987
+      },
+      {
+        "id": "new-york-bookshops-12",
+        "name": "Housing Works",
+        "cityId": "new-york",
+        "categoryId": "bookshops",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Housing%20Works%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Housing_Works",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/HousingWorksCafe-April2015.jpg/960px-HousingWorksCafe-April2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Housing_Works"
+        },
+        "description": "Housing Works is a New York City–based non-profit fighting AIDS and homelessness. The charity is well known for its entrepreneurial businesses including a chain of thrift shops, which support efforts to end AIDS and homelessness where they are based. It is also known for its social justice activism. As of March 2017, the organization has served 30,000 clients. In 1990, four members of the AIDS activist group ACT UP—K",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "new-york-bookshops-13",
+        "name": "Rizzoli Bookstore",
+        "cityId": "new-york",
+        "categoryId": "bookshops",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Rizzoli%20Bookstore%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Rizzoli_Bookstore",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Rizzoli_Bookstore_%2838202143341%29.jpg/960px-Rizzoli_Bookstore_%2838202143341%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Rizzoli_Bookstore"
+        },
+        "description": "Rizzoli Bookstore is a general interest bookstore, located in the St. James Building at 1133 Broadway in New York City, that primarily specializes in illustrated books and foreign language titles. The store is indirectly owned by Arnoldo Mondadori Editore, an Italian multimedia company that acquired the books division from RCS MediaGroup. The direct parent company of the bookstore is Rizzoli International Publication",
+        "lat": 40.7472,
+        "lng": -73.993
+      },
+      {
+        "id": "new-york-bookshops-14",
+        "name": "Weiser Antiquarian Books",
+        "cityId": "new-york",
+        "categoryId": "bookshops",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Weiser%20Antiquarian%20Books%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Weiser_Antiquarian_Books",
+        "photo": null,
+        "description": "Weiser Antiquarian Books is the oldest occult bookstore in the United States. It specialises in books on Aleister Crowley and his circle, magic, mysticism, eastern religions and alternative spirituality. Its earlier New York incarnation, The Weiser Bookshop, was described by Leslie A. Shepherd as \"perhaps the most famous occult bookstore in the U.S.\"",
+        "lat": 43.1944,
+        "lng": -70.6168
+      },
+      {
+        "id": "new-york-bookshops-15",
+        "name": "Glad Day Bookshop",
+        "cityId": "new-york",
+        "categoryId": "bookshops",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Glad%20Day%20Bookshop%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Glad_Day_Bookshop",
+        "photo": null,
+        "description": "Glad Day Bookshop is an independent bookstore and restaurant located in Toronto, Ontario, specializing in LGBTQ literature. The store was located above the storefront at 598A Yonge Street for much of its history, and moved to a new location at 499 Church Street, in the heart of the city's Church and Wellesley neighbourhood, in 2016. In moved again to a temporary location at 32 Lisgar Street in July 2025 while the own",
+        "lat": 43.648544,
+        "lng": -79.377594
+      },
+      {
+        "id": "new-york-bookshops-16",
+        "name": "Independent bookstore",
+        "cityId": "new-york",
+        "categoryId": "bookshops",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Independent%20bookstore%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Independent_bookstore",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Stoke_Newington_Bookshop%2C_London.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Independent_bookstore"
+        },
+        "description": "An independent bookstore is a retail bookstore which is independently owned. Usually, independent stores consist of only a single actual store (although there are some multi-store independents). They may be structured as sole proprietorships, closely held corporations or partnerships, cooperatives, or nonprofits. Independent stores can be contrasted with chain bookstores, which have many locations and are owned by co",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "new-york-bookshops-17",
+        "name": "Ticknor and Fields",
+        "cityId": "new-york",
+        "categoryId": "bookshops",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Ticknor%20and%20Fields%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Ticknor_and_Fields",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Ticknor_and_Fields_logo_1867.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Ticknor_and_Fields"
+        },
+        "description": "Ticknor and Fields was an American publishing company based in Boston, Massachusetts. Founded as a bookstore in 1832, the business published many 19th-century American authors, including Ralph Waldo Emerson, Nathaniel Hawthorne, Henry James, Henry Wadsworth Longfellow, Harriet Beecher Stowe, Henry David Thoreau, and Mark Twain. It also became an early publisher of The Atlantic Monthly and North American Review. The f",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "new-york-bookshops-18",
+        "name": "Amazon Books",
+        "cityId": "new-york",
+        "categoryId": "bookshops",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Amazon%20Books%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Amazon_Books",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/Amazon_Books_at_U_Village%2C_Seattle_%2822955160585%29.jpg/960px-Amazon_Books_at_U_Village%2C_Seattle_%2822955160585%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Amazon_Books"
+        },
+        "description": "Amazon Books was a chain of retail bookstores owned by online retailer Amazon. The first store opened on November 2, 2015, in Seattle, Washington. On March 2, 2022, it was reported that all Amazon Books would close on various dates in the future.",
+        "lat": null,
+        "lng": null
+      }
+    ],
+    "museums": [
+      {
+        "id": "new-york-museums-1",
+        "name": "Metropolitan Museum of Art",
+        "cityId": "new-york",
+        "categoryId": "museums",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Metropolitan%20Museum%20of%20Art%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Metropolitan_Museum_of_Art",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Metropolitan_Museum_of_Art_%28The_Met%29_-_Central_Park%2C_NYC.jpg/960px-Metropolitan_Museum_of_Art_%28The_Met%29_-_Central_Park%2C_NYC.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Metropolitan_Museum_of_Art"
+        },
+        "description": "The Metropolitan Museum of Art, colloquially referred to as the Met, is an encyclopedic art museum in New York City. By floor area, it is the fourth-largest museum in the world and the largest art museum in the Americas. With 5,727,258 visitors in fiscal year 2025, it was the most-visited museum in the United States and the fifth-most visited art museum in the world. In 2000, its permanent collection had over two mil",
+        "lat": 40.7794,
+        "lng": -73.9631
+      },
+      {
+        "id": "new-york-museums-2",
+        "name": "Museum of Modern Art",
+        "cityId": "new-york",
+        "categoryId": "museums",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Museum%20of%20Modern%20Art%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Museum_of_Modern_Art",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/MoMa_NY_USA_1.jpg/960px-MoMa_NY_USA_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Museum_of_Modern_Art"
+        },
+        "description": "The Museum of Modern Art (MoMA) is an art museum located in Midtown Manhattan, New York City, on 53rd Street between Fifth and Sixth Avenues. MoMA's collection spans the late 19th century to the present, and includes over 200,000 works of architecture and design, drawing, painting, sculpture, photography, prints, illustrated and artist's books, film, as well as electronic media. The museum has been instrumental in sh",
+        "lat": 40.7617,
+        "lng": -73.9775
+      },
+      {
+        "id": "new-york-museums-3",
+        "name": "Solomon R. Guggenheim Museum",
+        "cityId": "new-york",
+        "categoryId": "museums",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Solomon%20R.%20Guggenheim%20Museum%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Solomon_R._Guggenheim_Museum",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Solomon_R._Guggenheim_Museum_%2848059131351%29.jpg/960px-Solomon_R._Guggenheim_Museum_%2848059131351%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Solomon_R._Guggenheim_Museum"
+        },
+        "description": "The Solomon R. Guggenheim Museum, often referred to as The Guggenheim, is an art museum at 1071 Fifth Avenue between 88th and 89th Streets on the Upper East Side of Manhattan in New York City. It hosts a permanent collection of Impressionist, Post-Impressionist, early Modern and contemporary art and also features special exhibitions throughout the year. It was established by the Solomon R. Guggenheim Foundation in 19",
+        "lat": 40.78305556,
+        "lng": -73.95888889
+      },
+      {
+        "id": "new-york-museums-4",
+        "name": "Brooklyn Museum",
+        "cityId": "new-york",
+        "categoryId": "museums",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Brooklyn%20Museum%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Brooklyn_Museum",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/Brooklyn_Museum_-_Entrance_%2852302265063%29.jpg/960px-Brooklyn_Museum_-_Entrance_%2852302265063%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Brooklyn_Museum"
+        },
+        "description": "The Brooklyn Museum is an art museum in the New York City borough of Brooklyn. At 560,000 square feet (52,000 m2), the museum is New York City's second largest and contains an art collection with around 500,000 objects. Located near the Prospect Heights, Crown Heights, Flatbush, and Park Slope neighborhoods of Brooklyn, the museum's Beaux-Arts building was designed by McKim, Mead & White. The Brooklyn Museum was foun",
+        "lat": 40.67130556,
+        "lng": -73.96375
+      },
+      {
+        "id": "new-york-museums-5",
+        "name": "New York Historical",
+        "cityId": "new-york",
+        "categoryId": "museums",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=New%20York%20Historical%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/New_York_Historical",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/New_York_Historical_Society_%2848269593386%29.jpg/960px-New_York_Historical_Society_%2848269593386%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/New_York_Historical"
+        },
+        "description": "The New York Historical (known as the New-York Historical Society until 2024) is an American history museum and library on the Upper West Side of Manhattan in New York City. The society was founded in 1804 as New York's first museum. It presents exhibitions, public programs, and research that explore the history of New York and the nation. The New York Historical Museum & Library has been at its present location sinc",
+        "lat": 40.77916667,
+        "lng": -73.97416667
+      },
+      {
+        "id": "new-york-museums-6",
+        "name": "Whitney Museum of American Art",
+        "cityId": "new-york",
+        "categoryId": "museums",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Whitney%20Museum%20of%20American%20Art%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Whitney_Museum_of_American_Art",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/Whitney_Museum_of_American_Art_%2849051573133%29.jpg/960px-Whitney_Museum_of_American_Art_%2849051573133%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Whitney_Museum_of_American_Art"
+        },
+        "description": "The Whitney Museum of American Art (known informally as \"The Whitney\") is a modern and contemporary American art museum in the Meatpacking District and West Village neighborhoods of Manhattan in New York City, New York, United States. The institution was founded in 1930 by Gertrude Vanderbilt Whitney (1875–1942), a prominent American socialite, sculptor, and art patron after whom it is named. The Whitney focuses on c",
+        "lat": 40.7396,
+        "lng": -74.0089
+      },
+      {
+        "id": "new-york-museums-7",
+        "name": "Jackson Pollock",
+        "cityId": "new-york",
+        "categoryId": "museums",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Jackson%20Pollock%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Jackson_Pollock",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Jackson_Pollock_by_Hans_Namuth_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Jackson_Pollock"
+        },
+        "description": "Paul Jackson Pollock (; January 28, 1912 – August 11, 1956) was an American painter. A major figure in the abstract expressionist movement, he was noted for his \"drip technique\" of pouring or splashing liquid household paint onto a horizontal surface, enabling him to view and paint his canvases from all angles. It was called all-over painting and action painting, because Pollock covered the entire canvas and used the",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "new-york-museums-8",
+        "name": "New York Yankees",
+        "cityId": "new-york",
+        "categoryId": "museums",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=New%20York%20Yankees%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/New_York_Yankees",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/New_York_Yankees_Primary_Logo.svg/960px-New_York_Yankees_Primary_Logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/New_York_Yankees"
+        },
+        "description": "The New York Yankees are an American professional baseball team based in the New York City borough of the Bronx. The Yankees compete in Major League Baseball as a member club of the American League (AL) East Division. They are one of two MLB clubs based in New York City, along with the New York Mets of the National League. The team was founded in 1903 when Frank Farrell and Bill Devery purchased the franchise rights ",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "new-york-museums-9",
+        "name": "New York Transit Museum",
+        "cityId": "new-york",
+        "categoryId": "museums",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=New%20York%20Transit%20Museum%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/New_York_Transit_Museum",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/New_York_Transit_Museum_logo.svg/960px-New_York_Transit_Museum_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/New_York_Transit_Museum"
+        },
+        "description": "The New York Transit Museum (also called the NYC Transit Museum) is a museum that displays historical artifacts of the New York City Subway, bus, and commuter rail systems in the greater New York City metropolitan region. The main museum is located in the decommissioned Court Street subway station in Downtown Brooklyn and Brooklyn Heights in the New York City borough of Brooklyn. There is a smaller satellite Museum A",
+        "lat": 40.6904,
+        "lng": -73.99
+      },
+      {
+        "id": "new-york-museums-10",
+        "name": "Queens Museum",
+        "cityId": "new-york",
+        "categoryId": "museums",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Queens%20Museum%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Queens_Museum",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Queens_Museum-1.jpg/960px-Queens_Museum-1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Queens_Museum"
+        },
+        "description": "The Queens Museum (formerly the Queens Museum of Art) is an art museum and educational center at Flushing Meadows–Corona Park in Queens, New York City, United States. Established in 1972, the museum includes the Panorama of the City of New York, a room-sized scale model of the five boroughs of New York City built for the 1964 New York World's Fair. Its collection includes a large archive of artifacts from both the 19",
+        "lat": 40.74583333,
+        "lng": -73.84666667
+      },
+      {
+        "id": "new-york-museums-11",
+        "name": "National September 11 Memorial & Museum",
+        "cityId": "new-york",
+        "categoryId": "museums",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=National%20September%2011%20Memorial%20%26%20Museum%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/National_September_11_Memorial_%26_Museum",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/9-11_Memorial_and_Museum_%2828815276064%29.jpg/960px-9-11_Memorial_and_Museum_%2828815276064%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/National_September_11_Memorial_%26_Museum"
+        },
+        "description": "The National September 11 Memorial & Museum (also known as the 9/11 Memorial & Museum) is a memorial and museum that are part of the World Trade Center complex, in New York City, created for remembering the September 11, 2001, terrorist attacks which killed 2,977 people, as well as the February 26, 1993, World Trade Center bombing which killed six. The memorial is located at the World Trade Center site, the former lo",
+        "lat": 40.71166667,
+        "lng": -74.01361111
+      },
+      {
+        "id": "new-york-museums-12",
+        "name": "Fashion Institute of Technology",
+        "cityId": "new-york",
+        "categoryId": "museums",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Fashion%20Institute%20of%20Technology%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Fashion_Institute_of_Technology",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Fashion_Institute_of_Technology_Logo_High_Quality.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Fashion_Institute_of_Technology"
+        },
+        "description": "The Fashion Institute of Technology (FIT) is a public college and fashion school under the State University of New York, in New York City. It focuses on art, business, design, mass communication, and technology connected to the fashion industry. It was founded in 1944. FIT is a SUNY community college, and the only community college in NY that offers bachelors and masters degrees (in addition to associate degrees).",
+        "lat": 40.74666667,
+        "lng": -73.99416667
+      },
+      {
+        "id": "new-york-museums-13",
+        "name": "Morgan Library & Museum",
+        "cityId": "new-york",
+        "categoryId": "museums",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Morgan%20Library%20%26%20Museum%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Morgan_Library_%26_Museum",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Morgan_Library_%26_Museum%2C_New_York_2017_02.jpg/960px-Morgan_Library_%26_Museum%2C_New_York_2017_02.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Morgan_Library_%26_Museum"
+        },
+        "description": "The Morgan Library & Museum (formerly the Pierpont Morgan Library; colloquially the Morgan) is a museum and research library in New York City, New York, United States. Completed in 1906 as the private library of the banker J. P. Morgan, the institution is housed at 225 Madison Avenue in the Murray Hill neighborhood of Manhattan. As of 2024, the museum is directed by Colin B. Bailey and governed by a board of trustees",
+        "lat": 40.74916667,
+        "lng": -73.98138889
+      },
+      {
+        "id": "new-york-museums-14",
+        "name": "National Baseball Hall of Fame and Museum",
+        "cityId": "new-york",
+        "categoryId": "museums",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=National%20Baseball%20Hall%20of%20Fame%20and%20Museum%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/National_Baseball_Hall_of_Fame_and_Museum",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/National_Baseball_Hall_of_Fame_and_Museum%2C_Cooperstown%2C_NY.jpg/960px-National_Baseball_Hall_of_Fame_and_Museum%2C_Cooperstown%2C_NY.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/National_Baseball_Hall_of_Fame_and_Museum"
+        },
+        "description": "The National Baseball Hall of Fame and Museum, often metonymously referred to as \"Cooperstown\", is a history museum and hall of fame located in Cooperstown, New York, operated by a private foundation. It serves as the central collection and gathering space for the history of baseball in the United States displaying baseball-related artifacts and exhibits, honoring those who have excelled in playing, managing, and ser",
+        "lat": 42.7,
+        "lng": -74.92333333
+      },
+      {
+        "id": "new-york-museums-15",
+        "name": "Jewish Museum",
+        "cityId": "new-york",
+        "categoryId": "museums",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Jewish%20Museum%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Jewish_Museum_(Manhattan)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Jewish_Museum_%2848059132236%29.jpg/960px-Jewish_Museum_%2848059132236%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Jewish_Museum_(Manhattan)"
+        },
+        "description": "The Jewish Museum is an art museum housed at 1109 Fifth Avenue, in the Felix M. Warburg House, along the Museum Mile on the Upper East Side of Manhattan, New York City. The museum holds a collection of approximately 30,000 objects, including religious artifacts, fine art, and media, making it one of the largest museums dedicated to the Jewish culture worldwide. The museum is known for its expansive cultural and histo",
+        "lat": 40.78539,
+        "lng": -73.95719
+      },
+      {
+        "id": "new-york-museums-16",
+        "name": "New Museum",
+        "cityId": "new-york",
+        "categoryId": "museums",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=New%20Museum%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/New_Museum",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/New_Museum_in_New_York_City_2015.JPG/960px-New_Museum_in_New_York_City_2015.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/New_Museum"
+        },
+        "description": "The New Museum of Contemporary Art is a museum at 235 Bowery, on the Lower East Side of Manhattan in New York City. It was founded in 1977 by Marcia Tucker.",
+        "lat": 40.722239,
+        "lng": -73.993219
+      },
+      {
+        "id": "new-york-museums-17",
+        "name": "LuEsther T. Mertz Library",
+        "cityId": "new-york",
+        "categoryId": "museums",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=LuEsther%20T.%20Mertz%20Library%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/LuEsther_T._Mertz_Library",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/New_York_Botanical_Garden_April_2015_010.jpg/960px-New_York_Botanical_Garden_April_2015_010.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/LuEsther_T._Mertz_Library"
+        },
+        "description": "The LuEsther T. Mertz Library is located at the New York Botanical Garden (NYBG) in the Bronx, New York City. Founded in 1899 and renamed in the 1990s for LuEsther Mertz, it is the United States' largest botanical research library, and the first library whose collection focused exclusively on botany. The library contains large collections of books relating to botany and horticulture, and are used for studies in field",
+        "lat": 40.86666667,
+        "lng": -73.87888889
+      },
+      {
+        "id": "new-york-museums-18",
+        "name": "Museum of the City of New York",
+        "cityId": "new-york",
+        "categoryId": "museums",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Museum%20of%20the%20City%20of%20New%20York%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Museum_of_the_City_of_New_York",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Museum_of_the_City_of_New_York_logo.svg/960px-Museum_of_the_City_of_New_York_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Museum_of_the_City_of_New_York"
+        },
+        "description": "The Museum of the City of New York (MCNY) is a history and art museum in Manhattan, New York City. It was founded by Henry Collins Brown in 1923 to preserve and present the history of New York City and its people. It is located at 1220–1227 Fifth Avenue between East 103rd to 104th Streets, across from Central Park on Manhattan's Upper East Side, at the northern end of the Museum Mile section of Fifth Avenue. The red ",
+        "lat": 40.7925,
+        "lng": -73.95194444
+      }
+    ],
+    "concerts": [
+      {
+        "id": "new-york-concerts-1",
+        "name": "Merkin Hall",
+        "cityId": "new-york",
+        "categoryId": "concerts",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Merkin%20Hall%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Merkin_Hall",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/en/thumb/e/e9/Performance_at_Merkin_Concert_Hall_7-27-2007.jpg/960px-Performance_at_Merkin_Concert_Hall_7-27-2007.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Merkin_Hall"
+        },
+        "description": "Merkin Hall is a 449-seat concert hall in Manhattan, New York City. The hall, named in honor of Hermann and Ursula Merkin, is part of the Kaufman Music Center, a complex that includes the Lucy Moses School, a community arts school, and the Special Music School (P.S. 859), a New York City public school for musically gifted children. Merkin Hall hosts 70,000 concertgoers a year.",
+        "lat": 40.77516389,
+        "lng": -73.98305
+      },
+      {
+        "id": "new-york-concerts-2",
+        "name": "David Geffen Hall",
+        "cityId": "new-york",
+        "categoryId": "concerts",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=David%20Geffen%20Hall%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/David_Geffen_Hall",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/David_Geffen_Hall_%2848047408511%29.jpg/960px-David_Geffen_Hall_%2848047408511%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/David_Geffen_Hall"
+        },
+        "description": "David Geffen Hall is a concert hall at Lincoln Center on the Upper West Side of Manhattan in New York City. The 2,200-seat auditorium opened in 1962, and is the home of the New York Philharmonic. The facility, designed by Max Abramovitz, was originally named Philharmonic Hall and was renamed Avery Fisher Hall in honor of philanthropist Avery Fisher, who donated $10.5 million ($76 million today) to the orchestra in 19",
+        "lat": 40.77277778,
+        "lng": -73.98305556
+      },
+      {
+        "id": "new-york-concerts-3",
+        "name": "Eastman Theatre",
+        "cityId": "new-york",
+        "categoryId": "concerts",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Eastman%20Theatre%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Eastman_Theatre",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/EastmanTheatre2021BeforeTheShow.jpg/960px-EastmanTheatre2021BeforeTheShow.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Eastman_Theatre"
+        },
+        "description": "The Eastman Theatre is a concert hall located at 26 Gibbs Street in Rochester, New York, United States. Since 2009, the main auditorium has been formally known as Kodak Hall at Eastman Theatre. Opened on September 4, 1922, the theatre was built by industrialist and philanthropist George Eastman, founder of the Eastman Kodak Company, to serve as the home of the Eastman School of Music and as a cultural center for the ",
+        "lat": 43.1572,
+        "lng": -77.5985
+      },
+      {
+        "id": "new-york-concerts-4",
+        "name": "Calderone Concert Hall",
+        "cityId": "new-york",
+        "categoryId": "concerts",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Calderone%20Concert%20Hall%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Calderone_Concert_Hall",
+        "photo": null,
+        "description": "Calderone Concert Hall was a 2,500-seat music venue located at 145 N Franklin St. in Hempstead, New York, which was popular in the 1970s and 1980s. It was one of the theaters founded by Salvatore Calderone. Many notable bands performed at the venue such as ZZ Top, Aerosmith, Jerry Garcia, Gentle Giant, Strawbs, Kiss, Rainbow, Be-Bop Deluxe and Santana. Lou Reed performed at this location, when it was known as the Hem",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "new-york-concerts-5",
+        "name": "Sibelius Hall",
+        "cityId": "new-york",
+        "categoryId": "concerts",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Sibelius%20Hall%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Sibelius_Hall",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Sibelius_hall_Lahti.jpg/960px-Sibelius_hall_Lahti.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Sibelius_Hall"
+        },
+        "description": "The Sibelius Hall (Finnish: Sibeliustalo) is a concert hall in Lahti, Finland, named for the composer Jean Sibelius. The concert hall was completed in 2000. Architects Kimmo Lintula and Hannu Tikka designed the hall, which is made out of glulam. The acoustics were engineered by Artec Consultants, New York. Its acoustics are one of its strongest points, while the architecture follows the Scandinavian tradition of soph",
+        "lat": 60.995,
+        "lng": 25.65111111
+      },
+      {
+        "id": "new-york-concerts-6",
+        "name": "Richard B. Fisher Center for the Performing Arts",
+        "cityId": "new-york",
+        "categoryId": "concerts",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Richard%20B.%20Fisher%20Center%20for%20the%20Performing%20Arts%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Richard_B._Fisher_Center_for_the_Performing_Arts",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Richard_B._Fisher_Center_for_the_Performing_Arts_-_IMG_8015.JPG/960px-Richard_B._Fisher_Center_for_the_Performing_Arts_-_IMG_8015.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Richard_B._Fisher_Center_for_the_Performing_Arts"
+        },
+        "description": "The Richard B. Fisher Center for the Performing Arts at Bard College is a performance hall located in the Hudson Valley hamlet of Annandale-on-Hudson, New York. The center provides audiences with performances and programs in orchestral, chamber, and jazz music, and in theater, dance, and opera. Designed by architect Frank Gehry, the 110,000-square-foot (10,000 m2) center houses two theaters, four rehearsal studios fo",
+        "lat": 42.03133611,
+        "lng": -73.90265278
+      },
+      {
+        "id": "new-york-concerts-7",
+        "name": "Maverick Concert Hall",
+        "cityId": "new-york",
+        "categoryId": "concerts",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Maverick%20Concert%20Hall%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Maverick_Concert_Hall",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Maverick_Concert_Hall_in_summer.jpg/960px-Maverick_Concert_Hall_in_summer.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Maverick_Concert_Hall"
+        },
+        "description": "Maverick Concert Hall was built in 1916 and was part of the Maverick Artist Colony in Hurley, New York. The Maverick developed out of the Maverick Festival, an early 20th-century communal arts gathering near Woodstock that combined music, theater, and outdoor performance in a rustic woodland setting. Contemporary newspaper accounts described the Maverick Festival as a rustic outdoor arts community near Woodstock wher",
+        "lat": 42.01416667,
+        "lng": -74.11833333
+      },
+      {
+        "id": "new-york-concerts-8",
+        "name": "Palladium",
+        "cityId": "new-york",
+        "categoryId": "concerts",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Palladium%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Palladium_(New_York_City)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/The_Palladium_at_14th_Street_and_Third_Avenue%2C_New_York_City_in_1987.jpg/960px-The_Palladium_at_14th_Street_and_Third_Avenue%2C_New_York_City_in_1987.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Palladium_(New_York_City)"
+        },
+        "description": "The Palladium (originally called the Academy of Music) was a movie theatre, concert hall, and finally a nightclub in New York City. It was located on the south side of East 14th Street, between Irving Place and Third Avenue. Designed by Thomas W. Lamb, it was built in 1927 across the street from the site of the original Academy of Music established by financier Moses H. Grinnell in 1852. Opened as a deluxe movie pala",
+        "lat": 40.73331111,
+        "lng": -73.98815556
+      },
+      {
+        "id": "new-york-concerts-9",
+        "name": "Alice Tully Hall",
+        "cityId": "new-york",
+        "categoryId": "concerts",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Alice%20Tully%20Hall%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Alice_Tully_Hall",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Alice_Tully_Hall_%2848047494177%29.jpg/960px-Alice_Tully_Hall_%2848047494177%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Alice_Tully_Hall"
+        },
+        "description": "Alice Tully Hall is a concert hall at the Lincoln Center for the Performing Arts on the Upper West Side of Manhattan in New York City. The hall is named for Alice Tully, a New York performer and philanthropist whose donations assisted in the construction of the hall. Tully Hall is located within the Irene Diamond Building, a Brutalist structure designed by architect Pietro Belluschi. It was completed and subsequently",
+        "lat": 40.77333333,
+        "lng": -73.98222222
+      },
+      {
+        "id": "new-york-concerts-10",
+        "name": "The Chance",
+        "cityId": "new-york",
+        "categoryId": "concerts",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Chance%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/The_Chance",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/The-chance-2.jpg/960px-The-chance-2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/The_Chance"
+        },
+        "description": "The Chance is a concert and theater complex located in downtown Poughkeepsie, New York. The complex consists of four rooms: the Chance Theater, which is the primary concert hall; The Loft, a smaller upstairs concert hall; The Platinum Lounge, a downstairs bar-nightclub; and The Nuddy Irishmen, a downstairs cafe-bar.",
+        "lat": 41.703162,
+        "lng": -73.924469
+      },
+      {
+        "id": "new-york-concerts-11",
+        "name": "Berliner Philharmonie",
+        "cityId": "new-york",
+        "categoryId": "concerts",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Berliner%20Philharmonie%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Berliner_Philharmonie",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Berlin_Philharmonie_asv2018-05_img2.jpg/960px-Berlin_Philharmonie_asv2018-05_img2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Berliner_Philharmonie"
+        },
+        "description": "The Berliner Philharmonie (German: [bɛʁˌliːnɐ fɪlhaʁmoˈniː] ) is a concert hall in Berlin, Germany, and home to the Berlin Philharmonic Orchestra. The Philharmonie lies on the south edge of the city's Tiergarten and just west of the former Berlin Wall. The Philharmonie is on Herbert-von-Karajan-Straße, named for the orchestra's longest-serving principal conductor. The building forms part of the Kulturforum complex of",
+        "lat": 52.51,
+        "lng": 13.37
+      },
+      {
+        "id": "new-york-concerts-12",
+        "name": "Hult Center for the Performing Arts",
+        "cityId": "new-york",
+        "categoryId": "concerts",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Hult%20Center%20for%20the%20Performing%20Arts%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Hult_Center_for_the_Performing_Arts",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/HultCenterPerformingArts.jpg/960px-HultCenterPerformingArts.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Hult_Center_for_the_Performing_Arts"
+        },
+        "description": "The Hult Center for the Performing Arts is a performing arts venue in Eugene, Oregon. The Hult Center is located downtown on Willamette Street between 6th & 7th Avenues, adjacent to the Graduate Eugene (previously Hilton Eugene) and Conference Center. Built using funds that were approved by voters in 1978, the Hult Center and the Hilton were completed in 1982 as part of the same urban renewal project. The Hult Center",
+        "lat": 44.0526,
+        "lng": -123.0932
+      },
+      {
+        "id": "new-york-concerts-13",
+        "name": "Shanghai Concert Hall",
+        "cityId": "new-york",
+        "categoryId": "concerts",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Shanghai%20Concert%20Hall%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Shanghai_Concert_Hall",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Concert_hall_shanghai.jpg/960px-Concert_hall_shanghai.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Shanghai_Concert_Hall"
+        },
+        "description": null,
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "new-york-concerts-14",
+        "name": "Walt Disney Concert Hall",
+        "cityId": "new-york",
+        "categoryId": "concerts",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Walt%20Disney%20Concert%20Hall%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Walt_Disney_Concert_Hall",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Walt_Disney_Concert_Hall%2C_LA%2C_CA%2C_jjron_22.03.2012.jpg/960px-Walt_Disney_Concert_Hall%2C_LA%2C_CA%2C_jjron_22.03.2012.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Walt_Disney_Concert_Hall"
+        },
+        "description": null,
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "new-york-concerts-15",
+        "name": "Los Angeles Philharmonic",
+        "cityId": "new-york",
+        "categoryId": "concerts",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Los%20Angeles%20Philharmonic%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Los_Angeles_Philharmonic",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/Yunchan_Lim_with_the_Los_Angeles_Philharmonic_in_concert_at_the_Hollywood_Bowl.jpg/960px-Yunchan_Lim_with_the_Los_Angeles_Philharmonic_in_concert_at_the_Hollywood_Bowl.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Los_Angeles_Philharmonic"
+        },
+        "description": null,
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "new-york-concerts-16",
+        "name": "Olympia Theatre",
+        "cityId": "new-york",
+        "categoryId": "concerts",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Olympia%20Theatre%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Olympia_Theatre_(New_York_City)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Hammerstein%27s_Olympia%2C_Broadway_and_44th_Street%2C_Manhattan.jpg/960px-Hammerstein%27s_Olympia%2C_Broadway_and_44th_Street%2C_Manhattan.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Olympia_Theatre_(New_York_City)"
+        },
+        "description": null,
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "new-york-concerts-17",
+        "name": "Yasuhisa Toyota",
+        "cityId": "new-york",
+        "categoryId": "concerts",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Yasuhisa%20Toyota%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Yasuhisa_Toyota",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/20130118_Bing_from_the_choral_Terrace_phil_King.jpg/960px-20130118_Bing_from_the_choral_Terrace_phil_King.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Yasuhisa_Toyota"
+        },
+        "description": null,
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "new-york-concerts-18",
+        "name": "Steinway Hall",
+        "cityId": "new-york",
+        "categoryId": "concerts",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Steinway%20Hall%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Steinway_Hall",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Buying_tickets_for_a_Charles_Dickens_reading_at_Steinway_Hall%2C_New_York%2C_New_York%2C_1867.jpg/960px-Buying_tickets_for_a_Charles_Dickens_reading_at_Steinway_Hall%2C_New_York%2C_New_York%2C_1867.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Steinway_Hall"
+        },
+        "description": null,
+        "lat": null,
+        "lng": null
+      }
+    ],
+    "fashion": [
+      {
+        "id": "new-york-fashion-1",
+        "name": "Limbo",
+        "cityId": "new-york",
+        "categoryId": "fashion",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Limbo%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Limbo_(boutique)",
+        "photo": null,
+        "description": null,
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "new-york-fashion-2",
+        "name": "Abe Stark",
+        "cityId": "new-york",
+        "categoryId": "fashion",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Abe%20Stark%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Abe_Stark",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Abe_Stark_1949.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Abe_Stark"
+        },
+        "description": null,
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "new-york-fashion-3",
+        "name": "Charivari",
+        "cityId": "new-york",
+        "categoryId": "fashion",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Charivari%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Charivari_(store)",
+        "photo": null,
+        "description": null,
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "new-york-fashion-4",
+        "name": "Ravenite Social Club",
+        "cityId": "new-york",
+        "categoryId": "fashion",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Ravenite%20Social%20Club%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Ravenite_Social_Club",
+        "photo": null,
+        "description": null,
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "new-york-fashion-5",
+        "name": "Kleinhans",
+        "cityId": "new-york",
+        "categoryId": "fashion",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Kleinhans%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Kleinhans",
+        "photo": null,
+        "description": null,
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "new-york-fashion-6",
+        "name": "Cohoes",
+        "cityId": "new-york",
+        "categoryId": "fashion",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Cohoes%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Cohoes",
+        "photo": null,
+        "description": null,
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "new-york-fashion-7",
+        "name": "Hip Hop Shop",
+        "cityId": "new-york",
+        "categoryId": "fashion",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Hip%20Hop%20Shop%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Hip_Hop_Shop",
+        "photo": null,
+        "description": null,
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "new-york-fashion-8",
+        "name": "Morris Brothers",
+        "cityId": "new-york",
+        "categoryId": "fashion",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Morris%20Brothers%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Morris_Brothers",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/2322_Bwy_84th_Game_Stop_jeh.jpg/960px-2322_Bwy_84th_Game_Stop_jeh.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Morris_Brothers"
+        },
+        "description": null,
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "new-york-fashion-9",
+        "name": "National Stores",
+        "cityId": "new-york",
+        "categoryId": "fashion",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=National%20Stores%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/National_Stores",
+        "photo": null,
+        "description": null,
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "new-york-fashion-10",
+        "name": "Hackett London",
+        "cityId": "new-york",
+        "categoryId": "fashion",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Hackett%20London%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Hackett_London",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/en/d/d6/Hackett_%28clothing%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Hackett_London"
+        },
+        "description": null,
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "new-york-fashion-11",
+        "name": "Oppenheim Collins",
+        "cityId": "new-york",
+        "categoryId": "fashion",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Oppenheim%20Collins%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Oppenheim_Collins",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Fulton_St_Lawrence_St_Gallatin_Pl_td_%282022-12-02%29_06_-_Oppenheim_Collins_Building_%28485_Fulton_Street%29.jpg/960px-Fulton_St_Lawrence_St_Gallatin_Pl_td_%282022-12-02%29_06_-_Oppenheim_Collins_Building_%28485_Fulton_Street%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Oppenheim_Collins"
+        },
+        "description": null,
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "new-york-fashion-12",
+        "name": "Charlotte Russe",
+        "cityId": "new-york",
+        "categoryId": "fashion",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Charlotte%20Russe%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Charlotte_Russe_(retailer)",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/10/Charlotte_russe.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Charlotte_Russe_(retailer)"
+        },
+        "description": null,
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "new-york-fashion-13",
+        "name": "Storefront Hitchcock",
+        "cityId": "new-york",
+        "categoryId": "fashion",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Storefront%20Hitchcock%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Storefront_Hitchcock",
+        "photo": null,
+        "description": null,
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "new-york-fashion-14",
+        "name": "Wallachs",
+        "cityId": "new-york",
+        "categoryId": "fashion",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Wallachs%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Wallachs_(clothiers)",
+        "photo": null,
+        "description": null,
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "new-york-fashion-15",
+        "name": "Irving D. Chais",
+        "cityId": "new-york",
+        "categoryId": "fashion",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Irving%20D.%20Chais%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Irving_D._Chais",
+        "photo": null,
+        "description": "Irving D. Chais (August 22, 1925 – April 24, 2009) was an American businessman and craftsman who owned the New York Doll Hospital from 1964 until 2009. He also acted as \"Chief Surgeon\" for the hospital. Chais's grandfather, an immigrant from Germany, founded the establishment as a wig shop and beauty parlor, but in 1900 he converted to doll repair after noticing a demand for the business. Born in 1925, Chais graduate",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "new-york-fashion-16",
+        "name": "Guy Weill",
+        "cityId": "new-york",
+        "categoryId": "fashion",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Guy%20Weill%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Guy_Weill",
+        "photo": null,
+        "description": "Guy Weill (May 13, 1914 – August 17, 2006) was a Swiss-born American art collector. Born in Switzerland, he served in military intelligence for the United States Army during World War II and ran a luxury clothing store on Madison Avenue after the war. He was a large collector of Abstract Expressionism, Neo-Expressionism, and Asian Art.",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "new-york-fashion-17",
+        "name": "Jenkem Magazine",
+        "cityId": "new-york",
+        "categoryId": "fashion",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Jenkem%20Magazine%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Jenkem_Magazine",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/63/Jenkem_logo_400x400.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Jenkem_Magazine"
+        },
+        "description": "Jenkem is an online skateboarding and culture magazine founded in 2011 and operated from Brooklyn, New York. The website features interviews with professional skateboarders, industry professionals, graphic artists, and musicians, as well as video segments, mixtapes, podcasts, essays on skateboard history, and an online clothing store. They have published two full length books of essays and interviews, and maintain a ",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "new-york-fashion-18",
+        "name": "Hana Tajima",
+        "cityId": "new-york",
+        "categoryId": "fashion",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Hana%20Tajima%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Hana_Tajima",
+        "photo": null,
+        "description": "Hana Tajima-Simpson (born 1986) is an English–Japanese visual artist, blogger, model, and fashion designer. She is best known for her frequent collaborations with the Japanese clothing store Uniqlo.",
+        "lat": null,
+        "lng": null
+      }
+    ],
+    "shops": [
+      {
+        "id": "new-york-shops-1",
+        "name": "Murray's Sturgeon Shop",
+        "cityId": "new-york",
+        "categoryId": "shops",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Murray's%20Sturgeon%20Shop%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Murray's_Sturgeon_Shop",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/Murray%27s_Sturgeon_Shop.jpg/960px-Murray%27s_Sturgeon_Shop.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Murray's_Sturgeon_Shop"
+        },
+        "description": "Murray's Sturgeon Shop is an appetizing store and neighborhood fixture in Manhattan's Upper West Side. It is located on Broadway between 89th Street and 90th Street.",
+        "lat": 40.79063,
+        "lng": -73.97504
+      },
+      {
+        "id": "new-york-shops-2",
+        "name": "The Meatball Shop",
+        "cityId": "new-york",
+        "categoryId": "shops",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Meatball%20Shop%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/The_Meatball_Shop",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/The_Meatball_Shop_%2814260615203%29.jpg/960px-The_Meatball_Shop_%2814260615203%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/The_Meatball_Shop"
+        },
+        "description": "The Meatball Shop was a New York City based restaurant owned and operated by native New Yorkers Daniel Holzman and Michael Chernow, who met as teenagers when they worked together as delivery boys at the New York vegan restaurant Candle Cafe.",
+        "lat": 40.72161,
+        "lng": -73.9888
+      },
+      {
+        "id": "new-york-shops-3",
+        "name": "The Coffee Shop",
+        "cityId": "new-york",
+        "categoryId": "shops",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Coffee%20Shop%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/The_Coffee_Shop_(New_York_City)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Coffee_Shop_Bar_-_panoramio.jpg/960px-Coffee_Shop_Bar_-_panoramio.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/The_Coffee_Shop_(New_York_City)"
+        },
+        "description": "The Coffee Shop (or Coffee Shop) was a restaurant and bar located next to Union Square in New York City. The restaurant opened in 1990 and closed in 2018. It served Brazilian food.",
+        "lat": 40.73652778,
+        "lng": -73.99097222
+      },
+      {
+        "id": "new-york-shops-4",
+        "name": "The Hungarian Pastry Shop",
+        "cityId": "new-york",
+        "categoryId": "shops",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Hungarian%20Pastry%20Shop%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/The_Hungarian_Pastry_Shop",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/Hungarian_Pastry_Shop.jpg/960px-Hungarian_Pastry_Shop.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/The_Hungarian_Pastry_Shop"
+        },
+        "description": "The Hungarian Pastry Shop is a café and bakery in the Morningside Heights neighborhood of Manhattan in New York City. It is located at 1030 Amsterdam Avenue between West 110th Street (also known as Cathedral Parkway) and West 111th Street, across the street from the Cathedral of St. John the Divine.",
+        "lat": 40.80358333,
+        "lng": -73.96369444
+      },
+      {
+        "id": "new-york-shops-5",
+        "name": "Hermann 19",
+        "cityId": "new-york",
+        "categoryId": "shops",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Hermann%2019%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Hermann_19",
+        "photo": null,
+        "description": "The Hermann 19 is an American trailerable sailboat that was designed by Richard P. Ketcham Jr. as a daysailer and pocket cruiser and first built in 1963.",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "new-york-shops-6",
+        "name": "Little Shop of Horrors",
+        "cityId": "new-york",
+        "categoryId": "shops",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Little%20Shop%20of%20Horrors%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Little_Shop_of_Horrors_(musical)",
+        "photo": null,
+        "description": "Little Shop of Horrors is a horror comedy rock musical with music by Alan Menken and lyrics and a book by Howard Ashman. The story follows a hapless florist shop worker who raises a plant that feeds on human blood and flesh. The musical is loosely based on the low-budget 1960 black comedy film The Little Shop of Horrors. Menken's score features early 1960s-style rock and roll, doo-wop and early Motown. The musical pr",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "new-york-shops-7",
+        "name": "American Comics Group",
+        "cityId": "new-york",
+        "categoryId": "shops",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=American%20Comics%20Group%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/American_Comics_Group",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/en/5/55/American-Comics-Group-ACG-logo-sub.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/American_Comics_Group"
+        },
+        "description": "American Comics Group (ACG) was an American comic book publisher started in 1939 and existing under the ACG name from 1943 to 1967. It published the medium's first ongoing horror-comics title, Adventures into the Unknown. ACG's best-known character was the 1960s satirical humor hero Herbie Popnecker, who starred for a time in Forbidden Worlds. Herbie would later get his own title and be turned into a superhero called",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "new-york-shops-8",
+        "name": "Stop & Shop",
+        "cityId": "new-york",
+        "categoryId": "shops",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Stop%20%26%20Shop%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Stop_%26_Shop",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Stop_and_Shop_%28North_Providence%2C_RI%29.jpg/960px-Stop_and_Shop_%28North_Providence%2C_RI%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Stop_%26_Shop"
+        },
+        "description": "The Stop & Shop Supermarket Company, known as Stop & Shop, is an American regional chain of supermarkets located in the northeastern United States. From its beginnings in 1892 as a small grocery store, it has grown to include a 365-store chain. Stop & Shop has been a wholly owned subsidiary of the Dutch supermarket operator Ahold since 1995 and was part of the Stop & Shop/Giant-Landover division with sister chain Gia",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "new-york-shops-9",
+        "name": "New York Army National Guard",
+        "cityId": "new-york",
+        "categoryId": "shops",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=New%20York%20Army%20National%20Guard%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/New_York_Army_National_Guard",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/NY-Army_National_Guard_seal.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/New_York_Army_National_Guard"
+        },
+        "description": "The New York Army National Guard is a component of the New York National Guard and the Army National Guard. Nationwide, the Army National Guard comprises approximately one half of the United States Army's available combat forces and approximately one third of its support organization. National coordination of various state National Guard units are maintained through the National Guard Bureau. The New York Army Nation",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "new-york-shops-10",
+        "name": "New York City Boy",
+        "cityId": "new-york",
+        "categoryId": "shops",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=New%20York%20City%20Boy%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/New_York_City_Boy",
+        "photo": null,
+        "description": "\"New York City Boy\" is a song by English synth-pop duo Pet Shop Boys, released on 22 September 1999 as the second single from their seventh studio album, Nightlife (1999). In the UK, the single peaked at number 14 on the UK Singles Chart. It also reached the charts in several other European countries, peaking at number three in Spain, and number four in Finland and Hungary. In the US, the song hit number one on the B",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "new-york-shops-11",
+        "name": "Firestarter",
+        "cityId": "new-york",
+        "categoryId": "shops",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Firestarter%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Firestarter_(novel)",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Firestarter_%281980%29_front_cover%2C_first_edition.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Firestarter_(novel)"
+        },
+        "description": "Firestarter is a science fiction-horror thriller novel by Stephen King, first published in September 1980. It tells the story of a young girl, Charlie McGee, with the ability of pyrokinesis, whose destructive force a ruthless government agency tries to harness for their own purposes. In July and August 1980, two excerpts from the novel were published in Omni. The novel entered the New York Times' Best-Sellers List on",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "new-york-shops-12",
+        "name": "WRNN-TV",
+        "cityId": "new-york",
+        "categoryId": "shops",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=WRNN-TV%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/WRNN-TV",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/RNN_logo.svg/960px-RNN_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/WRNN-TV"
+        },
+        "description": "WRNN-TV (channel 48) is a television station licensed to New Rochelle, New York, United States, serving the New York City area as an affiliate of Shop LC. It serves as the flagship station and namesake of Rye Brook–based WRNN-TV Associates; its studio facilities and headquarters are co-located on Westchester Avenue in Rye Brook. Through a channel sharing agreement with WWOR-TV (channel 9), WRNN-TV transmits using WWO",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "new-york-shops-13",
+        "name": "Pail Shop Corners, New York",
+        "cityId": "new-york",
+        "categoryId": "shops",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Pail%20Shop%20Corners%2C%20New%20York%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Pail_Shop_Corners%2C_New_York",
+        "photo": null,
+        "description": "Pail Shop Corners is a hamlet located at the corner of Hoke Road, Goose Street, and CR-26 north of Fly Creek in the Town of Otsego, in Otsego County, New York, United States. The Fly Creek Cider Mill and Orchard is located by Pail Shop Corners.",
+        "lat": 42.7239631,
+        "lng": -74.980434
+      },
+      {
+        "id": "new-york-shops-14",
+        "name": "Hermann 22",
+        "cityId": "new-york",
+        "categoryId": "shops",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Hermann%2022%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Hermann_22",
+        "photo": null,
+        "description": "The Hermann 22, also called the Hermann 20 for its waterline length, is an American trailerable sailboat that was designed by Richard P. Ketcham Jr. as a cruiser and first built in 1961.",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "new-york-shops-15",
+        "name": "Skate shop",
+        "cityId": "new-york",
+        "categoryId": "shops",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Skate%20shop%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Skate_shop",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/Ridin%27_High_Skate_Shop_Burlington_5.JPG/960px-Ridin%27_High_Skate_Shop_Burlington_5.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Skate_shop"
+        },
+        "description": "A skateshop is a type of store that sells skateboard parts and skateboarding apparel. When financially possible, skate shops sponsor local riders and promote skateboarding locally through skate videos and demonstrations, referred to as \"demos\".",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "new-york-shops-16",
+        "name": "Stewart's Shops",
+        "cityId": "new-york",
+        "categoryId": "shops",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Stewart's%20Shops%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Stewart's_Shops",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Headquarters_of_Stewart%27s_Shops.jpg/960px-Headquarters_of_Stewart%27s_Shops.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Stewart's_Shops"
+        },
+        "description": "Stewart's Shops is an American regional chain of convenience stores located in upstate New York, Vermont, and New Hampshire. The company is owned by the Dake family and its employees. Stewart's is headquartered in Ballston Spa (with a Saratoga Springs address). The company is well-established, particularly in the Capital District, Adirondacks and North Country with over 350 locations. In New York, its footprint stret",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "new-york-shops-17",
+        "name": "Submarine sandwich",
+        "cityId": "new-york",
+        "categoryId": "shops",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Submarine%20sandwich%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Submarine_sandwich",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Submarine_sandwich_with_toppings_and_dijon_mustard.jpg/960px-Submarine_sandwich_with_toppings_and_dijon_mustard.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Submarine_sandwich"
+        },
+        "description": "A submarine sandwich, commonly known as a sub, is a type of American cold or hot sandwich made from a submarine roll (an elongated bread roll) that is split lengthwise and filled with meats, cheeses, vegetables, and condiments. Although \"submarine\" or just \"sub\" is the general term for both the bread roll and sandwiches made with it in both the US and other English speaking nations, there are many local nicknames, es",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "new-york-shops-18",
+        "name": "Newsagent's shop",
+        "cityId": "new-york",
+        "categoryId": "shops",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Newsagent's%20shop%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Newsagent's_shop",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/Street_Scene_-_Salta_-_Argentina.jpg/960px-Street_Scene_-_Salta_-_Argentina.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Newsagent's_shop"
+        },
+        "description": "A newsagent's shop is a small business that sells newspapers, magazines, cigarettes, snacks and often items of local appeal. Newsagents typically operate in busy public places like city streets, railway stations and airports. Racks for newspapers and magazines can also be found within convenience stores, bookstores and supermarkets. The physical establishment can be either freestanding or part of a larger structure (",
+        "lat": null,
+        "lng": null
+      }
+    ]
+  }
+}

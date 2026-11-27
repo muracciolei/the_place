@@ -1,0 +1,2889 @@
+{
+  "cityId": "shanghai",
+  "generatedAt": "2026-11-27T09:30:07.971Z",
+  "source": "Wikipedia API + Maps URLs (sin scraping de Google)",
+  "incomplete": [],
+  "categories": {
+    "night_clubs": [
+      {
+        "id": "shanghai-night_clubs-1",
+        "name": "Forbidden City",
+        "cityId": "shanghai",
+        "categoryId": "night_clubs",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Forbidden%20City%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Forbidden_City_(nightclub)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Charlie_Low%27s_Forbidden_City.jpg/960px-Charlie_Low%27s_Forbidden_City.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Forbidden_City_(nightclub)"
+        },
+        "description": "Forbidden City was a nightclub and cabaret in San Francisco, which was in business from 1938 to 1970, and operated on the second floor of 363 Sutter Street, between Chinatown and Union Square. Although Forbidden City was not the first Chinese American nightclub, it was the most famous nightlife venue to feature Asian American singers, dancers, chorus lines, magicians, strippers, and musicians, and was entirely manage",
+        "lat": 37.7893,
+        "lng": -122.4063
+      },
+      {
+        "id": "shanghai-night_clubs-2",
+        "name": "Paramount",
+        "cityId": "shanghai",
+        "categoryId": "night_clubs",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Paramount%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Paramount_(Shanghai)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/The_Paramount%2C_Shanghai.JPG/960px-The_Paramount%2C_Shanghai.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Paramount_(Shanghai)"
+        },
+        "description": "The Paramount (Chinese: 百樂門; pinyin: Bǎilèmén; lit. 'Gate of 100 Pleasures') is a historical nightclub and dance hall at 218 Yuyuan Road in Jing'an, Shanghai, China. When it opened in 1933 it was the largest ballroom in Shanghai, and the most famous.",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "shanghai-night_clubs-3",
+        "name": "The White Countess",
+        "cityId": "shanghai",
+        "categoryId": "night_clubs",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20White%20Countess%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/The_White_Countess",
+        "photo": null,
+        "description": "The White Countess is a 2005 drama film directed by James Ivory and starring Ralph Fiennes, Natasha Richardson, Vanessa Redgrave, Hiroyuki Sanada, Lynn Redgrave, Allan Corduner, and Madeleine Potter. The screenplay by Kazuo Ishiguro focuses on a disparate group of displaced persons attempting to survive in Shanghai in the late 1930s.",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "shanghai-night_clubs-4",
+        "name": "Legend of the Fist: The Return of Chen Zhen",
+        "cityId": "shanghai",
+        "categoryId": "night_clubs",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Legend%20of%20the%20Fist%3A%20The%20Return%20of%20Chen%20Zhen%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Legend_of_the_Fist%3A_The_Return_of_Chen_Zhen",
+        "photo": null,
+        "description": "Legend of the Fist: The Return of Chen Zhen is a 2010 Hong Kong martial arts superhero film directed by Andrew Lau, who produced with Gordon Chan, who also wrote the screenplay with Cheung Chi-shing, Philip Lui and Frankie Tam. The film stars Donnie Yen as Chen Zhen, a role made famous by Bruce Lee in the 1972 film Fist of Fury. The film is a sequel to the 1994 film Fist of Legend, which starred Jet Li as Chen Zhen. ",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "shanghai-night_clubs-5",
+        "name": "Romance in the Rain",
+        "cityId": "shanghai",
+        "categoryId": "night_clubs",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Romance%20in%20the%20Rain%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Romance_in_the_Rain",
+        "photo": null,
+        "description": "Romance in the Rain is a 2001 Chinese-language television period drama co-produced by Yi Ren Communications Company (怡人傳播有限公司) in Taiwan and China International Television Corporation (中国国际电视总公司) in mainland China. The series was adapted by Chiung Yao from her 1964 novel Fire and Rain (as well as a 1986 adaptation Lovers Under the Rain), with the setting moved from 1960s in Taipei to 1930s in Shanghai. Romance in the",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "shanghai-night_clubs-6",
+        "name": "She Learned About Sailors",
+        "cityId": "shanghai",
+        "categoryId": "night_clubs",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=She%20Learned%20About%20Sailors%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/She_Learned_About_Sailors",
+        "photo": null,
+        "description": "She Learned About Sailors is a 1934 American musical comedy film directed by George Marshall and starring Alice Faye, Lew Ayres and Frank Mitchell. It was produced and distributed by Fox Film. Songs for the film were written by Richard A. Whiting and Sidney Clare.",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "shanghai-night_clubs-7",
+        "name": "Hakkasan",
+        "cityId": "shanghai",
+        "categoryId": "night_clubs",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Hakkasan%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Hakkasan",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Hakkasan_London_-_3.jpg/960px-Hakkasan_London_-_3.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Hakkasan"
+        },
+        "description": "Hakkasan is a Cantonese restaurant and hospitality group originating in London. Its first restaurant was founded in 2001 by Alan Yau, who was also behind the Wagamama Japanese restaurants and later the Yauatcha restaurant. Hakkasan serves modern Cantonese cuisine fused with Western upscale dining experience. Hakkasan is the flagship brand of the Hakkasan Group, which existed from the restaurants founding up until 202",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "shanghai-night_clubs-8",
+        "name": "Affair of Half a Lifetime",
+        "cityId": "shanghai",
+        "categoryId": "night_clubs",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Affair%20of%20Half%20a%20Lifetime%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Affair_of_Half_a_Lifetime",
+        "photo": null,
+        "description": "Affair of Half a Lifetime (simplified Chinese: 半生缘; traditional Chinese: 半生緣; pinyin: Bànshēng Yuán) is a 2003 Taiwanese drama-romance TV series based on the 1948 novel of the same name by Chinese author Eileen Chang. It stars Ruby Lin, Patrick Tam, Jiang Qinqin, and Li Liqun. The series had the most simultaneous broadcasts on Chinese cable/satellite TVs in 2004. It was filmed in Shanghai and Taiwan.",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "shanghai-night_clubs-9",
+        "name": "International Settlement",
+        "cityId": "shanghai",
+        "categoryId": "night_clubs",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=International%20Settlement%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/International_Settlement_(film)",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/40/International_Settlement_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/International_Settlement_(film)"
+        },
+        "description": "International Settlement is a 1938 American drama film directed by Eugene Forde and starring Dolores del Río, George Sanders and June Lang. It is set in the Shanghai International Settlement during the Sino-Japanese War. In the film, a gun runner falls in love with a beautiful French singer.",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "shanghai-night_clubs-10",
+        "name": "Fisherman's Village",
+        "cityId": "shanghai",
+        "categoryId": "night_clubs",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Fisherman's%20Village%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Fisherman's_Village",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/92/Fishermen%27s_Village_Lighthouse.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Fisherman's_Village"
+        },
+        "description": "Fisherman's Village is a waterfront mall, commercial boat anchorage, and tourist attraction in Marina del Rey, Los Angeles County. Constructed in the style of a New England fishing village, Fisherman's Village consists of five brightly painted wooden buildings, a waterfront promenade, a lighthouse, a water fountain and commercial boat docks. Tourist attractions include live music concerts, restaurant and café dining,",
+        "lat": 33.9728,
+        "lng": -118.44633
+      },
+      {
+        "id": "shanghai-night_clubs-11",
+        "name": "Secret Agent of Japan",
+        "cityId": "shanghai",
+        "categoryId": "night_clubs",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Secret%20Agent%20of%20Japan%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Secret_Agent_of_Japan",
+        "photo": null,
+        "description": "Secret Agent of Japan is a 1942 spy film directed by Irving Pichel and starring Preston Foster. It was the first American anti-Japanese war film produced by a major studio after the attack on Pearl Harbor.",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "shanghai-night_clubs-12",
+        "name": "Mona Fong",
+        "cityId": "shanghai",
+        "categoryId": "night_clubs",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Mona%20Fong%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Mona_Fong",
+        "photo": null,
+        "description": "Mona Yat-wah Fong (27 July 1934 – 22 November 2017) was a Hong Kong film and television producer and production manager. She was born Lee Meng-lan in Shanghai.",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "shanghai-night_clubs-13",
+        "name": "Saint Nicholas' Church, Shanghai",
+        "cityId": "shanghai",
+        "categoryId": "night_clubs",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Saint%20Nicholas'%20Church%2C%20Shanghai%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Saint_Nicholas'_Church%2C_Shanghai",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Saint_Nicholas%27_Church%2C_Shanghai_20210131.jpg/960px-Saint_Nicholas%27_Church%2C_Shanghai_20210131.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Saint_Nicholas'_Church%2C_Shanghai"
+        },
+        "description": "St Nicholas Church (Chinese: 圣尼古拉堂) was a Russian Orthodox Church in the former French Concession of Shanghai at 16 rue Corneille, now known as Gāolán Lù. Formerly the building was home to a French restaurant on the ground floor called Ashanti and a Spanish one in the basement called La Boca. It has been a protected monument since 1994. It is currently occupied by a bookshop with the loft being consecrated for occasi",
+        "lat": 31.21861111,
+        "lng": 121.45555556
+      },
+      {
+        "id": "shanghai-night_clubs-14",
+        "name": "Eric Lux",
+        "cityId": "shanghai",
+        "categoryId": "night_clubs",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Eric%20Lux%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Eric_Lux",
+        "photo": null,
+        "description": "Éric Roger Lux (born 19 December 1967) is a Luxembourgish businessman. He is the CEO of Genii Capital, co-founded with Gerard Lopez, an investment management and financial member of the Genii Group and former owner of the Lotus F1 Team. He is also CEO of the real estate investment group Ikodomos Holding and real estate developer company Iko (previously Ikogest).",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "shanghai-night_clubs-15",
+        "name": "Shanghai Triad",
+        "cityId": "shanghai",
+        "categoryId": "night_clubs",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Shanghai%20Triad%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Shanghai_Triad",
+        "photo": null,
+        "description": "Shanghai Triad is a 1995 Chinese crime-drama film, directed by Zhang Yimou and starring Gong Li. The script is written by Bi Feiyu based on Li Xiao's 1994 novel Rules of a Clan (门规). The film is set in the criminal underworld of 1930s Shanghai, Republic of China and spans seven days. Shanghai Triad's Chinese title reads \"Row, row, row to Grandma Bridge\", which refers to a well known traditional Chinese lullaby. The f",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "shanghai-night_clubs-16",
+        "name": "Shanghai Blues",
+        "cityId": "shanghai",
+        "categoryId": "night_clubs",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Shanghai%20Blues%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Shanghai_Blues",
+        "photo": null,
+        "description": "Shanghai Blues (Chinese: 上海之夜; lit. 'The Shanghai Night') is a 1984 Hong Kong period romantic comedy directed and produced by Tsui Hark, and starring Kenny Bee, Sylvia Chang, Sally Yeh, and Loletta Lee. The score was composed by James Wong Jim. This was the first film that Hark produced under his new company, Film Workshop. It was nominated in eight categories at the 4th Hong Kong Film Awards, including for Best Film",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "shanghai-night_clubs-17",
+        "name": "Hobo's",
+        "cityId": "shanghai",
+        "categoryId": "night_clubs",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Hobo's%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Hobo's",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Hobo%27s%2C_Portland%2C_2017.jpg/960px-Hobo%27s%2C_Portland%2C_2017.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Hobo's"
+        },
+        "description": "Hobo's Restaurant and Lounge, or simply Hobo's, was a restaurant, gay bar, and piano bar in Portland, Oregon's Old Town Chinatown, in the United States. Housed in a building with rare access to the Shanghai tunnels, the establishment served as a starting point for guided tours. The menu consisted of American cuisine including steakhouse fare. Hobo's was featured on the Food Network's Rachael Ray's Tasty Travels and t",
+        "lat": 45.5242,
+        "lng": -122.67323
+      },
+      {
+        "id": "shanghai-night_clubs-18",
+        "name": "Planning permission",
+        "cityId": "shanghai",
+        "categoryId": "night_clubs",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Planning%20permission%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Planning_permission",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/One57_under_construction_3_November_2012.jpeg/960px-One57_under_construction_3_November_2012.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Planning_permission"
+        },
+        "description": "Planning permission or building permit refers to the approval needed for construction or expansion (including significant renovation), and sometimes for demolition, in some jurisdictions. House building permits, for example, are subject to building codes. There is also a \"plan check\" (PLCK) to check compliance with plans for the area, if any. For example, one cannot obtain permission to build a nightclub in an area w",
+        "lat": null,
+        "lng": null
+      }
+    ],
+    "restaurants": [
+      {
+        "id": "shanghai-restaurants-1",
+        "name": "Hobo's",
+        "cityId": "shanghai",
+        "categoryId": "restaurants",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Hobo's%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Hobo's",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Hobo%27s%2C_Portland%2C_2017.jpg/960px-Hobo%27s%2C_Portland%2C_2017.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Hobo's"
+        },
+        "description": "Hobo's Restaurant and Lounge, or simply Hobo's, was a restaurant, gay bar, and piano bar in Portland, Oregon's Old Town Chinatown, in the United States. Housed in a building with rare access to the Shanghai tunnels, the establishment served as a starting point for guided tours. The menu consisted of American cuisine including steakhouse fare. Hobo's was featured on the Food Network's Rachael Ray's Tasty Travels and t",
+        "lat": 45.5242,
+        "lng": -122.67323
+      },
+      {
+        "id": "shanghai-restaurants-2",
+        "name": "Shanghai Tower",
+        "cityId": "shanghai",
+        "categoryId": "restaurants",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Shanghai%20Tower%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Shanghai_Tower",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/20191114_Shanghai_Tower_%282%29.jpg/960px-20191114_Shanghai_Tower_%282%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Shanghai_Tower"
+        },
+        "description": "The Shanghai Tower is a 128-story, 632-meter-tall (2,073-foot) megatall skyscraper located in Lujiazui, Pudong, Shanghai. It is currently the tallest building in China, the world's third-tallest building by height to architectural top, and the world's second-tallest building by height to highest occupied floor. It was the tallest and largest LEED-CS Platinum-certified building in the world from 2016 to 2025. It was a",
+        "lat": 31.2355,
+        "lng": 121.501
+      },
+      {
+        "id": "shanghai-restaurants-3",
+        "name": "Shanghai Tunnel Bar",
+        "cityId": "shanghai",
+        "categoryId": "restaurants",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Shanghai%20Tunnel%20Bar%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Shanghai_Tunnel_Bar",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Portland%2C_Oregon_%28July_2023%29_-_133.jpg/960px-Portland%2C_Oregon_%28July_2023%29_-_133.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Shanghai_Tunnel_Bar"
+        },
+        "description": "Shanghai Tunnel Bar, or simply Shanghai Tunnel, is a dive bar and Asian restaurant in the Old Town Chinatown neighborhood of Portland, Oregon. Named after the city's Shanghai tunnels, the underground bar serves Asian-themed cocktails and foods such as BLTs, Chinese chicken salad, miso and noodle soup, quesadillas, and veggie burgers. Owned by Phil Ragaway, Shanghai Tunnel is known for its inexpensive drinks and pinba",
+        "lat": 45.5226,
+        "lng": -122.6725
+      },
+      {
+        "id": "shanghai-restaurants-4",
+        "name": "Joe's Shanghai",
+        "cityId": "shanghai",
+        "categoryId": "restaurants",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Joe's%20Shanghai%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Joe's_Shanghai",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/27/Soup_dumplings.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Joe's_Shanghai"
+        },
+        "description": "Joe's Shanghai (simplified Chinese: 鹿鸣春; traditional Chinese: 鹿鳴春; pinyin: Lù Míng Chūn) is a chain of seven Shanghainese restaurants in the United States and Japan. The original location was opened by restaurateur Mei Ping \"Barbara\" Matsumura and chef Kiu Sang \"Joe\" Si in 1995 in Flushing, Queens, followed by branches in Manhattan Chinatown and Midtown Manhattan. There are four locations in Japan, two in Tokyo, one ",
+        "lat": 40.76186667,
+        "lng": -73.830375
+      },
+      {
+        "id": "shanghai-restaurants-5",
+        "name": "Hengshan Road",
+        "cityId": "shanghai",
+        "categoryId": "restaurants",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Hengshan%20Road%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Hengshan_Road",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Street_View_of_Hengshan_Rd..JPG/960px-Street_View_of_Hengshan_Rd..JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Hengshan_Road"
+        },
+        "description": "Hengshan Road (Chinese: 衡山路; pinyin: Héngshān Lù), formerly Avenue Pétain, is a street in the former French Concession of Shanghai, China. A major thoroughfare that connected the heart of the French Concession with the Catholic district of Zikawei (Xujiahui), the boulevard was for much of the 20th century the centre of Shanghai's premier residential district. Since the 1990s, many of the mansions along the road have ",
+        "lat": 31.2018,
+        "lng": 121.4443
+      },
+      {
+        "id": "shanghai-restaurants-6",
+        "name": "Motel 168",
+        "cityId": "shanghai",
+        "categoryId": "restaurants",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Motel%20168%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Motel_168",
+        "photo": null,
+        "description": "Motel 168 (Chinese: 莫泰168; pinyin: Mòtài 168) is a hotel brand of Home Inn. It formerly belonged to Shanghai Motel Management Co., Ltd. The company was owned by Shanghai Merrylin Restaurant Management Co., Ltd (S: 上海美林阁餐饮经营管理有限公司) and Merrylin Hotel Management Co., Ltd. The Shanghai Merrylin company had its headquarters in Changning District, Shanghai.",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "shanghai-restaurants-7",
+        "name": "Jade Buddha Temple",
+        "cityId": "shanghai",
+        "categoryId": "restaurants",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Jade%20Buddha%20Temple%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Jade_Buddha_Temple",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/%282024%29_Mahavira_Hall%2C_Jade_Buddha_Temple%2C_Shanghai_-_img_04.jpg/960px-%282024%29_Mahavira_Hall%2C_Jade_Buddha_Temple%2C_Shanghai_-_img_04.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Jade_Buddha_Temple"
+        },
+        "description": "The Jade Buddha Temple (simplified Chinese: 玉佛禅寺; traditional Chinese: 玉佛禪寺; pinyin: Yùfó Chán Sì; Shanghainese: Niohveh Zoe Zy, literally Jade Buddha Chan Temple) is a Buddhist temple in Shanghai. It was founded in 1882 with two jade Buddha statues imported to Shanghai from Myanmar by sea. These were a sitting Buddha (1.95 meters tall, 3 tons), and a smaller reclining Buddha representing the Buddha's death. The temp",
+        "lat": 31.24319167,
+        "lng": 121.44052778
+      },
+      {
+        "id": "shanghai-restaurants-8",
+        "name": "Club 33",
+        "cityId": "shanghai",
+        "categoryId": "restaurants",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Club%2033%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Club_33",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Club_33_Court_of_Angels.jpg/960px-Club_33_Court_of_Angels.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Club_33"
+        },
+        "description": "Club 33 is the name of a number of private dining clubs located within Disney Parks with a yearly membership fee in the tens of thousands of dollars. It first opened inside Disneyland in 1967, and was modeled after sponsor lounges at the 1964 New York World's Fair. At the time it opened, Club 33 was the only location within Disneyland that offered alcoholic beverages. Since then, additional Club 33 locations opened a",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "shanghai-restaurants-9",
+        "name": "Mr & Mrs Bund",
+        "cityId": "shanghai",
+        "categoryId": "restaurants",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Mr%20%26%20Mrs%20Bund%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Mr_%26_Mrs_Bund",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/The_Bund_-_Shanghai%2C_China_%289065443705%29.jpg/960px-The_Bund_-_Shanghai%2C_China_%289065443705%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Mr_%26_Mrs_Bund"
+        },
+        "description": "Mr & Mrs Bund is a French restaurant by chef Paul Pairet in Shanghai's Chartered Bank Building, in China. Frommer's has rated the restaurant 2 out of 3 stars.",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "shanghai-restaurants-10",
+        "name": "Toy Story Land",
+        "cityId": "shanghai",
+        "categoryId": "restaurants",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Toy%20Story%20Land%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Toy_Story_Land",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Toy_Story_Land_logo.svg/960px-Toy_Story_Land_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Toy_Story_Land"
+        },
+        "description": "Toy Story Land (known as Toy Story Playland at Disney Adventure World) is a themed land at Disney Adventure World (as part of the Worlds of Pixar land), Hong Kong Disneyland, Shanghai Disneyland, and Disney's Hollywood Studios. The area is based on Disney and Pixar's Toy Story franchise. Toy Story Land in France originally opened as part of Toon Studio in what was then named Walt Disney Studios Park on August 17, 201",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "shanghai-restaurants-11",
+        "name": "Kotipizza",
+        "cityId": "shanghai",
+        "categoryId": "restaurants",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Kotipizza%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Kotipizza",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Kotipizza_logo_2025.svg/960px-Kotipizza_logo_2025.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Kotipizza"
+        },
+        "description": "Kotipizza Oyj is a Finnish pizza restaurant chain headquartered in Helsinki. With over 290 locations, it is the largest chain of pizza restaurants in the Nordic countries. Kotipizza was founded in 1987 by Rabbe Grönblom in Vaasa, Finland. By the end of 2010, the Kotipizza chain constituted some 281 restaurants in over 130 municipalities. Some Kotipizza restaurants are located in conjunction with gas stations. The mos",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "shanghai-restaurants-12",
+        "name": "Kimpton Hotels & Restaurants",
+        "cityId": "shanghai",
+        "categoryId": "restaurants",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Kimpton%20Hotels%20%26%20Restaurants%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Kimpton_Hotels_%26_Restaurants",
+        "photo": null,
+        "description": "The Kimpton Hotel & Restaurant Group is a San Francisco-based hotel and restaurant brand owned by IHG Hotels & Resorts (IHG) since 2015. It was founded in 1981.",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "shanghai-restaurants-13",
+        "name": "Fantasyland",
+        "cityId": "shanghai",
+        "categoryId": "restaurants",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Fantasyland%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Fantasyland",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Fantasyland_logo.svg/960px-Fantasyland_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Fantasyland"
+        },
+        "description": "Fantasyland is one of the \"themed lands\" at all of the Disneyland-style parks run by The Walt Disney Company around the world. It is themed after Disney's animated fairy tale feature films. Each Fantasyland has a castle, as well as several gentle rides themed after those Disney animated feature films.",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "shanghai-restaurants-14",
+        "name": "Yum China",
+        "cityId": "shanghai",
+        "categoryId": "restaurants",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Yum%20China%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Yum_China",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/Yum_China_Headquarters_at_Xujiahui_in_Xuhui%2C_Shanghai%2C_China_20250831.jpg/960px-Yum_China_Headquarters_at_Xujiahui_in_Xuhui%2C_Shanghai%2C_China_20250831.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Yum_China"
+        },
+        "description": "Yum China Holdings, Inc. (Chinese: 百胜中国; pinyin: Bǎishèng Zhōngguó) is a Chinese Fortune 500 fast-food restaurant company based in Shanghai, China. With US$11.797 billion in revenue and 18,737 restaurants worldwide it is one of the largest restaurant companies. It was spun off from Yum! Brands in 2016, becoming an independent, publicly traded company on November 1, 2016. Yum China is a trademark licensee of Yum Brand",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "shanghai-restaurants-15",
+        "name": "Saint Nicholas' Church, Shanghai",
+        "cityId": "shanghai",
+        "categoryId": "restaurants",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Saint%20Nicholas'%20Church%2C%20Shanghai%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Saint_Nicholas'_Church%2C_Shanghai",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Saint_Nicholas%27_Church%2C_Shanghai_20210131.jpg/960px-Saint_Nicholas%27_Church%2C_Shanghai_20210131.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Saint_Nicholas'_Church%2C_Shanghai"
+        },
+        "description": "St Nicholas Church (Chinese: 圣尼古拉堂) was a Russian Orthodox Church in the former French Concession of Shanghai at 16 rue Corneille, now known as Gāolán Lù. Formerly the building was home to a French restaurant on the ground floor called Ashanti and a Spanish one in the basement called La Boca. It has been a protected monument since 1994. It is currently occupied by a bookshop with the loft being consecrated for occasi",
+        "lat": 31.21861111,
+        "lng": 121.45555556
+      },
+      {
+        "id": "shanghai-restaurants-16",
+        "name": "Israelis in China",
+        "cityId": "shanghai",
+        "categoryId": "restaurants",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Israelis%20in%20China%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Israelis_in_China",
+        "photo": null,
+        "description": "Israelis in China, as compared to other foreign communities, are not large in number. There are at most a few hundred in each of a few major cities, and possibly more scattered around in other locations outside the major cities.",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "shanghai-restaurants-17",
+        "name": "Shanghai Disneyland",
+        "cityId": "shanghai",
+        "categoryId": "restaurants",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Shanghai%20Disneyland%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Shanghai_Disneyland",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/18-03-12_ShanghaiDisney_013.jpg/960px-18-03-12_ShanghaiDisney_013.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Shanghai_Disneyland"
+        },
+        "description": "Shanghai Disneyland (Chinese: 上海迪士尼乐园; Pinyin: Shànghǎi díshìní lèyuán, Shanghainese: Zaon-he Diq-zy-nyi Loq-yoe) is a theme park located in Chuansha New Town, Pudong, Shanghai, China, that is part of the Shanghai Disney Resort. The park is operated by Disney Experiences and Shanghai Shendi Group, through a joint venture between the Walt Disney Company and Shendi. Construction began on April 8, 2011. The park opened ",
+        "lat": 31.144,
+        "lng": 121.657
+      },
+      {
+        "id": "shanghai-restaurants-18",
+        "name": "East Dawning",
+        "cityId": "shanghai",
+        "categoryId": "restaurants",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=East%20Dawning%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/East_Dawning",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/East_Dawning_restaurant_at_Beijing_South_Railway_Station_departures_%2820200828121227%29.jpg/960px-East_Dawning_restaurant_at_Beijing_South_Railway_Station_departures_%2820200828121227%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/East_Dawning"
+        },
+        "description": "East Dawning (Chinese: 东方既白, Dongfang Jibai) was Yum China's fusion of the KFC business model with Chinese cuisine. Chinese food was served exclusively, but the chain focused on the elements of Chinese cuisine that were more quickly and easily prepared. This excluded some dishes, such as boiled dumplings (jiaozi), but included steamed pastries such as steamed buns, including the popular xiaolongbao. Soft drinks were ",
+        "lat": null,
+        "lng": null
+      }
+    ],
+    "bars": [
+      {
+        "id": "shanghai-bars-1",
+        "name": "Shanghai Tunnel Bar",
+        "cityId": "shanghai",
+        "categoryId": "bars",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Shanghai%20Tunnel%20Bar%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Shanghai_Tunnel_Bar",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Portland%2C_Oregon_%28July_2023%29_-_133.jpg/960px-Portland%2C_Oregon_%28July_2023%29_-_133.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Shanghai_Tunnel_Bar"
+        },
+        "description": "Shanghai Tunnel Bar, or simply Shanghai Tunnel, is a dive bar and Asian restaurant in the Old Town Chinatown neighborhood of Portland, Oregon. Named after the city's Shanghai tunnels, the underground bar serves Asian-themed cocktails and foods such as BLTs, Chinese chicken salad, miso and noodle soup, quesadillas, and veggie burgers. Owned by Phil Ragaway, Shanghai Tunnel is known for its inexpensive drinks and pinba",
+        "lat": 45.5226,
+        "lng": -122.6725
+      },
+      {
+        "id": "shanghai-bars-2",
+        "name": "Port of Shanghai",
+        "cityId": "shanghai",
+        "categoryId": "bars",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Port%20of%20Shanghai%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Port_of_Shanghai",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Shanghai-Yangshan-Port-Containers2013-01.JPG/960px-Shanghai-Yangshan-Port-Containers2013-01.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Port_of_Shanghai"
+        },
+        "description": "The Port of Shanghai (Chinese: 上海港; pinyin: Shànghǎi Gǎng, Wu: Zånhae Kån) is located in the vicinity of Shanghai. It comprises a deep-sea port and a river port. The main port enterprise in Shanghai, the Shanghai International Port Group (SIPG), was established during the reconstitution of the Shanghai Port Authority. Companies such as the Shanghai Port Container Co. and Waigaoqiao Bonded Zone Port Co. were involved.",
+        "lat": 30.62638889,
+        "lng": 122.06472222
+      },
+      {
+        "id": "shanghai-bars-3",
+        "name": "LGBTQ culture in Shanghai",
+        "cityId": "shanghai",
+        "categoryId": "bars",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=LGBTQ%20culture%20in%20Shanghai%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/LGBTQ_culture_in_Shanghai",
+        "photo": null,
+        "description": "The city of Shanghai, China, a global center for finance, technology, manufacturing, and transportation, has a presence of LGBT (lesbian, gay, bisexual, and transgender) people. Hongwei Bao, author of \"Queering/Querying Cosmopolitanism: Queer Spaces in Shanghai,\" stated that the LGBT community in Shanghai has a more cautious attitude in comparison to LGBT communities in other Chinese cities. Bao wrote that there is a",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "shanghai-bars-4",
+        "name": "Hobo's",
+        "cityId": "shanghai",
+        "categoryId": "bars",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Hobo's%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Hobo's",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Hobo%27s%2C_Portland%2C_2017.jpg/960px-Hobo%27s%2C_Portland%2C_2017.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Hobo's"
+        },
+        "description": "Hobo's Restaurant and Lounge, or simply Hobo's, was a restaurant, gay bar, and piano bar in Portland, Oregon's Old Town Chinatown, in the United States. Housed in a building with rare access to the Shanghai tunnels, the establishment served as a starting point for guided tours. The menu consisted of American cuisine including steakhouse fare. Hobo's was featured on the Food Network's Rachael Ray's Tasty Travels and t",
+        "lat": 45.5242,
+        "lng": -122.67323
+      },
+      {
+        "id": "shanghai-bars-5",
+        "name": "Crowne Plaza Shanghai Anting Golf",
+        "cityId": "shanghai",
+        "categoryId": "bars",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Crowne%20Plaza%20Shanghai%20Anting%20Golf%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Crowne_Plaza_Shanghai_Anting_Golf",
+        "photo": null,
+        "description": "Crowne Plaza Shanghai Anting Golf is a hotel in the city of Shanghai, China. It is known for being the first five-star international hotel in the district of Jiading. It is a 415-room hotel located at No. 6555 Boyuan Road. It has an 18-hole golf course. Time Out Shanghai said, \"The traditional business hotel décor is also livened up with quirky Weibo-worthy design touches that will have you whipping out your camera –",
+        "lat": 31.2722,
+        "lng": 121.1915
+      },
+      {
+        "id": "shanghai-bars-6",
+        "name": "Qionghai Bo'ao International Airport",
+        "cityId": "shanghai",
+        "categoryId": "bars",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Qionghai%20Bo'ao%20International%20Airport%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Qionghai_Bo'ao_International_Airport",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/%E7%90%BC%E6%B5%B7%E5%8D%9A%E9%B3%8C%E6%9C%BA%E5%9C%BA_%E5%A4%A7%E9%97%A8.jpg/960px-%E7%90%BC%E6%B5%B7%E5%8D%9A%E9%B3%8C%E6%9C%BA%E5%9C%BA_%E5%A4%A7%E9%97%A8.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Qionghai_Bo'ao_International_Airport"
+        },
+        "description": "Qionghai Bo'ao International Airport (IATA: BAR, ICAO: ZJQH) is an airport serving the city of Qionghai, Hainan, China. The airport received the approval for establishment from the national government in January 2013, and was opened in March 2016 after three years of construction. It was approved to be an international airport and was thus renamed in April 2024.",
+        "lat": 19.14055556,
+        "lng": 110.45888889
+      },
+      {
+        "id": "shanghai-bars-7",
+        "name": "Starbucks Reserve",
+        "cityId": "shanghai",
+        "categoryId": "bars",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Starbucks%20Reserve%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Starbucks_Reserve",
+        "photo": null,
+        "description": "Starbucks Reserve is a program by the flagship international coffeehouse chain Starbucks. The program involves operation of worldwide roasteries; currently seven are in operation. Also part of the program are 28 coffee bars preparing Starbucks Reserve products, what Starbucks considers its rarest and best-quality coffees, usually single-origin coffees. Some Starbucks Reserve coffee is also sold in about 1,500 of the ",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "shanghai-bars-8",
+        "name": "Jin Mao Tower",
+        "cityId": "shanghai",
+        "categoryId": "bars",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Jin%20Mao%20Tower%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Jin_Mao_Tower",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Jin_Mao_Tower_Pudong_21860-Shanghai_%2832939744091%29.jpg/960px-Jin_Mao_Tower_Pudong_21860-Shanghai_%2832939744091%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Jin_Mao_Tower"
+        },
+        "description": "The Jin Mao Tower (simplified Chinese: 金茂大厦; traditional Chinese: 金茂大廈; pinyin: Jīnmào Dàshà; Shanghainese: Cinmeu Dagho; lit. 'Golden Prosperity Building'), also known as the Jinmao Building or Jinmao Tower, is a 420.5-meter-tall (1,380 ft), 88-story (93 if counting the floors in the spire) landmark skyscraper in Lujiazui, Pudong, Shanghai, China. It contains a shopping mall, offices and the Grand Hyatt Shanghai hot",
+        "lat": 31.23722222,
+        "lng": 121.50138889
+      },
+      {
+        "id": "shanghai-bars-9",
+        "name": "2005 Chinese Grand Prix",
+        "cityId": "shanghai",
+        "categoryId": "bars",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=2005%20Chinese%20Grand%20Prix%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/2005_Chinese_Grand_Prix",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/Shanghai_International_Racing_Circuit_track_map.svg/960px-Shanghai_International_Racing_Circuit_track_map.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/2005_Chinese_Grand_Prix"
+        },
+        "description": "The 2005 Chinese Grand Prix (officially the 2005 Formula 1 Sinopec Chinese Grand Prix) was the nineteenth and final Formula One motor race of the 2005 Formula One season which took place on 16 October 2005 at the Shanghai International Circuit. This was the second Chinese Grand Prix to be held since the event's 2004 inception. The race was won by the new World Champion, Renault's Fernando Alonso. McLaren driver Kimi ",
+        "lat": 31.33888889,
+        "lng": 121.21972222
+      },
+      {
+        "id": "shanghai-bars-10",
+        "name": "2004 Chinese Grand Prix",
+        "cityId": "shanghai",
+        "categoryId": "bars",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=2004%20Chinese%20Grand%20Prix%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/2004_Chinese_Grand_Prix",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/Shanghai_International_Racing_Circuit_track_map.svg/960px-Shanghai_International_Racing_Circuit_track_map.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/2004_Chinese_Grand_Prix"
+        },
+        "description": "The 2004 Chinese Grand Prix (officially the 2004 Formula 1 Sinopec Chinese Grand Prix) was a Formula One motor race held on 26 September 2004 at the Shanghai International Circuit. It was Race 16 of 18 in the 2004 FIA Formula One World Championship and was the inaugural Chinese Grand Prix. The 56-lap race was won by Rubens Barrichello for the Ferrari team, from a pole position start. Jenson Button finished second for",
+        "lat": 31.33888889,
+        "lng": 121.21972222
+      },
+      {
+        "id": "shanghai-bars-11",
+        "name": "China Club",
+        "cityId": "shanghai",
+        "categoryId": "bars",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=China%20Club%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/China_Club",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/China_Club10.jpg/960px-China_Club10.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/China_Club"
+        },
+        "description": "The China Club is a retro-chic, Shanghai-style, private members' club in Central, Hong Kong. It relates to the former China Clubs in Singapore and Beijing. The China Club opened on 8 September 1991 on the top three floors (13th/14th/15th) of the Bank of China Building in Central, Hong Kong. The restaurant serves traditional Hong Kong Chinese food. The traditional Chinese breakfast of congee, crullers (yau tiu), and d",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "shanghai-bars-12",
+        "name": "Shanghai",
+        "cityId": "shanghai",
+        "categoryId": "bars",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Shanghai%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Shanghai",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Huangpu_Park_20124-Shanghai_%2832208802494%29.jpg/960px-Huangpu_Park_20124-Shanghai_%2832208802494%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Shanghai"
+        },
+        "description": "Shanghai is a provincial-level direct-administered municipality in China. It has a population of 30,050,000 in the urban area as of 2026, thus making it China's most populous city and the fifth-largest city in the world by population. The city is located on the southern estuary of the Yangtze River, with the Huangpu River bisecting the city. Shanghai is a global centre for finance, business, research, science and tec",
+        "lat": 31.2325,
+        "lng": 121.46916667
+      },
+      {
+        "id": "shanghai-bars-13",
+        "name": "International Settlement",
+        "cityId": "shanghai",
+        "categoryId": "bars",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=International%20Settlement%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/International_Settlement_(film)",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/40/International_Settlement_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/International_Settlement_(film)"
+        },
+        "description": "International Settlement is a 1938 American drama film directed by Eugene Forde and starring Dolores del Río, George Sanders and June Lang. It is set in the Shanghai International Settlement during the Sino-Japanese War. In the film, a gun runner falls in love with a beautiful French singer.",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "shanghai-bars-14",
+        "name": "Eddy's Bar",
+        "cityId": "shanghai",
+        "categoryId": "bars",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Eddy's%20Bar%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Eddy's_Bar",
+        "photo": null,
+        "description": "Eddy's Bar (Chinese: 艾迪酒吧; pinyin: Àidí Jiǔbā) was a gay bar in Shanghai, China. It opened on Weihai Lu in 1995 and moved to Huaihai Lu in 2002, where it operated until its closure in 2016. Eddy's was the first bar to openly serve Shanghai's LGBTQ community.",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "shanghai-bars-15",
+        "name": "Torbeh Bar",
+        "cityId": "shanghai",
+        "categoryId": "bars",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Torbeh%20Bar%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Torbeh_Bar",
+        "photo": null,
+        "description": "Torbeh Bar (Persian: تربه بر; also known as Torba Bera, Turbabar, Tūrbāvar, and Turbāwar) is a village in Chahar Farizeh Rural District, in the Central District of Bandar-e Anzali County, Gilan Province, Iran. At the 2016 census, its population was 177, in 75 families. Decreased from 329 people in 2006.",
+        "lat": 37.47,
+        "lng": 49.30861111
+      },
+      {
+        "id": "shanghai-bars-16",
+        "name": "Ninglang Luguhu Airport",
+        "cityId": "shanghai",
+        "categoryId": "bars",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Ninglang%20Luguhu%20Airport%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Ninglang_Luguhu_Airport",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/%E5%AF%A7%E8%92%97%E7%80%98%E6%B2%BD%E6%B9%96%E6%A9%9F%E5%A0%B4_20190928190809.jpg/960px-%E5%AF%A7%E8%92%97%E7%80%98%E6%B2%BD%E6%B9%96%E6%A9%9F%E5%A0%B4_20190928190809.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Ninglang_Luguhu_Airport"
+        },
+        "description": "Ninglang Luguhu Airport (IATA: NLH, ICAO: ZPNL) is an airport serving Ninglang Yi Autonomous County and Lugu Lake (Luguhu), in northwestern Yunnan province, China. It is located in the village of Shifoshan (石佛山村), Hongqiao Town, 25 kilometres (16 mi) from Lugu Lake and 50 kilometres (31 mi) from the Ninglang county seat, at an elevation of 3,293 metres (10,804 ft). Construction began in April 2013, and the airport, t",
+        "lat": 27.54380556,
+        "lng": 100.75738889
+      },
+      {
+        "id": "shanghai-bars-17",
+        "name": "The Peninsula Chicago",
+        "cityId": "shanghai",
+        "categoryId": "bars",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Peninsula%20Chicago%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/The_Peninsula_Chicago",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/20070513_RL_Polo_-_Banana_Republic_-_Peninsula.JPG/960px-20070513_RL_Polo_-_Banana_Republic_-_Peninsula.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/The_Peninsula_Chicago"
+        },
+        "description": "The Peninsula Chicago is a hotel located at the intersection of East Superior Street and North Michigan Avenue in Chicago, Illinois. The hotel is part of The Peninsula Hotels group based in Hong Kong. The Peninsula Hotel group's parent Hongkong and Shanghai Hotels, who already owned 92.5% of the Chicago property's shares, purchased the remainder of the shares that it did not already own in late 2009, giving it full o",
+        "lat": 41.895425,
+        "lng": -87.62495833
+      },
+      {
+        "id": "shanghai-bars-18",
+        "name": "South Shaanxi Road station",
+        "cityId": "shanghai",
+        "categoryId": "bars",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=South%20Shaanxi%20Road%20station%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/South_Shaanxi_Road_station",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/South_Shaanxi_Road_Station_Line_12_Platform.jpg/960px-South_Shaanxi_Road_Station_Line_12_Platform.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/South_Shaanxi_Road_station"
+        },
+        "description": "South Shaanxi Road (Chinese: 陕西南路; pinyin: Shǎnxī Nán Lù) is an interchange station between Lines 1, 10 and 12 of the Shanghai Metro. It is situated within the inner ring-road on the boundary between Huangpu District and Xuhui District. The newest line that the station serves is Line 12 which opened on 19 December 2015. During the construction of Line 12, interchanging between lines 1 and 10 required exiting the stat",
+        "lat": 31.217863,
+        "lng": 121.46102
+      }
+    ],
+    "coffee_shops": [
+      {
+        "id": "shanghai-coffee_shops-1",
+        "name": "LGBTQ culture in Shanghai",
+        "cityId": "shanghai",
+        "categoryId": "coffee_shops",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=LGBTQ%20culture%20in%20Shanghai%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/LGBTQ_culture_in_Shanghai",
+        "photo": null,
+        "description": "The city of Shanghai, China, a global center for finance, technology, manufacturing, and transportation, has a presence of LGBT (lesbian, gay, bisexual, and transgender) people. Hongwei Bao, author of \"Queering/Querying Cosmopolitanism: Queer Spaces in Shanghai,\" stated that the LGBT community in Shanghai has a more cautious attitude in comparison to LGBT communities in other Chinese cities. Bao wrote that there is a",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "shanghai-coffee_shops-2",
+        "name": "Shanghai Disneyland",
+        "cityId": "shanghai",
+        "categoryId": "coffee_shops",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Shanghai%20Disneyland%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Shanghai_Disneyland",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/18-03-12_ShanghaiDisney_013.jpg/960px-18-03-12_ShanghaiDisney_013.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Shanghai_Disneyland"
+        },
+        "description": "Shanghai Disneyland (Chinese: 上海迪士尼乐园; Pinyin: Shànghǎi díshìní lèyuán, Shanghainese: Zaon-he Diq-zy-nyi Loq-yoe) is a theme park located in Chuansha New Town, Pudong, Shanghai, China, that is part of the Shanghai Disney Resort. The park is operated by Disney Experiences and Shanghai Shendi Group, through a joint venture between the Walt Disney Company and Shendi. Construction began on April 8, 2011. The park opened ",
+        "lat": 31.144,
+        "lng": 121.657
+      },
+      {
+        "id": "shanghai-coffee_shops-3",
+        "name": "Roger Palmgren",
+        "cityId": "shanghai",
+        "categoryId": "coffee_shops",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Roger%20Palmgren%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Roger_Palmgren",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/81/RogerPalmgren.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Roger_Palmgren"
+        },
+        "description": "Roger Lennart Palmgren is a Swedish football manager. He has been active as a club manager in nine countries: Italy, Sweden, Sierra Leone, Rwanda, Democratic Republic of the Congo, Nigeria, South Africa, Namibia and China. He has been coach of the national football teams of Sierra Leone, Rwanda and Namibia.",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "shanghai-coffee_shops-4",
+        "name": "Charlie Chan in Shanghai",
+        "cityId": "shanghai",
+        "categoryId": "coffee_shops",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Charlie%20Chan%20in%20Shanghai%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Charlie_Chan_in_Shanghai",
+        "photo": null,
+        "description": "Charlie Chan in Shanghai is the ninth Charlie Chan film produced by Fox Film Corporation with the title character played by Warner Oland.",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "shanghai-coffee_shops-5",
+        "name": "Esther Wong",
+        "cityId": "shanghai",
+        "categoryId": "coffee_shops",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Esther%20Wong%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Esther_Wong",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Esther_Wong%2C_1979.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Esther_Wong"
+        },
+        "description": "Esther Wong (August 13, 1917 – August 14, 2005) was a Chinese-American music promoter, called the \"Godmother of Punk\" in Los Angeles, California.",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "shanghai-coffee_shops-6",
+        "name": "New York University",
+        "cityId": "shanghai",
+        "categoryId": "coffee_shops",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=New%20York%20University%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/New_York_University",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/New_York_University_Seal.svg/960px-New_York_University_Seal.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/New_York_University"
+        },
+        "description": "New York University (NYU) is a private research university in New York City, United States. Chartered in 1831 by the New York State Legislature, NYU was founded in 1832 by Albert Gallatin as a non-sectarian all-male institution near City Hall based on a curriculum focused on a secular education. The university moved in 1833 and has maintained its main campus in Greenwich Village surrounding Washington Square Park. Si",
+        "lat": 40.73,
+        "lng": -73.995
+      },
+      {
+        "id": "shanghai-coffee_shops-7",
+        "name": "2016 Shanghai International Film Festival",
+        "cityId": "shanghai",
+        "categoryId": "coffee_shops",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=2016%20Shanghai%20International%20Film%20Festival%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/2016_Shanghai_International_Film_Festival",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Shanghai_opera.jpg/960px-Shanghai_opera.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/2016_Shanghai_International_Film_Festival"
+        },
+        "description": "The 2016 Shanghai International Film Festival was the 19th such festival devoted to international cinema held in Shanghai, China.",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "shanghai-coffee_shops-8",
+        "name": "Thomas Heatherwick",
+        "cityId": "shanghai",
+        "categoryId": "coffee_shops",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Thomas%20Heatherwick%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Thomas_Heatherwick",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CREDIT_Raquel_Diniz_BO5A8061_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Thomas_Heatherwick"
+        },
+        "description": "Thomas Alexander Heatherwick, (born 17 February 1970) is an English designer and the founder of London-based design practice Heatherwick Studio. He works with a team of about 250 architects, designers and entrepreneurs from his studio in King's Cross, London. Heatherwick's projects, many of which have won design awards, include the UK pavilion at Expo 2010, the renovation of the Hong Kong Pacific Place, the Olympic c",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "shanghai-coffee_shops-9",
+        "name": "Homer Sykes",
+        "cityId": "shanghai",
+        "categoryId": "coffee_shops",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Homer%20Sykes%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Homer_Sykes",
+        "photo": null,
+        "description": "Homer Warwick Sykes (born January 1949) is a Canadian-born British documentary photographer whose career has included personal projects and landscape photography.",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "shanghai-coffee_shops-10",
+        "name": "University of Sheffield Management School",
+        "cityId": "shanghai",
+        "categoryId": "coffee_shops",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=University%20of%20Sheffield%20Management%20School%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/University_of_Sheffield_Management_School",
+        "photo": null,
+        "description": "Sheffield University Management School is an AMBA, AACSB and EQUIS accredited business school at the University of Sheffield in Sheffield, England. It is one of over 120 business schools in the world to have achieved triple accreditation. The school has over 100 academics and nearly 2,000 undergraduate and postgraduate students. In June 2013, the school moved into modern, newly refurbished facilities close to the Uni",
+        "lat": 53.38269444,
+        "lng": -1.49933333
+      },
+      {
+        "id": "shanghai-coffee_shops-11",
+        "name": "Oriental Art Center",
+        "cityId": "shanghai",
+        "categoryId": "coffee_shops",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Oriental%20Art%20Center%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Oriental_Art_Center",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/2011_Shanghai_Oriental_Art_Center1.JPG/960px-2011_Shanghai_Oriental_Art_Center1.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Oriental_Art_Center"
+        },
+        "description": "The Shanghai Oriental Art Center (simplified Chinese: 上海东方艺术中心; traditional Chinese: 上海東方藝術中心; pinyin: Shànghǎi Dōngfāng Yìshù Zhōngxīn), abbreviated SHOAC, is one of the leading performance and cultural facilities in Shanghai. The five interconnected hemispherical halls or \"petals\" are shaped to resemble a butterfly orchid from above. They comprise the Entrance Hall, the Concert Hall, the Opera Hall, the Performance",
+        "lat": 31.22495,
+        "lng": 121.536899
+      },
+      {
+        "id": "shanghai-coffee_shops-12",
+        "name": "Duffy the Disney Bear",
+        "cityId": "shanghai",
+        "categoryId": "coffee_shops",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Duffy%20the%20Disney%20Bear%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Duffy_the_Disney_Bear",
+        "photo": null,
+        "description": "Duffy the Disney Bear (ダッフィー) is a Disney Parks character developed for merchandise, live entertainment and meet-and-greets. The character is especially popular in Disney's Asian theme parks—Tokyo DisneySea, Hong Kong Disneyland and Shanghai Disneyland. The character has struggled to meet the same levels of popularity at the American theme parks Disneyland and Walt Disney World, although Duffy and ShellieMay appeared",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "shanghai-coffee_shops-13",
+        "name": "Momi cafe",
+        "cityId": "shanghai",
+        "categoryId": "coffee_shops",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Momi%20cafe%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Momi_cafe",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Pingjiang_Road.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Momi_cafe"
+        },
+        "description": "Momi Café (Chinese: 猫的天空之城; pinyin: MāodeTiānKōngzhīChéng) is a coffee house located in Pingjiang Road in Suzhou, China. It has many branches, including stores in Wuxi, Shanghai, Xitang and many other cities.",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "shanghai-coffee_shops-14",
+        "name": "Daughter of Shanghai",
+        "cityId": "shanghai",
+        "categoryId": "coffee_shops",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Daughter%20of%20Shanghai%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Daughter_of_Shanghai",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Daughter_of_Shanghai_%281937_poster%29.jpg/960px-Daughter_of_Shanghai_%281937_poster%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Daughter_of_Shanghai"
+        },
+        "description": "Daughter of Shanghai is a 1937 American crime film directed by Robert Florey and starring Anna May Wong, Charles Bickford and Buster Crabbe. Unusually for the time, East Asian American actors played the lead roles. It was also one of the first films in which Anthony Quinn appeared. In 2006, Daughter of Shanghai was selected for preservation in the National Film Registry of the Library of Congress, being deemed \"cultu",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "shanghai-coffee_shops-15",
+        "name": "Bateau",
+        "cityId": "shanghai",
+        "categoryId": "coffee_shops",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Bateau%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Bateau_(restaurant)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Seattle_in_October_2022_-_029.jpg/960px-Seattle_in_October_2022_-_029.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Bateau_(restaurant)"
+        },
+        "description": "Bateau was a steakhouse in Seattle, in the U.S. state of Washington. The restaurant was founded by chef Renee Erickson.",
+        "lat": 47.61305556,
+        "lng": -122.31861111
+      },
+      {
+        "id": "shanghai-coffee_shops-16",
+        "name": "Adventureland",
+        "cityId": "shanghai",
+        "categoryId": "coffee_shops",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Adventureland%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Adventureland_(Disney)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/Adventureland_at_Disneyland%2C_2026.jpg/960px-Adventureland_at_Disneyland%2C_2026.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Adventureland_(Disney)"
+        },
+        "description": "Adventureland is one of the \"themed lands\" at the many Disneyland-style theme parks run by the Walt Disney Company around the world. It is themed to resemble the remote jungles in Africa, Asia, South America, Oceania and the Caribbean. Adventureland provides a 1950s view of exotic adventure, capitalizing on the post-war Tiki craze. Lush vegetation resembles jungles while elements of the \"other\" surround the visitor. ",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "shanghai-coffee_shops-17",
+        "name": "Sushi Ginza Onodera",
+        "cityId": "shanghai",
+        "categoryId": "coffee_shops",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Sushi%20Ginza%20Onodera%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Sushi_Ginza_Onodera",
+        "photo": null,
+        "description": "Sushi Ginza Onodera is a restaurant chain specializing in sushi.",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "shanghai-coffee_shops-18",
+        "name": "10 Corso Como",
+        "cityId": "shanghai",
+        "categoryId": "coffee_shops",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=10%20Corso%20Como%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/10_Corso_Como",
+        "photo": null,
+        "description": "10 Corso Como is a shopping and dining complex in Milan, Italy with international locations in Tokyo, Seoul, and Shanghai. It combines outlets that show and sell works of art, fashion, music, design, cuisine and culture. It was founded in 1990 by gallerist and publisher Carla Sozzani.",
+        "lat": null,
+        "lng": null
+      }
+    ],
+    "bookshops": [
+      {
+        "id": "shanghai-bookshops-1",
+        "name": "Joint Publishing",
+        "cityId": "shanghai",
+        "categoryId": "bookshops",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Joint%20Publishing%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Joint_Publishing",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/JP_Books_in_Maritime_Square_201307.jpg/960px-JP_Books_in_Maritime_Square_201307.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Joint_Publishing"
+        },
+        "description": "Joint Publishing (Chinese: 三聯書店), also known as Sanlian Press or SDX Joint Publishing, is a book store chain and publisher founded at Queen's Road Central in Hong Kong on 18 October 1948. Joint Publishing (Hong Kong) is one of major book store chains in Hong Kong and currently a subsidiary company of Sino United Publishing (Holdings) Limited. The Mainland China branches of the book store chain, such as SDX Joint Publ",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "shanghai-bookshops-2",
+        "name": "Shanghai Library station",
+        "cityId": "shanghai",
+        "categoryId": "bookshops",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Shanghai%20Library%20station%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Shanghai_Library_station",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/The_Platform_of_Shanghai_Library_Station_in_Shanghai_2025.jpg/960px-The_Platform_of_Shanghai_Library_Station_in_Shanghai_2025.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Shanghai_Library_station"
+        },
+        "description": "Shanghai Library (simplified Chinese: 上海图书馆; traditional Chinese: 上海圖書館; pinyin: Shànghǎi Túshūguǎn) is a station on Line 10 of the Shanghai Metro. It began operation on 10 April 2010. It is named after the nearby Shanghai Library. From 2013 to January 2018, the station was home to a branch of Jifeng Bookstore.",
+        "lat": 31.209444,
+        "lng": 121.438611
+      },
+      {
+        "id": "shanghai-bookshops-3",
+        "name": "Kanzō Uchiyama",
+        "cityId": "shanghai",
+        "categoryId": "bookshops",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Kanz%C5%8D%20Uchiyama%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Kanz%C5%8D_Uchiyama",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/12/Kanzo_Uchiyama_01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Kanz%C5%8D_Uchiyama"
+        },
+        "description": "Kanzō Uchiyama (内山 完造, Uchiyama Kanzō; January 11, 1885 – September 21, 1959), also known with his Chinese name (鄔其山; Wū Qíshān), was the proprietor of the Uchiyama Bookstore, whose frequent visitors were both Chinese and Japanese intellectuals before World War II. Uchiyama was a Christian.",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "shanghai-bookshops-4",
+        "name": "JF Books",
+        "cityId": "shanghai",
+        "categoryId": "bookshops",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=JF%20Books%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/JF_Books",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/Jifeng-BookStore.jpg/960px-Jifeng-BookStore.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/JF_Books"
+        },
+        "description": "JF Books, formerly known as Jifeng Bookstore (Chinese: 季风书园; pinyin: jìfēng shū yuán), is an independent bookstore in the Dupont Circle neighborhood of Washington, D.C. It is the only Chinese-language bookstore in D.C. It was originally founded in 1997 in Shanghai.",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "shanghai-bookshops-5",
+        "name": "Saint Nicholas' Church, Shanghai",
+        "cityId": "shanghai",
+        "categoryId": "bookshops",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Saint%20Nicholas'%20Church%2C%20Shanghai%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Saint_Nicholas'_Church%2C_Shanghai",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Saint_Nicholas%27_Church%2C_Shanghai_20210131.jpg/960px-Saint_Nicholas%27_Church%2C_Shanghai_20210131.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Saint_Nicholas'_Church%2C_Shanghai"
+        },
+        "description": "St Nicholas Church (Chinese: 圣尼古拉堂) was a Russian Orthodox Church in the former French Concession of Shanghai at 16 rue Corneille, now known as Gāolán Lù. Formerly the building was home to a French restaurant on the ground floor called Ashanti and a Spanish one in the basement called La Boca. It has been a protected monument since 1994. It is currently occupied by a bookshop with the loft being consecrated for occasi",
+        "lat": 31.21861111,
+        "lng": 121.45555556
+      },
+      {
+        "id": "shanghai-bookshops-6",
+        "name": "Skyscraper Museum",
+        "cityId": "shanghai",
+        "categoryId": "bookshops",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Skyscraper%20Museum%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Skyscraper_Museum",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/Skyscraper_museum_nyc1.jpg/960px-Skyscraper_museum_nyc1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Skyscraper_Museum"
+        },
+        "description": "The Skyscraper Museum is an architecture museum in the Battery Park City neighborhood of Manhattan in New York City, founded in 1996. The museum focuses on high-rise buildings as \"products of technology, objects of design, sites of construction, investments in real estate, and places of work and residence.\" The Skyscraper Museum also celebrates the architectural heritage of New York and the forces and people who crea",
+        "lat": 40.70555556,
+        "lng": -74.0175
+      },
+      {
+        "id": "shanghai-bookshops-7",
+        "name": "Han Han",
+        "cityId": "shanghai",
+        "categoryId": "bookshops",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Han%20Han%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Han_Han",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Han_Han_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Han_Han"
+        },
+        "description": "Han Han (Chinese: 韩寒; pinyin: Hán Hán; born September 23, 1982) is a Chinese writer, rally driver, singer and filmmaker. He rose to fame in 1999, during his first year of high school, when he won first prize in the New Concept Writing Competition with his essay Seeing Ourselves in a Cup (杯中窥人). After dropping out of school, he pursued parallel careers in writing and motorsport, gaining wide influence through his popu",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "shanghai-bookshops-8",
+        "name": "Bird-worm seal script",
+        "cityId": "shanghai",
+        "categoryId": "bookshops",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Bird-worm%20seal%20script%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Bird-worm_seal_script",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Deciphering_the_sword.jpg/960px-Deciphering_the_sword.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Bird-worm_seal_script"
+        },
+        "description": "The bird-worm seal script (Chinese: 鳥蟲篆) is a type of ancient seal script originating in Ancient China.",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "shanghai-bookshops-9",
+        "name": "Shanghai Foreign Language Education Press",
+        "cityId": "shanghai",
+        "categoryId": "bookshops",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Shanghai%20Foreign%20Language%20Education%20Press%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Shanghai_Foreign_Language_Education_Press",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Sflep_logo.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Shanghai_Foreign_Language_Education_Press"
+        },
+        "description": "Shanghai Foreign Language Education Press (SFLEP) is a large university press in China. With an affiliate to Shanghai International Studies University, it was founded in December 1979. The press has published over 6,000 titles with a diversity of 30 languages, including course-books, academic works, reference books, dictionaries, journals and electronic publications.",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "shanghai-bookshops-10",
+        "name": "Xinhua Bookstore",
+        "cityId": "shanghai",
+        "categoryId": "bookshops",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Xinhua%20Bookstore%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Xinhua_Bookstore",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Xinhua_Bookstore_1%2C_China.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Xinhua_Bookstore"
+        },
+        "description": "Xinhua Bookstore (Chinese: 新华书店; pinyin: Xīnhuá Shūdiàn) is the largest and only country-wide bookstore chain brand in China.",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "shanghai-bookshops-11",
+        "name": "Longhua Science and Technology Park",
+        "cityId": "shanghai",
+        "categoryId": "bookshops",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Longhua%20Science%20and%20Technology%20Park%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Longhua_Science_and_Technology_Park",
+        "photo": null,
+        "description": "Science and Technology Park (深圳富士康龙华园区) is a technology park in Longhua Town, Shenzhen, in the south of China, that is Foxconn's largest factory site worldwide. It gained notoriety in 2010 after a spate of suicide attempts, many of them successful, by employees at the Foxconn facilities in the area, totaling 15 attempts that year, 10-13 of which were fatal. The park produces the bulk of Apple's iPhone line. Hundreds ",
+        "lat": 22.6586,
+        "lng": 114.0466
+      },
+      {
+        "id": "shanghai-bookshops-12",
+        "name": "Commercial Press",
+        "cityId": "shanghai",
+        "categoryId": "bookshops",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Commercial%20Press%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Commercial_Press",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/The_Commercial_Press_headquarters_%2820240417153837%29.jpg/960px-The_Commercial_Press_headquarters_%2820240417153837%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Commercial_Press"
+        },
+        "description": "The Commercial Press (simplified Chinese: 商务印书馆; traditional Chinese: 商務印書館; pinyin: Shāngwù Yìnshūguǎn) is the first modern publishing organisation in China. It is known for its academic publishing and translation work in humanities and social sciences, as well as the Xinhua Dictionary.",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "shanghai-bookshops-13",
+        "name": "Kong Dongmei",
+        "cityId": "shanghai",
+        "categoryId": "bookshops",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Kong%20Dongmei%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Kong_Dongmei",
+        "photo": null,
+        "description": "Kong Dongmei (Chinese: 孔东梅; born 1 January 1972) is a Chinese entrepreneur. She is the granddaughter of Mao Zedong.",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "shanghai-bookshops-14",
+        "name": "Victor Kamkin Bookstore",
+        "cityId": "shanghai",
+        "categoryId": "bookshops",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Victor%20Kamkin%20Bookstore%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Victor_Kamkin_Bookstore",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/Victor_Kamkin_Bookstore_Interior.jpg/960px-Victor_Kamkin_Bookstore_Interior.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Victor_Kamkin_Bookstore"
+        },
+        "description": "The Victor Kamkin Bookstore was a retail book shop with a main location in Rockville, Maryland and a smaller store in New York City in the United States. Established in 1953 by Victor Kamkin and his wife Elena Kamkina, the store maintained continuous operation throughout the Cold War era, specializing in material published in the Soviet Union.",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "shanghai-bookshops-15",
+        "name": "Shanghai People's Publishing House",
+        "cityId": "shanghai",
+        "categoryId": "bookshops",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Shanghai%20People's%20Publishing%20House%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Shanghai_People's_Publishing_House",
+        "photo": null,
+        "description": "The Shanghai People's Publishing House (Chinese: 上海人民出版社) abbreviated as SPPH, is a printing and publishing house based in Shanghai. It was established in 1972, replacing the Shanghai Publishing Bureau which was reinstated on January 1, 1978.",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "shanghai-bookshops-16",
+        "name": "Lin Yutang",
+        "cityId": "shanghai",
+        "categoryId": "bookshops",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Lin%20Yutang%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Lin_Yutang",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/59/Linyutang.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Lin_Yutang"
+        },
+        "description": "Lin Yutang (10 October 1895 – 26 March 1976) was a Chinese writer, linguist, and inventor. A prolific bilingual writer in both Chinese and English, he was celebrated for pioneering a humorous prose style in modern Chinese literature and for serving as a cultural bridge between China and the West, most notably through My Country and My People (1935) and his English translations of Chinese classics. As a linguist, he c",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "shanghai-bookshops-17",
+        "name": "John Ching Hsiung Wu",
+        "cityId": "shanghai",
+        "categoryId": "bookshops",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=John%20Ching%20Hsiung%20Wu%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/John_Ching_Hsiung_Wu",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Wu_Jingxiong.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/John_Ching_Hsiung_Wu"
+        },
+        "description": "John Ching Hsiung Wu (also John C. H. Wu; traditional Chinese: 吳經熊; pinyin: Wu Jingxiong; March 28, 1899 – February 6, 1986) was a Chinese intellectual, jurist, and writer. He wrote works mainly in Chinese and English on jurisprudence, philosophy of law, Chinese literature, philosophy and religion, and Christian spirituality. He translated Chinese classics into English and the Psalms and the New Testament into litera",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "shanghai-bookshops-18",
+        "name": "Shanghai",
+        "cityId": "shanghai",
+        "categoryId": "bookshops",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Shanghai%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Shanghai_(2012_film)",
+        "photo": null,
+        "description": "Shanghai is a 2012 Indian Hindi-language political thriller film directed and co-written by Dibakar Banerjee. The film stars Prosenjit Chatterjee, Emraan Hashmi, Farooq Shaikh, Abhay Deol and Kalki Koechlin. It is a remake of 1969 French film Z which was based on the Greek novel Z by Vassilis Vassilikos. On 6 June 2012, the high court refused stay on the release of the film. It received critical acclaim upon its rele",
+        "lat": null,
+        "lng": null
+      }
+    ],
+    "museums": [
+      {
+        "id": "shanghai-museums-1",
+        "name": "Shanghai maglev train",
+        "cityId": "shanghai",
+        "categoryId": "museums",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Shanghai%20maglev%20train%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Shanghai_maglev_train",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/A_maglev_train_coming_out%2C_Pudong_International_Airport%2C_Shanghai.jpg/960px-A_maglev_train_coming_out%2C_Pudong_International_Airport%2C_Shanghai.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Shanghai_maglev_train"
+        },
+        "description": "The Shanghai maglev train (SMT) or Shanghai Transrapid (Chinese: 上海磁浮示范运营线; pinyin: Shànghǎi Cífú Shìfàn Yùnyíng Xiàn; lit. 'Shanghai Maglev Demonstration Operation Line') is a magnetic levitation train (maglev) line that operates in Shanghai, China. The line uses technology developed by Transrapid, a ThyssenKrupp and Siemens joint venture. The Shanghai maglev is the world's first commercial high-speed maglev and has",
+        "lat": 31.20388889,
+        "lng": 121.55388889
+      },
+      {
+        "id": "shanghai-museums-2",
+        "name": "Shanghai Museum",
+        "cityId": "shanghai",
+        "categoryId": "museums",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Shanghai%20Museum%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Shanghai_Museum",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Shanghai_Museum_exterior_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Shanghai_Museum"
+        },
+        "description": "The Shanghai Museum is a public municipal museum of ancient Chinese art, situated on the People's Square in the Huangpu District of Shanghai, China. It is funded by the Shanghai Municipal Culture and Tourism Bureau. Rebuilt at its current location in 1996, it is famous for its large collection of rare cultural pieces.",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "shanghai-museums-3",
+        "name": "China Art Museum, Shanghai",
+        "cityId": "shanghai",
+        "categoryId": "museums",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=China%20Art%20Museum%2C%20Shanghai%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/China_Art_Museum%2C_Shanghai",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/China_Art_Museum%2C_Shanghai.jpg/960px-China_Art_Museum%2C_Shanghai.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/China_Art_Museum%2C_Shanghai"
+        },
+        "description": "China Art Museum, Shanghai (Shanghai Art Museum) is a municipal art museum of Shanghai City. It is a public welfare institution funded by the Shanghai City Culture and Tourism Bureau. The museum is housed in the China Pavilion building, formerly of the Expo 2010 Shanghai China.",
+        "lat": 31.18638889,
+        "lng": 121.49
+      },
+      {
+        "id": "shanghai-museums-4",
+        "name": "Shanghai Jewish Refugees Museum",
+        "cityId": "shanghai",
+        "categoryId": "museums",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Shanghai%20Jewish%20Refugees%20Museum%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Shanghai_Jewish_Refugees_Museum",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Shanghai_Jewish_Refugees_Museum_courtyard.jpg/960px-Shanghai_Jewish_Refugees_Museum_courtyard.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Shanghai_Jewish_Refugees_Museum"
+        },
+        "description": "The Shanghai Jewish Refugees Museum is a museum commemorating the Jewish refugees who lived in Shanghai after fleeing Europe to escape Nazi persecution. It is located at the former Ohel Moshe or Moishe Synagogue, in the Tilanqiao Historic Area of Hongkou district, Shanghai, China. The museum features documents, photographs, films, and personal items documenting the lives of some of the more than 20,000 Jewish residen",
+        "lat": 31.254352,
+        "lng": 121.509196
+      },
+      {
+        "id": "shanghai-museums-5",
+        "name": "Shanghai Auto Museum",
+        "cityId": "shanghai",
+        "categoryId": "museums",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Shanghai%20Auto%20Museum%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Shanghai_Auto_Museum",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Shanghai_Automobile_Museum.jpg/960px-Shanghai_Automobile_Museum.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Shanghai_Auto_Museum"
+        },
+        "description": "Shanghai Auto Museum is an automobile museum located in Anting, Jiading District, Shanghai, China, in the Auto Expo Park of Shanghai International Automobile City. Designed by the Architectural Design & Research Institute of Tongji University and IFB from Germany, the museum opened to the public on January 17, 2007. The museum is the first specialist museum of its kind in China. With a gross floor area of 28,000 squa",
+        "lat": 31.28055556,
+        "lng": 121.16583333
+      },
+      {
+        "id": "shanghai-museums-6",
+        "name": "Rockbund Art Museum",
+        "cityId": "shanghai",
+        "categoryId": "museums",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Rockbund%20Art%20Museum%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Rockbund_Art_Museum",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/RAM_building.jpg/960px-RAM_building.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Rockbund_Art_Museum"
+        },
+        "description": "The Rockbund Art Museum (RAM, simplified Chinese: 上海外滩美术馆; traditional Chinese: 上海外灘美術館; pinyin: Shànghǎi Wàitān Měishùguǎn; lit. 'Shanghai Bund Art Museum') is a contemporary art museum in central Shanghai. The museum is on Huqiu Road, in the former Royal Asiatic Society building completed in 1933 near The Bund waterfront. There are no permanent collections. Featured Chinese artists have included Cai Guo-Qiang and Z",
+        "lat": 31.243,
+        "lng": 121.4843
+      },
+      {
+        "id": "shanghai-museums-7",
+        "name": "Shanghai Science and Technology Museum",
+        "cityId": "shanghai",
+        "categoryId": "museums",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Shanghai%20Science%20and%20Technology%20Museum%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Shanghai_Science_and_Technology_Museum",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Shanghai_Science_and_Technology_Museum_20260418_%282%29.jpg/960px-Shanghai_Science_and_Technology_Museum_20260418_%282%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Shanghai_Science_and_Technology_Museum"
+        },
+        "description": "Shanghai Science and Technology Museum is a large museum in Pudong, Shanghai, close to Century Park, the largest park within the inner districts of the city. It is one of China's most-visited museums. It received 1,351,000 visitors in 2020, despite a fall of attendance of 72 percent from 2019 due to restrictions and reduced tourism imposed by the COVID-19 pandemic.",
+        "lat": 31.22027778,
+        "lng": 121.53777778
+      },
+      {
+        "id": "shanghai-museums-8",
+        "name": "Long Museum",
+        "cityId": "shanghai",
+        "categoryId": "museums",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Long%20Museum%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Long_Museum",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/CONTINUOUS_2012_Coll._Long_Museum_West_Bund_-_Shanghai_-_China_WEB.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Long_Museum"
+        },
+        "description": "The Long Museum (Chinese: 龙美术馆; lit. 'Dragon Art Museum') is a private art museum in Shanghai, China, founded by Liu Yiqian and his wife Wang Wei. The museum has two locations in Shanghai: the Long Museum Pudong and Long Museum West Bund. In 2016, a third location was opened in Chongqing and a Wuhan branch was scheduled for 2018.",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "shanghai-museums-9",
+        "name": "Shanghai North railway station",
+        "cityId": "shanghai",
+        "categoryId": "museums",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Shanghai%20North%20railway%20station%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Shanghai_North_railway_station",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Shanghai_%28North%29_Railway_Station%2C_1908.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Shanghai_North_railway_station"
+        },
+        "description": "Shanghai North railway station (Chinese: 上海北站), located on East Tianmu Road, was the main railway station of Shanghai during most of the 20th century. It was closed in 1987 and a replica of the original 1909 building, erected on the same site, is now the Shanghai Railway Museum. The station tracks are still in use as a coach yard. It was also known as the \"沪宁铁路上海车站\", referring to the Shanghai–Nanjing Railway, of whic",
+        "lat": 31.250062,
+        "lng": 121.476197
+      },
+      {
+        "id": "shanghai-museums-10",
+        "name": "Shanghai Metro Museum",
+        "cityId": "shanghai",
+        "categoryId": "museums",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Shanghai%20Metro%20Museum%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Shanghai_Metro_Museum",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/ShanghaiMetroMuseumSimulator.jpg/960px-ShanghaiMetroMuseumSimulator.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Shanghai_Metro_Museum"
+        },
+        "description": "Shanghai Metro Museum (Chinese: 上海地铁博物馆; pinyin: Shànghǎi dìtiě bówù guǎn) is a transport museum about the Shanghai Metro, located near the Ziteng Road Station of a branch of the Shanghai Metro Line 10. The museum consists of 3,000 square meters. There are simulators, dioramas, and a 5D cinema. As a part of Shanghai Mixc TOD project, the museum is completed with Wuzhong Road Depot and OCC of Line 10. It is China's fi",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "shanghai-museums-11",
+        "name": "Museum of Contemporary Art Shanghai",
+        "cityId": "shanghai",
+        "categoryId": "museums",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Museum%20of%20Contemporary%20Art%20Shanghai%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Museum_of_Contemporary_Art_Shanghai",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/%E4%B8%8A%E6%B5%B7%E5%BD%93%E4%BB%A3%E8%89%BA%E6%9C%AF%E9%A6%86_-_panoramio.jpg/960px-%E4%B8%8A%E6%B5%B7%E5%BD%93%E4%BB%A3%E8%89%BA%E6%9C%AF%E9%A6%86_-_panoramio.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Museum_of_Contemporary_Art_Shanghai"
+        },
+        "description": "The Museum of Contemporary Art Shanghai (MoCA Shanghai; Chinese: 上海当代艺术馆; pinyin: Shànghǎi Dāngdài Yìshùguǎn) is a contemporary art museum in the city of Shanghai, China. It is located within People's Park, north of People's Square, the location of a former racecourse that now holds the central administrative building and museums of Shanghai. Surrounding buildings include the Municipal Government Headquarters, the Sh",
+        "lat": 31.233316,
+        "lng": 121.468084
+      },
+      {
+        "id": "shanghai-museums-12",
+        "name": "C. Y. Tung Maritime Museum",
+        "cityId": "shanghai",
+        "categoryId": "museums",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=C.%20Y.%20Tung%20Maritime%20Museum%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/C._Y._Tung_Maritime_Museum",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/CYTUNG_MUSEUM.jpg/960px-CYTUNG_MUSEUM.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/C._Y._Tung_Maritime_Museum"
+        },
+        "description": "The C. Y. Tung Maritime Museum (董浩云航运博物馆 Dǒng Hàoyún Hángyùn Bówùguǎn) is located in the Shanghai Jiao Tong University in Shanghai, China.",
+        "lat": 31.20208056,
+        "lng": 121.43041667
+      },
+      {
+        "id": "shanghai-museums-13",
+        "name": "Power Station of Art",
+        "cityId": "shanghai",
+        "categoryId": "museums",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Power%20Station%20of%20Art%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Power_Station_of_Art",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Pavilion_of_the_Future.jpg/960px-Pavilion_of_the_Future.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Power_Station_of_Art"
+        },
+        "description": "The Power Station of Art (Chinese: 上海当代艺术博物馆; lit. 'Shanghai Contemporary Art Museum'; PSA) is a public municipal contemporary art museum in Huangpu, Shanghai, China. It is an institution directly under the Shanghai Municipal Bureau of Culture and Tourism and hosts exhibitions free to the public. Power Station of Art sits at the former site of the Nanshi Electric Plant, which opened in 1897 and relocated to the museu",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "shanghai-museums-14",
+        "name": "Shanghai Astronomy Museum",
+        "cityId": "shanghai",
+        "categoryId": "museums",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Shanghai%20Astronomy%20Museum%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Shanghai_Astronomy_Museum",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Shanghaitianwenguan.jpg/960px-Shanghaitianwenguan.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Shanghai_Astronomy_Museum"
+        },
+        "description": "Shanghai Astronomy Museum is a planetarium opened in 2021 in Lingang New City, Pudong New Area district, Shanghai. Its dome covers 38,000 square meters. It is the world's largest planetarium in terms of building scale. The planetarium, designed by New York City based Ennead Architects, serves as an educational and entertainment site for visitors. It is part of Shanghai Science and Technology Museum. With no straight ",
+        "lat": 30.915094,
+        "lng": 121.92267
+      },
+      {
+        "id": "shanghai-museums-15",
+        "name": "Shanghai Film Museum",
+        "cityId": "shanghai",
+        "categoryId": "museums",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Shanghai%20Film%20Museum%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Shanghai_Film_Museum",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/ShanghaiFilmGroup_in_snow.jpeg/960px-ShanghaiFilmGroup_in_snow.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Shanghai_Film_Museum"
+        },
+        "description": "The Shanghai Film Museum (Chinese: 上海电影博物馆) is a museum in Shanghai, China, located at 595 North Caoxi Road in Xuhui District. The exhibition area is 15,000 square meters. Combining interaction, observation and experience, Shanghai Film Museum features many film cultural activities, historical relic collections, academic research, social education, and exhibitions. The museum contains four main exhibition units and a",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "shanghai-museums-16",
+        "name": "Madame Tussauds Shanghai",
+        "cityId": "shanghai",
+        "categoryId": "museums",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Madame%20Tussauds%20Shanghai%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Madame_Tussauds_Shanghai",
+        "photo": null,
+        "description": "Madame Tussauds Shanghai (simplified Chinese: 上海杜莎夫人蜡像馆; traditional Chinese: 上海杜莎夫人蠟像館; pinyin: Shànghǎi Dùshā Fūrén Làxiàngguǎn) is a wax museum located on the 10th floor of the New World Department Store, Nanjing Xi Road, Shanghai, China. Opened May 1, 2006, it was the second Madame Tussauds museum to open in Asia after Madame Tussauds Hong Kong. It offers a mix of Chinese and western figures, from film stars to a",
+        "lat": 31.23638889,
+        "lng": 121.47805556
+      },
+      {
+        "id": "shanghai-museums-17",
+        "name": "Yuz Museum Shanghai",
+        "cityId": "shanghai",
+        "categoryId": "museums",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Yuz%20Museum%20Shanghai%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Yuz_Museum_Shanghai",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Yuz_Museum_appearance%2C_shot_in_August_2017_in_Shanghai.jpg/960px-Yuz_Museum_appearance%2C_shot_in_August_2017_in_Shanghai.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Yuz_Museum_Shanghai"
+        },
+        "description": "The Yuz Museum Shanghai (Chinese: 余德耀美术馆) is a museum in the West Bund in Xuhui District, Shanghai, China, operated by the non-profit Yuz Foundation. Designed by Japanese architect Sou Fujimoto, it is located in the renovated hangar of the former Shanghai Longhua Airport, occupying premises with a total area of more than 9,000 square meters, including a main gallery of over 3,000 square meters. The museum opened on 1",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "shanghai-museums-18",
+        "name": "Shanghai",
+        "cityId": "shanghai",
+        "categoryId": "museums",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Shanghai%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Shanghai",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Huangpu_Park_20124-Shanghai_%2832208802494%29.jpg/960px-Huangpu_Park_20124-Shanghai_%2832208802494%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Shanghai"
+        },
+        "description": "Shanghai is a provincial-level direct-administered municipality in China. It has a population of 30,050,000 in the urban area as of 2026, thus making it China's most populous city and the fifth-largest city in the world by population. The city is located on the southern estuary of the Yangtze River, with the Huangpu River bisecting the city. Shanghai is a global centre for finance, business, research, science and tec",
+        "lat": 31.2325,
+        "lng": 121.46916667
+      }
+    ],
+    "concerts": [
+      {
+        "id": "shanghai-concerts-1",
+        "name": "Shanghai Concert Hall",
+        "cityId": "shanghai",
+        "categoryId": "concerts",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Shanghai%20Concert%20Hall%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Shanghai_Concert_Hall",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Concert_hall_shanghai.jpg/960px-Concert_hall_shanghai.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Shanghai_Concert_Hall"
+        },
+        "description": "Cadillac·Shanghai Concert Hall is located on the intersection of Yan'an Road and South Tibet Road of Huangpu District, Shanghai. It was founded in 1930 as Nanking Theatre. In 1949, its name was changed to Beijing Cinema. In 1959, it was renamed Shanghai Concert Hall. The hall can accommodate 1,122 seats, 640 on the ground floor and 482 on the second floor. The stage is 8.35 metres by 16 metres, covering around 100 sq",
+        "lat": 31.22890556,
+        "lng": 121.47288889
+      },
+      {
+        "id": "shanghai-concerts-2",
+        "name": "Oriental Art Center",
+        "cityId": "shanghai",
+        "categoryId": "concerts",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Oriental%20Art%20Center%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Oriental_Art_Center",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/2011_Shanghai_Oriental_Art_Center1.JPG/960px-2011_Shanghai_Oriental_Art_Center1.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Oriental_Art_Center"
+        },
+        "description": "The Shanghai Oriental Art Center (simplified Chinese: 上海东方艺术中心; traditional Chinese: 上海東方藝術中心; pinyin: Shànghǎi Dōngfāng Yìshù Zhōngxīn), abbreviated SHOAC, is one of the leading performance and cultural facilities in Shanghai. The five interconnected hemispherical halls or \"petals\" are shaped to resemble a butterfly orchid from above. They comprise the Entrance Hall, the Concert Hall, the Opera Hall, the Performance",
+        "lat": 31.22495,
+        "lng": 121.536899
+      },
+      {
+        "id": "shanghai-concerts-3",
+        "name": "Shanghai Symphony Orchestra",
+        "cityId": "shanghai",
+        "categoryId": "concerts",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Shanghai%20Symphony%20Orchestra%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Shanghai_Symphony_Orchestra",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/Shanghai_Symphony_Hall_%2820191021080658%29.jpg/960px-Shanghai_Symphony_Hall_%2820191021080658%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Shanghai_Symphony_Orchestra"
+        },
+        "description": "The Shanghai Symphony Orchestra (Chinese: 上海交响乐团; pinyin: Shànghǎi Jiāoxiǎng Yuètuán) is a symphony orchestra in Shanghai, China. Its music director is Long Yu. The SSO was known as the Shanghai Public Band, expanding in 1907 to an orchestra. In 1922, it was renamed as the Shanghai Municipal Council Symphony Orchestra.",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "shanghai-concerts-4",
+        "name": "Dashijie station",
+        "cityId": "shanghai",
+        "categoryId": "concerts",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Dashijie%20station%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Dashijie_station",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/202308_Nameboard_of_L14_Dashijie_Station.jpg/960px-202308_Nameboard_of_L14_Dashijie_Station.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Dashijie_station"
+        },
+        "description": "Dashijie (Chinese: 大世界; pinyin: Dàshìjiè; lit. 'Great World') is a station on Shanghai Metro Line 8 and Line 14. It began operation on 29 December 2007 and became an interchange station with Line 14 on 30 December 2021. The station is linked to an underground shopping complex containing a McDonald's and other fast food outlets. The station is named after the Great World entertainment complex (in Chinese, \"Da Shijie\")",
+        "lat": 31.22911,
+        "lng": 121.47482
+      },
+      {
+        "id": "shanghai-concerts-5",
+        "name": "Aarhus Pride",
+        "cityId": "shanghai",
+        "categoryId": "concerts",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Aarhus%20Pride%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Aarhus_Pride",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Aarhus_Pride%2C_2012%2C_start_of_day.jpg/960px-Aarhus_Pride%2C_2012%2C_start_of_day.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Aarhus_Pride"
+        },
+        "description": "Aarhus Pride is a pride parade in Aarhus, Denmark and the largest Danish event focused on LGBT issues outside Copenhagen. The first event was held in 2012 and has been repeated every year since. It is managed and controlled by private individuals from the LGBT community and supported with funds from the city of Aarhus. In 2017, about 6,000 people took part in the 3.5-kilometre-long (2.2 mi) parade with floats and fla",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "shanghai-concerts-6",
+        "name": "Shanghai Daily",
+        "cityId": "shanghai",
+        "categoryId": "concerts",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Shanghai%20Daily%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Shanghai_Daily",
+        "photo": null,
+        "description": "Shanghai Daily (Chinese: 上海日报; pinyin: Shànghǎi Rìbào) is an English-language newspaper founded in 1999 and owned by the Shanghai United Media Group, a state media company under the control of the Shanghai Municipal Committee of the Chinese Communist Party. It was the first daily newspaper in English in Shanghai.",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "shanghai-concerts-7",
+        "name": "Bund Sightseeing Tunnel",
+        "cityId": "shanghai",
+        "categoryId": "concerts",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Bund%20Sightseeing%20Tunnel%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Bund_Sightseeing_Tunnel",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/Shanghai%2C_China%2C_December_2015_-_072.JPG/960px-Shanghai%2C_China%2C_December_2015_-_072.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Bund_Sightseeing_Tunnel"
+        },
+        "description": "The Bund Sightseeing Tunnel is a tunnel connecting the Shanghai Bund and Pudong in Shanghai, China, which houses a cable-hauled passenger rail line.",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "shanghai-concerts-8",
+        "name": "Julien De Smedt",
+        "cityId": "shanghai",
+        "categoryId": "concerts",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Julien%20De%20Smedt%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Julien_De_Smedt",
+        "photo": null,
+        "description": "Julien De Smedt (born 1975 in Brussels, Belgium) is the founder and director of JDS Architects based in Brussels, Copenhagen, Belo Horizonte and Shanghai. Projects include the VM Housing Complex, the Mountain Dwellings, the Maritime Youth House and the Holmenkollen Ski Jump. Prior to founding JDS Architects, De Smedt worked with OMA/Rem Koolhaas, Rotterdam and co-founded and directed with Bjarke Ingels the architectu",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "shanghai-concerts-9",
+        "name": "Zhabei Stadium",
+        "cityId": "shanghai",
+        "categoryId": "concerts",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Zhabei%20Stadium%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Zhabei_Stadium",
+        "photo": null,
+        "description": "Zhabei Stadium (simplified Chinese: 闸北体育场; traditional Chinese: 閘北體育場; pinyin: Zháběi Tǐyùchǎng) is a multi-use stadium in Shanghai. It is currently used mostly for football matches and athletics events. The stadium has a capacity of 20,000 people with 16,000 seats and about 4,000 people in all standing place.",
+        "lat": 31.27805556,
+        "lng": 121.44611111
+      },
+      {
+        "id": "shanghai-concerts-10",
+        "name": "Vatroslav Lisinski Concert Hall",
+        "cityId": "shanghai",
+        "categoryId": "concerts",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Vatroslav%20Lisinski%20Concert%20Hall%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Vatroslav_Lisinski_Concert_Hall",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Vatroslav_Lisinski_Concert_Hall.jpg/960px-Vatroslav_Lisinski_Concert_Hall.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Vatroslav_Lisinski_Concert_Hall"
+        },
+        "description": "Vatroslav Lisinski Concert Hall (Croatian: Koncertna dvorana Vatroslava Lisinskog) is a large concert hall and convention center in Zagreb, Croatia. It is named after Vatroslav Lisinski, a 19th-century Croatian composer. The building has a big hall with 1,841 seats and a small hall with 305 seats. A large lobby doubles as an exhibition area.",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "shanghai-concerts-11",
+        "name": "1933 Old Millfun",
+        "cityId": "shanghai",
+        "categoryId": "concerts",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=1933%20Old%20Millfun%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/1933_Old_Millfun",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/1933_Old_Millfun_20251127.jpg/960px-1933_Old_Millfun_20251127.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/1933_Old_Millfun"
+        },
+        "description": "1933 (or \"Old Millfun\") is a complex of restaurants and shops in Hongkou District of Shanghai, China. The poured-concrete structures once housed the Shanghai Municipal Council Slaughterhouse, the largest slaughterhouse in Shanghai at the time.",
+        "lat": 31.25663333,
+        "lng": 121.48785
+      },
+      {
+        "id": "shanghai-concerts-12",
+        "name": "Nanshi, Shanghai",
+        "cityId": "shanghai",
+        "categoryId": "concerts",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Nanshi%2C%20Shanghai%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Nanshi%2C_Shanghai",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Shanghai_administrative_Nanshi.svg/960px-Shanghai_administrative_Nanshi.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Nanshi%2C_Shanghai"
+        },
+        "description": "Nanshi District was a district located in central Shanghai until its merger with Huangpu District, Shanghai on 13 June 2000. It had an area of 8.29 km2 (3.20 sq mi), of which 1.42 km2 (0.55 sq mi) was water, and a population of 435,420 as of June 2000.",
+        "lat": 31.225,
+        "lng": 121.485
+      },
+      {
+        "id": "shanghai-concerts-13",
+        "name": "Shanghai railway station",
+        "cityId": "shanghai",
+        "categoryId": "concerts",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Shanghai%20railway%20station%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Shanghai_railway_station",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/Shanghai_Railway_Station_in_2014.jpg/960px-Shanghai_Railway_Station_in_2014.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Shanghai_railway_station"
+        },
+        "description": "Shanghai railway station (Chinese: 上海站; pinyin: Shànghǎi Zhàn; Shanghainese: Zånhae Zae) is one of the five major railway stations in Shanghai, China, the others being Shanghai South, Shanghai Hongqiao, Shanghai West (Shanghaixi) and Shanghai Songjiang. The station is located on Moling Road, Jing'an District, to the north of the city centre. It is governed by Shanghai Railway Bureau and is one of the most important h",
+        "lat": 31.251552,
+        "lng": 121.450446
+      },
+      {
+        "id": "shanghai-concerts-14",
+        "name": "People's Square",
+        "cityId": "shanghai",
+        "categoryId": "concerts",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=People's%20Square%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/People's_Square_(Shanghai)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/People_Square_seen_from_Urban_Planning_Exhibition_Center.JPG/960px-People_Square_seen_from_Urban_Planning_Exhibition_Center.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/People's_Square_(Shanghai)"
+        },
+        "description": "People's Square (Chinese: 人民广场, Shanghainese: zen6 min6 kuaon5 zaon6) is a large public square in the Huangpu District of Shanghai, China. It is south of Nanjing Road (West) and north of Huaihai Road (East). People's Square is the site of Shanghai's municipal government headquarters building and the standard reference point for measurement of distance of almost all highways in the Shanghai municipality is set in the ",
+        "lat": 31.229564,
+        "lng": 121.47438
+      },
+      {
+        "id": "shanghai-concerts-15",
+        "name": "Shanghai Suburban Railway",
+        "cityId": "shanghai",
+        "categoryId": "concerts",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Shanghai%20Suburban%20Railway%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Shanghai_Suburban_Railway",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/JC400x.png/960px-JC400x.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Shanghai_Suburban_Railway"
+        },
+        "description": "The Shanghai Suburban Railway (Chinese: 上海市域铁路; pinyin: Shànghǎi Shìyù Tiělù; Shanghainese: Zaon6he5 Zy6yoq8 Thiq7lu6) is a regional commuter rail network in Shanghai, China, with lines radiating from and surrounding the city's central districts. The system is planned to gradually implement regional rail services across the metropolitan area, and will eventually connect with the Jiangsu Yangtze MIR and Hangzhou Great",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "shanghai-concerts-16",
+        "name": "Shanghai Grand Theatre",
+        "cityId": "shanghai",
+        "categoryId": "concerts",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Shanghai%20Grand%20Theatre%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Shanghai_Grand_Theatre",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Shanghaigrandtheatre.jpg/960px-Shanghaigrandtheatre.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Shanghai_Grand_Theatre"
+        },
+        "description": "The Shanghai Grand Theatre (Chinese: 上海大剧院; pinyin: Shànghǎi dà jùyuàn) is a complex located at the intersection of Renmin Avenue and Huangpi North Road in the northern part of the People's Square in the Huangpu District of Shanghai. The building houses the Shanghai Opera House and other performing companies. The theatre was designed by French architect Jean-Marie Charpentier along with the Institute of Architectural",
+        "lat": 31.232,
+        "lng": 121.467
+      },
+      {
+        "id": "shanghai-concerts-17",
+        "name": "Shanghai International Circuit",
+        "cityId": "shanghai",
+        "categoryId": "concerts",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Shanghai%20International%20Circuit%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Shanghai_International_Circuit",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/Shanghai_International_Racing_Circuit_track_map.svg/960px-Shanghai_International_Racing_Circuit_track_map.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Shanghai_International_Circuit"
+        },
+        "description": "The Shanghai International Circuit (simplified Chinese: 上海国际赛车场; traditional Chinese: 上海國際賽車場; pinyin: Shànghǎi Guójì Sàichēchǎng), a.k.a. SAIC Shanghai International Circuit (simplified Chinese: 上海上汽国际赛车场; traditional Chinese: 上海上汽國際賽車場; pinyin: Shànghǎi Shàngqì Guójì Sàichēchǎng) for sponsorship purposes, is a motorsport race track, situated in the Jiading, Shanghai, China. The circuit is best known as the venue fo",
+        "lat": 31.33888889,
+        "lng": 121.21972222
+      },
+      {
+        "id": "shanghai-concerts-18",
+        "name": "Hongkou Football Stadium",
+        "cityId": "shanghai",
+        "categoryId": "concerts",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Hongkou%20Football%20Stadium%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Hongkou_Football_Stadium",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/%E4%B8%8A%E6%B5%B7%E8%99%B9%E5%8F%A3%E8%B6%B3%E7%90%83%E5%9C%BA%E5%85%A8%E8%B2%8C.jpg/960px-%E4%B8%8A%E6%B5%B7%E8%99%B9%E5%8F%A3%E8%B6%B3%E7%90%83%E5%9C%BA%E5%85%A8%E8%B2%8C.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Hongkou_Football_Stadium"
+        },
+        "description": "Hongkou Football Stadium (simplified Chinese: 虹口足球场; traditional Chinese: 虹口足球場; pinyin: Hóngkǒu Zúqiúchǎng) is a football stadium in Shanghai, China. Located in Hongkou District, the stadium has a maximum capacity of 33,060. It is the first ever football stadium to be built in China. The stadium was re-built in 1999, over the previous 46-year-old Hongkou Stadium, a general use sports stadium now replaced by the Shan",
+        "lat": 31.2733,
+        "lng": 121.4762
+      }
+    ],
+    "fashion": [
+      {
+        "id": "shanghai-fashion-1",
+        "name": "Mandy Chiang",
+        "cityId": "shanghai",
+        "categoryId": "fashion",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Mandy%20Chiang%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Mandy_Chiang",
+        "photo": null,
+        "description": "Mandy Nga-man Chiang is a Hong Kong singer formerly signed to the Emperor Entertainment Group's Music Icon Records. Her music career first began in 2002 when she was partnered with Yumiko Cheng (鄭希怡) and Maggie Lau (劉思惠) to form the female group 3T. The group released one EP (少女蝶) and separated shortly after. Then, in 2005, Mandy's music career began again when she was asked to form a musical dua with Don Li, and tog",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "shanghai-fashion-2",
+        "name": "Youngor Group",
+        "cityId": "shanghai",
+        "categoryId": "fashion",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Youngor%20Group%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Youngor_Group",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Youngor_store_at_GR_Shopping_Mall_%2820210810183846%29.jpg/960px-Youngor_store_at_GR_Shopping_Mall_%2820210810183846%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Youngor_Group"
+        },
+        "description": "Youngor Group Company Limited (SSE: 600177) is a public textiles and clothing enterprise in Ningbo, Zhejiang, China. It is engaged in designing, manufacturing and selling clothing products with its \"Youngor\" brand for gentlemen’s clothing. Youngor was established in 1993, and it was listed on the Shanghai Stock Exchange in 1998. Youngor is primarily engaged in manufacture of apparels and textile products, as well as ",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "shanghai-fashion-3",
+        "name": "Music FM Radio Guangdong",
+        "cityId": "shanghai",
+        "categoryId": "fashion",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Music%20FM%20Radio%20Guangdong%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Music_FM_Radio_Guangdong",
+        "photo": null,
+        "description": "Music FM Radio Guangdong (Chinese: 广东电台音乐之声; lit. 'Radio of Guangdong', 'Sound of Music'), which uses the moniker \"Music FM\", is a music radio station on 99.3 FM in Guangzhou, Guangdong, China. It is owned by Radio Guangdong, a part of Guangdong Radio and Television.",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "shanghai-fashion-4",
+        "name": "Leon Major",
+        "cityId": "shanghai",
+        "categoryId": "fashion",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Leon%20Major%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Leon_Major",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/af/Leon_Major_CTM_Interview_2013.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Leon_Major"
+        },
+        "description": "Leon Major (born 1933) is a Canadian opera and theatre director who has directed in North America and Europe. Besides directing, Major has been artistic director for several companies and taught academically. He is a Member of the Order of Canada. Major was born in 1933 in Toronto, Ontario, Canada, where his father had a ladies' clothing store. In his neighbourhood on Queen Street West, he was the only Jewish kid on ",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "shanghai-fashion-5",
+        "name": "10 Minutes",
+        "cityId": "shanghai",
+        "categoryId": "fashion",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=10%20Minutes%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/10_Minutes_(2013_film)",
+        "photo": null,
+        "description": "10 Minutes (Korean: 10분; Hanja: 10分; RR: Sipbun) is a 2013 South Korean film directed by Lee Yong-seung. It premiered at the 2013 Busan International Film Festival and was released in theaters on April 24, 2014.",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "shanghai-fashion-6",
+        "name": "Wu Ziliang",
+        "cityId": "shanghai",
+        "categoryId": "fashion",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Wu%20Ziliang%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Wu_Ziliang",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Wu_Ziliang_and_Xu_Ren.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Wu_Ziliang"
+        },
+        "description": "Wu Ziliang (Chinese: 吴自良; 25 December 1917 – 24 May 2008), also known as Tsu-Liang Wu, was a Chinese materials engineer, physical metallurgist, and physicist. He led the team that developed the essential membrane separation technology which enabled China to separate uranium-235 used for making its first nuclear bomb. He was awarded the Two Bombs, One Satellite Meritorious Medal in 1999, and also made significant cont",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "shanghai-fashion-7",
+        "name": "Roberto Bautista Agut",
+        "cityId": "shanghai",
+        "categoryId": "fashion",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Roberto%20Bautista%20Agut%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Roberto_Bautista_Agut",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Bautista_Agut_MCM23_%2814%29_%2852883313449%29.jpg/960px-Bautista_Agut_MCM23_%2814%29_%2852883313449%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Roberto_Bautista_Agut"
+        },
+        "description": "Roberto Bautista Agut (Spanish pronunciation: [roˈβeɾto βawˈtista aˈɣut]; born 14 April 1988) is a Spanish former professional tennis player. He was ranked by the Association of Tennis Professionals (ATP) as world No. 9 in singles, achieved in November 2019. Bautista Agut won twelve ATP Tour singles titles, and reached the semifinals at the 2019 Wimbledon Championships. He was part of the victorious Spanish team at t",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "shanghai-fashion-8",
+        "name": "Sogo",
+        "cityId": "shanghai",
+        "categoryId": "fashion",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Sogo%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Sogo",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/SOGO_Yokohama_001.JPG/960px-SOGO_Yokohama_001.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Sogo"
+        },
+        "description": "Sogo Co., Ltd. (株式会社そごう, Kabushiki gaisha Sogō) is a department store chain with a significant presence in Japan. It operates a network of branches in various countries and has a long history dating back to 1830 when it was founded in Osaka by Ihei Sogō. The company is known for its retail offerings, including clothing, household goods and food products. In 2009, Sogo merged with Seibu Department Stores (The Seibu De",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "shanghai-fashion-9",
+        "name": "Holland & Barrett",
+        "cityId": "shanghai",
+        "categoryId": "fashion",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Holland%20%26%20Barrett%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Holland_%26_Barrett",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Holland_%26_Barrett%2C_King_Street%2C_Hammersmith.jpg/960px-Holland_%26_Barrett%2C_King_Street%2C_Hammersmith.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Holland_%26_Barrett"
+        },
+        "description": "Holland & Barrett International Limited, trading as Holland & Barrett (H&B), is a British-based multinational health and wellness retailer with over 1,300 stores in 16 countries, including a substantial presence in the United Kingdom, Republic of Ireland, Netherlands, Belgium, Mainland China, Hong Kong, India, Saudi Arabia, Lithuania and UAE.",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "shanghai-fashion-10",
+        "name": "Alan N. Braverman",
+        "cityId": "shanghai",
+        "categoryId": "fashion",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Alan%20N.%20Braverman%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Alan_N._Braverman",
+        "photo": null,
+        "description": "Alan N. Braverman is the former senior executive vice president, secretary and general counsel of The Walt Disney Company.",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "shanghai-fashion-11",
+        "name": "Nazi chic",
+        "cityId": "shanghai",
+        "categoryId": "fashion",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Nazi%20chic%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Nazi_chic",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/52/Nazi_cosplay_uniforms_for_sale_on_display_in_Akihabara%2C_Tokyo%2C_Japan_2006._Panzer%2C_SS_parade_uniform%2C_miniature_cale_models_toy_soldiers_black_uniforms_etc.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Nazi_chic"
+        },
+        "description": "Nazi chic is the use and appropriation of style, imagery, iconography, and paraphernalia associated with Nazi Germany in high fashion. Nazi chic originally emerged through Malcolm McLaren and Vivienne Westwood's designs, sold at their boutique Sex, which became influential in the development of punk fashion. However, the Hells Angels motorcycle club in the 1950s and rock musicians in the 1960s and 1970s had previousl",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "shanghai-fashion-12",
+        "name": "Joker Xue",
+        "cityId": "shanghai",
+        "categoryId": "fashion",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Joker%20Xue%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Joker_Xue",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/%E8%96%9B%E4%B9%8B%E8%B0%A6_%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9%E6%B0%B8%E8%BF%9C22%E6%AF%95%E4%B8%9A%E6%AD%8C%E4%BC%9A_20250602_%28cropped%29.jpg/960px-%E8%96%9B%E4%B9%8B%E8%B0%A6_%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9%E6%B0%B8%E8%BF%9C22%E6%AF%95%E4%B8%9A%E6%AD%8C%E4%BC%9A_20250602_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Joker_Xue"
+        },
+        "description": "Xue Zhiqian (Chinese: 薛之谦; pinyin: Xuē Zhīqiān, born July 17, 1983), also known professionally as Joker Xue, is a Chinese singer, songwriter, producer, and businessman. Known for his distinctive ballads, \"Xue Style Love Songs\" (薛式情歌/薛氏情歌), and emotive live performances, he is recognized as a leading figure in Chinese popular music and one of the most-known artists in the Chinese-speaking world. Xue signed with Shang ",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "shanghai-fashion-13",
+        "name": "Charles Wagenheim",
+        "cityId": "shanghai",
+        "categoryId": "fashion",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Charles%20Wagenheim%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Charles_Wagenheim",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Charles_Wagenheim_in_Ghost_of_Jean_Battoo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Charles_Wagenheim"
+        },
+        "description": "Charles Wagenheim (February 21, 1896 – March 6, 1979) was an American actor who appeared in over 250 films.",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "shanghai-fashion-14",
+        "name": "Buildering",
+        "cityId": "shanghai",
+        "categoryId": "fashion",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Buildering%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Buildering",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/86/Buildering_On_Doran_Bridge.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Buildering"
+        },
+        "description": "Buildering (also known as edificeering, urban climbing, structuring, skywalking, boulding, or stegophily) describes the act of climbing on the outside of buildings and other artificial structures. If done without ropes or protection far off the ground, buildering is extremely dangerous. It is often practised outside legal bounds, and is thus practised mostly at night. Night climbing is a particular branch of builderi",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "shanghai-fashion-15",
+        "name": "CBS Columbia Square",
+        "cityId": "shanghai",
+        "categoryId": "fashion",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=CBS%20Columbia%20Square%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/CBS_Columbia_Square",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/CBS_ColumbiaSquare01.jpg/960px-CBS_ColumbiaSquare01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/CBS_Columbia_Square"
+        },
+        "description": "CBS Columbia Square (also called Columbia Studio) was the home of CBS's Los Angeles radio and television operations from 1938 until 2007. Located at 6121 Sunset Boulevard in the Hollywood neighborhood of Los Angeles, California, United States, the building housed the CBS Radio Network's West Coast facilities, as well as CBS's original Los Angeles radio stations, KNX and KCBS-FM. KNXT-TV, Channel 2 (now KCBS-TV) moved",
+        "lat": 34.098293,
+        "lng": -118.323087
+      },
+      {
+        "id": "shanghai-fashion-16",
+        "name": "Lucille Soong",
+        "cityId": "shanghai",
+        "categoryId": "fashion",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Lucille%20Soong%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Lucille_Soong",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/11/Lucille_Soong_2016.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Lucille_Soong"
+        },
+        "description": "Lucille Soong (born September 5, 1935) is a Chinese-born American actress. In the 1960s she occasionally worked under the stage name Soong Ling. She is best known for her role as Jenny Huang in the television series Fresh Off the Boat (2015–2020). She has appeared in films and television shows since 1959, and is the author of the autobiography Wild Orchid: From Beijing to La-La Land.",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "shanghai-fashion-17",
+        "name": "Suspense",
+        "cityId": "shanghai",
+        "categoryId": "fashion",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Suspense%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Suspense_(American_TV_series)",
+        "photo": null,
+        "description": "Suspense is an American television anthology series that ran on CBS Television from 1949 to 1954. It was adapted from the radio program of the same name which ran from 1942 to 1962. A short-lived revival was then televised briefly on CBS in 1964.",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "shanghai-fashion-18",
+        "name": "Ruqun",
+        "cityId": "shanghai",
+        "categoryId": "fashion",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Ruqun%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Ruqun",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Aoqun_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Ruqun"
+        },
+        "description": "Ruqun (Chinese: 襦裙) is a set of historical Han Chinese clothing which consists of a short jacket typically called rú (襦) worn under a long Chinese skirt called qún (裙). It has also become a general term to describe hanfu which consists of a separated upper garment and a wrap-around lower skirt, replacing the generic term yīcháng (衣裳). In this sense, ruqun can include the shanqun (衫裙) and aoqun (袄裙; 襖裙) in its definit",
+        "lat": null,
+        "lng": null
+      }
+    ],
+    "shops": [
+      {
+        "id": "shanghai-shops-1",
+        "name": "Shanghai Metro Museum",
+        "cityId": "shanghai",
+        "categoryId": "shops",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Shanghai%20Metro%20Museum%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Shanghai_Metro_Museum",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/ShanghaiMetroMuseumSimulator.jpg/960px-ShanghaiMetroMuseumSimulator.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Shanghai_Metro_Museum"
+        },
+        "description": "Shanghai Metro Museum (Chinese: 上海地铁博物馆; pinyin: Shànghǎi dìtiě bówù guǎn) is a transport museum about the Shanghai Metro, located near the Ziteng Road Station of a branch of the Shanghai Metro Line 10. The museum consists of 3,000 square meters. There are simulators, dioramas, and a 5D cinema. As a part of Shanghai Mixc TOD project, the museum is completed with Wuzhong Road Depot and OCC of Line 10. It is China's fi",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "shanghai-shops-2",
+        "name": "Shanghai Disneyland",
+        "cityId": "shanghai",
+        "categoryId": "shops",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Shanghai%20Disneyland%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Shanghai_Disneyland",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/18-03-12_ShanghaiDisney_013.jpg/960px-18-03-12_ShanghaiDisney_013.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Shanghai_Disneyland"
+        },
+        "description": "Shanghai Disneyland (Chinese: 上海迪士尼乐园; Pinyin: Shànghǎi díshìní lèyuán, Shanghainese: Zaon-he Diq-zy-nyi Loq-yoe) is a theme park located in Chuansha New Town, Pudong, Shanghai, China, that is part of the Shanghai Disney Resort. The park is operated by Disney Experiences and Shanghai Shendi Group, through a joint venture between the Walt Disney Company and Shendi. Construction began on April 8, 2011. The park opened ",
+        "lat": 31.144,
+        "lng": 121.657
+      },
+      {
+        "id": "shanghai-shops-3",
+        "name": "Shanghai Tianma Circuit",
+        "cityId": "shanghai",
+        "categoryId": "shops",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Shanghai%20Tianma%20Circuit%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Shanghai_Tianma_Circuit",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Shanghai_Tianma_Circuit.svg/960px-Shanghai_Tianma_Circuit.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Shanghai_Tianma_Circuit"
+        },
+        "description": "Shanghai Tianma Circuit (simplified Chinese: 上海天马山赛车场; traditional Chinese: 上海天馬山賽車場; pinyin: Shànghǎi Tiānmǎshān Sàichēchǎng) is a permanent racing circuit located at the junction of G1503 motorway and Shenzhuan Road, in Sheshan, Songjiang District, Shanghai, People's Republic of China. Inaugurated in 2004, the circuit is part of a resort which includes a 10,000-metre square proving ground, a 4X4 course, media cente",
+        "lat": 31.0775,
+        "lng": 121.11527778
+      },
+      {
+        "id": "shanghai-shops-4",
+        "name": "Fantasyland",
+        "cityId": "shanghai",
+        "categoryId": "shops",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Fantasyland%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Fantasyland",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Fantasyland_logo.svg/960px-Fantasyland_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Fantasyland"
+        },
+        "description": "Fantasyland is one of the \"themed lands\" at all of the Disneyland-style parks run by The Walt Disney Company around the world. It is themed after Disney's animated fairy tale feature films. Each Fantasyland has a castle, as well as several gentle rides themed after those Disney animated feature films.",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "shanghai-shops-5",
+        "name": "China Resources Vanguard",
+        "cityId": "shanghai",
+        "categoryId": "shops",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=China%20Resources%20Vanguard%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/China_Resources_Vanguard",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/HK_WC_Stone_Nullah_Lane_China_Resources_Vanguard_Shop.JPG/960px-HK_WC_Stone_Nullah_Lane_China_Resources_Vanguard_Shop.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/China_Resources_Vanguard"
+        },
+        "description": "China Resources Vanguard, doing business as China Resources Vanguard Shop or Vanguard (simplified Chinese: 华润万家; traditional Chinese: 華潤萬家; pinyin: huá rùn wàn jiā; Jyutping: waa4 jeon6 maan6 gaa1), operates the supermarket chains of China Resources. It was the third-largest supermarket chain in Hong Kong. As of 31 December 2014, there are 4866 shops operating in the Chinese provinces/municipalities of Guangdong, Zhe",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "shanghai-shops-6",
+        "name": "Nanxiang Steamed Bun Restaurant",
+        "cityId": "shanghai",
+        "categoryId": "shops",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Nanxiang%20Steamed%20Bun%20Restaurant%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Nanxiang_Steamed_Bun_Restaurant",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/52/Nanxiang_mantou_dian_by_Matt%27s_Life.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Nanxiang_Steamed_Bun_Restaurant"
+        },
+        "description": "Nanxiang Bun Shop (simplified Chinese: 南翔馒头店; traditional Chinese: 南翔饅頭店; pinyin: Nánxiáng Mántóu Diàn; Shanghainese: Noezhian Moedeu Ti) is a traditional Shanghai eatery located in the City God Temple precinct in the old Chinese section of the city. It was established in 1900. Nanxiang is a town near Shanghai where the xiaolong mantou was invented. The restaurant has more recently expanded internationally, with bran",
+        "lat": 31.2276,
+        "lng": 121.4877
+      },
+      {
+        "id": "shanghai-shops-7",
+        "name": "Flavors of Youth",
+        "cityId": "shanghai",
+        "categoryId": "shops",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Flavors%20of%20Youth%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Flavors_of_Youth",
+        "photo": null,
+        "description": "Flavors of Youth (Japanese: 詩季織々, romanized: shikioriori, lit. \"From Season to Season\"; Chinese: 肆式青春; pinyin: sì shì qīng chūn, Cantonese Jyutping: sei³ sik¹ cing¹ ceon¹, Shanghainese Wugniu: sy⁵ seq⁷ chin¹ tshen¹, lit. \"Necessities of Life in Youth\") is a 2018 anime/donghua anthology drama film directed by Li Haoling, Jiaoshou Yi Xiaoxing and Yoshitaka Takeuchi and produced by Noritaka Kawaguchi. A Japanese-Chinese",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "shanghai-shops-8",
+        "name": "Qianzhuang",
+        "cityId": "shanghai",
+        "categoryId": "shops",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Qianzhuang%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Qianzhuang",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/cf/%E6%95%B8%E9%8A%85%E9%8C%A2%EF%BC%8C%E6%B8%85%E9%BB%9E%E9%8A%85%E9%8C%A2%E9%9C%80%E5%88%86%E9%A1%9E%EF%BC%8C%E4%B8%A6%E7%94%A8%E7%B7%9A%E7%B9%A9%E4%B8%B2%E8%B5%B7_-_Sohu.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Qianzhuang"
+        },
+        "description": "Qianzhuang (Chinese: 錢莊; Wade–Giles: ch'ien-chuang) were local independent Chinese banks in the early modern period, as distinguished from the nationwide bank networks headquartered in Shanxi province called the \"Shanxi banks\" or piaohao. These banks first sprung up during the Ming dynasty but greatly expanded during the Qing dynasty. Unlike the Shanxi banks, the qianzhuang tended to have much more risky business pra",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "shanghai-shops-9",
+        "name": "Shanghai-style barber shop",
+        "cityId": "shanghai",
+        "categoryId": "shops",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Shanghai-style%20barber%20shop%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Shanghai-style_barber_shop",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/HK_Sai_Ying_Pun_%E4%B8%8A%E6%B5%B7%E7%90%86%E9%AB%AE%E5%BA%97_Shanghai_style_barber_shop_pricelist_March-2010.jpg/960px-HK_Sai_Ying_Pun_%E4%B8%8A%E6%B5%B7%E7%90%86%E9%AB%AE%E5%BA%97_Shanghai_style_barber_shop_pricelist_March-2010.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Shanghai-style_barber_shop"
+        },
+        "description": "Shanghai-Style barber shops, as their name suggest, are a kind of barber shops that are closely related to Shanghai. Shanghai-style barbering is distinctive from other schools of the same craft, especially in Hong Kong. Many barbers left Shanghai for Hong Kong mainly in the 1950s; in this new place of residence, they opened many barber shops, using a similar business model and giving haircuts which were fashionable i",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "shanghai-shops-10",
+        "name": "Adventureland",
+        "cityId": "shanghai",
+        "categoryId": "shops",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Adventureland%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Adventureland_(Disney)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/Adventureland_at_Disneyland%2C_2026.jpg/960px-Adventureland_at_Disneyland%2C_2026.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Adventureland_(Disney)"
+        },
+        "description": "Adventureland is one of the \"themed lands\" at the many Disneyland-style theme parks run by the Walt Disney Company around the world. It is themed to resemble the remote jungles in Africa, Asia, South America, Oceania and the Caribbean. Adventureland provides a 1950s view of exotic adventure, capitalizing on the post-war Tiki craze. Lush vegetation resembles jungles while elements of the \"other\" surround the visitor. ",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "shanghai-shops-11",
+        "name": "H. S. Wong",
+        "cityId": "shanghai",
+        "categoryId": "shops",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=H.%20S.%20Wong%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/H._S._Wong",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/Bloody_Saturday%2C_Shanghai.jpg/960px-Bloody_Saturday%2C_Shanghai.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/H._S._Wong"
+        },
+        "description": "H. S. \"Newsreel\" Wong (1900 – March 9, 1981) was a Chinese newsreel photojournalist. He is most notable for Bloody Saturday, a photograph of a crying baby in Shanghai that he took during the Second Sino-Japanese War. Wong was also known as Wang Haisheng (Chinese: 王海升) or Wang Xiaoting (Chinese: 王小亭). He owned a camera shop in Shanghai. For capturing moving images he used an Eyemo newsreel camera, and for still photog",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "shanghai-shops-12",
+        "name": "Barbie Shanghai",
+        "cityId": "shanghai",
+        "categoryId": "shops",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Barbie%20Shanghai%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Barbie_Shanghai",
+        "photo": null,
+        "description": "Barbie Shanghai was the first Mattel Barbie flagship store in the world. Located in Shanghai, China, this 35,000-square-foot (3,300 m2) store held the world's largest and most comprehensive collection of Barbie dolls and licensed Barbie products. It ceased activities in March 2011.",
+        "lat": 31.22089,
+        "lng": 121.4684
+      },
+      {
+        "id": "shanghai-shops-13",
+        "name": "Xinchejian",
+        "cityId": "shanghai",
+        "categoryId": "shops",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Xinchejian%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Xinchejian",
+        "photo": null,
+        "description": "Xinchejian (Mandarin: 新车间; pinyin: xīn chē jiān) is the first hackerspace in China. It was founded in 2010 by David Li, Ricky Ng-Adam, and Min Lin Hsieh in Shanghai, inspired by hackerspaces in the West and the Shanzhai culture of China. Xinchejian is registered as a company, but is run as a non-profit organization, and managed by volunteers.",
+        "lat": 31.2263193,
+        "lng": 121.448519
+      },
+      {
+        "id": "shanghai-shops-14",
+        "name": "Oppo",
+        "cityId": "shanghai",
+        "categoryId": "shops",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Oppo%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Oppo",
+        "photo": null,
+        "description": "Oppo (stylized in lowercase \"oppo\" ) is a private Chinese consumer electronics manufacturer and technology company headquartered in Shenzhen, Guangdong. Founded in 2004, its major product lines include smartphones, smart devices, audio devices, power banks, and other electronic products. The company is one of the largest smartphone manufacturers in the world, with around 9% of the global market share, and 600 million",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "shanghai-shops-15",
+        "name": "Aoxin",
+        "cityId": "shanghai",
+        "categoryId": "shops",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Aoxin%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Aoxin",
+        "photo": null,
+        "description": "Aoxin (Chinese: 奥新) or Jiangsu Aoxin New Energy Automobile Co., Ltd. (江苏奥新新能源汽车有限公司) is a Chinese automobile manufacturer headquartered in Jiangsu, China, is a low-speed electric vehicle company that produces Neighborhood Electric Vehicles.",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "shanghai-shops-16",
+        "name": "Canonical",
+        "cityId": "shanghai",
+        "categoryId": "shops",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Canonical%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Canonical_(company)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Ubuntu_24.04_Noble_Numbat_Desktop_English.png/960px-Ubuntu_24.04_Noble_Numbat_Desktop_English.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Canonical_(company)"
+        },
+        "description": "Canonical Ltd. is a privately held company supporting computer software, based in London, England. It was founded and funded by South African entrepreneur Mark Shuttleworth to market commercial support and related services for the operating system Ubuntu, and related projects. Canonical employs staff in more than 70 countries and maintains offices in London, Austin, Boston, Shanghai, Beijing, Taipei, Tokyo and the Is",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "shanghai-shops-17",
+        "name": "Longemont",
+        "cityId": "shanghai",
+        "categoryId": "shops",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Longemont%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Longemont",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/Zhongshan_Park.jpg/960px-Zhongshan_Park.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Longemont"
+        },
+        "description": "Longemont (Chinese: 龙之梦, literally: 'Dragon's Dream', also known as Cloud Nine Shopping Mall or Shanghai Summit Shopping City) is a 60-floor, 238-meter (781 ft) tall skyscraper with a shopping mall at its base, and offices and Renaissance Shanghai Zhongshan Park Hotel as its main body, completed in 2006 and located in Shanghai, China.",
+        "lat": 31.221,
+        "lng": 121.412
+      },
+      {
+        "id": "shanghai-shops-18",
+        "name": "Shanghai North railway station",
+        "cityId": "shanghai",
+        "categoryId": "shops",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Shanghai%20North%20railway%20station%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Shanghai_North_railway_station",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Shanghai_%28North%29_Railway_Station%2C_1908.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Shanghai_North_railway_station"
+        },
+        "description": "Shanghai North railway station (Chinese: 上海北站), located on East Tianmu Road, was the main railway station of Shanghai during most of the 20th century. It was closed in 1987 and a replica of the original 1909 building, erected on the same site, is now the Shanghai Railway Museum. The station tracks are still in use as a coach yard. It was also known as the \"沪宁铁路上海车站\", referring to the Shanghai–Nanjing Railway, of whic",
+        "lat": 31.250062,
+        "lng": 121.476197
+      }
+    ]
+  }
+}

@@ -1,0 +1,2904 @@
+{
+  "cityId": "stockholm",
+  "generatedAt": "2026-11-27T09:31:25.151Z",
+  "source": "Wikipedia API + Maps URLs (sin scraping de Google)",
+  "incomplete": [],
+  "categories": {
+    "night_clubs": [
+      {
+        "id": "stockholm-night_clubs-1",
+        "name": "Globen metro station",
+        "cityId": "stockholm",
+        "categoryId": "night_clubs",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Globen%20metro%20station%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Globen_metro_station",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/GlobenMetrostation2010.JPG/960px-GlobenMetrostation2010.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Globen_metro_station"
+        },
+        "description": "Globen metro station is on the Green Line of the Stockholm Metro and the Tvärbanan light rail line, located by Globen in Johanneshov, Söderort. The station was opened on 1 October 1930 as Slakthuset station (named after an old abattoir around the area that has since been converted into a nightclub) as a part of the stretch between Gullmarsplan and Stureby. In 1958 the station was renamed as Isstadion station (after t",
+        "lat": 59.29416667,
+        "lng": 18.07722222
+      },
+      {
+        "id": "stockholm-night_clubs-2",
+        "name": "Görel Crona",
+        "cityId": "stockholm",
+        "categoryId": "night_clubs",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=G%C3%B6rel%20Crona%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/G%C3%B6rel_Crona",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/G%C3%B6rel_Crona_2014-05-13_001.jpg/960px-G%C3%B6rel_Crona_2014-05-13_001.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/G%C3%B6rel_Crona"
+        },
+        "description": "Görel Elisabeth Crona (born 23 August 1959) is a Swedish film director, actress and singer/songwriter. She had her first role in the Sveriges Television series Varuhuset.",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "stockholm-night_clubs-3",
+        "name": "Alexandra Charles",
+        "cityId": "stockholm",
+        "categoryId": "night_clubs",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Alexandra%20Charles%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Alexandra_Charles",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Alexandra_Charles_in_May_2013.jpg/960px-Alexandra_Charles_in_May_2013.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Alexandra_Charles"
+        },
+        "description": "Alexandra Charles (née Thyra Margareta Inga-Lill Gefvert; born 12 November 1946) is a Swedish former nightclub owner. Together with her first husband Noël Charles (1940–2013), she opened a membership restaurant-discothèque called Alexandra's in central Stockholm in 1968 which existed in four successive central locations in that city until 1988. They also initially had a club by the same name in his native Barbados. T",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "stockholm-night_clubs-4",
+        "name": "Café Opera",
+        "cityId": "stockholm",
+        "categoryId": "night_clubs",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Caf%C3%A9%20Opera%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Caf%C3%A9_Opera",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Cafe_Opera_entre.jpg/960px-Cafe_Opera_entre.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Caf%C3%A9_Opera"
+        },
+        "description": "Café Opera is a café and nightclub in Stockholm, Sweden in the Royal Swedish Opera building and part of the Opera Cellar (Operakällaren). It serves as a bistro, brasserie and tearoom during the day but becomes one of Sweden's most famous and busiest nightclubs after 10pm. It opened in 1980. On the ceiling are paintings by Vicke Andrén. In 1991, the owner of Café Opera, Alessandro Catenacci, founded the football club ",
+        "lat": 59.33,
+        "lng": 18.07083333
+      },
+      {
+        "id": "stockholm-night_clubs-5",
+        "name": "Cabaret",
+        "cityId": "stockholm",
+        "categoryId": "night_clubs",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Cabaret%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Cabaret",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/Henri_de_Toulouse-Lautrec%2C_French_-_At_the_Moulin_Rouge-_The_Dance_-_Google_Art_Project.jpg/960px-Henri_de_Toulouse-Lautrec%2C_French_-_At_the_Moulin_Rouge-_The_Dance_-_Google_Art_Project.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Cabaret"
+        },
+        "description": "Cabaret is a form of theatrical entertainment featuring music, song, dance, recitation, or drama. The performance venue might be a pub, casino, hotel, restaurant, or nightclub with a stage for performances. The audience, often dining or drinking, does not typically dance but usually sits at tables. Performances are usually introduced by a master of ceremonies (M.C.). The entertainment, as performed by an ensemble of ",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "stockholm-night_clubs-6",
+        "name": "The Viper Room",
+        "cityId": "stockholm",
+        "categoryId": "night_clubs",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Viper%20Room%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/The_Viper_Room",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/Viper_Room.jpg/960px-Viper_Room.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/The_Viper_Room"
+        },
+        "description": "The Viper Room is a nightclub and live music venue located on the Sunset Strip in West Hollywood, California, United States. It was established under that name on August 14, 1993, then co-owned by actors and 21 Jump Street co-stars Johnny Depp and Sal Jenco. The Viper Room has undergone several changes in ownership. The latest owner is Viper Holdings, Ltd CEO James Cooper. It continues to host music of multiple genre",
+        "lat": 34.09047222,
+        "lng": -118.38466667
+      },
+      {
+        "id": "stockholm-night_clubs-7",
+        "name": "Seymour Österwall",
+        "cityId": "stockholm",
+        "categoryId": "night_clubs",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Seymour%20%C3%96sterwall%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Seymour_%C3%96sterwall",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Seymour-osterwalls-orkester.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Seymour_%C3%96sterwall"
+        },
+        "description": "Seymour Österwall (born Karl Seimer Östervall; 20 February 1908 – 3 August 1981) was a Swedish jazz musician (proficient on the tenor saxophone), bandleader and composer. Österwall was born and died in Stockholm. He played with the orchestra \"Seymours Astoria\" in the mid-1930s. This band performed at the Swedish Championship of dancesport, which was held at Nalen, a nightclub in Stockholm. Some time after 1935 the na",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "stockholm-night_clubs-8",
+        "name": "The Storholmen Brothers",
+        "cityId": "stockholm",
+        "categoryId": "night_clubs",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Storholmen%20Brothers%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/The_Storholmen_Brothers",
+        "photo": null,
+        "description": "The Storholmen Brothers (Swedish: Pojkarna på Storholmen) is a 1932 Swedish black-and-white comedy film. It was directed by and starred Sigurd Wallén and Fridolf Rhudin, two of the big names of Swedish film in the early 20th century. Pojkarna på Storholmen is one of the greatest box office hits in the history of the leading Swedish film studio Svensk Filmindustri, and generally regarded as one of the best Fridolf Rhu",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "stockholm-night_clubs-9",
+        "name": "Saturday Nights",
+        "cityId": "stockholm",
+        "categoryId": "night_clubs",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Saturday%20Nights%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Saturday_Nights_(film)",
+        "photo": null,
+        "description": "Saturday Nights or Saturday Evenings (Swedish: Lördagskvällar) is a 1933 Swedish comedy film directed by Schamyl Bauman and starring Edvard Persson, Dagmar Ebbesen and Eivor Kjellström. It was made at the Sundbyberg Studios of Europa Film in Stockholm. Location shooting took place around Värmdö. The film's sets were designed by the art director Bibi Lindström.",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "stockholm-night_clubs-10",
+        "name": "Moment of Silence",
+        "cityId": "stockholm",
+        "categoryId": "night_clubs",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Moment%20of%20Silence%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Moment_of_Silence_(song)",
+        "photo": null,
+        "description": "\"Moment of Silence\" is a song recorded by Romanian singer Ovidiu Anton. It was written and composed by himself, while production was handled by Liviu Sorescu. A gothic-inspired pop rock track featuring an electric guitar solo throughout, \"Moment of Silence\" acts as a homage to the victims of the 2015 Colectiv nightclub fire. It received mixed reviews from music critics, with one likening it to the works of Swedish ba",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "stockholm-night_clubs-11",
+        "name": "Denise Rudberg",
+        "cityId": "stockholm",
+        "categoryId": "night_clubs",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Denise%20Rudberg%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Denise_Rudberg",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Denise_Rudberg.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Denise_Rudberg"
+        },
+        "description": "Denise Rudberg (born 19 June 1971) is a Swedish author in chick lit and later in detective fiction. Rudberg studied drama in New York City in the 1990s and has previously also worked as a nightclub hostess at the Riche club in Stockholm. Rudberg and her friend author Camilla Läckberg hosted the literature series Läckberg & Rudberg on SVT. In 2010, Rudberg changed her book genre from chick lit to the detective fiction",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "stockholm-night_clubs-12",
+        "name": "Lucky People Center",
+        "cityId": "stockholm",
+        "categoryId": "night_clubs",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Lucky%20People%20Center%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Lucky_People_Center",
+        "photo": null,
+        "description": "Lucky People Center was a Swedish artistic collective, best known for their electronic music, which falls roughly in the ambient house/trance/sound collage genres. The collective started as an underground illegal nightclub in Gothenburg. It moved its base to Stockholm in the early 1990s, forming a multimedia and musical collective. Lucky People Center were sporadically on tour from 1994 to 1997, and were playing some",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "stockholm-night_clubs-13",
+        "name": "Christer Lindarw",
+        "cityId": "stockholm",
+        "categoryId": "night_clubs",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Christer%20Lindarw%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Christer_Lindarw",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Christer_Lindarw_2026.jpg/960px-Christer_Lindarw_2026.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Christer_Lindarw"
+        },
+        "description": "Christer Lindarw (born 3 March 1953) is a Swedish clothes designer, actor, drag queen entertainer, and the leader of drag group After Dark.",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "stockholm-night_clubs-14",
+        "name": "Anna-Maria Hallgarn",
+        "cityId": "stockholm",
+        "categoryId": "night_clubs",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Anna-Maria%20Hallgarn%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Anna-Maria_Hallgarn",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Hallgarn.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Anna-Maria_Hallgarn"
+        },
+        "description": "Anna-Maria Hallgarn, (born 10 February 1971 in Orrviken, Jämtland) is a Swedish musician, singer and actress. She received acting training at Balettakademien's programme for musical artists in Gothenburg. Her performances include Kharmen at Gothenburg City Theatre (2005). At Malmö Opera she has participated in Zorba. She has also worked on musicals including Cabaret, Jekyll & Hyde and Godspell. At GöteborgsOperan Ann",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "stockholm-night_clubs-15",
+        "name": "Diabolical Masquerade",
+        "cityId": "stockholm",
+        "categoryId": "night_clubs",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Diabolical%20Masquerade%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Diabolical_Masquerade",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/cd/AndersNystrom4Sept2007.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Diabolical_Masquerade"
+        },
+        "description": "Diabolical Masquerade was a Swedish one-man black metal band with progressive influences. The band was formed in 1993 in Stockholm as a side project of Anders Nyström (a.k.a. Blakkheim), known as the guitarist of Katatonia.",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "stockholm-night_clubs-16",
+        "name": "Great White",
+        "cityId": "stockholm",
+        "categoryId": "night_clubs",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Great%20White%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Great_White",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/Great_White_at_the_Moondance_Jam.jpg/960px-Great_White_at_the_Moondance_Jam.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Great_White"
+        },
+        "description": "Great White is an American hard rock band formed in Los Angeles in 1977. The band is named after both the shark with the same name, and guitarist Mark Kendall's former stage nickname. In August 2008, the band estimated they had sold around eight million records worldwide. The band peaked with several albums during the mid-to-late 1980s, including the platinum-selling records Once Bitten (1987) and ...Twice Shy (1989)",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "stockholm-night_clubs-17",
+        "name": "Last to Go",
+        "cityId": "stockholm",
+        "categoryId": "night_clubs",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Last%20to%20Go%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Last_to_Go",
+        "photo": null,
+        "description": "Last to Go is the first extended play by Australian recording artist Anthony Callea. Callea worked with Aussie producers David Musumeci, Michael D'Arcy from DNA Songs on the seven-track EP, as well as Jamie Munson (a.k.a. DJ Poet) from the Black Eyed Peas.",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "stockholm-night_clubs-18",
+        "name": "Dark Journey",
+        "cityId": "stockholm",
+        "categoryId": "night_clubs",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Dark%20Journey%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Dark_Journey_(1937_film)",
+        "photo": null,
+        "description": "Dark Journey is a 1937 British spy film directed by Victor Saville and starring Conrad Veidt, Vivien Leigh and Joan Gardner Written by Lajos Bíró and Arthur Wimperis, the film is about two secret agents on opposite sides during World War I who meet and fall in love in neutral Stockholm. It was shot at Denham Studios, with sets designed by the art director Andrej Andrejew assisted by Ferdinand Bellan. The film's costu",
+        "lat": null,
+        "lng": null
+      }
+    ],
+    "restaurants": [
+      {
+        "id": "stockholm-restaurants-1",
+        "name": "The Cube",
+        "cityId": "stockholm",
+        "categoryId": "restaurants",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Cube%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/The_Cube_(restaurant)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/The_Cube_at_Milan_2.jpg/960px-The_Cube_at_Milan_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/The_Cube_(restaurant)"
+        },
+        "description": "The Cube is a pop-up restaurant created by Electrolux. Since 2011, two versions of the restaurant have been located in different cities in Europe, where a number of guest celebrity chefs have brought teams and dishes from their own restaurants to cook in the spaces.",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "stockholm-restaurants-2",
+        "name": "MV Katarina",
+        "cityId": "stockholm",
+        "categoryId": "restaurants",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=MV%20Katarina%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/MV_Katarina",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/Ravintolalaiva_Katarina_cropped.jpg/960px-Ravintolalaiva_Katarina_cropped.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/MV_Katarina"
+        },
+        "description": "The Katarina is a floating restaurant, and former steam ship, that was built in 1869 at Stockholm in Sweden. Sailing under her original name of Fredriksborg on the route through the Stockholm archipelago from Stockholm to Vaxholm, she was the Waxholmsbolaget's first propeller-driven steam ship. After being sold by the Waxholmsbolaget in 1882, she operated in various roles under the names Höganäs, Mariehamn, Stella, W",
+        "lat": 60.446543,
+        "lng": 22.263544
+      },
+      {
+        "id": "stockholm-restaurants-3",
+        "name": "Nationalmuseum",
+        "cityId": "stockholm",
+        "categoryId": "restaurants",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Nationalmuseum%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Nationalmuseum",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/Nationalmuseum_July_2025.jpg/960px-Nationalmuseum_July_2025.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Nationalmuseum"
+        },
+        "description": "Nationalmuseum is the national gallery of fine arts of Sweden, located on the peninsula Blasieholmen in central Stockholm. The museum's operations stretch far beyond the borders of Blasieholmen, including the National Portrait Gallery collection at Gripshom, the Gustavsberg porcelain museum, several castle collections and the Swedish Institute in Paris (Institut Tessin). In the summer of 2018, Nationalmuseum Jamtli o",
+        "lat": 59.3286,
+        "lng": 18.0781
+      },
+      {
+        "id": "stockholm-restaurants-4",
+        "name": "Rosenbad",
+        "cityId": "stockholm",
+        "categoryId": "restaurants",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Rosenbad%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Rosenbad",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Rosenbad_2006.jpg/960px-Rosenbad_2006.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Rosenbad"
+        },
+        "description": "Rosenbad (Swedish: [ˈrûːsɛnˌbɑːd], lit. 'Rosen bath') is a building in central Stockholm, precinct of Norrmalm. It is a building owned by the Swedish state and serves as the seat of the Government. The present government of Sweden is the right-leaning Kristersson Cabinet. Rosenbad is located on Strömgatan on the north side of the river Norrström. It was designed by Art Nouveau architect Ferdinand Boberg, and complete",
+        "lat": 59.32833333,
+        "lng": 18.06555556
+      },
+      {
+        "id": "stockholm-restaurants-5",
+        "name": "Berns salonger",
+        "cityId": "stockholm",
+        "categoryId": "restaurants",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Berns%20salonger%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Berns_salonger",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Berns_salonger%2C_framsidan.JPG/960px-Berns_salonger%2C_framsidan.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Berns_salonger"
+        },
+        "description": "Berns Salonger is a restaurant and entertainment venue, in Berzelii Park, in central Stockholm, Sweden. The building was constructed from 1862 to 1863 by the architect Johan Fredrik Åbom for pastry chef Heinrich Robert Berns and extended in 1886. Berns often holds concerts and other shows and has a capacity of 1,200. Berns is the setting for the Strindberg novel The Red Room.",
+        "lat": 59.33216667,
+        "lng": 18.07388889
+      },
+      {
+        "id": "stockholm-restaurants-6",
+        "name": "Vapiano",
+        "cityId": "stockholm",
+        "categoryId": "restaurants",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Vapiano%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Vapiano",
+        "photo": null,
+        "description": "Vapiano SE is a European restaurant franchise company headquartered in Cologne. The chain's restaurants offer Italian food adhering to the fast-casual principle. Vapiano was established in 2002 in Hamburg. Its largest shareholder since 2011 is the private equity firm, Mayfair Vermögensverwaltung. Roughly one-third of the restaurants are operated by the company itself, but the majority are run as franchise or as joint",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "stockholm-restaurants-7",
+        "name": "Liljevalchs konsthall",
+        "cityId": "stockholm",
+        "categoryId": "restaurants",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Liljevalchs%20konsthall%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Liljevalchs_konsthall",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/Liljevalchs_konsthall_2008.jpg/960px-Liljevalchs_konsthall_2008.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Liljevalchs_konsthall"
+        },
+        "description": "Liljevalchs konsthall (lit. 'Liljevalch's Art Hall') is a kunsthalle art venue located on Djurgården island in Stockholm, Sweden. Designed by architect Carl Bergsten (1879–1935) and inaugurated in March 1916, it is today owned by the City of Stockholm. Behind the entrance on the north-western corner is a small vestibule. To the right of the latter is a large sculpture hall leading to two large galleries with skylight",
+        "lat": 59.32555556,
+        "lng": 18.09611111
+      },
+      {
+        "id": "stockholm-restaurants-8",
+        "name": "Wallenbergare",
+        "cityId": "stockholm",
+        "categoryId": "restaurants",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Wallenbergare%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Wallenbergare",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Wallenbergare_2022.jpg/960px-Wallenbergare_2022.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Wallenbergare"
+        },
+        "description": "Wallenbergare is a Swedish dish generally consisting of ground veal, cream, egg yolks and coated in breadcrumbs. It is traditionally served with boiled or mashed potatoes, lingonberry jam and green peas. There are various theories about the origin of this recipe. Credit is generally given to Julius Carlsson (1898-1976), chef de cuisine at the restaurant Cecil on Norrmalm in Stockholm. According to some, the dish was ",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "stockholm-restaurants-9",
+        "name": "Upper Crust",
+        "cityId": "stockholm",
+        "categoryId": "restaurants",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Upper%20Crust%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Upper_Crust_(restaurant_chain)",
+        "photo": null,
+        "description": "Upper Crust is an international chain of baguette restaurants concentrated along commuter routes. The outlets are commonplace in stations and terminals. There are branches at the central railway station in Oslo and Elkjøp Megastore Lørenskog, Norway. Since September 2008, there are also three units in Stockholm, Sweden – two at the central railway station and one at the nearby bus terminal, Cityterminalen. There is a",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "stockholm-restaurants-10",
+        "name": "Miss Maud",
+        "cityId": "stockholm",
+        "categoryId": "restaurants",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Miss%20Maud%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Miss_Maud",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Miss_Maud_Carousel%2C_2025_%2801%29.jpg/960px-Miss_Maud_Carousel%2C_2025_%2801%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Miss_Maud"
+        },
+        "description": "Miss Maud is a hospitality group based in Perth, Western Australia, which as of 2025 comprises fifteen pastry houses (cafés) and a catering service, all located in Western Australia. The company also formerly owned a 52-room boutique hotel and restaurant in the Perth CBD, and operated two outlets under the Cafe Stockholm brand. They briefly expanded into Sydney in 2003. The company employs over 500 staff. Their baris",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "stockholm-restaurants-11",
+        "name": "Kaknästornet",
+        "cityId": "stockholm",
+        "categoryId": "restaurants",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Kakn%C3%A4stornet%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Kakn%C3%A4stornet",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/Kakn%C3%A4stornet_2008x.jpg/960px-Kakn%C3%A4stornet_2008x.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Kakn%C3%A4stornet"
+        },
+        "description": "The Kaknäs tower (Swedish: Kaknästornet) is a telecommunications tower located at Ladugårdsgärdet in Stockholm, Sweden. The tower is a major hub of Swedish television, radio and satellite broadcasts. It was finished in 1967, designed by architect Bengt Lindroos, and the height is 155 metres (509 ft) or 170 metres (560 ft) with the top antenna included. For a few years Kaknästornet was the tallest building in the Nord",
+        "lat": 59.335,
+        "lng": 18.12638889
+      },
+      {
+        "id": "stockholm-restaurants-12",
+        "name": "Restaurant Intim",
+        "cityId": "stockholm",
+        "categoryId": "restaurants",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Restaurant%20Intim%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Restaurant_Intim",
+        "photo": null,
+        "description": "Restaurant Intim is a 1950 Swedish drama film directed by Hampe Faustman and starring Birger Malmsten, Åke Grönberg and Mimi Nelson. It was shot at the Råsunda Studios in Stockholm. The film's sets were designed by the art director Arne Åkermark.",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "stockholm-restaurants-13",
+        "name": "Avicii Arena",
+        "cityId": "stockholm",
+        "categoryId": "restaurants",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Avicii%20Arena%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Avicii_Arena",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Globen_30_%C3%A5r%2C_febr_2019a.jpg/960px-Globen_30_%C3%A5r%2C_febr_2019a.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Avicii_Arena"
+        },
+        "description": "Avicii Arena is a multi-purpose arena in Stockholm Globe City, Johanneshov district of Stockholm, Sweden near the Globen metro station. The arena was previously named Stockholm Globe Arena and Ericsson Globe and is referred to in Swedish simply as Globen (Swedish: [ˈɡlǔːbɛn] ; lit. 'the Globe'), as it is shaped like a globe and represents the Sun in the Sweden Solar System, the world's largest scale model of the Sola",
+        "lat": 59.29361111,
+        "lng": 18.08333333
+      },
+      {
+        "id": "stockholm-restaurants-14",
+        "name": "Stockholm Exhibition",
+        "cityId": "stockholm",
+        "categoryId": "restaurants",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Stockholm%20Exhibition%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Stockholm_Exhibition_(1930)",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/28/Stockh_1930_1.gif?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Stockholm_Exhibition_(1930)"
+        },
+        "description": "The Stockholm Exhibition (in Swedish, Stockholmsutställningen) was an exhibition held in 1930 in Stockholm, Sweden, which had a great impact on the architectural styles known as Functionalism and the International style. The fair was conducted by the City of Stockholm and the Svenska Slöjdföreningen (which has evolved into the existing organization, Swedish Form) art society. The art historian and leader of the Svens",
+        "lat": 59.3325,
+        "lng": 18.11583333
+      },
+      {
+        "id": "stockholm-restaurants-15",
+        "name": "Operakällaren",
+        "cityId": "stockholm",
+        "categoryId": "restaurants",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Operak%C3%A4llaren%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Operak%C3%A4llaren",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Operak%C3%A4llaren_1895.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Operak%C3%A4llaren"
+        },
+        "description": "Operakällaren is a classic and exclusive restaurant in Kungsträdgården, Stockholm. It is owned through the Nobis corporation by Alessando Catenacci. Operakällaren opened in 1787, and during its first decades it was an ordinary restaurant. In the 1830s, it became known for its clientele, many of which were artists and politicians. In the 1870s, Operakällaren was refurbished into a more exclusive restaurant by then own",
+        "lat": 59.33,
+        "lng": 18.0714
+      },
+      {
+        "id": "stockholm-restaurants-16",
+        "name": "La Grenouillère",
+        "cityId": "stockholm",
+        "categoryId": "restaurants",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=La%20Grenouill%C3%A8re%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/La_Grenouill%C3%A8re_(Renoir)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/Auguste_Renoir_-_La_Grenouill%C3%A8re_-_Google_Art_Project.jpg/960px-Auguste_Renoir_-_La_Grenouill%C3%A8re_-_Google_Art_Project.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/La_Grenouill%C3%A8re_(Renoir)"
+        },
+        "description": "La Grenouillère is an 1869 oil on canvas painting by Pierre-Auguste Renoir, now in the Nationalmuseum in Stockholm. It shows the \"camembert\", a small island planted with a single tree, linked by gangplanks to the Île de la Grenouillère (left, out of picture) and to the fashionable La Grenouillère floating restaurant and boat-hire at Croissy-sur-Seine near Bougival. It was painted in the early days of Impressionism, a",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "stockholm-restaurants-17",
+        "name": "Swedish Municipal Workers' Union",
+        "cityId": "stockholm",
+        "categoryId": "restaurants",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Swedish%20Municipal%20Workers'%20Union%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Swedish_Municipal_Workers'_Union",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Skaf.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Swedish_Municipal_Workers'_Union"
+        },
+        "description": "The Swedish Municipal Workers' Union (Swedish: Svenska Kommunalarbetareförbundet), is the largest trade union in Sweden with 570,000 members, as of 2005. It was created 1910. It is commonly referred to as Kommunal (\"Municipal\"). The union was founded in Stockholm on 23 January 1910, as a split from the Swedish Factory Workers' Union. Like its predecessor, it affiliated to the Swedish Trade Union Confederation. It ini",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "stockholm-restaurants-18",
+        "name": "Frantzén",
+        "cityId": "stockholm",
+        "categoryId": "restaurants",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Frantz%C3%A9n%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Frantz%C3%A9n",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/AV4A6287_%2825063454437%29.jpg/960px-AV4A6287_%2825063454437%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Frantz%C3%A9n"
+        },
+        "description": "Frantzén (Swedish pronunciation: [franˈseːn]), until 2013 Frantzén/Lindeberg, is a restaurant in Stockholm, situated on Klara Norra Kyrkogata number 26. In 2010, it received two stars in the Michelin Guide, and in 2018 it became the first Swedish restaurant to receive a third Michelin star.",
+        "lat": 59.32338611,
+        "lng": 18.06947778
+      }
+    ],
+    "bars": [
+      {
+        "id": "stockholm-bars-1",
+        "name": "1989 European Men's Artistic Gymnastics Championships",
+        "cityId": "stockholm",
+        "categoryId": "bars",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=1989%20European%20Men's%20Artistic%20Gymnastics%20Championships%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/1989_European_Men's_Artistic_Gymnastics_Championships",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Gymnastics_%28artistic%29_pictogram.svg/960px-Gymnastics_%28artistic%29_pictogram.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/1989_European_Men's_Artistic_Gymnastics_Championships"
+        },
+        "description": "The 18th European Artistic Gymnastics Championships for men took place in Stockholm, Sweden in 1989.",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "stockholm-bars-2",
+        "name": "Stureplan",
+        "cityId": "stockholm",
+        "categoryId": "bars",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Stureplan%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Stureplan",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/72/Arnoldshuset_Stureplan.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Stureplan"
+        },
+        "description": "Stureplan is a public square in central Stockholm, between Norrmalm and Östermalm. The square connects the major streets Kungsgatan, Birger Jarlsgatan and Sturegatan. The buildings around the square house offices of banks and other financial institutions, as well as several corporate headquarters. Some of the country's most famous and expensive restaurants and bars are located in the area around Stureplan. Some examp",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "stockholm-bars-3",
+        "name": "Grimsta IP",
+        "cityId": "stockholm",
+        "categoryId": "bars",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Grimsta%20IP%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Grimsta_IP",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/IF_Brommapojkarna-Malm%C3%B6_FF_-_2014-07-06_18-21-36_%286464%29.jpg/960px-IF_Brommapojkarna-Malm%C3%B6_FF_-_2014-07-06_18-21-36_%286464%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Grimsta_IP"
+        },
+        "description": "Grimsta IP is a multi-use stadium in Vällingby, Sweden. It is currently used for football matches and is the home stadium of IF Brommapojkarna. The stadium holds 5,000 people after the latest expansion. The latest expansion took place between 2015 and 2017 with the construction of the new stand that cost 57 million kronor, it includes also the construction of new locker rooms, a new press stand and a new bar. The new",
+        "lat": 59.36222222,
+        "lng": 17.85166667
+      },
+      {
+        "id": "stockholm-bars-4",
+        "name": "Grand Hôtel",
+        "cityId": "stockholm",
+        "categoryId": "bars",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Grand%20H%C3%B4tel%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Grand_H%C3%B4tel_(Stockholm)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Grand_Hotel_June_2018_01.jpg/960px-Grand_Hotel_June_2018_01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Grand_H%C3%B4tel_(Stockholm)"
+        },
+        "description": "Grand Hôtel is a five-star hotel in Stockholm. It was founded by Jean-François Régis Cadier, a Frenchman, in 1872. The hotel is widely considered to be the best hotel in Stockholm and has hosted every Nobel laureate since 1901. The hotel opened its doors on 14 June 1874, the same year as the Grand Hotel in Oslo. The Grand Hôtel is located next to the Nationalmuseum and opposite the Royal Palace and Gamla stan (the ol",
+        "lat": 59.32972222,
+        "lng": 18.07555556
+      },
+      {
+        "id": "stockholm-bars-5",
+        "name": ".bar",
+        "cityId": "stockholm",
+        "categoryId": "bars",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=.bar%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/.bar",
+        "photo": null,
+        "description": ".bar is an Internet domain that is specifically geared for bars, pubs and nightclubs, including bar and restaurant guides, critics, delivery services, wine and liquor, and related industries. It is a gTLD owned by Mexico City–based company Punto 2012. The domain .bar was released on June 11, 2014.",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "stockholm-bars-6",
+        "name": "High jump",
+        "cityId": "stockholm",
+        "categoryId": "bars",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=High%20jump%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/High_jump",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Nicole_Forrester.JPG/960px-Nicole_Forrester.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/High_jump"
+        },
+        "description": "The high jump is a track and field event in which competitors must jump unaided over a horizontal bar placed at measured heights without dislodging it. In its modern, most-practiced format, a bar is placed between two standards with a crash mat for landing. Since ancient times, competitors have successively improved their technique, today employing the universally preferred Fosbury flop, in which athletes run towards",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "stockholm-bars-7",
+        "name": "Hamburger Börs, Stockholm",
+        "cityId": "stockholm",
+        "categoryId": "bars",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Hamburger%20B%C3%B6rs%2C%20Stockholm%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Hamburger_B%C3%B6rs%2C_Stockholm",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Fasad.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Hamburger_B%C3%B6rs%2C_Stockholm"
+        },
+        "description": "Hamburger Börs, or \"Börsen\", at Jakobsgatan in Stockholm is a stage for bar shows so called \"krogshower\" in Sweden. Many of Sweden's most famous singers have performed on the stage like Lill Lindfors, Monica Zetterlund, Povel Ramel, Lena Philipsson, Lill-Babs, Cornelis Vreeswijk, Björn Skifs and Jerry Williams. But also more world-famous singers like Sammy Davis Jr, Johnny Cash, Rod Stewart, Frank Sinatra and Liza Mi",
+        "lat": 59.3305,
+        "lng": 18.0692
+      },
+      {
+        "id": "stockholm-bars-8",
+        "name": "Strix",
+        "cityId": "stockholm",
+        "categoryId": "bars",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Strix%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Strix_(TV_production_company)",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/92/Strix_A_Nice_Company_logo.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Strix_(TV_production_company)"
+        },
+        "description": "STRIX Television is a Swedish television production company that was founded in 1988. The Swedish mother company, at the time owned by MTG, had offices in Amsterdam, Copenhagen, Oslo, Tel Aviv and Prague. Today, there are two individual companies named Strix, Strix Television in Sweden and Strix Televisjon in Norway, both owned by Fremantle. It is a major international contributor to the format of reality television ",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "stockholm-bars-9",
+        "name": "Holger Behrendt",
+        "cityId": "stockholm",
+        "categoryId": "bars",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Holger%20Behrendt%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Holger_Behrendt",
+        "photo": null,
+        "description": "Holger Behrendt (born 29 January 1964 in Schönebeck, Bezirk Magdeburg) is a German gymnast and Olympic champion.",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "stockholm-bars-10",
+        "name": "MS Estonia",
+        "cityId": "stockholm",
+        "categoryId": "bars",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=MS%20Estonia%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/MS_Estonia",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/MS_Estonia.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/MS_Estonia"
+        },
+        "description": "MS Estonia was a car-passenger ferry built in 1980 for the Finnish shipping company Rederi Ab Sally by Meyer Werft, in Papenburg, West Germany. She was deployed on ferry routes between Finland and Sweden by various companies (first Viking Line, then EffJohn) until the end of January 1993, when she was sold to Nordström & Thulin for use on Estline's Tallinn–Stockholm route. The ship's sinking on 28 September 1994, in ",
+        "lat": 59.382,
+        "lng": 21.682
+      },
+      {
+        "id": "stockholm-bars-11",
+        "name": "Stavsnäs",
+        "cityId": "stockholm",
+        "categoryId": "bars",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Stavsn%C3%A4s%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Stavsn%C3%A4s",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Stavsn%C3%A4s_vinterhamn.jpg/960px-Stavsn%C3%A4s_vinterhamn.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Stavsn%C3%A4s"
+        },
+        "description": "Stavsnäs is a locality situated on the north east part of the island Fågelbrolandet in Värmdö Municipality, Stockholm County, Sweden with 810 inhabitants in 2010. As there are numerous holiday homes in the area, the population is significantly larger during summer. Stavsnäs is located 44 kilometers from central Stockholm and accessible by road. Stavsnäs consists of three different parts; Stavsnäs By (the original pic",
+        "lat": 59.28333333,
+        "lng": 18.68333333
+      },
+      {
+        "id": "stockholm-bars-12",
+        "name": "Anne Ramberg",
+        "cityId": "stockholm",
+        "categoryId": "bars",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Anne%20Ramberg%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Anne_Ramberg",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Anne_Ramberg%2C_generalsekreterare_Advokatsamfundet.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Anne_Ramberg"
+        },
+        "description": "Anne-Christine Ramberg (born 26 August 1952) is a Swedish lawyer and since 2000 the general secretary for the Swedish Bar Association (Sveriges advokatsamfund). She is the first woman to hold this position.",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "stockholm-bars-13",
+        "name": "Henry Wells",
+        "cityId": "stockholm",
+        "categoryId": "bars",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Henry%20Wells%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Henry_Wells_(rowing)",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Henry_Wells_%28rowing%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Henry_Wells_(rowing)"
+        },
+        "description": "Henry Bensley Wells MBE (12 January 1891 – 4 July 1967) was an English judge and rowing coxswain who competed for Great Britain in the 1912 Summer Olympics. Wells was educated at Winchester College and Magdalen College, Oxford. He coxed the Oxford boat in the Boat Race from 1911 to 1914. He joined Leander Club, and in 1912, he coxed the Leander eight, which won the gold medal for Great Britain rowing at the 1912 Summ",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "stockholm-bars-14",
+        "name": "Japan at the 1956 Summer Olympics",
+        "cityId": "stockholm",
+        "categoryId": "bars",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Japan%20at%20the%201956%20Summer%20Olympics%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Japan_at_the_1956_Summer_Olympics",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_Japan_%281870%E2%80%931999%29.svg/960px-Flag_of_Japan_%281870%E2%80%931999%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Japan_at_the_1956_Summer_Olympics"
+        },
+        "description": "Japan competed at the 1956 Summer Olympics in Melbourne, Australia and Stockholm, Sweden (equestrian events). 110 competitors, 94 men and 16 women, took part in 71 events in 13 sports. Takashi Ono from gymnastics is the most successful athlete with 1 gold, 3 silver and 1 bronze.",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "stockholm-bars-15",
+        "name": "Alma Richards",
+        "cityId": "stockholm",
+        "categoryId": "bars",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Alma%20Richards%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Alma_Richards",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/AlmaRichards.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Alma_Richards"
+        },
+        "description": "Alma Wilford Richards (February 20, 1890 – April 3, 1963) was an American athlete. He became the first resident of Utah to win an Olympic gold medal, achieving this feat in the running high jump event at the 1912 Summer Olympic Games in Stockholm, Sweden.",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "stockholm-bars-16",
+        "name": "Stockholm City Theatre",
+        "cityId": "stockholm",
+        "categoryId": "bars",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Stockholm%20City%20Theatre%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Stockholm_City_Theatre",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/Stockholms_Stadsteater_2008a.jpg/960px-Stockholms_Stadsteater_2008a.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Stockholm_City_Theatre"
+        },
+        "description": "Stockholm City Theatre (Swedish: Stockholms stadsteater) is a live performance theatre located in Stockholm, Sweden. The theatre is situated near the Sergel fountain and the Stockholm City roundabout.",
+        "lat": 59.3328,
+        "lng": 18.06530556
+      },
+      {
+        "id": "stockholm-bars-17",
+        "name": "Operakällaren",
+        "cityId": "stockholm",
+        "categoryId": "bars",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Operak%C3%A4llaren%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Operak%C3%A4llaren",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Operak%C3%A4llaren_1895.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Operak%C3%A4llaren"
+        },
+        "description": "Operakällaren is a classic and exclusive restaurant in Kungsträdgården, Stockholm. It is owned through the Nobis corporation by Alessando Catenacci. Operakällaren opened in 1787, and during its first decades it was an ordinary restaurant. In the 1830s, it became known for its clientele, many of which were artists and politicians. In the 1870s, Operakällaren was refurbished into a more exclusive restaurant by then own",
+        "lat": 59.33,
+        "lng": 18.0714
+      },
+      {
+        "id": "stockholm-bars-18",
+        "name": ".localhost",
+        "cityId": "stockholm",
+        "categoryId": "bars",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=.localhost%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/.localhost",
+        "photo": null,
+        "description": "The name localhost is reserved by the Internet Engineering Task Force (IETF) as a domain name label that may not be installed as a top-level domain in the Domain Name System (DNS) of the Internet.",
+        "lat": null,
+        "lng": null
+      }
+    ],
+    "coffee_shops": [
+      {
+        "id": "stockholm-coffee_shops-1",
+        "name": "AFC Eskilstuna",
+        "cityId": "stockholm",
+        "categoryId": "coffee_shops",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=AFC%20Eskilstuna%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/AFC_Eskilstuna",
+        "photo": null,
+        "description": "Athletic Football Club Eskilstuna, also known as AFC Eskilstuna or simply AFC, is a Swedish professional football club based in Eskilstuna. They compete in Ettan, the third highest tier of Swedish football, and play their home matches at Tunavallen. AFC Eskilstuna are affiliated to Södermanlands Fotbollförbund. The club was formed in 2007 as Athletic FC and formed a close cooperation with FC Väsby United in 2012. Ath",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "stockholm-coffee_shops-2",
+        "name": "Kafé 44",
+        "cityId": "stockholm",
+        "categoryId": "coffee_shops",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Kaf%C3%A9%2044%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Kaf%C3%A9_44",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Kaf%C3%A944.JPG/960px-Kaf%C3%A944.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Kaf%C3%A9_44"
+        },
+        "description": "Kafé 44 is a café, concert venue, and anarchist bookstore in Stockholm. Based in the Kapsylen work cooperative, which was founded by an artist group in 1976, the café Dagfiket opened in its basement in the early 1980s, and was later followed by the music venue Scen 44 in 1990, and the anarchist bookstore Bokhandeln INFO a few years later. Kafé 44 continues to run in the present day, although usually closed during the",
+        "lat": 59.31595278,
+        "lng": 18.08279722
+      },
+      {
+        "id": "stockholm-coffee_shops-3",
+        "name": "Café",
+        "cityId": "stockholm",
+        "categoryId": "coffee_shops",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Caf%C3%A9%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Caf%C3%A9_(magazine)",
+        "photo": null,
+        "description": "Café is a monthly Swedish men's magazine focused on fashion, style, and culture, including articles on food, movies, fitness, sex, music, travel, sports, technology, and books. The magazine is comparable to U.S. publications such as Esquire and GQ. It is published in Stockholm, Sweden.",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "stockholm-coffee_shops-4",
+        "name": "Café Lunchrasten",
+        "cityId": "stockholm",
+        "categoryId": "coffee_shops",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Caf%C3%A9%20Lunchrasten%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Caf%C3%A9_Lunchrasten",
+        "photo": null,
+        "description": "Café Lunchrasten is a 1954 Swedish drama film directed by Hampe Faustman and starring Lars Ekborg, Doris Svedlund and Annalisa Ericson. It was shot at the Centrumateljéerna Studios in Stockholm. The plot revolves around a cafe in the old Klara district of Sweden's capital city, and the varied clientele who frequents it.",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "stockholm-coffee_shops-5",
+        "name": "Café Opera",
+        "cityId": "stockholm",
+        "categoryId": "coffee_shops",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Caf%C3%A9%20Opera%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Caf%C3%A9_Opera",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Cafe_Opera_entre.jpg/960px-Cafe_Opera_entre.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Caf%C3%A9_Opera"
+        },
+        "description": "Café Opera is a café and nightclub in Stockholm, Sweden in the Royal Swedish Opera building and part of the Opera Cellar (Operakällaren). It serves as a bistro, brasserie and tearoom during the day but becomes one of Sweden's most famous and busiest nightclubs after 10pm. It opened in 1980. On the ceiling are paintings by Vicke Andrén. In 1991, the owner of Café Opera, Alessandro Catenacci, founded the football club ",
+        "lat": 59.33,
+        "lng": 18.07083333
+      },
+      {
+        "id": "stockholm-coffee_shops-6",
+        "name": "Tragedy",
+        "cityId": "stockholm",
+        "categoryId": "coffee_shops",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Tragedy%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Tragedy_(Hanoi_Rocks_song)",
+        "photo": null,
+        "description": "\"Tragedy\" is a single by the Finnish rock band Hanoi Rocks, from the album Bangkok Shocks, Saigon Shakes, Hanoi Rocks, but \"Tragedy\" was released a little before the release of the album. \"Tragedy\" and its B-side, \"Café Avenue\", are the most well-known songs from Hanoi Rocks's early career. \"Tragedy\" was written by the band's guitarist Andy McCoy when he was 15 or 16. The lyrics basically deal with a typical teen sto",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "stockholm-coffee_shops-7",
+        "name": "Jumbo Stay",
+        "cityId": "stockholm",
+        "categoryId": "coffee_shops",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Jumbo%20Stay%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Jumbo_Stay",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Jumbo_Stay%2C_2019_%2803%29.jpg/960px-Jumbo_Stay%2C_2019_%2803%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Jumbo_Stay"
+        },
+        "description": "Jumbo Stay (formerly the Jumbo Hostel) was a hostel and hotel located inside a decommissioned Boeing 747-200B aircraft, constructor's number 21162, at Stockholm Arlanda Airport, Sweden. It had 33 rooms, 76 beds, and officially opened in January 2009. In March 2025, the owner declared bankruptcy and closed the hotel.",
+        "lat": 59.63986,
+        "lng": 17.93889
+      },
+      {
+        "id": "stockholm-coffee_shops-8",
+        "name": "Miss Maud",
+        "cityId": "stockholm",
+        "categoryId": "coffee_shops",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Miss%20Maud%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Miss_Maud",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Miss_Maud_Carousel%2C_2025_%2801%29.jpg/960px-Miss_Maud_Carousel%2C_2025_%2801%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Miss_Maud"
+        },
+        "description": "Miss Maud is a hospitality group based in Perth, Western Australia, which as of 2025 comprises fifteen pastry houses (cafés) and a catering service, all located in Western Australia. The company also formerly owned a 52-room boutique hotel and restaurant in the Perth CBD, and operated two outlets under the Cafe Stockholm brand. They briefly expanded into Sydney in 2003. The company employs over 500 staff. Their baris",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "stockholm-coffee_shops-9",
+        "name": "Erik Sundin",
+        "cityId": "stockholm",
+        "categoryId": "coffee_shops",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Erik%20Sundin%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Erik_Sundin",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Erik_Sundin%2C_2013-04-14a.JPG/960px-Erik_Sundin%2C_2013-04-14a.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Erik_Sundin"
+        },
+        "description": "Erik Daniel Victor Sundin (born 1 March 1979) is a Swedish retired footballer who played for Hammarby IF in Superettan as a forward. He also played for AIK, Enebybergs IF, Café Opera United, Väsby United, Assyriska FF, Trelleborgs FF and Helsingborgs IF.",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "stockholm-coffee_shops-10",
+        "name": "Blanch's Café",
+        "cityId": "stockholm",
+        "categoryId": "coffee_shops",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Blanch's%20Caf%C3%A9%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Blanch's_Caf%C3%A9",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Blanch%27s_caf%C3%A9.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Blanch's_Caf%C3%A9"
+        },
+        "description": "Blanch's Café was a café in Stockholm, Sweden, located in a now demolished building on Hamngatan. The house that houses the establishment was built in 1866 according to plans of the architect Albert Törnqvist and was originally intended to house an exhibition and create studio space with large windows in the building's upper floors. The Art Society in Stockholm moved into the premises on 1868. However, Governor Theod",
+        "lat": 59.33247222,
+        "lng": 18.06988889
+      },
+      {
+        "id": "stockholm-coffee_shops-11",
+        "name": "Stavsnäs",
+        "cityId": "stockholm",
+        "categoryId": "coffee_shops",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Stavsn%C3%A4s%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Stavsn%C3%A4s",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Stavsn%C3%A4s_vinterhamn.jpg/960px-Stavsn%C3%A4s_vinterhamn.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Stavsn%C3%A4s"
+        },
+        "description": "Stavsnäs is a locality situated on the north east part of the island Fågelbrolandet in Värmdö Municipality, Stockholm County, Sweden with 810 inhabitants in 2010. As there are numerous holiday homes in the area, the population is significantly larger during summer. Stavsnäs is located 44 kilometers from central Stockholm and accessible by road. Stavsnäs consists of three different parts; Stavsnäs By (the original pic",
+        "lat": 59.28333333,
+        "lng": 18.68333333
+      },
+      {
+        "id": "stockholm-coffee_shops-12",
+        "name": "Cabaret",
+        "cityId": "stockholm",
+        "categoryId": "coffee_shops",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Cabaret%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Cabaret",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/Henri_de_Toulouse-Lautrec%2C_French_-_At_the_Moulin_Rouge-_The_Dance_-_Google_Art_Project.jpg/960px-Henri_de_Toulouse-Lautrec%2C_French_-_At_the_Moulin_Rouge-_The_Dance_-_Google_Art_Project.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Cabaret"
+        },
+        "description": "Cabaret is a form of theatrical entertainment featuring music, song, dance, recitation, or drama. The performance venue might be a pub, casino, hotel, restaurant, or nightclub with a stage for performances. The audience, often dining or drinking, does not typically dance but usually sits at tables. Performances are usually introduced by a master of ceremonies (M.C.). The entertainment, as performed by an ensemble of ",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "stockholm-coffee_shops-13",
+        "name": "Live at Glenn Miller Café Vol 1",
+        "cityId": "stockholm",
+        "categoryId": "coffee_shops",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Live%20at%20Glenn%20Miller%20Caf%C3%A9%20Vol%201%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Live_at_Glenn_Miller_Caf%C3%A9_Vol_1",
+        "photo": null,
+        "description": "Live at Glenn Miller Café Vol 1 is an album by American jazz saxophonist Jemeel Moondoc, which was recorded in Stockholm and released on Ayler Records, a Swedish label founded by Jan Ström and Åke Bjurhamn. Moondoc leads a trio with bassist William Parker and drummer Hamid Drake. The rhythm section had recorded the studio album ...and William Danced a few hours earlier with local saxophonist Anders Gahnold.",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "stockholm-coffee_shops-14",
+        "name": "Roger Palmgren",
+        "cityId": "stockholm",
+        "categoryId": "coffee_shops",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Roger%20Palmgren%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Roger_Palmgren",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/81/RogerPalmgren.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Roger_Palmgren"
+        },
+        "description": "Roger Lennart Palmgren is a Swedish football manager. He has been active as a club manager in nine countries: Italy, Sweden, Sierra Leone, Rwanda, Democratic Republic of the Congo, Nigeria, South Africa, Namibia and China. He has been coach of the national football teams of Sierra Leone, Rwanda and Namibia.",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "stockholm-coffee_shops-15",
+        "name": "2000 Djurgårdens IF season",
+        "cityId": "stockholm",
+        "categoryId": "coffee_shops",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=2000%20Djurg%C3%A5rdens%20IF%20season%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/2000_Djurg%C3%A5rdens_IF_season",
+        "photo": null,
+        "description": "1999 was Djurgården remoted from Allsvenskan. 2000 was the first season of the new second division Superettan. Djurgården finished first.",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "stockholm-coffee_shops-16",
+        "name": "Mattias Moström",
+        "cityId": "stockholm",
+        "categoryId": "coffee_shops",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Mattias%20Mostr%C3%B6m%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Mattias_Mostr%C3%B6m",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Moa_Mostrom.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Mattias_Mostr%C3%B6m"
+        },
+        "description": "Mattias Kent Moström (born 25 February 1983) is a Swedish professional footballer who plays as a right midfielder for SK Træff. He played most of his career for Norwegian Eliteserien club Molde. He started his career with AIK, before he made his senior debut with FC Café Opera. He later returned to AIK before he moved to Molde in 2007.",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "stockholm-coffee_shops-17",
+        "name": "Axel Törneman",
+        "cityId": "stockholm",
+        "categoryId": "coffee_shops",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Axel%20T%C3%B6rneman%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Axel_T%C3%B6rneman",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/67/Axel_T%C3%B6rneman.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Axel_T%C3%B6rneman"
+        },
+        "description": "Johan Axel Gustaf Törneman (28 October 1880 – 26 December 1925) was one of Sweden's earliest modernist painters. Born in Persberg, Värmland, in Sweden, he grew to work in several modernist styles, was one of the first Swedish expressionist artists, and became a part of the international avant-garde in art after embracing more abstract art styles in Germany and France that were evolving there during the early 1900s. H",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "stockholm-coffee_shops-18",
+        "name": "Jules Sylvain",
+        "cityId": "stockholm",
+        "categoryId": "coffee_shops",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Jules%20Sylvain%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Jules_Sylvain",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/51/Sylvain%2C_Jules_%28fr%C3%A5n_noth%C3%A4fte_1931%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Jules_Sylvain"
+        },
+        "description": "Axel Stig Hansson (11 June 1900 – 29 October 1968), known professionally as Jules Sylvain, was a Swedish composer, screenwriter and musician. Sylvain was born in Stockholm to actor Axel Hansson and actress and pedagog Valborg Hansson. At the age of 11, Sylvain began studying music at Lundsbergs boarding school but ran away from the school after four years. He studied piano lessons at Musikaliska Akademien between 191",
+        "lat": null,
+        "lng": null
+      }
+    ],
+    "bookshops": [
+      {
+        "id": "stockholm-bookshops-1",
+        "name": "Kafé 44",
+        "cityId": "stockholm",
+        "categoryId": "bookshops",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Kaf%C3%A9%2044%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Kaf%C3%A9_44",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Kaf%C3%A944.JPG/960px-Kaf%C3%A944.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Kaf%C3%A9_44"
+        },
+        "description": "Kafé 44 is a café, concert venue, and anarchist bookstore in Stockholm. Based in the Kapsylen work cooperative, which was founded by an artist group in 1976, the café Dagfiket opened in its basement in the early 1980s, and was later followed by the music venue Scen 44 in 1990, and the anarchist bookstore Bokhandeln INFO a few years later. Kafé 44 continues to run in the present day, although usually closed during the",
+        "lat": 59.31595278,
+        "lng": 18.08279722
+      },
+      {
+        "id": "stockholm-bookshops-2",
+        "name": "The Surrealist Group in Stockholm",
+        "cityId": "stockholm",
+        "categoryId": "bookshops",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Surrealist%20Group%20in%20Stockholm%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/The_Surrealist_Group_in_Stockholm",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Ristafallet_1974.jpg/960px-Ristafallet_1974.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/The_Surrealist_Group_in_Stockholm"
+        },
+        "description": "The Surrealist group in Stockholm (in Swedish Surrealistgruppen i Stockholm) is a Swedish group of surrealists. It has been criticised as, though it regards itself as a subversive group outside the cultural establishment, some of its members have gone on to occupy more central positions on the Swedish literary field. The group describes itself as being founded in 1986, on Midsummer's Eve, close to a waterfall called ",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "stockholm-bookshops-3",
+        "name": "Junibacken",
+        "cityId": "stockholm",
+        "categoryId": "bookshops",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Junibacken%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Junibacken",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/Junibacken_2007.jpg/960px-Junibacken_2007.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Junibacken"
+        },
+        "description": "Junibacken is a children’s attraction, founded by Staffan Götestam, Fredrik Uhrström and Peder Wallenberg. It is situated on the island of Djurgården in Stockholm, Sweden. It was officially opened by the Swedish royal family on 8 June 1996. It is Stockholm’s 5th most-visited tourist attraction. It is devoted to Swedish children’s literature, but especially Astrid Lindgren. Outside the building is a bronze statue of L",
+        "lat": 59.32944444,
+        "lng": 18.08888889
+      },
+      {
+        "id": "stockholm-bookshops-4",
+        "name": "Pink Champagne",
+        "cityId": "stockholm",
+        "categoryId": "bookshops",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Pink%20Champagne%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Pink_Champagne",
+        "photo": null,
+        "description": "Pink Champagne (first named Kasern 9) was a Swedish feminist punk band in the 1980s. It consisted of four women, Stina Berge (drums), Ann Carlberger (vocals), Karin Jansson (guitar) and Gunilla Welin (bass). Kajsa Grytt was briefly a member. They released two full-length albums, Vackra pojke! (Beautiful Boy!, 1981) and Kärlek eller ingenting (Love or Nothing, 1983), before breaking up in 1984. Karin Jansson and Ann C",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "stockholm-bookshops-5",
+        "name": "Adlibris",
+        "cityId": "stockholm",
+        "categoryId": "bookshops",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Adlibris%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Adlibris",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Adlibris-logo-vector.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Adlibris"
+        },
+        "description": "Adlibris Aktiebolag is a Swedish online bookstore established in 1997. The company has its headquarters in Stockholm, Sweden, and maintains a distribution center in Morgongåva. In 2005, Adlibris was acquired by the media conglomerate Bonnier Group. The company employed 485 people in 2021.",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "stockholm-bookshops-6",
+        "name": "Gotham Book Mart",
+        "cityId": "stockholm",
+        "categoryId": "bookshops",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Gotham%20Book%20Mart%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Gotham_Book_Mart",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/Gotham-Book-Mart-Sign.jpg/960px-Gotham-Book-Mart-Sign.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Gotham_Book_Mart"
+        },
+        "description": "The Gotham Book Mart was a Midtown Manhattan bookstore and cultural landmark that operated from 1920 to 2007. The business was located first in a small basement space on West 45th Street near the Theater District in Manhattan; it later spent many years at 41 West 47th Street within the Diamond District, before finally moving to 16 East 46th Street. Beyond merely selling books, the store virtually functioned as a lite",
+        "lat": 40.7555,
+        "lng": -73.978
+      },
+      {
+        "id": "stockholm-bookshops-7",
+        "name": "Boo.com",
+        "cityId": "stockholm",
+        "categoryId": "bookshops",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Boo.com%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Boo.com",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Boo-com.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Boo.com"
+        },
+        "description": "Boo.com was a short-lived British e-commerce business, founded in 1998 by Swedes Ernst Malmsten, Kajsa Leander and Patrik Hedelin, who were regarded as sophisticated Internet entrepreneurs in Europe by the investors because they had created an online bookstore named Bokus.com, the third largest book e-retailer (in 1997), before founding boo.com. The company had its headquarters along Carnaby Street in London and init",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "stockholm-bookshops-8",
+        "name": "Olof Björner",
+        "cityId": "stockholm",
+        "categoryId": "bookshops",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Olof%20Bj%C3%B6rner%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Olof_Bj%C3%B6rner",
+        "photo": null,
+        "description": "Olof Björner (26 November 1942 – 12 September 2023) was a Swedish researcher who specialised in documenting the live performances and recording sessions of the American singer-songwriter Bob Dylan. In addition to operating bjorner.com, a website featuring detailed listings of Dylan's live concerts and studio recordings from 1956 to 2020, Björner authored a 13-volume set on these subjects, called Olof's Files: A Bob D",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "stockholm-bookshops-9",
+        "name": "WHSmith",
+        "cityId": "stockholm",
+        "categoryId": "bookshops",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=WHSmith%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/WHSmith",
+        "photo": null,
+        "description": null,
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "stockholm-bookshops-10",
+        "name": "2005 in Sweden",
+        "cityId": "stockholm",
+        "categoryId": "bookshops",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=2005%20in%20Sweden%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/2005_in_Sweden",
+        "photo": null,
+        "description": null,
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "stockholm-bookshops-11",
+        "name": "Ed Bereal",
+        "cityId": "stockholm",
+        "categoryId": "bookshops",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Ed%20Bereal%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Ed_Bereal",
+        "photo": null,
+        "description": null,
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "stockholm-bookshops-12",
+        "name": "Pierre Berès",
+        "cityId": "stockholm",
+        "categoryId": "bookshops",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Pierre%20Ber%C3%A8s%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Pierre_Ber%C3%A8s",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Pierre_B%C3%A8res.jpg/960px-Pierre_B%C3%A8res.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Pierre_Ber%C3%A8s"
+        },
+        "description": null,
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "stockholm-bookshops-13",
+        "name": "Carl Christoffer Gjörwell Sr.",
+        "cityId": "stockholm",
+        "categoryId": "bookshops",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Carl%20Christoffer%20Gj%C3%B6rwell%20Sr.%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Carl_Christoffer_Gj%C3%B6rwell_Sr.",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Per_Krafft_d_%C3%A4%3B_Portr%C3%A4tt_av_Carl_Christoffer_Gj%C3%B6rwell_d_%C3%A4.jpg/960px-Per_Krafft_d_%C3%A4%3B_Portr%C3%A4tt_av_Carl_Christoffer_Gj%C3%B6rwell_d_%C3%A4.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Carl_Christoffer_Gj%C3%B6rwell_Sr."
+        },
+        "description": null,
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "stockholm-bookshops-14",
+        "name": "Niels Wulfsberg",
+        "cityId": "stockholm",
+        "categoryId": "bookshops",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Niels%20Wulfsberg%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Niels_Wulfsberg",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Niels_Wulfsberg_-_avisgrunnlegger.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Niels_Wulfsberg"
+        },
+        "description": null,
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "stockholm-bookshops-15",
+        "name": "Ann Heberlein",
+        "cityId": "stockholm",
+        "categoryId": "bookshops",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Ann%20Heberlein%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Ann_Heberlein",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Ann_Heberlein_signerar_p%C3%A5_Akademibokhandeln_i_Stockholm.jpg/960px-Ann_Heberlein_signerar_p%C3%A5_Akademibokhandeln_i_Stockholm.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Ann_Heberlein"
+        },
+        "description": null,
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "stockholm-bookshops-16",
+        "name": "Ture Nerman",
+        "cityId": "stockholm",
+        "categoryId": "bookshops",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Ture%20Nerman%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Ture_Nerman",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/82/Ture_Nerman_-_Sveriges_styresm%C3%A4n.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Ture_Nerman"
+        },
+        "description": null,
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "stockholm-bookshops-17",
+        "name": "Västerlånggatan",
+        "cityId": "stockholm",
+        "categoryId": "bookshops",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=V%C3%A4sterl%C3%A5nggatan%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/V%C3%A4sterl%C3%A5nggatan",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Vasterlanggatan_from_Storkyrkobrinken_March_2007.JPG/960px-Vasterlanggatan_from_Storkyrkobrinken_March_2007.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/V%C3%A4sterl%C3%A5nggatan"
+        },
+        "description": null,
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "stockholm-bookshops-18",
+        "name": "Charlotte Guillard",
+        "cityId": "stockholm",
+        "categoryId": "bookshops",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Charlotte%20Guillard%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Charlotte_Guillard",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Charlotte_Guillard_1541.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Charlotte_Guillard"
+        },
+        "description": null,
+        "lat": null,
+        "lng": null
+      }
+    ],
+    "museums": [
+      {
+        "id": "stockholm-museums-1",
+        "name": "Nationalmuseum",
+        "cityId": "stockholm",
+        "categoryId": "museums",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Nationalmuseum%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Nationalmuseum",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/Nationalmuseum_July_2025.jpg/960px-Nationalmuseum_July_2025.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Nationalmuseum"
+        },
+        "description": null,
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "stockholm-museums-2",
+        "name": "Moderna Museet",
+        "cityId": "stockholm",
+        "categoryId": "museums",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Moderna%20Museet%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Moderna_Museet",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/MODERN_MUSEUM_MODERNA_MUSEET_STOCKHOLM_%2819%29.jpg/960px-MODERN_MUSEUM_MODERNA_MUSEET_STOCKHOLM_%2819%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Moderna_Museet"
+        },
+        "description": null,
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "stockholm-museums-3",
+        "name": "Nordic Museum",
+        "cityId": "stockholm",
+        "categoryId": "museums",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Nordic%20Museum%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Nordic_Museum",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Nordiska_Museet_EM1B1476_%2846926819655%29.jpg/960px-Nordiska_Museet_EM1B1476_%2846926819655%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Nordic_Museum"
+        },
+        "description": null,
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "stockholm-museums-4",
+        "name": "ABBA The Museum",
+        "cityId": "stockholm",
+        "categoryId": "museums",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=ABBA%20The%20Museum%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/ABBA_The_Museum",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/ABBA_The_Museum_logo.svg/960px-ABBA_The_Museum_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/ABBA_The_Museum"
+        },
+        "description": null,
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "stockholm-museums-5",
+        "name": "Stockholm City Museum",
+        "cityId": "stockholm",
+        "categoryId": "museums",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Stockholm%20City%20Museum%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Stockholm_City_Museum",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Stockholms_stadsmuseum_och_Ryssg%C3%A5rden_2009.jpg/960px-Stockholms_stadsmuseum_och_Ryssg%C3%A5rden_2009.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Stockholm_City_Museum"
+        },
+        "description": null,
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "stockholm-museums-6",
+        "name": "Djurgårdsbrunnsviken",
+        "cityId": "stockholm",
+        "categoryId": "museums",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Djurg%C3%A5rdsbrunnsviken%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Djurg%C3%A5rdsbrunnsviken",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Kakn%C3%A4stornet_Djurg%C3%A5rdsbrunnsviken_Stockholm_Sweden_20050812.JPG/960px-Kakn%C3%A4stornet_Djurg%C3%A5rdsbrunnsviken_Stockholm_Sweden_20050812.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Djurg%C3%A5rdsbrunnsviken"
+        },
+        "description": null,
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "stockholm-museums-7",
+        "name": "Djurgården",
+        "cityId": "stockholm",
+        "categoryId": "museums",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Djurg%C3%A5rden%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Djurg%C3%A5rden",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Djurgarden.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Djurg%C3%A5rden"
+        },
+        "description": null,
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "stockholm-museums-8",
+        "name": "Skansen",
+        "cityId": "stockholm",
+        "categoryId": "museums",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Skansen%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Skansen",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Skansen_huvudentre_2010.jpg/960px-Skansen_huvudentre_2010.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Skansen"
+        },
+        "description": null,
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "stockholm-museums-9",
+        "name": "Swedish Army Museum",
+        "cityId": "stockholm",
+        "categoryId": "museums",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Swedish%20Army%20Museum%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Swedish_Army_Museum",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/Arm%C3%A9museum_2014_01.JPG/960px-Arm%C3%A9museum_2014_01.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Swedish_Army_Museum"
+        },
+        "description": null,
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "stockholm-museums-10",
+        "name": "Maritime Museum",
+        "cityId": "stockholm",
+        "categoryId": "museums",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Maritime%20Museum%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Maritime_Museum_(Stockholm)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/Sj%C3%B6historiska_museet_2008.jpg/960px-Sj%C3%B6historiska_museet_2008.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Maritime_Museum_(Stockholm)"
+        },
+        "description": null,
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "stockholm-museums-11",
+        "name": "Vasa Museum",
+        "cityId": "stockholm",
+        "categoryId": "museums",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Vasa%20Museum%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Vasa_Museum",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Stockholm_Vasa_Museum_and_Nordic_Museum_09.jpg/960px-Stockholm_Vasa_Museum_and_Nordic_Museum_09.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Vasa_Museum"
+        },
+        "description": null,
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "stockholm-museums-12",
+        "name": "Vasa",
+        "cityId": "stockholm",
+        "categoryId": "museums",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Vasa%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Vasa_(ship)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/The_Vasa_from_the_Bow.jpg/960px-The_Vasa_from_the_Bow.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Vasa_(ship)"
+        },
+        "description": null,
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "stockholm-museums-13",
+        "name": "Stockholm Palace",
+        "cityId": "stockholm",
+        "categoryId": "museums",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Stockholm%20Palace%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Stockholm_Palace",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/The_Royal_Palace_%2815891592359%29.jpg/960px-The_Royal_Palace_%2815891592359%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Stockholm_Palace"
+        },
+        "description": null,
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "stockholm-museums-14",
+        "name": "Strindberg Museum",
+        "cityId": "stockholm",
+        "categoryId": "museums",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Strindberg%20Museum%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Strindberg_Museum",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Strindbergmuseet_april_2008.jpg/960px-Strindbergmuseet_april_2008.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Strindberg_Museum"
+        },
+        "description": null,
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "stockholm-museums-15",
+        "name": "Hallwyl Museum",
+        "cityId": "stockholm",
+        "categoryId": "museums",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Hallwyl%20Museum%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Hallwyl_Museum",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/Hallwylska_palatset_fasad%2C_jan_2020c.jpg/960px-Hallwylska_palatset_fasad%2C_jan_2020c.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Hallwyl_Museum"
+        },
+        "description": null,
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "stockholm-museums-16",
+        "name": "National Museum of Science and Technology",
+        "cityId": "stockholm",
+        "categoryId": "museums",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=National%20Museum%20of%20Science%20and%20Technology%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/National_Museum_of_Science_and_Technology_(Sweden)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Bell_206_Tekniska_museet_2008.jpg/960px-Bell_206_Tekniska_museet_2008.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/National_Museum_of_Science_and_Technology_(Sweden)"
+        },
+        "description": null,
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "stockholm-museums-17",
+        "name": "Lightship Finngrundet",
+        "cityId": "stockholm",
+        "categoryId": "museums",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Lightship%20Finngrundet%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Lightship_Finngrundet_(1903)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/Lightship_Finngrundet.jpg/960px-Lightship_Finngrundet.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Lightship_Finngrundet_(1903)"
+        },
+        "description": null,
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "stockholm-museums-18",
+        "name": "Stockholm County Museum",
+        "cityId": "stockholm",
+        "categoryId": "museums",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Stockholm%20County%20Museum%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Stockholm_County_Museum",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/75/Stockholms_l%C3%A4ns_museum_logotype.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Stockholm_County_Museum"
+        },
+        "description": null,
+        "lat": null,
+        "lng": null
+      }
+    ],
+    "concerts": [
+      {
+        "id": "stockholm-concerts-1",
+        "name": "Stockholm Concert Hall",
+        "cityId": "stockholm",
+        "categoryId": "concerts",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Stockholm%20Concert%20Hall%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Stockholm_Concert_Hall",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Konserthuset_fasad_Stora_salen_collage_2017.jpg/960px-Konserthuset_fasad_Stora_salen_collage_2017.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Stockholm_Concert_Hall"
+        },
+        "description": null,
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "stockholm-concerts-2",
+        "name": "Ane Brun",
+        "cityId": "stockholm",
+        "categoryId": "concerts",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Ane%20Brun%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Ane_Brun",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/df/Ane_Brun_Piknik_i_Parken_2017_%28194248%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Ane_Brun"
+        },
+        "description": null,
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "stockholm-concerts-3",
+        "name": "Berwald Hall",
+        "cityId": "stockholm",
+        "categoryId": "concerts",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Berwald%20Hall%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Berwald_Hall",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Berwaldhallen_2008.jpg/960px-Berwaldhallen_2008.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Berwald_Hall"
+        },
+        "description": null,
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "stockholm-concerts-4",
+        "name": "Royal Concert Hall",
+        "cityId": "stockholm",
+        "categoryId": "concerts",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Royal%20Concert%20Hall%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Royal_Concert_Hall",
+        "photo": null,
+        "description": null,
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "stockholm-concerts-5",
+        "name": "Ivar Tengbom",
+        "cityId": "stockholm",
+        "categoryId": "concerts",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Ivar%20Tengbom%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Ivar_Tengbom",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/79/Ivar_Tengbom_-_Falbygdens_museum.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Ivar_Tengbom"
+        },
+        "description": null,
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "stockholm-concerts-6",
+        "name": "Swedish Radio Choir",
+        "cityId": "stockholm",
+        "categoryId": "concerts",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Swedish%20Radio%20Choir%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Swedish_Radio_Choir",
+        "photo": null,
+        "description": null,
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "stockholm-concerts-7",
+        "name": "Stockholm Music Museum",
+        "cityId": "stockholm",
+        "categoryId": "concerts",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Stockholm%20Music%20Museum%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Stockholm_Music_Museum",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Kronobageriet_Stockholm_Sibylle_Riddar_20060524.jpg/960px-Kronobageriet_Stockholm_Sibylle_Riddar_20060524.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Stockholm_Music_Museum"
+        },
+        "description": null,
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "stockholm-concerts-8",
+        "name": "Kungsgatan, Stockholm",
+        "cityId": "stockholm",
+        "categoryId": "concerts",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Kungsgatan%2C%20Stockholm%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Kungsgatan%2C_Stockholm",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Kungsgatan_2008b.jpg/960px-Kungsgatan_2008b.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Kungsgatan%2C_Stockholm"
+        },
+        "description": null,
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "stockholm-concerts-9",
+        "name": "Stockholm Diary",
+        "cityId": "stockholm",
+        "categoryId": "concerts",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Stockholm%20Diary%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Stockholm_Diary",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/Esa-Pekka-Salonen-1997c_%28cropped%29.jpg/960px-Esa-Pekka-Salonen-1997c_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Stockholm_Diary"
+        },
+        "description": null,
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "stockholm-concerts-10",
+        "name": "Royal Stockholm Philharmonic Orchestra",
+        "cityId": "stockholm",
+        "categoryId": "concerts",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Royal%20Stockholm%20Philharmonic%20Orchestra%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Royal_Stockholm_Philharmonic_Orchestra",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Kungliga_Filharmonikerna_in_2018.jpg/960px-Kungliga_Filharmonikerna_in_2018.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Royal_Stockholm_Philharmonic_Orchestra"
+        },
+        "description": null,
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "stockholm-concerts-11",
+        "name": "Carl Milles",
+        "cityId": "stockholm",
+        "categoryId": "concerts",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Carl%20Milles%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Carl_Milles",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Carl_Milles_1940-tal.jpg/960px-Carl_Milles_1940-tal.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Carl_Milles"
+        },
+        "description": null,
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "stockholm-concerts-12",
+        "name": "3XN",
+        "cityId": "stockholm",
+        "categoryId": "concerts",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=3XN%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/3XN",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/Quay_Quarter_Tower%2C_Governor_Phillip_Tower%2C_Sydney%2C_2023%2C_03.jpg/960px-Quay_Quarter_Tower%2C_Governor_Phillip_Tower%2C_Sydney%2C_2023%2C_03.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/3XN"
+        },
+        "description": null,
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "stockholm-concerts-13",
+        "name": "Ellen Nisbeth",
+        "cityId": "stockholm",
+        "categoryId": "concerts",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Ellen%20Nisbeth%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Ellen_Nisbeth",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/Ellen_Nisbeth_2013-10-01_002.jpg/960px-Ellen_Nisbeth_2013-10-01_002.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Ellen_Nisbeth"
+        },
+        "description": "Ellen Nisbeth (born 1987) is a Swedish violist. She performed on Britta Byström's CD, \"Invisible Cities\" and on Ensemble Ernst's CD, \"...BUT...\" As part of the European Concert Hall Organisation's \"Rising Star\" program, Nisbeth performed \"Tales Of Lost Times\" for solo viola by Katarina Leyman and other works by Kaija Saariaho at Elbphilharmonie Concert Hall in January 2018.",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "stockholm-concerts-14",
+        "name": "Aarhus Pride",
+        "cityId": "stockholm",
+        "categoryId": "concerts",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Aarhus%20Pride%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Aarhus_Pride",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Aarhus_Pride%2C_2012%2C_start_of_day.jpg/960px-Aarhus_Pride%2C_2012%2C_start_of_day.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Aarhus_Pride"
+        },
+        "description": "Aarhus Pride is a pride parade in Aarhus, Denmark and the largest Danish event focused on LGBT issues outside Copenhagen. The first event was held in 2012 and has been repeated every year since. It is managed and controlled by private individuals from the LGBT community and supported with funds from the city of Aarhus. In 2017, about 6,000 people took part in the 3.5-kilometre-long (2.2 mi) parade with floats and fla",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "stockholm-concerts-15",
+        "name": "The Stockholm Concert, 1966",
+        "cityId": "stockholm",
+        "categoryId": "concerts",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Stockholm%20Concert%2C%201966%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/The_Stockholm_Concert%2C_1966",
+        "photo": null,
+        "description": "The Stockholm Concert, 1966 is a 1966 live album by the American jazz singer Ella Fitzgerald, accompanied in part by the Duke Ellington Orchestra. The recording remained unreleased until 1984. It is notable as the last release of Ella's four recorded collaborations with Duke Ellington. Later in 1966 Ella and Duke went on to record their final album together, Ella and Duke at the Cote D'Azur.",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "stockholm-concerts-16",
+        "name": "The Swan of Tuonela",
+        "cityId": "stockholm",
+        "categoryId": "concerts",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Swan%20of%20Tuonela%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/The_Swan_of_Tuonela",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/JSibelius_c.1885-1890.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/The_Swan_of_Tuonela"
+        },
+        "description": "The Swan of Tuonela (in Finnish: Tuonelan joutsen), Op. 22/2 (originally Op. 22/3), is a single-movement tone poem for cor anglais solo and orchestra written from 1893 to 1895 by the Finnish composer Jean Sibelius. It is part of the Lemminkäinen Suite, a collection of four tone poems based on legends from the Kalevala, Finland's national epic. The Swan of Tuonela was originally composed in 1893 as the prelude to a pr",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "stockholm-concerts-17",
+        "name": "Draken",
+        "cityId": "stockholm",
+        "categoryId": "concerts",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Draken%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Draken",
+        "photo": null,
+        "description": "Draken may refer to: Saab 35 Draken, a Swedish-manufactured fighter aircraft Draken International, a company providing fighter aircraft for training purposes The Draken, a fictional sea monster in the animated series Jumanji Draken, a rollercoaster in Gyeongju World Draken, a former cinema and concert hall in Stockholm, Sweden. Draken Harald Harfagre, a replica Viking longship Draken-class submarine",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "stockholm-concerts-18",
+        "name": "Sven Markelius",
+        "cityId": "stockholm",
+        "categoryId": "concerts",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Sven%20Markelius%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Sven_Markelius",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Markelius_1954.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Sven_Markelius"
+        },
+        "description": "Sven Gottfrid Markelius (25 October 1889 – 24 February 1972) was a Swedish modernist architect. Markelius played an important role in the post-war urban planning of Stockholm, for example in the creation of the model suburbs of Vällingby (1950s) and Farsta (1960s).",
+        "lat": null,
+        "lng": null
+      }
+    ],
+    "fashion": [
+      {
+        "id": "stockholm-fashion-1",
+        "name": "Andreas Wilson",
+        "cityId": "stockholm",
+        "categoryId": "fashion",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Andreas%20Wilson%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Andreas_Wilson",
+        "photo": null,
+        "description": "Andreas Axel Janota Wilson (born 7 March 1981) is a Swedish actor who played the leading role in the Oscar-nominated (for best foreign movie) Evil. He has also starred in Kill Your Darlings, Babas bilar and Den utvalde. He was named as one of European films' \"Shooting Stars\" by the European Film Promotion in 2004. He has been modeling for the clothing store Abercrombie & Fitch.",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "stockholm-fashion-2",
+        "name": "Darling",
+        "cityId": "stockholm",
+        "categoryId": "fashion",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Darling%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Darling_(2007_Swedish_film)",
+        "photo": null,
+        "description": "Darling is a 2007 Swedish drama film written and directed by Johan Kling, about an irresponsible young woman in central Stockholm who befriends an older man. It stars Michelle Meadows and Michael Segerström. The film was generally well received by critics.",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "stockholm-fashion-3",
+        "name": "1947 in Sweden",
+        "cityId": "stockholm",
+        "categoryId": "fashion",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=1947%20in%20Sweden%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/1947_in_Sweden",
+        "photo": null,
+        "description": "Historical event from the year 1947 in Sweden",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "stockholm-fashion-4",
+        "name": "Elin Nordegren",
+        "cityId": "stockholm",
+        "categoryId": "fashion",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Elin%20Nordegren%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Elin_Nordegren",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/46/Elin_Nordegren.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Elin_Nordegren"
+        },
+        "description": "Elin Maria Pernilla Nordegren (Swedish pronunciation: [ˈěːlɪn ˈnûːɖɛˌɡreːn]; born 1 January 1980) is a Swedish former model and nanny. She was married to professional golfer Tiger Woods from 2004 until their divorce in 2010.",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "stockholm-fashion-5",
+        "name": "Von Sydow murders",
+        "cityId": "stockholm",
+        "categoryId": "fashion",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Von%20Sydow%20murders%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Von_Sydow_murders",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Norr_M%C3%A4larstarnd_2012.jpg/960px-Norr_M%C3%A4larstarnd_2012.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Von_Sydow_murders"
+        },
+        "description": "The von Sydow murders, one of Sweden's most notorious criminal cases, occurred on 7 March 1932 in Stockholm.",
+        "lat": 59.32702,
+        "lng": 18.04546
+      },
+      {
+        "id": "stockholm-fashion-6",
+        "name": "Britt Ekland",
+        "cityId": "stockholm",
+        "categoryId": "fashion",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Britt%20Ekland%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Britt_Ekland",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Britt_Ekland_in_2019.jpg/960px-Britt_Ekland_in_2019.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Britt_Ekland"
+        },
+        "description": "Britt Ekland (born Britt-Marie Eklund; 6 October 1942) is a Swedish actress. She appeared in numerous films throughout the 1960s and 1970s, including roles in The Double Man (1967), The Night They Raided Minsky's (1968), Machine Gun McCain (1969), Stiletto (1969), and the British crime film Get Carter (1971), which established her as a sex symbol. She also starred in several horror films, including The Wicker Man (19",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "stockholm-fashion-7",
+        "name": "Tobias Sorensen",
+        "cityId": "stockholm",
+        "categoryId": "fashion",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Tobias%20Sorensen%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Tobias_Sorensen",
+        "photo": null,
+        "description": "Tobias Sorensen is a Danish male model.",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "stockholm-fashion-8",
+        "name": "Bonus Family",
+        "cityId": "stockholm",
+        "categoryId": "fashion",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Bonus%20Family%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Bonus_Family",
+        "photo": null,
+        "description": "Bonus Family (Swedish: Bonusfamiljen) is a Swedish drama series created by Felix Herngren, Moa Herngren, Clara Herngren, and Calle Marthin for SVT. The series debuted in 2017, with a second season in 2018. A third season of the series launched on both SVT and Netflix in 2019. The series won a Kristallen award in 2017 for \"Best TV-drama\". SVT announced that it has ordered a fourth season. Season 4 began streaming on N",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "stockholm-fashion-9",
+        "name": "Boozt",
+        "cityId": "stockholm",
+        "categoryId": "fashion",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Boozt%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Boozt",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/The_Crystal_-_Boozt_HQ_-_Summer_2026_-_Photo_by_Bart_Dabrowski_for_Boozt.jpg/960px-The_Crystal_-_Boozt_HQ_-_Summer_2026_-_Photo_by_Bart_Dabrowski_for_Boozt.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Boozt"
+        },
+        "description": "Boozt (Boozt Fashion AB) is a Nordic multi-brand online department store founded in 2007 and headquartered in Copenhagen, Denmark. The company sells its products across several European countries. It is publicly traded on the Nasdaq Stockholm and Nasdaq Copenhagen stock exchanges.",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "stockholm-fashion-10",
+        "name": "Chrissie Hynde",
+        "cityId": "stockholm",
+        "categoryId": "fashion",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Chrissie%20Hynde%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Chrissie_Hynde",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/79/Chrissie_Hynde_2013.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Chrissie_Hynde"
+        },
+        "description": "Christine Ellen Hynde (born September 7, 1951) is an American-British singer, songwriter, and musician. She is a founding member of the rock band the Pretenders and is the band's lead vocalist, guitarist, and primary songwriter. Hynde is the band's only original member and is the only continuous member of the Pretenders, having appeared on every studio album released by the band. Hynde formed the Pretenders in Herefo",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "stockholm-fashion-11",
+        "name": "Paavo Nurmi",
+        "cityId": "stockholm",
+        "categoryId": "fashion",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Paavo%20Nurmi%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Paavo_Nurmi",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Paavo_Nurmi_%28Antwerp_1920%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Paavo_Nurmi"
+        },
+        "description": "Paavo Johannes Nurmi (Finnish pronunciation: [ˈpɑːʋo ˈnurmi] ; 13 June 1897 – 2 October 1973) was a Finnish middle-distance and long-distance runner. He was called the \"Flying Finn\" because he dominated distance running in the 1920s. Nurmi set 22 official world records at distances between 1,500 metres and 20 kilometres, and won nine gold and three silver medals in his 12 events in the Summer Olympic Games. At his pe",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "stockholm-fashion-12",
+        "name": "Mathilda Gvarliani",
+        "cityId": "stockholm",
+        "categoryId": "fashion",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Mathilda%20Gvarliani%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Mathilda_Gvarliani",
+        "photo": null,
+        "description": "Mathilda Gvarliani (Georgian: მატილდა გვარლიანი; born 17 May 2004) is a Georgian fashion model. She was the first Georgian model to walk the Victoria's Secret Fashion Show as well as the first Georgian model to appear on a Vogue cover. In 2024, she became the first Georgian model to enter models.com's Top 50 ranking. In 2025, Gvarliani was one of 30 models hired by Swedish clothing store H&M for its \"digital twins\" c",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "stockholm-fashion-13",
+        "name": "Dressmann",
+        "cityId": "stockholm",
+        "categoryId": "fashion",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Dressmann%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Dressmann",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Dressmann_i_Ume%C3%A5.JPG/960px-Dressmann_i_Ume%C3%A5.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Dressmann"
+        },
+        "description": "Dressmann is a chain of men's clothing stores owned by Varner-Gruppen. It was founded in Norway by Frank Varner, who opened the first store in Oslo in 1967. In addition to Norway, Dressmann stores can now be found in Sweden, Finland, Germany, Latvia (to 2014), Iceland and Denmark. In 2013 the number of stores had grown to 400. In 2010 it started a one-year collaboration with the rock band The Rolling Stones. Dressman",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "stockholm-fashion-14",
+        "name": "Ma Shih-yuan",
+        "cityId": "stockholm",
+        "categoryId": "fashion",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Ma%20Shih-yuan%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Ma_Shih-yuan",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Ma_Shih-yuan_at_the_Busan_International_Film_Festival_2025_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Ma_Shih-yuan"
+        },
+        "description": "Ma Shih-yuan (Chinese: 馬士媛), also known as Megan Ma, is a Taiwanese actress and model. Her performance in Left-Handed Girl (2025) earned her Best New Performer at the 62nd Golden Horse Awards.",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "stockholm-fashion-15",
+        "name": "BWO",
+        "cityId": "stockholm",
+        "categoryId": "fashion",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=BWO%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/BWO_(band)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/BodiesWithoutOrgans.jpg/960px-BodiesWithoutOrgans.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/BWO_(band)"
+        },
+        "description": "BWO was a Swedish electropop group, formed in 2003. Prior to early 2006 they used the name Bodies Without Organs. In Sweden they have enjoyed considerable commercial success throughout their career, so far notching up 15 Top 40 singles, including a Number 1 with \"Temple of Love\", and five Top 10 albums including a Number 1 with Halcyon Days, and have won several major Swedish music awards. The group scored major succ",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "stockholm-fashion-16",
+        "name": "Adolf Jäger",
+        "cityId": "stockholm",
+        "categoryId": "fashion",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Adolf%20J%C3%A4ger%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Adolf_J%C3%A4ger",
+        "photo": null,
+        "description": "Adolf Jäger (31 March 1889 – 21 November 1944) was a German amateur football player who competed in the 1912 Summer Olympics.",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "stockholm-fashion-17",
+        "name": "Stanley Marcus",
+        "cityId": "stockholm",
+        "categoryId": "fashion",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Stanley%20Marcus%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Stanley_Marcus",
+        "photo": null,
+        "description": "Harold Stanley Marcus (April 20, 1905 – January 22, 2002) was president (1950–1972) and later chairman of the board (1972–1976) of the luxury retailer Neiman Marcus in Dallas, Texas, which his father and aunt had founded in 1907. During his tenure at the company, he also became a published author, writing his memoir Minding the Store and also a regular column in The Dallas Morning News. After Neiman Marcus was sold t",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "stockholm-fashion-18",
+        "name": "Lindex",
+        "cityId": "stockholm",
+        "categoryId": "fashion",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Lindex%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Lindex",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Lindex_Jyv%C3%A4skyl%C3%A4.jpg/960px-Lindex_Jyv%C3%A4skyl%C3%A4.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Lindex"
+        },
+        "description": "Lindex was founded as a Swedish fashion chain in 1954, however since 2007 it became a part of the Finnish Stockmann Group. The company has around 5000 employees and approximately 480 stores in 18 markets in the Nordic countries, the Baltic states, Central Europe and the Middle East. In addition to sales in store, Lindex also offers their fashion assortment via online shopping in 28 countries: all EU countries plus No",
+        "lat": null,
+        "lng": null
+      }
+    ],
+    "shops": [
+      {
+        "id": "stockholm-shops-1",
+        "name": "West End Girls",
+        "cityId": "stockholm",
+        "categoryId": "shops",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=West%20End%20Girls%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/West_End_Girls_(Swedish_band)",
+        "photo": null,
+        "description": "West End Girls were a Swedish tribute synth-pop band performing cover versions of songs by English electronic/pop music act the Pet Shop Boys. Hailing from Stockholm, the duo originally consisted of Isabelle Erkendal and Rosanna Jirebeck, but Jirebeck left the group in 2008 and was replaced by Erkendal's cousin Emmeli Erkendal. Isabelle Erkendal provides main vocals for the band and is the \"Neil Tennant\" figure, whil",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "stockholm-shops-2",
+        "name": "Rosendals Trädgård",
+        "cityId": "stockholm",
+        "categoryId": "shops",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Rosendals%20Tr%C3%A4dg%C3%A5rd%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Rosendals_Tr%C3%A4dg%C3%A5rd",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Rosendals_tr%C3%A4dg%C3%A5rd.jpg/960px-Rosendals_tr%C3%A4dg%C3%A5rd.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Rosendals_Tr%C3%A4dg%C3%A5rd"
+        },
+        "description": "Rosendals Trädgård is a garden open to the public situated on Djurgården, west of Rosendal Palace, in the central part of Stockholm, Sweden. Today, Rosendals Trädgård is open to public visitors in order to let visitors experience nature and to demonstrate different cultural effects on gardening through history. The purpose is to practise biodynamic agriculture and pedagogical education. The garden is owned and operat",
+        "lat": 59.32721944,
+        "lng": 18.11363333
+      },
+      {
+        "id": "stockholm-shops-3",
+        "name": "Nobel Prize Museum",
+        "cityId": "stockholm",
+        "categoryId": "shops",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Nobel%20Prize%20Museum%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Nobel_Prize_Museum",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Nobel_Prize_Museum%2C_Stockholm_2024.jpg/960px-Nobel_Prize_Museum%2C_Stockholm_2024.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Nobel_Prize_Museum"
+        },
+        "description": "The Nobel Prize Museum (formerly the Nobel Museum [Swedish: Nobelprismuseet]) is located in the former Stock Exchange Building on the north side of the square Stortorget in Gamla Stan, the old town in central Stockholm, Sweden. (The Swedish Academy and the Nobel Library are also in the same building.) The Nobel Prize Museum showcases information about the Nobel Prize and Nobel laureates, as well as information about ",
+        "lat": 59.32463889,
+        "lng": 18.071425
+      },
+      {
+        "id": "stockholm-shops-4",
+        "name": "Sven-Harry's Art Museum",
+        "cityId": "stockholm",
+        "categoryId": "shops",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Sven-Harry's%20Art%20Museum%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Sven-Harry's_Art_Museum",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Sven_Harrys_konstmuseum_2011b.jpg/960px-Sven_Harrys_konstmuseum_2011b.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Sven-Harry's_Art_Museum"
+        },
+        "description": "Sven-Harry's Art Museum (Swedish: Sven-Harrys Konstmuseum) is an art museum in Stockholm, Sweden, founded by builder Sven-Harry Karlsson. It is housed in a multi-purpose building alongside an art gallery, museum shop, apartments, and businesses.",
+        "lat": 59.3396,
+        "lng": 18.044
+      },
+      {
+        "id": "stockholm-shops-5",
+        "name": "Ingeborg Holm",
+        "cityId": "stockholm",
+        "categoryId": "shops",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Ingeborg%20Holm%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Ingeborg_Holm",
+        "photo": null,
+        "description": "Ingeborg Holm (Margaret Day) is a 1913 Swedish social drama film directed by Victor Sjöström, based on a 1906 play by Nils Krok. It caused great debate in Sweden about social security, which led to changes in the poorhouse laws. It is said to be based on a true story.",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "stockholm-shops-6",
+        "name": "Stockholm Palace",
+        "cityId": "stockholm",
+        "categoryId": "shops",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Stockholm%20Palace%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Stockholm_Palace",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/The_Royal_Palace_%2815891592359%29.jpg/960px-The_Royal_Palace_%2815891592359%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Stockholm_Palace"
+        },
+        "description": "Stockholm Palace, or the Royal Palace, (Swedish: Stockholms slott or Kungliga slottet) is the official residence and major royal palace of the Swedish monarch (King Carl XVI Gustaf and Queen Silvia use Drottningholm Palace as their usual residence). Stockholm Palace is in Stadsholmen, in Gamla stan in the capital, Stockholm. It neighbours the Riksdag building. The offices of the King, the other members of the Swedish",
+        "lat": 59.32694444,
+        "lng": 18.07166667
+      },
+      {
+        "id": "stockholm-shops-7",
+        "name": "Christina Schollin",
+        "cityId": "stockholm",
+        "categoryId": "shops",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Christina%20Schollin%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Christina_Schollin",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Christina_Schollin_%2821837759522%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Christina_Schollin"
+        },
+        "description": "Christina Alma Elisabet Schollin (pronounced [skʊˈliːn]; born 26 December 1937) is a Swedish actress. She is best known to international audiences mainly through her appearances in motion pictures, such as Dear John, Song of Norway and Ingmar Bergman's Fanny and Alexander. The \"angel\" theme has become an integral part of Schollin's image, and until 2011, she ran her own gift shop with that motif and product, plus an ",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "stockholm-shops-8",
+        "name": ".shop",
+        "cityId": "stockholm",
+        "categoryId": "shops",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=.shop%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/.shop",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/DotShop_gTLD_logo.svg/960px-DotShop_gTLD_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/.shop"
+        },
+        "description": ".shop is a generic top-level domain (gTLD) launched in September 2016. Nine companies including Google, Amazon and Famous Four Media filed applications for .shop in the 2012 ICANN new gTLD application round. GMO Registry became the registry operator after prevailing in an ICANN public auction in January 2016.",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "stockholm-shops-9",
+        "name": ".xyz",
+        "cityId": "stockholm",
+        "categoryId": "shops",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=.xyz%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/.xyz",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/.xyz_logo.svg/960px-.xyz_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/.xyz"
+        },
+        "description": ".xyz is a top-level domain name introduced through ICANN's new generic top-level domain (gTLD) Program. Its name consists of the last three letters of the Latin-script alphabet. XYZ.com and CentralNic are the registries for the domain, which was created by entrepreneur Daniel Negari. It became available to the general public on June 2, 2014, thereafter becoming widely used by tech startups, creators, and Web3 project",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "stockholm-shops-10",
+        "name": "Dark Journey",
+        "cityId": "stockholm",
+        "categoryId": "shops",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Dark%20Journey%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Dark_Journey_(1937_film)",
+        "photo": null,
+        "description": "Dark Journey is a 1937 British spy film directed by Victor Saville and starring Conrad Veidt, Vivien Leigh and Joan Gardner Written by Lajos Bíró and Arthur Wimperis, the film is about two secret agents on opposite sides during World War I who meet and fall in love in neutral Stockholm. It was shot at Denham Studios, with sets designed by the art director Andrej Andrejew assisted by Ferdinand Bellan. The film's costu",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "stockholm-shops-11",
+        "name": "Arne Borg",
+        "cityId": "stockholm",
+        "categoryId": "shops",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Arne%20Borg%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Arne_Borg",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Arne_Borg_1928_%28cropped%29.jpg/960px-Arne_Borg_1928_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Arne_Borg"
+        },
+        "description": "Claes Arne Borg (18 August 1901 – 7 November 1987) was a Swedish swimmer. He is best known for breaking 32 world records and winning five Olympic medals in the 1920s. In 1926 Borg won the Svenska Dagbladet Gold Medal, shared with Edvin Wide. Next year, at the 1927 European Championships, he set a new world record in the 1500 m at 19:07.2, which stood for nearly 11 years. Besides swimming, Borg also won a European sil",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "stockholm-shops-12",
+        "name": "QX",
+        "cityId": "stockholm",
+        "categoryId": "shops",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=QX%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/QX_(magazine)",
+        "photo": null,
+        "description": "QX is a magazine specializing in topics of interest to the LGBTQ community in Sweden (and, more generally, throughout Scandinavia). It was launched started in 1995. It is published in Swedish monthly by QX Förlag AB and is the largest magazine of its kind in the region. QX GayMap Stockholm is a printed summer guide in English to the Stockholm gay scene. The printed map has a distribution of 40,000 copies.",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "stockholm-shops-13",
+        "name": "Ferdinand Fagerlin",
+        "cityId": "stockholm",
+        "categoryId": "shops",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Ferdinand%20Fagerlin%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Ferdinand_Fagerlin",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/54/Ferdinand_Fagerlin_OLM-2008-28-43.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Ferdinand_Fagerlin"
+        },
+        "description": "Ferdinand Julius Fagerlin (5 February 1825 – 19 March 1907) was a Swedish-German genre painter.",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "stockholm-shops-14",
+        "name": "Karin Pilsäter",
+        "cityId": "stockholm",
+        "categoryId": "shops",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Karin%20Pils%C3%A4ter%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Karin_Pils%C3%A4ter",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/75/Karin_Pils%C3%A4ter.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Karin_Pils%C3%A4ter"
+        },
+        "description": "Anna Karin Pilsater (born 24 June 1960) is a Swedish politician with the Liberal People's Party. She is a former member of the Riksdag since 1991, representing Stockholm County, and was previously the party's spokesperson on economic policy. Karin Pilsäter was born in Vantör in southern Stockholm. She studied at the Stockholm School of Economics 1984–1988. Before her involvement in politics she has worked as shop ass",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "stockholm-shops-15",
+        "name": "Tysta Mari",
+        "cityId": "stockholm",
+        "categoryId": "shops",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Tysta%20Mari%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Tysta_Mari",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Kronprinsens_stall_1950.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Tysta_Mari"
+        },
+        "description": "Tysta Mari was a famous coffee shop and restaurant in Stockholm, Sweden, known to be popular with artists, intellectuals and journalists. It was established in 1834 by Maria Christina Lindström (1806–1895) on the intersection of Jakobsgatan and Drottninggatan. The original Tysta Mari was closed in 1954, but a new coffee shop and restaurant with the same names was opened in 1974 on Östermalm.",
+        "lat": 59.32888889,
+        "lng": 18.06166667
+      },
+      {
+        "id": "stockholm-shops-16",
+        "name": ".localhost",
+        "cityId": "stockholm",
+        "categoryId": "shops",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=.localhost%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/.localhost",
+        "photo": null,
+        "description": "The name localhost is reserved by the Internet Engineering Task Force (IETF) as a domain name label that may not be installed as a top-level domain in the Domain Name System (DNS) of the Internet.",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "stockholm-shops-17",
+        "name": ".geo",
+        "cityId": "stockholm",
+        "categoryId": "shops",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=.geo%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/.geo",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/51/Dotgeo.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/.geo"
+        },
+        "description": ".geo was a generic top-level domain proposed by SRI International to be used to associate Internet resources with geographical locations, via a system of \"georegistrars\" and \"georegistries\" with hierarchical addresses representing locations in a grid encircling the Earth. These addresses are not intended to be typed in directly by end-users (and hence are \"messy\" strings like acme.2e5n.10e30n.geo) but rather, would b",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "stockholm-shops-18",
+        "name": ".bible",
+        "cityId": "stockholm",
+        "categoryId": "shops",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=.bible%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/.bible",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/8f/DotBible_gTLD_logo.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/.bible"
+        },
+        "description": ".bible is a delegated top-level domain (TLD), approved by ICANN as a generic TLD (gTLD).",
+        "lat": null,
+        "lng": null
+      }
+    ]
+  }
+}

@@ -1,0 +1,2919 @@
+{
+  "cityId": "mexico-city",
+  "generatedAt": "2026-11-27T08:28:15.171Z",
+  "source": "Wikipedia API + Maps URLs (sin scraping de Google)",
+  "incomplete": [],
+  "categories": {
+    "night_clubs": [
+      {
+        "id": "mexico-city-night_clubs-1",
+        "name": "Olga Breeskin",
+        "cityId": "mexico-city",
+        "categoryId": "night_clubs",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Olga%20Breeskin%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Olga_Breeskin",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/05/Olgabreeskin.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Olga_Breeskin"
+        },
+        "description": "Olga Breeskin Torres (born September 22, 1951) is a Mexican violinist, dancer and actress. She was one of the most famous Mexican vedettes in 1970s and 1980s.",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "mexico-city-night_clubs-2",
+        "name": "Colegio Guadalupe",
+        "cityId": "mexico-city",
+        "categoryId": "night_clubs",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Colegio%20Guadalupe%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Colegio_Guadalupe_(Mexico_City)",
+        "photo": null,
+        "description": "Colegio Guadalupe, S.C. is a private school in Lindavista, Gustavo A. Madero, Mexico City. It serves levels preschool through preparatoria (high school).",
+        "lat": 19.496935,
+        "lng": -99.128661
+      },
+      {
+        "id": "mexico-city-night_clubs-3",
+        "name": "Museo del Estanquillo",
+        "cityId": "mexico-city",
+        "categoryId": "night_clubs",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Museo%20del%20Estanquillo%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Museo_del_Estanquillo",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Fachada_del_Museo_El_Estanquillo.JPG/960px-Fachada_del_Museo_El_Estanquillo.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Museo_del_Estanquillo"
+        },
+        "description": "The Museo del Estanquillo (\"Museum of the Little Shop\") is located in the Historic Center of Mexico City, Mexico. The museum houses the personal collection of the writer Carlos Monsiváis, encompassing paintings, photography, toys, albums, calendars, advertising and books.",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "mexico-city-night_clubs-4",
+        "name": "Elvira Ríos",
+        "cityId": "mexico-city",
+        "categoryId": "night_clubs",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Elvira%20R%C3%ADos%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Elvira_R%C3%ADos",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Photograph_of_Elvira_R%C3%ADos_as_Yakima.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Elvira_R%C3%ADos"
+        },
+        "description": "María Elvira Gallegos Ríos (November 16, 1913 – January 13, 1987) was a Mexican singer and actress. One of the most notable performers of Agustín Lara's songs, Ríos was the first Mexican singer who achieved international success through radio, records, nightclub engagements, tours, and films. She was well known in Mexico, United States, Brazil, Argentina, and France, among other countries. Some of her greatest hits a",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "mexico-city-night_clubs-5",
+        "name": "Verónica Castro, Mexico City",
+        "cityId": "mexico-city",
+        "categoryId": "night_clubs",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Ver%C3%B3nica%20Castro%2C%20Mexico%20City%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Ver%C3%B3nica_Castro%2C_Mexico_City",
+        "photo": null,
+        "description": "Verónica Castro is a small neighborhood (colonia) of Mexico City in the Gustavo A. Madero borough.",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "mexico-city-night_clubs-6",
+        "name": "Lindavista",
+        "cityId": "mexico-city",
+        "categoryId": "night_clubs",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Lindavista%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Lindavista",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Riobamba_y_Sierravista%2C_Lindavista%2C_Ciudad_de_M%C3%A9xico_2017.jpg/960px-Riobamba_y_Sierravista%2C_Lindavista%2C_Ciudad_de_M%C3%A9xico_2017.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Lindavista"
+        },
+        "description": "Lindavista is a neighbourhood in the north of Mexico City, in the administrative district of Gustavo A. Madero. The streets in Lindavista are named after cities in Latin America.",
+        "lat": 19.49411,
+        "lng": -99.12762
+      },
+      {
+        "id": "mexico-city-night_clubs-7",
+        "name": "New's Divine nightclub tragedy",
+        "cityId": "mexico-city",
+        "categoryId": "night_clubs",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=New's%20Divine%20nightclub%20tragedy%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/New's_Divine_nightclub_tragedy",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/20_de_junio_2008._Casi_3_a%C3%B1os_despu%C3%A9s.jpg/960px-20_de_junio_2008._Casi_3_a%C3%B1os_despu%C3%A9s.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/New's_Divine_nightclub_tragedy"
+        },
+        "description": "The New's Divine nightclub tragedy occurred at a nightclub located in the Gustavo A. Madero borough of Mexico City, where on the evening of 20 June 2008, according to the authorities's official version, a crowd crush occurred in which nine assistants and three police officers died following the nightclub's request to evacuate through the only exit. On the opposite, witnesses reported that after officers deployed tear",
+        "lat": 19.5,
+        "lng": 99.08861111
+      },
+      {
+        "id": "mexico-city-night_clubs-8",
+        "name": "Mystery in Mexico",
+        "cityId": "mexico-city",
+        "categoryId": "night_clubs",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Mystery%20in%20Mexico%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Mystery_in_Mexico",
+        "photo": null,
+        "description": "Mystery in Mexico is a 1948 American crime thriller film directed by Robert Wise. It stars William Lundigan, Jacqueline White and Ricardo Cortez. The film centers around the search for an insurance investigator who goes to Mexico in search of some valuable stolen jewelry. The film was shot on location in Mexico City and Cuernavaca.",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "mexico-city-night_clubs-9",
+        "name": "Sistema Educativo Justo Sierra",
+        "cityId": "mexico-city",
+        "categoryId": "night_clubs",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Sistema%20Educativo%20Justo%20Sierra%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Sistema_Educativo_Justo_Sierra",
+        "photo": null,
+        "description": "Sistema Educativo Justo Sierra is a private school and university system in the Mexico City metropolitan area. Universidad Justo Sierra is a part of the system. Its campuses include: Plantel Acueducto (Laguna Ticomán, Gustavo A. Madero) - Middle school, high school, and university Plantel Aragón (San Juan de Aragón, Gustavo A. Madero) - One middle school campus and one high school campus Plantel Azahares (Santa María",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "mexico-city-night_clubs-10",
+        "name": "Lindavista metro station",
+        "cityId": "mexico-city",
+        "categoryId": "night_clubs",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Lindavista%20metro%20station%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Lindavista_metro_station",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/Metro_Lindavista_%282025%29_5.jpg/960px-Metro_Lindavista_%282025%29_5.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Lindavista_metro_station"
+        },
+        "description": "Lindavista is a metro station along Line 6 of the Mexico City Metro. It is located in the Gustavo A. Madero borough. In 2019, the station had an average ridership of 17,878 passengers per day.",
+        "lat": 19.487712,
+        "lng": -99.13466
+      },
+      {
+        "id": "mexico-city-night_clubs-11",
+        "name": "Villa de Guadalupe, Mexico City",
+        "cityId": "mexico-city",
+        "categoryId": "night_clubs",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Villa%20de%20Guadalupe%2C%20Mexico%20City%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Villa_de_Guadalupe%2C_Mexico_City",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Panorama_de_la_Ville_de_Guadalupe%2C_Mexico._%2825171491216%29.jpg/960px-Panorama_de_la_Ville_de_Guadalupe%2C_Mexico._%2825171491216%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Villa_de_Guadalupe%2C_Mexico_City"
+        },
+        "description": "Colonia Villa de Guadalupe (also known as La Villa de Guadalupe Hidalgo) is a former separate town, now a neighborhood in northern Mexico City which, in 1531, was the site of the alleged apparition of Our Lady of Guadalupe, the most renowned Marian apparition in the Americas. She is venerated in the Our Lady of Guadalupe Shrine, located in the villa (town).",
+        "lat": 19.485633,
+        "lng": -99.116796
+      },
+      {
+        "id": "mexico-city-night_clubs-12",
+        "name": "Bondojito metro station",
+        "cityId": "mexico-city",
+        "categoryId": "night_clubs",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Bondojito%20metro%20station%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Bondojito_metro_station",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/Metro_Bondojito_04.jpg/960px-Metro_Bondojito_04.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Bondojito_metro_station"
+        },
+        "description": "Bondojito is a metro station along Line 4 of the Mexico City Metro. It is located in the Gustavo A. Madero borough of Mexico City.",
+        "lat": 19.46461,
+        "lng": -99.111958
+      },
+      {
+        "id": "mexico-city-night_clubs-13",
+        "name": "Talismán metro station",
+        "cityId": "mexico-city",
+        "categoryId": "night_clubs",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Talism%C3%A1n%20metro%20station%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Talism%C3%A1n_metro_station",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/Metro_Talisman_05.jpg/960px-Metro_Talisman_05.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Talism%C3%A1n_metro_station"
+        },
+        "description": "Talismán is a station along Line 4 of the Mexico City Metro, located in Gustavo A. Madero borough.",
+        "lat": 19.47428,
+        "lng": -99.108009
+      },
+      {
+        "id": "mexico-city-night_clubs-14",
+        "name": "Villa de Aragón metro station",
+        "cityId": "mexico-city",
+        "categoryId": "night_clubs",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Villa%20de%20Arag%C3%B3n%20metro%20station%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Villa_de_Arag%C3%B3n_metro_station",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/Metro_Villa_de_Arag%C3%B3n_02.jpg/960px-Metro_Villa_de_Arag%C3%B3n_02.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Villa_de_Arag%C3%B3n_metro_station"
+        },
+        "description": "Villa de Aragón is a station on Line B of the Mexico City Metro system. It is located in the Gustavo A. Madero municipality, in the limits with the State of Mexico. In 2019, the station had an average ridership of 14,456 passengers per day.",
+        "lat": 19.461656,
+        "lng": -99.061704
+      },
+      {
+        "id": "mexico-city-night_clubs-15",
+        "name": "Bosque de Aragón metro station",
+        "cityId": "mexico-city",
+        "categoryId": "night_clubs",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Bosque%20de%20Arag%C3%B3n%20metro%20station%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Bosque_de_Arag%C3%B3n_metro_station",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Metro_Bosque_de_Aragon_06.jpg/960px-Metro_Bosque_de_Aragon_06.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Bosque_de_Arag%C3%B3n_metro_station"
+        },
+        "description": "Bosque de Aragón is a subway station in Gustavo A. Madero borough, in México City Mexico. The station was opened on 15 December 1999.",
+        "lat": 19.458115,
+        "lng": -99.069192
+      },
+      {
+        "id": "mexico-city-night_clubs-16",
+        "name": "La Villa-Basílica metro station",
+        "cityId": "mexico-city",
+        "categoryId": "night_clubs",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=La%20Villa-Bas%C3%ADlica%20metro%20station%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/La_Villa-Bas%C3%ADlica_metro_station",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/La_Villa_Basilica_platforms_01.jpg/960px-La_Villa_Basilica_platforms_01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/La_Villa-Bas%C3%ADlica_metro_station"
+        },
+        "description": "La Villa-Basílica (Spanish: Estación La Villa-Basílica) is station along Line 6 of the Mexico City Metro. Its logo consists of the façade of the nearby Basilica of Our Lady of Guadalupe on the left and a representation of the Virgin Mary as Our Lady of Guadalupe on the right. The station serves the Colonia Aragón and Colonia La Villa neighborhoods. It opened on 8 July 1986.",
+        "lat": 19.481522,
+        "lng": -99.117923
+      },
+      {
+        "id": "mexico-city-night_clubs-17",
+        "name": "Malacates",
+        "cityId": "mexico-city",
+        "categoryId": "night_clubs",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Malacates%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Malacates",
+        "photo": null,
+        "description": "Malacates is the northernmost neighborhood of Mexico City in the Gustavo A. Madero borough, built at the foot of the mountains of the Sierra de Guadalupe. The main draw of Malacates is as an entryway to the Sierra de Guadalupe Protected Natural Area. The buildings here are constructed primarily of concrete block, which is typical of emerging neighborhoods.",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "mexico-city-night_clubs-18",
+        "name": "Gay bar",
+        "cityId": "mexico-city",
+        "categoryId": "night_clubs",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Gay%20bar%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Gay_bar",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/09/Comptons-Of-Soho.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Gay_bar"
+        },
+        "description": "A gay bar is a drinking establishment that caters to an exclusively or predominantly lesbian, gay, bisexual, transgender, and/or queer (LGBTQ+) clientele; the term gay is used as a broadly inclusive concept for LGBTQ+ communities. Gay bars once served as the centre of gay culture and were one of the few places people with same-sex orientations and gender-variant identities could openly socialize. Other names used to ",
+        "lat": null,
+        "lng": null
+      }
+    ],
+    "restaurants": [
+      {
+        "id": "mexico-city-restaurants-1",
+        "name": "Benedetti's Pizza",
+        "cityId": "mexico-city",
+        "categoryId": "restaurants",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Benedetti's%20Pizza%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Benedetti's_Pizza",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/88/Benedetti%27s_Pizza_%28logo%29.webp?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Benedetti's_Pizza"
+        },
+        "description": "Benedetti's Pizza is a pizza chain in Mexico. Founded in 1983, it currently operates more than 79 units in 10 cities of the Mexican Republic and its headquarters are in Mexico City. For the year 2022, the company planned to open 12 new pizzerias in Mexico City and Monterrey, a new market for them.",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "mexico-city-restaurants-2",
+        "name": "Alsea",
+        "cityId": "mexico-city",
+        "categoryId": "restaurants",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Alsea%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Alsea_(company)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Logo_de_Alsea.svg/960px-Logo_de_Alsea.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Alsea_(company)"
+        },
+        "description": "Alsea, S.A.B. de C.V., known as Alsea, is a Mexican multi-brand restaurant operator based in Mexico City, Mexico. It was founded as a holding company in 1997. Its operating portfolio includes fast-food, casual dining, and cafeteria type restaurant chains located in Mexico, South America and Europe. It is one of the largest foodservice companies in Mexico according to CNN Expansión. Some of the restaurant chains that ",
+        "lat": 19.3605,
+        "lng": -99.18986111
+      },
+      {
+        "id": "mexico-city-restaurants-3",
+        "name": "Biko",
+        "cityId": "mexico-city",
+        "categoryId": "restaurants",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Biko%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Biko_(restaurant)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/Inside_Biko_%2811397876993%29.jpg/960px-Inside_Biko_%2811397876993%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Biko_(restaurant)"
+        },
+        "description": "Biko was a Basque restaurant in Mexico City specialising in experimental molecular gastronomy owned and operated by Basque chefs Bruno Oteiza and Mikel Alonso.",
+        "lat": 19.431961,
+        "lng": -99.198743
+      },
+      {
+        "id": "mexico-city-restaurants-4",
+        "name": "Barrio Chino",
+        "cityId": "mexico-city",
+        "categoryId": "restaurants",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Barrio%20Chino%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Barrio_Chino_(Mexico_City)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Vistas_del_Barrio_chino_de_la_Ciudad_de_M%C3%A9xico_04.jpg/960px-Vistas_del_Barrio_chino_de_la_Ciudad_de_M%C3%A9xico_04.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Barrio_Chino_(Mexico_City)"
+        },
+        "description": "Barrio Chino (Chinese: 墨西哥城唐人街; Cantonese Yale: Mahksāigō Sìhng Tòhngyàhngāai; Pinyin: Mòxīgē Chéng Tángrénjiē) is a barrio located in the downtown area of Mexico City, near the Alameda Central and Palacio de Bellas Artes. Barrio Chino exists primarily on two blocks along Dolores Street and one block east and west of the street. There was an expulsion of the ethnic Chinese in the 1930s and since then the ethnic Chine",
+        "lat": 19.43205278,
+        "lng": -99.14307222
+      },
+      {
+        "id": "mexico-city-restaurants-5",
+        "name": "Casa de los Azulejos",
+        "cityId": "mexico-city",
+        "categoryId": "restaurants",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Casa%20de%20los%20Azulejos%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Casa_de_los_Azulejos",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Casa_de_Azulejos_3.jpg/960px-Casa_de_Azulejos_3.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Casa_de_los_Azulejos"
+        },
+        "description": "The Casa de los Azulejos (\"House of Tiles\") or Palacio de los Condes del Valle de Orizaba (Palace of the Counts of Valley of Orizaba) is an 18th-century Baroque palace in Mexico City, built by the Count of the Valle de Orizaba family. The building is distinguished by its facade, which is covered on three sides by blue and white colonial Talavera tiles from Puebla state. The palace remained in private hands until near",
+        "lat": 19.43421944,
+        "lng": -99.14020556
+      },
+      {
+        "id": "mexico-city-restaurants-6",
+        "name": "O Ya",
+        "cityId": "mexico-city",
+        "categoryId": "restaurants",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=O%20Ya%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/O_Ya_(restaurant)",
+        "photo": null,
+        "description": "O Ya is a Japanese omakase-style restaurant in Boston, Massachusetts. The restaurant is owned by Tim and Nancy Cushman.",
+        "lat": 42.35147222,
+        "lng": -71.05691667
+      },
+      {
+        "id": "mexico-city-restaurants-7",
+        "name": "Colonia Roma",
+        "cityId": "mexico-city",
+        "categoryId": "restaurants",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Colonia%20Roma%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Colonia_Roma",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/Plaza_R%C3%ADo_de_Janeiro_Colonia_Roma.JPG/960px-Plaza_R%C3%ADo_de_Janeiro_Colonia_Roma.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Colonia_Roma"
+        },
+        "description": "Colonia Roma, also called La Roma or simply, Roma, is a district located in the Cuauhtémoc borough of Mexico City just west of the city's historic center. The area comprises two colonias: Roma Norte and Roma Sur, divided by Coahuila street. The colonia was originally planned as an upper-class Porfirian neighborhood in the early twentieth century. By the 1940s, it had become a middle-class neighborhood in slow decline",
+        "lat": 19.41191667,
+        "lng": -99.15958333
+      },
+      {
+        "id": "mexico-city-restaurants-8",
+        "name": "Pujol",
+        "cityId": "mexico-city",
+        "categoryId": "restaurants",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Pujol%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Pujol_(restaurant)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Pujol_Restaurant_%2840553682022%29.jpg/960px-Pujol_Restaurant_%2840553682022%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Pujol_(restaurant)"
+        },
+        "description": "Pujol ([puˈʒɔl]) is a Mexican restaurant in Polanco, Miguel Hidalgo, Mexico City. It is owned and headed by chef Enrique Olvera. Pujol's dishes are rooted in traditional Mexican cuisine, including maize-based food, seafood, and tacos, served in a sophisticated presentation through tasting menus or a taco omakase bar. Founded in 2000, Pujol initially focused on Asian and American cuisine with only a few Mexican elemen",
+        "lat": 19.43238889,
+        "lng": -99.19483333
+      },
+      {
+        "id": "mexico-city-restaurants-9",
+        "name": "Grupo Sanborns",
+        "cityId": "mexico-city",
+        "categoryId": "restaurants",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Grupo%20Sanborns%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Grupo_Sanborns",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/Logo_de_Grupo_Sanborns.svg/960px-Logo_de_Grupo_Sanborns.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Grupo_Sanborns"
+        },
+        "description": "Grupo Sanborns S.A. de C.V. is a retailing arm of the Carlos Slim-run Grupo Carso that includes the namesake Sanborns restaurant and junior department store chain, Mixup music stores, iShop Apple/electronics stores, Sears department stores in Mexico, and until October 2023, Mexico's sole Saks Fifth Avenue store. As of 2021, the group sales were 53 billion Mexican pesos, equivalent to around US$2.6 billion. It operate",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "mexico-city-restaurants-10",
+        "name": "Fountain of Neptune, Mexico City",
+        "cityId": "mexico-city",
+        "categoryId": "restaurants",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Fountain%20of%20Neptune%2C%20Mexico%20City%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Fountain_of_Neptune%2C_Mexico_City",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Mexico_City_%282018%29_-_108.jpg/960px-Mexico_City_%282018%29_-_108.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Fountain_of_Neptune%2C_Mexico_City"
+        },
+        "description": "The Fountain of Neptune (Spanish: Fuente de Neptuno) is installed in Mexico City's Alameda Central, in Mexico. The fountain has a bronze sculpture depicting Neptune, the Roman God of the sea. It was made in 1856 by Vital Gabriel Dubray, and cast in iron by the french company Val d'Osne. Originally destined for a high-class restaurant, it was placed in Alameda Central in 1889. Identical sculptures are placed in the to",
+        "lat": 19.43555556,
+        "lng": -99.145
+      },
+      {
+        "id": "mexico-city-restaurants-11",
+        "name": "Carne a la tampiqueña",
+        "cityId": "mexico-city",
+        "categoryId": "restaurants",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Carne%20a%20la%20tampique%C3%B1a%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Carne_a_la_tampique%C3%B1a",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Carne_a_la_tampique%C3%B1a.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Carne_a_la_tampique%C3%B1a"
+        },
+        "description": "Carne a la tampiqueña is one of the most popular meat dishes in Mexico. It was created in 1939 by the restaurateur José Inés Loredo and his brother chef Fidel, originally from San Luis Potosí, at their restaurant \"Tampico Club\" on Avenida Mexico in México City. . The restaurant was named in honor of the years the brothers had lived in the port of Tampico, Tamaulipas. Each ingredient was given a meaning. The oval plat",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "mexico-city-restaurants-12",
+        "name": "Torre Bicentenario II",
+        "cityId": "mexico-city",
+        "categoryId": "restaurants",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Torre%20Bicentenario%20II%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Torre_Bicentenario_II",
+        "photo": null,
+        "description": "Torre Bicentenario II was a proposed skyscraper that could be built at the corner of Carretera Picacho-Ajusco and Periférico Sur, Tlalpan, in Mexico City. Proposed plans would make it the fourth tallest building in America, the tallest building in Mexico City, Latin America and surpassing Torre Mayor, the tallest building in Mexico at 225.6 m. Héctor Tagle Náder was the architect.",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "mexico-city-restaurants-13",
+        "name": "Vips",
+        "cityId": "mexico-city",
+        "categoryId": "restaurants",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Vips%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Vips_(Mexican_restaurant)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/VIPS_Logo_Mexico_01.2024.svg/960px-VIPS_Logo_Mexico_01.2024.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Vips_(Mexican_restaurant)"
+        },
+        "description": "Vips is a restaurant chain of casual full-service restaurants across Mexico and Spain founded by the Arango brothers and owned by Alsea, a Mexican hospitality and retail conglomerate. Visually and in the type and quality of service, they are similar to a U.S. \"coffee shop\" or diner such as Denny's, and compete with Sanborns, Toks and Wings with the format. The chain's restaurants are located in Mexico and Spain and o",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "mexico-city-restaurants-14",
+        "name": "Miyana",
+        "cityId": "mexico-city",
+        "categoryId": "restaurants",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Miyana%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Miyana_(Mexico_City)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/Miyana_%282022%29_3.jpg/960px-Miyana_%282022%29_3.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Miyana_(Mexico_City)"
+        },
+        "description": "Miyana is a mixed-use residential and commercial development of Gigante Grupo Mobiliario in Nuevo Polanco district of Mexico City. It is located on a 43,501 square metres (468,240 sq ft) lot with 520,000 square metres (5,600,000 sq ft), making it one of the largest such developments in the metropolis, with an investment of 7 billion pesos (approx. US$400 million). There are three residential towers which will eventua",
+        "lat": 19.4395736,
+        "lng": -99.1998562
+      },
+      {
+        "id": "mexico-city-restaurants-15",
+        "name": "Plaza Uruguay",
+        "cityId": "mexico-city",
+        "categoryId": "restaurants",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Plaza%20Uruguay%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Plaza_Uruguay",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/Mexico_City_%282018%29_-_437.jpg/960px-Mexico_City_%282018%29_-_437.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Plaza_Uruguay"
+        },
+        "description": "Plaza Uruguay is a public park along Avenida Horacio and the streets of Hegel, Lope de Vega and Ibarbourou, in Polanco, Mexico City, Mexico. The park commemorates the Uruguayans who emigrated to Mexico during the civic-military dictatorship of Uruguay (1973–1985); its name honors the relations between Mexico and Uruguay. The park was established in the late 1930s, alongside the development of the neighborhood, on lan",
+        "lat": 19.43277778,
+        "lng": -99.18777778
+      },
+      {
+        "id": "mexico-city-restaurants-16",
+        "name": "Restaurante Arroyo",
+        "cityId": "mexico-city",
+        "categoryId": "restaurants",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Restaurante%20Arroyo%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Restaurante_Arroyo",
+        "photo": null,
+        "description": "Restaurante Arroyo is the world's largest single Mexican restaurant, located in the Tlalpan area of Mexico City. The restaurant, which employs more than 1,000 people during its peak season, has seating for 2,200 patrons in nine dining rooms, and parking for 600 cars. It also features stages for musical performances, an array of wandering mariachi and jarocho bands, an infirmary, an area for hosting piñata parties, a ",
+        "lat": 19.2875,
+        "lng": -99.17555556
+      },
+      {
+        "id": "mexico-city-restaurants-17",
+        "name": "Avenida Álvaro Obregón",
+        "cityId": "mexico-city",
+        "categoryId": "restaurants",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Avenida%20%C3%81lvaro%20Obreg%C3%B3n%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Avenida_%C3%81lvaro_Obreg%C3%B3n",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/97/Coloniaroma8.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Avenida_%C3%81lvaro_Obreg%C3%B3n"
+        },
+        "description": "Avenida Álvaro Obregón is an avenue in the Roma district of Mexico City, divided by a park median along which fountains are located with characters from Roman and Greek mythology. There was a well known street market of art and antiques along the median, but this was eliminated in 2012. The median continues to be the site of various cultural events, including exhibitions of art, organic and natural product fairs, etc",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "mexico-city-restaurants-18",
+        "name": "Mexico City",
+        "cityId": "mexico-city",
+        "categoryId": "restaurants",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Mexico%20City%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Mexico_City",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Sobrevuelos_CDMX_HJ2A4913_%2825514321687%29_%28cropped%29.jpg/960px-Sobrevuelos_CDMX_HJ2A4913_%2825514321687%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Mexico_City"
+        },
+        "description": "Mexico City (often shortened as CDMX) is the capital and largest city of Mexico, as well as the most populous city in North America. It is one of the world's leading cultural and financial centers and, according to the Globalization and World Cities Research Network's 2024 ranking, is classified as an Alpha world city. Located in the Valley of Mexico on the high Mexican Central Plateau, the city sits at an altitude o",
+        "lat": 19.43333333,
+        "lng": -99.13333333
+      }
+    ],
+    "bars": [
+      {
+        "id": "mexico-city-bars-1",
+        "name": "Nicho Bears and Bar",
+        "cityId": "mexico-city",
+        "categoryId": "bars",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Nicho%20Bears%20and%20Bar%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Nicho_Bears_and_Bar",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Nicho%2C_CDMX.jpg/960px-Nicho%2C_CDMX.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Nicho_Bears_and_Bar"
+        },
+        "description": "Nicho Bears and Bar is a gay bar in Zona Rosa, Mexico City, Mexico. Passport Magazine's Joseph Pedro said the bar offers \"low-key bear night[s] where you're assigned numbers for secret messages\". In 2018, Alberto Cervantes of TimeOut included Nicho in his list of the city's 10 best gay bars. In 2020, the space was turned into a temporary bazaar of bear memorabilia. This was to support the staff who saw decreased wage",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "mexico-city-bars-2",
+        "name": "Constituent Assembly of Mexico City",
+        "cityId": "mexico-city",
+        "categoryId": "bars",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Constituent%20Assembly%20of%20Mexico%20City%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Constituent_Assembly_of_Mexico_City",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Constituyente_cdmx_logo.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Constituent_Assembly_of_Mexico_City"
+        },
+        "description": "The Constituent Assembly of Mexico City (Asamblea Constituyente de la Ciudad de México) is a body formed to create a new constitution for Mexico City in the wake of the 2016 political reforms that convert Mexico City into a federative entity comparable to the 31 states; with \"autonomy in all matters concerning its internal regime and its political and administrative organisation.\" It will be installed on September 15",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "mexico-city-bars-3",
+        "name": "Akinori Nakayama",
+        "cityId": "mexico-city",
+        "categoryId": "bars",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Akinori%20Nakayama%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Akinori_Nakayama",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Akinori_Nakayama_1966d.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Akinori_Nakayama"
+        },
+        "description": "Akinori Nakayama (中山 彰規, Nakayama Akinori; March 1, 1943 – March 9, 2025) was a Japanese gymnast and Olympic gold medalist. Nakayama was born in Nagoya, Aichi Prefecture, and is a graduate of Chukyo University in Nagoya. Nakayama is one of only three gymnasts to become an Olympic Champion in rings twice.",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "mexico-city-bars-4",
+        "name": ".bar",
+        "cityId": "mexico-city",
+        "categoryId": "bars",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=.bar%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/.bar",
+        "photo": null,
+        "description": ".bar is an Internet domain that is specifically geared for bars, pubs and nightclubs, including bar and restaurant guides, critics, delivery services, wine and liquor, and related industries. It is a gTLD owned by Mexico City–based company Punto 2012. The domain .bar was released on June 11, 2014.",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "mexico-city-bars-5",
+        "name": "Eizo Kenmotsu",
+        "cityId": "mexico-city",
+        "categoryId": "bars",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Eizo%20Kenmotsu%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Eizo_Kenmotsu",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/87/Eizo_Kenmotsu.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Eizo_Kenmotsu"
+        },
+        "description": "Eizo Kenmotsu (Japanese: 監物永三, romanized: Kenmotsu Eizō; born February 13, 1948) is a former Japanese artistic gymnast, who won seven world titles and three Olympic gold medals between 1968 and 1979. In retirement, he became a leading Japanese coach. He also served as sports director of the Nippon Sport Science University and vice president of the Japan Gymnastics Association. In 2006, Kenmotsu was inducted into the ",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "mexico-city-bars-6",
+        "name": "Artz Pedregal",
+        "cityId": "mexico-city",
+        "categoryId": "bars",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Artz%20Pedregal%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Artz_Pedregal",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/Artz_Pedegral5.jpg/960px-Artz_Pedegral5.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Artz_Pedregal"
+        },
+        "description": "Artz Pedregal is a mixed-use development opened on March 9, 2018 and is located along the Anillo Periférico ring road in the Pedregal de San Ángel area of southwestern Mexico City. The shopping mall focuses on luxury retailers. The project is 400,000 square metres (4,300,000 sq ft) in area: 100,000 square metres (1,100,000 sq ft) of office space, 65,000 square metres (700,000 sq ft) of commercial space and 5,000 squa",
+        "lat": 19.3135702,
+        "lng": -99.2192667
+      },
+      {
+        "id": "mexico-city-bars-7",
+        "name": "Mikhail Voronin",
+        "cityId": "mexico-city",
+        "categoryId": "bars",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Mikhail%20Voronin%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Mikhail_Voronin",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Mikhail_Voronin_1966.jpg/960px-Mikhail_Voronin_1966.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Mikhail_Voronin"
+        },
+        "description": "Mikhail Yakovlevich Voronin (Russian: Михаил Яковлевич Воронин; 26 March 1945 – 22 May 2004) was a Soviet and Russian gymnast who competed for the Soviet Union in the late 1960s and early 1970s. He won seven medals, including two gold, at the 1968 Summer Olympics, as well as two silver medals at the 1972 Summer Olympics.",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "mexico-city-bars-8",
+        "name": "Zona Rosa, Mexico City",
+        "cityId": "mexico-city",
+        "categoryId": "bars",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Zona%20Rosa%2C%20Mexico%20City%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Zona_Rosa%2C_Mexico_City",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Copenhague_Zona_Rosa_May2015.JPG/960px-Copenhague_Zona_Rosa_May2015.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Zona_Rosa%2C_Mexico_City"
+        },
+        "description": "Zona Rosa ('Pink Zone') is an area in Mexico City which is known for its shopping, nightlife, LGBT community, and its recently established Korean community. The larger official neighborhood it is part of is Colonia Juárez, located just west of the historic center of Mexico City. The area's history as a community began when it was developed as a residential district for wealthy foreigners and Mexico City residents loo",
+        "lat": 19.42579722,
+        "lng": -99.16415
+      },
+      {
+        "id": "mexico-city-bars-9",
+        "name": "Japan at the 1968 Summer Olympics",
+        "cityId": "mexico-city",
+        "categoryId": "bars",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Japan%20at%20the%201968%20Summer%20Olympics%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Japan_at_the_1968_Summer_Olympics",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_Japan_%281870%E2%80%931999%29.svg/960px-Flag_of_Japan_%281870%E2%80%931999%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Japan_at_the_1968_Summer_Olympics"
+        },
+        "description": "Japan, the previous host of the 1964 Summer Olympics in Tokyo, competed at the 1968 Summer Olympics in Mexico City, Mexico. 171 competitors, 146 men and 25 women, took part in 97 events in 18 sports.",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "mexico-city-bars-10",
+        "name": "Joe Kotys",
+        "cityId": "mexico-city",
+        "categoryId": "bars",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Joe%20Kotys%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Joe_Kotys",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Joe_Kotys_1949.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Joe_Kotys"
+        },
+        "description": "Joseph Kotys (October 31, 1925 – August 21, 2012) was an American artistic gymnast. He was a member of the United States men's national artistic gymnastics team and won a team gold medal and three individual medals at the 1955 Pan American Games. At the 1948 Summer Olympics, he placed seventh with the team and had his best individual result of twenty-third place on pommel horse.",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "mexico-city-bars-11",
+        "name": "Rubber-tyred metro",
+        "cityId": "mexico-city",
+        "categoryId": "bars",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Rubber-tyred%20metro%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Rubber-tyred_metro",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/ST_SN5000_20061102_001.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Rubber-tyred_metro"
+        },
+        "description": "A rubber-tired metro or rubber-tyred metro is a form of rapid transit system that uses a mix of road and rail technology. The vehicles have wheels with rubber tyres that run on a roll way inside guide bars for traction. Traditional, flanged steel wheels running on rail tracks provide guidance through switches and act as backup if tyres fail. Most rubber-tyred trains are purpose-built and designed for the system on wh",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "mexico-city-bars-12",
+        "name": "Cantina",
+        "cityId": "mexico-city",
+        "categoryId": "bars",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Cantina%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Cantina",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Joaqu%C3%ADn_Agrasot_-_Mosqueteros_sentados_fuera_de_una_cantina.jpg/960px-Joaqu%C3%ADn_Agrasot_-_Mosqueteros_sentados_fuera_de_una_cantina.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Cantina"
+        },
+        "description": "A cantina is a type of bar common in Latin America and Spain. The word is similar in etymology to \"canteen\", and is derived from the Italian word for a cellar, winery, or vault. In Italy, the word cantina refers to a room below the ground level where wine and other products such as salami are stored. As cantine it was used to refer to the shop of a sutler, an army camp follower.",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "mexico-city-bars-13",
+        "name": "Fosbury flop",
+        "cityId": "mexico-city",
+        "categoryId": "bars",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Fosbury%20flop%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Fosbury_flop",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/33/Fosbury_Flop_English.gif?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Fosbury_flop"
+        },
+        "description": "The Fosbury flop is a jumping style used in the track and field event of high jump. It was popularized and perfected by American athlete Dick Fosbury, whose gold medal in the 1968 Summer Olympics in Mexico City brought it to the world's attention. The flop became the dominant style of the event, surpassing the straddle technique, Western roll, Eastern cut-off, or scissors jump to clear the bar. Though the backwards f",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "mexico-city-bars-14",
+        "name": "Mongolia at the 1968 Summer Olympics",
+        "cityId": "mexico-city",
+        "categoryId": "bars",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Mongolia%20at%20the%201968%20Summer%20Olympics%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Mongolia_at_the_1968_Summer_Olympics",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Flag_of_the_Mongolian_People%27s_Republic_%281945%E2%80%931992%29.svg/960px-Flag_of_the_Mongolian_People%27s_Republic_%281945%E2%80%931992%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Mongolia_at_the_1968_Summer_Olympics"
+        },
+        "description": "Mongolia competed at the 1968 Summer Olympics in Mexico City, Mexico. 16 competitors, 12 men and 4 women, took part in 26 events in 4 sports.",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "mexico-city-bars-15",
+        "name": "Gymnastics at the 1968 Summer Olympics",
+        "cityId": "mexico-city",
+        "categoryId": "bars",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Gymnastics%20at%20the%201968%20Summer%20Olympics%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Gymnastics_at_the_1968_Summer_Olympics",
+        "photo": null,
+        "description": "At the 1968 Summer Olympics, fourteen different artistic gymnastics events were contested, eight for men and six for women. All events were held at the National Auditorium in Mexico City from October 21 through October 26.",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "mexico-city-bars-16",
+        "name": "Israel at the 1968 Summer Olympics",
+        "cityId": "mexico-city",
+        "categoryId": "bars",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Israel%20at%20the%201968%20Summer%20Olympics%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Israel_at_the_1968_Summer_Olympics",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_Israel.svg/960px-Flag_of_Israel.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Israel_at_the_1968_Summer_Olympics"
+        },
+        "description": "Israel competed at the 1968 Summer Olympics in Mexico City, Mexico. 29 competitors, 26 men and 3 women, took part in 20 events in 4 sports.",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "mexico-city-bars-17",
+        "name": "Mexico City",
+        "cityId": "mexico-city",
+        "categoryId": "bars",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Mexico%20City%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Mexico_City_(film)",
+        "photo": null,
+        "description": "Mexico City is a 2000 Canadian film directed and co-written by Richard Shepard, the story of a grieving woman searching for her brother who has gone missing on holiday in Mexico City.",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "mexico-city-bars-18",
+        "name": "1968 Summer Olympics",
+        "cityId": "mexico-city",
+        "categoryId": "bars",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=1968%20Summer%20Olympics%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/1968_Summer_Olympics",
+        "photo": null,
+        "description": "The 1968 Summer Olympics (Spanish: Juegos Olímpicos de Verano de 1968), officially known as the Games of the XIX Olympiad (Spanish: Juegos de la XIX Olimpiada) and officially branded as Mexico 1968 (Spanish: México 1968), were an international multi-sport event held from 12 to 27 October 1968, in Mexico City, Mexico. These were the first Olympic Games to be staged in Latin America, the first to be staged in a Spanish",
+        "lat": null,
+        "lng": null
+      }
+    ],
+    "coffee_shops": [
+      {
+        "id": "mexico-city-coffee_shops-1",
+        "name": "'Round About Midnight at the Cafe Bohemia",
+        "cityId": "mexico-city",
+        "categoryId": "coffee_shops",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query='Round%20About%20Midnight%20at%20the%20Cafe%20Bohemia%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/'Round_About_Midnight_at_the_Cafe_Bohemia",
+        "photo": null,
+        "description": "'Round About Midnight at the Cafe Bohemia is a live album by American jazz trumpeter Kenny Dorham recorded at the Café Bohemia on May 31, 1956, and released on Blue Note later that year.",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "mexico-city-coffee_shops-2",
+        "name": "Tenoch Huerta",
+        "cityId": "mexico-city",
+        "categoryId": "coffee_shops",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Tenoch%20Huerta%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Tenoch_Huerta",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Tenoch_Huerta_2024.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Tenoch_Huerta"
+        },
+        "description": "José Tenoch Huerta Mejía (Spanish: [teˈnotʃ ˈweɾta]; born January 29, 1981) is a Mexican actor, writer, and activist. He has appeared in a number of movies in Latin America and Spain, and has had a starring role in the crime drama Narcos: Mexico (2018–2020). He has since portrayed Namor in the Marvel Cinematic Universe (MCU) film Black Panther: Wakanda Forever (2022) and will reprise his role in the upcoming film Ave",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "mexico-city-coffee_shops-3",
+        "name": "Valle Gómez metro station",
+        "cityId": "mexico-city",
+        "categoryId": "coffee_shops",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Valle%20G%C3%B3mez%20metro%20station%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Valle_G%C3%B3mez_metro_station",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/Metro_Valle_Gomez_01.jpg/960px-Metro_Valle_Gomez_01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Valle_G%C3%B3mez_metro_station"
+        },
+        "description": "Valle Gómez metro station is a station of the Mexico City Metro in the city's boroughs of Gustavo A. Madero and Venustiano Carranza. It is an underground railway stop with two side platforms serving Line 5 (Yellow Line), between Misterios and Consulado. It was opened on 1 July 1982, providing service north toward La Raza and east toward Pantitlán station. Valle Gómez metro station services the colonias (neighborhoods",
+        "lat": 19.458742,
+        "lng": -99.119296
+      },
+      {
+        "id": "mexico-city-coffee_shops-4",
+        "name": "Zaragoza metro station",
+        "cityId": "mexico-city",
+        "categoryId": "coffee_shops",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Zaragoza%20metro%20station%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Zaragoza_metro_station_(Mexico_City)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Metro_Zaragoza_%282026%29_10.jpg/960px-Metro_Zaragoza_%282026%29_10.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Zaragoza_metro_station_(Mexico_City)"
+        },
+        "description": "Zaragoza metro station is a station of the Mexico City Metro in the city's borough of Venustiano Carranza. It is an underground stop with two side platforms serving Line 1 (Pink Line) between Gómez Farías and Pantitlán. It was inaugurated on 4 September 1969, and opened the following day, as the eastern terminal of the line, providing service west toward Chapultepec station. An eastward expansion toward Pantitlán sta",
+        "lat": 19.412344,
+        "lng": -99.08241
+      },
+      {
+        "id": "mexico-city-coffee_shops-5",
+        "name": "Okupa Che",
+        "cityId": "mexico-city",
+        "categoryId": "coffee_shops",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Okupa%20Che%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Okupa_Che",
+        "photo": null,
+        "description": "Okupa Che is an anarchist self-managed social centre on the campus of the National Autonomous University of Mexico (UNAM) in Mexico City, Mexico. After the 1999–2000 UNAM strike, participants squatted the Justo Sierra auditorium and offices in the Facultad de Filosofía y Letras (School of Philosophy and Letters) on 4 September 2000. The centre self-organises an infoshop, vegetarian cafe, library, summer school and va",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "mexico-city-coffee_shops-6",
+        "name": "Café Tacuba",
+        "cityId": "mexico-city",
+        "categoryId": "coffee_shops",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Caf%C3%A9%20Tacuba%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Caf%C3%A9_Tacuba",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/Cafe_Tacuba_1.jpg/960px-Cafe_Tacuba_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Caf%C3%A9_Tacuba"
+        },
+        "description": "Café Tacuba (Spanish pronunciation: [kaˈfe taˈkuβa]) (stylized as Café Tacvba) is a Mexican rock band formed in 1989 in Naucalpan de Juárez, State of Mexico. The group gained popularity in the early 1990s. They were founded in 1989, before they had the current lineup of Rubén Isaac Albarrán Ortega (lead vocals, rhythm guitar), Emmanuel del Real Díaz (keyboards, piano, programming, rhythm guitar, melodica, vocals), Jo",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "mexico-city-coffee_shops-7",
+        "name": "Café de olla",
+        "cityId": "mexico-city",
+        "categoryId": "coffee_shops",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Caf%C3%A9%20de%20olla%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Caf%C3%A9_de_olla",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Caf%C3%A9_de_olla.jpg/960px-Caf%C3%A9_de_olla.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Caf%C3%A9_de_olla"
+        },
+        "description": "Café de olla (lit. 'pot coffee') is a traditional Mexican coffee beverage. To prepare café de olla, it is essential to use a traditional earthen clay pot, as this gives a special flavor to the coffee. This type of coffee is principally consumed in cold climates and in rural areas. In Mexico, a basic café de olla is made with ground coffee, cinnamon and piloncillo. Optional ingredients include orange peel, anise and c",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "mexico-city-coffee_shops-8",
+        "name": "Centro Cultural de España, Mexico City",
+        "cityId": "mexico-city",
+        "categoryId": "coffee_shops",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Centro%20Cultural%20de%20Espa%C3%B1a%2C%20Mexico%20City%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Centro_Cultural_de_Espa%C3%B1a%2C_Mexico_City",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Spanish_Cultural_Center%2C_Mexico_City%2C_Donceles_entrance.jpg/960px-Spanish_Cultural_Center%2C_Mexico_City%2C_Donceles_entrance.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Centro_Cultural_de_Espa%C3%B1a%2C_Mexico_City"
+        },
+        "description": "The Centro Cultural de España (Cultural Center of Spain in Mexico) is located at 18 Guatemala Street in the historic center of Mexico City. In the late 1990s, this old mansion just behind the Cathedral was in ruins when the Mexico City government ceded it to the Spanish government. When restoration work was finished, the new Centro Cultural de España was inaugurated by the king of Spain with the president of Mexico i",
+        "lat": 19.43499722,
+        "lng": -99.13263333
+      },
+      {
+        "id": "mexico-city-coffee_shops-9",
+        "name": "Tasqueña metro station",
+        "cityId": "mexico-city",
+        "categoryId": "coffee_shops",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Tasque%C3%B1a%20metro%20station%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Tasque%C3%B1a_metro_station",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/Metro_Tasquena_Platforms.jpg/960px-Metro_Tasquena_Platforms.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Tasque%C3%B1a_metro_station"
+        },
+        "description": "Tasqueña metro station, alternatively spelled Taxqueña, is a station on the Mexico City Metro in the city's borough of Coyoacán. It is an at-grade railway stop with two side platforms serving Line 2 (Blue Line). It serves as the southern terminus of the line, and is followed by General Anaya station. Tasqueña was opened on 1 August 1970, providing service north toward Pino Suárez. The station is situated adjacent to ",
+        "lat": 19.344168,
+        "lng": -99.142685
+      },
+      {
+        "id": "mexico-city-coffee_shops-10",
+        "name": "Tláhuac metro station",
+        "cityId": "mexico-city",
+        "categoryId": "coffee_shops",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Tl%C3%A1huac%20metro%20station%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Tl%C3%A1huac_metro_station",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Estaci%C3%B3n_del_STC_Metro.jpg/960px-Estaci%C3%B3n_del_STC_Metro.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Tl%C3%A1huac_metro_station"
+        },
+        "description": "Tláhuac metro station is a station of the Mexico City Metro in the colonia of El Triángulo, Tláhuac, Mexico City. It is an at-grade station with two island platforms that serves as the southern terminus of Line 12 (the Golden Line). The station's pictogram features the glyph of Tláhuac. It is followed by Tlaltenco station, in the same borough. The station was opened on 30 October 2012, on the first day of the service",
+        "lat": 19.28638889,
+        "lng": -99.01416667
+      },
+      {
+        "id": "mexico-city-coffee_shops-11",
+        "name": "Rubén Albarrán",
+        "cityId": "mexico-city",
+        "categoryId": "coffee_shops",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Rub%C3%A9n%20Albarr%C3%A1n%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Rub%C3%A9n_Albarr%C3%A1n",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Rub%C3%A9n_Albarr%C3%A1n.jpg/960px-Rub%C3%A9n_Albarr%C3%A1n.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Rub%C3%A9n_Albarr%C3%A1n"
+        },
+        "description": "Rubén Isaac Albarrán Ortega (born February 1, 1967) is a Mexican musician and a member and founder of the alternative rock band Café Tacvba. As singer and frontman of Café Tacvba, the artist has characterized himself by his energetic attitude onstage and for presenting himself as different characters and aliases throughout his career. He started in music in the 1980s in the suburbs of Mexico City, forming Cafe Tacvba",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "mexico-city-coffee_shops-12",
+        "name": "Vive Latino",
+        "cityId": "mexico-city",
+        "categoryId": "coffee_shops",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Vive%20Latino%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Vive_Latino",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e5/VicenticoVL05.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Vive_Latino"
+        },
+        "description": "Vive Latino - Festival Iberoamericano de Cultura Musical, known for sponsorship reasons as Amazon Vive Latino, is an annual music festival held in Mexico City. It is one of the most important music festivals in Mexico, featuring a great variety of groups of many genres. The event takes place at Estadio GNP Seguros at the Autodromo Hermanos Rodriguez usually in the months of March and April. The duration of the festiv",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "mexico-city-coffee_shops-13",
+        "name": "Como dice el dicho",
+        "cityId": "mexico-city",
+        "categoryId": "coffee_shops",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Como%20dice%20el%20dicho%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Como_dice_el_dicho",
+        "photo": null,
+        "description": "Como dice el dicho (translation: As the saying goes) is a Mexican anthology drama series produced by Genoveva Martínez for Televisa. The series premiered on 1 February 2011, on Las Estrellas. The series covers a variety of stories in which a proverb (usually of Mexican origin) is selected for each episode and applied to real-life situations such as family violence, economic crisis, personal growth, the dignity of wom",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "mexico-city-coffee_shops-14",
+        "name": "Franz Mayer Museum",
+        "cityId": "mexico-city",
+        "categoryId": "coffee_shops",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Franz%20Mayer%20Museum%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Franz_Mayer_Museum",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/CourtyardFranzMayer.JPG/960px-CourtyardFranzMayer.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Franz_Mayer_Museum"
+        },
+        "description": "The Franz Mayer Museum (Spanish: Museo Franz Mayer), in Mexico City opened in 1986 to house, display and maintain Latin America’s largest collection of decorative arts. The collection was amassed by stockbroker and financial professional Franz Mayer, who collected fine artworks, books, furniture, ceramics, textiles and many other types of decorative items over fifty years of his life. A large portion comes from Europ",
+        "lat": 19.43711389,
+        "lng": -99.1432
+      },
+      {
+        "id": "mexico-city-coffee_shops-15",
+        "name": "Zócalo/Tenochtitlan metro station",
+        "cityId": "mexico-city",
+        "categoryId": "coffee_shops",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Z%C3%B3calo%2FTenochtitlan%20metro%20station%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Z%C3%B3calo%2FTenochtitlan_metro_station",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/Metro_Z%C3%B3calo_Tenochtitlan_-_02_-_Torniquetes.jpg/960px-Metro_Z%C3%B3calo_Tenochtitlan_-_02_-_Torniquetes.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Z%C3%B3calo%2FTenochtitlan_metro_station"
+        },
+        "description": "Zócalo/Tenochtitlan metro station is a station on the Mexico City Metro in the historic center of the city, in the Cuauhtémoc borough. It is an underground station with two side platforms, serving Line 2 (Blue Line) between Allende and Pino Suárez stations. Zócalo/Tenochtitlan metro station is located in the heart of downtown Mexico City, near the National Palace, the Metropolitan Cathedral, and the archaeological re",
+        "lat": 19.433248,
+        "lng": -99.1329
+      },
+      {
+        "id": "mexico-city-coffee_shops-16",
+        "name": "Chabacano metro station",
+        "cityId": "mexico-city",
+        "categoryId": "coffee_shops",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Chabacano%20metro%20station%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Chabacano_metro_station",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Estaci%C3%B3n_Chabacano_L%C3%ADnea_2_02.jpg/960px-Estaci%C3%B3n_Chabacano_L%C3%ADnea_2_02.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Chabacano_metro_station"
+        },
+        "description": "Chabacano metro station is a transfer station on the Mexico City Metro in Cuauhtémoc, Mexico City. Chabacano is a combined underground and at-grade station divided into three lines, each with two side platforms and one island platform, employing the Spanish solution layout. It serves Lines 2 (Blue Line), 8 (Green Line), and 9 (Brown Line). Chabacano metro station is located between San Antonio Abad and Viaducto stati",
+        "lat": 19.40916667,
+        "lng": -99.13555556
+      },
+      {
+        "id": "mexico-city-coffee_shops-17",
+        "name": "Miss México Organization",
+        "cityId": "mexico-city",
+        "categoryId": "coffee_shops",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Miss%20M%C3%A9xico%20Organization%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Miss_M%C3%A9xico_Organization",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Miss_Mexico%2C_Vanessa_Ponce_in_2018.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Miss_M%C3%A9xico_Organization"
+        },
+        "description": "Miss México is a national beauty pageant in Mexico. It selects contestants for Miss World, Miss Supranational, Miss Cosmo and Top Model of the World. In association with Telemax and Televisa, the pageant is directed by Hugo Castellanos. It has 32 contestants from 31 states and Mexico D.F. who compete for the title of Miss México or Miss World Mexico. The 2016 winner was crowned in the Teatro José María Morelos in Mor",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "mexico-city-coffee_shops-18",
+        "name": "Cuatro Caminos metro station",
+        "cityId": "mexico-city",
+        "categoryId": "coffee_shops",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Cuatro%20Caminos%20metro%20station%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Cuatro_Caminos_metro_station_(Naucalpan)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/Andenes_de_la_estaci%C3%B3n_Cuatro_Caminos_del_Metro_de_la_Ciudad_de_M%C3%A9xico_-_panoramio.jpg/960px-Andenes_de_la_estaci%C3%B3n_Cuatro_Caminos_del_Metro_de_la_Ciudad_de_M%C3%A9xico_-_panoramio.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Cuatro_Caminos_metro_station_(Naucalpan)"
+        },
+        "description": "Cuatro Caminos (translated from Spanish the name literally means \"Four Roads\") is a station of the Mexico City metro network. Colloquially known as \"Metro Toreo\", it is the north terminus of Line 2. The adjacent Mexipuerto Cementos Fortaleza Cuatro Caminos mixed-use development opened in 2016 and houses, besides a shopping center, residential tower and sports facility, a bus terminal that is a hub for regional bus an",
+        "lat": 19.459592,
+        "lng": -99.215899
+      }
+    ],
+    "bookshops": [
+      {
+        "id": "mexico-city-bookshops-1",
+        "name": "Gandhi",
+        "cityId": "mexico-city",
+        "categoryId": "bookshops",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Gandhi%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Gandhi_(bookstore)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Wikimania_Mexico_City_20.07.2015_12-00-53.JPG/960px-Wikimania_Mexico_City_20.07.2015_12-00-53.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Gandhi_(bookstore)"
+        },
+        "description": "Librerías Gandhi (Gandhi Bookstores) is a bookstore chain in Mexico. They were created in 1971 and are one of the biggest bookstore chains in Mexico. After 55 years they now have more than 50 stores all over the country. The public that comes to the bookstores are mostly students, teachers, young adults, professionals, and anyone interested in culture and looking for information or entertainment.",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "mexico-city-bookshops-2",
+        "name": "Librería Porrúa",
+        "cityId": "mexico-city",
+        "categoryId": "bookshops",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Librer%C3%ADa%20Porr%C3%BAa%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Librer%C3%ADa_Porr%C3%BAa",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/PorruaBookstoreRepArgJusSierra.JPG/960px-PorruaBookstoreRepArgJusSierra.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Librer%C3%ADa_Porr%C3%BAa"
+        },
+        "description": "Librería Porrúa Hermanos y Compañía S.A. de C.V. is a bookseller and publishing company in Mexico, and is one of the longest-established businesses operating in the Mexican book trade. The Porrúa name has been associated with books and publishing since the beginning of the 20th century, through its flagship Librería Porrúa bookstore in Mexico City and subsidiary stores throughout the country, and the company's renown",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "mexico-city-bookshops-3",
+        "name": "Casa Lamm",
+        "cityId": "mexico-city",
+        "categoryId": "bookshops",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Casa%20Lamm%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Casa_Lamm",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/ArtGalleryRomaDF.JPG/960px-ArtGalleryRomaDF.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Casa_Lamm"
+        },
+        "description": "The Casa Lamm Cultural Center was built in the early 20th century when Colonia Roma was a new neighborhood for the wealthy leaving the historic center of Mexico City. In the 1990s the house was restored, and since 1994 it hosts exhibits as well as offering classes in art and literature.",
+        "lat": 19.41855556,
+        "lng": -99.15957222
+      },
+      {
+        "id": "mexico-city-bookshops-4",
+        "name": "Fondo de Cultura Económica",
+        "cityId": "mexico-city",
+        "categoryId": "bookshops",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Fondo%20de%20Cultura%20Econ%C3%B3mica%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Fondo_de_Cultura_Econ%C3%B3mica",
+        "photo": null,
+        "description": "Fondo de Cultura Económica (FCE or simply \"Fondo\") is a Spanish language, non-profit publishing group, partly funded by the Mexican government. It is based in Mexico but it has subsidiaries throughout the Spanish-speaking world. It was founded in 1934 by Daniel Cosío Villegas with the original purpose of providing students of economics from the Escuela Nacional de Economía with specialized books in Spanish. Soon, it ",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "mexico-city-bookshops-5",
+        "name": "Salvador Borrego",
+        "cityId": "mexico-city",
+        "categoryId": "bookshops",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Salvador%20Borrego%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Salvador_Borrego",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/81/Salvador_Borrego.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Salvador_Borrego"
+        },
+        "description": "Salvador Borrego Escalante (24 April 1915 – 8 January 2018) was a Mexican journalist and historical revisionist writer. He published fifty-three books in fields such as military history, politics, economics, journalism, philosophy and religion. His work bore heavy criticism and he has been accused of antisemitism because he places international Jewish capital and Zionist ideology as the cause of World War II. Borrego",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "mexico-city-bookshops-6",
+        "name": "House of the First Print Shop in the Americas",
+        "cityId": "mexico-city",
+        "categoryId": "bookshops",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=House%20of%20the%20First%20Print%20Shop%20in%20the%20Americas%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/House_of_the_First_Print_Shop_in_the_Americas",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/CasaImprentaDF.JPG/960px-CasaImprentaDF.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/House_of_the_First_Print_Shop_in_the_Americas"
+        },
+        "description": "The House of the First Printing Press in the Americas (Spanish: Casa de la Primera Imprenta de América) at the corner of Moneda and Licenciado Primo Verdad streets in Mexico City was the home of the first printing press/print shop in the New World. The printer Juan Pablos oversaw the printing of at least 35 books at this print shop between 1539, the date of the first book printed in the Americas, and his death in 156",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "mexico-city-bookshops-7",
+        "name": "Colonia Roma",
+        "cityId": "mexico-city",
+        "categoryId": "bookshops",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Colonia%20Roma%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Colonia_Roma",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/Plaza_R%C3%ADo_de_Janeiro_Colonia_Roma.JPG/960px-Plaza_R%C3%ADo_de_Janeiro_Colonia_Roma.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Colonia_Roma"
+        },
+        "description": "Colonia Roma, also called La Roma or simply, Roma, is a district located in the Cuauhtémoc borough of Mexico City just west of the city's historic center. The area comprises two colonias: Roma Norte and Roma Sur, divided by Coahuila street. The colonia was originally planned as an upper-class Porfirian neighborhood in the early twentieth century. By the 1940s, it had become a middle-class neighborhood in slow decline",
+        "lat": 19.41191667,
+        "lng": -99.15958333
+      },
+      {
+        "id": "mexico-city-bookshops-8",
+        "name": "Víctor Celorio",
+        "cityId": "mexico-city",
+        "categoryId": "bookshops",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=V%C3%ADctor%20Celorio%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/V%C3%ADctor_Celorio",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Inventor_Victor_Celorio_in_Gainesville_2009.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/V%C3%ADctor_Celorio"
+        },
+        "description": "Víctor Manuel Celorio Celorio (born July 27, 1957, in Mexico City) is a Mexican-American author, entrepreneur, inventor, and former union organizer. He is best known as the inventor of InstaBook, a digital printing technology. He resides and works in Gainesville, Florida.",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "mexico-city-bookshops-9",
+        "name": "Universidad Iberoamericana",
+        "cityId": "mexico-city",
+        "categoryId": "bookshops",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Universidad%20Iberoamericana%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Universidad_Iberoamericana",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Logo_Universidad_Iberoamericana.svg/960px-Logo_Universidad_Iberoamericana.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Universidad_Iberoamericana"
+        },
+        "description": "The Universidad Iberoamericana, commonly known as La Ibero and abbreviated as UIA, is a private Catholic Mexican higher education institution sponsored by the Mexican Province of the Society of Jesus (Jesuits). In 2009, UIA received the SEP-ANUIES Prize as the best private university in Mexico. The university's flagship campus is located in the Santa Fe district of Mexico City. Its main library, Biblioteca Francisco ",
+        "lat": 19.36972222,
+        "lng": -99.26388889
+      },
+      {
+        "id": "mexico-city-bookshops-10",
+        "name": "Coyoacán",
+        "cityId": "mexico-city",
+        "categoryId": "bookshops",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Coyoac%C3%A1n%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Coyoac%C3%A1n",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Puerta_a_Coyoac%C3%A1n.JPG/960px-Puerta_a_Coyoac%C3%A1n.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Coyoac%C3%A1n"
+        },
+        "description": "Coyoacán (US: KOY-oh-ə-KAHN; Spanish: [koʝoaˈkan] , Otomí: Ndemiñ'yo) is a borough (demarcación territorial) in Mexico City. The former village became the borough's \"historic center\". The name comes from Nahuatl Coyōhuahcān, composed of coyōhuah ('one who has coyotes') and -cān ('place'), and therefore means 'place of those who own coyotes', which the Aztecs named a pre-Hispanic village on the southern shore of Lake ",
+        "lat": 19.35,
+        "lng": -99.16222222
+      },
+      {
+        "id": "mexico-city-bookshops-11",
+        "name": "Tecnológico de Monterrey, Campus Santa Fe",
+        "cityId": "mexico-city",
+        "categoryId": "bookshops",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Tecnol%C3%B3gico%20de%20Monterrey%2C%20Campus%20Santa%20Fe%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Tecnol%C3%B3gico_de_Monterrey%2C_Campus_Santa_Fe",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/CampusSantaFe021.JPG/960px-CampusSantaFe021.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Tecnol%C3%B3gico_de_Monterrey%2C_Campus_Santa_Fe"
+        },
+        "description": "The Monterrey Institute of Technology and Higher Education, Santa Fe Campus (in Spanish: Instituto Tecnológico y de Estudios Superiores de Monterrey, Campus Santa Fe) commonly shortened as Tecnológico de Monterrey, Campus Santa Fe, ITESM Campus Santa Fe or Tec Santa Fe, is a campus of the Monterrey Institute of Technology and Higher Education private university system in Santa Fe, Mexico City, Mexico. It provides pro",
+        "lat": 19.3545,
+        "lng": -99.27227222
+      },
+      {
+        "id": "mexico-city-bookshops-12",
+        "name": "Luis Abadiano",
+        "cityId": "mexico-city",
+        "categoryId": "bookshops",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Luis%20Abadiano%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Luis_Abadiano",
+        "photo": null,
+        "description": "Luis Abadiano y Valdés (born José María Ygnacio Luis Obispo Sotero Gonzaga Abadiano y Valdés; baptised 22 April 1789 – 11 October 1854) was a Mexican printer and publisher in Mexico City, one in a long line of printers, publishers, booksellers and book collectors traceable back to the famous Humanist and bibliographer Juan José de Eguiara y Eguren, founder of the printing house Biblioteca Mexicana (Mexican Library) i",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "mexico-city-bookshops-13",
+        "name": "Zócalo/Tenochtitlan metro station",
+        "cityId": "mexico-city",
+        "categoryId": "bookshops",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Z%C3%B3calo%2FTenochtitlan%20metro%20station%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Z%C3%B3calo%2FTenochtitlan_metro_station",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/Metro_Z%C3%B3calo_Tenochtitlan_-_02_-_Torniquetes.jpg/960px-Metro_Z%C3%B3calo_Tenochtitlan_-_02_-_Torniquetes.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Z%C3%B3calo%2FTenochtitlan_metro_station"
+        },
+        "description": "Zócalo/Tenochtitlan metro station is a station on the Mexico City Metro in the historic center of the city, in the Cuauhtémoc borough. It is an underground station with two side platforms, serving Line 2 (Blue Line) between Allende and Pino Suárez stations. Zócalo/Tenochtitlan metro station is located in the heart of downtown Mexico City, near the National Palace, the Metropolitan Cathedral, and the archaeological re",
+        "lat": 19.433248,
+        "lng": -99.1329
+      },
+      {
+        "id": "mexico-city-bookshops-14",
+        "name": "Museum of Mexico City",
+        "cityId": "mexico-city",
+        "categoryId": "bookshops",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Museum%20of%20Mexico%20City%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Museum_of_Mexico_City",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/Museo_de_la_Ciudad_de_M%C3%A9xico._Fotograf%C3%ADa_Viviana_Mart%C3%ADnez_2017.jpg/960px-Museo_de_la_Ciudad_de_M%C3%A9xico._Fotograf%C3%ADa_Viviana_Mart%C3%ADnez_2017.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Museum_of_Mexico_City"
+        },
+        "description": "The Museum of Mexico City (Spanish: Museo de la Ciudad de Mexico) is located at Pino Suarez 30, a few blocks south of the Zocalo, on what was the Iztapalapa Causeway, near where Hernán Cortés and Moctezuma II met for the first time. This building used to be the palace of the Counts of Santiago de Calimaya, who were the descendants of one of the conquistadors with Cortés. The house was extensively remodeled during the",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "mexico-city-bookshops-15",
+        "name": "Pablo Helguera",
+        "cityId": "mexico-city",
+        "categoryId": "bookshops",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Pablo%20Helguera%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Pablo_Helguera",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Pablo_Helguera_Nuevo_Romancero_at_Kent_Fine_Art_March_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Pablo_Helguera"
+        },
+        "description": "Pablo Helguera (born April 25, 1971, Mexico City) is an artist, performer, author, and educator. From 2007 to 2020 he was director of adult and academic programs at the Museum of Modern Art in New York City. He currently is an assistant professor at The New School College of Performing Arts.",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "mexico-city-bookshops-16",
+        "name": "Ciudad Nezahualcóyotl",
+        "cityId": "mexico-city",
+        "categoryId": "bookshops",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Ciudad%20Nezahualc%C3%B3yotl%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Ciudad_Nezahualc%C3%B3yotl",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/PalacioMunicipalCdNeza.JPG/960px-PalacioMunicipalCdNeza.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Ciudad_Nezahualc%C3%B3yotl"
+        },
+        "description": "Ciudad Nezahualcóyotl (Spanish pronunciation: [sjuˈðað nesawalˈkoʝotl], Nahuatl for 'fasting coyote'), or more commonly Neza, is a city and municipal seat of the municipality of Nezahualcóyotl in Mexico. It is located in the state of Mexico, adjacent to the east side of Mexico City. The municipality comprises its own intrastate region, Region IX (Mexico State). It was named after Nezahualcoyotl, the Acolhua poet and ",
+        "lat": 19.40805556,
+        "lng": -99.01861111
+      },
+      {
+        "id": "mexico-city-bookshops-17",
+        "name": "Condesa",
+        "cityId": "mexico-city",
+        "categoryId": "bookshops",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Condesa%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Condesa",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/Fountain_at_Plaza_Popcat%C3%A9petl%2C_col._Hip%C3%B3dromo%2C_Condesa%2C_Mexico_City.JPG/960px-Fountain_at_Plaza_Popcat%C3%A9petl%2C_col._Hip%C3%B3dromo%2C_Condesa%2C_Mexico_City.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Condesa"
+        },
+        "description": "Condesa or La Condesa is an area in the Cuauhtémoc borough of Mexico City, south of Zona Rosa and 4 to 5 km west of the Zócalo, the city's main square. It is immediately west of Colonia Roma, together with which it is designated as a \"Barrio Mágico Turístico\" (\"Touristic Magic Neighborhood\"). Together they are often referred to as Condesa–Roma, one of the most architecturally significant areas of the city and a basti",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "mexico-city-bookshops-18",
+        "name": "Josefina Zoraida Vázquez",
+        "cityId": "mexico-city",
+        "categoryId": "bookshops",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Josefina%20Zoraida%20V%C3%A1zquez%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Josefina_Zoraida_V%C3%A1zquez",
+        "photo": null,
+        "description": "Josefina Zoraida Vázquez (born 21 March 1932 in Mexico City) is a noted Mexican historian, considered the Mexican expert on the Mexican–American War.",
+        "lat": null,
+        "lng": null
+      }
+    ],
+    "museums": [
+      {
+        "id": "mexico-city-museums-1",
+        "name": "Mexico City",
+        "cityId": "mexico-city",
+        "categoryId": "museums",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Mexico%20City%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Mexico_City",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Sobrevuelos_CDMX_HJ2A4913_%2825514321687%29_%28cropped%29.jpg/960px-Sobrevuelos_CDMX_HJ2A4913_%2825514321687%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Mexico_City"
+        },
+        "description": "Mexico City (often shortened as CDMX) is the capital and largest city of Mexico, as well as the most populous city in North America. It is one of the world's leading cultural and financial centers and, according to the Globalization and World Cities Research Network's 2024 ranking, is classified as an Alpha world city. Located in the Valley of Mexico on the high Mexican Central Plateau, the city sits at an altitude o",
+        "lat": 19.43333333,
+        "lng": -99.13333333
+      },
+      {
+        "id": "mexico-city-museums-2",
+        "name": "Museo Nacional de Arte",
+        "cityId": "mexico-city",
+        "categoryId": "museums",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Museo%20Nacional%20de%20Arte%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Museo_Nacional_de_Arte",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/MUNAL.jpg/960px-MUNAL.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Museo_Nacional_de_Arte"
+        },
+        "description": "The Museo Nacional de Arte (MUNAL) (English: National Museum of Art) is the Mexican national art museum, located in the historical center of Mexico City. The museum is housed in a neoclassical building at No. 8 Tacuba, Col. Centro, Mexico City. It includes a large collection representing the history of Mexican art from the mid-sixteenth century to the mid 20th century. It is recognizable by Manuel Tolsá's large eques",
+        "lat": 19.43638889,
+        "lng": -99.13944444
+      },
+      {
+        "id": "mexico-city-museums-3",
+        "name": "Museo de Arte Popular",
+        "cityId": "mexico-city",
+        "categoryId": "museums",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Museo%20de%20Arte%20Popular%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Museo_de_Arte_Popular",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/BuildingMAPDF02.jpg/960px-BuildingMAPDF02.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Museo_de_Arte_Popular"
+        },
+        "description": "The Museo de Arte Popular (Museum of Folk Art) is a museum in Mexico City, Mexico, that promotes and preserves part of the Mexican handcrafts and folk art. Located in the historic center of Mexico City in an old fire house, the museum has a collection which includes textiles, pottery, glass, piñatas, alebrijes, furniture and much more. However, the museum is best known as the sponsor of the yearly Noche de Alebrijes ",
+        "lat": 19.433825,
+        "lng": -99.14634444
+      },
+      {
+        "id": "mexico-city-museums-4",
+        "name": "Museo de Arte Moderno",
+        "cityId": "mexico-city",
+        "categoryId": "museums",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Museo%20de%20Arte%20Moderno%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Museo_de_Arte_Moderno",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Museo_de_Arte_Moderno_DSC0023_%2835557149325%29.jpg/960px-Museo_de_Arte_Moderno_DSC0023_%2835557149325%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Museo_de_Arte_Moderno"
+        },
+        "description": "The Museo de Arte Moderno (MAM) is a museum dedicated to modern Mexican art located in Chapultepec Park in Mexico City. The museum is part of the Instituto Nacional de Bellas Artes y Literatura and provides exhibitions of national and international contemporary artists. The museum also hosts a permanent collection of art from Remedios Varo, Gelsen Gas, Frida Kahlo, Olga Costa, Diego Rivera, David Alfaro Siqueiros, Jo",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "mexico-city-museums-5",
+        "name": "Museum of Mexico City",
+        "cityId": "mexico-city",
+        "categoryId": "museums",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Museum%20of%20Mexico%20City%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Museum_of_Mexico_City",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/Museo_de_la_Ciudad_de_M%C3%A9xico._Fotograf%C3%ADa_Viviana_Mart%C3%ADnez_2017.jpg/960px-Museo_de_la_Ciudad_de_M%C3%A9xico._Fotograf%C3%ADa_Viviana_Mart%C3%ADnez_2017.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Museum_of_Mexico_City"
+        },
+        "description": "The Museum of Mexico City (Spanish: Museo de la Ciudad de Mexico) is located at Pino Suarez 30, a few blocks south of the Zocalo, on what was the Iztapalapa Causeway, near where Hernán Cortés and Moctezuma II met for the first time. This building used to be the palace of the Counts of Santiago de Calimaya, who were the descendants of one of the conquistadors with Cortés. The house was extensively remodeled during the",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "mexico-city-museums-6",
+        "name": "Diego Rivera",
+        "cityId": "mexico-city",
+        "categoryId": "museums",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Diego%20Rivera%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Diego_Rivera",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Diego_Rivera_-_Google_Art_Project_%28cropped%29.jpg/960px-Diego_Rivera_-_Google_Art_Project_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Diego_Rivera"
+        },
+        "description": "Diego María de la Concepción Juan Nepomuceno Estanislao de la Rivera y Barrientos Acosta y Rodríguez (Spanish pronunciation: [ˈdjeɣo riˈβeɾa]; December 8, 1886 – November 24, 1957) was a Mexican painter. His large frescoes helped establish the mural movement in Mexican and international art. Between 1922 and 1953, Rivera painted murals in, among other places, Mexico City, Chapingo, and Cuernavaca in Mexico, and San F",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "mexico-city-museums-7",
+        "name": "Chapultepec Castle",
+        "cityId": "mexico-city",
+        "categoryId": "museums",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Chapultepec%20Castle%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Chapultepec_Castle",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Chapultepec_Castle_Mexico_City.webp/960px-Chapultepec_Castle_Mexico_City.webp?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Chapultepec_Castle"
+        },
+        "description": "Chapultepec Castle (Spanish: Castillo de Chapultepec) is located on top of Chapultepec Hill in Mexico City's Chapultepec park. The name Chapultepec is the Nahuatl word chapoltepēc which means \"on the hill of the grasshopper\". It is located at the entrance to Chapultepec park, at a height of 2,325 metres (7,628 ft) above sea level. The site of the hill was a sacred place for Aztecs, and the buildings atop it have serv",
+        "lat": 19.42055556,
+        "lng": -99.18166667
+      },
+      {
+        "id": "mexico-city-museums-8",
+        "name": "San Pedro y San Pablo College, Mexico City",
+        "cityId": "mexico-city",
+        "categoryId": "museums",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=San%20Pedro%20y%20San%20Pablo%20College%2C%20Mexico%20City%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/San_Pedro_y_San_Pablo_College%2C_Mexico_City",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/FacadeMuseoLuzDF.JPG/960px-FacadeMuseoLuzDF.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/San_Pedro_y_San_Pablo_College%2C_Mexico_City"
+        },
+        "description": "The San Pedro y San Pablo College is a colonial church located in the historical center of Mexico City, Mexico. Today the church section of the complex houses the Museum of the Constitutions of Mexico−Museo de las Constituciones. The former school section of the complex stretches along San Ildefonso Street to Republica de Venezuela Street.",
+        "lat": 19.43655556,
+        "lng": -99.12932778
+      },
+      {
+        "id": "mexico-city-museums-9",
+        "name": "Museo Soumaya",
+        "cityId": "mexico-city",
+        "categoryId": "museums",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Museo%20Soumaya%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Museo_Soumaya",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Museo_Soumaya%2C_Ciudad_de_M%C3%A9xico%2C_M%C3%A9xico%2C_2015-07-18%2C_DD_12.JPG/960px-Museo_Soumaya%2C_Ciudad_de_M%C3%A9xico%2C_M%C3%A9xico%2C_2015-07-18%2C_DD_12.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Museo_Soumaya"
+        },
+        "description": "The Museo Soumaya is a private museum in Mexico City and a non-profit cultural institution with two museum buildings in Mexico City — Plaza Loreto opened in 1994 and Plaza Carso opened in 2011. It has over 66,000 works from 30 centuries of art including sculptures from Pre-Hispanic Mesoamerica, 19th- and 20th-century Mexican art and an extensive repertoire of works by European old masters and masters of modern wester",
+        "lat": 19.4407,
+        "lng": -99.2046
+      },
+      {
+        "id": "mexico-city-museums-10",
+        "name": "Historic center of Mexico City",
+        "cityId": "mexico-city",
+        "categoryId": "museums",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Historic%20center%20of%20Mexico%20City%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Historic_center_of_Mexico_City",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Z%C3%B3calo_cdmx.jpg/960px-Z%C3%B3calo_cdmx.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Historic_center_of_Mexico_City"
+        },
+        "description": "The historic center of Mexico City (Spanish: Centro Histórico de la Ciudad de México), also known as the Centro or Centro Histórico, is the central neighborhood in Mexico City, Mexico, focused on the Zócalo (or main plaza) and extending in all directions for a number of blocks, with its farthest extent being west to the Alameda Central. The Zocalo is the largest plaza in Latin America; it can hold up to nearly 100,00",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "mexico-city-museums-11",
+        "name": "Museo Rufino Tamayo, Mexico City",
+        "cityId": "mexico-city",
+        "categoryId": "museums",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Museo%20Rufino%20Tamayo%2C%20Mexico%20City%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Museo_Rufino_Tamayo%2C_Mexico_City",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Museo_Rufino_Tamayo_-_Mexico_2024.jpg/960px-Museo_Rufino_Tamayo_-_Mexico_2024.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Museo_Rufino_Tamayo%2C_Mexico_City"
+        },
+        "description": "Museo Rufino Tamayo is a public contemporary art museum located in Mexico City's Chapultepec Park, that produces contemporary art exhibitions, using its collection of modern and contemporary art, as well as artworks from the collection of its founder, the artist Rufino Tamayo. The museum building was designed by Mexican architects Teodoro González de León and Abraham Zabludovsky. Both received the National Award of S",
+        "lat": 19.42571944,
+        "lng": -99.18184444
+      },
+      {
+        "id": "mexico-city-museums-12",
+        "name": "Caricature Museum, Mexico City",
+        "cityId": "mexico-city",
+        "categoryId": "museums",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Caricature%20Museum%2C%20Mexico%20City%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Caricature_Museum%2C_Mexico_City",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/Museo_de_la_Caricatura_-_Ex-Colegio_de_Cristo_-_Mexico_2024.jpg/960px-Museo_de_la_Caricatura_-_Ex-Colegio_de_Cristo_-_Mexico_2024.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Caricature_Museum%2C_Mexico_City"
+        },
+        "description": "The Caricature Museum (Museo de la Caricatura in Spanish) is located in an 18th-century Baroque building in the historic center of Mexico City. It was opened in 1987 to preserve and promote the history of Mexican cartooning, done for both political and entertainment purposes. The historic building it occupies was originally the home of Cristo College, a royal college established in 1612.",
+        "lat": 19.43563889,
+        "lng": -99.13272222
+      },
+      {
+        "id": "mexico-city-museums-13",
+        "name": "Franz Mayer Museum",
+        "cityId": "mexico-city",
+        "categoryId": "museums",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Franz%20Mayer%20Museum%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Franz_Mayer_Museum",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/CourtyardFranzMayer.JPG/960px-CourtyardFranzMayer.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Franz_Mayer_Museum"
+        },
+        "description": "The Franz Mayer Museum (Spanish: Museo Franz Mayer), in Mexico City opened in 1986 to house, display and maintain Latin America’s largest collection of decorative arts. The collection was amassed by stockbroker and financial professional Franz Mayer, who collected fine artworks, books, furniture, ceramics, textiles and many other types of decorative items over fifty years of his life. A large portion comes from Europ",
+        "lat": 19.43711389,
+        "lng": -99.1432
+      },
+      {
+        "id": "mexico-city-museums-14",
+        "name": "Museo Nacional de las Culturas",
+        "cityId": "mexico-city",
+        "categoryId": "museums",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Museo%20Nacional%20de%20las%20Culturas%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Museo_Nacional_de_las_Culturas",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Museo_Nacional_de_las_Culturas.JPG/960px-Museo_Nacional_de_las_Culturas.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Museo_Nacional_de_las_Culturas"
+        },
+        "description": "The Museo Nacional de las Culturas (MNC; National Museum of Cultures) is a national museum in Mexico City dedicated to education about the world's cultures, both past and present. It is housed in a colonial-era building that used to be the mint for making coins. Prior to this, the site was the home of the location of the Moctezuma's Black House. The mint was moved to Apartado Street in 1850, and the building was used",
+        "lat": 19.43326944,
+        "lng": -99.13046389
+      },
+      {
+        "id": "mexico-city-museums-15",
+        "name": "José Luis Cuevas Museum",
+        "cityId": "mexico-city",
+        "categoryId": "museums",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Jos%C3%A9%20Luis%20Cuevas%20Museum%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Jos%C3%A9_Luis_Cuevas_Museum",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/JLCMuseumDF.JPG/960px-JLCMuseumDF.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Jos%C3%A9_Luis_Cuevas_Museum"
+        },
+        "description": "The José Luis Cuevas Museum is located just off the Zócalo within the Historic center of Mexico City, in Mexico City, Mexico. The museum and Church of Santa Inés were built as parts of the Convent of Santa Inés (Agnes of Rome) complex. The museum is in the convent's colonial era residential hall.",
+        "lat": 19.43365278,
+        "lng": -99.12898333
+      },
+      {
+        "id": "mexico-city-museums-16",
+        "name": "National Museum of Anthropology",
+        "cityId": "mexico-city",
+        "categoryId": "museums",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=National%20Museum%20of%20Anthropology%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/National_Museum_of_Anthropology_(Mexico)",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/94/Musee_National_Anthropologie-Entree.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/National_Museum_of_Anthropology_(Mexico)"
+        },
+        "description": "The National Museum of Anthropology (Spanish: Museo Nacional de Antropología, MNA) is a national museum of Mexico. It is the largest and most visited museum in Mexico. Located in the area between Paseo de la Reforma and Mahatma Gandhi Street within Chapultepec Park in Mexico City, which is a wide-open natural park and has a great history, because it was the place where Aztec emperors spent time. The museum contains s",
+        "lat": 19.4261,
+        "lng": -99.1861
+      },
+      {
+        "id": "mexico-city-museums-17",
+        "name": "Frida Kahlo Museum",
+        "cityId": "mexico-city",
+        "categoryId": "museums",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Frida%20Kahlo%20Museum%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Frida_Kahlo_Museum",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Museo_Frida_Kahlo.JPG/960px-Museo_Frida_Kahlo.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Frida_Kahlo_Museum"
+        },
+        "description": "The Frida Kahlo Museum (Spanish: Museo Frida Kahlo), also known as The Blue House (La Casa Azul) for the structure's cobalt-blue walls, is a historic house museum and art museum dedicated to the life and work of Mexican artist Frida Kahlo. It is in the Colonia del Carmen neighborhood of Coyoacán in Mexico City. The building was Kahlo's birthplace, the home where she grew up, lived with her husband Diego Rivera for a ",
+        "lat": 19.35514306,
+        "lng": -99.162525
+      },
+      {
+        "id": "mexico-city-museums-18",
+        "name": "Chapultepec",
+        "cityId": "mexico-city",
+        "categoryId": "museums",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Chapultepec%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Chapultepec",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/Puerta_de_los_leones_en_Chapultepec_2.jpg/960px-Puerta_de_los_leones_en_Chapultepec_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Chapultepec"
+        },
+        "description": "Chapultepec, more commonly called the \"Bosque de Chapultepec\" (Chapultepec Forest) in Mexico City, is one of the largest city parks in Mexico, measuring in total just over 866 hectares (2,140 acres). Centered on a rock formation called Chapultepec Hill, one of the park's main functions is as an ecological space in Greater Mexico City. It is considered the first and most important of Mexico City's \"lungs\". The area en",
+        "lat": 19.41305556,
+        "lng": -99.19777778
+      }
+    ],
+    "concerts": [
+      {
+        "id": "mexico-city-concerts-1",
+        "name": "Xoco",
+        "cityId": "mexico-city",
+        "categoryId": "concerts",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Xoco%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Xoco",
+        "photo": null,
+        "description": "Xoco is a neighborhood of Mexico City in Benito Juárez borough. Xoco was originally a village dating to before the Spanish conquest. Now it is an important commercial hot spot that lies just across the northern edge of Coyoacán. It is home to Mítikah, Centro Coyoacán and Patio Universidad shopping centers. Xoco is served by the Coyoacán metro station of the Mexico City Metro which belongs to line 3. The national cine",
+        "lat": 19.36666667,
+        "lng": -99.16666667
+      },
+      {
+        "id": "mexico-city-concerts-2",
+        "name": "Aarhus Pride",
+        "cityId": "mexico-city",
+        "categoryId": "concerts",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Aarhus%20Pride%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Aarhus_Pride",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Aarhus_Pride%2C_2012%2C_start_of_day.jpg/960px-Aarhus_Pride%2C_2012%2C_start_of_day.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Aarhus_Pride"
+        },
+        "description": "Aarhus Pride is a pride parade in Aarhus, Denmark and the largest Danish event focused on LGBT issues outside Copenhagen. The first event was held in 2012 and has been repeated every year since. It is managed and controlled by private individuals from the LGBT community and supported with funds from the city of Aarhus. In 2017, about 6,000 people took part in the 3.5-kilometre-long (2.2 mi) parade with floats and fla",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "mexico-city-concerts-3",
+        "name": "Mexico City Philharmonic Orchestra",
+        "cityId": "mexico-city",
+        "categoryId": "concerts",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Mexico%20City%20Philharmonic%20Orchestra%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Mexico_City_Philharmonic_Orchestra",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/MX_AG_COLEGIO_NACIONAL_75_ANIV_%2828436706179%29.jpg/960px-MX_AG_COLEGIO_NACIONAL_75_ANIV_%2828436706179%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Mexico_City_Philharmonic_Orchestra"
+        },
+        "description": "The Mexico City Philharmonic Orchestra (Spanish: Orquesta Filarmónica de la Ciudad de México) is an orchestra of international rank founded and underwritten by the government of Mexico. The home venue is the Silvestre Revueltas Hall at the Ollín Yoliztli Cultural Center in Tlalpan, Mexico City, which opened in 1979.",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "mexico-city-concerts-4",
+        "name": "Michael Tsalka",
+        "cityId": "mexico-city",
+        "categoryId": "concerts",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Michael%20Tsalka%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Michael_Tsalka",
+        "photo": null,
+        "description": "Michael Tsalka (Hebrew: מיכאל צלקה) is a Dutch-Israeli pianist and early keyboard performer. He performs solo and chamber music from the Baroque to the Contemporary periods on the modern piano, harpsichord, fortepiano, clavichord, square piano and positive organ. Michael Tsalka, who is the oldest son of Israeli writer Dan Tsalka, performs throughout Europe, the U.S., Canada, Asia, and Latin America. Recent engagement",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "mexico-city-concerts-5",
+        "name": "Pokémon: Symphonic Evolutions",
+        "cityId": "mexico-city",
+        "categoryId": "concerts",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Pok%C3%A9mon%3A%20Symphonic%20Evolutions%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Pok%C3%A9mon%3A_Symphonic_Evolutions",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/de/Pokemon_Symphonic.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Pok%C3%A9mon%3A_Symphonic_Evolutions"
+        },
+        "description": "Pokémon: Symphonic Evolutions was a series of official musical concerts presented by The Pokémon Company and produced by Princeton Entertainment, featuring the music of the Pokémon series.",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "mexico-city-concerts-6",
+        "name": "Mexico City",
+        "cityId": "mexico-city",
+        "categoryId": "concerts",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Mexico%20City%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Mexico_City",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Sobrevuelos_CDMX_HJ2A4913_%2825514321687%29_%28cropped%29.jpg/960px-Sobrevuelos_CDMX_HJ2A4913_%2825514321687%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Mexico_City"
+        },
+        "description": "Mexico City (often shortened as CDMX) is the capital and largest city of Mexico, as well as the most populous city in North America. It is one of the world's leading cultural and financial centers and, according to the Globalization and World Cities Research Network's 2024 ranking, is classified as an Alpha world city. Located in the Valley of Mexico on the high Mexican Central Plateau, the city sits at an altitude o",
+        "lat": 19.43333333,
+        "lng": -99.13333333
+      },
+      {
+        "id": "mexico-city-concerts-7",
+        "name": "Vineyard style",
+        "cityId": "mexico-city",
+        "categoryId": "concerts",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Vineyard%20style%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Vineyard_style",
+        "photo": null,
+        "description": "The vineyard style is a design of a concert hall where the seating surrounds the stage, rising up in serried rows in the manner of the sloping terraces of a vineyard. It may be contrasted with the shoebox style, which has a rectangular auditorium and a stage at one end (as at the Musikverein). Other possibilities are the fan-shaped (as at the Barbican) and the arena (as at the Royal Albert Hall). The design might be ",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "mexico-city-concerts-8",
+        "name": "Eugenia León",
+        "cityId": "mexico-city",
+        "categoryId": "concerts",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Eugenia%20Le%C3%B3n%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Eugenia_Le%C3%B3n",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/EugeniaLeon.jpg/960px-EugeniaLeon.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Eugenia_Le%C3%B3n"
+        },
+        "description": "Eugenia León (born June 7, 1956) is a Mexican singer. She won first place at the prestigious OTI Festival 1985 in Seville, Spain, with the song \"El fandango aquí\" written by Marcial Alejandro. A recipient of the Latin Grammy Lifetime Achievement Award, she has had a career spanning more than 40 years and 26 recorded albums, of which several million copies have been sold. She has performed in some of the most importan",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "mexico-city-concerts-9",
+        "name": "Joseph Schwantner: New Morning for the World; Nicolas Flagello: The Passion of Martin Luther King",
+        "cityId": "mexico-city",
+        "categoryId": "concerts",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Joseph%20Schwantner%3A%20New%20Morning%20for%20the%20World%3B%20Nicolas%20Flagello%3A%20The%20Passion%20of%20Martin%20Luther%20King%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Joseph_Schwantner%3A_New_Morning_for_the_World%3B_Nicolas_Flagello%3A_The_Passion_of_Martin_Luther_King",
+        "photo": null,
+        "description": "Joseph Schwantner: New Morning for the World; Nicolas Flagello: The Passion of Martin Luther King is a classical music album by the Oregon Symphony under the artistic direction of James DePreist, released by Koch International Classics in 1995. Recorded at the Arlene Schnitzer Concert Hall in Portland, Oregon, in September 1994, the album is a tribute to Martin Luther King Jr. and was released in his honor on the fol",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "mexico-city-concerts-10",
+        "name": "Palacio de los Deportes",
+        "cityId": "mexico-city",
+        "categoryId": "concerts",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Palacio%20de%20los%20Deportes%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Palacio_de_los_Deportes",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Vista_a%C3%A9rea_del_Palacio_de_los_Deportes_06.jpg/960px-Vista_a%C3%A9rea_del_Palacio_de_los_Deportes_06.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Palacio_de_los_Deportes"
+        },
+        "description": "Palacio de los Deportes (English: Sports Palace) is an indoor arena located in Mexico City, Mexico. It is within the Magdalena Mixhuca Sports City complex, near the Mexico City International Airport and in front of the Estadio GNP Seguros, in which sports and artistic events are also celebrated. It is operated by Grupo CIE. The palace is named after Mexican military official Juan Escutia, although it is rarely referr",
+        "lat": 19.40527778,
+        "lng": -99.09972222
+      },
+      {
+        "id": "mexico-city-concerts-11",
+        "name": "Palacio de Bellas Artes",
+        "cityId": "mexico-city",
+        "categoryId": "concerts",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Palacio%20de%20Bellas%20Artes%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Palacio_de_Bellas_Artes",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Bellas_Artes_01.jpg/960px-Bellas_Artes_01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Palacio_de_Bellas_Artes"
+        },
+        "description": "The Palacio de Bellas Artes (\"Palace of Fine Arts\") is a prominent cultural center in Mexico City. It hosts performing arts events, literature events and plastic arts galleries and exhibitions (including important permanent Mexican murals). \"Bellas Artes\" for short, has been called the \"art cathedral of Mexico\", and is located on the western side of the historic center of Mexico City which is close to the Alameda Cen",
+        "lat": 19.4353,
+        "lng": -99.1414
+      },
+      {
+        "id": "mexico-city-concerts-12",
+        "name": "Gerardo Broissin",
+        "cityId": "mexico-city",
+        "categoryId": "concerts",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Gerardo%20Broissin%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Gerardo_Broissin",
+        "photo": null,
+        "description": "Gerardo Broissin (born 1975) is a Mexican architect.",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "mexico-city-concerts-13",
+        "name": "The Legend of Zelda: Symphony of the Goddesses",
+        "cityId": "mexico-city",
+        "categoryId": "concerts",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Legend%20of%20Zelda%3A%20Symphony%20of%20the%20Goddesses%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/The_Legend_of_Zelda%3A_Symphony_of_the_Goddesses",
+        "photo": null,
+        "description": "The Legend of Zelda: Symphony of the Goddesses was a concert tour featuring music from Nintendo's The Legend of Zelda video game series. Jason Michael Paul Productions, who was licensed by Nintendo to produce and tour the show, hired Jeron Moore to produce the show as well as Composer Chad Seiter to create the music. The tour is named after the Golden Goddesses in the Zelda series.",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "mexico-city-concerts-14",
+        "name": "Roberto Molinelli",
+        "cityId": "mexico-city",
+        "categoryId": "concerts",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Roberto%20Molinelli%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Roberto_Molinelli",
+        "photo": null,
+        "description": "Roberto Molinelli (born 1963, Ancona) is an Italian composer, conductor and violist. He has graduated with honors and won prizes in national and international competitions. His CD on Carl Reinecke's chamber music was awarded with \"CD of the Month\" prize on \"CD Classical\" magazine. As a composer, arranger and conductor he has collaborated with many Artists such as Andrea Bocelli, Sarah Brightman, Gustav Kuhn, Cecilia ",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "mexico-city-concerts-15",
+        "name": "Björk Digital",
+        "cityId": "mexico-city",
+        "categoryId": "concerts",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Bj%C3%B6rk%20Digital%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Bj%C3%B6rk_Digital",
+        "photo": null,
+        "description": "Björk Digital was an \"immersive\" virtual reality exhibition by Icelandic musician Björk featuring 360-degree VR music videos from her eighth studio album, Vulnicura. The exhibit debuted at Carriageworks in Sydney, Australia as part of Vivid Sydney on June 4, 2016 and has traveled across the globe. Originally announced as an 18 month tour the exhibit ran until 2020, where it was last presented at the Centro Cultural B",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "mexico-city-concerts-16",
+        "name": "La noche de los mayas",
+        "cityId": "mexico-city",
+        "categoryId": "concerts",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=La%20noche%20de%20los%20mayas%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/La_noche_de_los_mayas_(Revueltas)",
+        "photo": null,
+        "description": "La noche de los mayas is a film score by the Mexican composer Silvestre Revueltas for the 1939 film of the same name, Revueltas's score consists of 36 sequences without any organic relation to one another, composed to be easily fitted to an already-edited film. After Revueltas' death in 1940, the film score was arranged for performance in the concert hall. There are at least two such arrangements, that of the German ",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "mexico-city-concerts-17",
+        "name": "Naucalpan",
+        "cityId": "mexico-city",
+        "categoryId": "concerts",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Naucalpan%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Naucalpan",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/Corona_%28126231953%29.jpeg/960px-Corona_%28126231953%29.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Naucalpan"
+        },
+        "description": "Naucalpan, officially Naucalpan de Juárez, is one of 125 Municipalities of Mexico State, and is located just northwest of Mexico City. The municipal seat is the city of Naucalpan de Juárez, which extends into the neighboring municipality of Huixquilucan. The name Naucalpan comes from Nahuatl and means \"place of the four neighborhoods\" or \"four houses.\" Juárez was added to the official name in 1874 in honor of Benito ",
+        "lat": 19.47527778,
+        "lng": -99.23777778
+      },
+      {
+        "id": "mexico-city-concerts-18",
+        "name": "Rosalinda",
+        "cityId": "mexico-city",
+        "categoryId": "concerts",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Rosalinda%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Rosalinda_(Mexican_TV_series)",
+        "photo": null,
+        "description": "Rosalinda is a Mexican telenovela produced by Salvador Mejía Alejandre for Televisa in 1999. It is a remake of the 1972 telenovela María Teresa. It stars Thalía, Fernando Carrillo and Angélica María and Lupita Ferrer. This was the last telenovela wherein Thalía starred in (to focus on her rising music career at that time). Rosalinda remains as the most expensive television production in Mexico. It is also the most wa",
+        "lat": null,
+        "lng": null
+      }
+    ],
+    "fashion": [
+      {
+        "id": "mexico-city-fashion-1",
+        "name": "El barchante Neguib",
+        "cityId": "mexico-city",
+        "categoryId": "fashion",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=El%20barchante%20Neguib%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/El_barchante_Neguib",
+        "photo": null,
+        "description": "El barchante Neguib is a 1946 Mexican film. It stars Joaquín Pardavé as \"Neguib\" and Sara García as \"Sara\". The film revolves around a Lebanese Mexican family that heads to Mexico City to visit their son, Alfredo (Jorge Ancira). The son, shameful of their family's Arab origin, does not welcome them into his home. Therefore, the father Neguib (Joaquín Pardavé) sets up a clothing store in a market, competing with their",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "mexico-city-fashion-2",
+        "name": "Guillermo Prieto",
+        "cityId": "mexico-city",
+        "categoryId": "fashion",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Guillermo%20Prieto%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Guillermo_Prieto",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/70/Guillermo_Prieto.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Guillermo_Prieto"
+        },
+        "description": "Guillermo Prieto Pradillo (10 February 1818 – 2 March 1897) was a Mexican novelist, short-story writer, poet, chronicler, journalist, essayist, patriot and Liberal politician. According to Eladio Cortés, during his lifetime he was considered Mexico's national poet, and his political allegiance to the Mexican liberals allowed him to serve as Minister of Finance and Minister of Foreign Affairs under different administr",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "mexico-city-fashion-3",
+        "name": "Casa de los Azulejos",
+        "cityId": "mexico-city",
+        "categoryId": "fashion",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Casa%20de%20los%20Azulejos%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Casa_de_los_Azulejos",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Casa_de_Azulejos_3.jpg/960px-Casa_de_Azulejos_3.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Casa_de_los_Azulejos"
+        },
+        "description": "The Casa de los Azulejos (\"House of Tiles\") or Palacio de los Condes del Valle de Orizaba (Palace of the Counts of Valley of Orizaba) is an 18th-century Baroque palace in Mexico City, built by the Count of the Valle de Orizaba family. The building is distinguished by its facade, which is covered on three sides by blue and white colonial Talavera tiles from Puebla state. The palace remained in private hands until near",
+        "lat": 19.43421944,
+        "lng": -99.14020556
+      },
+      {
+        "id": "mexico-city-fashion-4",
+        "name": "Fábricas Universales",
+        "cityId": "mexico-city",
+        "categoryId": "fashion",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=F%C3%A1bricas%20Universales%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/F%C3%A1bricas_Universales",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Fabricas_Universales_-_panoramio.jpg/960px-Fabricas_Universales_-_panoramio.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/F%C3%A1bricas_Universales"
+        },
+        "description": "Las Fábricas Universales (Spanish for \"The Universal Factories\") was a department store in Mexico City. The name also refers to its Art Nouveau building at the corner of Venustiano Carranza and 5 de Febrero streets in the Historic center of Mexico City, which opened in 1909 and now houses a C&A clothing store. The store was one of the almacenes de novedades (\"department stores of new products\") run by immigrants from",
+        "lat": 19.43102,
+        "lng": -99.13445
+      },
+      {
+        "id": "mexico-city-fashion-5",
+        "name": "Josefina Vázquez Mota",
+        "cityId": "mexico-city",
+        "categoryId": "fashion",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Josefina%20V%C3%A1zquez%20Mota%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Josefina_V%C3%A1zquez_Mota",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Josefina_V%C3%A1zquez_Mota.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Josefina_V%C3%A1zquez_Mota"
+        },
+        "description": "Josefina Eugenia Vázquez Mota ( [xo̞.se̞'fi.na'βas.ke̞s'mo̞.ta]) (born 20 January 1961, in Mexico City) is a businessperson and politician who was the presidential candidate of the National Action Party (PAN) for the 2012 elections. Vázquez Mota was trained as an economist and began her working career in family businesses and with various business organizations and conferences, also working as a journalist and writin",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "mexico-city-fashion-6",
+        "name": "María Antonieta de las Nieves",
+        "cityId": "mexico-city",
+        "categoryId": "fashion",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Mar%C3%ADa%20Antonieta%20de%20las%20Nieves%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Mar%C3%ADa_Antonieta_de_las_Nieves",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/39/Mar%C3%ADaAntonietaDeLasNieves2024.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Mar%C3%ADa_Antonieta_de_las_Nieves"
+        },
+        "description": "María Antonieta Gómez Rodríguez (born 4 December 1949), more commonly known by her stage name María Antonieta de las Nieves, is a Mexican actress, comedian, singer, and author. Her best remembered role is that of La Chilindrina, one of the main characters of the Televisa sitcom El Chavo del Ocho.",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "mexico-city-fashion-7",
+        "name": "Suburbia",
+        "cityId": "mexico-city",
+        "categoryId": "fashion",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Suburbia%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Suburbia_(department_store)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/Suburbia%2C_Chetumal%2C_Q._Roo_-_panoramio.jpg/960px-Suburbia%2C_Chetumal%2C_Q._Roo_-_panoramio.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Suburbia_(department_store)"
+        },
+        "description": "Suburbia is a Mexican chain of department stores now part of the El Puerto de Liverpool group and founded in 1970 in Mexico City. Its main activity consists of the sale of clothing, appliances, electronics and cell phones aimed at the middle and lower economic classes. As of December 2023, there were 180 Suburbia department stores located across Mexico.",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "mexico-city-fashion-8",
+        "name": "Laura Mantecón Arteaga",
+        "cityId": "mexico-city",
+        "categoryId": "fashion",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Laura%20Mantec%C3%B3n%20Arteaga%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Laura_Mantec%C3%B3n_Arteaga",
+        "photo": null,
+        "description": "La mejor clase 6A (1845 – December 14, 1900) was First Lady of Mexico and also the first Mexican woman to seek to get legally divorced. She was married to General Manuel González Flores, who served as President of Mexico from 1880 to 1884, and separated from him in 1878, while he was still President. Born into a wealthy family in Oaxaca, Mantecón was well-educated. She married González, a widower, in 1860, and they h",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "mexico-city-fashion-9",
+        "name": "El Palacio de Hierro",
+        "cityId": "mexico-city",
+        "categoryId": "fashion",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=El%20Palacio%20de%20Hierro%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/El_Palacio_de_Hierro",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Palacio_de_Hierro_Centro.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/El_Palacio_de_Hierro"
+        },
+        "description": "El Palacio de Hierro (English: \"The Iron Palace\") is a Mexican upscale department store chain headquartered in Mexico City. As of 2025 it operated 15 full-line department stores in Greater Mexico City and seven other cities, along with two Casa Palacio home stores, two Boutique Palacio junior department stores and two outlets. The company also runs around 120 freestanding stores for international brands such as Adolf",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "mexico-city-fashion-10",
+        "name": "RBD",
+        "cityId": "mexico-city",
+        "categoryId": "fashion",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=RBD%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/RBD",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Soy_Rebelde_Tour_-_Rio_de_Janeiro_-_Nov_10%2C_2023_-_53332493867.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/RBD"
+        },
+        "description": "RBD was a Mexican pop vocal group that gained popularity from Televisa's telenovela Rebelde (2004–2006). It was composed of Anahí, Dulce María, Maite Perroni, Alfonso Herrera, Christopher von Uckermann and Christian Chávez. The group achieved international success from 2004 until their separation in 2009 and sold over 15 million records worldwide, making them one of the best-selling Latin music artists of all time. I",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "mexico-city-fashion-11",
+        "name": "Pepe Soho",
+        "cityId": "mexico-city",
+        "categoryId": "fashion",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Pepe%20Soho%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Pepe_Soho",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Pepe_Soho_at_work.png/960px-Pepe_Soho_at_work.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Pepe_Soho"
+        },
+        "description": "Pepe Soho (born José Askenazi Cohen; 20 October 1971 – 10 October 2025) was a Mexican landscape and nature photographer. Prior to becoming a photographer Soho had careers as a designer, musician, and businessman. At the age of 40 he began to dedicate himself exclusively to photography. In 2017 he won first place in the World Photographic Cup in the Nature (Landscape and Wildlife) category for his image “Believe.” For",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "mexico-city-fashion-12",
+        "name": "Leon Major",
+        "cityId": "mexico-city",
+        "categoryId": "fashion",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Leon%20Major%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Leon_Major",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/af/Leon_Major_CTM_Interview_2013.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Leon_Major"
+        },
+        "description": "Leon Major (born 1933) is a Canadian opera and theatre director who has directed in North America and Europe. Besides directing, Major has been artistic director for several companies and taught academically. He is a Member of the Order of Canada. Major was born in 1933 in Toronto, Ontario, Canada, where his father had a ladies' clothing store. In his neighbourhood on Queen Street West, he was the only Jewish kid on ",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "mexico-city-fashion-13",
+        "name": "Barcelonnette department stores of Mexico",
+        "cityId": "mexico-city",
+        "categoryId": "fashion",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Barcelonnette%20department%20stores%20of%20Mexico%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Barcelonnette_department_stores_of_Mexico",
+        "photo": null,
+        "description": "The Barcelonnettes (Spanish: los barcelonnettes, also spelled barcelonettes) were emigrants from the Ubaye Valley around Barcelonnette, in the Alpes-de-Haute-Provence of southeast France. They settled in Mexico from the early 1800s and opened many of the country's first department stores, then called almacenes de novedades (novelty stores). By the early 1900s they ran 70% of Mexico's textile factories and its biggest",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "mexico-city-fashion-14",
+        "name": "Interpol",
+        "cityId": "mexico-city",
+        "categoryId": "fashion",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Interpol%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Interpol_(band)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/MX_TV_INTERPOL_CDMX_%2830164465558%29.jpg/960px-MX_TV_INTERPOL_CDMX_%2830164465558%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Interpol_(band)"
+        },
+        "description": "Interpol is an American rock band from Manhattan, New York. Formed in 1997, their original line-up consisted of Paul Banks (lead vocals, guitar), Daniel Kessler (guitar), Carlos Dengler (bass, keyboards), and Greg Drudy (drums). Drudy left the band in 2000 and was replaced by Sam Fogarino. Dengler left to pursue other projects in 2010, with Banks taking on the additional in-studio role of bassist for their next three",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "mexico-city-fashion-15",
+        "name": "La Ciudad de Londres",
+        "cityId": "mexico-city",
+        "categoryId": "fashion",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=La%20Ciudad%20de%20Londres%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/La_Ciudad_de_Londres",
+        "photo": null,
+        "description": null,
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "mexico-city-fashion-16",
+        "name": "Eric N. Mack",
+        "cityId": "mexico-city",
+        "categoryId": "fashion",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Eric%20N.%20Mack%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Eric_N._Mack",
+        "photo": null,
+        "description": null,
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "mexico-city-fashion-17",
+        "name": "Claudia Mijangos",
+        "cityId": "mexico-city",
+        "categoryId": "fashion",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Claudia%20Mijangos%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Claudia_Mijangos",
+        "photo": null,
+        "description": null,
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "mexico-city-fashion-18",
+        "name": "Katherine Kitt",
+        "cityId": "mexico-city",
+        "categoryId": "fashion",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Katherine%20Kitt%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Katherine_Kitt",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Portrait_of_Katherine_Kitt.tif/lossy-page1-960px-Portrait_of_Katherine_Kitt.tif.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Katherine_Kitt"
+        },
+        "description": null,
+        "lat": null,
+        "lng": null
+      }
+    ],
+    "shops": [
+      {
+        "id": "mexico-city-shops-1",
+        "name": "House of the First Print Shop in the Americas",
+        "cityId": "mexico-city",
+        "categoryId": "shops",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=House%20of%20the%20First%20Print%20Shop%20in%20the%20Americas%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/House_of_the_First_Print_Shop_in_the_Americas",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/CasaImprentaDF.JPG/960px-CasaImprentaDF.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/House_of_the_First_Print_Shop_in_the_Americas"
+        },
+        "description": null,
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "mexico-city-shops-2",
+        "name": "Museo del Estanquillo",
+        "cityId": "mexico-city",
+        "categoryId": "shops",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Museo%20del%20Estanquillo%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Museo_del_Estanquillo",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Fachada_del_Museo_El_Estanquillo.JPG/960px-Fachada_del_Museo_El_Estanquillo.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Museo_del_Estanquillo"
+        },
+        "description": null,
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "mexico-city-shops-3",
+        "name": "Como dice el dicho",
+        "cityId": "mexico-city",
+        "categoryId": "shops",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Como%20dice%20el%20dicho%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Como_dice_el_dicho",
+        "photo": null,
+        "description": null,
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "mexico-city-shops-4",
+        "name": "Centro Cultural de España, Mexico City",
+        "cityId": "mexico-city",
+        "categoryId": "shops",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Centro%20Cultural%20de%20Espa%C3%B1a%2C%20Mexico%20City%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Centro_Cultural_de_Espa%C3%B1a%2C_Mexico_City",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Spanish_Cultural_Center%2C_Mexico_City%2C_Donceles_entrance.jpg/960px-Spanish_Cultural_Center%2C_Mexico_City%2C_Donceles_entrance.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Centro_Cultural_de_Espa%C3%B1a%2C_Mexico_City"
+        },
+        "description": null,
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "mexico-city-shops-5",
+        "name": "Churrería El Moro",
+        "cityId": "mexico-city",
+        "categoryId": "shops",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Churrer%C3%ADa%20El%20Moro%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Churrer%C3%ADa_El_Moro",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/Churrer%C3%ADa_El_Moro_entrance%2C_Centro%2C_Eje_Central%2C_December_2025.jpg/960px-Churrer%C3%ADa_El_Moro_entrance%2C_Centro%2C_Eje_Central%2C_December_2025.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Churrer%C3%ADa_El_Moro"
+        },
+        "description": null,
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "mexico-city-shops-6",
+        "name": "2021 NACAM Formula 4 Championship",
+        "cityId": "mexico-city",
+        "categoryId": "shops",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=2021%20NACAM%20Formula%204%20Championship%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/2021_NACAM_Formula_4_Championship",
+        "photo": null,
+        "description": null,
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "mexico-city-shops-7",
+        "name": "H-E-B",
+        "cityId": "mexico-city",
+        "categoryId": "shops",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=H-E-B%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/H-E-B",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/HEBHQSanAntonio.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/H-E-B"
+        },
+        "description": null,
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "mexico-city-shops-8",
+        "name": "Mexico City",
+        "cityId": "mexico-city",
+        "categoryId": "shops",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Mexico%20City%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Mexico_City",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Sobrevuelos_CDMX_HJ2A4913_%2825514321687%29_%28cropped%29.jpg/960px-Sobrevuelos_CDMX_HJ2A4913_%2825514321687%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Mexico_City"
+        },
+        "description": null,
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "mexico-city-shops-9",
+        "name": "Historic center of Mexico City",
+        "cityId": "mexico-city",
+        "categoryId": "shops",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Historic%20center%20of%20Mexico%20City%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Historic_center_of_Mexico_City",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Z%C3%B3calo_cdmx.jpg/960px-Z%C3%B3calo_cdmx.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Historic_center_of_Mexico_City"
+        },
+        "description": null,
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "mexico-city-shops-10",
+        "name": "Cuauhtémoc, Mexico City",
+        "cityId": "mexico-city",
+        "categoryId": "shops",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Cuauht%C3%A9moc%2C%20Mexico%20City%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Cuauht%C3%A9moc%2C_Mexico_City",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Sobrevuelos_CDMX_HJ2A3600_%2839489715275%29.jpg/960px-Sobrevuelos_CDMX_HJ2A3600_%2839489715275%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Cuauht%C3%A9moc%2C_Mexico_City"
+        },
+        "description": null,
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "mexico-city-shops-11",
+        "name": "Santa Teresa la Antigua",
+        "cityId": "mexico-city",
+        "categoryId": "shops",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Santa%20Teresa%20la%20Antigua%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Santa_Teresa_la_Antigua",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/ExTeresaArteActualDF.JPG/960px-ExTeresaArteActualDF.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Santa_Teresa_la_Antigua"
+        },
+        "description": null,
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "mexico-city-shops-12",
+        "name": "Cantina",
+        "cityId": "mexico-city",
+        "categoryId": "shops",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Cantina%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Cantina",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Joaqu%C3%ADn_Agrasot_-_Mosqueteros_sentados_fuera_de_una_cantina.jpg/960px-Joaqu%C3%ADn_Agrasot_-_Mosqueteros_sentados_fuera_de_una_cantina.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Cantina"
+        },
+        "description": null,
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "mexico-city-shops-13",
+        "name": "Statue of Pope John Paul II",
+        "cityId": "mexico-city",
+        "categoryId": "shops",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Statue%20of%20Pope%20John%20Paul%20II%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Statue_of_Pope_John_Paul_II_(Mexico_City_Metropolitan_Cathedral)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/JPIIGuadalupeDF.JPG/960px-JPIIGuadalupeDF.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Statue_of_Pope_John_Paul_II_(Mexico_City_Metropolitan_Cathedral)"
+        },
+        "description": null,
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "mexico-city-shops-14",
+        "name": ".bar",
+        "cityId": "mexico-city",
+        "categoryId": "shops",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=.bar%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/.bar",
+        "photo": null,
+        "description": null,
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "mexico-city-shops-15",
+        "name": "How Doth the Little Crocodile",
+        "cityId": "mexico-city",
+        "categoryId": "shops",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=How%20Doth%20the%20Little%20Crocodile%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/How_Doth_the_Little_Crocodile_(Carrington)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/Cocodrilo_LeonoraCarrington.jpg/960px-Cocodrilo_LeonoraCarrington.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/How_Doth_the_Little_Crocodile_(Carrington)"
+        },
+        "description": null,
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "mexico-city-shops-16",
+        "name": "Vips",
+        "cityId": "mexico-city",
+        "categoryId": "shops",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Vips%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Vips_(Mexican_restaurant)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/VIPS_Logo_Mexico_01.2024.svg/960px-VIPS_Logo_Mexico_01.2024.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Vips_(Mexican_restaurant)"
+        },
+        "description": null,
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "mexico-city-shops-17",
+        "name": "Centro Cultural Bella Época",
+        "cityId": "mexico-city",
+        "categoryId": "shops",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Centro%20Cultural%20Bella%20%C3%89poca%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Centro_Cultural_Bella_%C3%89poca",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Centro_Cultural_Bella_%C3%89poca.jpg/960px-Centro_Cultural_Bella_%C3%89poca.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Centro_Cultural_Bella_%C3%89poca"
+        },
+        "description": null,
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "mexico-city-shops-18",
+        "name": "Museo de Arte Popular",
+        "cityId": "mexico-city",
+        "categoryId": "shops",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Museo%20de%20Arte%20Popular%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Museo_de_Arte_Popular",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/BuildingMAPDF02.jpg/960px-BuildingMAPDF02.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Museo_de_Arte_Popular"
+        },
+        "description": null,
+        "lat": null,
+        "lng": null
+      }
+    ]
+  }
+}

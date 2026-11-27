@@ -1,0 +1,2884 @@
+{
+  "cityId": "lisbon",
+  "generatedAt": "2026-11-27T09:37:28.794Z",
+  "source": "Wikipedia API + Maps URLs (sin scraping de Google)",
+  "incomplete": [],
+  "categories": {
+    "night_clubs": [
+      {
+        "id": "lisbon-night_clubs-1",
+        "name": "Storm Over Lisbon",
+        "cityId": "lisbon",
+        "categoryId": "night_clubs",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Storm%20Over%20Lisbon%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Storm_Over_Lisbon",
+        "photo": null,
+        "description": "Storm Over Lisbon is a 1944 American thriller film produced and directed by George Sherman and starring Vera Ralston, Richard Arlen and Erich Von Stroheim. The screenplay concerns a nightclub owner who attempts to gain secret information. The film's sets were designed by the art director Gano Chittenden.",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "lisbon-night_clubs-2",
+        "name": "Succubus",
+        "cityId": "lisbon",
+        "categoryId": "night_clubs",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Succubus%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Succubus_(1968_film)",
+        "photo": null,
+        "description": "Succubus (German: Necronomicon – Geträumte Sünden, lit. 'Necronomicon – Sinful Dreams') is a 1968 West German erotic horror film directed by Jesús Franco and starring Janine Reynaud, Jack Taylor, Adrian Hoven, and Michel Lemoine. It follows Lorna Green, a performer at a Lisbon nightclub who performs fictionalized acts that involve erotically charged sadomasochistic murders. As she begins to suffer violent, surreal ni",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "lisbon-night_clubs-3",
+        "name": "Bristol Club",
+        "cityId": "lisbon",
+        "categoryId": "night_clubs",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Bristol%20Club%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Bristol_Club",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Bristol_Club%2C_Rua_Jardim_do_Regedor_%282020-11-12%29.png/960px-Bristol_Club%2C_Rua_Jardim_do_Regedor_%282020-11-12%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Bristol_Club"
+        },
+        "description": "The Bristol Club was a nightclub in the Portuguese capital, Lisbon. It was particularly noted for the modern architecture and artwork that was introduced to the club in the 1920s.",
+        "lat": 38.71566667,
+        "lng": -9.14027778
+      },
+      {
+        "id": "lisbon-night_clubs-4",
+        "name": "Portuguese World Exhibition",
+        "cityId": "lisbon",
+        "categoryId": "night_clubs",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Portuguese%20World%20Exhibition%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Portuguese_World_Exhibition",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/Bandeira_exposi%C3%A7%C3%A3o_mundo_portugu%C3%AAs.svg/960px-Bandeira_exposi%C3%A7%C3%A3o_mundo_portugu%C3%AAs.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Portuguese_World_Exhibition"
+        },
+        "description": "The Portuguese World Exhibition (Portuguese: Exposição do Mundo Português) was held in Lisbon in 1940 to mark 800 years since the foundation of the country and 300 years since the restoration of independence from Spain. The fair ran from 23 June to 2 December 1940, held on the Praça do Império, and was attended by 3 million people.",
+        "lat": 38.69638889,
+        "lng": -9.2075
+      },
+      {
+        "id": "lisbon-night_clubs-5",
+        "name": "Un flic",
+        "cityId": "lisbon",
+        "categoryId": "night_clubs",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Un%20flic%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Un_flic",
+        "photo": null,
+        "description": "Un flic (lit. 'A Cop') is a 1972 crime film directed and written by Jean-Pierre Melville. The film is about a Parisian nightclub owner named Simon who leads four men to carry out on a bank robbery. One is seriously wounded and taken to a clinic. Fearing the police will locate him, Simon sends his mistress Cathy to kill him. Cathy's lover, Commissaire Édouard Coleman learns from an informer that a large quantity of dr",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "lisbon-night_clubs-6",
+        "name": "God Control",
+        "cityId": "lisbon",
+        "categoryId": "night_clubs",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=God%20Control%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/God_Control",
+        "photo": null,
+        "description": "\"God Control\" is a song by American singer-songwriter Madonna from her fourteenth studio album, Madame X (2019). It was written by Madonna, longtime collaborator Mirwais, and American musician Casey Spooner. Madonna and Mirwais produced the song along with Mike Dean. Lyrically the song talks about gun control and also touches on the political climate of the United States at the time. It is an experimental pop, disco,",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "lisbon-night_clubs-7",
+        "name": "Francisco Adam",
+        "cityId": "lisbon",
+        "categoryId": "night_clubs",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Francisco%20Adam%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Francisco_Adam",
+        "photo": null,
+        "description": "Francisco Amaro Rodrigues Adam (13 August 1983 – 16 April 2006) was a Portuguese actor and model, best known for his humorous role as Dino, short for Bernardino Esteves, in the Portuguese youth telenovela Morangos com Açúcar.",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "lisbon-night_clubs-8",
+        "name": "The Soft Skin",
+        "cityId": "lisbon",
+        "categoryId": "night_clubs",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Soft%20Skin%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/The_Soft_Skin",
+        "photo": null,
+        "description": "The Soft Skin (French: La peau douce) is a 1964 romantic drama film directed by François Truffaut and starring Jean Desailly, Françoise Dorléac and Nelly Benedetti. Written by Truffaut and Jean-Louis Richard, it follows a married successful writer and lecturer who meets and has an affair with a flight attendant half his age. The film was shot on location in Paris, Reims, and Lisbon, and several scenes were filmed at ",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "lisbon-night_clubs-9",
+        "name": "Xutos & Pontapés",
+        "cityId": "lisbon",
+        "categoryId": "night_clubs",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Xutos%20%26%20Pontap%C3%A9s%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Xutos_%26_Pontap%C3%A9s",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Xutos_e_Pontap%C3%A9s.jpg/960px-Xutos_e_Pontap%C3%A9s.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Xutos_%26_Pontap%C3%A9s"
+        },
+        "description": "Xutos & Pontapés () are a Portuguese rock band. The band was founded in 1978, in Lisbon, by the late Zé Pedro, Zé Leonel, Kalú and Tim. Their current lineup consists of Tim (vocals, bass), João Cabeleira (guitar), Gui (saxophone, keyboards) and Kalú (drums). Xutos & Pontapés are often considered the most successful rock band from Portugal. The band is popularly known by its fanbase as simply Xutos.",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "lisbon-night_clubs-10",
+        "name": "Parque Mayer, Lisbon",
+        "cityId": "lisbon",
+        "categoryId": "night_clubs",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Parque%20Mayer%2C%20Lisbon%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Parque_Mayer%2C_Lisbon",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/34/Parque_Mayer_Cristino_da_Silva_00072.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Parque_Mayer%2C_Lisbon"
+        },
+        "description": "Parque Mayer is a theatrical and entertainment district in the Portuguese capital of Lisbon. Originally created as a summer amusement park, it at one time had four theatres, although one was demolished in 2015 and another has not been used since 1992. Successive proposals have been made for upgrading the area, but none has yet come to fruition.",
+        "lat": 38.71888889,
+        "lng": -9.14638889
+      },
+      {
+        "id": "lisbon-night_clubs-11",
+        "name": "Jack Livesey",
+        "cityId": "lisbon",
+        "categoryId": "night_clubs",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Jack%20Livesey%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Jack_Livesey",
+        "photo": null,
+        "description": "Jack Edwards Livesey (11 June 1901 – 12 October 1961) was a British film actor. He was born in Barry, Vale of Glamorgan, the son of Sam Livesey, the brother of Barry Livesey, and the cousin and step-brother of Roger Livesey. He died in Burbank, California, aged 60. On stage he appeared in the hit West End musical The Lisbon Story from 1943 to 1944. In 1960, he portrayed Gillespie MacKenzie in an episode of the Wester",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "lisbon-night_clubs-12",
+        "name": "2009",
+        "cityId": "lisbon",
+        "categoryId": "night_clubs",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=2009%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/2009",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/78/2009_Events_Collage_V2.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/2009"
+        },
+        "description": "2009 (MMIX) was a common year starting on Thursday of the Gregorian calendar, the 2009th year of the Common Era (CE) and Anno Domini (AD) designations, the 9th year of the 3rd millennium and the 21st century, and the 10th and last year of the 2000s decade. 2009 was designated as the International Year of Astronomy by the United Nations to coincide with the 400th anniversary of Galileo Galilei's first known astronomic",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "lisbon-night_clubs-13",
+        "name": "2000 in Portugal",
+        "cityId": "lisbon",
+        "categoryId": "night_clubs",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=2000%20in%20Portugal%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/2000_in_Portugal",
+        "photo": null,
+        "description": "The following lists events that happened during 2000 in Portugal.",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "lisbon-night_clubs-14",
+        "name": "Almada Negreiros",
+        "cityId": "lisbon",
+        "categoryId": "night_clubs",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Almada%20Negreiros%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Almada_Negreiros",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Almada_Negreiros_-_Vitoriano_Braga.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Almada_Negreiros"
+        },
+        "description": "José Sobral de Almada Negreiros, usually known as Almada Negreiros (7 April 1893 – 15 June 1970), was a Portuguese artist. He was born in the colony of Portuguese São Tomé and Príncipe, the son of a Portuguese father, António Lobo de Almada Negreiros, and a Santomean mother, Elvira Freire Sobral. Besides literature and painting, Almada developed ballet choreographies, and worked on tapestry, engraving, murals, carica",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "lisbon-night_clubs-15",
+        "name": "Dani",
+        "cityId": "lisbon",
+        "categoryId": "night_clubs",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Dani%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Dani_(footballer%2C_born_1976)",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/19/Dani.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Dani_(footballer%2C_born_1976)"
+        },
+        "description": "Daniel da Cruz Carvalho (born 2 November 1976), commonly known as Dani, is a Portuguese former professional footballer who played mainly as an attacking midfielder. He spent most of his eight-year professional career with Ajax after starting out at Sporting CP, appearing in nearly 100 competitive matches and winning three major titles. He also competed abroad in England with West Ham United, and in Spain with Atlétic",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "lisbon-night_clubs-16",
+        "name": "ChillOut Festival",
+        "cityId": "lisbon",
+        "categoryId": "night_clubs",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=ChillOut%20Festival%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/ChillOut_Festival",
+        "photo": null,
+        "description": "The ChillOut Festival is held in Daylesford, Victoria, every year on the Victorian Labour Day long weekend in March. ChillOut is the largest LGBTQI festival in regional Australia.",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "lisbon-night_clubs-17",
+        "name": "Live Trax",
+        "cityId": "lisbon",
+        "categoryId": "night_clubs",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Live%20Trax%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Live_Trax_(series)",
+        "photo": null,
+        "description": "Live Trax is a series of live albums released by Dave Matthews Band's Bama Rags label. The albums in the series feature performances by Dave Matthews Band and also Dave Matthews and Tim Reynolds. The majority of the releases are not sold in commercial stores, but rather by means of order or download from the band's official website. The name Live Trax is a reference to the former Trax Nightclub in Charlottesville, Vi",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "lisbon-night_clubs-18",
+        "name": "Helsinki Pride",
+        "cityId": "lisbon",
+        "categoryId": "night_clubs",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Helsinki%20Pride%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Helsinki_Pride",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/Helsinki_Pride_2007.jpg/960px-Helsinki_Pride_2007.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Helsinki_Pride"
+        },
+        "description": "Helsinki Pride is an LGBT pride event in Helsinki, Finland. The event takes place during the last week of June. The purpose of Helsinki Pride is to remind people that equal rights belong to everyone regardless of sexual orientation or gender. The word \"pride\" in the event's name comes from the purpose of participants to proudly represent themselves. Helsinki Pride is the biggest sexual minority event in Finland. In 2",
+        "lat": null,
+        "lng": null
+      }
+    ],
+    "restaurants": [
+      {
+        "id": "lisbon-restaurants-1",
+        "name": "Cinemateca Portuguesa",
+        "cityId": "lisbon",
+        "categoryId": "restaurants",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Cinemateca%20Portuguesa%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Cinemateca_Portuguesa",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/CinematecaPortuguesa_03.JPG/960px-CinematecaPortuguesa_03.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Cinemateca_Portuguesa"
+        },
+        "description": "Cinemateca Portuguesa is a public institution dedicated to the diffusion and preservation of the filmic arts in Portugal and, in particular, of Portuguese Cinema. It functions as a film archive and promotes daily screenings of worldwide films at its headquarters, now located on Rua Barata Salgueiro in Lisbon. It was established in 1948. The Cinemateca Portuguesa provides film festivals, film screenings, presentations",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "lisbon-restaurants-2",
+        "name": "Tavares",
+        "cityId": "lisbon",
+        "categoryId": "restaurants",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Tavares%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Tavares_(restaurant)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Restaurant_Tavares_Lisbonne_2.jpg/960px-Restaurant_Tavares_Lisbonne_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Tavares_(restaurant)"
+        },
+        "description": "The Tavares is a historic restaurant located in Lisbon, Portugal that has operated continuously since 1784. It is the oldest restaurant in Lisbon, having operated in the same location (though not the same building) since this time. It is the second oldest restaurant in the Iberian Peninsula, and has been classified as a national landmark in Portugal. The restaurant was frequented by writer Eça de Queiroz, who referen",
+        "lat": 38.711345,
+        "lng": -9.143161
+      },
+      {
+        "id": "lisbon-restaurants-3",
+        "name": "Vasco da Gama Tower",
+        "cityId": "lisbon",
+        "categoryId": "restaurants",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Vasco%20da%20Gama%20Tower%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Vasco_da_Gama_Tower",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Myriad_Hotel%2C_Torre_Vasco_da_Gama%2C_Passeio_do_Tejo%2C_Lisbon%2C_Portugal_julesvernex2.jpg/960px-Myriad_Hotel%2C_Torre_Vasco_da_Gama%2C_Passeio_do_Tejo%2C_Lisbon%2C_Portugal_julesvernex2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Vasco_da_Gama_Tower"
+        },
+        "description": "The Vasco da Gama Tower (Portuguese: Torre Vasco da Gama, pronounced [ˈtoʁɨ ˈvaʃku ðɐ ˈɣɐmɐ]) is a 160-metre (520 ft) lattice tower with skyscraper in the civil parish of Parque das Nações, the municipality of Lisbon, in Portugal. Built on the north bank of the Tagus river, it is named after the Portuguese explorer Vasco da Gama (the first person to chart the maritime route from Europe to India in 1498). The tower po",
+        "lat": 38.77472222,
+        "lng": -9.09138889
+      },
+      {
+        "id": "lisbon-restaurants-4",
+        "name": "Fort of Cresmina",
+        "cityId": "lisbon",
+        "categoryId": "restaurants",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Fort%20of%20Cresmina%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Fort_of_Cresmina",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/CrisminaFort1.jpg/960px-CrisminaFort1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Fort_of_Cresmina"
+        },
+        "description": "The Fort of Cresmina (Portuguese: Forte da Cresmina), also known as the Fort of Crismina, is located at the southern end of Cresmina beach, in the municipality of Cascais, Lisbon District, in Portugal. Originally built in 1762 to protect Cresmina beach from landings, it was transferred to private ownership in 1889. As of 2021 it was in the process of being converted into a restaurant.",
+        "lat": 38.72277778,
+        "lng": -9.47833333
+      },
+      {
+        "id": "lisbon-restaurants-5",
+        "name": "Praia da Adraga",
+        "cityId": "lisbon",
+        "categoryId": "restaurants",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Praia%20da%20Adraga%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Praia_da_Adraga",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/38/Praia_da_adraga_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Praia_da_Adraga"
+        },
+        "description": "Praia da Adraga is a North Atlantic beach in Portugal, near to the town of Almoçageme, Sintra. It has been recommended in British newspapers. It is a \"Blue Flag beach\" with access for handicapped persons, It has an excellent restaurant and a very good emergency service system, although it is hard to reach by public transportation. Because of its beauty it has been the subject of many photographs and many blogs.",
+        "lat": 38.80444444,
+        "lng": -9.485
+      },
+      {
+        "id": "lisbon-restaurants-6",
+        "name": "Pingo Doce",
+        "cityId": "lisbon",
+        "categoryId": "restaurants",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Pingo%20Doce%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Pingo_Doce",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/Pingo_Doce_Rua_Alves_Redol_Albufeira_9_September_2015_%281%29.JPG/960px-Pingo_Doce_Rua_Alves_Redol_Albufeira_9_September_2015_%281%29.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Pingo_Doce"
+        },
+        "description": "Pingo Doce (Sweet Drop in English) is one of the largest supermarket operators in Portugal, with 482 stores as of 2023, placing it just behind Continente which is the largest food retailer in the country. It is owned by the Portuguese company Jerónimo Martins and the Dutch-based Ahold Delhaize. Since 1992, Pingo Doce has been operated as a joint venture by Jerónimo Martins, in which it holds 51% and the Dutch retail ",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "lisbon-restaurants-7",
+        "name": "Lisbon",
+        "cityId": "lisbon",
+        "categoryId": "restaurants",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Lisbon%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Lisbon",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Lisbon_%2836831596786%29_%28cropped%29.jpg/960px-Lisbon_%2836831596786%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Lisbon"
+        },
+        "description": "Lisbon ( LIZ-bən; Portuguese: Lisboa [liʒˈβoɐ] ) is the capital and most populous city of Portugal, with an estimated population of 658,236 as of 2025, within its administrative limits and 3,353,000 within the metropolis, as of 2025. The city lies in the western part of the Iberian Peninsula, fronting the northern shore of the River Tagus. Lisbon is one of the oldest cities in the world and the second-oldest European",
+        "lat": 38.72527778,
+        "lng": -9.15
+      },
+      {
+        "id": "lisbon-restaurants-8",
+        "name": "José Avillez",
+        "cityId": "lisbon",
+        "categoryId": "restaurants",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Jos%C3%A9%20Avillez%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Jos%C3%A9_Avillez",
+        "photo": null,
+        "description": "José de Avillez Burnay Ereira (Lisbon, 24 October 1979), known as José Avillez, is a Portuguese chef and restaurateur. He is one of the most renowned Portuguese chefs. In the beginning of 2012, José Avillez opened the fully renovated Belcanto winning a Michelin star that same year. In 2014, Belcanto earned its second Michelin star and in 2019 was considered one of the 50 best restaurants in the world by The World’s 5",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "lisbon-restaurants-9",
+        "name": "Lisbon, Maine",
+        "cityId": "lisbon",
+        "categoryId": "restaurants",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Lisbon%2C%20Maine%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Lisbon%2C_Maine",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/93/Main_Street%2C_Lisbon%2C_ME.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Lisbon%2C_Maine"
+        },
+        "description": "Lisbon is a town in Androscoggin County, Maine, United States. The population was 9,711 at the 2020 census. It is included in both the Lewiston-Auburn, Maine Metropolitan Statistical Area and the Lewiston–Auburn, Maine Metropolitan New England City and Town Area. The town of Lisbon includes the villages of Lisbon and Lisbon Falls.",
+        "lat": 44.01416667,
+        "lng": -70.11027778
+      },
+      {
+        "id": "lisbon-restaurants-10",
+        "name": "Lisbon Falls, Maine",
+        "cityId": "lisbon",
+        "categoryId": "restaurants",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Lisbon%20Falls%2C%20Maine%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Lisbon_Falls%2C_Maine",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/2d/View_of_Main_Street%2C_Lisbon_Falls%2C_ME.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Lisbon_Falls%2C_Maine"
+        },
+        "description": "Lisbon Falls is a census-designated place (CDP) in the town of Lisbon, located in Androscoggin County, Maine, United States. As of the 2020 census, Lisbon Falls had a population of 4,182. It is included in both the Lewiston-Auburn, Maine Metropolitan Statistical Area and the Lewiston-Auburn, Maine, Metropolitan New England City and Town Area.",
+        "lat": 44.00416667,
+        "lng": -70.05861111
+      },
+      {
+        "id": "lisbon-restaurants-11",
+        "name": "Coliseu dos Recreios",
+        "cityId": "lisbon",
+        "categoryId": "restaurants",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Coliseu%20dos%20Recreios%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Coliseu_dos_Recreios",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Lisboa_-_Panorama_-_06_-_Vista_desde_el_Jard%C3%ADn_de_San_Pedro_de_Alc%C3%A1ntara_%28cropped%29_Coliseu.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Coliseu_dos_Recreios"
+        },
+        "description": "The Coliseu dos Recreios (also known as Coliseu de Lisboa) is a multi-purpose auditorium located in Lisbon, Portugal.",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "lisbon-restaurants-12",
+        "name": "Mercantile Bank",
+        "cityId": "lisbon",
+        "categoryId": "restaurants",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Mercantile%20Bank%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Mercantile_Bank_(South_Africa)",
+        "photo": null,
+        "description": "Mercantile Bank Limited is a South African commercial bank, founded in 1965. It was previously called Bank of Lisbon International. The bank is headquartered in Sandton, South Africa, and provides products and services in retail banking, corporate finance, asset management, equity brokerage and security. It is a fully owned subsidiary of Mercantile Bank Holdings Limited, which in turn is owned by the holding company ",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "lisbon-restaurants-13",
+        "name": "Eurobest European Advertising Festival",
+        "cityId": "lisbon",
+        "categoryId": "restaurants",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Eurobest%20European%20Advertising%20Festival%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Eurobest_European_Advertising_Festival",
+        "photo": null,
+        "description": "The Eurobest Festival of Creativity (formerly the European Advertising Festival) is an annual event which celebrates and rewards \"creative excellence\" in creative communications, advertising and related fields in Europe. The first Festival took place in Stockholm, Sweden, in December 2008, based on the Eurobest Awards, which were launched in 1988. It regularly moves to different host cities; in 2009, it took place in",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "lisbon-restaurants-14",
+        "name": "Nuno Mendes",
+        "cityId": "lisbon",
+        "categoryId": "restaurants",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Nuno%20Mendes%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Nuno_Mendes_(chef)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/Nuno_Mendes_%28chef%29.jpg/960px-Nuno_Mendes_%28chef%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Nuno_Mendes_(chef)"
+        },
+        "description": "Nuno Mendes (born 1973) is a London-based Portuguese chef, former executive chef at Chiltern Firehouse, London.",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "lisbon-restaurants-15",
+        "name": "Verride Palace",
+        "cityId": "lisbon",
+        "categoryId": "restaurants",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Verride%20Palace%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Verride_Palace",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Lisbon_%2848080376582%29.jpg/960px-Lisbon_%2848080376582%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Verride_Palace"
+        },
+        "description": "Verride Palace, or the Palace of Santa Catarina, (Portuguese: Palácio de Verride; Palácio de Santa Catarina) is an 18th-century Portuguese palace located in Lisbon, Portugal.",
+        "lat": 38.7098,
+        "lng": -9.147
+      },
+      {
+        "id": "lisbon-restaurants-16",
+        "name": "Belém Cultural Center",
+        "cityId": "lisbon",
+        "categoryId": "restaurants",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Bel%C3%A9m%20Cultural%20Center%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Bel%C3%A9m_Cultural_Center",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/View_from_Padr%C3%A3o_dos_Descobrimentos_-_Centro_Cultural_de_Bel%C3%A9m_%282%29_-_Jul_2008.jpg/960px-View_from_Padr%C3%A3o_dos_Descobrimentos_-_Centro_Cultural_de_Bel%C3%A9m_%282%29_-_Jul_2008.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Bel%C3%A9m_Cultural_Center"
+        },
+        "description": "The Belém Cultural Center (Portuguese: Centro Cultural de Belém) is a complex of artistic venues located in Belém in the city of Lisbon, Portugal. It is the largest building with cultural facilities in Portugal, with over 140,000 m2 (1,500,000 sq ft) of usable space. The centre was initially built to accommodate the programme of Portugal's Presidency of the European Council in 1992, but with the long-term goal of pro",
+        "lat": 38.69527778,
+        "lng": -9.20861111
+      },
+      {
+        "id": "lisbon-restaurants-17",
+        "name": "Nepalis in Portugal",
+        "cityId": "lisbon",
+        "categoryId": "restaurants",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Nepalis%20in%20Portugal%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Nepalis_in_Portugal",
+        "photo": null,
+        "description": "There is a community of Nepalis living and working in Portugal. They are one of the fastest growing expatriates and immigrants in Portugal. Most of them reside in Lisbon. As of 2019, 1,287 Nepalis acquired the Portuguese citizenship, making them the ninth biggest nationality in Portugal.",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "lisbon-restaurants-18",
+        "name": "One Night in Lisbon",
+        "cityId": "lisbon",
+        "categoryId": "restaurants",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=One%20Night%20in%20Lisbon%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/One_Night_in_Lisbon",
+        "photo": null,
+        "description": "One Night in Lisbon is a 1941 American comedy thriller film directed by Edward H. Griffith and starring Fred MacMurray, Madeleine Carroll and Patricia Morison. It was one of a cycle of pro-British films produced in Hollywood before the United States' entry into the war in December 1941. The film is based on John Van Druten's 1931 British play There's Always Juliet, updated to include the current wartime situation.",
+        "lat": null,
+        "lng": null
+      }
+    ],
+    "bars": [
+      {
+        "id": "lisbon-bars-1",
+        "name": "José de Sousa",
+        "cityId": "lisbon",
+        "categoryId": "bars",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Jos%C3%A9%20de%20Sousa%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Jos%C3%A9_de_Sousa",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Jos%C3%A9_de_Sousa_in_2021.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Jos%C3%A9_de_Sousa"
+        },
+        "description": "José Augusto Oliveira de Sousa (born 12 February 1974) is a Portuguese professional darts player who competes in Professional Darts Corporation (PDC) events, where he reached a peak ranking of world number six in 2022. A PDC Tour Card holder since 2019, he won his first PDC major title at the 2020 Grand Slam of Darts and competed in the 2021 Premier League, where he finished as runner-up. His best World Championship ",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "lisbon-bars-2",
+        "name": "Praia do Guincho",
+        "cityId": "lisbon",
+        "categoryId": "bars",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Praia%20do%20Guincho%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Praia_do_Guincho",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Guincho_May_2012-2.jpg/960px-Guincho_May_2012-2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Praia_do_Guincho"
+        },
+        "description": "Praia do Guincho (English: Guincho Beach) is an Atlantic beach located on Portugal's Estoril coast, 5 km from the town of Cascais, and is located in the municipality of Cascais, more precisely in the parishes of Cascais e Estoril and Alcabideche, in the District of Lisbon. Guincho is situated close to several small villages, including Areia, Charneca, Figueira do Guincho and Biscaia. The beach, which has a shoreline ",
+        "lat": 38.733149,
+        "lng": -9.472696
+      },
+      {
+        "id": "lisbon-bars-3",
+        "name": "Adelino da Palma Carlos",
+        "cityId": "lisbon",
+        "categoryId": "bars",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Adelino%20da%20Palma%20Carlos%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Adelino_da_Palma_Carlos",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Adelino_da_Palma_Carlos_-_Ilustra%C3%A7%C3%A3o_Portugueza_%2809Fev1924%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Adelino_da_Palma_Carlos"
+        },
+        "description": "Adelino da Palma Carlos, GCC, GCIH, GOL (Portuguese pronunciation: [ɐðɨˈlinu ðɐ ˈpalmɐ ˈkaɾluʃ]; Faro, 3 March 1905 – Lisbon, 25 October 1992), was a Portuguese lawyer, scholar, politician and a freemason who was the first Prime Minister of Portugal after the 25 April 1974 revolution.",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "lisbon-bars-4",
+        "name": "Applegate, California",
+        "cityId": "lisbon",
+        "categoryId": "bars",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Applegate%2C%20California%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Applegate%2C_California",
+        "photo": null,
+        "description": "Applegate is an unincorporated community in Placer County, California. It is 7.25 mi (11,670 m) south-southwest of Colfax, and 9.3 mi (15.0 km) northeast of Auburn. The city's msl elevation is 2,005 ft (611 m). Its ZIP code is 95703 and its area code 530. Applegate was originally settled in 1849 by Lisbon Applegate, who came to California with his son, George, from Missouri. Part of a family that first emigrated to A",
+        "lat": 39.00083333,
+        "lng": -120.9925
+      },
+      {
+        "id": "lisbon-bars-5",
+        "name": "2015 Portuguese legislative election",
+        "cityId": "lisbon",
+        "categoryId": "bars",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=2015%20Portuguese%20legislative%20election%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/2015_Portuguese_legislative_election",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/28/Pedro_Passos_Coelho_%289298463251%29cropped.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/2015_Portuguese_legislative_election"
+        },
+        "description": "The 2015 Portuguese legislative election was held on 4 October. All 230 seats of the Assembly of the Republic were in contention. The right-wing coalition Portugal Ahead (PàF), composed of the Social Democratic Party (PSD) and the People's Party (CDS–PP), won a plurality of the vote with 38.6 percent, securing almost 47 percent of the seats in the Assembly. Compared with 2011, this was a loss of 12 points in support ",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "lisbon-bars-6",
+        "name": "2019 Portuguese legislative election",
+        "cityId": "lisbon",
+        "categoryId": "bars",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=2019%20Portuguese%20legislative%20election%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/2019_Portuguese_legislative_election",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/2022_-_On_the_floor_SZ9_5864_%2852472414338%29_%28cropped%29.jpg/960px-2022_-_On_the_floor_SZ9_5864_%2852472414338%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/2019_Portuguese_legislative_election"
+        },
+        "description": "The 2019 Portuguese legislative election was held on 6 October 2019. All 230 seats to the Assembly of the Republic were contested. The Socialist Party (PS) won the elections with 36 percent of the votes and 108 seats, a gain of 22 compared with 2015. The PS won the big districts of Porto and Lisbon, although Porto was closer than expected, and was able to gain districts from the PSD, like Aveiro and Viana do Castelo,",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "lisbon-bars-7",
+        "name": "Montenegrin handball clubs in European competitions",
+        "cityId": "lisbon",
+        "categoryId": "bars",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Montenegrin%20handball%20clubs%20in%20European%20competitions%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Montenegrin_handball_clubs_in_European_competitions",
+        "photo": null,
+        "description": "Montenegrin men's handball clubs are participating in the EHF competitions since the season 1995/96. First team which ever competed at the European cups was Mornar Bar and most successful Montenegrin represent in the European competitions is Lovćen Cetinje. The other Montenegrin clubs which competed at the EHF competitions are Berane, Rudar Pljevlja, Budućnost Podgorica, Sutjeska Nikšić, Mojkovac, Partizan Tivat and ",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "lisbon-bars-8",
+        "name": "Marco Fortes",
+        "cityId": "lisbon",
+        "categoryId": "bars",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Marco%20Fortes%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Marco_Fortes",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Marco_Fortes_Daegu_2011.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Marco_Fortes"
+        },
+        "description": "Marco Fortes (born 26 September 1982) is a male shot putter from Portugal. His personal best throw is 21.02 meters – Portuguese record – was achieved at the 2012 European Cup Winter Throwing in Bar, Montenegro, where he won the gold medal.",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "lisbon-bars-9",
+        "name": "2009 European Parliament election in Sweden",
+        "cityId": "lisbon",
+        "categoryId": "bars",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=2009%20European%20Parliament%20election%20in%20Sweden%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/2009_European_Parliament_election_in_Sweden",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Marita_Ulvskog_2009.jpg/960px-Marita_Ulvskog_2009.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/2009_European_Parliament_election_in_Sweden"
+        },
+        "description": "The 2009 European Parliament election in Sweden was held on 7 June 2009 and determined the makeup of the Swedish delegation to the European Parliament. The election was held using a modified form of the Sainte-Laguë method of party-list proportional representation using the entire country as a single electoral constituency. There is a threshold limit of 4 percent for Swedish elections to the European Parliament, so t",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "lisbon-bars-10",
+        "name": "Manuel Lima",
+        "cityId": "lisbon",
+        "categoryId": "bars",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Manuel%20Lima%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Manuel_Lima",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/Manuel_Lima.jpg/960px-Manuel_Lima.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Manuel_Lima"
+        },
+        "description": "Manuel Lima (born May 3, 1978) is a Portuguese designer, author, and lecturer known for his work in information visualization and visual culture. He is the author of four books translated into several languages and resides in Lisbon with his wife and two daughters.",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "lisbon-bars-11",
+        "name": "1975 Portuguese Constituent Assembly election",
+        "cityId": "lisbon",
+        "categoryId": "bars",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=1975%20Portuguese%20Constituent%20Assembly%20election%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/1975_Portuguese_Constituent_Assembly_election",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Francisco_S%C3%A1_Carneiro.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/1975_Portuguese_Constituent_Assembly_election"
+        },
+        "description": "A Constituent Assembly election was carried out in Portugal on 25 April 1975, exactly one year after the Carnation Revolution. The election elected all 250 members of the Portuguese Constituent Assembly. It was the first free election held in Portugal since 1925, but also the first under universal suffrage in Portuguese history. Turnout was a record 91.66 percent, which remains (as of 2025) the highest ever in any Po",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "lisbon-bars-12",
+        "name": "Coliseu dos Recreios",
+        "cityId": "lisbon",
+        "categoryId": "bars",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Coliseu%20dos%20Recreios%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Coliseu_dos_Recreios",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Lisboa_-_Panorama_-_06_-_Vista_desde_el_Jard%C3%ADn_de_San_Pedro_de_Alc%C3%A1ntara_%28cropped%29_Coliseu.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Coliseu_dos_Recreios"
+        },
+        "description": "The Coliseu dos Recreios (also known as Coliseu de Lisboa) is a multi-purpose auditorium located in Lisbon, Portugal.",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "lisbon-bars-13",
+        "name": "Vinicius Cantuária",
+        "cityId": "lisbon",
+        "categoryId": "bars",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Vinicius%20Cantu%C3%A1ria%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Vinicius_Cantu%C3%A1ria",
+        "photo": null,
+        "description": "Vinicius Cantuária (born April 29, 1951) is a Brazilian singer, songwriter, guitarist, drummer, and percussionist. He is associated with bossa nova and Brazilian jazz. Born in the Amazonian city of Manaus, Cantuária grew up in Rio de Janeiro and moved to New York City in the mid-1990s. His career spans several zones of Brazilian music. He founded the Brazilian rock group O Terço in the 1970s, released six solo albums",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "lisbon-bars-14",
+        "name": "Lines of Torres Vedras",
+        "cityId": "lisbon",
+        "categoryId": "bars",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Lines%20of%20Torres%20Vedras%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Lines_of_Torres_Vedras",
+        "photo": null,
+        "description": "The Lines of Torres Vedras were lines of forts and other military defences built in secrecy to defend Lisbon during the Peninsular War. Named after the nearby town of Torres Vedras, they were ordered by Arthur Wellesley, Viscount Wellington, constructed by Colonel Richard Fletcher and his Portuguese workers between November 1809 and September 1810, and used to stop Marshal Masséna's 1810 offensive. The Lines were dec",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "lisbon-bars-15",
+        "name": "2009 Portuguese legislative election",
+        "cityId": "lisbon",
+        "categoryId": "bars",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=2009%20Portuguese%20legislative%20election%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/2009_Portuguese_legislative_election",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Jos%C3%A9_Socrates_cropped_from_Dmitry_Medvedev_in_Portugal_20_November_2010-2_%28cropped%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/2009_Portuguese_legislative_election"
+        },
+        "description": "The 2009 Portuguese legislative election was held on 27 September, to renew all 230 members of the Assembly of the Republic. The election took place during the regular term of the previous four-year legislative period, following four years under a majority government of the Socialist Party (PS). A total of 13 parties and two coalitions competed in this election. For the first, and so far only, time in legislative ele",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "lisbon-bars-16",
+        "name": "Cresmina Dune",
+        "cityId": "lisbon",
+        "categoryId": "bars",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Cresmina%20Dune%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Cresmina_Dune",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/CresminaDunes1.jpg/960px-CresminaDunes1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Cresmina_Dune"
+        },
+        "description": "The Cresmina Dune extends over 66 hectares and is a part of the Guincho-Oitavos dune system, located on the edge of the Sintra-Cascais Natural Park near Cascais in Portugal. This dune system is unusual in that, as a result of the prevailing northwest winds, the sand from the Guincho and Cresmina beaches eventually returns to the sea 5 km further to the south near Guia, after migrating over the flat, rocky and largely",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "lisbon-bars-17",
+        "name": "Verride Palace",
+        "cityId": "lisbon",
+        "categoryId": "bars",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Verride%20Palace%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Verride_Palace",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Lisbon_%2848080376582%29.jpg/960px-Lisbon_%2848080376582%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Verride_Palace"
+        },
+        "description": "Verride Palace, or the Palace of Santa Catarina, (Portuguese: Palácio de Verride; Palácio de Santa Catarina) is an 18th-century Portuguese palace located in Lisbon, Portugal.",
+        "lat": 38.7098,
+        "lng": -9.147
+      },
+      {
+        "id": "lisbon-bars-18",
+        "name": "1911 Portuguese National Constituent Assembly election",
+        "cityId": "lisbon",
+        "categoryId": "bars",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=1911%20Portuguese%20National%20Constituent%20Assembly%20election%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/1911_Portuguese_National_Constituent_Assembly_election",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/87/Te%C3%B3filo_Braga%2C_1915_-_Ant%C3%B3nio_Novais_%28cropped%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/1911_Portuguese_National_Constituent_Assembly_election"
+        },
+        "description": "National Constituent Assembly elections were held in Portugal on 28 May 1911 following a coup in October 1910. The result was a victory for the Portuguese Republican Party, which won 229 of the 234 seats.",
+        "lat": null,
+        "lng": null
+      }
+    ],
+    "coffee_shops": [
+      {
+        "id": "lisbon-coffee_shops-1",
+        "name": "Café A Brasileira",
+        "cityId": "lisbon",
+        "categoryId": "coffee_shops",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Caf%C3%A9%20A%20Brasileira%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Caf%C3%A9_A_Brasileira",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Cafe_Brasileira_in_Lisbon.jpg/960px-Cafe_Brasileira_in_Lisbon.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Caf%C3%A9_A_Brasileira"
+        },
+        "description": "The Café A Brasileira ([kɐˈfɛ ɐ βɾɐziˈlɐjɾɐ]; \"Café The Brazilian\"), previously spelled as A Brazileira, is a café located in Lisbon, specifically at 120 Rua Garrett, in the civil parish of Santa Maria Maior. Opened in 1905 by Adrian Telles as a shop for import and sale of Brazilian coffee, it is now one of the oldest and most famous cafés in the old quarter of Lisbon. In the 1920s, the café became a popular meeting ",
+        "lat": 38.71069167,
+        "lng": -9.14204722
+      },
+      {
+        "id": "lisbon-coffee_shops-2",
+        "name": "Miss República Portuguesa",
+        "cityId": "lisbon",
+        "categoryId": "coffee_shops",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Miss%20Rep%C3%BAblica%20Portuguesa%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Miss_Rep%C3%BAblica_Portuguesa",
+        "photo": null,
+        "description": "Miss República Portuguesa is a national Beauty pageant in Portugal. The main winner of the contest is sent to Miss World.",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "lisbon-coffee_shops-3",
+        "name": "Bica",
+        "cityId": "lisbon",
+        "categoryId": "coffee_shops",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Bica%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Bica_(coffee)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Caf%C3%A9_Delta.jpg/960px-Caf%C3%A9_Delta.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Bica_(coffee)"
+        },
+        "description": "Bica is the term commonly used in certain areas of Portugal for a café ('coffee' in Portuguese) that is similar to espresso, but extracted to a greater volume than its Italian counterpart (akin to a lungo in Italy) and a little bit smoother in taste, due to the Portuguese roasting process being slightly lighter than the Italian one. In almost all regions in Portugal, it is simply called um café ('a coffee' in Portugu",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "lisbon-coffee_shops-4",
+        "name": "Restauradores Square",
+        "cityId": "lisbon",
+        "categoryId": "coffee_shops",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Restauradores%20Square%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Restauradores_Square",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Lisboa_-_Pra%C3%A7a_dos_Restauradores_%2853868860069%29.jpg/960px-Lisboa_-_Pra%C3%A7a_dos_Restauradores_%2853868860069%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Restauradores_Square"
+        },
+        "description": "Restauradores Square (Portuguese: Praça dos Restauradores, lit. 'restorers square / restoration square') is a public square in the city of Lisbon, Portugal. It is located at the southeast end of Avenida da Liberdade, near Rossio square.",
+        "lat": 38.71583333,
+        "lng": -9.14166667
+      },
+      {
+        "id": "lisbon-coffee_shops-5",
+        "name": "Museum of Art, Architecture and Technology",
+        "cityId": "lisbon",
+        "categoryId": "coffee_shops",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Museum%20of%20Art%2C%20Architecture%20and%20Technology%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Museum_of_Art%2C_Architecture_and_Technology",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Exterior_of_Museu_de_Arte%2C_Arquitetura_e_Tecnologia_67.jpg/960px-Exterior_of_Museu_de_Arte%2C_Arquitetura_e_Tecnologia_67.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Museum_of_Art%2C_Architecture_and_Technology"
+        },
+        "description": "The Museum of Art, Architecture and Technology or MAAT (Portuguese: Museu de Arte, Arquitetura e Tecnologia) (MAAT) is a museum in Lisbon, Portugal.",
+        "lat": 38.69591,
+        "lng": -9.19464
+      },
+      {
+        "id": "lisbon-coffee_shops-6",
+        "name": "Lisbon",
+        "cityId": "lisbon",
+        "categoryId": "coffee_shops",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Lisbon%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Lisbon",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Lisbon_%2836831596786%29_%28cropped%29.jpg/960px-Lisbon_%2836831596786%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Lisbon"
+        },
+        "description": "Lisbon ( LIZ-bən; Portuguese: Lisboa [liʒˈβoɐ] ) is the capital and most populous city of Portugal, with an estimated population of 658,236 as of 2025, within its administrative limits and 3,353,000 within the metropolis, as of 2025. The city lies in the western part of the Iberian Peninsula, fronting the northern shore of the River Tagus. Lisbon is one of the oldest cities in the world and the second-oldest European",
+        "lat": 38.72527778,
+        "lng": -9.15
+      },
+      {
+        "id": "lisbon-coffee_shops-7",
+        "name": "Berardo Collection Museum",
+        "cityId": "lisbon",
+        "categoryId": "coffee_shops",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Berardo%20Collection%20Museum%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Berardo_Collection_Museum",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/Berardo_Collection_Museum.png/960px-Berardo_Collection_Museum.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Berardo_Collection_Museum"
+        },
+        "description": "The Berardo Collection Museum (in Portuguese: Museu Colecção Berardo) was a museum of modern and contemporary art in Belém, a district of Lisbon, Portugal. It was replaced by the Contemporary Art Museum - Centro Cultural de Belém in January 2023.",
+        "lat": 38.69552222,
+        "lng": -9.20837778
+      },
+      {
+        "id": "lisbon-coffee_shops-8",
+        "name": "Braga",
+        "cityId": "lisbon",
+        "categoryId": "coffee_shops",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Braga%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Braga_(S%C3%A3o_Jos%C3%A9_de_S%C3%A3o_L%C3%A1zaro_e_S%C3%A3o_Jo%C3%A3o_do_Souto)",
+        "photo": null,
+        "description": "Braga (São José de São Lázaro e São João do Souto) is a civil parish in the municipality of Braga, Portugal. It was formed in 2013 by the merger of the former parishes São José de São Lázaro and São João do Souto. The population in 2011 was 14,301, in an area of 2.43 km2 (0.94 sq mi). Located in the Largo Barão de São Martinho is the Café A Brasileira (The Brazilian Cafe), an establishment with a storied history in B",
+        "lat": 41.548,
+        "lng": -8.412
+      },
+      {
+        "id": "lisbon-coffee_shops-9",
+        "name": "Avenida da Liberdade",
+        "cityId": "lisbon",
+        "categoryId": "coffee_shops",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Avenida%20da%20Liberdade%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Avenida_da_Liberdade",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Avenida_da_Liberdade_%2822344060581%29_%28cropped%29.jpg/960px-Avenida_da_Liberdade_%2822344060581%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Avenida_da_Liberdade"
+        },
+        "description": "Avenida da Liberdade (Portuguese pronunciation: [ɐveˈniðɐ ðɐ liβɐɾˈðaðɯ]; meaning 'Avenue of Liberty') is a boulevard in central Lisbon, Portugal. It was built between 1879 and 1886 and designed by engineer Frederico Ressano Garcia. Measuring 90 metres wide, the avenue was modeled after Paris's Champs-Élysées and is known for its luxury retail stores and architecture. The avenue was built on the former site of the Pa",
+        "lat": 38.72027778,
+        "lng": -9.14583333
+      },
+      {
+        "id": "lisbon-coffee_shops-10",
+        "name": "Teatro da Rua dos Condes",
+        "cityId": "lisbon",
+        "categoryId": "coffee_shops",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Teatro%20da%20Rua%20dos%20Condes%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Teatro_da_Rua_dos_Condes",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Teatro_da_Rua_dos_Condes_ap%C3%B3s_a_reconstru%C3%A7%C3%A3o_de_1888.png/960px-Teatro_da_Rua_dos_Condes_ap%C3%B3s_a_reconstru%C3%A7%C3%A3o_de_1888.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Teatro_da_Rua_dos_Condes"
+        },
+        "description": "The Teatro da Rua dos Condes, or simply Condes, was a theatre in the Portuguese capital of Lisbon. It was opened in 1738 and rebuilt in 1755 after an earthquake. Never considered comfortable, it was demolished and rebuilt in 1888 and eventually converted to a cinema. After a further demolition and reconstruction as a purpose-built cinema, the building now houses a Hard Rock Café. For part of its life the Teatro da Ru",
+        "lat": 38.71669444,
+        "lng": -9.14180556
+      },
+      {
+        "id": "lisbon-coffee_shops-11",
+        "name": "Casa das Histórias Paula Rego",
+        "cityId": "lisbon",
+        "categoryId": "coffee_shops",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Casa%20das%20Hist%C3%B3rias%20Paula%20Rego%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Casa_das_Hist%C3%B3rias_Paula_Rego",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Exterior_of_Casa_das_Hist%C3%B3rias_Paula_Rego_38.jpg/960px-Exterior_of_Casa_das_Hist%C3%B3rias_Paula_Rego_38.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Casa_das_Hist%C3%B3rias_Paula_Rego"
+        },
+        "description": "The Casa das Histórias Paula Rego (\"House of Stories Paula Rego\") is a museum in Cascais, Lisbon District, on the Portuguese Riviera, designed by the architect Eduardo Souto de Moura to house some of the works of the artist Paula Rego (1935 – 2022).",
+        "lat": 38.69036,
+        "lng": -9.42133
+      },
+      {
+        "id": "lisbon-coffee_shops-12",
+        "name": "Praça do Comércio",
+        "cityId": "lisbon",
+        "categoryId": "coffee_shops",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Pra%C3%A7a%20do%20Com%C3%A9rcio%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Pra%C3%A7a_do_Com%C3%A9rcio",
+        "photo": null,
+        "description": "The Praça do Comércio (Portuguese pronunciation: [ˈpɾasɐ ðu kuˈmɛɾsju]; transl. Commerce Square), more commonly known in Portuguese as Terreiro do Paço ([tɨˈʁɐjɾu ðu ˈpasu] (transl. Palace Yard), is a large, harbour-facing plaza in Portugal's capital, Lisbon, and is one of the largest in Portugal, with an area of 175 by 175 m (574 by 574 ft), that is, 30,600 m2 (329,000 ft2). Facing the Tagus river to the south, the ",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "lisbon-coffee_shops-13",
+        "name": "Benfica, Lisbon",
+        "cityId": "lisbon",
+        "categoryId": "coffee_shops",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Benfica%2C%20Lisbon%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Benfica%2C_Lisbon",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/Igreja_Paroquial_de_Benfica.jpg/960px-Igreja_Paroquial_de_Benfica.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Benfica%2C_Lisbon"
+        },
+        "description": "Benfica (locally [bɐ̃jˈfikɐ]) is a freguesia (civil parish) and district of Lisbon, the capital of Portugal. Located in northern Lisbon, Benfica is west of São Domingos de Benfica, Carnide, and Campolide, north of Belém, Ajuda, and Alcântara, and directly east of Lisbon's border with Amadora. The population in 2011 was 36,985,",
+        "lat": 38.751,
+        "lng": -9.202
+      },
+      {
+        "id": "lisbon-coffee_shops-14",
+        "name": "Estrela, Lisbon",
+        "cityId": "lisbon",
+        "categoryId": "coffee_shops",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Estrela%2C%20Lisbon%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Estrela%2C_Lisbon",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/Pal%C3%A1cio_de_S%C3%A3o_Bento_%28Assembl%C3%A9e_nationale%29_%289307363528%29_%28cropped%29.jpg/960px-Pal%C3%A1cio_de_S%C3%A3o_Bento_%28Assembl%C3%A9e_nationale%29_%289307363528%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Estrela%2C_Lisbon"
+        },
+        "description": "Estrela (Portuguese pronunciation: [ɨʃˈtɾelɐ]) is a freguesia (civil parish) and district of Lisbon, the capital of Portugal. Located in the historic center of Lisbon, Estrela is south of Campo de Ourique, west of Misericórdia, and east of Alcântara. The population in 2011 was 20,128. The Portuguese word estrela means star in English.",
+        "lat": 38.714,
+        "lng": -9.16
+      },
+      {
+        "id": "lisbon-coffee_shops-15",
+        "name": "Rossio",
+        "cityId": "lisbon",
+        "categoryId": "coffee_shops",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Rossio%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Rossio",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/52/Pra%C3%A7a_de_D._Pedro_IV.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Rossio"
+        },
+        "description": "The King Pedro IV Square (Portuguese: Praça de D. Pedro IV), popularly known as Rossio ([ʁuˈsi.u]), is a square in the Pombaline Downtown of Lisbon, Portugal. It has been one of its main squares since the Middle Ages. It has been the setting of popular revolts and celebrations, bullfights and executions, and is now a preferred meeting place of Lisbon natives and tourists alike. The square is named after Pedro IV, Kin",
+        "lat": 38.71388889,
+        "lng": -9.13944444
+      },
+      {
+        "id": "lisbon-coffee_shops-16",
+        "name": "Chiado",
+        "cityId": "lisbon",
+        "categoryId": "coffee_shops",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Chiado%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Chiado",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Lisbon_10064_Lisboa_Pra%C3%A7a_Lu%C3%ADs_de_Cam%C3%B5es_2006_Luca_Galuzzi_%28cropped%29.jpg/960px-Lisbon_10064_Lisboa_Pra%C3%A7a_Lu%C3%ADs_de_Cam%C3%B5es_2006_Luca_Galuzzi_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Chiado"
+        },
+        "description": "The Chiado (Portuguese pronunciation: [ʃiˈaðu]) is a neighborhood in the historic center of Lisbon, the capital of Portugal. Chiado is an important cultural and commercial district, known for its luxury shopping, historic landmarks, and its numerous theatres and museums. In 1988, the Chiado area was severely affected by a fire. Following an extensive rehabilitation project by Pritzker-winning architect Álvaro Siza Vi",
+        "lat": 38.71055556,
+        "lng": -9.14222222
+      },
+      {
+        "id": "lisbon-coffee_shops-17",
+        "name": "Misericórdia",
+        "cityId": "lisbon",
+        "categoryId": "coffee_shops",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Miseric%C3%B3rdia%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Miseric%C3%B3rdia",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Miradouro_de_S%C3%A3o_Pedro_de_Alc%C3%A2ntara_-_Lisboa_-_Portugal_%2826851722910%29_%28cropped%29.jpg/960px-Miradouro_de_S%C3%A3o_Pedro_de_Alc%C3%A2ntara_-_Lisboa_-_Portugal_%2826851722910%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Miseric%C3%B3rdia"
+        },
+        "description": "Misericórdia (Portuguese pronunciation: [ˌmizɨɾiˈkɔɾðjɐ]) is a freguesia (civil parish) and district of Lisbon, the capital of Portugal. Located in the historic center of Lisbon, Misericórdia is to the east of Estrela, west of Santa Maria Maior, and south of Santo António. It is home to numerous famous neighborhoods, including Bairro Alto, Príncipe Real, and parts of Chiado. The population in 2011 was 13,044.",
+        "lat": 38.711,
+        "lng": -9.148
+      },
+      {
+        "id": "lisbon-coffee_shops-18",
+        "name": "Pestana Palace",
+        "cityId": "lisbon",
+        "categoryId": "coffee_shops",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Pestana%20Palace%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Pestana_Palace",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Pestana_Palace_Hotel_IMG_2004_%28cropped%29.jpg/960px-Pestana_Palace_Hotel_IMG_2004_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Pestana_Palace"
+        },
+        "description": "Pestana Palace is a luxury hotel in Lisbon, Portugal, in the Alcântara district. Housed in the historic Palácio Vale Flor, Pestana Palace is the flagship luxury hotel of the Pestana Group, one of Portugal's premier hotel groups. It is a member of The Leading Hotels of the World. The hotel hosted the 2023 Bilderberg Conference between May 18–21.",
+        "lat": null,
+        "lng": null
+      }
+    ],
+    "bookshops": [
+      {
+        "id": "lisbon-bookshops-1",
+        "name": "Livraria Bertrand",
+        "cityId": "lisbon",
+        "categoryId": "bookshops",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Livraria%20Bertrand%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Livraria_Bertrand",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/LivrariaBertrand2.JPG/960px-LivrariaBertrand2.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Livraria_Bertrand"
+        },
+        "description": "The Bertrand Library is a Portuguese book retailer operating 59 branches nationwide, including 2 in Madeira. Founded in 1732, its original store in the Chiado neighborhood of Lisbon was declared to be the oldest operating bookstore in the world by the Guinness Book of World Records in 2011. Bertrand has been frequented by numerous famous authors, including Alexandre Herculano, Fernando Pessoa, Eça de Queirós, Antero ",
+        "lat": 38.71063889,
+        "lng": -9.14113889
+      },
+      {
+        "id": "lisbon-bookshops-2",
+        "name": "Livraria Lello",
+        "cityId": "lisbon",
+        "categoryId": "bookshops",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Livraria%20Lello%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Livraria_Lello",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Livraria_Lello%2C_Porto.jpg/960px-Livraria_Lello%2C_Porto.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Livraria_Lello"
+        },
+        "description": "The Livraria Lello & Irmão (formerly Livraria Chardron, until 1919), commonly known in English as the Lello Bookshop, is a bookshop located in the civil parish of Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória, in the northern Portuguese municipality of Porto. Along with Bertrand in Lisbon, it is one of the oldest bookstores in Portugal and frequently rated among the top bookstores in the world (plac",
+        "lat": 41.14694444,
+        "lng": -8.61472222
+      },
+      {
+        "id": "lisbon-bookshops-3",
+        "name": "Moravian Book Shop",
+        "cityId": "lisbon",
+        "categoryId": "bookshops",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Moravian%20Book%20Shop%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Moravian_Book_Shop",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/Moravian_Book_Shop.jpg/960px-Moravian_Book_Shop.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Moravian_Book_Shop"
+        },
+        "description": "Moravian Book Shop is a book store based in Bethlehem, Pennsylvania. It was founded in 1745 by the Moravian Church and lays claim to being the oldest continuously operating bookstore in the United States and the second-oldest in the world after Livraria Bertrand in Lisbon, Portugal, which opened in 1732. As of June 2018, Moravian Book Shop is also home to the Moravian College student bookstore. In 2018, the Moravian ",
+        "lat": 40.6194,
+        "lng": -75.3818
+      },
+      {
+        "id": "lisbon-bookshops-4",
+        "name": "Night Train to Lisbon",
+        "cityId": "lisbon",
+        "categoryId": "bookshops",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Night%20Train%20to%20Lisbon%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Night_Train_to_Lisbon_(film)",
+        "photo": null,
+        "description": "Night Train to Lisbon is a 2013 internationally co-produced English-language drama film directed by Bille August and starring Jeremy Irons. Based on the 2004 novel Night Train to Lisbon by Pascal Mercier and written by Greg Latter and Ulrich Herrmann, the film is about a Swiss teacher who saves the life of a woman and then abandons his teaching career and reserved life. The film premiered out of competition at the 63",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "lisbon-bookshops-5",
+        "name": "Portuguese architecture",
+        "cityId": "lisbon",
+        "categoryId": "bookshops",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Portuguese%20architecture%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Portuguese_architecture",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Sintra_-_Palacio_da_Pena_%2820332995770%29_%28cropped%29_%28cropped%29.jpg/960px-Sintra_-_Palacio_da_Pena_%2820332995770%29_%28cropped%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Portuguese_architecture"
+        },
+        "description": "Portuguese architecture refers to both the architecture of Portugal's modern-day territory in Continental Portugal, the Azores and Madeira, as well as the architectural heritage/patrimony of Portuguese architects and styles throughout the world, particularly in countries formerly part of the Portuguese Empire. Like all aspects of Portuguese culture, Portuguese architecture reflects the artistic influences of the vari",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "lisbon-bookshops-6",
+        "name": "Independentes",
+        "cityId": "lisbon",
+        "categoryId": "bookshops",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Independentes%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Independentes",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/1944_Os_Independentes.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Independentes"
+        },
+        "description": "Independentes ('Independents') was a Portuguese artist group known for exhibitions of abstract art, active in the 1940s. The exhibitions' main organizer and coordinator, painter and architect Fernando Lanhas, coincidentally is the central figure of Portuguese abstractionism. After the I Exhibition in April 1943 in the Fine Arts School of Porto, with sculptures by Altino Maia, Mário Truta, Arlindo Rocha, Serafim Teixe",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "lisbon-bookshops-7",
+        "name": "Maria Adelaide Aboim Inglez",
+        "cityId": "lisbon",
+        "categoryId": "bookshops",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Maria%20Adelaide%20Aboim%20Inglez%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Maria_Adelaide_Aboim_Inglez",
+        "photo": null,
+        "description": "Maria Adelaide Dias Coelho Aboim Inglez (Castelo Branco, 1932 – Lisbon, 2008) was a Portuguese politician and communist and anti-fascist revolutionary, and a militant of the Portuguese Communist Party. She was arrested twice for political motives, and was held hostage for a total of two years in Caxias Prison.",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "lisbon-bookshops-8",
+        "name": "Teófilo Braga",
+        "cityId": "lisbon",
+        "categoryId": "bookshops",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Te%C3%B3filo%20Braga%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Te%C3%B3filo_Braga",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Te%C3%B3filo_Braga_%281915%29_-_Fotografia_Vasques%2C_Lisboa_%28Museu_da_Presid%C3%AAncia_da_Rep%C3%BAblica%29.png/960px-Te%C3%B3filo_Braga_%281915%29_-_Fotografia_Vasques%2C_Lisboa_%28Museu_da_Presid%C3%AAncia_da_Rep%C3%BAblica%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Te%C3%B3filo_Braga"
+        },
+        "description": "Joaquim Teófilo Fernandes Braga (24 February 1843 – 28 January 1924) was the president of Portugal, serving in 1915. A Portuguese writer, playwright, politician he became the leader of the Republican Provisional Government after the overthrow of King Manuel II, having become president after the resignation of President Manuel de Arriaga.",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "lisbon-bookshops-9",
+        "name": "Karl Buchholz",
+        "cityId": "lisbon",
+        "categoryId": "bookshops",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Karl%20Buchholz%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Karl_Buchholz_(art_dealer)",
+        "photo": null,
+        "description": "Karl Buchholz (born 26 August 1901 in Göttingen; died 6 January 1992 in Bogotá) was one of Hitler's Nazi art dealers specialized in selling looted \"Degenerate Art\".",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "lisbon-bookshops-10",
+        "name": "Alfredo Luís da Costa",
+        "cityId": "lisbon",
+        "categoryId": "bookshops",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Alfredo%20Lu%C3%ADs%20da%20Costa%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Alfredo_Lu%C3%ADs_da_Costa",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Alfredo-luiz-costa-vivo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Alfredo_Lu%C3%ADs_da_Costa"
+        },
+        "description": "Alfredo Luís da Costa (24 November 1883 – 1 February 1908) was a Portuguese publicist, editor, journalist, shop assistant and salesman who was part of the Portuguese Carbonária and a Mason, best remembered for being one of the two assassins (with Manuel Buíça) credited in the assassination of King Carlos I of Portugal and the Prince Royal, Luis Filipe, during the events that became known as the 1908 Lisbon Regicide (",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "lisbon-bookshops-11",
+        "name": "Juan Pujol García",
+        "cityId": "lisbon",
+        "categoryId": "bookshops",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Juan%20Pujol%20Garc%C3%ADa%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Juan_Pujol_Garc%C3%ADa",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/57/Joan_pujol_garcia.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Juan_Pujol_Garc%C3%ADa"
+        },
+        "description": "Juan Pujol García (Spanish: [ˈxwan puˈʝol ɣaɾˈθi.a]; 14 February 1912 – 10 October 1988) was a Spanish spy who worked as a double agent loyal to the United Kingdom against Nazi Germany during World War II, when he relocated to Britain to carry out fictitious spying activities for the Germans. He was given the codename Garbo by the British; their German counterparts codenamed him Alaric and referred to his non-existen",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "lisbon-bookshops-12",
+        "name": "Francisco Seixas da Costa",
+        "cityId": "lisbon",
+        "categoryId": "bookshops",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Francisco%20Seixas%20da%20Costa%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Francisco_Seixas_da_Costa",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/Francisco_Seixas_da_Costa_2026.jpg/960px-Francisco_Seixas_da_Costa_2026.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Francisco_Seixas_da_Costa"
+        },
+        "description": "Francisco Seixas da Costa, GCC, CMG,(Vila Real, 1948) is a retired Portuguese diplomat. He was also a member of two Portuguese governments. He currently works as a strategic consultant in private sector companies and media commentator on international affairs.",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "lisbon-bookshops-13",
+        "name": "Mika Kaurismäki",
+        "cityId": "lisbon",
+        "categoryId": "bookshops",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Mika%20Kaurism%C3%A4ki%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Mika_Kaurism%C3%A4ki",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Mika_Kaurism%C3%A4ki.jpg/960px-Mika_Kaurism%C3%A4ki.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Mika_Kaurism%C3%A4ki"
+        },
+        "description": "Mika Juhani Kaurismäki (Finnish: [ˈmikɑ ˈkɑu̯rismæki]; born 21 September 1955) is a Finnish film director.",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "lisbon-bookshops-14",
+        "name": "Maria Leal da Costa",
+        "cityId": "lisbon",
+        "categoryId": "bookshops",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Maria%20Leal%20da%20Costa%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Maria_Leal_da_Costa",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/Maria_Leal_da_Costa.jpg/960px-Maria_Leal_da_Costa.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Maria_Leal_da_Costa"
+        },
+        "description": "Maria Ana de Sousa Leal da Costa (Évora, Portugal, November, 1964), is a Portuguese sculptor.",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "lisbon-bookshops-15",
+        "name": "Ramiro",
+        "cityId": "lisbon",
+        "categoryId": "bookshops",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Ramiro%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Ramiro_(film)",
+        "photo": null,
+        "description": "Ramiro is a 2017 tragicomic feature film by Portuguese director Manuel Mozos.",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "lisbon-bookshops-16",
+        "name": "CambridgeSeven",
+        "cityId": "lisbon",
+        "categoryId": "bookshops",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=CambridgeSeven%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/CambridgeSeven",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Boston_Childrens_Museum.jpg/960px-Boston_Childrens_Museum.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/CambridgeSeven"
+        },
+        "description": "Cambridge Seven Associates, Inc., stylized as CambridgeSeven, and sometimes as C7A, is an American architecture firm based in Cambridge, Massachusetts. Buildings designed by the firm have included academic, museum, exhibit, hospitality, transportation, retail, office, and aquarium facilities, and have been built in North America, Europe, the Middle East, and Asia. Besides architecture, it operates in the areas of urb",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "lisbon-bookshops-17",
+        "name": "The Amazing Race Australia 3",
+        "cityId": "lisbon",
+        "categoryId": "bookshops",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Amazing%20Race%20Australia%203%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/The_Amazing_Race_Australia_3",
+        "photo": null,
+        "description": "The Amazing Race Australia 3 is the third season of The Amazing Race Australia, an Australian reality competition show based on the American series The Amazing Race. Officially titled The Amazing Race Australia v New Zealand and hosted by Grant Bowler, it featured ten teams of two, each with a pre-existing relationship (five from Australia and five from New Zealand), in a race around the world to win the grand prize ",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "lisbon-bookshops-18",
+        "name": "Alice Moderno",
+        "cityId": "lisbon",
+        "categoryId": "bookshops",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Alice%20Moderno%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Alice_Moderno",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Alice_Moderno.jpg/960px-Alice_Moderno.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Alice_Moderno"
+        },
+        "description": "Alice Augusta Pereira de Melo Maulaz Moniz Moderno (11 August 1867 – 20 February 1946) was a Portuguese writer, feminist and animal welfare activist. An active campaigner for women's rights, she also founded the first association dedicated to animal welfare in the Azores. Early biographies ignored that she was an open lesbian.",
+        "lat": null,
+        "lng": null
+      }
+    ],
+    "museums": [
+      {
+        "id": "lisbon-museums-1",
+        "name": "Lisbon",
+        "cityId": "lisbon",
+        "categoryId": "museums",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Lisbon%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Lisbon",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Lisbon_%2836831596786%29_%28cropped%29.jpg/960px-Lisbon_%2836831596786%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Lisbon"
+        },
+        "description": "Lisbon ( LIZ-bən; Portuguese: Lisboa [liʒˈβoɐ] ) is the capital and most populous city of Portugal, with an estimated population of 658,236 as of 2025, within its administrative limits and 3,353,000 within the metropolis, as of 2025. The city lies in the western part of the Iberian Peninsula, fronting the northern shore of the River Tagus. Lisbon is one of the oldest cities in the world and the second-oldest European",
+        "lat": 38.72527778,
+        "lng": -9.15
+      },
+      {
+        "id": "lisbon-museums-2",
+        "name": "Vasco da Gama Bridge",
+        "cityId": "lisbon",
+        "categoryId": "museums",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Vasco%20da%20Gama%20Bridge%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Vasco_da_Gama_Bridge",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Vasco_da_Gama_Bridge_aerial_view.jpg/960px-Vasco_da_Gama_Bridge_aerial_view.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Vasco_da_Gama_Bridge"
+        },
+        "description": "The Vasco da Gama Bridge (Portuguese: Ponte Vasco da Gama) is a cable-stayed bridge flanked by viaducts that spans the Tagus River in Parque das Nações in Lisbon, the capital of Portugal. It was built to alleviate the congestion on Lisbon's 25 de Abril Bridge, and eliminate the need for traffic between the country's northern and southern regions to pass through the capital city. Construction began in February 1995; t",
+        "lat": 38.762,
+        "lng": -9.043
+      },
+      {
+        "id": "lisbon-museums-3",
+        "name": "São Jorge Castle",
+        "cityId": "lisbon",
+        "categoryId": "museums",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=S%C3%A3o%20Jorge%20Castle%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/S%C3%A3o_Jorge_Castle",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/37/Castelo_Sao_Jorge_Lisboa_1.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/S%C3%A3o_Jorge_Castle"
+        },
+        "description": "São Jorge Castle (Portuguese: Castelo de São Jorge; Portuguese pronunciation: [kɐʃˈtɛlu dɨ sɐ̃w̃ ˈʒɔɾʒɨ]), sometimes known in English as Saint George's Castle, is a historic castle in the Portuguese capital of Lisbon, located in the freguesia of Santa Maria Maior. Human occupation of the castle hill dates to at least the 8th century BC while the oldest fortifications on the site date from the 2nd century BC. The hill",
+        "lat": 38.71388889,
+        "lng": -9.13361111
+      },
+      {
+        "id": "lisbon-museums-4",
+        "name": "Calouste Gulbenkian Museum",
+        "cityId": "lisbon",
+        "categoryId": "museums",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Calouste%20Gulbenkian%20Museum%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Calouste_Gulbenkian_Museum",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f1/FCG_Calouste_Gulbenkian_Logo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Calouste_Gulbenkian_Museum"
+        },
+        "description": "Lisbon's Calouste Gulbenkian Museum houses one of the world's most important private art collections. It includes works from Ancient Egypt to the early 20th century, spanning the arts of the Islamic World, China and Japan, as well as French decorative arts. It also features the jewellery of René Lalique and works by some of the most important painters of all time, such as Rembrandt, Monet, Rubens, Manet, Renoir, Dega",
+        "lat": 38.73666667,
+        "lng": -9.15416667
+      },
+      {
+        "id": "lisbon-museums-5",
+        "name": "Carmo Convent",
+        "cityId": "lisbon",
+        "categoryId": "museums",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Carmo%20Convent%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Carmo_Convent",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/Nave_of_Igreja_do_Convento_do_Carmo_%28Lisbon%29_81.jpg/960px-Nave_of_Igreja_do_Convento_do_Carmo_%28Lisbon%29_81.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Carmo_Convent"
+        },
+        "description": "The Convent of Our Lady of Mount Carmel (Portuguese: Convento da Ordem do Carmo) is a former Catholic convent located in the civil parish of Santa Maria Maior, municipality of Lisbon, Portugal. The medieval convent was ruined during the sequence of the 1755 Lisbon earthquake, and the destroyed Gothic Church of Our Lady of Mount Carmel (Portuguese: Igreja do Carmo) on the southern facade of the convent is the main tra",
+        "lat": 38.71222222,
+        "lng": -9.14
+      },
+      {
+        "id": "lisbon-museums-6",
+        "name": "Belém, Lisbon",
+        "cityId": "lisbon",
+        "categoryId": "museums",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Bel%C3%A9m%2C%20Lisbon%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Bel%C3%A9m%2C_Lisbon",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Santa_Maria_de_Bel%C3%A9m_sul_Tago_-_panoramio_%28cropped%29.jpg/960px-Santa_Maria_de_Bel%C3%A9m_sul_Tago_-_panoramio_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Bel%C3%A9m%2C_Lisbon"
+        },
+        "description": "Belém (locally [bɨˈlɐ̃j]) is a freguesia (civil parish) and district of Lisbon, the capital of Portugal. Belém is located in western Lisbon, to the west of Ajuda and Alcântara and directly east of Lisbon's border with Oeiras. Belém is famous as a museum district, as the home of many of the most notable monuments of Lisbon and Portugal alike, such as the Belém Tower, the Jerónimos Monastery, the Padrão dos Descobrimen",
+        "lat": 38.699,
+        "lng": -9.209
+      },
+      {
+        "id": "lisbon-museums-7",
+        "name": "Lisbon Baixa",
+        "cityId": "lisbon",
+        "categoryId": "museums",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Lisbon%20Baixa%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Lisbon_Baixa",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/Equestrian_statue_of_King_Jos%C3%A9_I_with_Arco_Triunfal_da_Rua_Augusta_45.jpg/960px-Equestrian_statue_of_King_Jos%C3%A9_I_with_Arco_Triunfal_da_Rua_Augusta_45.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Lisbon_Baixa"
+        },
+        "description": "The Baixa (\"Downtown\"), also known as the Baixa Pombalina (IPA: [ˈbajʃɐ põbɐˈlinɐ]; \"Pombaline Downtown\"), is a neighbourhood in the historic centre of Lisbon, Portugal. It consists of the grid of streets north of the Praça do Comércio, roughly between the Cais do Sodré and the Alfama district beneath the Lisbon Castle, and extends northwards towards the Rossio and Figueira squares and the Avenida da Liberdade, a tre",
+        "lat": 38.71138889,
+        "lng": -9.13722222
+      },
+      {
+        "id": "lisbon-museums-8",
+        "name": "Pena Palace",
+        "cityId": "lisbon",
+        "categoryId": "museums",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Pena%20Palace%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Pena_Palace",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Sintra_-_Palacio_da_Pena_%2820332995770%29.jpg/960px-Sintra_-_Palacio_da_Pena_%2820332995770%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Pena_Palace"
+        },
+        "description": "The Pena Palace (Portuguese: Palácio da Pena) is a Romanticist palace in São Pedro de Penaferrim, in the municipality of Sintra, on the Portuguese Riviera. The castle stands on the top of a hill in the Sintra Mountains overlooking the town of Sintra, and on a clear day it can be easily seen from Lisbon and much of its metropolitan area. It is a national monument and constitutes one of the major expressions of 19th-ce",
+        "lat": 38.78777778,
+        "lng": -9.39055556
+      },
+      {
+        "id": "lisbon-museums-9",
+        "name": "Benfica, Lisbon",
+        "cityId": "lisbon",
+        "categoryId": "museums",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Benfica%2C%20Lisbon%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Benfica%2C_Lisbon",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/Igreja_Paroquial_de_Benfica.jpg/960px-Igreja_Paroquial_de_Benfica.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Benfica%2C_Lisbon"
+        },
+        "description": "Benfica (locally [bɐ̃jˈfikɐ]) is a freguesia (civil parish) and district of Lisbon, the capital of Portugal. Located in northern Lisbon, Benfica is west of São Domingos de Benfica, Carnide, and Campolide, north of Belém, Ajuda, and Alcântara, and directly east of Lisbon's border with Amadora. The population in 2011 was 36,985,",
+        "lat": 38.751,
+        "lng": -9.202
+      },
+      {
+        "id": "lisbon-museums-10",
+        "name": "Jerónimos Monastery",
+        "cityId": "lisbon",
+        "categoryId": "museums",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Jer%C3%B3nimos%20Monastery%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Jer%C3%B3nimos_Monastery",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/1502_legte_K%C3%B6nig_Manuel_I._den_Grundstein_f%C3%BCr_das_Hieronymus_Kloster_in_Lissabon._06.jpg/960px-1502_legte_K%C3%B6nig_Manuel_I._den_Grundstein_f%C3%BCr_das_Hieronymus_Kloster_in_Lissabon._06.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Jer%C3%B3nimos_Monastery"
+        },
+        "description": "The Jerónimos Monastery or Hieronymites Monastery (Portuguese: Mosteiro dos Jerónimos, pronounced [muʃˈtɐjɾu ðu(ʒ) ʒɨˈɾɔnimuʃ]) is a former monastery of the Order of Saint Jerome near the Tagus river in the parish of Belém, in the Lisbon Municipality, Portugal. It became the necropolis of the Portuguese royal dynasty of Aviz in the 16th century but was secularized on 28 December 1833 by state decree and its ownership",
+        "lat": 38.69777778,
+        "lng": -9.20611111
+      },
+      {
+        "id": "lisbon-museums-11",
+        "name": "Estrela, Lisbon",
+        "cityId": "lisbon",
+        "categoryId": "museums",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Estrela%2C%20Lisbon%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Estrela%2C_Lisbon",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/Pal%C3%A1cio_de_S%C3%A3o_Bento_%28Assembl%C3%A9e_nationale%29_%289307363528%29_%28cropped%29.jpg/960px-Pal%C3%A1cio_de_S%C3%A3o_Bento_%28Assembl%C3%A9e_nationale%29_%289307363528%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Estrela%2C_Lisbon"
+        },
+        "description": "Estrela (Portuguese pronunciation: [ɨʃˈtɾelɐ]) is a freguesia (civil parish) and district of Lisbon, the capital of Portugal. Located in the historic center of Lisbon, Estrela is south of Campo de Ourique, west of Misericórdia, and east of Alcântara. The population in 2011 was 20,128. The Portuguese word estrela means star in English.",
+        "lat": 38.714,
+        "lng": -9.16
+      },
+      {
+        "id": "lisbon-museums-12",
+        "name": "National Museum of Archaeology, Lisbon",
+        "cityId": "lisbon",
+        "categoryId": "museums",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=National%20Museum%20of%20Archaeology%2C%20Lisbon%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/National_Museum_of_Archaeology%2C_Lisbon",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/CCFL906%40Jer%C3%B3nimos1962.jpg/960px-CCFL906%40Jer%C3%B3nimos1962.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/National_Museum_of_Archaeology%2C_Lisbon"
+        },
+        "description": "The National Museum of Archaeology, of Doctor Leite de Vasconcelos is the largest archaeological museum in Portugal and one of the most important museums devoted to ancient art found in the Iberian Peninsula. Located in Lisbon, the museum was founded in 1893 by the archaeologist José Leite de Vasconcelos. The museum is located in the western wing of the Jeronimos Monastery where the monks had their dormitory. The mus",
+        "lat": 38.69722222,
+        "lng": -9.20694444
+      },
+      {
+        "id": "lisbon-museums-13",
+        "name": "Santo António, Lisbon",
+        "cityId": "lisbon",
+        "categoryId": "museums",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Santo%20Ant%C3%B3nio%2C%20Lisbon%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Santo_Ant%C3%B3nio%2C_Lisbon",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Edif%C3%ADcio_Av_Liberdade_206-218_Lisboa_Arq_Norte_J%C3%BAnior_%282cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Santo_Ant%C3%B3nio%2C_Lisbon"
+        },
+        "description": "Santo António (European Portuguese pronunciation: [ˈsɐ̃t(u) ɐ̃ˈtɔni.u, - ɐ̃ˈtɔnju]) is a freguesia (civil parish) of Lisbon, the capital of Portugal. Located in central Lisbon, Santo António is east of Campo de Ourique, north of Santa Maria Maior and Misericórdia, west of Arroios, and south of Avenidas Novas. It is known for its luxury shopping, Michelin star restaurants, and as home to many of Lisbon's most recogniz",
+        "lat": 38.739,
+        "lng": -9.151
+      },
+      {
+        "id": "lisbon-museums-14",
+        "name": "Lisbon Cathedral",
+        "cityId": "lisbon",
+        "categoryId": "museums",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Lisbon%20Cathedral%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Lisbon_Cathedral",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/West_facade_of_Lisbon_Cathedral_%28retouched%29.jpg/960px-West_facade_of_Lisbon_Cathedral_%28retouched%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Lisbon_Cathedral"
+        },
+        "description": "The Cathedral of Saint Mary Major (Portuguese: Santa Maria Maior de Lisboa or Sé-Catedral Metropolitana Patriarcal de Santa Maria Maior de Lisboa), often called Lisbon Cathedral or simply the Sé (Sé de Lisboa), is a Roman Catholic cathedral located in Lisbon, Portugal. It is the oldest church in the city, built in 1147. The cathedral has survived many earthquakes and has been modified, renovated and restored several ",
+        "lat": 38.70972222,
+        "lng": -9.13305556
+      },
+      {
+        "id": "lisbon-museums-15",
+        "name": "Navy Museum",
+        "cityId": "lisbon",
+        "categoryId": "museums",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Navy%20Museum%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Navy_Museum_(Portugal)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Museu_de_Marinha_Lissabon_Eingang_September_2014.jpg/960px-Museu_de_Marinha_Lissabon_Eingang_September_2014.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Navy_Museum_(Portugal)"
+        },
+        "description": "The Navy Museum (Portuguese: Museu de Marinha) is a maritime museum in Lisbon, dedicated to all aspects of the history of navigation in Portugal. The museum is administered by the Portuguese Navy and is located in the tourist district of Belém. It occupies a part of the neo-Manueline western wing of the Jerónimos Monastery with the National Museum of Archaeology, as well as a modern annex built to the north of the mo",
+        "lat": 38.69709722,
+        "lng": -9.20813889
+      },
+      {
+        "id": "lisbon-museums-16",
+        "name": "Santa Justa Lift",
+        "cityId": "lisbon",
+        "categoryId": "museums",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Santa%20Justa%20Lift%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Santa_Justa_Lift",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Elevador_de_Santa_Justa_from_Rua_de_Santa_Justa.jpg/960px-Elevador_de_Santa_Justa_from_Rua_de_Santa_Justa.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Santa_Justa_Lift"
+        },
+        "description": "The Santa Justa Lift (Portuguese: Elevador de Santa Justa, pronounced [elɨvɐˈðoɾ ðɨ ˈsɐ̃tɐ ˈʒuʃtɐ]), also called Carmo Lift (Portuguese: Elevador do Carmo, [elɨvɐˈðoɾ ðu ˈkaɾmu]), is an elevator, or lift, in the civil parish of Santa Maria Maior, in the historic center of Lisbon, Portugal. Situated at the end of Rua de Santa Justa, it connects the lower streets of the Baixa with the higher Largo do Carmo (Carmo Squar",
+        "lat": 38.71222222,
+        "lng": -9.13944444
+      },
+      {
+        "id": "lisbon-museums-17",
+        "name": "Christ the King",
+        "cityId": "lisbon",
+        "categoryId": "museums",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Christ%20the%20King%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Christ_the_King_(Almada)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Cristo_Rei_%2836211699613%29_%28cropped%29.jpg/960px-Cristo_Rei_%2836211699613%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Christ_the_King_(Almada)"
+        },
+        "description": "The Sanctuary of Christ the King (Portuguese: Santuário de Cristo Rei) is a Catholic monument and shrine dedicated to the Sacred Heart of Jesus Christ overlooking the city of Lisbon situated in Almada, in Portugal. It was inspired by the Christ the Redeemer statue of Rio de Janeiro, in Brazil, after the Cardinal Patriarch of Lisbon visited that monument. The project was inaugurated on 17 May 1959. The giant statue wa",
+        "lat": 38.67861,
+        "lng": -9.17134
+      },
+      {
+        "id": "lisbon-museums-18",
+        "name": "Pestana Palace",
+        "cityId": "lisbon",
+        "categoryId": "museums",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Pestana%20Palace%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Pestana_Palace",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Pestana_Palace_Hotel_IMG_2004_%28cropped%29.jpg/960px-Pestana_Palace_Hotel_IMG_2004_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Pestana_Palace"
+        },
+        "description": "Pestana Palace is a luxury hotel in Lisbon, Portugal, in the Alcântara district. Housed in the historic Palácio Vale Flor, Pestana Palace is the flagship luxury hotel of the Pestana Group, one of Portugal's premier hotel groups. It is a member of The Leading Hotels of the World. The hotel hosted the 2023 Bilderberg Conference between May 18–21.",
+        "lat": null,
+        "lng": null
+      }
+    ],
+    "concerts": [
+      {
+        "id": "lisbon-concerts-1",
+        "name": "Theatre Camões",
+        "cityId": "lisbon",
+        "categoryId": "concerts",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Theatre%20Cam%C3%B5es%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Theatre_Cam%C3%B5es",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Teatro_Camoes_Lisboa.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Theatre_Cam%C3%B5es"
+        },
+        "description": "Theatre Camões (Portuguese: Teatro Camões) is a concert hall situated in the civil parish of Parque das Nações, municipality of Lisbon.",
+        "lat": 38.761,
+        "lng": -9.09333333
+      },
+      {
+        "id": "lisbon-concerts-2",
+        "name": "Aarhus Pride",
+        "cityId": "lisbon",
+        "categoryId": "concerts",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Aarhus%20Pride%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Aarhus_Pride",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Aarhus_Pride%2C_2012%2C_start_of_day.jpg/960px-Aarhus_Pride%2C_2012%2C_start_of_day.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Aarhus_Pride"
+        },
+        "description": "Aarhus Pride is a pride parade in Aarhus, Denmark and the largest Danish event focused on LGBT issues outside Copenhagen. The first event was held in 2012 and has been repeated every year since. It is managed and controlled by private individuals from the LGBT community and supported with funds from the city of Aarhus. In 2017, about 6,000 people took part in the 3.5-kilometre-long (2.2 mi) parade with floats and fla",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "lisbon-concerts-3",
+        "name": "Siow Lee Chin",
+        "cityId": "lisbon",
+        "categoryId": "concerts",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Siow%20Lee%20Chin%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Siow_Lee_Chin",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Siowleechin-wong.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Siow_Lee_Chin"
+        },
+        "description": "Siow Lee Chin (traditional Chinese: 蕭麗君; simplified Chinese: 萧丽君; born 1966) is a Singaporean violinist. Featured in the American Record Guide as \"a distinguished cultural asset of international stature\", and The Strad as a \"trailblazing role model for string players\", Siow's Gold Medal victory at the 1994 Henryk Szeryng International Violin Competition launched her career as one of Singapore's first soloists on the ",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "lisbon-concerts-4",
+        "name": "Belém Cultural Center",
+        "cityId": "lisbon",
+        "categoryId": "concerts",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Bel%C3%A9m%20Cultural%20Center%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Bel%C3%A9m_Cultural_Center",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/View_from_Padr%C3%A3o_dos_Descobrimentos_-_Centro_Cultural_de_Bel%C3%A9m_%282%29_-_Jul_2008.jpg/960px-View_from_Padr%C3%A3o_dos_Descobrimentos_-_Centro_Cultural_de_Bel%C3%A9m_%282%29_-_Jul_2008.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Bel%C3%A9m_Cultural_Center"
+        },
+        "description": "The Belém Cultural Center (Portuguese: Centro Cultural de Belém) is a complex of artistic venues located in Belém in the city of Lisbon, Portugal. It is the largest building with cultural facilities in Portugal, with over 140,000 m2 (1,500,000 sq ft) of usable space. The centre was initially built to accommodate the programme of Portugal's Presidency of the European Council in 1992, but with the long-term goal of pro",
+        "lat": 38.69527778,
+        "lng": -9.20861111
+      },
+      {
+        "id": "lisbon-concerts-5",
+        "name": "European Concert Hall Organisation",
+        "cityId": "lisbon",
+        "categoryId": "concerts",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=European%20Concert%20Hall%20Organisation%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/European_Concert_Hall_Organisation",
+        "photo": null,
+        "description": "Founded in 1991, The European Concert Hall Organisation (ECHO) is a European cultural network that unites and empowers 23 premier venues across 14 European countries, specializing in delivering exceptional live music experiences and cherishing the classical repertoire. ECHO member halls believe in the transformative power of music to enrich the lives of the communities they serve. By supporting its members at all man",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "lisbon-concerts-6",
+        "name": "Mariza",
+        "cityId": "lisbon",
+        "categoryId": "concerts",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Mariza%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Mariza",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/Mariza%2C_Fado_singer_%28November_2022%29_%28cropped%29.jpg/960px-Mariza%2C_Fado_singer_%28November_2022%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Mariza"
+        },
+        "description": "Marisa dos Reis Nunes (born 16 December 1973), known professionally as Mariza (Portuguese pronunciation: [mɐˈɾizɐ]), is a Portuguese fado singer. Mariza was born in Lourenço Marques, Portuguese Mozambique, to a Portuguese father, José Brandão Nunes, and a Mozambican mother, Isabel Nunes and her great grandmother was from Goa. When she was three years old, her family moved to Metropolitan Portugal, and she was raised ",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "lisbon-concerts-7",
+        "name": "Wallflower World Tour",
+        "cityId": "lisbon",
+        "categoryId": "concerts",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Wallflower%20World%20Tour%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Wallflower_World_Tour",
+        "photo": null,
+        "description": "The Wallflower World Tour was a concert tour by Canadian singer and songwriter Diana Krall, in support of her twelfth studio album, Wallflower (2015). The tour began in Boston on February 25, 2015, and included dates in North America, Europe, and Asia.",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "lisbon-concerts-8",
+        "name": "Cinema Império",
+        "cityId": "lisbon",
+        "categoryId": "concerts",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Cinema%20Imp%C3%A9rio%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Cinema_Imp%C3%A9rio",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Cinema_Imp%C3%A9rio.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Cinema_Imp%C3%A9rio"
+        },
+        "description": "Cinema Império (Empire Cinema) was a cinema, theatre, and concert hall in the Portuguese capital of Lisbon that opened on 24 May 1952 and closed in December 1983. Since 1992 it has been used as a place of worship for the Universal Church of the Kingdom of God. Designed by Cassiano Branco, the building is considered one of the major examples of modernist architecture during the period in which Portugal was under the c",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "lisbon-concerts-9",
+        "name": "Casa da Música",
+        "cityId": "lisbon",
+        "categoryId": "concerts",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Casa%20da%20M%C3%BAsica%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Casa_da_M%C3%BAsica",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Casa_Da_Musica_%283190746009%29.jpg/960px-Casa_Da_Musica_%283190746009%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Casa_da_M%C3%BAsica"
+        },
+        "description": "The Casa da Música is a concert hall in Porto, Portugal. It was designed by architect Rem Koolhaas and opened in 2005. Designed to mark the festive year of 2001 in which the city of Porto was designated European Capital of Culture, it was the first building in Portugal aimed from its conception to be exclusively dedicated to music, either in public performances or in the field of artistic training and creation. Casa ",
+        "lat": 41.15861111,
+        "lng": -8.63083333
+      },
+      {
+        "id": "lisbon-concerts-10",
+        "name": "University of Limerick",
+        "cityId": "lisbon",
+        "categoryId": "concerts",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=University%20of%20Limerick%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/University_of_Limerick",
+        "photo": null,
+        "description": "University of Limerick (UL; Irish: Ollscoil Luimnigh) is a public research university in Limerick, Ireland. Founded in 1972, as the National Institute for Higher Education, Limerick, it became a university in September 1989 in accordance with the University of Limerick Act 1989. It was the first university established since Irish independence in 1922, followed by the establishment of Dublin City University. UL's camp",
+        "lat": 52.674,
+        "lng": -8.571
+      },
+      {
+        "id": "lisbon-concerts-11",
+        "name": "António Chagas Rosa",
+        "cityId": "lisbon",
+        "categoryId": "concerts",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Ant%C3%B3nio%20Chagas%20Rosa%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Ant%C3%B3nio_Chagas_Rosa",
+        "photo": null,
+        "description": "António Chagas Rosa (born 1960) is a Portuguese composer of contemporary classical music. His output includes chamber operas, song-cycles and numerous works for chamber and symphony orchestras. His work has been played all over Europe as well as in Asia and America.",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "lisbon-concerts-12",
+        "name": "Eugenia León",
+        "cityId": "lisbon",
+        "categoryId": "concerts",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Eugenia%20Le%C3%B3n%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Eugenia_Le%C3%B3n",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/EugeniaLeon.jpg/960px-EugeniaLeon.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Eugenia_Le%C3%B3n"
+        },
+        "description": "Eugenia León (born June 7, 1956) is a Mexican singer. She won first place at the prestigious OTI Festival 1985 in Seville, Spain, with the song \"El fandango aquí\" written by Marcial Alejandro. A recipient of the Latin Grammy Lifetime Achievement Award, she has had a career spanning more than 40 years and 26 recorded albums, of which several million copies have been sold. She has performed in some of the most importan",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "lisbon-concerts-13",
+        "name": "Cascais",
+        "cityId": "lisbon",
+        "categoryId": "concerts",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Cascais%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Cascais",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Cascais_-_Santa_Marta_%2853854018150%29.jpg/960px-Cascais_-_Santa_Marta_%2853854018150%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Cascais"
+        },
+        "description": "Cascais (European Portuguese pronunciation: [kɐʃˈkajʃ] ) is a town and municipality in the Lisbon District of Portugal, located on the Estoril Coast. The municipality has a total of 214,158 inhabitants in an area of 97.40 km2. Cascais is an important tourist destination. Its marina hosts events such as the America's Cup and the town of Estoril, part of the Cascais municipality, hosts conferences such as the Horasis G",
+        "lat": 38.7,
+        "lng": -9.41666667
+      },
+      {
+        "id": "lisbon-concerts-14",
+        "name": "Portuguese Chamber Orchestra",
+        "cityId": "lisbon",
+        "categoryId": "concerts",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Portuguese%20Chamber%20Orchestra%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Portuguese_Chamber_Orchestra",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/9f/OCP_A_RGB.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Portuguese_Chamber_Orchestra"
+        },
+        "description": "The Portuguese Chamber Orchestra (OCP) was founded on July 5, 2007, and its debut took place on September 13, 2007, with the opening concert of the 2007/2008 season at the Grand Auditorium of Belém Cultural Center, in Lisbon. The programme included the overture to Der Schauspieldirektor by Mozart, the Symphony No. 6 by Schubert, and the ballet suite Pulcinella by Stravinsky. The head office of OCP is in Oeiras, Portu",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "lisbon-concerts-15",
+        "name": "Joshua Rosenblum",
+        "cityId": "lisbon",
+        "categoryId": "concerts",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Joshua%20Rosenblum%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Joshua_Rosenblum",
+        "photo": null,
+        "description": "Joshua Rosenblum (born May 10, 1963) is an American composer, conductor, pianist, arranger, music journalist, and author. He has composed extensively for the concert hall as well as for musical theater, and currently teaches musical theater composition at Yale University, his alma mater, as well as both conducting and orchestration at New York University. As a pianist, he has performed frequently in the New York City",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "lisbon-concerts-16",
+        "name": "Zagreb Open",
+        "cityId": "lisbon",
+        "categoryId": "concerts",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Zagreb%20Open%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Zagreb_Open",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/ChristopheRochusStuttgart06.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Zagreb_Open"
+        },
+        "description": "The Zagreb Open is a professional tennis tournament played on outdoor red clay courts. It is part of the ATP Challenger Tour and of the ITF Women's World Tennis Tour. It was held annually at the Sportski park Mladost in Zagreb, Croatia, from 1996 to 2011. The men's tournament returned in 2021 and was played for two years at the Tenis centar Maksimir. After another break in 2023 the tournament moved in 2024 to the Spo",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "lisbon-concerts-17",
+        "name": "Love This Giant Tour",
+        "cityId": "lisbon",
+        "categoryId": "concerts",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Love%20This%20Giant%20Tour%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Love_This_Giant_Tour",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/David_Byrne_%26_St._Vincent_-_Gran_Teatro_Geox%2C_Padova_-_10_settembre_2013_%289737661976%29.jpg/960px-David_Byrne_%26_St._Vincent_-_Gran_Teatro_Geox%2C_Padova_-_10_settembre_2013_%289737661976%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Love_This_Giant_Tour"
+        },
+        "description": "The Love This Giant Tour was a joint tour by American musicians David Byrne and St. Vincent. It started on 15 September 2012 in Minneapolis, United States, and ended on 12 September 2013 in Florence, Italy, after 74 concerts on 14 countries and 3 continents. The tour was officially announced along with Love This Giant, the album it promoted, on 14 June 2012. On the stage, they were accompanied by a backing band consi",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "lisbon-concerts-18",
+        "name": "Alicia Vikander",
+        "cityId": "lisbon",
+        "categoryId": "concerts",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Alicia%20Vikander%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Alicia_Vikander",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/Alicia_Vikander_at_the_83rd_Venice_International_Film_Festival_%E2%80%9CThe_Echo_Chamber%E2%80%9D_premiere.jpg/960px-Alicia_Vikander_at_the_83rd_Venice_International_Film_Festival_%E2%80%9CThe_Echo_Chamber%E2%80%9D_premiere.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Alicia_Vikander"
+        },
+        "description": "Alicia Amanda Vikander (; Swedish: [aˈlǐːsɪa vɪˈkǎnːdɛr] ; born 3 October 1988) is a Swedish actress. Her accolades include an Academy Award and an Actor Award, in addition to nominations for three BAFTAs and two Golden Globe Awards. Born and raised in Gothenburg, Vikander began acting as a child in minor stage productions at the Gothenburg opera house and trained as a ballet dancer at the Royal Swedish Ballet in Sto",
+        "lat": null,
+        "lng": null
+      }
+    ],
+    "fashion": [
+      {
+        "id": "lisbon-fashion-1",
+        "name": "Cristina Ferreira",
+        "cityId": "lisbon",
+        "categoryId": "fashion",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Cristina%20Ferreira%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Cristina_Ferreira",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Cristina_Ferreira_-_Web_Summit_2026_%2810%29_%28cropped%29.jpg/960px-Cristina_Ferreira_-_Web_Summit_2026_%2810%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Cristina_Ferreira"
+        },
+        "description": "Cristina Maria Jorge Ferreira (born 9 September 1977) is a Portuguese television presenter and businesswoman. Since the 2010s, she has been the highest-paid celebrity in Portugal (earning 232,000 euros per month, as of 2022).",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "lisbon-fashion-2",
+        "name": "Bobby Simmons",
+        "cityId": "lisbon",
+        "categoryId": "fashion",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Bobby%20Simmons%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Bobby_Simmons",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/53/Bobby_Simmons.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Bobby_Simmons"
+        },
+        "description": "Bobby Simmons (born June 2, 1980) is an American former professional basketball player. During his NBA career, Simmons played for five NBA teams between 2001 and 2012. He won the NBA Most Improved Player Award in 2005.",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "lisbon-fashion-3",
+        "name": "Big Brother",
+        "cityId": "lisbon",
+        "categoryId": "fashion",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Big%20Brother%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Big_Brother_(Portuguese_TV_series)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/BB_All_Stars_2026_Logotipo.png/960px-BB_All_Stars_2026_Logotipo.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Big_Brother_(Portuguese_TV_series)"
+        },
+        "description": "Big Brother Portugal is the Portuguese version of the international reality television franchise Big Brother, produced by Endemol for Portuguese channel TVI. TVI launched the show in 2000. Since its beginning, it has been a great success. The show had six editions with two being celebrity versions (Big Brother Famosos 1 and Big Brother Famosos 2 ), presented by Teresa Guilherme. The popularity of this show steadily d",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "lisbon-fashion-4",
+        "name": "Ana Louisa Soares",
+        "cityId": "lisbon",
+        "categoryId": "fashion",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Ana%20Louisa%20Soares%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Ana_Louisa_Soares",
+        "photo": null,
+        "description": "Ana Luisa Soares is a Portuguese architect and co-founder of Fala Atelier, an architectural firm based in Oporto. Her work has been featured globally, including at the Venice Biennale of Architecture, and in solo exhibitions for Fala Atelier in Panama, Italy, Macedonia, France, and Portugal. In addition to her firm's work, she has held several teaching positions in schools across Europe and North America.",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "lisbon-fashion-5",
+        "name": "Secret Story",
+        "cityId": "lisbon",
+        "categoryId": "fashion",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Secret%20Story%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Secret_Story_(Portuguese_TV_series)",
+        "photo": null,
+        "description": "Secret Story – Casa dos Segredos (occasionally be referred as Casa dos Segredos) is a Portuguese reality competition television show based on the French series Secret Story, and part of the franchise of the same name. The first episode was broadcast on 3 October 2010 on TVI. Like the original French version, the show is not a direct adaptation of the Big Brother franchise's format, created by producer John de Mol Jr.",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "lisbon-fashion-6",
+        "name": "Charles Wagenheim",
+        "cityId": "lisbon",
+        "categoryId": "fashion",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Charles%20Wagenheim%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Charles_Wagenheim",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Charles_Wagenheim_in_Ghost_of_Jean_Battoo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Charles_Wagenheim"
+        },
+        "description": "Charles Wagenheim (February 21, 1896 – March 6, 1979) was an American actor who appeared in over 250 films.",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "lisbon-fashion-7",
+        "name": "Interpol",
+        "cityId": "lisbon",
+        "categoryId": "fashion",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Interpol%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Interpol_(band)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/MX_TV_INTERPOL_CDMX_%2830164465558%29.jpg/960px-MX_TV_INTERPOL_CDMX_%2830164465558%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Interpol_(band)"
+        },
+        "description": "Interpol is an American rock band from Manhattan, New York. Formed in 1997, their original line-up consisted of Paul Banks (lead vocals, guitar), Daniel Kessler (guitar), Carlos Dengler (bass, keyboards), and Greg Drudy (drums). Drudy left the band in 2000 and was replaced by Sam Fogarino. Dengler left to pursue other projects in 2010, with Banks taking on the additional in-studio role of bassist for their next three",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "lisbon-fashion-8",
+        "name": "Sacha Baron Cohen",
+        "cityId": "lisbon",
+        "categoryId": "fashion",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Sacha%20Baron%20Cohen%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Sacha_Baron_Cohen",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Sacha_Baron_Cohen_%282024%29_%283x4_cropped%29.jpg/960px-Sacha_Baron_Cohen_%282024%29_%283x4_cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Sacha_Baron_Cohen"
+        },
+        "description": "Sacha Noam Baron Cohen ( SASH-ə; born 13 October 1971) is an English actor, comedian, filmmaker and advocate. Known for his creation and portrayal of the fictional satirical characters Ali G, Borat Sagdiyev, Brüno Gehard, and Admiral General Haffaz Aladeen, he has received various accolades, including three Golden Globes Awards and two British Academy Television Awards, as well as nominations for three Academy Awards",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "lisbon-fashion-9",
+        "name": "Maureen O'Hara",
+        "cityId": "lisbon",
+        "categoryId": "fashion",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Maureen%20O'Hara%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Maureen_O'Hara",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/Maureen_O%27Hara_1947_2.jpg/960px-Maureen_O%27Hara_1947_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Maureen_O'Hara"
+        },
+        "description": "Maureen O'Hara (née FitzSimons; 17 August 1920 – 24 October 2015) was an Irish and American actress and singer who became successful in Hollywood from the 1940s through to the 1960s. She was a natural redhead who was known for playing passionate but sensible heroines, often in Westerns and adventure films. She worked with director John Ford and long-time friend John Wayne on numerous projects. O'Hara was born into a ",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "lisbon-fashion-10",
+        "name": "Double-decker bus",
+        "cityId": "lisbon",
+        "categoryId": "fashion",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Double-decker%20bus%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Double-decker_bus",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/Abellio_LT157_%28LTZ1157%29_Holborn_Viaduct_20.01.2024.jpg/960px-Abellio_LT157_%28LTZ1157%29_Holborn_Viaduct_20.01.2024.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Double-decker_bus"
+        },
+        "description": "A double-decker bus is a bus that has two storeys or decks. Double-deckers are used primarily for commuter public transport, but there are coach variants for long-distance travel and open top buses that are most commonly used as sightseeing buses for tourists. They appear in many places around the world, but are presently most commonly used as mass transport in major cities. The earliest double-decker was the horse-d",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "lisbon-fashion-11",
+        "name": "David Goldblatt",
+        "cityId": "lisbon",
+        "categoryId": "fashion",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=David%20Goldblatt%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/David_Goldblatt",
+        "photo": null,
+        "description": "David Goldblatt HonFRPS (29 November 1930 – 25 June 2018) was a South African documentary photographer noted for his dedicated portrayal of the South African peoples within the political landscape of the apartheid era. After apartheid's end, he concentrated more on the country's landscapes. Goldblatt's body of work was distinct from that of other anti-apartheid artists in that he photographed issues that went beyond ",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "lisbon-fashion-12",
+        "name": "Big Brother (Portuguese TV series) season 6",
+        "cityId": "lisbon",
+        "categoryId": "fashion",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Big%20Brother%20(Portuguese%20TV%20series)%20season%206%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Big_Brother_(Portuguese_TV_series)_season_6",
+        "photo": null,
+        "description": "Big Brother 6, also known as Big Brother: A Revolução, is the sixth season of the Portuguese version of the reality show Big Brother. It's the second original format of Big Brother to air in 2020, one month after the fifth season ended on 2 August 2020. It was also revealed on 5 July 2020 during the live eviction show that the audition for Big Brother 6 was open and the show will be called \"Big Brother: A Revolução\" ",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "lisbon-fashion-13",
+        "name": "El Dorado World Tour",
+        "cityId": "lisbon",
+        "categoryId": "fashion",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=El%20Dorado%20World%20Tour%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/El_Dorado_World_Tour",
+        "photo": null,
+        "description": "The El Dorado World Tour was the sixth world tour by Colombian singer Shakira, in support of her eleventh studio album, El Dorado. Comprising a total of 54 shows, It was her first tour in seven years, the last being The Sun Comes Out World Tour. The tour began on 3 June 2018, in Hamburg, Germany and ended on 3 November 2018 in Bogotá, Colombia. The tour was set to begin in November 2017, but due to a hemorrhage at Sh",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "lisbon-fashion-14",
+        "name": "March 1901",
+        "cityId": "lisbon",
+        "categoryId": "fashion",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=March%201901%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/March_1901",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/L.N.Tolstoy_Prokudin-Gorsky.jpg/960px-L.N.Tolstoy_Prokudin-Gorsky.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/March_1901"
+        },
+        "description": "The following events occurred in March 1901:",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "lisbon-fashion-15",
+        "name": "April 1980",
+        "cityId": "lisbon",
+        "categoryId": "fashion",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=April%201980%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/April_1980",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Usburnedhelicopter.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/April_1980"
+        },
+        "description": null,
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "lisbon-fashion-16",
+        "name": "Women in aviation",
+        "cityId": "lisbon",
+        "categoryId": "fashion",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Women%20in%20aviation%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Women_in_aviation",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Air_Force%27s_first_African_American_female_fighter_pilot_080317-F-XX000-064.jpg/960px-Air_Force%27s_first_African_American_female_fighter_pilot_080317-F-XX000-064.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Women_in_aviation"
+        },
+        "description": null,
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "lisbon-fashion-17",
+        "name": "Department stores by country",
+        "cityId": "lisbon",
+        "categoryId": "fashion",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Department%20stores%20by%20country%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Department_stores_by_country",
+        "photo": null,
+        "description": null,
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "lisbon-fashion-18",
+        "name": "Today",
+        "cityId": "lisbon",
+        "categoryId": "fashion",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Today%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Today_(production_duo)",
+        "photo": null,
+        "description": null,
+        "lat": null,
+        "lng": null
+      }
+    ],
+    "shops": [
+      {
+        "id": "lisbon-shops-1",
+        "name": "Café A Brasileira",
+        "cityId": "lisbon",
+        "categoryId": "shops",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Caf%C3%A9%20A%20Brasileira%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Caf%C3%A9_A_Brasileira",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Cafe_Brasileira_in_Lisbon.jpg/960px-Cafe_Brasileira_in_Lisbon.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Caf%C3%A9_A_Brasileira"
+        },
+        "description": null,
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "lisbon-shops-2",
+        "name": "Museu das Comunicações",
+        "cityId": "lisbon",
+        "categoryId": "shops",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Museu%20das%20Comunica%C3%A7%C3%B5es%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Museu_das_Comunica%C3%A7%C3%B5es",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/Museu_das_Comunica%C3%A7%C3%B5es_%28Lisboa%29_01.jpg/960px-Museu_das_Comunica%C3%A7%C3%B5es_%28Lisboa%29_01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Museu_das_Comunica%C3%A7%C3%B5es"
+        },
+        "description": null,
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "lisbon-shops-3",
+        "name": "Mercantile Bank",
+        "cityId": "lisbon",
+        "categoryId": "shops",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Mercantile%20Bank%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Mercantile_Bank_(South_Africa)",
+        "photo": null,
+        "description": null,
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "lisbon-shops-4",
+        "name": "New Lisbon, New York",
+        "cityId": "lisbon",
+        "categoryId": "shops",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=New%20Lisbon%2C%20New%20York%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/New_Lisbon%2C_New_York",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/34/Otsego_County_outline_map_New_Lisbon_red.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/New_Lisbon%2C_New_York"
+        },
+        "description": null,
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "lisbon-shops-5",
+        "name": "Clube Oriental de Lisboa",
+        "cityId": "lisbon",
+        "categoryId": "shops",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Clube%20Oriental%20de%20Lisboa%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Clube_Oriental_de_Lisboa",
+        "photo": null,
+        "description": null,
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "lisbon-shops-6",
+        "name": "Álvaro de Campos",
+        "cityId": "lisbon",
+        "categoryId": "shops",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=%C3%81lvaro%20de%20Campos%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/%C3%81lvaro_de_Campos",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/32/Pessoa4.b.gif?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/%C3%81lvaro_de_Campos"
+        },
+        "description": null,
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "lisbon-shops-7",
+        "name": "The Tour Guide of Lisbon",
+        "cityId": "lisbon",
+        "categoryId": "shops",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Tour%20Guide%20of%20Lisbon%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/The_Tour_Guide_of_Lisbon",
+        "photo": null,
+        "description": null,
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "lisbon-shops-8",
+        "name": "Carris Museum",
+        "cityId": "lisbon",
+        "categoryId": "shops",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Carris%20Museum%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Carris_Museum",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/81/Museucarris001.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Carris_Museum"
+        },
+        "description": null,
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "lisbon-shops-9",
+        "name": "The Mentalist season 3",
+        "cityId": "lisbon",
+        "categoryId": "shops",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Mentalist%20season%203%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/The_Mentalist_season_3",
+        "photo": null,
+        "description": null,
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "lisbon-shops-10",
+        "name": "Malcolm",
+        "cityId": "lisbon",
+        "categoryId": "shops",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Malcolm%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Malcolm_(film)",
+        "photo": null,
+        "description": null,
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "lisbon-shops-11",
+        "name": "John Paul II Ponta Delgada Airport",
+        "cityId": "lisbon",
+        "categoryId": "shops",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=John%20Paul%20II%20Ponta%20Delgada%20Airport%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/John_Paul_II_Ponta_Delgada_Airport",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/SMG_PDL_Relva_JPaulo2_terminal.jpg/960px-SMG_PDL_Relva_JPaulo2_terminal.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/John_Paul_II_Ponta_Delgada_Airport"
+        },
+        "description": null,
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "lisbon-shops-12",
+        "name": "Carmo Convent",
+        "cityId": "lisbon",
+        "categoryId": "shops",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Carmo%20Convent%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Carmo_Convent",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/Nave_of_Igreja_do_Convento_do_Carmo_%28Lisbon%29_81.jpg/960px-Nave_of_Igreja_do_Convento_do_Carmo_%28Lisbon%29_81.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Carmo_Convent"
+        },
+        "description": null,
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "lisbon-shops-13",
+        "name": "Belém, Lisbon",
+        "cityId": "lisbon",
+        "categoryId": "shops",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Bel%C3%A9m%2C%20Lisbon%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Bel%C3%A9m%2C_Lisbon",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Santa_Maria_de_Bel%C3%A9m_sul_Tago_-_panoramio_%28cropped%29.jpg/960px-Santa_Maria_de_Bel%C3%A9m_sul_Tago_-_panoramio_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Bel%C3%A9m%2C_Lisbon"
+        },
+        "description": null,
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "lisbon-shops-14",
+        "name": "Anthony of Padua",
+        "cityId": "lisbon",
+        "categoryId": "shops",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Anthony%20of%20Padua%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Anthony_of_Padua",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/Francisco_de_Zurbar%C3%A1n_-_Sto_Antonio_de_Padua.jpg/960px-Francisco_de_Zurbar%C3%A1n_-_Sto_Antonio_de_Padua.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Anthony_of_Padua"
+        },
+        "description": null,
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "lisbon-shops-15",
+        "name": "Super Bock Super Rock",
+        "cityId": "lisbon",
+        "categoryId": "shops",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Super%20Bock%20Super%20Rock%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Super_Bock_Super_Rock",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/SBSR.jpg/960px-SBSR.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Super_Bock_Super_Rock"
+        },
+        "description": null,
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "lisbon-shops-16",
+        "name": "National Coach Museum",
+        "cityId": "lisbon",
+        "categoryId": "shops",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=National%20Coach%20Museum%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/National_Coach_Museum",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Antigo_Picadeiro_Real.jpg/960px-Antigo_Picadeiro_Real.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/National_Coach_Museum"
+        },
+        "description": null,
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "lisbon-shops-17",
+        "name": "Ceramics Museum of Sacavém",
+        "cityId": "lisbon",
+        "categoryId": "shops",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Ceramics%20Museum%20of%20Sacav%C3%A9m%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Ceramics_Museum_of_Sacav%C3%A9m",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Museu_da_Cer%C3%A2mica_-_Forno_18_-_I.jpg/960px-Museu_da_Cer%C3%A2mica_-_Forno_18_-_I.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Ceramics_Museum_of_Sacav%C3%A9m"
+        },
+        "description": null,
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "lisbon-shops-18",
+        "name": "Chiado",
+        "cityId": "lisbon",
+        "categoryId": "shops",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Chiado%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Chiado",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Lisbon_10064_Lisboa_Pra%C3%A7a_Lu%C3%ADs_de_Cam%C3%B5es_2006_Luca_Galuzzi_%28cropped%29.jpg/960px-Lisbon_10064_Lisboa_Pra%C3%A7a_Lu%C3%ADs_de_Cam%C3%B5es_2006_Luca_Galuzzi_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Chiado"
+        },
+        "description": null,
+        "lat": null,
+        "lng": null
+      }
+    ]
+  }
+}

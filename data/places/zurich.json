@@ -1,0 +1,2919 @@
+{
+  "cityId": "zurich",
+  "generatedAt": "2026-11-27T09:20:11.254Z",
+  "source": "Wikipedia API + Maps URLs (sin scraping de Google)",
+  "incomplete": [],
+  "categories": {
+    "night_clubs": [
+      {
+        "id": "zurich-night_clubs-1",
+        "name": "Cabaret Voltaire",
+        "cityId": "zurich",
+        "categoryId": "night_clubs",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Cabaret%20Voltaire%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Cabaret_Voltaire_(Zurich)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/1916_Marcel_S%C5%82odki_Cabaret-Voltaire.jpg/960px-1916_Marcel_S%C5%82odki_Cabaret-Voltaire.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Cabaret_Voltaire_(Zurich)"
+        },
+        "description": "Cabaret Voltaire is the birthplace of the Dada art movement, founded in Zurich, Switzerland, in 1916. It was founded by Hugo Ball and Emmy Hennings as a cabaret intended for artistic and political purposes. Other founding members were Marcel Janco, Richard Huelsenbeck, Tristan Tzara, Sophie Taeuber-Arp and Jean Arp. It is currently operating as a museum, bar and cultural space open to the public, at Spiegelgasse 1 in",
+        "lat": 47.37166667,
+        "lng": 8.54388889
+      },
+      {
+        "id": "zurich-night_clubs-2",
+        "name": "Sihlcity",
+        "cityId": "zurich",
+        "categoryId": "night_clubs",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Sihlcity%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Sihlcity",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Z%C3%BCrich_-_Sihlcity_IMG_0911.JPG/960px-Z%C3%BCrich_-_Sihlcity_IMG_0911.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Sihlcity"
+        },
+        "description": "Sihlcity is a shopping mall located in the Swiss city of Zurich which was built on the ground of a former paper mill near the Sihl river in the Wiedikon district. It opened on 22 March 2007. It comprises some 100,000 m2 (1,100,000 sq ft) of rental space with a range of facilities, such as restaurants, a shopping center, a multiplex cinema, entertainment, health and fitness/wellness area (spa), nightclub, a chapel, an",
+        "lat": 47.35833333,
+        "lng": 8.5225
+      },
+      {
+        "id": "zurich-night_clubs-3",
+        "name": "David Zinman",
+        "cityId": "zurich",
+        "categoryId": "night_clubs",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=David%20Zinman%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/David_Zinman",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Tijdens_het_concert%2C_dirigent_Zinman_%28m_staand%29%2C_Bestanddeelnr_924-6523_%28cropped%29.jpg/960px-Tijdens_het_concert%2C_dirigent_Zinman_%28m_staand%29%2C_Bestanddeelnr_924-6523_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/David_Zinman"
+        },
+        "description": "David Zinman (born July 9, 1936) is an American conductor.",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "zurich-night_clubs-4",
+        "name": "Zurich Airport",
+        "cityId": "zurich",
+        "categoryId": "night_clubs",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Zurich%20Airport%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Zurich_Airport",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/Aerial_view_of_the_Zurich_Airport%2C_April_2019.jpg/960px-Aerial_view_of_the_Zurich_Airport%2C_April_2019.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Zurich_Airport"
+        },
+        "description": "Zurich Airport (German: Flughafen Zürich; IATA: ZRH, ICAO: LSZH) is the largest international airport of Switzerland and the principal hub of Swiss International Air Lines. It serves Zurich, the largest city in Switzerland, and, with its surface transport links, much of the rest of the country. The airport is located nine kilometres (5+1⁄2 miles) north of central Zurich, in the municipalities of Kloten, Rümlang, Ober",
+        "lat": 47.46472222,
+        "lng": 8.54916667
+      },
+      {
+        "id": "zurich-night_clubs-5",
+        "name": "Mark Fleischman",
+        "cityId": "zurich",
+        "categoryId": "night_clubs",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Mark%20Fleischman%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Mark_Fleischman",
+        "photo": null,
+        "description": "Mark Harvey Fleischman (February 1, 1940 – July 13, 2022) was an American businessman. He is best known for being the onetime owner of the Studio 54 nightclub.",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "zurich-night_clubs-6",
+        "name": "Goodbye to Gravity",
+        "cityId": "zurich",
+        "categoryId": "night_clubs",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Goodbye%20to%20Gravity%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Goodbye_to_Gravity",
+        "photo": null,
+        "description": "Goodbye to Gravity was a Romanian heavy metal band from Bucharest, active from 2011 until 2015, when four of the band's five members died during their concert in Bucharest, due to a burning firework that started the Colectiv nightclub fire. Lead vocalist Andrei Găluț was the only survivor.",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "zurich-night_clubs-7",
+        "name": "Ruen",
+        "cityId": "zurich",
+        "categoryId": "night_clubs",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Ruen%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Ruen_(DJ)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/8-3-DJRUEN_1.jpg/960px-8-3-DJRUEN_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Ruen_(DJ)"
+        },
+        "description": "Ruen is an American DJ and producer based in Miami, Florida, United States. Born in Newport Beach, California, Ruen spent his childhood playing guitar and bass before turning to DJing Ruen moved to Miami pursuing a career as a DJ in 2003. Ruen can be seen playing weekly with the world's top artists such as Alesso, Dirty South, Diplo, Flo Rida and A-Trak. Ruen was featured in Miami Magazine as the city's top DJ and li",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "zurich-night_clubs-8",
+        "name": "John Connolly",
+        "cityId": "zurich",
+        "categoryId": "night_clubs",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=John%20Connolly%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/John_Connolly_(rugby_union_coach)",
+        "photo": null,
+        "description": "John \"Knuckles\" Connolly (born 26 June 1951) is an Australian rugby union coach and the former head coach of the Australia national rugby union team. Connolly has in the past worked with the Queensland Reds, Stade Français Paris, Swansea RFC as well as Bath Rugby. As a rugby player, Connolly played hooker for the Brothers club in Brisbane. From 1980 through to 1982, Connolly acted as a player and a coach for a rugby ",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "zurich-night_clubs-9",
+        "name": "Nordstern",
+        "cityId": "zurich",
+        "categoryId": "night_clubs",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Nordstern%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Nordstern_(club)",
+        "photo": null,
+        "description": "Nordstern is a nightclub situated in Basel, Switzerland, between Voltaplatz and the Novartis Campus, in an old electricity plant. It was inducted into Swiss Night Life's 'Hall Of Fame' after being voted number 1 for \"Best Specialized Swiss Club\" in 2012.",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "zurich-night_clubs-10",
+        "name": "Serge Becker",
+        "cityId": "zurich",
+        "categoryId": "night_clubs",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Serge%20Becker%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Serge_Becker",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Serge_Becker_Portrait.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Serge_Becker"
+        },
+        "description": "Serge Becker (born 1961 in Paris) is a Swiss creative director, nightlife and hospitality designer, and impresario. He is part of a second wave of New York City restaurateurs who incorporated nightlife and theatrical elements into their venues. André Balazs described Becker as a \"Cultural Engineer\" in the New York Times.",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "zurich-night_clubs-11",
+        "name": "Dada",
+        "cityId": "zurich",
+        "categoryId": "night_clubs",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Dada%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Dada",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Grand_opening_of_the_first_Dada_exhibition%2C_Berlin%2C_5_June_1920.jpg/960px-Grand_opening_of_the_first_Dada_exhibition%2C_Berlin%2C_5_June_1920.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Dada"
+        },
+        "description": "Dada () or Dadaism was an international art movement that developed in the context of World War I, its aftermath, and the Futurist movement. First established in Zürich, Switzerland, it later quickly spread to Berlin, Paris, New York City and a variety of artistic centers in Europe and Asia. The Dada movement focused on rejecting prevailing ideas surrounding art, and more broadly in society. The Dada movement's princ",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "zurich-night_clubs-12",
+        "name": "Cabaret",
+        "cityId": "zurich",
+        "categoryId": "night_clubs",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Cabaret%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Cabaret",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/Henri_de_Toulouse-Lautrec%2C_French_-_At_the_Moulin_Rouge-_The_Dance_-_Google_Art_Project.jpg/960px-Henri_de_Toulouse-Lautrec%2C_French_-_At_the_Moulin_Rouge-_The_Dance_-_Google_Art_Project.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Cabaret"
+        },
+        "description": "Cabaret is a form of theatrical entertainment featuring music, song, dance, recitation, or drama. The performance venue might be a pub, casino, hotel, restaurant, or nightclub with a stage for performances. The audience, often dining or drinking, does not typically dance but usually sits at tables. Performances are usually introduced by a master of ceremonies (M.C.). The entertainment, as performed by an ensemble of ",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "zurich-night_clubs-13",
+        "name": "Gstaad Palace",
+        "cityId": "zurich",
+        "categoryId": "night_clubs",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Gstaad%20Palace%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Gstaad_Palace",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/Gstaad_430DSC_0353_%2848618930052%29.jpg/960px-Gstaad_430DSC_0353_%2848618930052%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Gstaad_Palace"
+        },
+        "description": "The Gstaad Palace is a luxury hotel in Gstaad, Switzerland. It was opened in December 1913 and is a destination for various celebrities and politicians. It is a member of The Leading Hotels of the World, a hotel marketing organization.",
+        "lat": 46.4731462,
+        "lng": 7.2844935
+      },
+      {
+        "id": "zurich-night_clubs-14",
+        "name": "2012–13 FC Sion season",
+        "cityId": "zurich",
+        "categoryId": "night_clubs",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=2012%E2%80%9313%20FC%20Sion%20season%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/2012%E2%80%9313_FC_Sion_season",
+        "photo": null,
+        "description": "In the 2012–13 season, Sion competes in the Swiss Super League and the Swiss Cup. In the summer transfer window, they brought in Italian World Cup winner Gennaro Gattuso, as well as Kyle Lafferty (former of Rangers). In addition, they bought an until then unknown Brazilian footballer called Léo Itaperuna from the 5th division Club of Arapongas and another forward Mathieu Manset from Reading. Already signed six months",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "zurich-night_clubs-15",
+        "name": "Klänge",
+        "cityId": "zurich",
+        "categoryId": "night_clubs",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Kl%C3%A4nge%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Kl%C3%A4nge",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/35/Klange.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Kl%C3%A4nge"
+        },
+        "description": "Klänge (German; Sounds) is a book by the Russian expressionist artist Wassily Kandinsky. Published in an edition of 345 in Munich in late 1912, the work is a famous early example of an artist's book, containing both poems and woodcuts by the artist, forming two parallel strands, each involving a loose progression. One of three seminal books that Kandinsky published between 1911 and 1912 - the other two being Concerni",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "zurich-night_clubs-16",
+        "name": "Justin Tranter",
+        "cityId": "zurich",
+        "categoryId": "night_clubs",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Justin%20Tranter%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Justin_Tranter",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/SXSW-2024-studio-OB7A1814-Justin_Tranter.jpg/960px-SXSW-2024-studio-OB7A1814-Justin_Tranter.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Justin_Tranter"
+        },
+        "description": "Justin Drew Tranter (born June 16, 1980) is an American songwriter, singer, and activist. They co-founded the New York City-based rock band Semi Precious Weapons, of which they were the lead singer, in 2004. The band released three studio albums before disbanding in 2014. Since the breakup of Semi Precious Weapons, Tranter has focused on songwriting, establishing a close writing partnership with Julia Michaels and wo",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "zurich-night_clubs-17",
+        "name": "Cabral",
+        "cityId": "zurich",
+        "categoryId": "night_clubs",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Cabral%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Cabral_(footballer)",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/87/Adilson_Tavares_Varela_%E2%80%94_Cabral.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Cabral_(footballer)"
+        },
+        "description": "Adilson Tavares Varela (born 22 October 1988), commonly known as Cabral, is a former professional footballer. He spent most of his career at Basel, winning ten honours including five Swiss Super League championships and three Swiss Cup titles. He also had brief spells in three foreign countries. After representing his adopted Switzerland 30 times between under-18 and under-21 level, Cabral was called up in 2012 for h",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "zurich-night_clubs-18",
+        "name": "Rave",
+        "cityId": "zurich",
+        "categoryId": "night_clubs",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Rave%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Rave",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Sven_Vath_playing_at_Amnesia.JPG/960px-Sven_Vath_playing_at_Amnesia.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Rave"
+        },
+        "description": "A rave (from the verb: to rave) is a dance party at a warehouse, club, or other public or private venue, typically featuring performances by DJs playing electronic dance music. The music is amplified with a large, powerful sound reinforcement system, typically with large subwoofers to produce a deep bass sound. Occasionally live musicians perform at raves. The music is accompanied by laser light shows, projected colo",
+        "lat": null,
+        "lng": null
+      }
+    ],
+    "restaurants": [
+      {
+        "id": "zurich-restaurants-1",
+        "name": "Felsenegg",
+        "cityId": "zurich",
+        "categoryId": "restaurants",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Felsenegg%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Felsenegg",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Felsenegg_-_Uetlibergturm_IMG_1620.JPG/960px-Felsenegg_-_Uetlibergturm_IMG_1620.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Felsenegg"
+        },
+        "description": "Felsenegg (el. 804 metres or 2,638 feet) is a vantage point in the canton of Zürich in Switzerland.",
+        "lat": 47.30859722,
+        "lng": 8.50958333
+      },
+      {
+        "id": "zurich-restaurants-2",
+        "name": "Zürichberg",
+        "cityId": "zurich",
+        "categoryId": "restaurants",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Z%C3%BCrichberg%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Z%C3%BCrichberg",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Z%C3%BCrich_-_Wollishofen_-_Alte_Kirche_IMG_0674.JPG/960px-Z%C3%BCrich_-_Wollishofen_-_Alte_Kirche_IMG_0674.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Z%C3%BCrichberg"
+        },
+        "description": "The Zürichberg is a wooded hill rising to 679 m (2,228 feet), overlooking Lake Zürich and located immediately to the east of the city of Zürich, Switzerland, between the valleys of the Limmat and the Glatt rivers. Its highest point is about 270 metres above the Limmat and it is part of a chain of hills, such as Käferberg, Adlisberg, Forch and Pfannenstiel, between the Greifensee/Glattal and Lake Zürich. It is a pictu",
+        "lat": 47.38555556,
+        "lng": 8.56694444
+      },
+      {
+        "id": "zurich-restaurants-3",
+        "name": "Bavaria",
+        "cityId": "zurich",
+        "categoryId": "restaurants",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Bavaria%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Bavaria_(train)",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/39/DB_218_264-0_%2B_TEE_66.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Bavaria_(train)"
+        },
+        "description": "The Bavaria was an express train that linked München Hbf in Munich, Germany, with Zürich HB in Zurich, Switzerland. Introduced in the 1950s, it ran through to Geneva (Cornavin station) until 1969, when it was cut back to Zurich. The train was named on the basis that Bavaria is the Latin equivalent to the German word Bayern, the official name of the federal state of Bavaria, of which Munich is the capital. It was oper",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "zurich-restaurants-4",
+        "name": "Zünfte of Zurich",
+        "cityId": "zurich",
+        "categoryId": "restaurants",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Z%C3%BCnfte%20of%20Zurich%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Z%C3%BCnfte_of_Zurich",
+        "photo": null,
+        "description": "There are fourteen historical Zünfte (guilds, singular Zunft) of Zurich, under the system established in 1336 with the \"guild revolution\" of Rudolf Brun. They are the 13 guilds that predated 1336, plus the Gesellschaft zur Constaffel, originally consisting of the city's nobles.",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "zurich-restaurants-5",
+        "name": "Letzigrund",
+        "cityId": "zurich",
+        "categoryId": "restaurants",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Letzigrund%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Letzigrund",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Letzigrund_2024_2.jpg/960px-Letzigrund_2024_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Letzigrund"
+        },
+        "description": "Letzigrund (Swiss Standard German: [ˈlɛtsiɡrʊnd] ) is a stadium in Zurich, Switzerland, the home of the football clubs FC Zürich and Grasshopper Club Zürich, as well as the athletics club LC Zürich. The original stadium was constructed by members of FC Zürich in 1925. Grasshopper Club has been using it as their home stadium since 2007, shortly after construction of the new stadium was completed. The annual track and ",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "zurich-restaurants-6",
+        "name": "Hiltl Restaurant",
+        "cityId": "zurich",
+        "categoryId": "restaurants",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Hiltl%20Restaurant%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Hiltl_Restaurant",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Hiltl_Z%C3%BCrich.jpg/960px-Hiltl_Z%C3%BCrich.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Hiltl_Restaurant"
+        },
+        "description": "Hiltl Restaurant is a vegetarian casual dining restaurant in Switzerland. The restaurant holds the Guinness world record for being the oldest continuously open vegetarian restaurant in the world. This restaurant, named Haus Hiltl, is located at Sihlstrasse in Zurich. Two others in the same city, which opened later, are the Hiltl Sihlpost at Europaallee (Kasernenstrasse, next to Main Railway Station) and the Hiltl Dac",
+        "lat": 47.373304,
+        "lng": 8.53675
+      },
+      {
+        "id": "zurich-restaurants-7",
+        "name": "Blindekuh",
+        "cityId": "zurich",
+        "categoryId": "restaurants",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Blindekuh%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Blindekuh_(restaurant)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/Restaurant_Blinde_Kuh_-_September_2014_-_Bild_5.JPG/960px-Restaurant_Blinde_Kuh_-_September_2014_-_Bild_5.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Blindekuh_(restaurant)"
+        },
+        "description": "blindekuh are two restaurants in Switzerland where patrons are served in the dark. The restaurants are located in Basel and Zurich, respectively. The name is derived from \"Blinde Kuh\" (lit. 'blind cow'), the German name for Blind man's bluff.",
+        "lat": 47.3582,
+        "lng": 8.5572
+      },
+      {
+        "id": "zurich-restaurants-8",
+        "name": "Oberstrass",
+        "cityId": "zurich",
+        "categoryId": "restaurants",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Oberstrass%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Oberstrass",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Z%C3%BCrich_-_Oberstrass_-_Irchelpark_-_Oerlikon_-_Seebach_-_Uetlibergturm_IMG_1566.JPG/960px-Z%C3%BCrich_-_Oberstrass_-_Irchelpark_-_Oerlikon_-_Seebach_-_Uetlibergturm_IMG_1566.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Oberstrass"
+        },
+        "description": "Oberstrass is a quarter in the district 6 in Zurich. It was formerly a municipality of its own, having been incorporated into Zurich in 1893. As of 2025, the quarter has a population of 11,083 distributed on an area of 2.64 km2 (1.02 sq mi). The Rigiblick funicular can be found in Oberstrass as one of two funiculars within the city of Zurich. Built in 1901 as Rigiblick restaurant, the former Gastsaal was re-opened as",
+        "lat": 47.38555556,
+        "lng": 8.54944444
+      },
+      {
+        "id": "zurich-restaurants-9",
+        "name": "Quaianlagen",
+        "cityId": "zurich",
+        "categoryId": "restaurants",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Quaianlagen%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Quaianlagen_(Zurich)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/Unteres_Z%C3%BCrichseebecken_-_Wollishofen_-_Talweg_2011-08-29_17-59-56.jpg/960px-Unteres_Z%C3%BCrichseebecken_-_Wollishofen_-_Talweg_2011-08-29_17-59-56.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Quaianlagen_(Zurich)"
+        },
+        "description": "Quaianalagen (German, plural; English: quays, or quaysides; from French: des quais) or Seeuferanlagen (German, plural for lakeshore sites) on Lake Zurich is a series of lakefronts in Zurich, Switzerland. Inaugurated in 1887, the quaysides are considered an important milestone in the development of Zurich. The construction of the lake fronts transformed the medieval small town on the rivers Limmat and Sihl to a modern",
+        "lat": 47.36361111,
+        "lng": 8.53638889
+      },
+      {
+        "id": "zurich-restaurants-10",
+        "name": "Unterstrass",
+        "cityId": "zurich",
+        "categoryId": "restaurants",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Unterstrass%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Unterstrass",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/ETH-BIB-Z%C3%BCrich-Unterstrass%2C_Schulhaus%2C_Milchbuck-Inlandfl%C3%BCge-LBS_MH01-007158.tif/lossy-page1-960px-ETH-BIB-Z%C3%BCrich-Unterstrass%2C_Schulhaus%2C_Milchbuck-Inlandfl%C3%BCge-LBS_MH01-007158.tif.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Unterstrass"
+        },
+        "description": "Unterstrass is a quarter in the district 6 in Zurich. It was formerly a municipality of its own, having been incorporated into Zurich in 1893. As of 2025, the quarter has a population of 25,078, in an area of 2.47 km2 (0.95 sq mi). In 1962, the faculty of science of the University of Zurich proposed to establish the Irchelpark campus on the Strickhofareal. The first stage the construction of the university buildings ",
+        "lat": 47.39222222,
+        "lng": 8.53944444
+      },
+      {
+        "id": "zurich-restaurants-11",
+        "name": "Ristorante Cooperativo",
+        "cityId": "zurich",
+        "categoryId": "restaurants",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Ristorante%20Cooperativo%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Ristorante_Cooperativo",
+        "photo": null,
+        "description": "The Ristorante Cooperativo, colloquially known as Coopi, is a restaurant in Zürich, Switzerland, known for its association with 20th-century left-wing political figures as well as the anti-fascist, trade union and Italian immigrant movements in Switzerland. The restaurant's roots are in the Società Cooperativa Italiana Zurigo, founded by Italian immigrants in 1905 for \"furthering Socialist cooperation\". Apart from a ",
+        "lat": 47.3737,
+        "lng": 8.5281
+      },
+      {
+        "id": "zurich-restaurants-12",
+        "name": "Zürichhorn",
+        "cityId": "zurich",
+        "categoryId": "restaurants",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Z%C3%BCrichhorn%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Z%C3%BCrichhorn",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Z%C3%BCrichhorn_-_Tiefenbrunnen_-_Uetliberg_2013-11-27_14-54-24.JPG/960px-Z%C3%BCrichhorn_-_Tiefenbrunnen_-_Uetliberg_2013-11-27_14-54-24.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Z%C3%BCrichhorn"
+        },
+        "description": "Zürichhorn is a river delta on Zürichsee's eastern shore in the lower basin of the lake. The area is part of the parks and quays in the Seefeld quarter of the city of Zürich in Switzerland. The gardens are one of the most popular recreational areas within the city of Zürich.",
+        "lat": 47.35361111,
+        "lng": 8.55222222
+      },
+      {
+        "id": "zurich-restaurants-13",
+        "name": "Hardturm",
+        "cityId": "zurich",
+        "categoryId": "restaurants",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Hardturm%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Hardturm",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Hardturm_retouched.jpg/960px-Hardturm_retouched.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Hardturm"
+        },
+        "description": "The Hardturm was a football stadium located in Zürich's Kreis 5. Opened in 1929, it was the home of the Grasshopper Club Zürich until it closed in 2007. It was a host stadium for the 1954 FIFA World Cup. The land for the stadium was bought by Walter Schoeller who passed it on his club free of charge. When the stadium was opened in 1929 it could hold 27,500 spectators. After many reconstructions the capacity was 38,00",
+        "lat": 47.39305556,
+        "lng": 8.50472222
+      },
+      {
+        "id": "zurich-restaurants-14",
+        "name": "Ufenau",
+        "cityId": "zurich",
+        "categoryId": "restaurants",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Ufenau%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Ufenau",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Ufenau_-_Feldbach_-_Etzel_2015-05-28_12-47-39.JPG/960px-Ufenau_-_Feldbach_-_Etzel_2015-05-28_12-47-39.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Ufenau"
+        },
+        "description": "Ufenau (German pronunciation: [ˈuːfənaʊ]) is an island located, with the neighbouring island of Lützelau, in Lake Zurich in Switzerland between Freienbach (0.9 km (0.56 mi) away) and Rapperswil (2.5 km (1.6 mi) away). Highlights on Ufenau include St. Peter & Paul church, St. Martin's chapel, and Ufenau's idyllic landscape in the Frauenwinkel protected area.",
+        "lat": 47.21805556,
+        "lng": 8.78166667
+      },
+      {
+        "id": "zurich-restaurants-15",
+        "name": "Au Peninsula",
+        "cityId": "zurich",
+        "categoryId": "restaurants",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Au%20Peninsula%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Au_Peninsula",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Au_Halbinsel_-_Z%C3%BCrichsee_-_Albis_Baldern_IMG_5318.jpg/960px-Au_Halbinsel_-_Z%C3%BCrichsee_-_Albis_Baldern_IMG_5318.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Au_Peninsula"
+        },
+        "description": "The Au Peninsula (German: Halbinsel Au) is located on the Swiss Zürichsee lake shore in the municipality of Au, Canton of Zürich.",
+        "lat": 47.24916667,
+        "lng": 8.64611111
+      },
+      {
+        "id": "zurich-restaurants-16",
+        "name": "Bernhard-Theater Zürich",
+        "cityId": "zurich",
+        "categoryId": "restaurants",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Bernhard-Theater%20Z%C3%BCrich%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Bernhard-Theater_Z%C3%BCrich",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/Bernhard-Theater_-_Z%C3%BCrich_Theaterplatz_2011-04-06_18-58-56_ShiftN.jpg/960px-Bernhard-Theater_-_Z%C3%BCrich_Theaterplatz_2011-04-06_18-58-56_ShiftN.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Bernhard-Theater_Z%C3%BCrich"
+        },
+        "description": "The Bernhard-Theater Zürich or Bernhard Theater is a theatre in German-speaking Switzerland situated at Sechseläutenplatz in Zürich. It is part of the building complex Opernhaus Zürich and also houses the Restaurant Belcanto. The theater was founded by and named after Rudolf Bernhard in 1941.",
+        "lat": 47.36524167,
+        "lng": 8.54646389
+      },
+      {
+        "id": "zurich-restaurants-17",
+        "name": "Zurich Opera House",
+        "cityId": "zurich",
+        "categoryId": "restaurants",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Zurich%20Opera%20House%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Zurich_Opera_House",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Opernhaus_Z%C3%BCrich_-_Sechsel%C3%A4utenplatz_2013-08-31_18-30-40.JPG/960px-Opernhaus_Z%C3%BCrich_-_Sechsel%C3%A4utenplatz_2013-08-31_18-30-40.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Zurich_Opera_House"
+        },
+        "description": "The Zurich Opera House (German: Opernhaus Zürich) is an opera house in the Swiss city of Zurich. Located at the Sechseläutenplatz, it has been the home of the Zurich Opera since 1891, and also houses the Bernhard-Theater Zürich. It is also home to Ballett Zürich. It received the \"Opera Company of the Year\" award at the 2014 International Opera Awards.",
+        "lat": 47.365,
+        "lng": 8.54694444
+      },
+      {
+        "id": "zurich-restaurants-18",
+        "name": "Bachtel",
+        "cityId": "zurich",
+        "categoryId": "restaurants",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Bachtel%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Bachtel",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Kempraten_-_Bachtel_-_ZSG_Helvetia_2015-09-09_16-41-44.JPG/960px-Kempraten_-_Bachtel_-_ZSG_Helvetia_2015-09-09_16-41-44.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Bachtel"
+        },
+        "description": "Bachtel is a mountain of the Zurich Oberland, located between Hinwil and Wald in the canton of Zurich, Switzerland. It lies approximately halfway between the Schnebelhorn (the highest point in the canton) and Lake Zurich. On the summit is the Bachtel Tower, a 60 metres (200 ft) tall radio tower, a playground and a restaurant (Bachtel-Kulm Besen-Beiz). The Bachtel range (also Allmann or Allmen, Bachtel-Allmen-Kette) s",
+        "lat": 47.29472222,
+        "lng": 8.88638889
+      }
+    ],
+    "bars": [
+      {
+        "id": "zurich-bars-1",
+        "name": "Julius Baer Group",
+        "cityId": "zurich",
+        "categoryId": "bars",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Julius%20Baer%20Group%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Julius_Baer_Group",
+        "photo": null,
+        "description": "Julius Baer Group Ltd. (German: Julius Bär Gruppe AG) is a Swiss multinational private banking and financial services firm headquartered in Zurich, Switzerland. Specializing in wealth management, investment advisory services, real estate financing, and selective trading services, it is one of the world’s largest dedicated private banks, with CHF 497.4 billion in managed assets as of 2024. It is listed on the SIX Swis",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "zurich-bars-2",
+        "name": "Rudolf Elmer",
+        "cityId": "zurich",
+        "categoryId": "bars",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Rudolf%20Elmer%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Rudolf_Elmer",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Elmer_Rudolf_Matthias.jpg/960px-Elmer_Rudolf_Matthias.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Rudolf_Elmer"
+        },
+        "description": "Rudolf Elmer (born 1 November 1955) is a Swiss private banker, whistleblower, and activist. He worked as a banker at Julius Bär from the 1980s to his dismissal in 2002. At this time, he was head of the bank's Caribbean operations for eight years. In 2005 he was arrested by Zürich authorities and held for 30 days as Swiss authorities alleged he unsuccessfully attempted to disclose client information. In 2008, Elmer al",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "zurich-bars-3",
+        "name": "Zurich",
+        "cityId": "zurich",
+        "categoryId": "bars",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Zurich%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Zurich",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Altstadt_Z%C3%BCrich_2015.jpg/960px-Altstadt_Z%C3%BCrich_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Zurich"
+        },
+        "description": "Zurich (German: Zürich; Alemannic German: Züri; see below) is the largest city in Switzerland and the capital of the canton of Zurich. It is in north-central Switzerland, at the northwestern tip of Lake Zurich. As of the end of 2025, the municipality had a population of 440,935, while the urban area was home to 1.45 million people (2020), and the Zurich metropolitan area had a total population of 2.1 million (2020). ",
+        "lat": 47.37444444,
+        "lng": 8.54111111
+      },
+      {
+        "id": "zurich-bars-4",
+        "name": "Cabaret Voltaire",
+        "cityId": "zurich",
+        "categoryId": "bars",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Cabaret%20Voltaire%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Cabaret_Voltaire_(Zurich)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/1916_Marcel_S%C5%82odki_Cabaret-Voltaire.jpg/960px-1916_Marcel_S%C5%82odki_Cabaret-Voltaire.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Cabaret_Voltaire_(Zurich)"
+        },
+        "description": "Cabaret Voltaire is the birthplace of the Dada art movement, founded in Zurich, Switzerland, in 1916. It was founded by Hugo Ball and Emmy Hennings as a cabaret intended for artistic and political purposes. Other founding members were Marcel Janco, Richard Huelsenbeck, Tristan Tzara, Sophie Taeuber-Arp and Jean Arp. It is currently operating as a museum, bar and cultural space open to the public, at Spiegelgasse 1 in",
+        "lat": 47.37166667,
+        "lng": 8.54388889
+      },
+      {
+        "id": "zurich-bars-5",
+        "name": "Ivan Kecojević",
+        "cityId": "zurich",
+        "categoryId": "bars",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Ivan%20Kecojevi%C4%87%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Ivan_Kecojevi%C4%87",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Ivan_Kecojevi%C4%87.JPG/960px-Ivan_Kecojevi%C4%87.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Ivan_Kecojevi%C4%87"
+        },
+        "description": "Ivan Kecojević (Montenegrin Cyrillic: Иван Кецојевић, born 10 April 1988) is a Montenegrin former footballer who played as a central defender.",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "zurich-bars-6",
+        "name": "Dolder Grand",
+        "cityId": "zurich",
+        "categoryId": "bars",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Dolder%20Grand%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Dolder_Grand",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/CH.ZH.Zurich_Hotel_The-Dolder-Grand_3x2-R_15K.jpg/960px-CH.ZH.Zurich_Hotel_The-Dolder-Grand_3x2-R_15K.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Dolder_Grand"
+        },
+        "description": "The Dolder Grand (formerly known as Grand Hotel Dolder) is a luxury hotel in the Swiss city of Zurich. It is located on Adlisberg hill, some 2 kilometres (1.2 mi) from, and 200 metres (660 ft) above, the city centre. Built in 1899, the hotel spreads out over 40,000 square metres (430,000 sq ft) and offers 175 rooms and suites, two restaurants, a bar, 13 conference rooms and a 4,000-square-metre (43,000 sq ft) spa. Th",
+        "lat": 47.3728,
+        "lng": 8.5732
+      },
+      {
+        "id": "zurich-bars-7",
+        "name": "Scott Sutter",
+        "cityId": "zurich",
+        "categoryId": "bars",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Scott%20Sutter%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Scott_Sutter",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Scott_Sutter_2009.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Scott_Sutter"
+        },
+        "description": "Scott Lee Sutter (born 13 May 1986) is a former professional footballer who played as a right-back. Previously he spent 14 years playing in the Swiss Super League for Grasshopper Zürich, FC Zürich and Young Boys and in Major League Soccer for Orlando City SC and Vancouver Whitecaps FC. Born in England, Sutter represented Switzerland at the under-21 and the senior level.",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "zurich-bars-8",
+        "name": "H. R. Giger",
+        "cityId": "zurich",
+        "categoryId": "bars",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=H.%20R.%20Giger%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/H._R._Giger",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/92/HR_Giger_2012.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/H._R._Giger"
+        },
+        "description": "Hans Ruedi Giger ( GHEE-gər; German: [ˈɡiːɡɐ]; 5 February 1940 – 12 May 2014) was a Swiss artist best known for his airbrushed images that blended human physiques with machines, an art style known as \"biomechanical\". He was part of the special effects team that won an Academy Award for the visual design of Ridley Scott's 1979 sci-fi horror film Alien, and was responsible for creating the xenomorph alien itself. His w",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "zurich-bars-9",
+        "name": "Studer",
+        "cityId": "zurich",
+        "categoryId": "bars",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Studer%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Studer",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Studer_A800_MK_III_%28Bullet_Sound_Studios%29.jpg/960px-Studer_A800_MK_III_%28Bullet_Sound_Studios%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Studer"
+        },
+        "description": "Studer is a designer and manufacturer of professional audio equipment for recording studios and broadcasters. The company was founded in Zurich, Switzerland, in 1948 by Willi Studer. It initially became known in the 1950s for its professional tape recorders. In the 1990s, the company moved into the manufacture of mixing consoles. Management, sales, engineering, R&D and customer service were based in Regensdorf, Switz",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "zurich-bars-10",
+        "name": "Valais Women's Cup",
+        "cityId": "zurich",
+        "categoryId": "bars",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Valais%20Women's%20Cup%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Valais_Women's_Cup",
+        "photo": null,
+        "description": "The Valais Women's Cup was a Swiss invitational women's football tournament played each year in Châtel-St-Denis and Savièse. It was part of the Valais Summer Cups.",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "zurich-bars-11",
+        "name": "Urania Sternwarte",
+        "cityId": "zurich",
+        "categoryId": "bars",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Urania%20Sternwarte%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Urania_Sternwarte",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Sternwarte_Urania2.jpg/960px-Sternwarte_Urania2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Urania_Sternwarte"
+        },
+        "description": "Urania Sternwarte is a public observatory in the Lindenhof quarter of Zurich, Switzerland. Its name Urania refers to the muse of astronomy in Greek mythology. It features a restaurant (main building) and a bar with panoramic view (tower).",
+        "lat": 47.3744,
+        "lng": 8.5395
+      },
+      {
+        "id": "zurich-bars-12",
+        "name": "ETH Zurich",
+        "cityId": "zurich",
+        "categoryId": "bars",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=ETH%20Zurich%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/ETH_Zurich",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/ETH_Z%C3%BCrich_-_Hauptgeb%C3%A4ude_-_Unispital_2012-07-30_07-57-03_ShiftN.jpg/960px-ETH_Z%C3%BCrich_-_Hauptgeb%C3%A4ude_-_Unispital_2012-07-30_07-57-03_ShiftN.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/ETH_Zurich"
+        },
+        "description": "ETH Zurich (German: Eidgenössische Technische Hochschule Zürich; English: Swiss Federal Institute of Technology Zurich) is a public university in Zurich, Switzerland. Founded by the Swiss federal government in 1854, the university primarily teaches and conducts research in science, technology, engineering, and mathematics (STEM). ETH Zurich is widely regarded as one of the world's leading universities, particularly i",
+        "lat": 47.37638889,
+        "lng": 8.54805556
+      },
+      {
+        "id": "zurich-bars-13",
+        "name": "High jump",
+        "cityId": "zurich",
+        "categoryId": "bars",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=High%20jump%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/High_jump",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Nicole_Forrester.JPG/960px-Nicole_Forrester.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/High_jump"
+        },
+        "description": "The high jump is a track and field event in which competitors must jump unaided over a horizontal bar placed at measured heights without dislodging it. In its modern, most-practiced format, a bar is placed between two standards with a crash mat for landing. Since ancient times, competitors have successively improved their technique, today employing the universally preferred Fosbury flop, in which athletes run towards",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "zurich-bars-14",
+        "name": "Double Concerto",
+        "cityId": "zurich",
+        "categoryId": "bars",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Double%20Concerto%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Double_Concerto_(Henze)",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Bundesarchiv_B_145_Bild-F008277-0008%2C_K%C3%B6ln%2C_Schloss_Br%C3%BChl%2C_Meisterkurse_Musik.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Double_Concerto_(Henze)"
+        },
+        "description": "The Double Concerto by German composer Hans Werner Henze is a double concerto for oboe and harp, better known by its original Italian title Doppio concerto. It was completed and first performed in Zurich in 1966, and published by Schott.",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "zurich-bars-15",
+        "name": "JRP-Ringier",
+        "cityId": "zurich",
+        "categoryId": "bars",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=JRP-Ringier%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/JRP-Ringier",
+        "photo": null,
+        "description": "JRP Editions (formerly JRP|Ringier, 2004–2018), is a Swiss publisher of high-quality books on contemporary art. Founded by Lionel Bovier in Zurich, Switzerland, the company has more than 400 titles in active distribution worldwide, including artists’ books, monographs, exhibition's catalogues, anthologies and books dedicated to writings by art critics and curators. It also publishes series from external associate edi",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "zurich-bars-16",
+        "name": "Letzigrund",
+        "cityId": "zurich",
+        "categoryId": "bars",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Letzigrund%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Letzigrund",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Letzigrund_2024_2.jpg/960px-Letzigrund_2024_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Letzigrund"
+        },
+        "description": "Letzigrund (Swiss Standard German: [ˈlɛtsiɡrʊnd] ) is a stadium in Zurich, Switzerland, the home of the football clubs FC Zürich and Grasshopper Club Zürich, as well as the athletics club LC Zürich. The original stadium was constructed by members of FC Zürich in 1925. Grasshopper Club has been using it as their home stadium since 2007, shortly after construction of the new stadium was completed. The annual track and ",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "zurich-bars-17",
+        "name": "InterCity",
+        "cityId": "zurich",
+        "categoryId": "bars",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=InterCity%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/InterCity_(Switzerland)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Panneaux_d%C3%A9part_IC_61_et_IC_8_%C3%A0_Berne.jpg/960px-Panneaux_d%C3%A9part_IC_61_et_IC_8_%C3%A0_Berne.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/InterCity_(Switzerland)"
+        },
+        "description": "The InterCity, abbreviated IC, is a category of mainline train services in Switzerland operated by Swiss Federal Railways, connecting the country's major cities, the range of services (in Switzerland) of which is located between InterRegio (IR) (inter-regional) and EuroCity (EC). Swiss InterCity lines have been numbered by analogy with the Swiss motorway network since the timetable change of December 2018. Some forme",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "zurich-bars-18",
+        "name": "Kaspar Villiger",
+        "cityId": "zurich",
+        "categoryId": "bars",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Kaspar%20Villiger%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Kaspar_Villiger",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Kaspar_Villiger_2002.jpg/960px-Kaspar_Villiger_2002.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Kaspar_Villiger"
+        },
+        "description": "Kaspar Villiger (FEELIGER; born 5 February 1941) is a Swiss businessman, former tobacco manufacturer and politician. He served as a member of the Federal Council (Switzerland) since 1 February 1989 for The Liberals. Villiger served two terms as President of the Swiss Confederation in 1995 and again in 2002. He previously served on the Council of States (Switzerland) from 1987 to 1989 and on the National Council (Swit",
+        "lat": null,
+        "lng": null
+      }
+    ],
+    "coffee_shops": [
+      {
+        "id": "zurich-coffee_shops-1",
+        "name": "Amaretto",
+        "cityId": "zurich",
+        "categoryId": "coffee_shops",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Amaretto%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Amaretto",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Amaretto_Bottles_4.JPG/960px-Amaretto_Bottles_4.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Amaretto"
+        },
+        "description": "Amaretto (Italian for 'a little bitter') is a sweet Italian liqueur originating from the comune (municipality) of Saronno. Depending on the brand, it may be made from apricot kernels, bitter almonds, peach stones, or almonds, all of which are natural sources of the benzaldehyde that provides the almond-like flavour of the liqueur. It generally contains 21 to 28 percent alcohol by volume. When served as a beverage, am",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "zurich-coffee_shops-2",
+        "name": "Blossoming Chestnut Branches",
+        "cityId": "zurich",
+        "categoryId": "coffee_shops",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Blossoming%20Chestnut%20Branches%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Blossoming_Chestnut_Branches",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Blossoming_Chestnut_Branches.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Blossoming_Chestnut_Branches"
+        },
+        "description": "Blossoming Chestnut Branches was painted by Vincent van Gogh during the artist's Auvers-sur-Oise period in May 1890, the final year of his life. The painting was one of four missing after a high-profile theft from the Foundation E.G. Bührle gallery in Zürich on February 10, 2008. The work was found nine days later in a parked automobile in Zürich, along with one of the other stolen paintings, and was returned undamag",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "zurich-coffee_shops-3",
+        "name": "Hardturm",
+        "cityId": "zurich",
+        "categoryId": "coffee_shops",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Hardturm%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Hardturm",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Hardturm_retouched.jpg/960px-Hardturm_retouched.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Hardturm"
+        },
+        "description": "The Hardturm was a football stadium located in Zürich's Kreis 5. Opened in 1929, it was the home of the Grasshopper Club Zürich until it closed in 2007. It was a host stadium for the 1954 FIFA World Cup. The land for the stadium was bought by Walter Schoeller who passed it on his club free of charge. When the stadium was opened in 1929 it could hold 27,500 spectators. After many reconstructions the capacity was 38,00",
+        "lat": 47.39305556,
+        "lng": 8.50472222
+      },
+      {
+        "id": "zurich-coffee_shops-4",
+        "name": "Zurich Opera House",
+        "cityId": "zurich",
+        "categoryId": "coffee_shops",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Zurich%20Opera%20House%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Zurich_Opera_House",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Opernhaus_Z%C3%BCrich_-_Sechsel%C3%A4utenplatz_2013-08-31_18-30-40.JPG/960px-Opernhaus_Z%C3%BCrich_-_Sechsel%C3%A4utenplatz_2013-08-31_18-30-40.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Zurich_Opera_House"
+        },
+        "description": "The Zurich Opera House (German: Opernhaus Zürich) is an opera house in the Swiss city of Zurich. Located at the Sechseläutenplatz, it has been the home of the Zurich Opera since 1891, and also houses the Bernhard-Theater Zürich. It is also home to Ballett Zürich. It received the \"Opera Company of the Year\" award at the 2014 International Opera Awards.",
+        "lat": 47.365,
+        "lng": 8.54694444
+      },
+      {
+        "id": "zurich-coffee_shops-5",
+        "name": "Volkshaus",
+        "cityId": "zurich",
+        "categoryId": "coffee_shops",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Volkshaus%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Volkshaus",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/VolkshausZuerich.JPG/960px-VolkshausZuerich.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Volkshaus"
+        },
+        "description": "The Volkshaus is a 1,200-seat concert hall located on Helvetiaplatz in the city of Zurich, Switzerland. The building's construction began in June 1909 and it publicly opened the following year.",
+        "lat": 47.37555556,
+        "lng": 8.52722222
+      },
+      {
+        "id": "zurich-coffee_shops-6",
+        "name": "Kunsthaus Zürich",
+        "cityId": "zurich",
+        "categoryId": "coffee_shops",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Kunsthaus%20Z%C3%BCrich%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Kunsthaus_Z%C3%BCrich",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Kunsthaus_Z%C3%BCrich_2011-08-06_17-33-46.jpg/960px-Kunsthaus_Z%C3%BCrich_2011-08-06_17-33-46.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Kunsthaus_Z%C3%BCrich"
+        },
+        "description": "The Kunsthaus Zürich is an art museum in Zurich. It is the biggest art museum in Switzerland by area and houses one of the most important art collections in Switzerland, assembled over time by the Zürcher Kunstgesellschaft, a nonprofit art society. The collection spans from the Middle Ages to contemporary art, with an emphasis on Swiss art.",
+        "lat": 47.3703,
+        "lng": 8.5481
+      },
+      {
+        "id": "zurich-coffee_shops-7",
+        "name": "Confiserie Sprüngli",
+        "cityId": "zurich",
+        "categoryId": "coffee_shops",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Confiserie%20Spr%C3%BCngli%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Confiserie_Spr%C3%BCngli",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/David_sprungli_portrait.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Confiserie_Spr%C3%BCngli"
+        },
+        "description": "The Confiserie Sprüngli (English: Sprüngli Confectionery) is a Swiss luxury confectionery manufacturer and retailer headquartered in Zürich, Switzerland. Founded in 1836 by David Sprüngli, it has been an independent company from Lindt & Sprüngli since 1892. Today the company is best known for their Luxemburgerli, a form of macarons. Sprüngli operates 35 retail and café locations across Switzerland, Germany, Austria a",
+        "lat": 47.36948,
+        "lng": 8.5392
+      },
+      {
+        "id": "zurich-coffee_shops-8",
+        "name": "Bellevueplatz",
+        "cityId": "zurich",
+        "categoryId": "coffee_shops",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Bellevueplatz%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Bellevueplatz",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/Bellevue_-_Quaibr%C3%BCcke_2012-08-08_19-45-15.JPG/960px-Bellevue_-_Quaibr%C3%BCcke_2012-08-08_19-45-15.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Bellevueplatz"
+        },
+        "description": "Bellevueplatz (lit. 'Bellevue Square', from the French bellevue, meaning \"beautiful sight\") is a town square in the city of Zurich, Switzerland built in 1856. Named after the former Grandhotel Bellevue on its north side, it is one of the nodal points for roads and public transportation in Zurich, as well as an extension of the quaysides in Zurich that were built between 1881 and 1887. It is part of the Altstadt distr",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "zurich-coffee_shops-9",
+        "name": "FIFA Museum",
+        "cityId": "zurich",
+        "categoryId": "coffee_shops",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=FIFA%20Museum%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/FIFA_Museum",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/FIFA_World_Football_Museum_-_panoramio.jpg/960px-FIFA_World_Football_Museum_-_panoramio.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/FIFA_Museum"
+        },
+        "description": "The FIFA Museum is an association football museum operated by FIFA. The museum is located in Zurich, Switzerland, across town from the FIFA headquarters. It opened on 28 February 2016. The project, costing over SFr500 million ($563m), is currently under investigation for \"suspected criminal mismanagement\".",
+        "lat": 47.363509,
+        "lng": 8.531749
+      },
+      {
+        "id": "zurich-coffee_shops-10",
+        "name": "Hallenstadion",
+        "cityId": "zurich",
+        "categoryId": "coffee_shops",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Hallenstadion%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Hallenstadion",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Oerlikon_-_Hallenstadion-Messe_Z%C3%BCrich_2011-03-15_15-20-46.jpg/960px-Oerlikon_-_Hallenstadion-Messe_Z%C3%BCrich_2011-03-15_15-20-46.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Hallenstadion"
+        },
+        "description": "The Hallenstadion (German: Zürcher Hallenstadion, Zürich Indoor Stadium) is a multi-purpose facility in the Oerlikon quarter of northern Zürich. It has a capacity of 11,200 spectators. Designed by Bruno Giacometti, it opened on November 4, 1939, and was renovated in 2004–05. The Hallenstadion was home to the ZSC Lions of the Ice Hockey National League (NL) from 1950 to 2022. The Lions moved out of the Hallenstadion a",
+        "lat": 47.41138889,
+        "lng": 8.55166667
+      },
+      {
+        "id": "zurich-coffee_shops-11",
+        "name": "Lindt",
+        "cityId": "zurich",
+        "categoryId": "coffee_shops",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Lindt%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Lindt",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Kilchberg_-_Lindt_%26_Spr%C3%BCngli_-_ZSG_Helvetia_2015-09-09_18-03-57.JPG/960px-Kilchberg_-_Lindt_%26_Spr%C3%BCngli_-_ZSG_Helvetia_2015-09-09_18-03-57.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Lindt"
+        },
+        "description": "Chocoladefabriken Lindt & Sprüngli AG, doing business as Lindt, is a Swiss chocolatier and confectionery company founded in 1845 and known for its chocolate truffles and chocolate bars, among other sweets. It is based in Kilchberg, where its main factory and museum are located. Lindt is one of the largest Swiss chocolate manufacturers.",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "zurich-coffee_shops-12",
+        "name": "Rathausbrücke, Zurich",
+        "cityId": "zurich",
+        "categoryId": "coffee_shops",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Rathausbr%C3%BCcke%2C%20Zurich%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Rathausbr%C3%BCcke%2C_Zurich",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Z%C3%BCrich_-_Gm%C3%BCesbrugg_-_Haus_zum_Schwert_-_Rathaus_-_Sicht_vom_Grossm%C3%BCnster_Karlsturm_IMG_6428.JPG/960px-Z%C3%BCrich_-_Gm%C3%BCesbrugg_-_Haus_zum_Schwert_-_Rathaus_-_Sicht_vom_Grossm%C3%BCnster_Karlsturm_IMG_6428.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Rathausbr%C3%BCcke%2C_Zurich"
+        },
+        "description": "Rathausbrücke (lit. 'town hall bridge'), colloquially named Gmüesbrugg (Swiss German for \"vegetable bridge\"), is a pedestrian bridge which crosses the river Limmat in Zurich, Switzerland. It is a popular public square connecting Limmatquai, the Weinplatz and the historical Schipfe quarter.",
+        "lat": 47.37180556,
+        "lng": 8.54230556
+      },
+      {
+        "id": "zurich-coffee_shops-13",
+        "name": "Letzigrund",
+        "cityId": "zurich",
+        "categoryId": "coffee_shops",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Letzigrund%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Letzigrund",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Letzigrund_2024_2.jpg/960px-Letzigrund_2024_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Letzigrund"
+        },
+        "description": "Letzigrund (Swiss Standard German: [ˈlɛtsiɡrʊnd] ) is a stadium in Zurich, Switzerland, the home of the football clubs FC Zürich and Grasshopper Club Zürich, as well as the athletics club LC Zürich. The original stadium was constructed by members of FC Zürich in 1925. Grasshopper Club has been using it as their home stadium since 2007, shortly after construction of the new stadium was completed. The annual track and ",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "zurich-coffee_shops-14",
+        "name": "ETH Zurich",
+        "cityId": "zurich",
+        "categoryId": "coffee_shops",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=ETH%20Zurich%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/ETH_Zurich",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/ETH_Z%C3%BCrich_-_Hauptgeb%C3%A4ude_-_Unispital_2012-07-30_07-57-03_ShiftN.jpg/960px-ETH_Z%C3%BCrich_-_Hauptgeb%C3%A4ude_-_Unispital_2012-07-30_07-57-03_ShiftN.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/ETH_Zurich"
+        },
+        "description": "ETH Zurich (German: Eidgenössische Technische Hochschule Zürich; English: Swiss Federal Institute of Technology Zurich) is a public university in Zurich, Switzerland. Founded by the Swiss federal government in 1854, the university primarily teaches and conducts research in science, technology, engineering, and mathematics (STEM). ETH Zurich is widely regarded as one of the world's leading universities, particularly i",
+        "lat": 47.37638889,
+        "lng": 8.54805556
+      },
+      {
+        "id": "zurich-coffee_shops-15",
+        "name": "Kunsthalle Zürich",
+        "cityId": "zurich",
+        "categoryId": "coffee_shops",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Kunsthalle%20Z%C3%BCrich%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Kunsthalle_Z%C3%BCrich",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Kunsthalle_Zuerich.jpg/960px-Kunsthalle_Zuerich.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Kunsthalle_Z%C3%BCrich"
+        },
+        "description": "The Kunsthalle Zürich is a kunsthalle (a contemporary art exhibition centre) in Zürich, Switzerland. Founded in 1985, it is located on Limmatstrasse, near the city centre. A number of temporary exhibitions are organized each year.",
+        "lat": 47.38927778,
+        "lng": 8.52520278
+      },
+      {
+        "id": "zurich-coffee_shops-16",
+        "name": "Limmat",
+        "cityId": "zurich",
+        "categoryId": "coffee_shops",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Limmat%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Limmat",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Limmat_River.jpg/960px-Limmat_River.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Limmat"
+        },
+        "description": "The Limmat is a river in Switzerland. The river commences at the outfall of Lake Zurich, in the southern part of the city of Zurich. From Zurich it flows in a northwesterly direction, continuing a further 35 km until it reaches the river Aare. The confluence is located north of the small town of Brugg and shortly after the mouth of the Reuss. The main towns along the Limmat Valley downstream of Zurich are Dietikon, W",
+        "lat": 47.5019,
+        "lng": 8.2375
+      },
+      {
+        "id": "zurich-coffee_shops-17",
+        "name": "Zurich",
+        "cityId": "zurich",
+        "categoryId": "coffee_shops",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Zurich%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Zurich",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Altstadt_Z%C3%BCrich_2015.jpg/960px-Altstadt_Z%C3%BCrich_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Zurich"
+        },
+        "description": "Zurich (German: Zürich; Alemannic German: Züri; see below) is the largest city in Switzerland and the capital of the canton of Zurich. It is in north-central Switzerland, at the northwestern tip of Lake Zurich. As of the end of 2025, the municipality had a population of 440,935, while the urban area was home to 1.45 million people (2020), and the Zurich metropolitan area had a total population of 2.1 million (2020). ",
+        "lat": 47.37444444,
+        "lng": 8.54111111
+      },
+      {
+        "id": "zurich-coffee_shops-18",
+        "name": "Wiedikon",
+        "cityId": "zurich",
+        "categoryId": "coffee_shops",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Wiedikon%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Wiedikon",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/Karte_Z%C3%BCrcher_Stadtkreis_3.png/960px-Karte_Z%C3%BCrcher_Stadtkreis_3.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Wiedikon"
+        },
+        "description": "Wiedikon is a district in the Swiss city of Zurich. It corresponds to District number 3 and comprises the neighborhoods of Alt-Wiedikon, Sihlfeld and Friesenberg. Wiedikon was formerly a municipality of its own, having been incorporated into Zurich in 1893.",
+        "lat": 47.36666667,
+        "lng": 8.51666667
+      }
+    ],
+    "bookshops": [
+      {
+        "id": "zurich-bookshops-1",
+        "name": "Michael Henss",
+        "cityId": "zurich",
+        "categoryId": "bookshops",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Michael%20Henss%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Michael_Henss",
+        "photo": null,
+        "description": "Michael Henss (born 1941) is a Swiss art historian, scholar and writer focussing on Asian art, especially that of Tibet and East Asia. He has written books, contributed articles for Asian art journals, and given seminars. Henss currently lives in Zürich, Switzerland, where he also runs a bookstore specializing in Asian and Near Eastern art. In 2004–2005, Henss was co-curator of the exhibition \"The Dalai Lamas\" at the",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "zurich-bookshops-2",
+        "name": "Weiser Antiquarian Books",
+        "cityId": "zurich",
+        "categoryId": "bookshops",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Weiser%20Antiquarian%20Books%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Weiser_Antiquarian_Books",
+        "photo": null,
+        "description": "Weiser Antiquarian Books is the oldest occult bookstore in the United States. It specialises in books on Aleister Crowley and his circle, magic, mysticism, eastern religions and alternative spirituality. Its earlier New York incarnation, The Weiser Bookshop, was described by Leslie A. Shepherd as \"perhaps the most famous occult bookstore in the U.S.\"",
+        "lat": 43.1944,
+        "lng": -70.6168
+      },
+      {
+        "id": "zurich-bookshops-3",
+        "name": "Neumarkt, Zurich",
+        "cityId": "zurich",
+        "categoryId": "bookshops",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Neumarkt%2C%20Zurich%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Neumarkt%2C_Zurich",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Grimmenturm_-_Neumarkt_Z%C3%BCrich_2014-10-29_11-10-28_%28P7800%29.JPG/960px-Grimmenturm_-_Neumarkt_Z%C3%BCrich_2014-10-29_11-10-28_%28P7800%29.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Neumarkt%2C_Zurich"
+        },
+        "description": "Neumarkt is a street and a historical area in the Rathaus quarter (Altstadt) of Zürich, Switzerland.",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "zurich-bookshops-4",
+        "name": "TVZ Theologischer Verlag Zürich AG",
+        "cityId": "zurich",
+        "categoryId": "bookshops",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=TVZ%20Theologischer%20Verlag%20Z%C3%BCrich%20AG%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/TVZ_Theologischer_Verlag_Z%C3%BCrich_AG",
+        "photo": null,
+        "description": "TVZ Theologischer Verlag Zürich AG is a Swiss book and magazine publisher of materials for Continental Reformed Protestantism based in Zurich.",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "zurich-bookshops-5",
+        "name": "Verlag Harri Deutsch",
+        "cityId": "zurich",
+        "categoryId": "bookshops",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Verlag%20Harri%20Deutsch%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Verlag_Harri_Deutsch",
+        "photo": null,
+        "description": "The Verlag Harri Deutsch (VHD, HD) with headquarters in Frankfurt am Main, Germany, as well as in Zürich and Thun, Switzerland, was a German publishing house founded in 1961 and closed in 2013.",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "zurich-bookshops-6",
+        "name": "Hoepli Editore",
+        "cityId": "zurich",
+        "categoryId": "bookshops",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Hoepli%20Editore%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Hoepli_Editore",
+        "photo": null,
+        "description": "Hoepli Editore (Italian pronunciation: [ˈ(h)øːpli ediˈtoːre, ˈ(h)ɛːpli -]) is an Italian publishing house and bookstore based in Milan founded in 1870 by Swiss-Italian bookseller Ulrico Hoepli. It was thriving in the XIX and XX centuries. In the 1990s, the catalogue of the publisher exceeded 175,000 titles. In 2026, the bookstore and the publishing house were liquidated following a prolonged legal battle between shar",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "zurich-bookshops-7",
+        "name": "The Da Vinci Code",
+        "cityId": "zurich",
+        "categoryId": "bookshops",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Da%20Vinci%20Code%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/The_Da_Vinci_Code",
+        "photo": null,
+        "description": "The Da Vinci Code is a 2003 mystery thriller novel by Dan Brown. It is one of the best-selling American novels of all time. Brown's second novel to include the character Robert Langdon—the first was his 2000 novel Angels & Demons—The Da Vinci Code follows symbologist Langdon and cryptologist Sophie Neveu after a murder in the Louvre Museum in Paris entangles them in a dispute between the Priory of Sion and Opus Dei o",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "zurich-bookshops-8",
+        "name": "Georg Olms Verlag",
+        "cityId": "zurich",
+        "categoryId": "bookshops",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Georg%20Olms%20Verlag%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Georg_Olms_Verlag",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Hildesheim_Georg_Olms_Verlag.jpg/960px-Hildesheim_Georg_Olms_Verlag.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Georg_Olms_Verlag"
+        },
+        "description": "Georg Olms Verlag is a Hildesheim-based book publisher with publications in the field of Geisteswissenschaft (i.e. the humanities): first publications, ebooks, reprints and microfiche in the fields of archaeology, Arab studies, history, history of medicine and natural sciences, hippology, Jewish studies, cultural studies, literary criticism, art history, musicology, modern philology, Oriental studies, philosophy, the",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "zurich-bookshops-9",
+        "name": "Orell Füssli",
+        "cityId": "zurich",
+        "categoryId": "bookshops",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Orell%20F%C3%BCssli%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Orell_F%C3%BCssli",
+        "photo": null,
+        "description": "Orell Füssli is a Swiss banknote printing and bookselling company, established by Christoph Froschauer in 1519 as a book printer and publisher. It is currently operating in many print-related segments, such as security printing, bookselling, and publishing, with security printing being a primary contemporary product of the company. The company's shares have been traded on the SIX Swiss Exchange (SIX: OFN) since 1897.",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "zurich-bookshops-10",
+        "name": "Michel Sanouillet",
+        "cityId": "zurich",
+        "categoryId": "bookshops",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Michel%20Sanouillet%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Michel_Sanouillet",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Michel.Sanouillet.1986.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Michel_Sanouillet"
+        },
+        "description": "Michel Sanouillet (21 September 1924 – 14 June 2015) was a French art historian and one of the foremost specialists of the Dada movement. Born in 1924 in Montélimar, Drôme, where he completed his public and high school education, Sanouillet joined the French Resistance in the Vercors in 1942. After a B.A. and an M.A. at the Sorbonne in 1945, he began working on 20th century avant-garde movements. On June 26, 1965, at",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "zurich-bookshops-11",
+        "name": "YMCA Press",
+        "cityId": "zurich",
+        "categoryId": "bookshops",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=YMCA%20Press%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/YMCA_Press",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Russian_bookstore_Les_Editeurs_R%C3%A9unis_in_Paris%2C_headquarters_of_YMCA-Press_publishing_house.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/YMCA_Press"
+        },
+        "description": "YMCA-Press is a publishing house originally established by the YMCA and located in Paris, also known as Librairie des Editeurs Réunis (bookstore) or Centre culturel Alexandre Soljenitsyne (cultural centre). It has published many great Russian authors throughout its history, such as Aleksandr Solzhenitsyn, Mikhail Bulgakov, Anna Akhmatova, Marina Tsvetaeva, Ivan Bunin and Osip Mandelstam. The YMCA had originally forme",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "zurich-bookshops-12",
+        "name": "Alberto Cattaneo",
+        "cityId": "zurich",
+        "categoryId": "bookshops",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Alberto%20Cattaneo%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Alberto_Cattaneo",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/51/Cattaneo_xu.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Alberto_Cattaneo"
+        },
+        "description": "Alberto Sergio Cattaneo (26 June 1967 in Milan) is an Italian mathematician and mathematical physicist, specializing in geometry related to quantum field theory and string theory.",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "zurich-bookshops-13",
+        "name": "Laura Owens",
+        "cityId": "zurich",
+        "categoryId": "bookshops",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Laura%20Owens%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Laura_Owens",
+        "photo": null,
+        "description": "Laura Owens (born 1970) is an American painter, gallery owner and educator. She emerged in the late 1990s from the Los Angeles art scene. She is known for large-scale paintings that combine a variety of art historical references and painterly techniques. She lives and works in Los Angeles, California. In 2013, she turned her studio work space into an exhibition space called 356 Mission, in collaboration with Gavin Br",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "zurich-bookshops-14",
+        "name": "Lempertz",
+        "cityId": "zurich",
+        "categoryId": "bookshops",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Lempertz%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Lempertz",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Kunsthaus_Lempertz_%283984-86%29.jpg/960px-Kunsthaus_Lempertz_%283984-86%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Lempertz"
+        },
+        "description": "Lempertz (officially Kunsthaus Lempertz KG) is a German auction house which emerged from a bookstore and art gallery founded 1845 in Bonn, Germany. It is entirely owned and controlled by the Lempertz family and headquartered in Cologne, Germany.",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "zurich-bookshops-15",
+        "name": "Synagoge Zürich Löwenstrasse",
+        "cityId": "zurich",
+        "categoryId": "bookshops",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Synagoge%20Z%C3%BCrich%20L%C3%B6wenstrasse%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Synagoge_Z%C3%BCrich_L%C3%B6wenstrasse",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Synagoge_Z%C3%BCrich_-_L%C3%B6wenstrasse_2011-08-12_15-07-02_ShiftN2.jpg/960px-Synagoge_Z%C3%BCrich_-_L%C3%B6wenstrasse_2011-08-12_15-07-02_ShiftN2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Synagoge_Z%C3%BCrich_L%C3%B6wenstrasse"
+        },
+        "description": "The Synagoge Zürich Löwenstrasse is an Orthodox Jewish synagogue, located at Löwenstrasse 10, Zürich, in the Canton of Zürich, Switzerland. Built in 1884 in the Moorish Revival and Byzantine Revival styles, the building is the oldest and largest synagogue in Zürich. The building also houses the prayer and school house of Israelitische Cultusgemeinde Zürich (ICZ) which was founded in 1862. ICZ is a unified Jewish comm",
+        "lat": 47.37291944,
+        "lng": 8.53476389
+      },
+      {
+        "id": "zurich-bookshops-16",
+        "name": "Melchior Wyrsch",
+        "cityId": "zurich",
+        "categoryId": "bookshops",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Melchior%20Wyrsch%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Melchior_Wyrsch",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/DenkmalMelchiorWyrschBuochs.jpg/960px-DenkmalMelchiorWyrschBuochs.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Melchior_Wyrsch"
+        },
+        "description": "Johann Melchior Wyrsch (21 August 1732 – 9 September 1798) was a Swiss painter of the 18th century.",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "zurich-bookshops-17",
+        "name": "Scott Campbell",
+        "cityId": "zurich",
+        "categoryId": "bookshops",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Scott%20Campbell%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Scott_Campbell_(tattoo_artist)",
+        "photo": null,
+        "description": "Scott Campbell (born May 13, 1977) is an American artist and tattoo artist whose clients include Howard Stern, Sting, Robert Downey Jr., Courtney Love, Orlando Bloom, Josh Hartnett, and Marc Jacobs.",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "zurich-bookshops-18",
+        "name": "Akram Pedramnia",
+        "cityId": "zurich",
+        "categoryId": "bookshops",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Akram%20Pedramnia%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Akram_Pedramnia",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/70/Akram_Pedramnia.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Akram_Pedramnia"
+        },
+        "description": "Akram Pedramnia (Persian: اکرم پدرام‌نیا) (February 17, 1969) is an Iranian-Canadian writer, translator, Joycean scholar, researcher, activist, and physician. She has written, researched, and translated many English novels and political articles. She has resided in Canada since 1998, when she emigrated from Iran.",
+        "lat": null,
+        "lng": null
+      }
+    ],
+    "museums": [
+      {
+        "id": "zurich-museums-1",
+        "name": "Zurich",
+        "cityId": "zurich",
+        "categoryId": "museums",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Zurich%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Zurich",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Altstadt_Z%C3%BCrich_2015.jpg/960px-Altstadt_Z%C3%BCrich_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Zurich"
+        },
+        "description": "Zurich (German: Zürich; Alemannic German: Züri; see below) is the largest city in Switzerland and the capital of the canton of Zurich. It is in north-central Switzerland, at the northwestern tip of Lake Zurich. As of the end of 2025, the municipality had a population of 440,935, while the urban area was home to 1.45 million people (2020), and the Zurich metropolitan area had a total population of 2.1 million (2020). ",
+        "lat": 47.37444444,
+        "lng": 8.54111111
+      },
+      {
+        "id": "zurich-museums-2",
+        "name": "University of Zurich",
+        "cityId": "zurich",
+        "categoryId": "museums",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=University%20of%20Zurich%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/University_of_Zurich",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Universit%C3%A4t_Z%C3%BCrich_logo.svg/960px-Universit%C3%A4t_Z%C3%BCrich_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/University_of_Zurich"
+        },
+        "description": "The University of Zurich (UZH, German: Universität Zürich) is a public research university in Zurich, Switzerland. It is the largest university in Switzerland, with approximately 28,700 enrolled students. UZH was founded in 1833, from the merger of the existing colleges of theology, law, medicine that were founded 1525 with a new faculty of philosophy. The university has seven schools: Philosophy, Human Medicine, Eco",
+        "lat": 47.37472222,
+        "lng": 8.54833333
+      },
+      {
+        "id": "zurich-museums-3",
+        "name": "ETH Zurich",
+        "cityId": "zurich",
+        "categoryId": "museums",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=ETH%20Zurich%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/ETH_Zurich",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/ETH_Z%C3%BCrich_-_Hauptgeb%C3%A4ude_-_Unispital_2012-07-30_07-57-03_ShiftN.jpg/960px-ETH_Z%C3%BCrich_-_Hauptgeb%C3%A4ude_-_Unispital_2012-07-30_07-57-03_ShiftN.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/ETH_Zurich"
+        },
+        "description": "ETH Zurich (German: Eidgenössische Technische Hochschule Zürich; English: Swiss Federal Institute of Technology Zurich) is a public university in Zurich, Switzerland. Founded by the Swiss federal government in 1854, the university primarily teaches and conducts research in science, technology, engineering, and mathematics (STEM). ETH Zurich is widely regarded as one of the world's leading universities, particularly i",
+        "lat": 47.37638889,
+        "lng": 8.54805556
+      },
+      {
+        "id": "zurich-museums-4",
+        "name": "Kunsthaus Zürich",
+        "cityId": "zurich",
+        "categoryId": "museums",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Kunsthaus%20Z%C3%BCrich%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Kunsthaus_Z%C3%BCrich",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Kunsthaus_Z%C3%BCrich_2011-08-06_17-33-46.jpg/960px-Kunsthaus_Z%C3%BCrich_2011-08-06_17-33-46.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Kunsthaus_Z%C3%BCrich"
+        },
+        "description": "The Kunsthaus Zürich is an art museum in Zurich. It is the biggest art museum in Switzerland by area and houses one of the most important art collections in Switzerland, assembled over time by the Zürcher Kunstgesellschaft, a nonprofit art society. The collection spans from the Middle Ages to contemporary art, with an emphasis on Swiss art.",
+        "lat": 47.3703,
+        "lng": 8.5481
+      },
+      {
+        "id": "zurich-museums-5",
+        "name": "Hallenstadion",
+        "cityId": "zurich",
+        "categoryId": "museums",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Hallenstadion%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Hallenstadion",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Oerlikon_-_Hallenstadion-Messe_Z%C3%BCrich_2011-03-15_15-20-46.jpg/960px-Oerlikon_-_Hallenstadion-Messe_Z%C3%BCrich_2011-03-15_15-20-46.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Hallenstadion"
+        },
+        "description": "The Hallenstadion (German: Zürcher Hallenstadion, Zürich Indoor Stadium) is a multi-purpose facility in the Oerlikon quarter of northern Zürich. It has a capacity of 11,200 spectators. Designed by Bruno Giacometti, it opened on November 4, 1939, and was renovated in 2004–05. The Hallenstadion was home to the ZSC Lions of the Ice Hockey National League (NL) from 1950 to 2022. The Lions moved out of the Hallenstadion a",
+        "lat": 47.41138889,
+        "lng": 8.55166667
+      },
+      {
+        "id": "zurich-museums-6",
+        "name": "Zurich Opera House",
+        "cityId": "zurich",
+        "categoryId": "museums",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Zurich%20Opera%20House%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Zurich_Opera_House",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Opernhaus_Z%C3%BCrich_-_Sechsel%C3%A4utenplatz_2013-08-31_18-30-40.JPG/960px-Opernhaus_Z%C3%BCrich_-_Sechsel%C3%A4utenplatz_2013-08-31_18-30-40.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Zurich_Opera_House"
+        },
+        "description": "The Zurich Opera House (German: Opernhaus Zürich) is an opera house in the Swiss city of Zurich. Located at the Sechseläutenplatz, it has been the home of the Zurich Opera since 1891, and also houses the Bernhard-Theater Zürich. It is also home to Ballett Zürich. It received the \"Opera Company of the Year\" award at the 2014 International Opera Awards.",
+        "lat": 47.365,
+        "lng": 8.54694444
+      },
+      {
+        "id": "zurich-museums-7",
+        "name": "Letzigrund",
+        "cityId": "zurich",
+        "categoryId": "museums",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Letzigrund%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Letzigrund",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Letzigrund_2024_2.jpg/960px-Letzigrund_2024_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Letzigrund"
+        },
+        "description": "Letzigrund (Swiss Standard German: [ˈlɛtsiɡrʊnd] ) is a stadium in Zurich, Switzerland, the home of the football clubs FC Zürich and Grasshopper Club Zürich, as well as the athletics club LC Zürich. The original stadium was constructed by members of FC Zürich in 1925. Grasshopper Club has been using it as their home stadium since 2007, shortly after construction of the new stadium was completed. The annual track and ",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "zurich-museums-8",
+        "name": "Museum für Gestaltung Zürich",
+        "cityId": "zurich",
+        "categoryId": "museums",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Museum%20f%C3%BCr%20Gestaltung%20Z%C3%BCrich%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Museum_f%C3%BCr_Gestaltung_Z%C3%BCrich",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/Museum_f%C3%BCr_Gestaltung_2011-08-08_14-21-14_ShiftN.jpg/960px-Museum_f%C3%BCr_Gestaltung_2011-08-08_14-21-14_ShiftN.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Museum_f%C3%BCr_Gestaltung_Z%C3%BCrich"
+        },
+        "description": "Museum für Gestaltung Zürich (English: Museum of Design Zurich) is a design museum in Zürich, Switzerland. The museum operates exhibition venues at Ausstellungsstrasse and Toni-Areal and manages the Pavillon Le Corbusier on behalf of the City of Zürich. Founded in 1875 as the Kunstgewerbemuseum Zürich (Museum of Arts and Crafts Zurich), the institution is dedicated to design, visual communication and the applied arts",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "zurich-museums-9",
+        "name": "Zurich University of the Arts",
+        "cityId": "zurich",
+        "categoryId": "museums",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Zurich%20University%20of%20the%20Arts%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Zurich_University_of_the_Arts",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/ZHdK_Logo.svg/960px-ZHdK_Logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Zurich_University_of_the_Arts"
+        },
+        "description": "Zurich University of the Arts (ZHdK, German: Zürcher Hochschule der Künste) is a public university in Zurich, Switzerland. It's the largest arts university in Switzerland with approximately 2,500 students. The university was established in 2007, following the merger between Zurich's School of Art and Design (HGKZ) and the School of Music, Drama, and Dance (HMT). ZHdK is one of four universities affiliated with Zürche",
+        "lat": 47.38277778,
+        "lng": 8.53555556
+      },
+      {
+        "id": "zurich-museums-10",
+        "name": "Hardturm",
+        "cityId": "zurich",
+        "categoryId": "museums",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Hardturm%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Hardturm",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Hardturm_retouched.jpg/960px-Hardturm_retouched.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Hardturm"
+        },
+        "description": "The Hardturm was a football stadium located in Zürich's Kreis 5. Opened in 1929, it was the home of the Grasshopper Club Zürich until it closed in 2007. It was a host stadium for the 1954 FIFA World Cup. The land for the stadium was bought by Walter Schoeller who passed it on his club free of charge. When the stadium was opened in 1929 it could hold 27,500 spectators. After many reconstructions the capacity was 38,00",
+        "lat": 47.39305556,
+        "lng": 8.50472222
+      },
+      {
+        "id": "zurich-museums-11",
+        "name": "FIFA Museum",
+        "cityId": "zurich",
+        "categoryId": "museums",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=FIFA%20Museum%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/FIFA_Museum",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/FIFA_World_Football_Museum_-_panoramio.jpg/960px-FIFA_World_Football_Museum_-_panoramio.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/FIFA_Museum"
+        },
+        "description": "The FIFA Museum is an association football museum operated by FIFA. The museum is located in Zurich, Switzerland, across town from the FIFA headquarters. It opened on 28 February 2016. The project, costing over SFr500 million ($563m), is currently under investigation for \"suspected criminal mismanagement\".",
+        "lat": 47.363509,
+        "lng": 8.531749
+      },
+      {
+        "id": "zurich-museums-12",
+        "name": "Swiss National Museum",
+        "cityId": "zurich",
+        "categoryId": "museums",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Swiss%20National%20Museum%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Swiss_National_Museum",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/2026-04-26_-_Landesmuseum_Z%C3%BCrich_Schweiz.jpg/960px-2026-04-26_-_Landesmuseum_Z%C3%BCrich_Schweiz.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Swiss_National_Museum"
+        },
+        "description": "The Swiss National Museum (German: Landesmuseum, French: Musée national) is a museum in Zurich, Switzerland's largest city, adjacent to Zürich Hauptbahnhof (main railway station) and the Platzspitz park. It is part of the Musée Suisse Group, which is itself affiliated with the Federal Office of Culture.",
+        "lat": 47.37916667,
+        "lng": 8.53972222
+      },
+      {
+        "id": "zurich-museums-13",
+        "name": "Lake Zurich",
+        "cityId": "zurich",
+        "categoryId": "museums",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Lake%20Zurich%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Lake_Zurich",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Pfannenstiel_-_Z%C3%BCrichsee_-_Sihltal_-_Albis_Baldern_IMG_5316.jpg/960px-Pfannenstiel_-_Z%C3%BCrichsee_-_Sihltal_-_Albis_Baldern_IMG_5316.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Lake_Zurich"
+        },
+        "description": "Lake Zurich (German: Zürichsee, Swiss Standard German pronunciation: [ˈtsyːrɪçˌzeː]; Alemannic German: Zürisee) is a lake in Switzerland, that extends southeast of the city of Zurich. Depending on the context, Lake Zurich or Zürichsee may refer to the entire lake or specifically to the section downstream of the Hurden peninsula and Seedamm causeway (between Pfäffikon and Rapperswil). In the latter case, the upstream ",
+        "lat": 47.2475,
+        "lng": 8.6775
+      },
+      {
+        "id": "zurich-museums-14",
+        "name": "Limmat",
+        "cityId": "zurich",
+        "categoryId": "museums",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Limmat%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Limmat",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Limmat_River.jpg/960px-Limmat_River.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Limmat"
+        },
+        "description": "The Limmat is a river in Switzerland. The river commences at the outfall of Lake Zurich, in the southern part of the city of Zurich. From Zurich it flows in a northwesterly direction, continuing a further 35 km until it reaches the river Aare. The confluence is located north of the small town of Brugg and shortly after the mouth of the Reuss. The main towns along the Limmat Valley downstream of Zurich are Dietikon, W",
+        "lat": 47.5019,
+        "lng": 8.2375
+      },
+      {
+        "id": "zurich-museums-15",
+        "name": "Cabaret Voltaire",
+        "cityId": "zurich",
+        "categoryId": "museums",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Cabaret%20Voltaire%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Cabaret_Voltaire_(Zurich)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/1916_Marcel_S%C5%82odki_Cabaret-Voltaire.jpg/960px-1916_Marcel_S%C5%82odki_Cabaret-Voltaire.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Cabaret_Voltaire_(Zurich)"
+        },
+        "description": "Cabaret Voltaire is the birthplace of the Dada art movement, founded in Zurich, Switzerland, in 1916. It was founded by Hugo Ball and Emmy Hennings as a cabaret intended for artistic and political purposes. Other founding members were Marcel Janco, Richard Huelsenbeck, Tristan Tzara, Sophie Taeuber-Arp and Jean Arp. It is currently operating as a museum, bar and cultural space open to the public, at Spiegelgasse 1 in",
+        "lat": 47.37166667,
+        "lng": 8.54388889
+      },
+      {
+        "id": "zurich-museums-16",
+        "name": "Zürichberg",
+        "cityId": "zurich",
+        "categoryId": "museums",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Z%C3%BCrichberg%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Z%C3%BCrichberg",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Z%C3%BCrich_-_Wollishofen_-_Alte_Kirche_IMG_0674.JPG/960px-Z%C3%BCrich_-_Wollishofen_-_Alte_Kirche_IMG_0674.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Z%C3%BCrichberg"
+        },
+        "description": "The Zürichberg is a wooded hill rising to 679 m (2,228 feet), overlooking Lake Zürich and located immediately to the east of the city of Zürich, Switzerland, between the valleys of the Limmat and the Glatt rivers. Its highest point is about 270 metres above the Limmat and it is part of a chain of hills, such as Käferberg, Adlisberg, Forch and Pfannenstiel, between the Greifensee/Glattal and Lake Zürich. It is a pictu",
+        "lat": 47.38555556,
+        "lng": 8.56694444
+      },
+      {
+        "id": "zurich-museums-17",
+        "name": "Rietberg Museum",
+        "cityId": "zurich",
+        "categoryId": "museums",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Rietberg%20Museum%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Rietberg_Museum",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Zuerich_Villa_Wesendonck.jpg/960px-Zuerich_Villa_Wesendonck.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Rietberg_Museum"
+        },
+        "description": "The Rietberg Museum is a museum in Zürich, Switzerland, displaying Asian, African, American and Oceanian art. It is the largest art museum focusing on non-European art and design in Switzerland, the third-largest museum in Zürich, and the largest to be run by the city itself. In 2007, it received approximately 157,000 visitors.",
+        "lat": 47.3589,
+        "lng": 8.5304
+      },
+      {
+        "id": "zurich-museums-18",
+        "name": "Pavillon Le Corbusier",
+        "cityId": "zurich",
+        "categoryId": "museums",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Pavillon%20Le%20Corbusier%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Pavillon_Le_Corbusier",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Centre_Le_Corbusier_2011-06-18_18-10-04.jpg/960px-Centre_Le_Corbusier_2011-06-18_18-10-04.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Pavillon_Le_Corbusier"
+        },
+        "description": "The Pavillon Le Corbusier is a Swiss art museum in Zürich-Seefeld at Zürichhorn dedicated to the work of the French-Swiss architect Le Corbusier. In 1960, Heidi Weber had the vision to establish a museum designed by Le Corbusier. The building was to exhibit his works of art in an ideal environment created by the architect himself. It was then named the Centre Le Corbusier or Heidi Weber Museum. In April 2014 the buil",
+        "lat": 47.35635,
+        "lng": 8.55111944
+      }
+    ],
+    "concerts": [
+      {
+        "id": "zurich-concerts-1",
+        "name": "Volkshaus",
+        "cityId": "zurich",
+        "categoryId": "concerts",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Volkshaus%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Volkshaus",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/VolkshausZuerich.JPG/960px-VolkshausZuerich.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Volkshaus"
+        },
+        "description": "The Volkshaus is a 1,200-seat concert hall located on Helvetiaplatz in the city of Zurich, Switzerland. The building's construction began in June 1909 and it publicly opened the following year.",
+        "lat": 47.37555556,
+        "lng": 8.52722222
+      },
+      {
+        "id": "zurich-concerts-2",
+        "name": "Tonhalle, Zurich",
+        "cityId": "zurich",
+        "categoryId": "concerts",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Tonhalle%2C%20Zurich%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Tonhalle%2C_Zurich",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/Tonhalle_Z%C3%BCrich.jpg/960px-Tonhalle_Z%C3%BCrich.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Tonhalle%2C_Zurich"
+        },
+        "description": "The Tonhalle is a concert hall in Zurich, home to the Tonhalle-Orchester Zürich, one of Switzerland's leading orchestras. The Tonhalle complex comprises two halls: the Grosser Saal (Great Hall), with 1,430 seats (816 in the stalls, 614 in the gallery and balcony), and the Kleine Tonhalle (Small Hall), with 609 seats. The Grosser Saal, located at Claridenstrasse 7, was inaugurated on 19 October 1895 by Johannes Brahms",
+        "lat": 47.36611111,
+        "lng": 8.53777778
+      },
+      {
+        "id": "zurich-concerts-3",
+        "name": "Tonhalle-Orchester Zürich",
+        "cityId": "zurich",
+        "categoryId": "concerts",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Tonhalle-Orchester%20Z%C3%BCrich%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Tonhalle-Orchester_Z%C3%BCrich",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Tonhalle-Orchester_Z%C3%BCrich.svg/960px-Tonhalle-Orchester_Z%C3%BCrich.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Tonhalle-Orchester_Z%C3%BCrich"
+        },
+        "description": "The Tonhalle-Orchester Zürich is a Swiss symphony orchestra based in Zurich. Its principal residence is the Tonhalle concert hall.",
+        "lat": 47.366025,
+        "lng": 8.53765
+      },
+      {
+        "id": "zurich-concerts-4",
+        "name": "Zurich Symphony Orchestra",
+        "cityId": "zurich",
+        "categoryId": "concerts",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Zurich%20Symphony%20Orchestra%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Zurich_Symphony_Orchestra",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Zurich_Symphony_Orchestra_logo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Zurich_Symphony_Orchestra"
+        },
+        "description": "Zürcher Symphoniker (Zurich Symphony Orchestra) is a symphony orchestra made of up 72 professional freelance musicians, based in Zurich, Switzerland. It was founded in 1981 by music director, Daniel Schweizer. The orchestra performs approximately thirty-five concerts per year, with the Tonhalle as its resident concert hall. Some of the soloists which the orchestra has performed with include Brigitte Farner, Michiko T",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "zurich-concerts-5",
+        "name": "The New Crystal Silence",
+        "cityId": "zurich",
+        "categoryId": "concerts",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20New%20Crystal%20Silence%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/The_New_Crystal_Silence",
+        "photo": null,
+        "description": "The New Crystal Silence is a 2008 live jazz album by pianist Chick Corea and vibraphonist Gary Burton. It was released in a two-disc set. The first disc was recorded on May 10 and 12, 2007, at the Sydney Opera House Concert Hall. The second disc was recorded on July 7, 2007, at Bjornsonhuset in Molde, Norway, except for the track \"Señor Mouse\", which was recorded July 13, 2007, at the Auditorio de Tenerife in Canary ",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "zurich-concerts-6",
+        "name": "Theodore Kerkezos",
+        "cityId": "zurich",
+        "categoryId": "concerts",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Theodore%20Kerkezos%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Theodore_Kerkezos",
+        "photo": null,
+        "description": "Theodore Kerkezos is a Greek classical saxophonist. Kerkezos (b.1962) has been collaborated and recorded the entire standard repertoire for solo saxophone with orchestras including the London Symphony, London Philharmonic Orchestra, Philharmonia (of London), St. Petersburg Philharmonic, Tchaikovsky Moscow Radio Symphony, Zurich Symphony, Boston Symphony (Pops), Vienna Chamber (Wiener Kammerorchester), Berliner Sympho",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "zurich-concerts-7",
+        "name": "Radiohuset",
+        "cityId": "zurich",
+        "categoryId": "concerts",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Radiohuset%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Radiohuset",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Radiohuset_Frederiksberg.jpg/960px-Radiohuset_Frederiksberg.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Radiohuset"
+        },
+        "description": "Radiohuset (literally \"The Radio House\") is the former headquarters of national Danish broadcaster DR, located on Rosenørns Allé in Frederiksberg, Copenhagen. The building complex was inaugurated in 1945 to a Functionalist design by Vilhelm Lauritzen and later expanded in 1958 and 1972. Vacated by DR when DR Byen was inaugurated in 2006, the buildings now house the Royal Danish Academy of Music as well as the Museum ",
+        "lat": 55.68222222,
+        "lng": 12.55305556
+      },
+      {
+        "id": "zurich-concerts-8",
+        "name": "IF Performance Hall",
+        "cityId": "zurich",
+        "categoryId": "concerts",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=IF%20Performance%20Hall%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/IF_Performance_Hall",
+        "photo": null,
+        "description": "IF Performance Hall is an indoor concert venue in Ankara, founded on 2004. The venue hosted many concert and entertainment parties, therefore become one of the most popular venues in Turkey. Fahir Öğünç, radio host of Modern Sabahlar was the owner of the venue till late 2000s. The venue is currently owned by Gönül Adamları group as in 2015. In early 2015, after a major interior renovation caused move of the concert s",
+        "lat": 39.9116,
+        "lng": 32.856
+      },
+      {
+        "id": "zurich-concerts-9",
+        "name": "Philharmonia Zurich",
+        "cityId": "zurich",
+        "categoryId": "concerts",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Philharmonia%20Zurich%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Philharmonia_Zurich",
+        "photo": null,
+        "description": "Philharmonia Zurich is the orchestra of Zurich Opera. As an independent body of 116 contract players, it has existed since 1985 under the name of Zurich Opera Orchestra. It was renamed in 2012 with the appointment of director Andreas Homoki and general music director Fabio Luisi.",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "zurich-concerts-10",
+        "name": "Melancholy",
+        "cityId": "zurich",
+        "categoryId": "concerts",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Melancholy%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Melancholy_(Cecil_Taylor_album)",
+        "photo": null,
+        "description": "Melancholy is a live album by Cecil Taylor's Workshop Ensemble featuring Evan Parker, Barry Guy and Tony Oxley recorded on September 30, 1990, at the Bechstein Concert Hall in Berlin and released on the FMP label.",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "zurich-concerts-11",
+        "name": "Nailed",
+        "cityId": "zurich",
+        "categoryId": "concerts",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Nailed%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Nailed_(Cecil_Taylor_album)",
+        "photo": null,
+        "description": "Nailed is a live album by Cecil Taylor, Evan Parker, Barry Guy and Tony Oxley recorded on September 26, 1990 at the Bechstein Concert Hall in Berlin and released on the FMP label.",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "zurich-concerts-12",
+        "name": "Nyle Wolfe",
+        "cityId": "zurich",
+        "categoryId": "concerts",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Nyle%20Wolfe%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Nyle_Wolfe",
+        "photo": null,
+        "description": "Nyle Wolfe (born October 1971) is an Irish operatic baritone, who has sung with the Musiktheater im Revier in Germany and Opera Ireland. His first solo album Moodswings was released in Ireland in 2007. Wolfe trained as a singer at the Cork School of Music, Leinster School of Music & Drama, Dublin, and the Royal Academy of Music, London, followed by further studies at the Opera Studio at Zurich Opera House. He sang Do",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "zurich-concerts-13",
+        "name": "Oliver Schnyder",
+        "cityId": "zurich",
+        "categoryId": "concerts",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Oliver%20Schnyder%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Oliver_Schnyder",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Oliver_Schnyder_2015.jpg/960px-Oliver_Schnyder_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Oliver_Schnyder"
+        },
+        "description": "Oliver Schnyder (born 3 October 1973) is a Swiss classical pianist.",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "zurich-concerts-14",
+        "name": "Tonhalle",
+        "cityId": "zurich",
+        "categoryId": "concerts",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Tonhalle%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Tonhalle",
+        "photo": null,
+        "description": "Tonhalle is a German word meaning \"tone hall\", a concert hall. It may refer to: Tonhalle Düsseldorf Tonhalle Orchester Zürich Tonhalle, Zürich, a concert venue",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "zurich-concerts-15",
+        "name": "Ronaldo Miranda",
+        "cityId": "zurich",
+        "categoryId": "concerts",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Ronaldo%20Miranda%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Ronaldo_Miranda",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Ronaldo_Miranda_%282014%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Ronaldo_Miranda"
+        },
+        "description": "Ronaldo Miranda (b. April 26, 1948 Rio de Janeiro) is a Brazilian composer and music professor. Miranda studied at the Escola de Música da Universidade Federal do Rio de Janeiro, under Henrique Morelenbaum for composition and Dulce de Saules for piano. From 1974 to 1981 Miranda was the primary music critic for the Jornal do Brasil. In 1977, Miranda won first prize in the chamber music category at the Concurso Naciona",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "zurich-concerts-16",
+        "name": "Orchester Musikkollegium Winterthur",
+        "cityId": "zurich",
+        "categoryId": "concerts",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Orchester%20Musikkollegium%20Winterthur%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Orchester_Musikkollegium_Winterthur",
+        "photo": null,
+        "description": "The Orchester Musikkollegium Winterthur is a Swiss symphony orchestra based in Winterthur, Switzerland at its namesake venue, the Musikkollegium Winterthur. The orchestra performs around 60 concerts a year, and in addition to orchestra concerts, performs in the pit at the Zurich Opera.",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "zurich-concerts-17",
+        "name": "Zurich Chamber Orchestra",
+        "cityId": "zurich",
+        "categoryId": "concerts",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Zurich%20Chamber%20Orchestra%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Zurich_Chamber_Orchestra",
+        "photo": null,
+        "description": "The Zurich Chamber Orchestra (Zürcher Kammerorchester; ZKO, German abbreviation) is a Swiss chamber orchestra based in Zurich. The ZKO's principal concert venue in Zurich is the Tonhalle. The ZKO also performs in Zurich at the Schauspielhaus Zürich, the ZKO-Haus in the Seefeld quarter of the city, and such churches as the Fraumünster and the Kirche St. Peter. The ZKO presents approximately 40 performances in Zurich e",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "zurich-concerts-18",
+        "name": "Heinz Isler",
+        "cityId": "zurich",
+        "categoryId": "concerts",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Heinz%20Isler%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Heinz_Isler",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/Gartencenter_Wyss_Zuchwil_01_09.jpg/960px-Gartencenter_Wyss_Zuchwil_01_09.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Heinz_Isler"
+        },
+        "description": "Heinz Isler (July 26, 1926 – June 20, 2009) was a Swiss structural engineer. He is famous for his thin concrete shells.",
+        "lat": null,
+        "lng": null
+      }
+    ],
+    "fashion": [
+      {
+        "id": "zurich-fashion-1",
+        "name": "Guy Weill",
+        "cityId": "zurich",
+        "categoryId": "fashion",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Guy%20Weill%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Guy_Weill",
+        "photo": null,
+        "description": "Guy Weill (May 13, 1914 – August 17, 2006) was a Swiss-born American art collector. Born in Switzerland, he served in military intelligence for the United States Army during World War II and ran a luxury clothing store on Madison Avenue after the war. He was a large collector of Abstract Expressionism, Neo-Expressionism, and Asian Art.",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "zurich-fashion-2",
+        "name": "Peterhof, Zurich",
+        "cityId": "zurich",
+        "categoryId": "fashion",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Peterhof%2C%20Zurich%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Peterhof%2C_Zurich",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Peterhof-Leuenhof_-_Bahnhofstrasse_ShiftN2.jpg/960px-Peterhof-Leuenhof_-_Bahnhofstrasse_ShiftN2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Peterhof%2C_Zurich"
+        },
+        "description": "Peterhof (also known as the Grieder-Haus) is a historic six-story building in Zurich, Switzerland. Located on Bahnhofstrasse, at the northeastern edge of Paradeplatz, it was built in 1913 to a design by brothers Werner (1884–1950) and Otto Pfister (1880–1959). In 2024, after over a century at the location, the Grieder clothing store closed upon the discontinuation of the brand by the Geneva-based Brunschwig family. I",
+        "lat": 47.37049,
+        "lng": 8.5393
+      },
+      {
+        "id": "zurich-fashion-3",
+        "name": "Otto Baumberger",
+        "cityId": "zurich",
+        "categoryId": "fashion",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Otto%20Baumberger%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Otto_Baumberger",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/ETH-BIB-Baumberger%2C_Otto_%281889-1961%29-Portr_00019.tif/lossy-page1-500px-ETH-BIB-Baumberger%2C_Otto_%281889-1961%29-Portr_00019.tif.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Otto_Baumberger"
+        },
+        "description": "Otto Baumberger (21 May 1889 – 26 December 1961) was a Swiss painter, graphic artist and poster designer. Associated with Swiss Expressionism, he became best known for his graphic work and posters, designing more than 200 posters across a wide range of styles. He taught design and drawing at ETH Zurich. His 1923 poster Marque PKZ is regarded as a classic of Swiss poster art.",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "zurich-fashion-4",
+        "name": "The Bourne Identity",
+        "cityId": "zurich",
+        "categoryId": "fashion",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Bourne%20Identity%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/The_Bourne_Identity_(novel)",
+        "photo": null,
+        "description": "The Bourne Identity is a 1980 spy fiction thriller novel by Robert Ludlum that tells the story of Jason Bourne, a man with remarkable survival abilities who has retrograde amnesia, and must seek to discover his true identity. In the process, he must also determine why several shadowy groups, a professional assassin, and the CIA want him dead. It is the first novel of the original Bourne Trilogy, which also includes T",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "zurich-fashion-5",
+        "name": "Vicenza railway station",
+        "cityId": "zurich",
+        "categoryId": "fashion",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Vicenza%20railway%20station%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Vicenza_railway_station",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/Stazione_Vicenza4.JPG/960px-Stazione_Vicenza4.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Vicenza_railway_station"
+        },
+        "description": "Vicenza railway station (Italian: Stazione di Vicenza) (IATA: VNZ) serves the town and comune of Vicenza, in the Veneto region, northeastern Italy. Opened in 1846, it forms part of the Milan–Venice railway, and is also a junction of two branch lines, to Schio and Treviso, respectively. The station is currently owned by Rete Ferroviaria Italiana (RFI). The commercial area of the passenger building is managed by Centos",
+        "lat": 45.54138889,
+        "lng": 11.54083333
+      },
+      {
+        "id": "zurich-fashion-6",
+        "name": "Christa de Carouge",
+        "cityId": "zurich",
+        "categoryId": "fashion",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Christa%20de%20Carouge%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Christa_de_Carouge",
+        "photo": null,
+        "description": "Christa de Carouge (born Christa Furrer, 1936-2018) was a Swiss fashion designer.",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "zurich-fashion-7",
+        "name": "Annelise Kretschmer",
+        "cityId": "zurich",
+        "categoryId": "fashion",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Annelise%20Kretschmer%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Annelise_Kretschmer",
+        "photo": null,
+        "description": "Annelise Kretschmer (1903 – 1987) was a German portrait photographer. Kretschmer is best known for her depictions of women in Germany in the early 20th century and is credited with helping construct the 'Neue Frau' or New Woman image of modern femininity.",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "zurich-fashion-8",
+        "name": "Poland",
+        "cityId": "zurich",
+        "categoryId": "fashion",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Poland%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Poland",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/en/thumb/1/12/Flag_of_Poland.svg/960px-Flag_of_Poland.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Poland"
+        },
+        "description": "Poland, officially the Republic of Poland, is a country in Central Europe. It extends from the Baltic Sea in the north to the Sudetes and Carpathian Mountains in the south, and borders Lithuania and Russia to the northeast; Belarus and Ukraine to the east; Slovakia and the Czech Republic to the south; and Germany to the west. The territory has a varied landscape, diverse ecosystems, and a temperate climate. Poland is",
+        "lat": 52,
+        "lng": 20
+      },
+      {
+        "id": "zurich-fashion-9",
+        "name": "Anastacia",
+        "cityId": "zurich",
+        "categoryId": "fashion",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Anastacia%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Anastacia",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Anastacia_-_2023335220042_2023-12-01_Night_of_the_Proms_-_Sven_-_1D_X_MK_II_-_1849_-_B70I5327_%28cropped%29.jpg/960px-Anastacia_-_2023335220042_2023-12-01_Night_of_the_Proms_-_Sven_-_1D_X_MK_II_-_1849_-_B70I5327_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Anastacia"
+        },
+        "description": "Anastacia Lyn Newkirk ( AN-ə-STAY-zhə; born September 17, 1968), known mononymously as Anastacia, is an American singer-songwriter who has released nine albums and sold over 50 million records worldwide, and collecting a total of 227 gold and platinum certifications. Thanks to her distinctive tone she has been described as \"the little lady with the big voice.\" Anastacia defines her musical style as \"sprock\", meaning ",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "zurich-fashion-10",
+        "name": "Mount Stuart Square",
+        "cityId": "zurich",
+        "categoryId": "fashion",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Mount%20Stuart%20Square%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Mount_Stuart_Square",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Mount_Stuart_Square%2C_Cardiff.jpg/960px-Mount_Stuart_Square%2C_Cardiff.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Mount_Stuart_Square"
+        },
+        "description": "Mount Stuart Square is a residential and commercial square in Cardiff, Wales. It is located in the Butetown area of the city. Originally developed in the late 1800s as a residential location for nearby dock workers, it quickly became a centre for upscale residential properties which revolved around the main square. By 1900, commercial activity had taken its place, dominated by the Coal Exchange, which occupied the on",
+        "lat": 51.465,
+        "lng": -3.168
+      },
+      {
+        "id": "zurich-fashion-11",
+        "name": "Grande Torino",
+        "cityId": "zurich",
+        "categoryId": "fashion",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Grande%20Torino%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Grande_Torino",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Grande_Torino_1948_49.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Grande_Torino"
+        },
+        "description": "The Grande Torino (Italian for 'Great Torino') was the historic Italian football team of Torino Football Club in the 1940s, five-time champions of Italy, whose players were the backbone of the Italy national team and died on 4 May 1949, in the plane crash known as the Superga air disaster. With this name, although it is commonly used to identify the team that died in the disaster, it defines the entire sports cycle w",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "zurich-fashion-12",
+        "name": "2008 Tibetan unrest",
+        "cityId": "zurich",
+        "categoryId": "fashion",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=2008%20Tibetan%20unrest%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/2008_Tibetan_unrest",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Tibetan_Monks_arrested_in_2008_%E9%81%AD%E9%80%AE%E6%8D%95%E7%9A%84%E8%A5%BF%E8%97%8F%E5%83%A7%E4%BE%B6.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/2008_Tibetan_unrest"
+        },
+        "description": "The 2008 Tibetan unrest, also referred to as the 2008 Tibetan uprising in Tibetan media, was a series of protests and demonstrations that initially occurred over the Chinese Communist Party's treatment and persecution of Tibetans. Protests in Lhasa, the capital of Tibet, by monks and nuns on 10 March have been viewed as the start of the demonstrations. Numerous protests and demonstrations were held to commemorate the",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "zurich-fashion-13",
+        "name": "El Dorado World Tour",
+        "cityId": "zurich",
+        "categoryId": "fashion",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=El%20Dorado%20World%20Tour%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/El_Dorado_World_Tour",
+        "photo": null,
+        "description": "The El Dorado World Tour was the sixth world tour by Colombian singer Shakira, in support of her eleventh studio album, El Dorado. Comprising a total of 54 shows, It was her first tour in seven years, the last being The Sun Comes Out World Tour. The tour began on 3 June 2018, in Hamburg, Germany and ended on 3 November 2018 in Bogotá, Colombia. The tour was set to begin in November 2017, but due to a hemorrhage at Sh",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "zurich-fashion-14",
+        "name": "Berliner FC Dynamo",
+        "cityId": "zurich",
+        "categoryId": "fashion",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Berliner%20FC%20Dynamo%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Berliner_FC_Dynamo",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Berliner_Fu%C3%9Fballclub_Dynamo.svg/960px-Berliner_Fu%C3%9Fballclub_Dynamo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Berliner_FC_Dynamo"
+        },
+        "description": "Berliner Fussball Club Dynamo e. V., commonly abbreviated to BFC Dynamo (German pronunciation: [beːʔɛfˌt͡seː dyˈnaːmo] ) or BFC (German pronunciation: [beːʔɛfˈt͡seː] ), alternatively sometimes called Dynamo Berlin, is a German football club based in the locality of Alt-Hohenschönhausen of the borough of Lichtenberg of Berlin. The team competes in the Regionalliga Nordost, the fourth tier of German football. BFC Dynam",
+        "lat": 52.54083333,
+        "lng": 13.47611111
+      },
+      {
+        "id": "zurich-fashion-15",
+        "name": "Bernd Dost",
+        "cityId": "zurich",
+        "categoryId": "fashion",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Bernd%20Dost%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Bernd_Dost",
+        "photo": null,
+        "description": "Bernd Dost (May 16, 1939 – February 14, 2015) was a German journalist, filmmaker, writer and publisher. He produced documentaries for ARD, Germany’s leading Public TV Station, and wrote articles for the magazine Stern and the newspapers Münchner Merkur and Münchner Abendzeitung. His documentary works are socio-critical and deal with major topics such as environmental protection, human rights and psychology. As a docu",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "zurich-fashion-16",
+        "name": "Joker Xue",
+        "cityId": "zurich",
+        "categoryId": "fashion",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Joker%20Xue%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Joker_Xue",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/%E8%96%9B%E4%B9%8B%E8%B0%A6_%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9%E6%B0%B8%E8%BF%9C22%E6%AF%95%E4%B8%9A%E6%AD%8C%E4%BC%9A_20250602_%28cropped%29.jpg/960px-%E8%96%9B%E4%B9%8B%E8%B0%A6_%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9%E6%B0%B8%E8%BF%9C22%E6%AF%95%E4%B8%9A%E6%AD%8C%E4%BC%9A_20250602_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Joker_Xue"
+        },
+        "description": "Xue Zhiqian (Chinese: 薛之谦; pinyin: Xuē Zhīqiān, born July 17, 1983), also known professionally as Joker Xue, is a Chinese singer, songwriter, producer, and businessman. Known for his distinctive ballads, \"Xue Style Love Songs\" (薛式情歌/薛氏情歌), and emotive live performances, he is recognized as a leading figure in Chinese popular music and one of the most-known artists in the Chinese-speaking world. Xue signed with Shang ",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "zurich-fashion-17",
+        "name": "April 1980",
+        "cityId": "zurich",
+        "categoryId": "fashion",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=April%201980%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/April_1980",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Usburnedhelicopter.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/April_1980"
+        },
+        "description": "The following events happened in April 1980:",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "zurich-fashion-18",
+        "name": "Timeline of Paris",
+        "cityId": "zurich",
+        "categoryId": "fashion",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Timeline%20of%20Paris%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Timeline_of_Paris",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/Carte_de_France_divis%C3%A9e_suivant_les_quatre_d%C3%A9partements_de_Messieurs_les_secretaires_d%27Etat_-_par_Philippe_Buache_-_btv1b8593230j.jpg/960px-Carte_de_France_divis%C3%A9e_suivant_les_quatre_d%C3%A9partements_de_Messieurs_les_secretaires_d%27Etat_-_par_Philippe_Buache_-_btv1b8593230j.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Timeline_of_Paris"
+        },
+        "description": "The following is a timeline of the history of the city of Paris, France.",
+        "lat": 48.85666667,
+        "lng": 2.35194444
+      }
+    ],
+    "shops": [
+      {
+        "id": "zurich-shops-1",
+        "name": "Lindt",
+        "cityId": "zurich",
+        "categoryId": "shops",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Lindt%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Lindt",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Kilchberg_-_Lindt_%26_Spr%C3%BCngli_-_ZSG_Helvetia_2015-09-09_18-03-57.JPG/960px-Kilchberg_-_Lindt_%26_Spr%C3%BCngli_-_ZSG_Helvetia_2015-09-09_18-03-57.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Lindt"
+        },
+        "description": "Chocoladefabriken Lindt & Sprüngli AG, doing business as Lindt, is a Swiss chocolatier and confectionery company founded in 1845 and known for its chocolate truffles and chocolate bars, among other sweets. It is based in Kilchberg, where its main factory and museum are located. Lindt is one of the largest Swiss chocolate manufacturers.",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "zurich-shops-2",
+        "name": "Chocolate fountain",
+        "cityId": "zurich",
+        "categoryId": "shops",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Chocolate%20fountain%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Chocolate_fountain",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Small_Chocolate_Fountain.JPG/960px-Small_Chocolate_Fountain.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Chocolate_fountain"
+        },
+        "description": "A chocolate fountain is a device for serving chocolate fondue. Typical examples resemble a stepped cone, standing 2–4 feet (0.61–1.22 m) tall with a crown at the top and stacked tiers over a basin at the bottom. The basin is heated to keep the chocolate in a warm liquid state so it can be pulled into a center cylinder then vertically transported to the top of the fountain by an Archimedes screw. From there it flows o",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "zurich-shops-3",
+        "name": "Ex Libris",
+        "cityId": "zurich",
+        "categoryId": "shops",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Ex%20Libris%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Ex_Libris_(bookshop)",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Ex_Libris_Logo.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Ex_Libris_(bookshop)"
+        },
+        "description": "Ex Libris is a Swiss retail company in the media sector which operates 82 department stores in Switzerland. The group is owned by Migros which is Switzerland's largest retailer and claims to provide the largest online shop of Switzerland.",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "zurich-shops-4",
+        "name": "Christoph Froschauer",
+        "cityId": "zurich",
+        "categoryId": "shops",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Christoph%20Froschauer%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Christoph_Froschauer",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Froschau.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Christoph_Froschauer"
+        },
+        "description": "Christoph Froschauer (ca. 1490 – 1 April 1564) was the first printer in Zurich, notable for printing the Froschauer Bible, the Zwinglian Bible translation in 1524. His workshop is the nucleus of the Orell Füssli publishing house. Froschauer was born in Neuburg near Oettingen (Bavaria). He learned the printer's trade with his uncle, Hans Froschauer, in Augsburg and came to Zurich in 1515. He gained citizenship to Zuri",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "zurich-shops-5",
+        "name": "Hans Georg Nägeli",
+        "cityId": "zurich",
+        "categoryId": "shops",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Hans%20Georg%20N%C3%A4geli%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Hans_Georg_N%C3%A4geli",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Hans_Georg_N%C3%A4geli_1838_Esslinger.jpeg/960px-Hans_Georg_N%C3%A4geli_1838_Esslinger.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Hans_Georg_N%C3%A4geli"
+        },
+        "description": "Hans Georg Nägeli (26 May 1773 – 26 December 1836) was a composer and music publisher. Nägeli was born in Wetzikon, Switzerland. He studied under his father as a child and then opened a private music shop and publishing firm in the 1790s. In 1803 he began publishing the Repertoire des Clavecinistes, which included the first editions of keyboard pieces by composers such as Muzio Clementi, Johann Baptist Cramer, and Lu",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "zurich-shops-6",
+        "name": "ETH Zurich",
+        "cityId": "zurich",
+        "categoryId": "shops",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=ETH%20Zurich%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/ETH_Zurich",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/ETH_Z%C3%BCrich_-_Hauptgeb%C3%A4ude_-_Unispital_2012-07-30_07-57-03_ShiftN.jpg/960px-ETH_Z%C3%BCrich_-_Hauptgeb%C3%A4ude_-_Unispital_2012-07-30_07-57-03_ShiftN.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/ETH_Zurich"
+        },
+        "description": "ETH Zurich (German: Eidgenössische Technische Hochschule Zürich; English: Swiss Federal Institute of Technology Zurich) is a public university in Zurich, Switzerland. Founded by the Swiss federal government in 1854, the university primarily teaches and conducts research in science, technology, engineering, and mathematics (STEM). ETH Zurich is widely regarded as one of the world's leading universities, particularly i",
+        "lat": 47.37638889,
+        "lng": 8.54805556
+      },
+      {
+        "id": "zurich-shops-7",
+        "name": "Gottfried Honegger",
+        "cityId": "zurich",
+        "categoryId": "shops",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Gottfried%20Honegger%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Gottfried_Honegger",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/12/Gottfried_Honegger_%281995%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Gottfried_Honegger"
+        },
+        "description": "Gottfried Honegger (12 June 1917, Zurich – 17 January 2016, Zurich) was a Swiss artist and graphic designer. He was married to the Swiss illustrator Warja Lavater. He studied shop-window display at the Zurich Kunstgewerbeschule and taught there from 1948. His early work was commercial graphic design. From 1955 to 1958 he was art director at Geigy. He lived in New York City between 1958 and 1960, and held his first ex",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "zurich-shops-8",
+        "name": "Othmar Schoeck",
+        "cityId": "zurich",
+        "categoryId": "shops",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Othmar%20Schoeck%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Othmar_Schoeck",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/26/Othmar_Schoeck.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Othmar_Schoeck"
+        },
+        "description": "Othmar Schoeck (1 September 1886 – 8 March 1957) was a Swiss Romantic composer and conductor. He was known for his considerable output of art songs and song cycles but also wrote operas, notably the one-act Penthesilea, premiered in Dresden in 1927, and instrumental works, including two string quartets and concertos for violin (for Stefi Geyer), cello and horn.",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "zurich-shops-9",
+        "name": "Kalyug",
+        "cityId": "zurich",
+        "categoryId": "shops",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Kalyug%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Kalyug_(2005_film)",
+        "photo": null,
+        "description": "Kalyug (transl. Modern era) is a 2005 Indian Hindi-language action thriller film written and directed by Mohit Suri and produced by Mukesh Bhatt. It stars Kunal Khemu, in his debut film as an adult actor, alongside Smilie Suri, Deepal Shaw, Emraan Hashmi, Amrita Singh, and Ashutosh Rana. The film follows a young man who sets out to exact revenge upon the porn industry after his wife commits suicide due to the footage",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "zurich-shops-10",
+        "name": "Migros",
+        "cityId": "zurich",
+        "categoryId": "shops",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Migros%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Migros",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/DSC_0141_Migros.JPG/960px-DSC_0141_Migros.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Migros"
+        },
+        "description": "Migros (German pronunciation: [ˈmiɡro]) is Switzerland's largest retail company, its largest supermarket chain and largest employer. It is also one of the forty largest retailers in the world. It is structured in the form of a cooperative federation (the Federation of Migros Cooperatives), with more than two million members. It co-founded Turkey's largest retailer, also named Migros, which became independent of Migro",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "zurich-shops-11",
+        "name": "Bern railway station",
+        "cityId": "zurich",
+        "categoryId": "shops",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Bern%20railway%20station%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Bern_railway_station",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Bern_bahnhof002.jpg/960px-Bern_bahnhof002.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Bern_railway_station"
+        },
+        "description": "Bern railway station (German: Bahnhof Bern) serves the municipality of Bern, the federal city of Switzerland. Opened progressively between 1858 and 1860, and rebuilt several times since then, it lies on the Olten–Bern and the Lausanne–Bern lines (together forming the line known as the Mittellandlinie in German) and is near the end of the Lötschberg line. The station is owned by the Swiss Federal Railways (SBB CFF FFS",
+        "lat": 46.94881944,
+        "lng": 7.43911667
+      },
+      {
+        "id": "zurich-shops-12",
+        "name": "Bahnhofstrasse",
+        "cityId": "zurich",
+        "categoryId": "shops",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Bahnhofstrasse%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Bahnhofstrasse",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/Bahnhofstrasse-2019.jpg/960px-Bahnhofstrasse-2019.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Bahnhofstrasse"
+        },
+        "description": "Bahnhofstrasse (Swiss Standard German pronunciation: [ˈbaːnhoːfˌʃtraːsɛ] , lit. 'Railway Station Street'), is the main downtown street of Zurich, Switzerland, and one of the world's most expensive and exclusive shopping avenues. In 2011, a study named Bahnhofstrasse the most expensive street for retail property in Europe, and the third-most-expensive worldwide. In 2016, the street ranked ninth.",
+        "lat": 47.37138611,
+        "lng": 8.53865
+      },
+      {
+        "id": "zurich-shops-13",
+        "name": "Confiserie Sprüngli",
+        "cityId": "zurich",
+        "categoryId": "shops",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Confiserie%20Spr%C3%BCngli%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Confiserie_Spr%C3%BCngli",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/David_sprungli_portrait.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Confiserie_Spr%C3%BCngli"
+        },
+        "description": "The Confiserie Sprüngli (English: Sprüngli Confectionery) is a Swiss luxury confectionery manufacturer and retailer headquartered in Zürich, Switzerland. Founded in 1836 by David Sprüngli, it has been an independent company from Lindt & Sprüngli since 1892. Today the company is best known for their Luxemburgerli, a form of macarons. Sprüngli operates 35 retail and café locations across Switzerland, Germany, Austria a",
+        "lat": 47.36948,
+        "lng": 8.5392
+      },
+      {
+        "id": "zurich-shops-14",
+        "name": "Verena Conzett",
+        "cityId": "zurich",
+        "categoryId": "shops",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Verena%20Conzett%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Verena_Conzett",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/Photo_Conzett.tif/lossy-page1-960px-Photo_Conzett.tif.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Verena_Conzett"
+        },
+        "description": "Verena Conzett (28 November 1861 – 14 November 1947) was a Swiss magazine publisher, labor activist, and women's rights activist. She became the first president of the Swiss Women Workers' Union in 1890. Her own experience as a child factory worker led to her lifelong advocacy for insurance protection and shorter working hours. Following the death of her husband in 1897, Conzett took over his print shop, narrowly esc",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "zurich-shops-15",
+        "name": "Zurich University of Applied Sciences",
+        "cityId": "zurich",
+        "categoryId": "shops",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Zurich%20University%20of%20Applied%20Sciences%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Zurich_University_of_Applied_Sciences",
+        "photo": null,
+        "description": "The Zurich University of Applied Sciences (German: Zürcher Fachhochschule, ZFH) is a governing body composed of four separate universities (Fachhochschule). It is located in the city of Winterthur, with facilities in Zürich and Wädenswil, is the second largest university in Switzerland after the University of Zurich. As of 2024, the Zürcher Fachhochschule encompasses four universities, covering such fields of study a",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "zurich-shops-16",
+        "name": "Fotomuseum Winterthur",
+        "cityId": "zurich",
+        "categoryId": "shops",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Fotomuseum%20Winterthur%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Fotomuseum_Winterthur",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/FotoMuseum_Winterthur_%282014%29.jpg/960px-FotoMuseum_Winterthur_%282014%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Fotomuseum_Winterthur"
+        },
+        "description": "Fotomuseum Winterthur is a museum of photography in Winterthur, Switzerland.",
+        "lat": 47.49602,
+        "lng": 8.73902
+      },
+      {
+        "id": "zurich-shops-17",
+        "name": "Swissôtel Zürich",
+        "cityId": "zurich",
+        "categoryId": "shops",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Swiss%C3%B4tel%20Z%C3%BCrich%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Swiss%C3%B4tel_Z%C3%BCrich",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Swissotel_Zurich-Oerlikon_2010.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Swiss%C3%B4tel_Z%C3%BCrich"
+        },
+        "description": "The Swissôtel Zürich, formerly known as the Hotel International Zürich, was a luxury hotel in the Swiss city of Zürich. The hotel was located in the Oerlikon quarter of the city, directly opposite Zürich Oerlikon railway station, and roughly halfway between the city centre and Zurich Airport. The hotel was part of the chain managed by Swissôtel Hotels & Resorts, which is based in Zürich and is part of the FRHI Hotels",
+        "lat": 47.410879,
+        "lng": 8.543724
+      },
+      {
+        "id": "zurich-shops-18",
+        "name": "Zurich Bible",
+        "cityId": "zurich",
+        "categoryId": "shops",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Zurich%20Bible%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Zurich_Bible",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/2022-09-16_GLAM_on_Tour_Zentralbibliothek_Z%C3%BCrich_%28Martin_Rulsch%29_033_%28cropped%29.jpg/960px-2022-09-16_GLAM_on_Tour_Zentralbibliothek_Z%C3%BCrich_%28Martin_Rulsch%29_033_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Zurich_Bible"
+        },
+        "description": "The Zurich Bible (Zürcher Bibel, also Zwinglibibel) is a Swiss German Bible translation historically based on the rescensions of Huldrych Zwingli. Recent editions have a stated aim of maximal philological exactitude. It is thought to be the first Bible to contain a map.",
+        "lat": null,
+        "lng": null
+      }
+    ]
+  }
+}

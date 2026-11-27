@@ -1,0 +1,2884 @@
+{
+  "cityId": "tokyo",
+  "generatedAt": "2026-11-27T08:56:14.798Z",
+  "source": "Wikipedia API + Maps URLs (sin scraping de Google)",
+  "incomplete": [],
+  "categories": {
+    "night_clubs": [
+      {
+        "id": "tokyo-night_clubs-1",
+        "name": "Womb",
+        "cityId": "tokyo",
+        "categoryId": "night_clubs",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Womb%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Womb_(nightclub)",
+        "photo": null,
+        "description": "Womb is a nightclub in Tokyo, Japan that is featured in the film Babel.",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "tokyo-night_clubs-2",
+        "name": "Maruyamachō, Shibuya",
+        "cityId": "tokyo",
+        "categoryId": "night_clubs",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Maruyamach%C5%8D%2C%20Shibuya%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Maruyamach%C5%8D%2C_Shibuya",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Wiki_jizo_pano.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Maruyamach%C5%8D%2C_Shibuya"
+        },
+        "description": "Maruyamachō (円山町) is a district of Shibuya, Tokyo, Japan. As of October 2020, the population of this district is 2,062. The postal code for Maruyamachō is 150–0044. The nightclub Womb, which featured in the 2006 Alejandro González Iñárritu film Babel, is located here.",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "tokyo-night_clubs-3",
+        "name": "Zouk",
+        "cityId": "tokyo",
+        "categoryId": "night_clubs",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Zouk%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Zouk_(club)",
+        "photo": null,
+        "description": "Zouk is a Singaporean nightclub located in the Clarke Quay district. Opened in 1991, the brand has since expanded to various cities around Asia and North America. One of the country's most prominent nightclubs, it has won the Singapore Tourism Board's \"Best Nightspot Experience\" award 6 times, between 1996 and 2007. Zouk was ranked number 10 on DJ Magazine's list of Top 100 clubs in the world in 2006, 2007 and 2010. ",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "tokyo-night_clubs-4",
+        "name": "Live 1964",
+        "cityId": "tokyo",
+        "categoryId": "night_clubs",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Live%201964%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Live_1964",
+        "photo": null,
+        "description": "Live 1964 is a live album by jazz pianist Horace Silver recorded on June 6, 1964, in \"The Cork & Bib\" nightclub in Westbury, Long Island, New York, on June 6, 1964 but released only in 1984 on the Emerald Records label.",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "tokyo-night_clubs-5",
+        "name": "Doin' the Thing",
+        "cityId": "tokyo",
+        "categoryId": "night_clubs",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Doin'%20the%20Thing%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Doin'_the_Thing",
+        "photo": null,
+        "description": "Doin' the Thing is a live album by jazz pianist Horace Silver, released on the Blue Note label in 1961. It was the only live album released featuring the \"classic\" Horace Silver Quintet. The album was recorded at the Village Gate nightclub in New York City and features performances by Silver with Blue Mitchell, Junior Cook, Gene Taylor, and Roy Brooks.",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "tokyo-night_clubs-6",
+        "name": "Arata Isozaki",
+        "cityId": "tokyo",
+        "categoryId": "night_clubs",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Arata%20Isozaki%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Arata_Isozaki",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/ARATA_ISOZAKI%2C_ARCHITECT_01.jpg/960px-ARATA_ISOZAKI%2C_ARCHITECT_01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Arata_Isozaki"
+        },
+        "description": "Arata Isozaki (磯崎 新, Isozaki Arata; 23 July 1931 – 28 December 2022) was a Japanese architect, urban designer, and architectural theorist from Ōita. He was awarded the Royal Gold Medal in 1986 and the Pritzker Architecture Prize in 2019. He taught at Columbia University, Harvard University, and Yale University.",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "tokyo-night_clubs-7",
+        "name": "Blues Alley",
+        "cityId": "tokyo",
+        "categoryId": "night_clubs",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Blues%20Alley%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Blues_Alley",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Blues_Alley_side.jpg/960px-Blues_Alley_side.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Blues_Alley"
+        },
+        "description": "Blues Alley, founded in 1965, is a jazz nightclub in the Georgetown neighborhood of Washington, D.C. It is the oldest continuing jazz supper club in the United States. Known as “the house that Dizzy built,” the 125-seat venue was opened by musician Tommy Gwaltney. In 1969, he sold it to retired Air Force Colonel Bill Cannon. John Bunyan became the owner in 1973 and Harry Schnipper bought it in 2003; in 2021, Schnippe",
+        "lat": 38.9047,
+        "lng": -77.0623
+      },
+      {
+        "id": "tokyo-night_clubs-8",
+        "name": "Yoko Tani",
+        "cityId": "tokyo",
+        "categoryId": "night_clubs",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Yoko%20Tani%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Yoko_Tani",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/55/Tani_Yoko._Ombre_bianche.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Yoko_Tani"
+        },
+        "description": "Yoko Tani (谷洋子, Tani Yōko; 2 August 1928 – 19 April 1999) was a French-born Japanese actress and nightclub entertainer, who had a career in both Japanese and European cinema during the 1950s and 1960s.",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "tokyo-night_clubs-9",
+        "name": "Gay bar",
+        "cityId": "tokyo",
+        "categoryId": "night_clubs",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Gay%20bar%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Gay_bar",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/09/Comptons-Of-Soho.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Gay_bar"
+        },
+        "description": "A gay bar is a drinking establishment that caters to an exclusively or predominantly lesbian, gay, bisexual, transgender, and/or queer (LGBTQ+) clientele; the term gay is used as a broadly inclusive concept for LGBTQ+ communities. Gay bars once served as the centre of gay culture and were one of the few places people with same-sex orientations and gender-variant identities could openly socialize. Other names used to ",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "tokyo-night_clubs-10",
+        "name": "Mogra",
+        "cityId": "tokyo",
+        "categoryId": "night_clubs",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Mogra%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Mogra_(nightclub)",
+        "photo": null,
+        "description": "Mogra is a nightclub located in Akihabara, Tokyo, Japan. The club specializes in DJs that play music associated with otaku culture, including anime, video game, J-pop, and J-core music.",
+        "lat": 35.70207,
+        "lng": 139.77502
+      },
+      {
+        "id": "tokyo-night_clubs-11",
+        "name": "Walt Disney's Enchanted Tiki Room",
+        "cityId": "tokyo",
+        "categoryId": "night_clubs",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Walt%20Disney's%20Enchanted%20Tiki%20Room%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Walt_Disney's_Enchanted_Tiki_Room",
+        "photo": null,
+        "description": "Walt Disney's Enchanted Tiki Room is an attraction located in Disneyland at the Disneyland Resort and in Magic Kingdom at Walt Disney World, and previously in Tokyo Disneyland at Tokyo Disney Resort. First opened on June 23, 1963, at the Disneyland Resort, the attraction is a pseudo-Polynesian musical Audio-Animatronic show drawing from American tiki culture. The Floridian version of this attraction, which was identi",
+        "lat": 33.8117,
+        "lng": -117.9196
+      },
+      {
+        "id": "tokyo-night_clubs-12",
+        "name": "Shibaura",
+        "cityId": "tokyo",
+        "categoryId": "night_clubs",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Shibaura%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Shibaura",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Shibaura_island_overview_minato_tokyo_2009-2.JPG/960px-Shibaura_island_overview_minato_tokyo_2009-2.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Shibaura"
+        },
+        "description": "Shibaura (芝浦) is a district of Minato ward located in Tokyo, Japan. The district is located between the eastern side of the Yamanote Line train and Tokyo Bay. Shibaura consists mostly of artificial islands created by the excavation of industrial canals in the early 20th century. Formerly a light industrial area, it became famous for its night life during the Japanese asset price bubble period and, since the early 200",
+        "lat": 35.6418,
+        "lng": 139.7482
+      },
+      {
+        "id": "tokyo-night_clubs-13",
+        "name": "Rikidōzan",
+        "cityId": "tokyo",
+        "categoryId": "night_clubs",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Rikid%C5%8Dzan%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Rikid%C5%8Dzan",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Rikid%C5%8Dzan.jpg/960px-Rikid%C5%8Dzan.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Rikid%C5%8Dzan"
+        },
+        "description": "Mitsuhiro Momota (born Kim Sin-rak; November 14, 1924 – December 15, 1963), better known by the ring name Rikidōzan (力道山), was a Korean-Japanese professional wrestler and sumo wrestler. He was known as the father of professional wrestling in Japan, nicknamed \"The Father of Puroresu\" (日本プロレス界の父), and is considered one of the most influential people in professional wrestling history. Born in Korea under Japanese rule, ",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "tokyo-night_clubs-14",
+        "name": "Tokyo Vice",
+        "cityId": "tokyo",
+        "categoryId": "night_clubs",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Tokyo%20Vice%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Tokyo_Vice_(TV_series)",
+        "photo": null,
+        "description": "Tokyo Vice is an American crime drama television series created by J. T. Rogers and based on the 2009 memoir by Jake Adelstein. It stars Ansel Elgort, Ken Watanabe, Rachel Keller, Hideaki Itō, Show Kasamatsu, Ella Rumpf, Rinko Kikuchi, Tomohisa Yamashita, Miki Maya, and Yōsuke Kubozuka. The series centers on Adelstein (Elgort), an American journalist investigating the yakuza in Tokyo. The first season of Tokyo Vice p",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "tokyo-night_clubs-15",
+        "name": "Superclub",
+        "cityId": "tokyo",
+        "categoryId": "night_clubs",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Superclub%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Superclub",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Wikipedia_space_ibiza%2809%29.jpg/960px-Wikipedia_space_ibiza%2809%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Superclub"
+        },
+        "description": "A superclub is a very large or superior nightclub, often with several rooms with different themes. The term was coined in Mixmag, the British electronic dance and clubbing magazine, in 1995, referring to the new wave of clubs such as Ministry of Sound and Cream, which were dominating the English club scene, although the term has retrospectively been used to refer to large or significant clubs before this time. Superc",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "tokyo-night_clubs-16",
+        "name": "Lexington Queen",
+        "cityId": "tokyo",
+        "categoryId": "night_clubs",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Lexington%20Queen%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Lexington_Queen",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/LexingtonqueenroppongiInside.jpg/960px-LexingtonqueenroppongiInside.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Lexington_Queen"
+        },
+        "description": "Lexington Queen was a nightclub in Roppongi, Tokyo. The current name of the establishment was changed to The 'New Lex Edo', but it was often simply referred to by 'Lex'. Located underground near Roppongi Crossing, the club is a well-known and favorite hangout for models and celebrities on the rise. Opened in 1980, it is reputed to be a popular club amongst visiting celebrities, with past patrons including Gwen Stefan",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "tokyo-night_clubs-17",
+        "name": "Sankeys",
+        "cityId": "tokyo",
+        "categoryId": "night_clubs",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Sankeys%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Sankeys",
+        "photo": null,
+        "description": "Sankeys is a nightclub franchise with its first nightclub in Ancoats, Manchester, United Kingdom. The company formerly operated a nightclub in Playa d’en Bossa, Ibiza and opened a New York City venue in 2013.",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "tokyo-night_clubs-18",
+        "name": "DC10",
+        "cityId": "tokyo",
+        "categoryId": "night_clubs",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=DC10%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/DC10_(nightclub)",
+        "photo": null,
+        "description": "DC10 is a nightclub located in Ibiza on the Carretera of Salinas. It started during the 90s as a music bar and began with a license for just 80 people, opened by two Spanish brothers, Deogracias lara Moreno and Antonio Lara Moreno. In 1999, Italian promoters Antonio Carbonaro and Andrea Pelino joined in force, becoming partner at DC10, and creating the Circoloco brand, which would soon become the Monday event during ",
+        "lat": 38.88,
+        "lng": 1.39166667
+      }
+    ],
+    "restaurants": [
+      {
+        "id": "tokyo-restaurants-1",
+        "name": "Afuri",
+        "cityId": "tokyo",
+        "categoryId": "restaurants",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Afuri%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Afuri",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Afuri_logo.webp/960px-Afuri_logo.webp?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Afuri"
+        },
+        "description": "Afuri (also known as Afuri Izakaya) is a chain of ramen restaurants, based in Tokyo, Japan. There are locations in Oregon, California, Canada, Hong Kong, Portugal, and Singapore.",
+        "lat": 35.451697,
+        "lng": 139.292425
+      },
+      {
+        "id": "tokyo-restaurants-2",
+        "name": "Grand Central Oyster Bar & Restaurant",
+        "cityId": "tokyo",
+        "categoryId": "restaurants",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Grand%20Central%20Oyster%20Bar%20%26%20Restaurant%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Grand_Central_Oyster_Bar_%26_Restaurant",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/The_Oyster_Bar%2C_Grand_Central_Terminal%2C_New_York_City_%284057303042%29.jpg/960px-The_Oyster_Bar%2C_Grand_Central_Terminal%2C_New_York_City_%284057303042%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Grand_Central_Oyster_Bar_%26_Restaurant"
+        },
+        "description": "The Grand Central Oyster Bar & Restaurant is a seafood restaurant on the lower level of Grand Central Terminal at 42nd Street and Park Avenue in Manhattan, New York City.",
+        "lat": 40.75233333,
+        "lng": -73.97722222
+      },
+      {
+        "id": "tokyo-restaurants-3",
+        "name": "Tokyo Diner",
+        "cityId": "tokyo",
+        "categoryId": "restaurants",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Tokyo%20Diner%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Tokyo_Diner",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/Tokyo_Diner_Streetscene.jpg/960px-Tokyo_Diner_Streetscene.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Tokyo_Diner"
+        },
+        "description": "Tokyo Diner is a three-floor Japanese restaurant on the corner of Newport Place and Lisle Street in Chinatown, London. The restaurant opened to the public in December 1992.",
+        "lat": 51.51184,
+        "lng": -0.12934
+      },
+      {
+        "id": "tokyo-restaurants-4",
+        "name": "Genki Sushi",
+        "cityId": "tokyo",
+        "categoryId": "restaurants",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Genki%20Sushi%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Genki_Sushi",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Genki_Sushi_in_Shibuya_201506.jpg/960px-Genki_Sushi_in_Shibuya_201506.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Genki_Sushi"
+        },
+        "description": "Genki Sushi is a chain of conveyor belt sushi restaurants established in 1990 in Japan. The chain expanded to include locations in Japan, Hong Kong, Indonesia, Malaysia, Singapore, Kuwait, the Philippines, China, Australia, Cambodia, Myanmar and the American states of California, Hawaii and Washington. Genki Sushi restaurants in Hong Kong are operated by Maxim's Caterers.",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "tokyo-restaurants-5",
+        "name": "Blue Star Donuts",
+        "cityId": "tokyo",
+        "categoryId": "restaurants",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Blue%20Star%20Donuts%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Blue_Star_Donuts",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/Blue_Star_Donuts_logo.svg/960px-Blue_Star_Donuts_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Blue_Star_Donuts"
+        },
+        "description": "Blue Star Donuts is a small chain of donut stores with four locations in Portland, Oregon. Blue star manufactures their donuts in central facility in Portland and distribute them to various locations instead of locating a fryer in each store.",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "tokyo-restaurants-6",
+        "name": "Ginza",
+        "cityId": "tokyo",
+        "categoryId": "restaurants",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Ginza%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Ginza",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Ginza-WAKO_at_night.jpg/960px-Ginza-WAKO_at_night.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Ginza"
+        },
+        "description": "Ginza ( GHIN-zə; Japanese: 銀座 [ɡindza]) is a district of Chūō, Tokyo, located south of Yaesu and Kyōbashi, west of Tsukiji, east of Yūrakuchō and Uchisaiwaichō, and north of Shinbashi. It is a popular upscale shopping area of Tokyo, with numerous internationally renowned department stores, boutiques, restaurants and coffeehouses located in the vicinity. Ginza was a part of the old Kyobashi ward of Tokyo City, which, ",
+        "lat": 35.671217,
+        "lng": 139.765007
+      },
+      {
+        "id": "tokyo-restaurants-7",
+        "name": "Benihana",
+        "cityId": "tokyo",
+        "categoryId": "restaurants",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Benihana%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Benihana",
+        "photo": null,
+        "description": "Benihana (Japanese: 紅花; \"Safflower\") is a chain of Japanese restaurants. Originally founded by Yunosuke Aoki as a cafe in Tokyo in 1945, Benihana spread to the United States in 1964 when his son Hiroaki \"Rocky\" Aoki opened its first restaurant in New York City. Benihana Inc., based in Aventura, Florida, owns 68 Japanese teppanyaki restaurants, including its flagship Benihana Teppanyaki brand, and 12 more franchises i",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "tokyo-restaurants-8",
+        "name": "Matsugen",
+        "cityId": "tokyo",
+        "categoryId": "restaurants",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Matsugen%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Matsugen",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Matsushitabrothers.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Matsugen"
+        },
+        "description": "Matsugen is the name of several Japanese restaurants owned by the Matsushita brothers located in Tokyo, Hawaii, and New York City. The New York Matsugen is co-owned by the Matsushita brothers and Jean-Georges, and received three stars from The New York Times. It has 15 bars and restaurants in Tokyo, including Matsugen.",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "tokyo-restaurants-9",
+        "name": "Zuma",
+        "cityId": "tokyo",
+        "categoryId": "restaurants",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Zuma%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Zuma_(restaurant)",
+        "photo": null,
+        "description": "Zuma is a chain of Japanese izakaya-style restaurants founded in 2002 by Rainer Becker and Arjun Waney. The first Zuma location opened in the Knightsbridge area of London, with a concept developed by Becker during his six years working in Tokyo, where he immersed himself in Japanese cuisine and culture. The restaurant features three kitchens: the main kitchen, the sushi counter, and the robata grill. Zuma has expande",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "tokyo-restaurants-10",
+        "name": "Brasserie Les Halles",
+        "cityId": "tokyo",
+        "categoryId": "restaurants",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Brasserie%20Les%20Halles%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Brasserie_Les_Halles",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/WTM_tony_0009.jpg/960px-WTM_tony_0009.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Brasserie_Les_Halles"
+        },
+        "description": "Brasserie Les Halles was a French-brasserie-style restaurant originally located on Park Avenue in Manhattan, New York City. Other locations were on John Street in Manhattan, in Tokyo, Miami, and Washington, D.C. Author and television host Anthony Bourdain worked there as executive chef. The restaurant featured prominently in his 2000 book Kitchen Confidential. Les Halles went out of business in August 2017.",
+        "lat": 40.74356111,
+        "lng": -73.98368333
+      },
+      {
+        "id": "tokyo-restaurants-11",
+        "name": "Italian Tomato",
+        "cityId": "tokyo",
+        "categoryId": "restaurants",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Italian%20Tomato%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Italian_Tomato",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Shinagawa_seaside_overview_2009.JPG/960px-Shinagawa_seaside_overview_2009.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Italian_Tomato"
+        },
+        "description": "Italian Tomato Co., Ltd is a Japanese restaurant and cafe chain headquartered in Shinagawa, Tokyo.",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "tokyo-restaurants-12",
+        "name": "Sukiya",
+        "cityId": "tokyo",
+        "categoryId": "restaurants",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Sukiya%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Sukiya_(restaurant_chain)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Sukiya_logo.svg/960px-Sukiya_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Sukiya_(restaurant_chain)"
+        },
+        "description": "Sukiya (すき家, stylized as SUKIYA) is a Japanese restaurant chain specializing in gyūdon (beef bowl). It is the largest gyūdon chain in Japan. It operates over 2,000 stores in Japan, and has branch stores across Asia. Sukiya's owner, Zensho Holdings, is listed on the Tokyo Stock Exchange and had sales of ¥511 billion in 2016. Its slogan, printed in English outside the restaurant, is \"Save Time and Money\". Aside from be",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "tokyo-restaurants-13",
+        "name": "Marukin Ramen",
+        "cityId": "tokyo",
+        "categoryId": "restaurants",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Marukin%20Ramen%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Marukin_Ramen",
+        "photo": null,
+        "description": "Marukin Ramen is a Tokyo-based chain of ramen restaurants. In 2021, two Marukin locations in Portland, Oregon, became known as Kinboshi Ramen.",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "tokyo-restaurants-14",
+        "name": "Ramen shop",
+        "cityId": "tokyo",
+        "categoryId": "restaurants",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Ramen%20shop%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Ramen_shop",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/%E6%9D%B1%E6%AD%A6%E3%82%89%E3%83%BC%E3%82%81%E3%82%9320240512-P1042538.jpg/960px-%E6%9D%B1%E6%AD%A6%E3%82%89%E3%83%BC%E3%82%81%E3%82%9320240512-P1042538.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Ramen_shop"
+        },
+        "description": "A ramen shop is a restaurant that specializes in ramen dishes, the wheat-flour Japanese noodles in broth. In Japan, ramen shops are very common and popular, and are sometimes referred to as ramen-ya (ラーメン屋) or ramen-ten (ラーメン店). Some ramen shops operate in short-order style, while others provide patrons with sit-down service. Over 10,000 ramen shops exist in Japan, and the dish has gained popularity around the world.",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "tokyo-restaurants-15",
+        "name": "Freshness Burger",
+        "cityId": "tokyo",
+        "categoryId": "restaurants",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Freshness%20Burger%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Freshness_Burger",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Freshness_Burger_Jingumae.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Freshness_Burger"
+        },
+        "description": "Freshness Burger, often referred to simply as Freshness, is a chain fast food restaurant in Japan. Freshness Burger was established under American Creation Co., Ltd, which was founded in June 1981. The first Freshness Burger restaurant opened in December 1992 in Tomigaya. Freshness Burger currently operates under Freshness Burger Co., Ltd. which was established on November 1, 2016. The current CEO is Kentaro Saito. F",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "tokyo-restaurants-16",
+        "name": "SM F&B Development",
+        "cityId": "tokyo",
+        "categoryId": "restaurants",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=SM%20F%26B%20Development%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/SM_F%26B_Development",
+        "photo": null,
+        "description": "SM F&B Development (Korean: 에스엠에프앤비디벨롭먼트; SM F&B) was a South Korean restaurant, franchising, food-importing, and wholesaling company under SM Entertainment. The company was established on January 22, 2008, and has previously operated the restaurant business E-Table, but eventually closed, Chi Mc, but the opening was revoked, and Podonamu in Tokyo for food and Hallyu promotions. It currently runs the casual dining an",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "tokyo-restaurants-17",
+        "name": "MOS Burger",
+        "cityId": "tokyo",
+        "categoryId": "restaurants",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=MOS%20Burger%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/MOS_Burger",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/MOS-Burger-Logo.svg/960px-MOS-Burger-Logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/MOS_Burger"
+        },
+        "description": "MOS Food Services, Inc. (株式会社モスフードサービス, Kabushiki-kaisha Mosu Fūdo Sābisu), doing business as MOS Burger (モスバーガー, Mosu bāgā) (which stands for \"Mountain Ocean Sun\"), is a multinational fast-food restaurant chain (fast-casual) from Japan. Its headquarters are in the ThinkPark Tower in Ōsaki, Shinagawa, Tokyo. At one time its headquarters were located in Shinjuku, Tokyo. Japan's answer to McDonald's, it is the second-l",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "tokyo-restaurants-18",
+        "name": "Butler café",
+        "cityId": "tokyo",
+        "categoryId": "restaurants",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Butler%20caf%C3%A9%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Butler_caf%C3%A9",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Chitty_Mood_Butlers_Cafe_20130913.jpg/960px-Chitty_Mood_Butlers_Cafe_20130913.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Butler_caf%C3%A9"
+        },
+        "description": "A butler café (Japanese: 執事喫茶, Hepburn: shitsuji kissa) is a subcategory of cosplay restaurant that originated in Japan. In these cafés, waiters dress as butlers and serve patrons in the manner of domestic servants attending to aristocracy. Butler cafés proliferated in reaction to the popularity of maid cafés and serve as an alternative category of cosplay restaurant intended to appeal to female otaku.",
+        "lat": null,
+        "lng": null
+      }
+    ],
+    "bars": [
+      {
+        "id": "tokyo-bars-1",
+        "name": "Grand Central Oyster Bar & Restaurant",
+        "cityId": "tokyo",
+        "categoryId": "bars",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Grand%20Central%20Oyster%20Bar%20%26%20Restaurant%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Grand_Central_Oyster_Bar_%26_Restaurant",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/The_Oyster_Bar%2C_Grand_Central_Terminal%2C_New_York_City_%284057303042%29.jpg/960px-The_Oyster_Bar%2C_Grand_Central_Terminal%2C_New_York_City_%284057303042%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Grand_Central_Oyster_Bar_%26_Restaurant"
+        },
+        "description": "The Grand Central Oyster Bar & Restaurant is a seafood restaurant on the lower level of Grand Central Terminal at 42nd Street and Park Avenue in Manhattan, New York City.",
+        "lat": 40.75233333,
+        "lng": -73.97722222
+      },
+      {
+        "id": "tokyo-bars-2",
+        "name": "Bakutsuri Bar Hunter",
+        "cityId": "tokyo",
+        "categoryId": "bars",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Bakutsuri%20Bar%20Hunter%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Bakutsuri_Bar_Hunter",
+        "photo": null,
+        "description": "Bakutsuri Bar Hunter (爆釣バーハンター, Bakutsuri Bā Hantā; \"Big Catch Bar Hunter\") is a Japanese media franchise created by Bandai, Shogakukan, Studio Gallop, and Toei Animation. It consists of a toy line that started releasing on March 17, 2018, a Nintendo 3DS game, a manga series and an anime television series.",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "tokyo-bars-3",
+        "name": "High jump",
+        "cityId": "tokyo",
+        "categoryId": "bars",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=High%20jump%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/High_jump",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Nicole_Forrester.JPG/960px-Nicole_Forrester.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/High_jump"
+        },
+        "description": "The high jump is a track and field event in which competitors must jump unaided over a horizontal bar placed at measured heights without dislodging it. In its modern, most-practiced format, a bar is placed between two standards with a crash mat for landing. Since ancient times, competitors have successively improved their technique, today employing the universally preferred Fosbury flop, in which athletes run towards",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "tokyo-bars-4",
+        "name": "Host and hostess clubs",
+        "cityId": "tokyo",
+        "categoryId": "bars",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Host%20and%20hostess%20clubs%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Host_and_hostess_clubs",
+        "photo": null,
+        "description": "A hostess club is a type of night club found primarily in Japan which employs mostly female staff and caters to men seeking drinks and attentive conversation. A host club is a similar establishment where mostly male staff attend to women. Host and hostess clubs are considered part of mizu shōbai (lit. 'water trade'), the night-time entertainment business in Japan.",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "tokyo-bars-5",
+        "name": "Boris Shakhlin",
+        "cityId": "tokyo",
+        "categoryId": "bars",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Boris%20Shakhlin%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Boris_Shakhlin",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/De_Russische_Boris_Chaklin_in_aktie_aan_de_ringen%2C_Bestanddeelnr_919-5889.jpg/960px-De_Russische_Boris_Chaklin_in_aktie_aan_de_ringen%2C_Bestanddeelnr_919-5889.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Boris_Shakhlin"
+        },
+        "description": "Boris Anfiyanovich Shakhlin (Russian: Борис Анфиянович Шахлин; 27 January 1932 – 30 May 2008) was a Soviet gymnast who was the 1960 Olympic all-around champion and the 1958 all-around World Champion. He won a total of 13 medals including seven gold medals at the Summer Olympics, and was the most successful athlete at the 1960 Summer Olympics. He held the record for most Olympic medals by a male athlete record until g",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "tokyo-bars-6",
+        "name": "Zuma",
+        "cityId": "tokyo",
+        "categoryId": "bars",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Zuma%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Zuma_(restaurant)",
+        "photo": null,
+        "description": "Zuma is a chain of Japanese izakaya-style restaurants founded in 2002 by Rainer Becker and Arjun Waney. The first Zuma location opened in the Knightsbridge area of London, with a concept developed by Becker during his six years working in Tokyo, where he immersed himself in Japanese cuisine and culture. The restaurant features three kitchens: the main kitchen, the sushi counter, and the robata grill. Zuma has expande",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "tokyo-bars-7",
+        "name": "PayPay",
+        "cityId": "tokyo",
+        "categoryId": "bars",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=PayPay%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/PayPay",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/Tokyo_Garden_Terrace_Kioicho.jpg/960px-Tokyo_Garden_Terrace_Kioicho.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/PayPay"
+        },
+        "description": "PayPay Corporation (PayPay株式会社) is a Japanese company that develops electronic payment services owned by LY Corporation. It was established in 2018 as a joint venture between the SoftBank Group and Yahoo Japan through Z Holdings, their holding company. With 38 million users, PayPay is the largest Japanese mobile payment app. In October 2018, it began a QR code and bar code-based payment service, which was developed i",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "tokyo-bars-8",
+        "name": "Tokyo One Piece Tower",
+        "cityId": "tokyo",
+        "categoryId": "bars",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Tokyo%20One%20Piece%20Tower%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Tokyo_One_Piece_Tower",
+        "photo": null,
+        "description": "Tokyo One Piece Tower was an indoor theme park themed to One Piece. It opened on March 13, 2015 inside Tokyo Tower. After its opening, it underwent a partial renovation and reopened on June 18, 2016. It offered several games and attractions based on characters of the Straw Hat Crew from One Piece, entertainment shows, merchandise shops and themed restaurants, and seasonal events and campaigns. The park closed permane",
+        "lat": 35.65861111,
+        "lng": 139.74555556
+      },
+      {
+        "id": "tokyo-bars-9",
+        "name": "The Adicts",
+        "cityId": "tokyo",
+        "categoryId": "bars",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Adicts%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/The_Adicts",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/The-Adicts.jpg/960px-The-Adicts.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/The_Adicts"
+        },
+        "description": "The Adicts are a British punk rock band from Ipswich, Suffolk, England. A popular English punk rock band of the 1980s, they were often in the punk charts during that decade. The Adicts originated as The Afterbirth in late 1975 but never had any music or played any shows. They later became The Pinz. They soon changed their name to the Adicts and became known for their distinctive Clockwork Orange \"droog\" image. \"Droog",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "tokyo-bars-10",
+        "name": "DDT Pro-Wrestling",
+        "cityId": "tokyo",
+        "categoryId": "bars",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=DDT%20Pro-Wrestling%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/DDT_Pro-Wrestling",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/en/thumb/a/af/DDT-Wrestling.svg/960px-DDT-Wrestling.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/DDT_Pro-Wrestling"
+        },
+        "description": "DDT Pro-Wrestling (DDTプロレスリング, DDT Puroresuringu) is a Japanese professional wrestling promotion based in Shinjuku, Tokyo. Its name is an initialism of Dramatic Dream Team, which was the promotion's original name from 1997 to 2004. Founded in March 1997 by Shintaro Muto, the promotion was eventually bought and managed by Shoichi Ichimiya until December 2005, when Sanshiro Takagi took over as the new president. In 201",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "tokyo-bars-11",
+        "name": "Tokyo Metropolitan Police Department",
+        "cityId": "tokyo",
+        "categoryId": "bars",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Tokyo%20Metropolitan%20Police%20Department%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Tokyo_Metropolitan_Police_Department",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Asahikage.svg/960px-Asahikage.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Tokyo_Metropolitan_Police_Department"
+        },
+        "description": "The Tokyo Metropolitan Police Department (TMPD) (警視庁, Keishichō), known locally as simply the Metropolitan Police Department (MPD), is the prefectural police of Tokyo Metropolis, Japan. Founded in 1874, the TMPD is the largest police force in Japan by number of officers, with a staff of more than 40,000 police officers and over 2,800 civilian personnel. The TMPD is headed by a Superintendent-General, who is appointed",
+        "lat": 35.67694444,
+        "lng": 139.75222222
+      },
+      {
+        "id": "tokyo-bars-12",
+        "name": "Kōhei Uchimura",
+        "cityId": "tokyo",
+        "categoryId": "bars",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=K%C5%8Dhei%20Uchimura%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/K%C5%8Dhei_Uchimura",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/04/Kohei_Uchimura_%282011%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/K%C5%8Dhei_Uchimura"
+        },
+        "description": "Kōhei Uchimura (内村 航平, Uchimura Kōhei; born January 3, 1989) is a Japanese retired artistic gymnast. He is a seven-time Olympic medalist (team, all-around and floor exercise), winning three golds and four silvers, and a 21-time World medalist (team, all-around, floor exercise, parallel bars and the horizontal bar). Uchimura was already considered by many in the sport to be one of the greatest gymnasts of all time aft",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "tokyo-bars-13",
+        "name": "2020 in artistic gymnastics",
+        "cityId": "tokyo",
+        "categoryId": "bars",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=2020%20in%20artistic%20gymnastics%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/2020_in_artistic_gymnastics",
+        "photo": null,
+        "description": "Below is a list of notable men's and women's artistic gymnastics international events scheduled to be held in 2020, as well as the medalists.",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "tokyo-bars-14",
+        "name": "Daiki Hashimoto",
+        "cityId": "tokyo",
+        "categoryId": "bars",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Daiki%20Hashimoto%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Daiki_Hashimoto",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Daiki_Hashimoto_-_2026_American_Cup.jpg/960px-Daiki_Hashimoto_-_2026_American_Cup.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Daiki_Hashimoto"
+        },
+        "description": "Daiki Hashimoto (橋本 大輝, Hashimoto Daiki; born 7 August 2001) is a Japanese artistic gymnast. Widely regarded as the successor of Kohei Uchimura, he won two gold medals at the 2020 Summer Olympics, in all-around and horizontal bar, as well as a silver in team. His Tokyo individual gold medal win made him the youngest Olympic All-Around champion, at age 19 years, 355 days. At the world championships, he has also won 7 ",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "tokyo-bars-15",
+        "name": "Viktor Lisitsky",
+        "cityId": "tokyo",
+        "categoryId": "bars",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Viktor%20Lisitsky%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Viktor_Lisitsky",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Viktor_Lisitsky_1964b.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Viktor_Lisitsky"
+        },
+        "description": "Viktor Nikitovich Lisitsky (Russian: Ви́ктор Ники́тович Лиси́цкий; 18 October 1939 – 13 June 2023) was a Russian gymnast. He competed in all artistic gymnastics events at the 1964 and 1968 Summer Olympics and won five silver medals, three individual in 1964 and two with the Soviet team, in 1964 and 1968. At the European championships Lisitsky won three titles in 1965 (rings, vault and pommel horse), three in 1967 (ri",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "tokyo-bars-16",
+        "name": ".bar",
+        "cityId": "tokyo",
+        "categoryId": "bars",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=.bar%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/.bar",
+        "photo": null,
+        "description": ".bar is an Internet domain that is specifically geared for bars, pubs and nightclubs, including bar and restaurant guides, critics, delivery services, wine and liquor, and related industries. It is a gTLD owned by Mexico City–based company Punto 2012. The domain .bar was released on June 11, 2014.",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "tokyo-bars-17",
+        "name": ".tokyo",
+        "cityId": "tokyo",
+        "categoryId": "bars",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=.tokyo%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/.tokyo",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/.tokyo_TLD_logo.svg/960px-.tokyo_TLD_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/.tokyo"
+        },
+        "description": "The domain name tokyo is a top-level domain (TLD) for Tokyo in the Domain Name System of the Internet. On November 13, 2013, ICANN and GMO Registry entered into a registry agreement under which GMO Registry operates the tokyo TLD. Like other top-level domains, the tokyo TLD can be registered by people living outside of Tokyo.",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "tokyo-bars-18",
+        "name": "Yukio Endō",
+        "cityId": "tokyo",
+        "categoryId": "bars",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Yukio%20End%C5%8D%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Yukio_End%C5%8D",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Yukio_Endo_1964b.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Yukio_End%C5%8D"
+        },
+        "description": "Yukio Endō (遠藤 幸雄, Endō Yukio; January 18, 1937 – March 25, 2009) was a Japanese artistic gymnast, Olympic champion and world champion. He was part of the first Japanese team that succeeded to win gold medals in the team event at the Summer Olympics (1960) and World Championships (1962). In 1964 he won the first individual all-around Olympic gold medal for Japan. He was the flag bearer at the 1968 Summer Olympics.",
+        "lat": null,
+        "lng": null
+      }
+    ],
+    "coffee_shops": [
+      {
+        "id": "tokyo-coffee_shops-1",
+        "name": "Butler café",
+        "cityId": "tokyo",
+        "categoryId": "coffee_shops",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Butler%20caf%C3%A9%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Butler_caf%C3%A9",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Chitty_Mood_Butlers_Cafe_20130913.jpg/960px-Chitty_Mood_Butlers_Cafe_20130913.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Butler_caf%C3%A9"
+        },
+        "description": "A butler café (Japanese: 執事喫茶, Hepburn: shitsuji kissa) is a subcategory of cosplay restaurant that originated in Japan. In these cafés, waiters dress as butlers and serve patrons in the manner of domestic servants attending to aristocracy. Butler cafés proliferated in reaction to the popularity of maid cafés and serve as an alternative category of cosplay restaurant intended to appeal to female otaku.",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "tokyo-coffee_shops-2",
+        "name": "Kirby Café",
+        "cityId": "tokyo",
+        "categoryId": "coffee_shops",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Kirby%20Caf%C3%A9%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Kirby_Caf%C3%A9",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Kirby_Cafe.png/960px-Kirby_Cafe.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Kirby_Caf%C3%A9"
+        },
+        "description": "Kirby Café is a restaurant chain in Japan operated by Benelic and themed around the Kirby franchise and its titular protagonist, both co-owned by Nintendo and HAL Laboratory. The chain currently comprises three permanent locations—one within the special ward of Sumida City in the Solamachi entertainment complex, one within Hakata-ku in the Canal City Hakata entertainment complex, and one within Shinsaibashi in the Da",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "tokyo-coffee_shops-3",
+        "name": "Café Lumière",
+        "cityId": "tokyo",
+        "categoryId": "coffee_shops",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Caf%C3%A9%20Lumi%C3%A8re%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Caf%C3%A9_Lumi%C3%A8re",
+        "photo": null,
+        "description": "Café Lumière (Japanese: 珈琲時光, Hepburn: Kōhī Jikō) is a 2003 Japanese film directed by Taiwanese director Hou Hsiao-hsien for Shochiku as homage to Yasujirō Ozu, with direct reference to the late director's Tokyo Story (1953). It premiered at a festival commemorating the centenary of Ozu's birth. It was nominated for Golden Lion at the 2004 Venice Film Festival. The film, with an all-Japanese cast, is set in Tokyo, wh",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "tokyo-coffee_shops-4",
+        "name": "Frontierland",
+        "cityId": "tokyo",
+        "categoryId": "coffee_shops",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Frontierland%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Frontierland",
+        "photo": null,
+        "description": "Frontierland is one of the \"themed lands\" at the many Disneyland-style parks run by Disney around the world. Themed to the American frontier of the 19th century, Frontierlands are home to cowboys and pioneers, saloons, red rock buttes, and gold rushes, along with influence from American history, North America in general and a small amount of Mexican culture. It is named Westernland at Tokyo Disneyland and Grizzly Gul",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "tokyo-coffee_shops-5",
+        "name": "Tokyo One Piece Tower",
+        "cityId": "tokyo",
+        "categoryId": "coffee_shops",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Tokyo%20One%20Piece%20Tower%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Tokyo_One_Piece_Tower",
+        "photo": null,
+        "description": "Tokyo One Piece Tower was an indoor theme park themed to One Piece. It opened on March 13, 2015 inside Tokyo Tower. After its opening, it underwent a partial renovation and reopened on June 18, 2016. It offered several games and attractions based on characters of the Straw Hat Crew from One Piece, entertainment shows, merchandise shops and themed restaurants, and seasonal events and campaigns. The park closed permane",
+        "lat": 35.65861111,
+        "lng": 139.74555556
+      },
+      {
+        "id": "tokyo-coffee_shops-6",
+        "name": "Maid café",
+        "cityId": "tokyo",
+        "categoryId": "coffee_shops",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Maid%20caf%C3%A9%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Maid_caf%C3%A9",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Maid_cafe_4.jpg/960px-Maid_cafe_4.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Maid_caf%C3%A9"
+        },
+        "description": "Maid cafés (Japanese: メイド喫茶 or メイドカフェ, Hepburn: meido kissa or meido kafe) are a subcategory of cosplay restaurants found predominantly in Japan and Taiwan. In these cafés, waitresses, dressed in maid costumes, act as servants and treat customers as masters (and mistresses), as if they were in a private home, rather than as café patrons. The first permanent maid café, Cure Maid Café, was established in Akihabara, Tok",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "tokyo-coffee_shops-7",
+        "name": "Café Gerbeaud",
+        "cityId": "tokyo",
+        "categoryId": "coffee_shops",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Caf%C3%A9%20Gerbeaud%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Caf%C3%A9_Gerbeaud",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Cafe_Gerbeaud_01.JPG/960px-Cafe_Gerbeaud_01.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Caf%C3%A9_Gerbeaud"
+        },
+        "description": "Café Gerbeaud, situated at Vörösmarty tér 7 in Budapest, the capital of Hungary, is a traditional coffeehouse opened in 1858. It was built in Gründerzeit style. In 2009 Café Gerbeaud opened its second confectionery in Tokyo, Japan.",
+        "lat": 47.49701389,
+        "lng": 19.05041667
+      },
+      {
+        "id": "tokyo-coffee_shops-8",
+        "name": "Ghibli Museum",
+        "cityId": "tokyo",
+        "categoryId": "coffee_shops",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Ghibli%20Museum%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Ghibli_Museum",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Ghibli_Museum_2024.JPG/960px-Ghibli_Museum_2024.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Ghibli_Museum"
+        },
+        "description": "The Ghibli Museum (三鷹の森ジブリ美術館, Mitaka no Mori Jiburi Bijutsukan; Mitaka Forest Ghibli Museum) is a museum showcasing the work of the Japanese animation studio Studio Ghibli. It is located in Inokashira Park in Mitaka, a western city within the Tokyo Metropolitan Area, in Japan. The museum combines features of a children's museum, technology museum, and a fine arts museum and is dedicated to the art and technique of a",
+        "lat": 35.69623333,
+        "lng": 139.57043056
+      },
+      {
+        "id": "tokyo-coffee_shops-9",
+        "name": "Cosplay restaurant",
+        "cityId": "tokyo",
+        "categoryId": "coffee_shops",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Cosplay%20restaurant%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Cosplay_restaurant",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Akihabara_Maids2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Cosplay_restaurant"
+        },
+        "description": "Cosplay restaurants (コスプレ系飲食店, Kosupure-kei inshokuten) are theme restaurants and pubs that originated in Akihabara, Tokyo, Japan, around the late 1990s and early 2000s. They include maid cafés (メイドカフェ, Meido kafe) and butler cafés (執事喫茶, shitsuji kissa), where the service staff dress as elegant maids or butlers. The staff treat the customers as masters and mistresses in a private home rather than merely as café cust",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "tokyo-coffee_shops-10",
+        "name": "Misato Watanabe",
+        "cityId": "tokyo",
+        "categoryId": "coffee_shops",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Misato%20Watanabe%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Misato_Watanabe",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/Misato_Watanabe_%2816702129459%29.jpg/960px-Misato_Watanabe_%2816702129459%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Misato_Watanabe"
+        },
+        "description": "Misato Watanabe (渡辺 美里, Watanabe Misato; born 12 July 1966) is a Japanese pop singer.",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "tokyo-coffee_shops-11",
+        "name": "Italian Tomato",
+        "cityId": "tokyo",
+        "categoryId": "coffee_shops",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Italian%20Tomato%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Italian_Tomato",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Shinagawa_seaside_overview_2009.JPG/960px-Shinagawa_seaside_overview_2009.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Italian_Tomato"
+        },
+        "description": "Italian Tomato Co., Ltd is a Japanese restaurant and cafe chain headquartered in Shinagawa, Tokyo.",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "tokyo-coffee_shops-12",
+        "name": "Net café refugee",
+        "cityId": "tokyo",
+        "categoryId": "coffee_shops",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Net%20caf%C3%A9%20refugee%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Net_caf%C3%A9_refugee",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/02/Internet_cafe_in_Japan_3.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Net_caf%C3%A9_refugee"
+        },
+        "description": "Net café refugees (ネットカフェ難民, netto kafe nanmin), also known as cyber-homeless (サイバーホームレス, saibā hōmuresu), are a class of homeless people in Japan who do not own or rent a residence (thus having no permanent address) and sleep in 24-hour Internet cafés or manga cafés. Although such cafés originally provided only Internet services, some have expanded their services to include food, drink, and showers. The term was coi",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "tokyo-coffee_shops-13",
+        "name": "Manga cafe",
+        "cityId": "tokyo",
+        "categoryId": "coffee_shops",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Manga%20cafe%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Manga_cafe",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/Manga_Kissa_5_%286021168063%29.jpg/960px-Manga_Kissa_5_%286021168063%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Manga_cafe"
+        },
+        "description": "A manga café (漫画喫茶, マンガ喫茶, mangakissa; \"kissa\" being short for \"kissaten\" which means café or cafeteria) is a type of café, originating from Japan, where people can read manga. People pay for the amount of time they stay in the café. Most manga cafés also offer internet access like internet cafés (ネットカフェ, netto kafe) and vice versa, making the two terms mostly interchangeable in Japan. Additional services include vid",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "tokyo-coffee_shops-14",
+        "name": "Pretty Maid Café",
+        "cityId": "tokyo",
+        "categoryId": "coffee_shops",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Pretty%20Maid%20Caf%C3%A9%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Pretty_Maid_Caf%C3%A9",
+        "photo": null,
+        "description": "Pretty Maid Café (恋するメイドカフェ, Koisuru Maid Cafe) is a romantic comedy Japanese film with thriller elements directed by Akiyoshi Sugiura and released in 2006 by VAP. It is part of the Akihabara Trilogy of films revolving around the Akihabara cosplay and otaku subcultures, especially maid cafés. It was distributed in the United States by Asia Pulp Cinema.",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "tokyo-coffee_shops-15",
+        "name": "Polar Bear Café",
+        "cityId": "tokyo",
+        "categoryId": "coffee_shops",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Polar%20Bear%20Caf%C3%A9%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Polar_Bear_Caf%C3%A9",
+        "photo": null,
+        "description": "Polar Bear Café (Japanese: しろくまカフェ, Hepburn: Shirokuma Cafe) is a Japanese manga series by Aloha Higa. The series serialized in Shogakukan's Josei magazine Monthly Flowers. It revolves around the everyday lives of a group of animals mingling with humans at a café run by a polar bear. An anime adaptation by Studio Pierrot aired in Japan between April 2012 and March 2013, and was simulcast globally on Crunchyroll.",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "tokyo-coffee_shops-16",
+        "name": "Heaven & Earth",
+        "cityId": "tokyo",
+        "categoryId": "coffee_shops",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Heaven%20%26%20Earth%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Heaven_%26_Earth_(box_set)",
+        "photo": null,
+        "description": "Heaven & Earth (Live and in the Studio 1997–2008) is the eighth of the major box set releases from English progressive rock group King Crimson, released in 2019 by Discipline Global Mobile, Panegyric Records, Inner Knot & Wowow Entertainment, Inc. This compilation covers the period which saw the recording of The Construkction of Light, released in 2000 and the album that appears to be their studio swan-song The Power",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "tokyo-coffee_shops-17",
+        "name": "Tokyo Disney Resort",
+        "cityId": "tokyo",
+        "categoryId": "coffee_shops",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Tokyo%20Disney%20Resort%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Tokyo_Disney_Resort",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Tokyo_Disneyland_%281-1_crop%29.jpg/960px-Tokyo_Disneyland_%281-1_crop%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Tokyo_Disney_Resort"
+        },
+        "description": "Tokyo Disney Resort (東京ディズニーリゾート, Tōkyō Dizunī Rizōto) (local nickname TDR) is a theme park and vacation resort located in Urayasu, Chiba, Japan, just east of Tokyo. The resort is owned and operated by the Oriental Land Co., a subsidiary of the Keisei Electric Railway, under a license from The Walt Disney Company, which designed and constructed the resort and its various attractions through its Imagineering research ",
+        "lat": 35.62972222,
+        "lng": 139.88277778
+      },
+      {
+        "id": "tokyo-coffee_shops-18",
+        "name": "The Penguin Cafe Orchestra Mini Album",
+        "cityId": "tokyo",
+        "categoryId": "coffee_shops",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Penguin%20Cafe%20Orchestra%20Mini%20Album%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/The_Penguin_Cafe_Orchestra_Mini_Album",
+        "photo": null,
+        "description": "The Penguin Cafe Orchestra Mini Album is an EP by Penguin Cafe Orchestra consisting of six pieces, two derived from previous released recordings (\"The Penguin Cafe Single\" and \"Air a Danser\"), two that were recorded from a live performance in Tokyo (\"Numbers 1-4\" and \"Salty Bean Fumble\"), and two previously unreleased pieces which had not appeared elsewhere (\"The Toy\" and \"Piano Music\"). The two live pieces were reco",
+        "lat": null,
+        "lng": null
+      }
+    ],
+    "bookshops": [
+      {
+        "id": "tokyo-bookshops-1",
+        "name": "Books Kinokuniya",
+        "cityId": "tokyo",
+        "categoryId": "bookshops",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Books%20Kinokuniya%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Books_Kinokuniya",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/en/thumb/0/02/Books_Kinokuniya_logo_%282026%29.svg/960px-Books_Kinokuniya_logo_%282026%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Books_Kinokuniya"
+        },
+        "description": "Books Kinokuniya (紀伊國屋書店, Kinokuniya Shoten) is a Japanese bookstore chain operated by Kinokuniya Company Ltd. (株式会社紀伊國屋書店, Kabushiki-gaisha Kinokuniya Shoten), founded in 1927, with its first store located in Shinjuku, Tokyo, Japan. Its name translates to \"Bookstore of Kii Province\". The company has its headquarters in Meguro, Tokyo.",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "tokyo-bookshops-2",
+        "name": "Culture Convenience Club",
+        "cityId": "tokyo",
+        "categoryId": "bookshops",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Culture%20Convenience%20Club%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Culture_Convenience_Club",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/TSUTAYA_Ibaraki.JPG/960px-TSUTAYA_Ibaraki.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Culture_Convenience_Club"
+        },
+        "description": "Culture Convenience Club Company, Limited (カルチュア・コンビニエンス・クラブ株式会社, Karuchua Konbiniensu Kurabu Kabushikigaisha) is a Japanese company that operates Tsutaya (蔦屋), a chain of video rental shops and bookstores in Japan, Taiwan, China and Thailand. The company is headquartered in Ebisu, Tokyo. The stock of the company was formerly listed in the first section of the Tokyo Stock Exchange (TYO: 4756), but it has since been d",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "tokyo-bookshops-3",
+        "name": "Jimbōchō Book Town",
+        "cityId": "tokyo",
+        "categoryId": "bookshops",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Jimb%C5%8Dch%C5%8D%20Book%20Town%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Jimb%C5%8Dch%C5%8D_Book_Town",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Yaguchi_Book_Store_and_Koga_Book_Store.jpg/960px-Yaguchi_Book_Store_and_Koga_Book_Store.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Jimb%C5%8Dch%C5%8D_Book_Town"
+        },
+        "description": "Jimbōchō Book Town (Japanese: 神田神保町古書街, Hepburn: Kanda Jinbōchō Koshogai; alternately Jinbōchō Book Town) and also known as Kanda Book Town (Japanese: 神田古書店街, Hepburn: Kanda Koshoten Gai), is a book town located in the district of Kanda-Jinbōchō in Chiyoda, Tokyo, Japan. The area is known for its high volume and concentration of used bookstores. It additionally houses the headquarters for multiple major Japanese publ",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "tokyo-bookshops-4",
+        "name": "Comic Takaoka",
+        "cityId": "tokyo",
+        "categoryId": "bookshops",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Comic%20Takaoka%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Comic_Takaoka",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/%E9%AB%98%E5%B2%A1%E6%9B%B8%E5%BA%97%E7%A5%9E%E4%BF%9D%E7%94%BA%E5%BA%97_-_panoramio_%28cropped%29.jpg/960px-%E9%AB%98%E5%B2%A1%E6%9B%B8%E5%BA%97%E7%A5%9E%E4%BF%9D%E7%94%BA%E5%BA%97_-_panoramio_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Comic_Takaoka"
+        },
+        "description": "Comic Takaoka (Japanese: コミック高岡, Hepburn: Komikku Takaoka) was a manga and comic book store in Jinbōchō, Tokyo, Japan. Opened in 1880 as a general bookstore under the name Takaoka Shoten (Japanese: 高岡書店; Takaoka Bookstore), the store changed its name after it began selling manga exclusively in 1979. Comic Takaoka is noted as one of the first specialty manga bookstores and, prior to its closure in 2019, was one of the",
+        "lat": 35.69583333,
+        "lng": 139.75866667
+      },
+      {
+        "id": "tokyo-bookshops-5",
+        "name": "Libro",
+        "cityId": "tokyo",
+        "categoryId": "bookshops",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Libro%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Libro",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Meiko_Building_2012-01-26.JPG/960px-Meiko_Building_2012-01-26.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Libro"
+        },
+        "description": "Libro Co., Ltd. (株式会社リブロ, Kabushiki gaisha Riburo) is a Japanese book retailer. A unit of the Seiyu Group, it is headquartered in the Meiko Building (明光ビル, Meiko Biru), Nishi-Ikebukuro, Toshima, Tokyo. Libro is the Spanish and Italian word for \"book\"",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "tokyo-bookshops-6",
+        "name": "Dai Nippon Printing",
+        "cityId": "tokyo",
+        "categoryId": "bookshops",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Dai%20Nippon%20Printing%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Dai_Nippon_Printing",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Headquarters_building_of_Dai_Nippon_Printing_Co.jpg/960px-Headquarters_building_of_Dai_Nippon_Printing_Co.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Dai_Nippon_Printing"
+        },
+        "description": "Dai Nippon Printing (大日本印刷, Dai Nippon Insatsu), established in 1876, is a Japanese printing company which operates its printing in three areas: information communications, lifestyle and industrial supplies, and electronics. The company is involved in a wide variety of printing processes, ranging from magazines to shadow masks for the production of displays, as well as out-coupling enhancement structures for LCD disp",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "tokyo-bookshops-7",
+        "name": "Tokuma Shoten",
+        "cityId": "tokyo",
+        "categoryId": "bookshops",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Tokuma%20Shoten%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Tokuma_Shoten",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Meguro.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Tokuma_Shoten"
+        },
+        "description": "Tokuma Shoten Publishing Co., Ltd. (株式会社徳間書店, Kabushiki gaisha Tokuma Shoten; lit. 'Tokuma Bookstore') is a publisher in Japan, headquartered in Shinagawa, Tokyo. The company was established in 1954 by Yasuyoshi Tokuma in Minato, Tokyo. The company's product portfolio includes music publishing, video game publishing, movies, anime, magazines, manga and books. Companies that were part of Tokuma Shoten include Studio G",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "tokyo-bookshops-8",
+        "name": "Ghibli Museum",
+        "cityId": "tokyo",
+        "categoryId": "bookshops",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Ghibli%20Museum%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Ghibli_Museum",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Ghibli_Museum_2024.JPG/960px-Ghibli_Museum_2024.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Ghibli_Museum"
+        },
+        "description": "The Ghibli Museum (三鷹の森ジブリ美術館, Mitaka no Mori Jiburi Bijutsukan; Mitaka Forest Ghibli Museum) is a museum showcasing the work of the Japanese animation studio Studio Ghibli. It is located in Inokashira Park in Mitaka, a western city within the Tokyo Metropolitan Area, in Japan. The museum combines features of a children's museum, technology museum, and a fine arts museum and is dedicated to the art and technique of a",
+        "lat": 35.69623333,
+        "lng": 139.57043056
+      },
+      {
+        "id": "tokyo-bookshops-9",
+        "name": "Altima Ace",
+        "cityId": "tokyo",
+        "categoryId": "bookshops",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Altima%20Ace%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Altima_Ace",
+        "photo": null,
+        "description": "Altima Ace (アルティマエース), also known as AltimaA, and subtitled \"Ultimate Magazine that you are crazy about,\" is a defunct Japanese manga magazine published by Kadokawa Shoten. Altima Ace was a spinoff sister magazine to Kadokawa Shoten's Young Ace. The first issue was released on October 18, 2011, and was scheduled to publish bimonthly in Japan on the 18th day of even-numbered months, priced at 580 yen. On October 18, 2",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "tokyo-bookshops-10",
+        "name": "Independent bookstore",
+        "cityId": "tokyo",
+        "categoryId": "bookshops",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Independent%20bookstore%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Independent_bookstore",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Stoke_Newington_Bookshop%2C_London.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Independent_bookstore"
+        },
+        "description": "An independent bookstore is a retail bookstore which is independently owned. Usually, independent stores consist of only a single actual store (although there are some multi-store independents). They may be structured as sole proprietorships, closely held corporations or partnerships, cooperatives, or nonprofits. Independent stores can be contrasted with chain bookstores, which have many locations and are owned by co",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "tokyo-bookshops-11",
+        "name": "Core Magazine",
+        "cityId": "tokyo",
+        "categoryId": "bookshops",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Core%20Magazine%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Core_Magazine",
+        "photo": null,
+        "description": "Core Magazine Co. Ltd. (株式会社コアマガジン) is a Japanese publishing company focused on adult material, such as adult magazines and hentai manga. It also publishes yaoi titles, such as Kirepapa. The company was established in 1985 as Shōnen Shuppansha (株式会社少年出版社) by Byakuya Shobo. Core Magazine owns a bookstore chain \"Core Books\" (コアブックス).",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "tokyo-bookshops-12",
+        "name": "Planet News",
+        "cityId": "tokyo",
+        "categoryId": "bookshops",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Planet%20News%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Planet_News",
+        "photo": null,
+        "description": "Planet News is a book of poetry written by Allen Ginsberg and published by City Lights Bookstore in 1968. It is number twenty three in the Pocket Poets series. It contains poems written by Ginsberg between 1961 and 1967, many written during his travels to India, Japan, Europe, Africa, and many other places. Poems in this collection include: \"Television was a Baby Crawling Toward that Deathchamber\" \"This form of Life ",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "tokyo-bookshops-13",
+        "name": "Japan Booksellers' Award",
+        "cityId": "tokyo",
+        "categoryId": "bookshops",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Japan%20Booksellers'%20Award%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Japan_Booksellers'_Award",
+        "photo": null,
+        "description": "Japan Booksellers' Award (本屋大賞, Hon'ya Taishō; lit. \"Bookstore Award\") is an annual Japanese literary award. It is awarded based on votes by bookstore clerks from all over Japan.",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "tokyo-bookshops-14",
+        "name": "Mandarake",
+        "cityId": "tokyo",
+        "categoryId": "bookshops",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Mandarake%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Mandarake",
+        "photo": null,
+        "description": "Mandarake Inc. (Japanese: まんだらけ) is a Japanese retail corporation that operates a chain of used good stores. Founded as a used bookstore specializing in manga in 1980, Mandarake incorporated in 1987 and currently operates 11 retail locations and one fulfillment center. The company focuses on the purchase and sale of a wide range of collectables and otaku-related goods, including anime- and manga-related items, DVDs, ",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "tokyo-bookshops-15",
+        "name": "Denkigai no Honya-san",
+        "cityId": "tokyo",
+        "categoryId": "bookshops",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Denkigai%20no%20Honya-san%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Denkigai_no_Honya-san",
+        "photo": null,
+        "description": "Denkigai no Honya-san (デンキ街の本屋さん, Denkigai no Hon'ya-san; lit. \"The Electric Town's Bookstore\"), also known by the abbreviation Denki-gai (デンキ街, Denkigai), is a Japanese manga series written and illustrated by Asato Mizu. It depicts slice of life stories about a group of characters who work in a fictional doujin shop called Umanohone (うまのほね; \"the horse's bone\"), a reference to the real-life doujin shop Comic Toranoan",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "tokyo-bookshops-16",
+        "name": "Like Someone in Love",
+        "cityId": "tokyo",
+        "categoryId": "bookshops",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Like%20Someone%20in%20Love%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Like_Someone_in_Love_(film)",
+        "photo": null,
+        "description": "Like Someone in Love (Japanese: ライク・サムワン・イン・ラブ, Hepburn: Raiku samuwan in rabu) is a 2012 drama film written and directed by Iranian director Abbas Kiarostami, starring Tadashi Okuno, Rin Takanashi and Ryō Kase. A co-production between Japan and France, the film centers on the unusual bond between an elderly retired professor and a young student moonlighting as a high-class prostitute, while the latter is dealing wit",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "tokyo-bookshops-17",
+        "name": "Kunio Maekawa",
+        "cityId": "tokyo",
+        "categoryId": "bookshops",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Kunio%20Maekawa%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Kunio_Maekawa",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/House-Kunio-Maekawa-03.jpg/960px-House-Kunio-Maekawa-03.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Kunio_Maekawa"
+        },
+        "description": "Kunio Maekawa (前川 國男, Maekawa Kunio; 14 May 1905 – 26 June 1986) was a Japanese architect and a key figure of modernism in post-war Japan. After early stints in the studios of Le Corbusier and Antonin Raymond, Maekawa began to articulate his architectural language after establishing his firm in 1935, maintaining a continuous tension between Japanese traditional design and European architectural modernism throughout h",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "tokyo-bookshops-18",
+        "name": "Koishikawa",
+        "cityId": "tokyo",
+        "categoryId": "bookshops",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Koishikawa%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Koishikawa",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/%E6%9D%B1%E4%BA%AC%E5%B0%8F%E7%9F%B3%E5%B7%9D%E9%81%A0%E6%99%AF.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Koishikawa"
+        },
+        "description": "Koishikawa (小石川) is a district of Bunkyo, Tokyo. It consists of five sub-areas, 1-5 chome (1~5丁目). In Koishikawa are located two well regarded gardens: the Koishikawa Botanical Garden (operated by the University of Tokyo) in Hakusan, and the Koishikawa Korakuen Garden in Kōraku. Train stations for accessing this locality include Hakusan Station (白山駅, Hakusan-eki), Kōrakuen Station (後楽園駅, Kōrakuen-eki), Kasuga Station",
+        "lat": 35.715,
+        "lng": 139.74555556
+      }
+    ],
+    "museums": [
+      {
+        "id": "tokyo-museums-1",
+        "name": "Tokyo National Museum",
+        "cityId": "tokyo",
+        "categoryId": "museums",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Tokyo%20National%20Museum%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Tokyo_National_Museum",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/Tokyo_National_Museum%2C_Honkan_2010.jpg/960px-Tokyo_National_Museum%2C_Honkan_2010.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Tokyo_National_Museum"
+        },
+        "description": "The Tokyo National Museum (東京国立博物館, Tōkyō Kokuritsu Hakubutsukan) or TNM is an art museum in Ueno Park in the Taitō ward of Tokyo, Japan. It is considered the oldest national museum and the largest art museum in Japan. The museum collects, preserves, and displays a comprehensive collection of artwork and cultural objects from Asia, with a focus on ancient and medieval Japanese art and Asian art along the Silk Road. T",
+        "lat": 35.7189,
+        "lng": 139.7764
+      },
+      {
+        "id": "tokyo-museums-2",
+        "name": "Tokyo",
+        "cityId": "tokyo",
+        "categoryId": "museums",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Tokyo%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Tokyo",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Skyscrapers_of_Shinjuku_2009_January.jpg/960px-Skyscrapers_of_Shinjuku_2009_January.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Tokyo"
+        },
+        "description": "Tokyo, officially the Tokyo Metropolis, is the capital and most populous city of Japan. The population of the city proper was over 14 million as of 2023. The Greater Tokyo Area, which includes Tokyo and parts of six neighboring prefectures, is the third-most populous metropolitan area in the world, with 33 million residents as of 2025. Lying at the head of Tokyo Bay, Tokyo is part of the Kantō region, on the central ",
+        "lat": 35.68972222,
+        "lng": 139.69222222
+      },
+      {
+        "id": "tokyo-museums-3",
+        "name": "National Museum of Modern Art, Tokyo",
+        "cityId": "tokyo",
+        "categoryId": "museums",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=National%20Museum%20of%20Modern%20Art%2C%20Tokyo%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/National_Museum_of_Modern_Art%2C_Tokyo",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/National_Museum_of_Modern_Art_Tokyo.jpg/960px-National_Museum_of_Modern_Art_Tokyo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/National_Museum_of_Modern_Art%2C_Tokyo"
+        },
+        "description": "The National Museum of Modern Art, Tokyo (東京国立近代美術館, Tōkyō Kokuritsu Kindai Bijutsukan), also known as MOMAT, is the foremost museum collecting and exhibiting modern Japanese art. The museum, in Chiyoda, Tokyo, Japan, is known for its collection of 20th-century art and includes Western-style and Nihonga artists. It has a branch, the National Crafts Museum, in the city of Kanazawa.",
+        "lat": 35.69055556,
+        "lng": 139.75472222
+      },
+      {
+        "id": "tokyo-museums-4",
+        "name": "National Museum of Western Art",
+        "cityId": "tokyo",
+        "categoryId": "museums",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=National%20Museum%20of%20Western%20Art%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/National_Museum_of_Western_Art",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/National_museum_of_western_art05s3200.jpg/960px-National_museum_of_western_art05s3200.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/National_Museum_of_Western_Art"
+        },
+        "description": "The National Museum of Western Art (国立西洋美術館, Kokuritsu Seiyō Bijutsukan; lit. \"National Western Art Museum\", NMWA) is the premier public art gallery in Japan specializing in art from the Western tradition. The museum is in the Ueno Park in Taitō, central Tokyo. It received 1,162,345 visitors in 2016.",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "tokyo-museums-5",
+        "name": "National Museum of Nature and Science",
+        "cityId": "tokyo",
+        "categoryId": "museums",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=National%20Museum%20of%20Nature%20and%20Science%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/National_Museum_of_Nature_and_Science",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/NMNC01s3200.jpg/960px-NMNC01s3200.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/National_Museum_of_Nature_and_Science"
+        },
+        "description": "The National Museum of Nature and Science (国立科学博物館, Kokuritsu Kagaku Hakubutsukan) is in the northeast corner of Ueno Park in Tokyo. The museum has exhibitions on pre-Meiji science in Japan. It is the venue of the taxidermied bodies of the legendary dogs Hachikō and Taro and Jiro. A life-size blue whale model and a steam locomotive are also on display outside.",
+        "lat": 35.715939,
+        "lng": 139.776527
+      },
+      {
+        "id": "tokyo-museums-6",
+        "name": "Tokyo Photographic Art Museum",
+        "cityId": "tokyo",
+        "categoryId": "museums",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Tokyo%20Photographic%20Art%20Museum%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Tokyo_Photographic_Art_Museum",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Tokyo_Metropolitan_Museum_of_Photography_entrance_2011_January.jpg/960px-Tokyo_Metropolitan_Museum_of_Photography_entrance_2011_January.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Tokyo_Photographic_Art_Museum"
+        },
+        "description": "The Tokyo Photographic Art Museum (東京都写真美術館, Tōkyō-to Shashin Bijutsukan) is an art museum concentrating on photography. As the Tokyo Metropolitan Museum of Photography, it was founded by the Tokyo Metropolitan Government, and is in Meguro-ku, a short walk from Ebisu station in southwest Tokyo. The museum also has a movie theater. Until 2014, the museum nicknamed itself \"Syabi\" (pronounced shabi); since 2016, it has ",
+        "lat": 35.6417,
+        "lng": 139.7132
+      },
+      {
+        "id": "tokyo-museums-7",
+        "name": "Shinagawa",
+        "cityId": "tokyo",
+        "categoryId": "museums",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Shinagawa%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Shinagawa",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/Meguro-gawa%2C_%C5%8Csaki_01.jpg/960px-Meguro-gawa%2C_%C5%8Csaki_01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Shinagawa"
+        },
+        "description": "Shinagawa (品川区, Shinagawa-ku; Japanese pronunciation: [ɕì.nä́.ɡä́.β̞ä́(.kɯ̈̀), -ŋä́-]) is a special ward in the Tokyo Metropolis in Japan. The ward refers to itself as Shinagawa City in English. It is home to eleven embassies. As of 1 April 2016, Shinagawa had an estimated population of 380,293 and a population density of 16,510 persons per km2. The total area is 22.84 km2. Shinagawa is also commonly used to refer to",
+        "lat": 35.6,
+        "lng": 139.73333333
+      },
+      {
+        "id": "tokyo-museums-8",
+        "name": "Bunkyō",
+        "cityId": "tokyo",
+        "categoryId": "museums",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Bunky%C5%8D%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Bunky%C5%8D",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Tokyo_Dome_2007-12.jpg/960px-Tokyo_Dome_2007-12.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Bunky%C5%8D"
+        },
+        "description": "Bunkyō (文京区, Bunkyō-ku; Japanese pronunciation: [bɯ̈̀ŋ̟́ʲ.k̟ʲj̊ó̞ó̞, -k̟ʲj̊ó̞ò̞.kɯ̈̀, bɯ̈́ŋ̟́ʲ-]) is a special ward in the Tokyo Metropolis in Japan. Situated in the middle of the ward area, Bunkyō is a residential and educational center. Beginning in the Meiji period, literati like Natsume Sōseki, as well as scholars and politicians have lived there. Bunkyō is home to the Tokyo Dome, Judo's Kōdōkan, and the Universi",
+        "lat": 35.71666667,
+        "lng": 139.75
+      },
+      {
+        "id": "tokyo-museums-9",
+        "name": "Natsume Sōseki",
+        "cityId": "tokyo",
+        "categoryId": "museums",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Natsume%20S%C5%8Dseki%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Natsume_S%C5%8Dseki",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Natsume_Soseki_photo.jpg/960px-Natsume_Soseki_photo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Natsume_S%C5%8Dseki"
+        },
+        "description": "Natsume Sōseki (; Japanese: 夏目 漱石; born Natsume Kinnosuke (夏目 金之助); 9 February 1867 – 9 December 1916) was a Japanese novelist, poet, and scholar. He is considered one of the greatest writers in modern Japanese history and is often called the first modern novelist of Japan. Sōseki's fiction explored themes of individualism, loneliness, and the conflict between traditional Japanese values and the rapid Westernization ",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "tokyo-museums-10",
+        "name": "Shibuya",
+        "cityId": "tokyo",
+        "categoryId": "museums",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Shibuya%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Shibuya",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/Shibuya_skyline_from_Tokyu_Plaza_in_Omotesando%2C_Harajuku%2C_Tokyo%2C_2024_May.jpg/960px-Shibuya_skyline_from_Tokyu_Plaza_in_Omotesando%2C_Harajuku%2C_Tokyo%2C_2024_May.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Shibuya"
+        },
+        "description": "Shibuya (渋谷区, Shibuya-ku; IPA: [ɕì.bɯ̈́.jä́(.kɯ̈̀)] ) is a special ward in Tokyo, Japan. A major commercial center, Shibuya houses two of the busiest railway stations in the world, Shibuya Station and Shinjuku Station (southern half). As of January 1, 2024, Shibuya has an estimated population of 230,609 in 142,443 households and a population density of 15,262.01 people per square kilometer (39,528.4 people/mi2). The ",
+        "lat": 35.65944444,
+        "lng": 139.70055556
+      },
+      {
+        "id": "tokyo-museums-11",
+        "name": "Ghibli Museum",
+        "cityId": "tokyo",
+        "categoryId": "museums",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Ghibli%20Museum%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Ghibli_Museum",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Ghibli_Museum_2024.JPG/960px-Ghibli_Museum_2024.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Ghibli_Museum"
+        },
+        "description": "The Ghibli Museum (三鷹の森ジブリ美術館, Mitaka no Mori Jiburi Bijutsukan; Mitaka Forest Ghibli Museum) is a museum showcasing the work of the Japanese animation studio Studio Ghibli. It is located in Inokashira Park in Mitaka, a western city within the Tokyo Metropolitan Area, in Japan. The museum combines features of a children's museum, technology museum, and a fine arts museum and is dedicated to the art and technique of a",
+        "lat": 35.69623333,
+        "lng": 139.57043056
+      },
+      {
+        "id": "tokyo-museums-12",
+        "name": "Palais de Tokyo",
+        "cityId": "tokyo",
+        "categoryId": "museums",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Palais%20de%20Tokyo%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Palais_de_Tokyo",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Palais_de_Tokyo_%40_Paris_%2831028565970%29.jpg/960px-Palais_de_Tokyo_%40_Paris_%2831028565970%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Palais_de_Tokyo"
+        },
+        "description": "The Palais de Tokyo (Tokyo Palace) is a building dedicated to modern and contemporary art, located at 13 avenue du Président-Wilson, facing the Trocadéro, in the 16th arrondissement of Paris. The eastern wing of the building belongs to the City of Paris, and hosts the Musée d'Art Moderne de Paris (Paris' Museum of Modern Art). The western wing belongs to the French state and since 2002, has hosted the Palais de Tokyo",
+        "lat": 48.86408,
+        "lng": 2.29713
+      },
+      {
+        "id": "tokyo-museums-13",
+        "name": "Kōtō",
+        "cityId": "tokyo",
+        "categoryId": "museums",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=K%C5%8Dt%C5%8D%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/K%C5%8Dt%C5%8D",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Great_Harumi_Bridge.jpg/960px-Great_Harumi_Bridge.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/K%C5%8Dt%C5%8D"
+        },
+        "description": "Kōtō (江東区, Kōtō-ku; Japanese pronunciation: [kò̞ó̞.tó̞ó̞, -tó̞ò̞.kɯ̈̀, kó̞ó̞-]) is a special ward in the Tokyo Metropolis in Japan. It is known as Kōtō City in English. As of May 1, 2025, the ward has an estimated population of 543,730, and a population density of 12,648/km2 (32,760/sq mi). The total area is 42.99 km2 (16.60 sq mi). Kōtō is east of the Tokyo metropolitan center, bounded by the Sumida River to the wes",
+        "lat": 35.66666667,
+        "lng": 139.81666667
+      },
+      {
+        "id": "tokyo-museums-14",
+        "name": "Toko Shinoda",
+        "cityId": "tokyo",
+        "categoryId": "museums",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Toko%20Shinoda%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Toko_Shinoda",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4b/T%C5%8Dk%C5%8D_Shinoda.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Toko_Shinoda"
+        },
+        "description": "Toko Shinoda (篠田 桃紅, Shinoda Tōkō; 28 March 1913 – 1 March 2021) was a Japanese artist. Shinoda is best known for her abstract sumi ink paintings and prints. Shinoda's oeuvre was predominantly executed using the traditional means and media of East Asian calligraphy, but her resulting abstract ink paintings and prints express a nuanced visual affinity with the bold black brushstrokes of mid-century abstract expression",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "tokyo-museums-15",
+        "name": "Ueno",
+        "cityId": "tokyo",
+        "categoryId": "museums",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Ueno%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Ueno",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Ueno_park.jpg/960px-Ueno_park.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Ueno"
+        },
+        "description": "Ueno (上野; Japanese pronunciation: [ɯ̈̀.é̞.nó̞]) is a district in Taitō, Tokyo. The area extending from Ueno to Asakusa is part of the historical Shitamachi (literally \"low city\") district of Tokyo, which is often associated with working-class traditions and culture as well as their distinct accent. The district's name roughly translates into \"Upper Field\" in English. The Ueno area, in the strict sense, centres around",
+        "lat": 35.71547,
+        "lng": 139.77402
+      },
+      {
+        "id": "tokyo-museums-16",
+        "name": "Tokyo Disneyland",
+        "cityId": "tokyo",
+        "categoryId": "museums",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Tokyo%20Disneyland%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Tokyo_Disneyland",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Tokyo_Disneyland_Cinderella_Castle_2023-07-02.jpg/960px-Tokyo_Disneyland_Cinderella_Castle_2023-07-02.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Tokyo_Disneyland"
+        },
+        "description": "Tokyo Disneyland (Japanese: 東京ディズニーランド, Hepburn: Tōkyō Dizunīrando; local nickname TDL) is a 126-acre (51 ha) theme park at the Tokyo Disney Resort in Urayasu, near Tokyo in Chiba Prefecture, Japan Its main gate is directly adjacent to both Maihama Station and Tokyo Disneyland Station. It was the first Disney park to be built outside the United States and it opened on April 15, 1983. The park was constructed by WED E",
+        "lat": 35.63277778,
+        "lng": 139.88055556
+      },
+      {
+        "id": "tokyo-museums-17",
+        "name": "Museum of Contemporary Art Tokyo",
+        "cityId": "tokyo",
+        "categoryId": "museums",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Museum%20of%20Contemporary%20Art%20Tokyo%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Museum_of_Contemporary_Art_Tokyo",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Museum_of_Contemporary_Art_Tokyo_2009.jpg/960px-Museum_of_Contemporary_Art_Tokyo_2009.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Museum_of_Contemporary_Art_Tokyo"
+        },
+        "description": "The Museum of Contemporary Art Tokyo (東京都現代美術館, Tōkyō-to Gendai Bijutsukan) is a contemporary art museum in Koto, Tokyo, Japan. The museum is located in Kiba Park. Designed by Takahiko Yanagisawa (TAK Associates), the museum was opened in March 1995. With a total floor area of approximately 33,000 square meters, it is one of the largest contemporary art museums in Japan. The permanent collection comprises approximate",
+        "lat": 35.68,
+        "lng": 139.80805556
+      },
+      {
+        "id": "tokyo-museums-18",
+        "name": "Taitō",
+        "cityId": "tokyo",
+        "categoryId": "museums",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Tait%C5%8D%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Tait%C5%8D",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Honkan%2C_Tokyo_National_Museum_%E2%80%93_Tokyo%2C_Japan_%E2%80%93_%282019-12-30%29.jpg/960px-Honkan%2C_Tokyo_National_Museum_%E2%80%93_Tokyo%2C_Japan_%E2%80%93_%282019-12-30%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Tait%C5%8D"
+        },
+        "description": "Taitō (台東区, Taitō-ku; Japanese pronunciation: [tä̀í.tó̞ó̞, -tó̞ò̞.kɯ̈̀]) is a special ward in the Tokyo Metropolis in Japan. In English, it is known as Taitō City. As of October 1, 2026, the ward has an estimated population of 217,429, and a population density of 21,506 persons per km2. The total area is 10.11 square kilometres (3.90 sq mi). This makes Taito ward the smallest of Tokyo's wards in area, and third-small",
+        "lat": 35.7125,
+        "lng": 139.78
+      }
+    ],
+    "concerts": [
+      {
+        "id": "tokyo-concerts-1",
+        "name": "Sōgakudō Concert Hall",
+        "cityId": "tokyo",
+        "categoryId": "concerts",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=S%C5%8Dgakud%C5%8D%20Concert%20Hall%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/S%C5%8Dgakud%C5%8D_Concert_Hall",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/The_oldest_Tokyo_National_University_of_Fine_Arts_and_Music_Concert_Hall.jpg/960px-The_oldest_Tokyo_National_University_of_Fine_Arts_and_Music_Concert_Hall.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/S%C5%8Dgakud%C5%8D_Concert_Hall"
+        },
+        "description": "The Sōgakudō Concert Hall (奏楽堂) is a concert hall in Taitō, Tokyo, Japan.",
+        "lat": 35.718034,
+        "lng": 139.773125
+      },
+      {
+        "id": "tokyo-concerts-2",
+        "name": "Nagata Acoustics",
+        "cityId": "tokyo",
+        "categoryId": "concerts",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Nagata%20Acoustics%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Nagata_Acoustics",
+        "photo": null,
+        "description": "Nagata Acoustics (永田音響設計, Nagata onkyō sekkei) is an international acoustical consultancy firm. In Japan they have been involved in the design of over seventy concert halls, including the Suntory Hall, Sapporo Concert Hall, Muza Kawasaki Symphony Hall, Kyoto Concert Hall and Hyogo Performing Arts Center; other projects have included the Supreme Court, Tokyo and the sound system for the New National Theatre, Tokyo. Ou",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "tokyo-concerts-3",
+        "name": "Hibiya Open-Air Concert Hall",
+        "cityId": "tokyo",
+        "categoryId": "concerts",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Hibiya%20Open-Air%20Concert%20Hall%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Hibiya_Open-Air_Concert_Hall",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Hibiya_park_-_rainy_day_-_2023_April_16_various.jpeg/960px-Hibiya_park_-_rainy_day_-_2023_April_16_various.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Hibiya_Open-Air_Concert_Hall"
+        },
+        "description": "The Hibiya Open-Air Concert Hall (Japanese: 日比谷野外音楽堂, Hepburn: Hibiya Yagai Ongakudō) is an outdoor music venue in Hibiya Park, located in Chiyoda, Tokyo, Japan. Owned and managed by the Tokyo Metropolitan Government, music events are limited to weekends and holidays between April and October out of consideration for the surrounding urban area. The venue closed for extensive rebuilding on October 1, 2025. There are a",
+        "lat": 35.67236,
+        "lng": 139.75403
+      },
+      {
+        "id": "tokyo-concerts-4",
+        "name": "Tokyo Bunka Kaikan",
+        "cityId": "tokyo",
+        "categoryId": "concerts",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Tokyo%20Bunka%20Kaikan%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Tokyo_Bunka_Kaikan",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/Tokyo_bunka_kaikan01s3200.jpg/960px-Tokyo_bunka_kaikan01s3200.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Tokyo_Bunka_Kaikan"
+        },
+        "description": "The Tokyo Bunka Kaikan (東京文化会館) is a Japanese concert hall located in Ueno Park, Taitō, Tokyo. Designed by Japanese architect Kunio Maekawa, it was built in 1961 and renovated in 1998–99. Its larger hall seats 2303 people, and its small hall seats 649. It is operated by the Tokyo Metropolitan Foundation for History and Culture.",
+        "lat": 35.71416667,
+        "lng": 139.77527778
+      },
+      {
+        "id": "tokyo-concerts-5",
+        "name": "Shibuya-AX",
+        "cityId": "tokyo",
+        "categoryId": "concerts",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Shibuya-AX%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Shibuya-AX",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Shibuya-AX-01.jpg/960px-Shibuya-AX-01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Shibuya-AX"
+        },
+        "description": "Shibuya-AX (stylized as SHIBUYA-AX) was a concert hall in Tokyo, Japan, near the Yoyogi National Gymnasium.",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "tokyo-concerts-6",
+        "name": "NHK Hall",
+        "cityId": "tokyo",
+        "categoryId": "concerts",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=NHK%20Hall%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/NHK_Hall",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/NHK-Hall_2016.jpg/960px-NHK-Hall_2016.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/NHK_Hall"
+        },
+        "description": "The NHK Hall is a concert hall located at the NHK Broadcasting Center, the main headquarters of Japan's public broadcaster NHK. The hall is the main venue for the NHK Symphony Orchestra, but it has also played host to other events, such as the 1979 Japan Music Awards and NHK's annual New Year's Eve special Kōhaku Uta Gassen.",
+        "lat": 35.66634722,
+        "lng": 139.69737778
+      },
+      {
+        "id": "tokyo-concerts-7",
+        "name": "NHK Symphony Orchestra",
+        "cityId": "tokyo",
+        "categoryId": "concerts",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=NHK%20Symphony%20Orchestra%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/NHK_Symphony_Orchestra",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/NHK_Symphony_Orchestra%2C_Takanawa_-_Jan_25%2C_2018.jpg/960px-NHK_Symphony_Orchestra%2C_Takanawa_-_Jan_25%2C_2018.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/NHK_Symphony_Orchestra"
+        },
+        "description": "The NHK Symphony Orchestra (NHK交響楽団, NHK Kōkyō Gakudan) is a Japanese broadcast orchestra based in Tokyo. The orchestra gives concerts in several venues, including the NHK Hall, Suntory Hall, and the Tokyo Opera City Concert Hall.",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "tokyo-concerts-8",
+        "name": "Nakano Sunplaza",
+        "cityId": "tokyo",
+        "categoryId": "concerts",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Nakano%20Sunplaza%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Nakano_Sunplaza",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/Nakano_Sunplaza_23.jpg/960px-Nakano_Sunplaza_23.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Nakano_Sunplaza"
+        },
+        "description": "Nakano Sunplaza (中野サンプラザ, Nakano Sanpuraza) was a Japanese concert hall and hotel complex located in Nakano, Tokyo. It opened in 1973 and closed in 2023. The future of the complex is uncertain, with further plans likely coming in March 2026.",
+        "lat": 35.707522,
+        "lng": 139.664684
+      },
+      {
+        "id": "tokyo-concerts-9",
+        "name": "Suntory Hall",
+        "cityId": "tokyo",
+        "categoryId": "concerts",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Suntory%20Hall%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Suntory_Hall",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Suntory_Hall_2018.jpg/960px-Suntory_Hall_2018.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Suntory_Hall"
+        },
+        "description": "The Suntory Hall (サントリーホール) is a concert venue in the central Akasaka district of Tokyo, Japan. Part of the Ark Hills complex, it consists of a main concert hall, widely considered one of the finest in the world for its acoustics – Herbert von Karajan called it \"a jewel box of sound\" – and a smaller side-hall for chamber music. Its roof is an extended, tiered, landscape garden. Construction began in the late 1970s an",
+        "lat": 35.66663889,
+        "lng": 139.74138889
+      },
+      {
+        "id": "tokyo-concerts-10",
+        "name": "Tokyo Symphony Orchestra",
+        "cityId": "tokyo",
+        "categoryId": "concerts",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Tokyo%20Symphony%20Orchestra%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Tokyo_Symphony_Orchestra",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Muza-May.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Tokyo_Symphony_Orchestra"
+        },
+        "description": "The Tokyo Symphony Orchestra (東京交響楽団, Tōkyō Kōkyō Gakudan) (TSO) is a Japanese orchestra, administratively based in Kawasaki. The orchestra offers subscription concert series at its home, the Muza Kawasaki Symphony Hall and at Suntory Hall, the Concert Hall of the Tokyo Metropolitan Theatre, and Tokyo Opera City. It also serves as the opera orchestra for selected opera productions at New National Theatre Tokyo.",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "tokyo-concerts-11",
+        "name": "Yomiuri Nippon Symphony Orchestra",
+        "cityId": "tokyo",
+        "categoryId": "concerts",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Yomiuri%20Nippon%20Symphony%20Orchestra%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Yomiuri_Nippon_Symphony_Orchestra",
+        "photo": null,
+        "description": "The Yomiuri Nippon Symphony Orchestra (読売日本交響楽団, Yomiuri Nippon Kōkyō Gakudan) is a Japanese symphony orchestra administratively based in Tokyo. The orchestra primarily performs concerts in Tokyo at the Suntory Hall, but also gives concerts at the Tokyo Opera City Concert Hall and also performs in Yokohama at the Yokohama Minato Mirai Hall.",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "tokyo-concerts-12",
+        "name": "Casals Hall",
+        "cityId": "tokyo",
+        "categoryId": "concerts",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Casals%20Hall%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Casals_Hall",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/170312_Nihon_University_Ochanomizu_Square_Building_Tokyo_Japan01s3.jpg/960px-170312_Nihon_University_Ochanomizu_Square_Building_Tokyo_Japan01s3.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Casals_Hall"
+        },
+        "description": "Casals Hall (カザルスホール, Kazarusu Hōru) is a concert hall in Ochanomizu, Tokyo, Japan. It is named in honour of cellist Pau Casals. The hall opened in 1987 as a venue for chamber music and has a shoebox-style auditorium which seats 511. Arata Isozaki was the architect, with acoustic design by Nagata Acoustics. In 1997, for the tenth anniversary celebrations, a 41 stop organ by Jürgen Ahrend was installed. The hall had o",
+        "lat": 35.69722222,
+        "lng": 139.7625
+      },
+      {
+        "id": "tokyo-concerts-13",
+        "name": "Yasuhisa Toyota",
+        "cityId": "tokyo",
+        "categoryId": "concerts",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Yasuhisa%20Toyota%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Yasuhisa_Toyota",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/20130118_Bing_from_the_choral_Terrace_phil_King.jpg/960px-20130118_Bing_from_the_choral_Terrace_phil_King.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Yasuhisa_Toyota"
+        },
+        "description": "Yasuhisa Toyota (豊田 泰久, Toyota Yasuhisa) (born 1952) is a Japanese acoustician, who has been chief acoustician for over 50 projects worldwide, including the Walt Disney Concert Hall, Suntory Hall in Tokyo, the Bard College Performing Arts Center in New York, the Elbphilharmonie in Hamburg, and the Kauffman Center for the Performing Arts in Kansas City. He is the company director and U.S. Representative of Nagata Acou",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "tokyo-concerts-14",
+        "name": "Tokyo Kōsei Nenkin Kaikan",
+        "cityId": "tokyo",
+        "categoryId": "concerts",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Tokyo%20K%C5%8Dsei%20Nenkin%20Kaikan%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Tokyo_K%C5%8Dsei_Nenkin_Kaikan",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Tokyo_kosei_nenkin_kaikan_shinjuku_tokyo_2009.JPG/960px-Tokyo_kosei_nenkin_kaikan_shinjuku_tokyo_2009.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Tokyo_K%C5%8Dsei_Nenkin_Kaikan"
+        },
+        "description": "Tokyo Kōsei Nenkin Kaikan (東京厚生年金会館), also known as Wel City Tokyo, was a 2,062-seat (1st floor: 1,186 seats, 2nd floor: 876 seats) concert hall in Tokyo, one of a number of public concert halls in Japan called Kōsei Nenkin Kaikan. John Coltrane's quintet performed here on their Japanese tour (1966). Dutch band Shocking Blue who were internationally famous after topping the US charts with their hit \"Venus\", performed",
+        "lat": 35.692,
+        "lng": 139.7113
+      },
+      {
+        "id": "tokyo-concerts-15",
+        "name": "Bunkamura",
+        "cityId": "tokyo",
+        "categoryId": "concerts",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Bunkamura%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Bunkamura",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/Bunkamura.JPG/960px-Bunkamura.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Bunkamura"
+        },
+        "description": "The Bunkamura (文化村; Japanese for \"cultural enclave\") is a concert hall, theater and museum located in Shibuya, Tokyo, Japan. Located next to the Tokyu Department Store, it is operated by the Tokyu Bunkamura, Inc. of the Tokyu Group. Bunkamura opened on September 3, 1989, being the first large-scale cultural complex in Japan when it opened. A long-term redevelopment process for the local area began on April 10, 2023, ",
+        "lat": 35.66083333,
+        "lng": 139.695
+      },
+      {
+        "id": "tokyo-concerts-16",
+        "name": "Ueno",
+        "cityId": "tokyo",
+        "categoryId": "concerts",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Ueno%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Ueno",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Ueno_park.jpg/960px-Ueno_park.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Ueno"
+        },
+        "description": "Ueno (上野; Japanese pronunciation: [ɯ̈̀.é̞.nó̞]) is a district in Taitō, Tokyo. The area extending from Ueno to Asakusa is part of the historical Shitamachi (literally \"low city\") district of Tokyo, which is often associated with working-class traditions and culture as well as their distinct accent. The district's name roughly translates into \"Upper Field\" in English. The Ueno area, in the strict sense, centres around",
+        "lat": 35.71547,
+        "lng": 139.77402
+      },
+      {
+        "id": "tokyo-concerts-17",
+        "name": "Mickey's PhilharMagic",
+        "cityId": "tokyo",
+        "categoryId": "concerts",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Mickey's%20PhilharMagic%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Mickey's_PhilharMagic",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/en/c/c5/Tokyo_Disneyland_Mickeys_Philhar_Magic.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Mickey's_PhilharMagic"
+        },
+        "description": "Mickey's PhilharMagic is a 4D film attraction found at several Disney theme parks around the world, including Magic Kingdom theme park at the Walt Disney World Resort, Hong Kong Disneyland, Tokyo Disneyland, Disneyland Park (Paris), and Disney California Adventure. The film was directed by George Scribner, who also directed Disney's 1988 animated film Oliver & Company. Mickey's PhilharMagic is a 12-minute-long show f",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "tokyo-concerts-18",
+        "name": "Arata Isozaki",
+        "cityId": "tokyo",
+        "categoryId": "concerts",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Arata%20Isozaki%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Arata_Isozaki",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/ARATA_ISOZAKI%2C_ARCHITECT_01.jpg/960px-ARATA_ISOZAKI%2C_ARCHITECT_01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Arata_Isozaki"
+        },
+        "description": "Arata Isozaki (磯崎 新, Isozaki Arata; 23 July 1931 – 28 December 2022) was a Japanese architect, urban designer, and architectural theorist from Ōita. He was awarded the Royal Gold Medal in 1986 and the Pritzker Architecture Prize in 2019. He taught at Columbia University, Harvard University, and Yale University.",
+        "lat": null,
+        "lng": null
+      }
+    ],
+    "fashion": [
+      {
+        "id": "tokyo-fashion-1",
+        "name": "Death of Akiyo Asaki",
+        "cityId": "tokyo",
+        "categoryId": "fashion",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Death%20of%20Akiyo%20Asaki%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Death_of_Akiyo_Asaki",
+        "photo": null,
+        "description": "Akiyo Asaki (朝木明代, Asaki Akiyo; 1944–1995) was a Tokyo councilwoman whose death following allegations of petty theft - which has been ruled suicide by the Tokyo police - has been linked to \"mysterious\" circumstances surrounding Soka Gakkai involvement. Asaki was notable in Tokyo for making comments critical of Soka Gakkai.",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "tokyo-fashion-2",
+        "name": "X-Large",
+        "cityId": "tokyo",
+        "categoryId": "fashion",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=X-Large%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/X-Large_(clothing_brand)",
+        "photo": null,
+        "description": "X-Large is an American streetwear brand and clothing store based in Los Angeles, California. It was founded by Eli Bonerz and Adam Silverman in 1991, based on an idea from Mike D. Since then, the company has expanded the business in New York City, Tokyo, Seattle, and Toronto, among others. The sister brand X-Girl was founded by Kim Gordon and Daisy von Furth. Sofia Coppola and Spike Jonze produced X-Girl's first fash",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "tokyo-fashion-3",
+        "name": "Terri Stickles",
+        "cityId": "tokyo",
+        "categoryId": "fashion",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Terri%20Stickles%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Terri_Stickles",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/en/7/7d/SticklesTerri1964SwimOlympian.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Terri_Stickles"
+        },
+        "description": "Terri Lee Stickles (born May 11, 1946) is an American former competition swimmer, Olympic medalist, and former world record-holder. Terri Stickles was born May 11, 1946 in San Mateo, California, to Edward A. Stickles, a West Coast credit manager for a large clothing store, and Olive W. Stickles, a physical education teacher and former coach. By the age of ten, Terri began her competitive training with the San Mateo M",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "tokyo-fashion-4",
+        "name": "Yohji Yamamoto",
+        "cityId": "tokyo",
+        "categoryId": "fashion",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Yohji%20Yamamoto%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Yohji_Yamamoto",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Yohji_Yamamoto%2C_New_York_Fashion_Week%2C_February_2010.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Yohji_Yamamoto"
+        },
+        "description": "Yohji Yamamoto (山本 耀司, Yamamoto Yōji; born 3 October 1943) is a Japanese fashion designer based in Tokyo and Paris. He is considered a master tailor, alongside those such as Madeleine Vionnet, and is best known for his avant-garde tailoring featuring Japanese design aesthetics. Yamamoto has won notable awards for his contributions to fashion, including the Chevalier/Officier/Commandeur of Ordre des Arts et des Lettre",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "tokyo-fashion-5",
+        "name": "Paul Stuart",
+        "cityId": "tokyo",
+        "categoryId": "fashion",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Paul%20Stuart%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Paul_Stuart",
+        "photo": null,
+        "description": "Paul Stuart is a men's traditional Ivy style clothing brand founded in 1938 in New York City. Currently operating four standalone boutiques in the US, Paul Stuart has been described as a blend of “Savile Row, Connecticut living and the concrete canyons of New York.” The Paul Stuart logo is a drawing of fictional character Dink Stover at Yale University. The brand was owned by Mitsui from 2012 to 2025. Worldwide right",
+        "lat": 40.754941,
+        "lng": -73.978672
+      },
+      {
+        "id": "tokyo-fashion-6",
+        "name": "Sharon Stouder",
+        "cityId": "tokyo",
+        "categoryId": "fashion",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Sharon%20Stouder%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Sharon_Stouder",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/17/Sharon_Stouder_1965.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Sharon_Stouder"
+        },
+        "description": "Sharon Marie Stouder (November 9, 1948 – June 23, 2013), also known by her married name Sharon Stouder Clark, was an American competition swimmer, three-time Olympic champion, and former world record-holder in four events.",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "tokyo-fashion-7",
+        "name": "Beams",
+        "cityId": "tokyo",
+        "categoryId": "fashion",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Beams%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Beams_(brand)",
+        "photo": null,
+        "description": "Beams (ビームス) is a Japanese clothing brand established in 1976 in Harajuku, Tokyo by Etsuzo Shitara. The current CEO is Yō Shitara (設楽洋). The brand has 167 stores in Japan, and 10 stores overseas, including in Milan, London, and Paris.",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "tokyo-fashion-8",
+        "name": "Takadanobaba Station",
+        "cityId": "tokyo",
+        "categoryId": "fashion",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Takadanobaba%20Station%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Takadanobaba_Station",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Takadanobaba_Station_Waseda_entrance_2026-07-20.jpg/960px-Takadanobaba_Station_Waseda_entrance_2026-07-20.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Takadanobaba_Station"
+        },
+        "description": "Takadanobaba Station (Japanese: 高田馬場駅, Hepburn: Takadanobaba-eki; Japanese pronunciation: [ta.ka.da no baꜜ.ba, ta.ka.da no ba.baꜜ.e.kʲi]) is a railway station in the Takadanobaba area of Tokyo's Shinjuku ward, situated between the commercial districts of Ikebukuro and Shinjuku. The station is a major commuting hub, linking the Seibu Shinjuku Line, Tokyo Metro Tōzai Line and Yamanote Line. It also serves the surroundi",
+        "lat": 35.71277778,
+        "lng": 139.70388889
+      },
+      {
+        "id": "tokyo-fashion-9",
+        "name": "Noriko Hidaka",
+        "cityId": "tokyo",
+        "categoryId": "fashion",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Noriko%20Hidaka%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Noriko_Hidaka",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/36/%E6%97%A5%E3%81%AE%E3%82%8A%E5%AD%90.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Noriko_Hidaka"
+        },
+        "description": "Noriko Itō (伊東 範子, Itō Noriko; born May 31, 1962), better known by the stage name of Noriko Hidaka (日髙 のり子, Hidaka Noriko), is a Japanese actress, voice actress, singer and narrator. She played Minami Asakura in Touch, Akane Tendo in Ranma ½, Satsuki Kusakabe in My Neighbor Totoro, Near in Death Note, Jean Roque Raltique in Nadia: The Secret of Blue Water, Kikyō in Inuyasha,Yuki Tsukumo in Jujutsu Kaisen, Patricia O'",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "tokyo-fashion-10",
+        "name": "Akinoumi Setsuo",
+        "cityId": "tokyo",
+        "categoryId": "fashion",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Akinoumi%20Setsuo%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Akinoumi_Setsuo",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Akinoumi.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Akinoumi_Setsuo"
+        },
+        "description": "Akinoumi Setsuo (Japanese: 安藝ノ海 節男, Hepburn: Akinoumi Setsuo; May 30, 1914 – March 25, 1979), born Nagata Setsuo (永田 節男), was a Japanese professional sumo wrestler from Hiroshima. He was the sport's 37th yokozuna.",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "tokyo-fashion-11",
+        "name": "Sogo",
+        "cityId": "tokyo",
+        "categoryId": "fashion",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Sogo%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Sogo",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/SOGO_Yokohama_001.JPG/960px-SOGO_Yokohama_001.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Sogo"
+        },
+        "description": "Sogo Co., Ltd. (株式会社そごう, Kabushiki gaisha Sogō) is a department store chain with a significant presence in Japan. It operates a network of branches in various countries and has a long history dating back to 1830 when it was founded in Osaka by Ihei Sogō. The company is known for its retail offerings, including clothing, household goods and food products. In 2009, Sogo merged with Seibu Department Stores (The Seibu De",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "tokyo-fashion-12",
+        "name": "Okoge",
+        "cityId": "tokyo",
+        "categoryId": "fashion",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Okoge%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Okoge_(film)",
+        "photo": null,
+        "description": "Okoge (おこげ; lit. 'Fag Hag') is a gay-themed Japanese comedy drama film written and directed by Takehiro Nakajima, theatrically released on October 10, 1992, in Japan. The film was also screened at the 2nd Tokyo International Lesbian & Gay Film Festival. Its title comes from Japanese slang for a woman who prefers the company of gay men; okama (おかま or オカマ, cooking pot) is used as a slang reference for gay men, and by a",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "tokyo-fashion-13",
+        "name": "Lightning",
+        "cityId": "tokyo",
+        "categoryId": "fashion",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Lightning%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Lightning_(1952_film)",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/11/Inazuma_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Lightning_(1952_film)"
+        },
+        "description": "Lightning (Japanese: 稲妻, Hepburn: Inazuma) is a 1952 Japanese drama film directed by Mikio Naruse, and starring Hideko Takamine. It is based on the 1936 novel by Fumiko Hayashi and was the second in a series of adaptations of Hayashi's work by Naruse after the 1951 Repast.",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "tokyo-fashion-14",
+        "name": "Hozunyam",
+        "cityId": "tokyo",
+        "categoryId": "fashion",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Hozunyam%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Hozunyam",
+        "photo": null,
+        "description": "Hozumi Numajiri (沼尻 帆泉, Numajiri Hozumi; born August 18, 1991), better known as Hozunyam (ほずにゃむ, Hozunyamu), is a Japanese gyaru fashion model. A hostess living in Tokyo, she is best known for appearing in the Koakuma Ageha fashion magazine and, since her 2010 debut in the magazine, has been well known for her real personal story of a romance with her ex-boyfriend, Bara (バラ), an American motorcycle gang leader.",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "tokyo-fashion-15",
+        "name": "Nana",
+        "cityId": "tokyo",
+        "categoryId": "fashion",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Nana%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Nana_(manga)",
+        "photo": null,
+        "description": "Nana (stylized as NANA) is a Japanese manga series written and illustrated by Ai Yazawa. First published as a two-part prologue in Shueisha's monthly shōjo manga magazine Cookie in 1999, Nana was later serialized in the same magazine from May 2000 to May 2009 before going on indefinite hiatus. Its chapters have been collected in 21 tankōbon volumes. The series centers on Nana Osaki and Nana Komatsu, two women who mov",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "tokyo-fashion-16",
+        "name": "Nagaru Tanigawa",
+        "cityId": "tokyo",
+        "categoryId": "fashion",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Nagaru%20Tanigawa%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Nagaru_Tanigawa",
+        "photo": null,
+        "description": "Nagaru Tanigawa (谷川 流, Tanigawa Nagaru; born December 19, 1970) is a Japanese author. He is a graduate of the law school at Kwansei Gakuin University. He is best known as the creator of the Haruhi Suzumiya light novel series, which was adapted into an anime television series and film, and for which he won the Grand Prize at the eighth annual Sneaker Awards. While Tanigawa was on hiatus from writing his light novel se",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "tokyo-fashion-17",
+        "name": "The 5.6.7.8's",
+        "cityId": "tokyo",
+        "categoryId": "fashion",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=The%205.6.7.8's%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/The_5.6.7.8's",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/The_5.6.7.8%27s_1994.jpg/960px-The_5.6.7.8%27s_1994.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/The_5.6.7.8's"
+        },
+        "description": "The 5.6.7.8's are a Japanese rock band from Tokyo that formed in 1986. Since 1992, the band's line-up has consisted of Ronnie Fujiyama (vocals, guitar), her sister Sachiko Fujii (drums, vocals; née Fujiyama) and Akiko Omo (bass, vocals). Outside of Japan, the band are best known for their performance in 2003's Kill Bill: Volume 1. The band's music contains a retro-inspired sound that draws heavily from the 1960s gara",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "tokyo-fashion-18",
+        "name": "Sway",
+        "cityId": "tokyo",
+        "categoryId": "fashion",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Sway%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Sway_(Japanese_rapper)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Nogae_Shunhei_from_%22jam%22_at_Opening_Ceremony_of_the_Tokyo_International_Film_Festival_2018_%2831746963768%29.jpg/960px-Nogae_Shunhei_from_%22jam%22_at_Opening_Ceremony_of_the_Tokyo_International_Film_Festival_2018_%2831746963768%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Sway_(Japanese_rapper)"
+        },
+        "description": "Shuhei Nogae (野替愁平, Nogae Shuhei; born June 9, 1986), better known with his stage name Sway (stylized in all capitals) is a Japanese rapper and actor. He is signed to Def Jam Recordings and is a member of the group Doberman Infinity, of Exile's theater company (Gekidan Exile).",
+        "lat": null,
+        "lng": null
+      }
+    ],
+    "shops": [
+      {
+        "id": "tokyo-shops-1",
+        "name": "Tokyo Disney Resort",
+        "cityId": "tokyo",
+        "categoryId": "shops",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Tokyo%20Disney%20Resort%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Tokyo_Disney_Resort",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Tokyo_Disneyland_%281-1_crop%29.jpg/960px-Tokyo_Disneyland_%281-1_crop%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Tokyo_Disney_Resort"
+        },
+        "description": "Tokyo Disney Resort (東京ディズニーリゾート, Tōkyō Dizunī Rizōto) (local nickname TDR) is a theme park and vacation resort located in Urayasu, Chiba, Japan, just east of Tokyo. The resort is owned and operated by the Oriental Land Co., a subsidiary of the Keisei Electric Railway, under a license from The Walt Disney Company, which designed and constructed the resort and its various attractions through its Imagineering research ",
+        "lat": 35.62972222,
+        "lng": 139.88277778
+      },
+      {
+        "id": "tokyo-shops-2",
+        "name": "American Hi-Fi",
+        "cityId": "tokyo",
+        "categoryId": "shops",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=American%20Hi-Fi%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/American_Hi-Fi",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/21/Arentzen.Johnson.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/American_Hi-Fi"
+        },
+        "description": "American Hi-Fi is an American rock band formed in Boston, Massachusetts in 1998. The band consists of lead vocalist and rhythm guitarist Stacy Jones, lead guitarist Jamie Arentzen, bassist and backing vocalist Drew Parsons, and drummer Brian Nolan. Prior to the group's formation, Jones was well known for being a drummer in the successful alternative rock bands Veruca Salt and Letters to Cleo. American Hi-Fi has a clo",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "tokyo-shops-3",
+        "name": "Tomy",
+        "cityId": "tokyo",
+        "categoryId": "shops",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Tomy%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Tomy",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/TAKARA_TOMY_logo.svg/960px-TAKARA_TOMY_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Tomy"
+        },
+        "description": "Tomy Company, Ltd. (Japanese: 株式会社タカラトミー, Hepburn: Kabushikigaisha Takara Tomī; trading as TakaraTomy in Asia and Tomy elsewhere) is a Japanese toy and entertainment company. It was established in 1924 by Eiichirō Tomiyama as the Tomiyama Toy Manufacturing Company became known for creating popular toys like the B-29 friction toy and luck-based game Pop-up Pirate. In 2006, Tomy merged with another toy manufacturer, Ta",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "tokyo-shops-4",
+        "name": "Ramen shop",
+        "cityId": "tokyo",
+        "categoryId": "shops",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Ramen%20shop%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Ramen_shop",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/%E6%9D%B1%E6%AD%A6%E3%82%89%E3%83%BC%E3%82%81%E3%82%9320240512-P1042538.jpg/960px-%E6%9D%B1%E6%AD%A6%E3%82%89%E3%83%BC%E3%82%81%E3%82%9320240512-P1042538.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Ramen_shop"
+        },
+        "description": "A ramen shop is a restaurant that specializes in ramen dishes, the wheat-flour Japanese noodles in broth. In Japan, ramen shops are very common and popular, and are sometimes referred to as ramen-ya (ラーメン屋) or ramen-ten (ラーメン店). Some ramen shops operate in short-order style, while others provide patrons with sit-down service. Over 10,000 ramen shops exist in Japan, and the dish has gained popularity around the world.",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "tokyo-shops-5",
+        "name": "Pet Shop of Horrors",
+        "cityId": "tokyo",
+        "categoryId": "shops",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Pet%20Shop%20of%20Horrors%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Pet_Shop_of_Horrors",
+        "photo": null,
+        "description": "Pet Shop of Horrors is a Japanese manga series written and illustrated by Matsuri Akino. It was serialized in Ohzora Publishing's Apple Mystery, and later in Bunkasha's Horror M from 1994 to 1998, with its chapters collected in ten tankōbon volumes. The series focuses on the eccentric Count D, proprietor of a mysterious pet shop located in the heart of Chinatown, and the numerous patrons who visit his supernatural sh",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "tokyo-shops-6",
+        "name": "Tokyo Philharmonic Orchestra",
+        "cityId": "tokyo",
+        "categoryId": "shops",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Tokyo%20Philharmonic%20Orchestra%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Tokyo_Philharmonic_Orchestra",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/%E6%9D%B1%E4%BA%AC%E3%83%95%E3%82%A3%E3%83%AB%E3%83%8F%E3%83%BC%E3%83%A2%E3%83%8B%E3%83%BC%E4%BA%A4%E9%9F%BF%E6%A5%BD%E5%9B%A3201001.jpg/960px-%E6%9D%B1%E4%BA%AC%E3%83%95%E3%82%A3%E3%83%AB%E3%83%8F%E3%83%BC%E3%83%A2%E3%83%8B%E3%83%BC%E4%BA%A4%E9%9F%BF%E6%A5%BD%E5%9B%A3201001.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Tokyo_Philharmonic_Orchestra"
+        },
+        "description": "The Tokyo Philharmonic Orchestra (東京フィルハーモニー交響楽団, Tōkyō firuhāmonī kōkyō gakudan) is recognized as the oldest symphony orchestra in Japan. It was founded in 1911 and debuted at the original Matsuzakaya store in Nagoya as the Itō Textiles Shop Youth Band (いとう呉服店少年音楽隊, Itō gofukuten shōnen ongakutai). It relocated to Tokyo in 1938. As of 2024, it has 166 members. The orchestra plays frequently at Tokyo Opera City in Sh",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "tokyo-shops-7",
+        "name": "Animate",
+        "cityId": "tokyo",
+        "categoryId": "shops",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Animate%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Animate_(retailer)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Animate_head_office.jpg/960px-Animate_head_office.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Animate_(retailer)"
+        },
+        "description": "Animate Ltd. (株式会社アニメイト, Kabushiki gaisha Animeito) is the retailing arm of Movic and is the largest retailer of anime, video games and manga in Japan. The first flagship store of Animate was opened in 1983 in Ikebukuro, a district in Tokyo, Japan.",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "tokyo-shops-8",
+        "name": "Pinocchio's Daring Journey",
+        "cityId": "tokyo",
+        "categoryId": "shops",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Pinocchio's%20Daring%20Journey%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Pinocchio's_Daring_Journey",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/31/Pinocchio%27s_Daring_Journey.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Pinocchio's_Daring_Journey"
+        },
+        "description": "Pinocchio's Daring Journey is a dark ride at Tokyo Disneyland, Disneyland, and Disneyland Park (Paris). Located in the Fantasyland section of each park, this ride is based on Disney's 1940 animated film version of the classic story, which was the studio's second animated feature film. The attraction tells an abbreviated version of the film, with Pinocchio escaping from Stromboli's puppet show and visiting Pleasure Is",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "tokyo-shops-9",
+        "name": "ESP Guitars",
+        "cityId": "tokyo",
+        "categoryId": "shops",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=ESP%20Guitars%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/ESP_Guitars",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/ESP_Logo.svg/960px-ESP_Logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/ESP_Guitars"
+        },
+        "description": "ESP Company, Limited (株式会社イーエスピー, Kabushiki Gaisha Ī Esu Pī) is a Japanese guitar manufacturer, primarily focussed on the production of electric guitars and basses. They are based in both Tokyo and Los Angeles, with distinct product-lines for each market. ESP Company manufactures instruments under several names, including \"ESP Standard\", \"ESP Custom Shop\", \"LTD Guitars and Basses\", \"Navigator\", \"Edwards Guitars and B",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "tokyo-shops-10",
+        "name": "Doutor Coffee",
+        "cityId": "tokyo",
+        "categoryId": "shops",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Doutor%20Coffee%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Doutor_Coffee",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Doutor_Coffee_Shop_Kita-Shinsaibashi%2C_Osaka_in_201509.JPG/960px-Doutor_Coffee_Shop_Kita-Shinsaibashi%2C_Osaka_in_201509.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Doutor_Coffee"
+        },
+        "description": "Doutor Coffee (Japanese: 株式会社ドトールコーヒー) is a Japanese retail company that specializes in coffee roasting and coffee shop franchising. It was founded by Toriba Hiromichi.",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "tokyo-shops-11",
+        "name": "Mitsui",
+        "cityId": "tokyo",
+        "categoryId": "shops",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Mitsui%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Mitsui",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/MITSUI2.png/960px-MITSUI2.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Mitsui"
+        },
+        "description": "Mitsui Group (三井グループ, Mitsui Gurūpu) is a group of autonomous Japanese multinational companies. The major companies of the group include Mitsui & Co. (general trading company), Sumitomo Mitsui Banking Corporation, Nippon Paper Industries, Pokka Sapporo Holdings, Toray Industries, Mitsui Chemicals, Isetan Mitsukoshi Holdings, Sumitomo Mitsui Trust Holdings, Mitsui E&S, Mitsui OSK Lines and Mitsui Fudosan.",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "tokyo-shops-12",
+        "name": "Fujiya",
+        "cityId": "tokyo",
+        "categoryId": "shops",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Fujiya%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Fujiya",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Ginza_FUJIYA_2006.jpg/960px-Ginza_FUJIYA_2006.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Fujiya"
+        },
+        "description": "Fujiya Co. Ltd. (株式会社不二家, Kabushiki Gaisha Fujiya) (TYO: 2211) is a nationwide chain of confectionery stores and restaurants in Japan. Its first shop was founded in 1910 in Yokohama. Fujiya is credited with introducing the Christmas cake to Japan. In 2016, the company opened its first store outside Japan in Taipei, Taiwan.",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "tokyo-shops-13",
+        "name": "Ramen Jiro",
+        "cityId": "tokyo",
+        "categoryId": "shops",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Ramen%20Jiro%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Ramen_Jiro",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/%E3%83%A9%E3%83%BC%E3%83%A1%E3%83%B3%E4%BA%8C%E9%83%8E_%E4%B8%89%E7%94%B0%E6%9C%AC%E5%BA%97_2015_%2824631072969%29.jpg/960px-%E3%83%A9%E3%83%BC%E3%83%A1%E3%83%B3%E4%BA%8C%E9%83%8E_%E4%B8%89%E7%94%B0%E6%9C%AC%E5%BA%97_2015_%2824631072969%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Ramen_Jiro"
+        },
+        "description": "Ramen Jiro (Japanese: ラーメン二郎, Hepburn: Rāmen Jirō) is a Japanese chain of ramen shops founded by Takumi Yamada. Yamada opened the first Ramen Jiro in Meguro, Tokyo in 1968. As of 2018, there are approximately 40 locations across Japan, over 30 of which are in the greater Tokyo area. Ramen Jiro is known for its large portions and its distinctly flavored broth, which enthusiasts call \"Jirolian style.\" In 2009, The Guar",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "tokyo-shops-14",
+        "name": "Yatai",
+        "cityId": "tokyo",
+        "categoryId": "shops",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Yatai%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Yatai_(food_cart)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Yomise%28Yatai%29.JPG/960px-Yomise%28Yatai%29.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Yatai_(food_cart)"
+        },
+        "description": "A yatai (屋台) is a small, mobile food stall in Japan typically selling ramen or other food. The name literally means \"shop stand\". The stall is set up in the early evening on walkways and removed late at night or in the early morning hours. Though the practice of mobile food stands dates back to the 17th century, yatai became popular and widespread in the Meiji period (1868–1912) and were two-wheeled pushcarts constru",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "tokyo-shops-15",
+        "name": "Sanrio Puroland",
+        "cityId": "tokyo",
+        "categoryId": "shops",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Sanrio%20Puroland%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Sanrio_Puroland",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Sanriopuroland-outside-summer2007.jpg/960px-Sanriopuroland-outside-summer2007.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Sanrio_Puroland"
+        },
+        "description": "Sanrio Puroland (サンリオピューロランド, Sanrio Pyūrorando), also known as Hello Kitty Land, is an indoor theme park located in Tama New Town, Tokyo, Japan. Opened on December 7, 1990, it hosts attractions, live shows, shopping outlets, and restaurants dedicated to Sanrio characters such as Hello Kitty, My Melody, Cinnamoroll, Gudetama, and Aggretsuko, in a manner akin to Disney theme parks. Sanrio Puroland attracts over 1.5 mi",
+        "lat": 35.62444444,
+        "lng": 139.42916667
+      },
+      {
+        "id": "tokyo-shops-16",
+        "name": "Culture Convenience Club",
+        "cityId": "tokyo",
+        "categoryId": "shops",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Culture%20Convenience%20Club%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Culture_Convenience_Club",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/TSUTAYA_Ibaraki.JPG/960px-TSUTAYA_Ibaraki.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Culture_Convenience_Club"
+        },
+        "description": "Culture Convenience Club Company, Limited (カルチュア・コンビニエンス・クラブ株式会社, Karuchua Konbiniensu Kurabu Kabushikigaisha) is a Japanese company that operates Tsutaya (蔦屋), a chain of video rental shops and bookstores in Japan, Taiwan, China and Thailand. The company is headquartered in Ebisu, Tokyo. The stock of the company was formerly listed in the first section of the Tokyo Stock Exchange (TYO: 4756), but it has since been d",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "tokyo-shops-17",
+        "name": ".tokyo",
+        "cityId": "tokyo",
+        "categoryId": "shops",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=.tokyo%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/.tokyo",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/.tokyo_TLD_logo.svg/960px-.tokyo_TLD_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/.tokyo"
+        },
+        "description": "The domain name tokyo is a top-level domain (TLD) for Tokyo in the Domain Name System of the Internet. On November 13, 2013, ICANN and GMO Registry entered into a registry agreement under which GMO Registry operates the tokyo TLD. Like other top-level domains, the tokyo TLD can be registered by people living outside of Tokyo.",
+        "lat": null,
+        "lng": null
+      },
+      {
+        "id": "tokyo-shops-18",
+        "name": "Legoland Japan Resort",
+        "cityId": "tokyo",
+        "categoryId": "shops",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Legoland%20Japan%20Resort%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Legoland_Japan_Resort",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/LEGOLAND_JAPAN_Entrance%2C_Kinjofuto_Minato_Ward_Nagoya_2022.jpg/960px-LEGOLAND_JAPAN_Entrance%2C_Kinjofuto_Minato_Ward_Nagoya_2022.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Legoland_Japan_Resort"
+        },
+        "description": "Legoland Japan Resort (Japanese: レゴランド・ジャパン) is a theme park in Nagoya, Japan. Opening on April 1, 2017, it was the first Legoland theme park in Japan and the second in Asia (after the Legoland Malaysia Resort), and the eighth worldwide. Upon opening, the park was projected to attract over two million visitors every year.",
+        "lat": 35.05055556,
+        "lng": 136.84333333
+      }
+    ]
+  }
+}
