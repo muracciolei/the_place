@@ -12,7 +12,8 @@
     "generate:places": "node scripts/generate-places.mjs",
     "validate:places": "node scripts/validate-places.mjs",
     "report": "node scripts/generate-report.mjs",
-    "enrich:places": "node scripts/enrich-places.mjs"
+    "enrich:places": "node scripts/enrich-places.mjs",
+    "enrich:osm": "node scripts/enrich-osm.mjs"
   },
   "dependencies": {
     "react": "^18.3.1",

@@ -1,6 +1,6 @@
 # Reporte de lugares — THE PLACE
 
-Generado: 2026-11-27T14:42:35.381Z
+Generado: 2026-11-27T15:54:21.956Z
 
 - **Lugares totales:** 6642
 - **Ciudades:** 41
@@ -8,6 +8,7 @@ Generado: 2026-11-27T14:42:35.381Z
 - **Fotos disponibles:** 4444 (67% de los lugares)
 - **Descripciones (Wikipedia):** 6155
 - **Con coordenadas:** 2295
+- **Con datos de contacto OSM:** 1
 - **Archivo de datos:** `places.csv`
 
 ## Qué contiene cada fila
@@ -19,6 +20,7 @@ ID y nombre del lugar, ciudad, país, categoría, rank, enlace directo a Google 
 - **No incluye teléfono, email ni horarios**: esos datos solo están disponibles con Google Places API (New) y una clave con facturación. No se obtuvieron por scraping: los términos de Google Maps Platform (§3.2.3.a) lo prohíben.
 - **No incluye 18 fotos por lugar**: Google Places devuelve como máximo **10 fotos por lugar**, no 18. Además, sin clave no hay fotos de Google en este dataset.
 - **Las fotos listadas** son miniaturas de artículos de Wikipedia/Wikimedia Commons, con autor y licencia. Cuando no hay foto, el campo queda vacío.
+- **Los datos de contacto OSM** (teléfono, email, web, horarios, dirección) vienen de OpenStreetMap/Nominatim bajo licencia ODbL y se atribuyen con la URL del objeto OSM. No son datos de Google y su cobertura es parcial.
 - **Los enlaces de Google Maps** son Maps URLs oficiales y gratuitos (`api=1&query=...`): abren el lugar en Google Maps sin copiar datos de Google.
 
 ## Totales por ciudad

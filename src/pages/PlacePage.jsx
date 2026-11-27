@@ -144,18 +144,31 @@ export default function PlacePage() {
 
       <section className="detail-section">
         <h2>{t('place.contact')}</h2>
-        <p>{place.address ? `📍 ${place.address}` : t('place.notAvailable')}</p>
+        <p>{place.address || place.osm?.address ? `📍 ${place.address || place.osm.address}` : t('place.notAvailable')}</p>
         {place.lat != null && place.lng != null && (
           <p className="muted">
             {t('place.coordinates')}: {Number(place.lat).toFixed(5)}, {Number(place.lng).toFixed(5)}
           </p>
         )}
-        {place.phone && <p>☎ <a href={`tel:${place.phone}`}>{place.phone}</a></p>}
-        {place.websiteUri && <p>🌐 <a href={place.websiteUri} target="_blank" rel="noreferrer">{t('common.website')} ↗</a></p>}
+        {(place.phone || place.osm?.phone) && (
+          <p>☎ <a href={`tel:${place.phone || place.osm.phone}`}>{place.phone || place.osm.phone}</a></p>
+        )}
+        {place.osm?.email && <p>✉ <a href={`mailto:${place.osm.email}`}>{place.osm.email}</a></p>}
+        {(place.websiteUri || place.osm?.website) && (
+          <p>🌐 <a href={place.websiteUri || place.osm.website} target="_blank" rel="noreferrer">{t('common.website')} ↗</a></p>
+        )}
         {place.weekdayText?.length > 0 && (
           <ul className="hours-list">
             {place.weekdayText.map((line) => <li key={line}>{line}</li>)}
           </ul>
+        )}
+        {!place.fromGoogle && place.osm?.hours && (
+          <p className="muted">🕐 {place.osm.hours}</p>
+        )}
+        {!place.fromGoogle && place.osm?.url && (
+          <p className="muted">
+            {t('place.osmCredit')} · <a href={place.osm.url} target="_blank" rel="noreferrer">OpenStreetMap ↗</a>
+          </p>
         )}
         <a className="button button--primary" href={mapsLink} target="_blank" rel="noreferrer">
           {t('common.maps')} ↗

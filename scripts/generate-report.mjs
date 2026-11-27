@@ -28,6 +28,7 @@ const header = [
   'place_id', 'place_name', 'rank', 'maps_url', 'source_url',
   'description', 'latitude', 'longitude',
   'photo_url', 'photo_author', 'photo_license', 'source',
+  'osm_phone', 'osm_email', 'osm_website', 'osm_hours', 'osm_address', 'osm_url',
 ]
 
 const rows = []
@@ -35,6 +36,7 @@ const files = (await readdir(DATA_DIR)).filter((file) => file.endsWith('.json'))
 let totalPhotos = 0
 let totalDescriptions = 0
 let totalCoords = 0
+let totalOsm = 0
 
 for (const file of files) {
   const data = JSON.parse(await readFile(path.join(DATA_DIR, file), 'utf8'))
@@ -45,6 +47,7 @@ for (const file of files) {
       if (place.photo?.url) totalPhotos += 1
       if (place.description) totalDescriptions += 1
       if (place.lat != null && place.lng != null) totalCoords += 1
+      if (place.osm?.phone || place.osm?.email || place.osm?.website || place.osm?.hours) totalOsm += 1
       rows.push([
         data.cityId,
         city?.name || data.cityId,
@@ -63,6 +66,12 @@ for (const file of files) {
         place.photo?.author || '',
         place.photo?.license || '',
         place.source || '',
+        place.osm?.phone || '',
+        place.osm?.email || '',
+        place.osm?.website || '',
+        place.osm?.hours || '',
+        place.osm?.address || '',
+        place.osm?.url || '',
       ])
     }
   }
@@ -97,6 +106,7 @@ const lines = [
   `- **Fotos disponibles:** ${totalPhotos} (${Math.round((totalPhotos / rows.length) * 100)}% de los lugares)`,
   `- **Descripciones (Wikipedia):** ${totalDescriptions}`,
   `- **Con coordenadas:** ${totalCoords}`,
+  `- **Con datos de contacto OSM:** ${totalOsm}`,
   '- **Archivo de datos:** `places.csv`',
   '',
   '## Qué contiene cada fila',
@@ -108,6 +118,7 @@ const lines = [
   '- **No incluye teléfono, email ni horarios**: esos datos solo están disponibles con Google Places API (New) y una clave con facturación. No se obtuvieron por scraping: los términos de Google Maps Platform (§3.2.3.a) lo prohíben.',
   '- **No incluye 18 fotos por lugar**: Google Places devuelve como máximo **10 fotos por lugar**, no 18. Además, sin clave no hay fotos de Google en este dataset.',
   '- **Las fotos listadas** son miniaturas de artículos de Wikipedia/Wikimedia Commons, con autor y licencia. Cuando no hay foto, el campo queda vacío.',
+  '- **Los datos de contacto OSM** (teléfono, email, web, horarios, dirección) vienen de OpenStreetMap/Nominatim bajo licencia ODbL y se atribuyen con la URL del objeto OSM. No son datos de Google y su cobertura es parcial.',
   '- **Los enlaces de Google Maps** son Maps URLs oficiales y gratuitos (`api=1&query=...`): abren el lugar en Google Maps sin copiar datos de Google.',
   '',
   '## Totales por ciudad',
