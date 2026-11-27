@@ -43,7 +43,24 @@ function placeId(place) {
   return place.id || place.name?.split('/').pop() || ''
 }
 
+function normalizePhoto(photo) {
+  if (!photo?.name) return null
+  return {
+    name: photo.name,
+    widthPx: photo.widthPx || null,
+    heightPx: photo.heightPx || null,
+    googleMapsUri: photo.googleMapsUri || null,
+    flagContentUri: photo.flagContentUri || null,
+    authors: (photo.authorAttributions || []).map((author) => ({
+      name: author.displayName || 'Google Maps',
+      uri: author.uri || null,
+      photoUri: author.photoUri || null,
+    })),
+  }
+}
+
 function normalizeSearchPlace(place, cityId, categoryId) {
+  const photos = (place.photos || []).map(normalizePhoto).filter(Boolean)
   return {
     id: placeId(place),
     cityId,
@@ -58,6 +75,7 @@ function normalizeSearchPlace(place, cityId, categoryId) {
     userRatingCount: place.userRatingCount ?? null,
     businessStatus: place.businessStatus || null,
     googleMapsUri: place.googleMapsUri || null,
+    photo: photos[0] || null,
     isSample: false,
   }
 }
@@ -111,7 +129,7 @@ function sampleResults(city, category) {
  * Text Search (New): una llamada por consulta/página.
  * Soporta nextPageToken, a diferencia de Nearby Search.
  */
-export async function searchPlaces({ city, category, query = '', coords, pageToken, signal }) {
+export async function searchPlaces({ city, category, query = '', coords, pageToken, languageCode = 'en', signal }) {
   if (!HAS_GOOGLE_KEY) return sampleResults(city, category)
 
   const center = coords?.latitude != null
@@ -125,6 +143,7 @@ export async function searchPlaces({ city, category, query = '', coords, pageTok
     city.id,
     category.id,
     query.trim().toLowerCase(),
+    languageCode,
     center.latitude.toFixed(3),
     center.longitude.toFixed(3),
     pageToken || '',
@@ -135,7 +154,7 @@ export async function searchPlaces({ city, category, query = '', coords, pageTok
 
   const body = {
     textQuery,
-    languageCode: city.lang,
+    languageCode,
     maxResultCount: PAGE_SIZE,
     locationBias: {
       circle: {
@@ -164,7 +183,7 @@ export async function searchPlaces({ city, category, query = '', coords, pageTok
 }
 
 /** Place Details (New). Solo se llama cuando el usuario abre una ficha. */
-export async function getPlaceDetails({ placeId: id, signal }) {
+export async function getPlaceDetails({ placeId: id, languageCode = 'en', signal }) {
   const sample = SAMPLE_PLACES.find((p) => p.id === id)
   if (sample) return { ...sample, detailsLoaded: true }
 
@@ -173,11 +192,11 @@ export async function getPlaceDetails({ placeId: id, signal }) {
   }
 
   const safeId = id.startsWith('places/') ? id.split('/').pop() : id
-  const cacheKey = `details|${safeId}`
+  const cacheKey = `details|${safeId}|${languageCode}`
   const cached = cacheGet(cacheKey)
   if (cached) return cached
 
-  const data = await request(`/places/${encodeURIComponent(safeId)}`, {
+  const data = await request(`/places/${encodeURIComponent(safeId)}?languageCode=${encodeURIComponent(languageCode)}`, {
     method: 'GET',
     fields: DETAILS_FIELDS,
     signal,
@@ -201,18 +220,7 @@ export async function getPlaceDetails({ placeId: id, signal }) {
     openNow: data.currentOpeningHours?.openNow ?? null,
     weekdayText: data.currentOpeningHours?.weekdayText || data.regularOpeningHours?.weekdayText || [],
     editorialSummary: data.editorialSummary?.text || null,
-    photos: (data.photos || []).slice(0, 3).map((photo) => ({
-      name: photo.name,
-      widthPx: photo.widthPx,
-      heightPx: photo.heightPx,
-      googleMapsUri: photo.googleMapsUri || null,
-      flagContentUri: photo.flagContentUri || null,
-      authors: (photo.authorAttributions || []).map((author) => ({
-        name: author.displayName || 'Autor',
-        uri: author.uri || null,
-        photoUri: author.photoUri || null,
-      })),
-    })),
+    photos: (data.photos || []).map(normalizePhoto).filter(Boolean),
     isSample: false,
     detailsLoaded: true,
   }

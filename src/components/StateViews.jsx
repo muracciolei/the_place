@@ -1,12 +1,14 @@
-export function LoadingGrid() {
+import { useTranslation } from 'react-i18next'
+
+export function LoadingGrid({ count = 4 }) {
+  const { t } = useTranslation()
   return (
-    <div className="place-grid" aria-busy="true" aria-label="Cargando lugares">
-      {[1, 2, 3, 4].map((n) => (
-        <div className="skeleton" key={n}>
-          <div className="skeleton__line skeleton__line--short" />
+    <div className="vgrid" aria-busy="true" aria-label={t('common.loading')}>
+      {Array.from({ length: count }, (_, index) => (
+        <div className="skeleton" key={index}>
+          <div className="skeleton__shade" />
           <div className="skeleton__line" />
-          <div className="skeleton__line skeleton__line--medium" />
-          <div className="skeleton__block" />
+          <div className="skeleton__line skeleton__line--short" />
         </div>
       ))}
     </div>
@@ -14,25 +16,27 @@ export function LoadingGrid() {
 }
 
 export function ErrorState({ message, onRetry }) {
+  const { t } = useTranslation()
   return (
     <div className="state-panel" role="alert">
-      <span className="state-panel__icon" aria-hidden="true">⚠️</span>
-      <h3>No se pudieron cargar los lugares</h3>
+      <span aria-hidden="true">⚠️</span>
+      <h3>{t('common.error')}</h3>
       <p>{message}</p>
       {onRetry && (
         <button type="button" className="button button--primary" onClick={onRetry}>
-          Reintentar
+          {t('common.retry')}
         </button>
       )}
     </div>
   )
 }
 
-export function EmptyState({ title = 'Todavía no hay resultados', message }) {
+export function EmptyState({ message }) {
+  const { t } = useTranslation()
   return (
     <div className="state-panel">
-      <span className="state-panel__icon" aria-hidden="true">🧭</span>
-      <h3>{title}</h3>
+      <span aria-hidden="true">🧭</span>
+      <h3>{t('common.noResults')}</h3>
       <p>{message}</p>
     </div>
   )

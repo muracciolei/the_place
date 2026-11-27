@@ -21,6 +21,12 @@ export const SEARCH_FIELDS = [
   'places.userRatingCount',
   'places.businessStatus',
   'places.googleMapsUri',
+  'places.photos.name',
+  'places.photos.widthPx',
+  'places.photos.heightPx',
+  'places.photos.googleMapsUri',
+  'places.photos.authorAttributions',
+  'places.photos.flagContentUri',
 ].join(',')
 
 export const DETAILS_FIELDS = [

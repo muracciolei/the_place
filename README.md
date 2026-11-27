@@ -1,8 +1,12 @@
 # THE PLACE
 
-Descubrimiento de lugares en tres escalas — **Local (My Town)**, **Country (My Country)** y **World (Worldwide)** — con React + React Router, alojado en GitHub Pages, **sin backend propio**.
+**THE PLACE** es una web app instalable y 100 % móvil con un feed vertical de ciudades, categorías y lugares (estilo Instagram). React + React Router, GitHub Pages, **sin backend propio**.
 
-> Nota: el repositorio estaba vacío al iniciar (sin commits ni código). La aplicación se ha creado desde cero siguiendo la arquitectura acordada. El diagnóstico y todas las decisiones están en [ARCHITECTURE.md](ARCHITECTURE.md).
+- Idioma del dispositivo por defecto: español, inglés, francés, italiano, alemán y portugués; si el idioma no está soportado, inglés. Se puede cambiar en **Ajustes**.
+- Tres modos: **Local — My Town**, **Country — My Country**, **World — Worldwide**.
+- 41 ciudades y 9 categorías con fotos; las fotos de lugares y todas sus imágenes vienen de Google Places.
+
+> El repositorio estaba vacío al iniciar. El diagnóstico original está en [ARCHITECTURE.md](ARCHITECTURE.md) y el rediseño al feed vertical en [Refactoring.md](Refactoring.md).
 
 ## Puesta en marcha
 
@@ -46,17 +50,20 @@ Puedes pasar otra URL de remote si tu HTTPS no tiene credenciales: `npm run depl
 
 ## Estructura
 
-- `src/data/` — 9 ciudades, 6 países, 9 categorías y datos de ejemplo.
-- `src/services/places.js` — Places API (New): Text Search con paginación, Place Details, fotos, caché en memoria y errores.
-- `src/services/wiki.js` — resúmenes de ciudades desde Wikipedia (CC BY-SA).
+- `src/data/` — 41 ciudades (incluidas las 9 pedidas), países, 9 categorías y datos de ejemplo.
+- `src/services/places.js` — Places API (New): Text Search paginada, Place Details con **todas** las fotos, caché en memoria y errores.
+- `src/services/commons.js` — fotos de ciudades y categorías desde Wikimedia Commons con autor y licencia.
+- `src/services/wiki.js` — resúmenes de ciudades en el idioma activo (CC BY-SA).
 - `src/services/social.js` — enlaces legales a Instagram, Facebook, TikTok y YouTube (sin APIs ni scraping).
-- `src/hooks/` — búsqueda con cancelación, favoritos y preferencias en localStorage.
-- `src/components/` y `src/pages/` — UI y rutas.
-- `/terms` y `/privacy` — términos y privacidad exigidos por las condiciones de Google Maps Platform.
+- `src/i18n/` — seis idiomas, detección del dispositivo y selector.
+- `src/hooks/` — búsqueda con cancelación, favoritos e imágenes con caché en memoria.
+- `src/components/VerticalCard.jsx`, `PhotoGallery.jsx`, `BottomNav.jsx`, `InstallButton.jsx` — feed 9:16, galería vertical, navegación e instalación.
+- `public/manifest.webmanifest`, `public/sw.js`, `public/icons/` — PWA instalable; el service worker **nunca** cachea contenido de Google.
+- Rutas: `/`, `/explore`, `/city/:id`, `/city/:id/category/:id`, `/place/:id`, `/favorites`, `/settings`, `/about`, `/terms`, `/privacy`.
 
 ## Coste y buenas prácticas
 
-No hay llamadas al abrir la app; la paginación es explícita; los filtros cancelan peticiones previas; los detalles y las fotos se piden solo al abrir una ficha; la caché vive solo en memoria (5 min). En favoritos se guardan únicamente los place ID. Consulta precios vigentes en [Google Maps Platform](https://mapsplatform.google.com/pricing/).
+No hay llamadas a Google al abrir la app; la paginación es explícita; los filtros cancelan peticiones previas; los detalles y las fotos se piden solo al abrir una ficha; la caché vive solo en memoria (5 min). En favoritos se guardan únicamente los place ID. Las fotos de ciudad/categoría vienen de Wikimedia Commons (gratis con atribución). Consulta precios vigentes en [Google Maps Platform](https://mapsplatform.google.com/pricing/).
 
 ## Limitaciones
 

@@ -90,11 +90,13 @@ Coste orientativo (verificar en la web oficial): Google factura Places por SKU s
 |---|---|
 | `src/App.jsx`, `src/main.jsx` | Rutas, `BrowserRouter` con `basename`, fallback 404 |
 | `src/config.js` | Clave, field masks, tamaño de página, TTL |
-| `src/data/cities.js`, `categories.js`, `samplePlaces.js` | 9 ciudades, 6 países, 9 categorías, datos de ejemplo |
-| `src/services/places.js` | Search, Details, fotos, normalización, caché en memoria, errores |
-| `src/services/wiki.js`, `social.js` | Resúmenes de ciudad; enlaces sociales |
+| `src/data/cities.js`, `categories.js`, `samplePlaces.js` | 41 ciudades, países, 9 categorías, datos de ejemplo |
+| `src/services/places.js` | Search paginada, Details con todas las fotos, caché en memoria, errores |
+| `src/services/commons.js`, `wiki.js`, `social.js` | Fotos con licencia; resúmenes por idioma; enlaces sociales |
 | `src/hooks/*` | Resultados con cancelación, favoritos, preferencias, debounce |
-| `src/components/*` | Header, modos, filtros, tarjetas, atribución, estados |
+| `src/components/*` | Tarjetas verticales, galería, navegación inferior, idioma, PWA, estados |
+| `src/i18n/locales/*` | Seis idiomas con fallback inglés |
+| `public/manifest.webmanifest`, `public/sw.js`, `public/icons/` | Web app instalable; sin caché de Google |
 | `src/pages/*` | Inicio, explorador, ficha, favoritos, legales y 404 |
 | `scripts/deploy.sh`, `public/404.html`, `public/.nojekyll`, `vite.config.js` | Publicación en la rama `gh-pages` de GitHub Pages |
 
@@ -104,14 +106,18 @@ Coste orientativo (verificar en la web oficial): Google factura Places por SKU s
 
 **No funciona sin backend (no implementado a propósito):** cuentas, sincronización multidispositivo, reseñas propias, moderación, analítica agregada, integración social profunda con APIs oficiales. Firebase/Supabase se descartan: ninguna funcionalidad actual lo exige, y añadirlas rompería la prioridad de simplicidad y coste cero.
 
-## 7. Decisiones nuevas (no había referencia previa)
+## 7. Decisiones (el usuario corrigió la interfaz inicial)
 
-- **Nueve ciudades:** Rome y Florence (Italia); Tokyo y Kyoto (Japón); Barcelona y Madrid (España); New York (EE. UU.); Paris (Francia); London (Reino Unido). Editables en `src/data/cities.js`.
-- **Categorías:** monumentos, restaurantes, cafés, museos, parques, compras, vida nocturna, galerías de arte y hoteles.
-- **Tres modos:** `Local — My Town`, `Country — My Country`, `World — Worldwide`. Country restringe el selector a las ciudades del país; World muestra el recorrido global con resúmenes de Wikipedia; Local puede usar la geolocalización del navegador.
-- **Identidad visual:** paleta azul petróleo/verde menta con acento ámbar; diseño responsive y sin librerías de UI. Se puede sustituir editando `src/styles/global.css`.
-- **Modo demo:** si no hay clave, la app muestra datos de ejemplo creados a mano y claramente etiquetados. Así se puede verificar el build y la navegación sin consumir cuota.
+- **41 ciudades:** las nueve pedidas (New York, Tokyo, Los Angeles, Mexico City, Seoul —interpretación de "Sell"—, São Paulo, Milan, London, Buenos Aires) más ciudades importantes. Editables en `src/data/cities.js`.
+- **Categorías:** monumentos, restaurantes, cafés, museos, parques, compras, vida nocturna, galerías de arte y hoteles, con foto propia.
+- **Tres modos:** `Local — My Town`, `Country — My Country`, `World — Worldwide`, accesibles desde Explorar.
+- **Identidad visual:** feed vertical 9:16 estilo Instagram, fondo oscuro, foto arriba, degradado y texto dentro; navegación inferior. Sustituye a la interfaz anterior por instrucción explícita del usuario (`Refactoring.md`).
+- **Idiomas:** es/en/fr/it/de/pt, idioma del dispositivo por defecto, fallback inglés y selector en Ajustes. Places y Wikipedia siguen el idioma activo.
+- **PWA:** manifest + service worker que cachea solo el app shell; nunca contenido de Google.
+- **Modo demo:** si no hay clave, la app muestra datos de ejemplo etiquetados y placeholders, sin consumir cuota.
 
 ## 8. Verificación
 
-`npm install && npm run build` → `dist/` con `index.html`, `404.html`, `.nojekyll` y assets con la base `/the_place/`. `npm run deploy` publica ese `dist/` en `gh-pages`. Sitio verificado en `https://muracciolei.github.io/the_place/` (HTTP 200 en índice y assets). Rutas comprobadas por render SSR: `/`, `/explore?mode=local|country|world`, `/place/:id`, `/favorites`, `/about`, `/terms`, `/privacy` y 404. Las rutas profundas en GitHub Pages las atiende `404.html`, que restaura la URL original en el navegador.
+`npm install && npm run build` → `dist/` con `index.html`, `404.html`, `.nojekyll`, manifest, service worker, iconos y assets con base `/the_place/`. `npm run deploy` publica en `gh-pages`.
+
+Verificado: 11 rutas por render SSR sin errores (`/`, `/explore`, `/city/:id`, `/city/:id/category/:id`, `/place/:id`, `/favorites`, `/settings`, `/about`, `/terms`, `/privacy`, 404) e idiomas es/fr/it/de/pt + fallback inglés. `npm audit`: 0 vulnerabilidades. Las rutas profundas en GitHub Pages las atiende `404.html`, que restaura la URL original en el navegador.

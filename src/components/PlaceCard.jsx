@@ -1,54 +1,50 @@
-import { Link, useLocation } from 'react-router-dom'
-import { getMapsLink } from '../services/places'
-import GoogleAttribution from './GoogleAttribution'
+import { useTranslation } from 'react-i18next'
+import VerticalCard from './VerticalCard'
+import { getPhotoUrl } from '../services/places'
 
-function Rating({ place }) {
-  if (place.rating == null) return null
-  return (
-    <span className="rating" title="Valoración de Google">
-      ★ {place.rating.toFixed(1)}
-      {place.userRatingCount ? <small> ({place.userRatingCount.toLocaleString('es')})</small> : null}
+export default function PlaceCard({ place, isFavorite, onToggleFavorite, to }) {
+  const { t } = useTranslation()
+  const image = place.photo?.name
+    ? { url: getPhotoUrl(place.photo.name, 600) }
+    : null
+
+  const favorite = (
+    <span
+      role="button"
+      tabIndex={0}
+      aria-label={isFavorite ? t('common.saved') : t('common.save')}
+      className={`vcard__fav${isFavorite ? ' is-favorite' : ''}`}
+      onClick={(event) => {
+        event.preventDefault()
+        event.stopPropagation()
+        onToggleFavorite(place)
+      }}
+      onKeyDown={(event) => {
+        if (event.key === 'Enter' || event.key === ' ') {
+          event.preventDefault()
+          event.stopPropagation()
+          onToggleFavorite(place)
+        }
+      }}
+    >
+      {isFavorite ? '♥' : '♡'}
     </span>
   )
-}
 
-export default function PlaceCard({ place, isFavorite, onToggleFavorite }) {
-  const location = useLocation()
-  const detailHref = `/place/${encodeURIComponent(place.id)}${location.search}`
+  const subtitle = place.rating != null
+    ? `★ ${place.rating.toFixed(1)} · ${place.primaryType?.replaceAll('_', ' ') || t('common.category')}`
+    : place.address || ''
 
   return (
-    <article className="place-card">
-      <div className="place-card__head">
-        <span className="badge">{place.isSample ? 'Ejemplo' : 'Lugar'}</span>
-        <button
-          type="button"
-          className={`fav-button${isFavorite ? ' is-favorite' : ''}`}
-          onClick={() => onToggleFavorite(place)}
-          aria-label={isFavorite ? 'Quitar de favoritos' : 'Guardar en favoritos'}
-          title={isFavorite ? 'Quitar de favoritos' : 'Guardar en favoritos'}
-        >
-          {isFavorite ? '♥' : '♡'}
-        </button>
-      </div>
-
-      <h3 className="place-card__title">{place.name}</h3>
-      {place.address && <p className="place-card__address">📍 {place.address}</p>}
-
-      <div className="place-card__meta">
-        <Rating place={place} />
-        {place.businessStatus && place.businessStatus !== 'OPERATIONAL' && (
-          <span className="status-pill">{place.businessStatus.replaceAll('_', ' ').toLowerCase()}</span>
-        )}
-      </div>
-
-      <div className="place-card__actions">
-        <Link className="button button--primary" to={detailHref}>Ver ficha</Link>
-        <a className="button button--outline" href={getMapsLink(place)} target="_blank" rel="noreferrer">
-          Abrir en Google Maps ↗
-        </a>
-      </div>
-
-      {!place.isSample && <GoogleAttribution compact />}
-    </article>
+    <VerticalCard
+      to={to}
+      image={image}
+      title={place.name}
+      subtitle={subtitle}
+      badge={place.isSample ? t('common.demo') : t('common.attribution')}
+      credit={place.photo ? { author: 'Google Maps', license: '' } : null}
+      emoji="📍"
+      action={favorite}
+    />
   )
 }

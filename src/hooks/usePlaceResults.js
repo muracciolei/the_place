@@ -1,4 +1,6 @@
 import { useCallback, useEffect, useRef, useState } from 'react'
+import { useTranslation } from 'react-i18next'
+import { apiLanguage } from '../i18n'
 import { searchPlaces } from '../services/places'
 import { getCity } from '../data/cities'
 import { getCategory } from '../data/categories'
@@ -18,6 +20,8 @@ const EMPTY = {
  */
 export function usePlaceResults({ cityId, categoryId, query = '', coords, enabled = true, refreshKey = '' }) {
   const [state, setState] = useState(EMPTY)
+  const { i18n } = useTranslation()
+  const languageCode = apiLanguage(i18n.language)
   const requestRef = useRef(0)
   const controllerRef = useRef(null)
   const lat = coords?.latitude ?? null
@@ -41,6 +45,7 @@ export function usePlaceResults({ cityId, categoryId, query = '', coords, enable
       category: getCategory(categoryId),
       query,
       coords: lat != null ? { latitude: lat, longitude: lng } : null,
+      languageCode,
       signal: controller.signal,
     })
       .then((result) => {
@@ -53,7 +58,7 @@ export function usePlaceResults({ cityId, categoryId, query = '', coords, enable
       })
 
     return () => controller.abort()
-  }, [enabled, cityId, categoryId, query, lat, lng, refreshKey])
+  }, [enabled, cityId, categoryId, query, lat, lng, languageCode, refreshKey])
 
   const loadMore = useCallback(async () => {
     if (state.loading || !state.nextPageToken) return
@@ -68,6 +73,7 @@ export function usePlaceResults({ cityId, categoryId, query = '', coords, enable
         category: getCategory(categoryId),
         query,
         coords: lat != null ? { latitude: lat, longitude: lng } : null,
+        languageCode,
         pageToken: state.nextPageToken,
         signal: controller.signal,
       })
@@ -85,7 +91,7 @@ export function usePlaceResults({ cityId, categoryId, query = '', coords, enable
       if (error.name === 'AbortError' || current !== requestRef.current) return
       setState((prev) => ({ ...prev, loading: false, error: error.message }))
     }
-  }, [state.loading, state.nextPageToken, cityId, categoryId, query, lat, lng])
+  }, [state.loading, state.nextPageToken, cityId, categoryId, query, lat, lng, languageCode])
 
   return { ...state, loadMore }
 }

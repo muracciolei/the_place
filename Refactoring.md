@@ -1,9 +1,28 @@
 # THE PLACE — Plan de refactoring
 
-> Estado: **plan pendiente de aprobación**. El sitio actualmente publicado
-> (`https://muracciolei.github.io/the_place/`) corresponde a la interfaz anterior.
-> Este documento describe el cambio de UX, datos, idiomas y PWA, sin modificar aún
-> el código ni la versión desplegada.
+> Estado: **plan aprobado y ejecutado** (27/11/2026). El usuario confirmó el patrón
+> "foto arriba, texto dentro" y pidió implementar. La interfaz anterior fue
+> sustituida por el feed vertical; este documento conserva el diagnóstico y el
+> detalle de las decisiones.
+
+## 0. Resolución de las preguntas abiertas
+
+1. **"Sell" = Seoul/Seúl** (se mantuvo esa interpretación).
+2. **Fotos de ciudad/categoría**: se obtienen de Wikimedia Commons en tiempo de
+   ejecución con autor/licencia; si fallan, se muestra un placeholder.
+3. **Idioma de Places**: sigue al idioma de la interfaz.
+4. **Deploy**: se mantiene la rama `gh-pages`.
+
+## 0.1 Estado de implementación
+
+- [x] i18n con 6 idiomas, detección del dispositivo, fallback inglés y selector en Ajustes
+- [x] Catálogo de 41 ciudades (las 9 pedidas + importantes) y 9 categorías
+- [x] Tarjetas verticales 9:16 con foto arriba, degradado oscuro y texto dentro
+- [x] Home de ciudades, ciudad → categorías, categoría → lugares
+- [x] Ficha con todas las fotos en galería vertical con scroll-snap y atribución
+- [x] PWA: manifest, iconos 192/512/maskable, service worker sin caché de Google
+- [x] Navegación inferior y Ajustes (idioma, instalación, favoritos)
+- [x] Build y pruebas de las 11 rutas y de los 6 idiomas
 
 ## 1. Diagnóstico: qué está mal hoy
 
