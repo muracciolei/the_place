@@ -1,0 +1,1833 @@
+{
+  "cityId": "sydney",
+  "generatedAt": "2026-11-27T08:52:11.853Z",
+  "source": "Wikipedia API + Maps URLs (sin scraping de Google)",
+  "incomplete": [
+    "restaurants",
+    "bars"
+  ],
+  "categories": {
+    "night_clubs": [
+      {
+        "id": "sydney-night_clubs-1",
+        "name": "2002 Bali bombings",
+        "cityId": "sydney",
+        "categoryId": "night_clubs",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=2002%20Bali%20bombings%2C%20Sydney",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/2002_Bali_bombings",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/Bali_memorial.jpg/960px-Bali_memorial.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/2002_Bali_bombings"
+        }
+      },
+      {
+        "id": "sydney-night_clubs-2",
+        "name": "Home",
+        "cityId": "sydney",
+        "categoryId": "night_clubs",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Home%2C%20Sydney",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Home_(nightclub_chain)",
+        "photo": null
+      },
+      {
+        "id": "sydney-night_clubs-3",
+        "name": "Abe Saffron",
+        "cityId": "sydney",
+        "categoryId": "night_clubs",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Abe%20Saffron%2C%20Sydney",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Abe_Saffron",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/SLNSW_FL18919094_%28cropped2%29.jpg/960px-SLNSW_FL18919094_%28cropped2%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Abe_Saffron"
+        }
+      },
+      {
+        "id": "sydney-night_clubs-4",
+        "name": "John Ibrahim",
+        "cityId": "sydney",
+        "categoryId": "night_clubs",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=John%20Ibrahim%2C%20Sydney",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/John_Ibrahim",
+        "photo": null
+      },
+      {
+        "id": "sydney-night_clubs-5",
+        "name": "Trocadero",
+        "cityId": "sydney",
+        "categoryId": "night_clubs",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Trocadero%2C%20Sydney",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Trocadero",
+        "photo": null
+      },
+      {
+        "id": "sydney-night_clubs-6",
+        "name": "Willie Manu",
+        "cityId": "sydney",
+        "categoryId": "night_clubs",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Willie%20Manu%2C%20Sydney",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Willie_Manu",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/36/Willie_Manu_Hull_FC.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Willie_Manu"
+        }
+      },
+      {
+        "id": "sydney-night_clubs-7",
+        "name": "Mitchell Pearce",
+        "cityId": "sydney",
+        "categoryId": "night_clubs",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Mitchell%20Pearce%2C%20Sydney",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Mitchell_Pearce",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/MITCHELL_PEARCE_%286913425309%29.jpg/960px-MITCHELL_PEARCE_%286913425309%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Mitchell_Pearce"
+        }
+      },
+      {
+        "id": "sydney-night_clubs-8",
+        "name": "Tasty nightclub raid",
+        "cityId": "sydney",
+        "categoryId": "night_clubs",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Tasty%20nightclub%20raid%2C%20Sydney",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Tasty_nightclub_raid",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Tastycard.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Tasty_nightclub_raid"
+        }
+      },
+      {
+        "id": "sydney-night_clubs-9",
+        "name": "Charlie Munro",
+        "cityId": "sydney",
+        "categoryId": "night_clubs",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Charlie%20Munro%2C%20Sydney",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Charlie_Munro",
+        "photo": null
+      },
+      {
+        "id": "sydney-night_clubs-10",
+        "name": "The Thekla",
+        "cityId": "sydney",
+        "categoryId": "night_clubs",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Thekla%2C%20Sydney",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/The_Thekla",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Thekla%2C_Bristol_2023-09-17.jpg/960px-Thekla%2C_Bristol_2023-09-17.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/The_Thekla"
+        }
+      },
+      {
+        "id": "sydney-night_clubs-11",
+        "name": "Will Munro",
+        "cityId": "sydney",
+        "categoryId": "night_clubs",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Will%20Munro%2C%20Sydney",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Will_Munro",
+        "photo": null
+      },
+      {
+        "id": "sydney-night_clubs-12",
+        "name": "The Tender Trap",
+        "cityId": "sydney",
+        "categoryId": "night_clubs",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Tender%20Trap%2C%20Sydney",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/The_Tender_Trap_(club)",
+        "photo": null
+      },
+      {
+        "id": "sydney-night_clubs-13",
+        "name": "Jarrad Boumann",
+        "cityId": "sydney",
+        "categoryId": "night_clubs",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Jarrad%20Boumann%2C%20Sydney",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Jarrad_Boumann",
+        "photo": null
+      },
+      {
+        "id": "sydney-night_clubs-14",
+        "name": "Alphonse Gangitano",
+        "cityId": "sydney",
+        "categoryId": "night_clubs",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Alphonse%20Gangitano%2C%20Sydney",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Alphonse_Gangitano",
+        "photo": null
+      },
+      {
+        "id": "sydney-night_clubs-15",
+        "name": "Nell Campbell",
+        "cityId": "sydney",
+        "categoryId": "night_clubs",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Nell%20Campbell%2C%20Sydney",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Nell_Campbell",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/17/Nell_Campbell_Photo_Op_GalaxyCon_Raleigh_2019.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Nell_Campbell"
+        }
+      },
+      {
+        "id": "sydney-night_clubs-16",
+        "name": "Tony Wilson",
+        "cityId": "sydney",
+        "categoryId": "night_clubs",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Tony%20Wilson%2C%20Sydney",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Tony_Wilson",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Tony_Wilson_hosting_After_Dark_in_2003.jpg/960px-Tony_Wilson_hosting_After_Dark_in_2003.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Tony_Wilson"
+        }
+      },
+      {
+        "id": "sydney-night_clubs-17",
+        "name": "Gatecrasher One",
+        "cityId": "sydney",
+        "categoryId": "night_clubs",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Gatecrasher%20One%2C%20Sydney",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Gatecrasher_One",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/Gatecrasher_One_%28exterior%2C_2007%29.jpg/960px-Gatecrasher_One_%28exterior%2C_2007%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Gatecrasher_One"
+        }
+      },
+      {
+        "id": "sydney-night_clubs-18",
+        "name": "Palace Theatre, Melbourne",
+        "cityId": "sydney",
+        "categoryId": "night_clubs",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Palace%20Theatre%2C%20Melbourne%2C%20Sydney",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Palace_Theatre%2C_Melbourne",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/Palace_Theatre%2C_Melbourne.jpg/960px-Palace_Theatre%2C_Melbourne.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Palace_Theatre%2C_Melbourne"
+        }
+      }
+    ],
+    "restaurants": [],
+    "bars": [],
+    "coffee_shops": [
+      {
+        "id": "sydney-coffee_shops-1",
+        "name": "Lindt Cafe siege",
+        "cityId": "sydney",
+        "categoryId": "coffee_shops",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Lindt%20Cafe%20siege%2C%20Sydney",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Lindt_Cafe_siege",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/Martin-place-lindt-1.jpg/960px-Martin-place-lindt-1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Lindt_Cafe_siege"
+        }
+      },
+      {
+        "id": "sydney-coffee_shops-2",
+        "name": "Harry's Cafe de Wheels",
+        "cityId": "sydney",
+        "categoryId": "coffee_shops",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Harry's%20Cafe%20de%20Wheels%2C%20Sydney",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Harry's_Cafe_de_Wheels",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Harry%27s_Cafe_de_Wheels_%28The_best_pies_%5E_hot_dogs_in_town%5E%29_-_panoramio.jpg/960px-Harry%27s_Cafe_de_Wheels_%28The_best_pies_%5E_hot_dogs_in_town%5E%29_-_panoramio.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Harry's_Cafe_de_Wheels"
+        }
+      },
+      {
+        "id": "sydney-coffee_shops-3",
+        "name": "Boxa",
+        "cityId": "sydney",
+        "categoryId": "coffee_shops",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Boxa%2C%20Sydney",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Boxa",
+        "photo": null
+      },
+      {
+        "id": "sydney-coffee_shops-4",
+        "name": "Flat white",
+        "cityId": "sydney",
+        "categoryId": "coffee_shops",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Flat%20white%2C%20Sydney",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Flat_white",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/Flat_white_coffee_with_pretty_feather_pattern.jpg/960px-Flat_white_coffee_with_pretty_feather_pattern.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Flat_white"
+        }
+      },
+      {
+        "id": "sydney-coffee_shops-5",
+        "name": "Wyndham College",
+        "cityId": "sydney",
+        "categoryId": "coffee_shops",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Wyndham%20College%2C%20Sydney",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Wyndham_College",
+        "photo": null
+      },
+      {
+        "id": "sydney-coffee_shops-6",
+        "name": "Café Naturale",
+        "cityId": "sydney",
+        "categoryId": "coffee_shops",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Caf%C3%A9%20Naturale%2C%20Sydney",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Caf%C3%A9_Naturale",
+        "photo": null
+      },
+      {
+        "id": "sydney-coffee_shops-7",
+        "name": "Man Haron Monis",
+        "cityId": "sydney",
+        "categoryId": "coffee_shops",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Man%20Haron%20Monis%2C%20Sydney",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Man_Haron_Monis",
+        "photo": null
+      },
+      {
+        "id": "sydney-coffee_shops-8",
+        "name": "Tilley's",
+        "cityId": "sydney",
+        "categoryId": "coffee_shops",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Tilley's%2C%20Sydney",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Tilley's",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Tilley%27s%2C_Lyneham%2C_ACT.JPG/960px-Tilley%27s%2C_Lyneham%2C_ACT.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Tilley's"
+        }
+      },
+      {
+        "id": "sydney-coffee_shops-9",
+        "name": "Venture Café",
+        "cityId": "sydney",
+        "categoryId": "coffee_shops",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Venture%20Caf%C3%A9%2C%20Sydney",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Venture_Caf%C3%A9",
+        "photo": null
+      },
+      {
+        "id": "sydney-coffee_shops-10",
+        "name": "Guzman y Gomez",
+        "cityId": "sydney",
+        "categoryId": "coffee_shops",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Guzman%20y%20Gomez%2C%20Sydney",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Guzman_y_Gomez",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Guzman_y_Gomez%2C_Westfield_Carousel.jpg/960px-Guzman_y_Gomez%2C_Westfield_Carousel.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Guzman_y_Gomez"
+        }
+      },
+      {
+        "id": "sydney-coffee_shops-11",
+        "name": "Sydney Works",
+        "cityId": "sydney",
+        "categoryId": "coffee_shops",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Sydney%20Works%2C%20Sydney",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Sydney_Works",
+        "photo": null
+      },
+      {
+        "id": "sydney-coffee_shops-12",
+        "name": "Gundagai",
+        "cityId": "sydney",
+        "categoryId": "coffee_shops",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Gundagai%2C%20Sydney",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Gundagai",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Sheridan_Street_in_Gundagai.jpg/960px-Sheridan_Street_in_Gundagai.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Gundagai"
+        }
+      },
+      {
+        "id": "sydney-coffee_shops-13",
+        "name": "Como West",
+        "cityId": "sydney",
+        "categoryId": "coffee_shops",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Como%20West%2C%20Sydney",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Como_West",
+        "photo": null
+      },
+      {
+        "id": "sydney-coffee_shops-14",
+        "name": "Gloria Jean's Coffees",
+        "cityId": "sydney",
+        "categoryId": "coffee_shops",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Gloria%20Jean's%20Coffees%2C%20Sydney",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Gloria_Jean's_Coffees",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/Brunswick_St_Mall_Gloria_Jeans_Coffees_tenancy_Brunswick_St_Fortitude_Valley_P1350575.jpg/960px-Brunswick_St_Mall_Gloria_Jeans_Coffees_tenancy_Brunswick_St_Fortitude_Valley_P1350575.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Gloria_Jean's_Coffees"
+        }
+      },
+      {
+        "id": "sydney-coffee_shops-15",
+        "name": "Oporto",
+        "cityId": "sydney",
+        "categoryId": "coffee_shops",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Oporto%2C%20Sydney",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Oporto_(restaurant)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Oporto_London_Victoria_Place.jpg/960px-Oporto_London_Victoria_Place.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Oporto_(restaurant)"
+        }
+      },
+      {
+        "id": "sydney-coffee_shops-16",
+        "name": "Miss Maud",
+        "cityId": "sydney",
+        "categoryId": "coffee_shops",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Miss%20Maud%2C%20Sydney",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Miss_Maud",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Miss_Maud_Carousel%2C_2025_%2801%29.jpg/960px-Miss_Maud_Carousel%2C_2025_%2801%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Miss_Maud"
+        }
+      },
+      {
+        "id": "sydney-coffee_shops-17",
+        "name": "85°C Bakery Cafe",
+        "cityId": "sydney",
+        "categoryId": "coffee_shops",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=85%C2%B0C%20Bakery%20Cafe%2C%20Sydney",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/85%C2%B0C_Bakery_Cafe",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/en/f/f6/85%C2%B0C_Daily_Cafe_%28logo%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/85%C2%B0C_Bakery_Cafe"
+        }
+      },
+      {
+        "id": "sydney-coffee_shops-18",
+        "name": "Matilda Centre",
+        "cityId": "sydney",
+        "categoryId": "coffee_shops",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Matilda%20Centre%2C%20Sydney",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Matilda_Centre",
+        "photo": null
+      }
+    ],
+    "bookshops": [
+      {
+        "id": "sydney-bookshops-1",
+        "name": "Dymocks",
+        "cityId": "sydney",
+        "categoryId": "bookshops",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Dymocks%2C%20Sydney",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Dymocks",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/Dymocks_bookstore_in_Adelaide.jpg/960px-Dymocks_bookstore_in_Adelaide.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Dymocks"
+        }
+      },
+      {
+        "id": "sydney-bookshops-2",
+        "name": "Books Kinokuniya",
+        "cityId": "sydney",
+        "categoryId": "bookshops",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Books%20Kinokuniya%2C%20Sydney",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Books_Kinokuniya",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/en/thumb/0/02/Books_Kinokuniya_logo_%282026%29.svg/960px-Books_Kinokuniya_logo_%282026%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Books_Kinokuniya"
+        }
+      },
+      {
+        "id": "sydney-bookshops-3",
+        "name": "Koorong",
+        "cityId": "sydney",
+        "categoryId": "bookshops",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Koorong%2C%20Sydney",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Koorong",
+        "photo": null
+      },
+      {
+        "id": "sydney-bookshops-4",
+        "name": "Sex shop",
+        "cityId": "sydney",
+        "categoryId": "bookshops",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Sex%20shop%2C%20Sydney",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Sex_shop",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Sex-shops-on-boulevard-de-clichi.jpg/960px-Sex-shops-on-boulevard-de-clichi.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Sex_shop"
+        }
+      },
+      {
+        "id": "sydney-bookshops-5",
+        "name": "Raymond Bonner",
+        "cityId": "sydney",
+        "categoryId": "bookshops",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Raymond%20Bonner%2C%20Sydney",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Raymond_Bonner",
+        "photo": null
+      },
+      {
+        "id": "sydney-bookshops-6",
+        "name": "Red Eureka Movement",
+        "cityId": "sydney",
+        "categoryId": "bookshops",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Red%20Eureka%20Movement%2C%20Sydney",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Red_Eureka_Movement",
+        "photo": null
+      },
+      {
+        "id": "sydney-bookshops-7",
+        "name": "Angus & Robertson",
+        "cityId": "sydney",
+        "categoryId": "bookshops",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Angus%20%26%20Robertson%2C%20Sydney",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Angus_%26_Robertson",
+        "photo": null
+      },
+      {
+        "id": "sydney-bookshops-8",
+        "name": "Borders",
+        "cityId": "sydney",
+        "categoryId": "bookshops",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Borders%2C%20Sydney",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Borders_(retailer)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Borders_The_Curve_%28211029%29.jpg/960px-Borders_The_Curve_%28211029%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Borders_(retailer)"
+        }
+      },
+      {
+        "id": "sydney-bookshops-9",
+        "name": "Bluestockings",
+        "cityId": "sydney",
+        "categoryId": "bookshops",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Bluestockings%2C%20Sydney",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Bluestockings_(bookstore)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Bluestockings_%28142607424%29.jpg/960px-Bluestockings_%28142607424%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Bluestockings_(bookstore)"
+        }
+      },
+      {
+        "id": "sydney-bookshops-10",
+        "name": "Weiser Antiquarian Books",
+        "cityId": "sydney",
+        "categoryId": "bookshops",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Weiser%20Antiquarian%20Books%2C%20Sydney",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Weiser_Antiquarian_Books",
+        "photo": null
+      },
+      {
+        "id": "sydney-bookshops-11",
+        "name": "Notre Dame Victory March",
+        "cityId": "sydney",
+        "categoryId": "bookshops",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Notre%20Dame%20Victory%20March%2C%20Sydney",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Notre_Dame_Victory_March",
+        "photo": null
+      },
+      {
+        "id": "sydney-bookshops-12",
+        "name": "The Catholic Weekly",
+        "cityId": "sydney",
+        "categoryId": "bookshops",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Catholic%20Weekly%2C%20Sydney",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/The_Catholic_Weekly",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Freeman%27s_Journal_27_June_1850.PNG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/The_Catholic_Weekly"
+        }
+      },
+      {
+        "id": "sydney-bookshops-13",
+        "name": "Wild & Woolley",
+        "cityId": "sydney",
+        "categoryId": "bookshops",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Wild%20%26%20Woolley%2C%20Sydney",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Wild_%26_Woolley",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Wild%26WoolleyRonCobbandRobinLove.jpg/960px-Wild%26WoolleyRonCobbandRobinLove.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Wild_%26_Woolley"
+        }
+      },
+      {
+        "id": "sydney-bookshops-14",
+        "name": "Booktopia",
+        "cityId": "sydney",
+        "categoryId": "bookshops",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Booktopia%2C%20Sydney",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Booktopia",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Booktopia-logo.jpg/960px-Booktopia-logo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Booktopia"
+        }
+      },
+      {
+        "id": "sydney-bookshops-15",
+        "name": "Pink Champagne",
+        "cityId": "sydney",
+        "categoryId": "bookshops",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Pink%20Champagne%2C%20Sydney",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Pink_Champagne",
+        "photo": null
+      },
+      {
+        "id": "sydney-bookshops-16",
+        "name": "Shobhna S. Kumar",
+        "cityId": "sydney",
+        "categoryId": "bookshops",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Shobhna%20S.%20Kumar%2C%20Sydney",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Shobhna_S._Kumar",
+        "photo": null
+      },
+      {
+        "id": "sydney-bookshops-17",
+        "name": "Hello, Bookstore",
+        "cityId": "sydney",
+        "categoryId": "bookshops",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Hello%2C%20Bookstore%2C%20Sydney",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Hello%2C_Bookstore",
+        "photo": null
+      },
+      {
+        "id": "sydney-bookshops-18",
+        "name": "Infoshop",
+        "cityId": "sydney",
+        "categoryId": "bookshops",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Infoshop%2C%20Sydney",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Infoshop",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/L%27Insoumise_Montreal.jpg/960px-L%27Insoumise_Montreal.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Infoshop"
+        }
+      }
+    ],
+    "museums": [
+      {
+        "id": "sydney-museums-1",
+        "name": "Australian Museum",
+        "cityId": "sydney",
+        "categoryId": "museums",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Australian%20Museum%2C%20Sydney",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Australian_Museum",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/Australian_Museum%2C_Sydney-William_Street_view.jpg/960px-Australian_Museum%2C_Sydney-William_Street_view.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Australian_Museum"
+        }
+      },
+      {
+        "id": "sydney-museums-2",
+        "name": "Powerhouse Museum",
+        "cityId": "sydney",
+        "categoryId": "museums",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Powerhouse%20Museum%2C%20Sydney",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Powerhouse_Museum",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/en/thumb/1/14/Powerhouse_Museum_Logo.jpeg/960px-Powerhouse_Museum_Logo.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Powerhouse_Museum"
+        }
+      },
+      {
+        "id": "sydney-museums-3",
+        "name": "Museum of Contemporary Art Australia",
+        "cityId": "sydney",
+        "categoryId": "museums",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Museum%20of%20Contemporary%20Art%20Australia%2C%20Sydney",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Museum_of_Contemporary_Art_Australia",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Museum_of_Contemporary_Art_Australia_logo.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Museum_of_Contemporary_Art_Australia"
+        }
+      },
+      {
+        "id": "sydney-museums-4",
+        "name": "Museum of Sydney",
+        "cityId": "sydney",
+        "categoryId": "museums",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Museum%20of%20Sydney%2C%20Sydney",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Museum_of_Sydney",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/Museum_of_Sydney_2010.jpg/960px-Museum_of_Sydney_2010.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Museum_of_Sydney"
+        }
+      },
+      {
+        "id": "sydney-museums-5",
+        "name": "William Sydney Porter House",
+        "cityId": "sydney",
+        "categoryId": "museums",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=William%20Sydney%20Porter%20House%2C%20Sydney",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/William_Sydney_Porter_House",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/O_henry_museum_2007.jpg/960px-O_henry_museum_2007.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/William_Sydney_Porter_House"
+        }
+      },
+      {
+        "id": "sydney-museums-6",
+        "name": "Sydney",
+        "cityId": "sydney",
+        "categoryId": "museums",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Sydney%2C%20Sydney",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Sydney",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Sydney_Opera_House_and_Harbour_Bridge_Dusk_%282%29_2019-06-21.jpg/960px-Sydney_Opera_House_and_Harbour_Bridge_Dusk_%282%29_2019-06-21.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Sydney"
+        }
+      },
+      {
+        "id": "sydney-museums-7",
+        "name": "Australian National Maritime Museum",
+        "cityId": "sydney",
+        "categoryId": "museums",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Australian%20National%20Maritime%20Museum%2C%20Sydney",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Australian_National_Maritime_Museum",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Australian_National_Maritime_Museum_1.jpg/960px-Australian_National_Maritime_Museum_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Australian_National_Maritime_Museum"
+        }
+      },
+      {
+        "id": "sydney-museums-8",
+        "name": "City Circle",
+        "cityId": "sydney",
+        "categoryId": "museums",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=City%20Circle%2C%20Sydney",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/City_Circle",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Town_Hall_railway_station%2C_Sydney%2C_2022.jpg/960px-Town_Hall_railway_station%2C_Sydney%2C_2022.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/City_Circle"
+        }
+      },
+      {
+        "id": "sydney-museums-9",
+        "name": "Sydney Tramway Museum",
+        "cityId": "sydney",
+        "categoryId": "museums",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Sydney%20Tramway%20Museum%2C%20Sydney",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Sydney_Tramway_Museum",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/NSWDRTT_R1-class_Tram_1979_during_shuttle_run.jpg/960px-NSWDRTT_R1-class_Tram_1979_during_shuttle_run.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Sydney_Tramway_Museum"
+        }
+      },
+      {
+        "id": "sydney-museums-10",
+        "name": "Museum railway station",
+        "cityId": "sydney",
+        "categoryId": "museums",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Museum%20railway%20station%2C%20Sydney",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Museum_railway_station",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/Museum_Station%2C_Sydney.jpg/960px-Museum_Station%2C_Sydney.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Museum_railway_station"
+        }
+      },
+      {
+        "id": "sydney-museums-11",
+        "name": "Justice and Police Museum",
+        "cityId": "sydney",
+        "categoryId": "museums",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Justice%20and%20Police%20Museum%2C%20Sydney",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Justice_and_Police_Museum",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Justice_and_Police_Museum_%28Former_Water_Police_Courts%29_-_Sydney%2C_NSW_%287889996040%29.jpg/960px-Justice_and_Police_Museum_%28Former_Water_Police_Courts%29_-_Sydney%2C_NSW_%287889996040%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Justice_and_Police_Museum"
+        }
+      },
+      {
+        "id": "sydney-museums-12",
+        "name": "University of Sydney",
+        "cityId": "sydney",
+        "categoryId": "museums",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=University%20of%20Sydney%2C%20Sydney",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/University_of_Sydney",
+        "photo": null
+      },
+      {
+        "id": "sydney-museums-13",
+        "name": "Culture of Sydney",
+        "cityId": "sydney",
+        "categoryId": "museums",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Culture%20of%20Sydney%2C%20Sydney",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Culture_of_Sydney",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/Sydney_Opera_House_-_Dec_2008.jpg/960px-Sydney_Opera_House_-_Dec_2008.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Culture_of_Sydney"
+        }
+      },
+      {
+        "id": "sydney-museums-14",
+        "name": "Circular Quay",
+        "cityId": "sydney",
+        "categoryId": "museums",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Circular%20Quay%2C%20Sydney",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Circular_Quay",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/North_view_of_Sydney_Opera_House%2C_the_Rocks_and_Sydney_CBD_20230223_1.jpg/960px-North_view_of_Sydney_Opera_House%2C_the_Rocks_and_Sydney_CBD_20230223_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Circular_Quay"
+        }
+      },
+      {
+        "id": "sydney-museums-15",
+        "name": "Richmond Vale Railway Museum",
+        "cityId": "sydney",
+        "categoryId": "museums",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Richmond%20Vale%20Railway%20Museum%2C%20Sydney",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Richmond_Vale_Railway_Museum",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/SMR30_near_Pelaw_Main.jpg/960px-SMR30_near_Pelaw_Main.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Richmond_Vale_Railway_Museum"
+        }
+      },
+      {
+        "id": "sydney-museums-16",
+        "name": "Sydney central business district",
+        "cityId": "sydney",
+        "categoryId": "museums",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Sydney%20central%20business%20district%2C%20Sydney",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Sydney_central_business_district",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Sydney_CBD_aerial.jpg/960px-Sydney_CBD_aerial.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Sydney_central_business_district"
+        }
+      },
+      {
+        "id": "sydney-museums-17",
+        "name": "Hyde Park Barracks, Sydney",
+        "cityId": "sydney",
+        "categoryId": "museums",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Hyde%20Park%20Barracks%2C%20Sydney%2C%20Sydney",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Hyde_Park_Barracks%2C_Sydney",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/HydeParkBarracks.JPG/960px-HydeParkBarracks.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Hyde_Park_Barracks%2C_Sydney"
+        }
+      },
+      {
+        "id": "sydney-museums-18",
+        "name": "Balaka Falls",
+        "cityId": "sydney",
+        "categoryId": "museums",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Balaka%20Falls%2C%20Sydney",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Balaka_Falls",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Balaka_Falls.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Balaka_Falls"
+        }
+      }
+    ],
+    "concerts": [
+      {
+        "id": "sydney-concerts-1",
+        "name": "Sydney Opera House",
+        "cityId": "sydney",
+        "categoryId": "concerts",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Sydney%20Opera%20House%2C%20Sydney",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Sydney_Opera_House",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/Sydney_Opera_House_2026.jpg/960px-Sydney_Opera_House_2026.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Sydney_Opera_House"
+        }
+      },
+      {
+        "id": "sydney-concerts-2",
+        "name": "Sydney Symphony Orchestra",
+        "cityId": "sydney",
+        "categoryId": "concerts",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Sydney%20Symphony%20Orchestra%2C%20Sydney",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Sydney_Symphony_Orchestra",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/Sydney_Opera_House_concert_hall_October_2018.jpg/960px-Sydney_Opera_House_concert_hall_October_2018.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Sydney_Symphony_Orchestra"
+        }
+      },
+      {
+        "id": "sydney-concerts-3",
+        "name": "Music of Sydney",
+        "cityId": "sydney",
+        "categoryId": "concerts",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Music%20of%20Sydney%2C%20Sydney",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Music_of_Sydney",
+        "photo": null
+      },
+      {
+        "id": "sydney-concerts-4",
+        "name": "The New Crystal Silence",
+        "cityId": "sydney",
+        "categoryId": "concerts",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20New%20Crystal%20Silence%2C%20Sydney",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/The_New_Crystal_Silence",
+        "photo": null
+      },
+      {
+        "id": "sydney-concerts-5",
+        "name": "The Concourse, Chatswood",
+        "cityId": "sydney",
+        "categoryId": "concerts",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Concourse%2C%20Chatswood%2C%20Sydney",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/The_Concourse%2C_Chatswood",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Chatswood_Concourse_sunset.jpg/960px-Chatswood_Concourse_sunset.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/The_Concourse%2C_Chatswood"
+        }
+      },
+      {
+        "id": "sydney-concerts-6",
+        "name": "Yasuhisa Toyota",
+        "cityId": "sydney",
+        "categoryId": "concerts",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Yasuhisa%20Toyota%2C%20Sydney",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Yasuhisa_Toyota",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/20130118_Bing_from_the_choral_Terrace_phil_King.jpg/960px-20130118_Bing_from_the_choral_Terrace_phil_King.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Yasuhisa_Toyota"
+        }
+      },
+      {
+        "id": "sydney-concerts-7",
+        "name": "Nancye Hayes",
+        "cityId": "sydney",
+        "categoryId": "concerts",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Nancye%20Hayes%2C%20Sydney",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Nancye_Hayes",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Nancye_Hayes_with_portrait_by_Australian_artist_John_Klein%2C_2019.jpg/960px-Nancye_Hayes_with_portrait_by_Australian_artist_John_Klein%2C_2019.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Nancye_Hayes"
+        }
+      },
+      {
+        "id": "sydney-concerts-8",
+        "name": "Sketches of Frank Gehry",
+        "cityId": "sydney",
+        "categoryId": "concerts",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Sketches%20of%20Frank%20Gehry%2C%20Sydney",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Sketches_of_Frank_Gehry",
+        "photo": null
+      },
+      {
+        "id": "sydney-concerts-9",
+        "name": "Perth Concert Hall",
+        "cityId": "sydney",
+        "categoryId": "concerts",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Perth%20Concert%20Hall%2C%20Sydney",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Perth_Concert_Hall_(Western_Australia)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Perth_concert_hall_01_gnangarra.jpg/960px-Perth_concert_hall_01_gnangarra.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Perth_Concert_Hall_(Western_Australia)"
+        }
+      },
+      {
+        "id": "sydney-concerts-10",
+        "name": "Walt Disney Concert Hall",
+        "cityId": "sydney",
+        "categoryId": "concerts",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Walt%20Disney%20Concert%20Hall%2C%20Sydney",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Walt_Disney_Concert_Hall",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Walt_Disney_Concert_Hall%2C_LA%2C_CA%2C_jjron_22.03.2012.jpg/960px-Walt_Disney_Concert_Hall%2C_LA%2C_CA%2C_jjron_22.03.2012.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Walt_Disney_Concert_Hall"
+        }
+      },
+      {
+        "id": "sydney-concerts-11",
+        "name": "3XN",
+        "cityId": "sydney",
+        "categoryId": "concerts",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=3XN%2C%20Sydney",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/3XN",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/Quay_Quarter_Tower%2C_Governor_Phillip_Tower%2C_Sydney%2C_2023%2C_03.jpg/960px-Quay_Quarter_Tower%2C_Governor_Phillip_Tower%2C_Sydney%2C_2023%2C_03.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/3XN"
+        }
+      },
+      {
+        "id": "sydney-concerts-12",
+        "name": "Aarhus Pride",
+        "cityId": "sydney",
+        "categoryId": "concerts",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Aarhus%20Pride%2C%20Sydney",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Aarhus_Pride",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Aarhus_Pride%2C_2012%2C_start_of_day.jpg/960px-Aarhus_Pride%2C_2012%2C_start_of_day.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Aarhus_Pride"
+        }
+      },
+      {
+        "id": "sydney-concerts-13",
+        "name": "Lewis Fiander",
+        "cityId": "sydney",
+        "categoryId": "concerts",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Lewis%20Fiander%2C%20Sydney",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Lewis_Fiander",
+        "photo": null
+      },
+      {
+        "id": "sydney-concerts-14",
+        "name": "Trocadero",
+        "cityId": "sydney",
+        "categoryId": "concerts",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Trocadero%2C%20Sydney",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Trocadero",
+        "photo": null
+      },
+      {
+        "id": "sydney-concerts-15",
+        "name": "Peter Hall",
+        "cityId": "sydney",
+        "categoryId": "concerts",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Peter%20Hall%2C%20Sydney",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Peter_Hall_(architect)",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Sydney_Opera_House_under_construction%2C_late_1965.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Peter_Hall_(architect)"
+        }
+      },
+      {
+        "id": "sydney-concerts-16",
+        "name": "Centre 200",
+        "cityId": "sydney",
+        "categoryId": "concerts",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Centre%20200%2C%20Sydney",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Centre_200",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/Centre_200_in_Sydney%2C_Nova_Scotia%2C_Canada.jpg/960px-Centre_200_in_Sydney%2C_Nova_Scotia%2C_Canada.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Centre_200"
+        }
+      },
+      {
+        "id": "sydney-concerts-17",
+        "name": "Hamer Hall, Melbourne",
+        "cityId": "sydney",
+        "categoryId": "concerts",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Hamer%20Hall%2C%20Melbourne%2C%20Sydney",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Hamer_Hall%2C_Melbourne",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Hamer_Hall_interior_pano.jpg/960px-Hamer_Hall_interior_pano.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Hamer_Hall%2C_Melbourne"
+        }
+      },
+      {
+        "id": "sydney-concerts-18",
+        "name": "Berliner Philharmonie",
+        "cityId": "sydney",
+        "categoryId": "concerts",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Berliner%20Philharmonie%2C%20Sydney",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Berliner_Philharmonie",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Berlin_Philharmonie_asv2018-05_img2.jpg/960px-Berlin_Philharmonie_asv2018-05_img2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Berliner_Philharmonie"
+        }
+      }
+    ],
+    "fashion": [
+      {
+        "id": "sydney-fashion-1",
+        "name": "Just Group",
+        "cityId": "sydney",
+        "categoryId": "fashion",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Just%20Group%2C%20Sydney",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Just_Group",
+        "photo": null
+      },
+      {
+        "id": "sydney-fashion-2",
+        "name": "Wayne Cooper",
+        "cityId": "sydney",
+        "categoryId": "fashion",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Wayne%20Cooper%2C%20Sydney",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Wayne_Cooper_(fashion_designer)",
+        "photo": null
+      },
+      {
+        "id": "sydney-fashion-3",
+        "name": "James McGowen",
+        "cityId": "sydney",
+        "categoryId": "fashion",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=James%20McGowen%2C%20Sydney",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/James_McGowen_(Tasmanian_politician)",
+        "photo": null
+      },
+      {
+        "id": "sydney-fashion-4",
+        "name": "Best & Less",
+        "cityId": "sydney",
+        "categoryId": "fashion",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Best%20%26%20Less%2C%20Sydney",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Best_%26_Less",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Best_%26_Less%2C_Westfield_Carousel.jpg/960px-Best_%26_Less%2C_Westfield_Carousel.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Best_%26_Less"
+        }
+      },
+      {
+        "id": "sydney-fashion-5",
+        "name": "Dotti",
+        "cityId": "sydney",
+        "categoryId": "fashion",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Dotti%2C%20Sydney",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Dotti_(retailer)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Dotti%2C_Westfield_Carousel.jpg/960px-Dotti%2C_Westfield_Carousel.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Dotti_(retailer)"
+        }
+      },
+      {
+        "id": "sydney-fashion-6",
+        "name": "Oxley Park",
+        "cityId": "sydney",
+        "categoryId": "fashion",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Oxley%20Park%2C%20Sydney",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Oxley_Park",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/OxleyParkNSWschool.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Oxley_Park"
+        }
+      },
+      {
+        "id": "sydney-fashion-7",
+        "name": "Witchery",
+        "cityId": "sydney",
+        "categoryId": "fashion",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Witchery%2C%20Sydney",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Witchery_(company)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/Witchery_store_in_the_Canberra_Centre_February_2026.jpg/960px-Witchery_store_in_the_Canberra_Centre_February_2026.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Witchery_(company)"
+        }
+      },
+      {
+        "id": "sydney-fashion-8",
+        "name": "Leo Geoghegan",
+        "cityId": "sydney",
+        "categoryId": "fashion",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Leo%20Geoghegan%2C%20Sydney",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Leo_Geoghegan",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Leo_Geoghegan_2011.jpg/960px-Leo_Geoghegan_2011.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Leo_Geoghegan"
+        }
+      },
+      {
+        "id": "sydney-fashion-9",
+        "name": "Highpoint Shopping Centre",
+        "cityId": "sydney",
+        "categoryId": "fashion",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Highpoint%20Shopping%20Centre%2C%20Sydney",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Highpoint_Shopping_Centre",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Spine_Roof_of_highpoint_shopping_centre%2C_melbourne_australia.jpg/960px-Spine_Roof_of_highpoint_shopping_centre%2C_melbourne_australia.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Highpoint_Shopping_Centre"
+        }
+      },
+      {
+        "id": "sydney-fashion-10",
+        "name": "Cue",
+        "cityId": "sydney",
+        "categoryId": "fashion",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Cue%2C%20Sydney",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Cue_(clothing)",
+        "photo": null
+      },
+      {
+        "id": "sydney-fashion-11",
+        "name": "Heidi Fleiss",
+        "cityId": "sydney",
+        "categoryId": "fashion",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Heidi%20Fleiss%2C%20Sydney",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Heidi_Fleiss",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/23/Heidifleiss.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Heidi_Fleiss"
+        }
+      },
+      {
+        "id": "sydney-fashion-12",
+        "name": "Nick Sheppard",
+        "cityId": "sydney",
+        "categoryId": "fashion",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Nick%20Sheppard%2C%20Sydney",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Nick_Sheppard",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/Nick_Sheppard_%28cropped%29.jpg/960px-Nick_Sheppard_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Nick_Sheppard"
+        }
+      },
+      {
+        "id": "sydney-fashion-13",
+        "name": "2007 Freetown explosions",
+        "cityId": "sydney",
+        "categoryId": "fashion",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=2007%20Freetown%20explosions%2C%20Sydney",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/2007_Freetown_explosions",
+        "photo": null
+      },
+      {
+        "id": "sydney-fashion-14",
+        "name": "Steve Pavlovic",
+        "cityId": "sydney",
+        "categoryId": "fashion",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Steve%20Pavlovic%2C%20Sydney",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Steve_Pavlovic",
+        "photo": null
+      },
+      {
+        "id": "sydney-fashion-15",
+        "name": "General Pants Co.",
+        "cityId": "sydney",
+        "categoryId": "fashion",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=General%20Pants%20Co.%2C%20Sydney",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/General_Pants_Co.",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/General_Pants_Co.%2C_Karrinyup_Shopping_Centre.jpg/960px-General_Pants_Co.%2C_Karrinyup_Shopping_Centre.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/General_Pants_Co."
+        }
+      },
+      {
+        "id": "sydney-fashion-16",
+        "name": "Selwyn",
+        "cityId": "sydney",
+        "categoryId": "fashion",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Selwyn%2C%20Sydney",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Selwyn_(singer)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Selwyn_Pretorius.jpg/960px-Selwyn_Pretorius.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Selwyn_(singer)"
+        }
+      },
+      {
+        "id": "sydney-fashion-17",
+        "name": "Tobias Sorensen",
+        "cityId": "sydney",
+        "categoryId": "fashion",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Tobias%20Sorensen%2C%20Sydney",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Tobias_Sorensen",
+        "photo": null
+      },
+      {
+        "id": "sydney-fashion-18",
+        "name": "Kate Atkinson",
+        "cityId": "sydney",
+        "categoryId": "fashion",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Kate%20Atkinson%2C%20Sydney",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Kate_Atkinson_(actress)",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Kate_Atkinson.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Kate_Atkinson_(actress)"
+        }
+      }
+    ],
+    "shops": [
+      {
+        "id": "sydney-shops-1",
+        "name": "Cop Shop",
+        "cityId": "sydney",
+        "categoryId": "shops",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Cop%20Shop%2C%20Sydney",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Cop_Shop",
+        "photo": null
+      },
+      {
+        "id": "sydney-shops-2",
+        "name": "Sydney Olympic Park Aquatic Centre",
+        "cityId": "sydney",
+        "categoryId": "shops",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Sydney%20Olympic%20Park%20Aquatic%20Centre%2C%20Sydney",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Sydney_Olympic_Park_Aquatic_Centre",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/Sydney_Olympic_Park_Aquatic_Centre.jpg/960px-Sydney_Olympic_Park_Aquatic_Centre.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Sydney_Olympic_Park_Aquatic_Centre"
+        }
+      },
+      {
+        "id": "sydney-shops-3",
+        "name": "The Strand Arcade",
+        "cityId": "sydney",
+        "categoryId": "shops",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Strand%20Arcade%2C%20Sydney",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/The_Strand_Arcade",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/The_Strand_Arcade_interior_photographed_from_the_top_level%2C_Sydney_02.jpg/960px-The_Strand_Arcade_interior_photographed_from_the_top_level%2C_Sydney_02.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/The_Strand_Arcade"
+        }
+      },
+      {
+        "id": "sydney-shops-4",
+        "name": "The Rocks, New South Wales",
+        "cityId": "sydney",
+        "categoryId": "shops",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Rocks%2C%20New%20South%20Wales%2C%20Sydney",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/The_Rocks%2C_New_South_Wales",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/Sydney_%28AU%29%2C_The_Rocks_--_2019_--_2133.jpg/960px-Sydney_%28AU%29%2C_The_Rocks_--_2019_--_2133.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/The_Rocks%2C_New_South_Wales"
+        }
+      },
+      {
+        "id": "sydney-shops-5",
+        "name": "Como West",
+        "cityId": "sydney",
+        "categoryId": "shops",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Como%20West%2C%20Sydney",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Como_West",
+        "photo": null
+      },
+      {
+        "id": "sydney-shops-6",
+        "name": "Gannon House",
+        "cityId": "sydney",
+        "categoryId": "shops",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Gannon%20House%2C%20Sydney",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Gannon_House",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Gannon_House%2C_45-47_Argyle_Street%2C_The_Rocks.jpg/960px-Gannon_House%2C_45-47_Argyle_Street%2C_The_Rocks.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Gannon_House"
+        }
+      },
+      {
+        "id": "sydney-shops-7",
+        "name": "Sex shop",
+        "cityId": "sydney",
+        "categoryId": "shops",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Sex%20shop%2C%20Sydney",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Sex_shop",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Sex-shops-on-boulevard-de-clichi.jpg/960px-Sex-shops-on-boulevard-de-clichi.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Sex_shop"
+        }
+      },
+      {
+        "id": "sydney-shops-8",
+        "name": "The Reject Shop",
+        "cityId": "sydney",
+        "categoryId": "shops",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Reject%20Shop%2C%20Sydney",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/The_Reject_Shop",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/The_Reject_Shop%2C_Westfield_Whitford_City.jpg/960px-The_Reject_Shop%2C_Westfield_Whitford_City.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/The_Reject_Shop"
+        }
+      },
+      {
+        "id": "sydney-shops-9",
+        "name": "Randwick Bus Depot",
+        "cityId": "sydney",
+        "categoryId": "shops",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Randwick%20Bus%20Depot%2C%20Sydney",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Randwick_Bus_Depot",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Tramway_workshop%2C_Randwick_1919.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Randwick_Bus_Depot"
+        }
+      },
+      {
+        "id": "sydney-shops-10",
+        "name": "Susannah Place",
+        "cityId": "sydney",
+        "categoryId": "shops",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Susannah%20Place%2C%20Sydney",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Susannah_Place",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/The-Rocks.jpg/960px-The-Rocks.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Susannah_Place"
+        }
+      },
+      {
+        "id": "sydney-shops-11",
+        "name": ".shop",
+        "cityId": "sydney",
+        "categoryId": "shops",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=.shop%2C%20Sydney",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/.shop",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/DotShop_gTLD_logo.svg/960px-DotShop_gTLD_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/.shop"
+        }
+      },
+      {
+        "id": "sydney-shops-12",
+        "name": "Coledale, New South Wales",
+        "cityId": "sydney",
+        "categoryId": "shops",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Coledale%2C%20New%20South%20Wales%2C%20Sydney",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Coledale%2C_New_South_Wales",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Aerial_view_of_Coledale%2C_NSW.jpg/960px-Aerial_view_of_Coledale%2C_NSW.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Coledale%2C_New_South_Wales"
+        }
+      },
+      {
+        "id": "sydney-shops-13",
+        "name": "Little Shop of Horrors",
+        "cityId": "sydney",
+        "categoryId": "shops",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Little%20Shop%20of%20Horrors%2C%20Sydney",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Little_Shop_of_Horrors_(musical)",
+        "photo": null
+      },
+      {
+        "id": "sydney-shops-14",
+        "name": "Florence Violet McKenzie",
+        "cityId": "sydney",
+        "categoryId": "shops",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Florence%20Violet%20McKenzie%2C%20Sydney",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Florence_Violet_McKenzie",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/19/Florence_Violet_McKenzie_in_WESC_uniform.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Florence_Violet_McKenzie"
+        }
+      },
+      {
+        "id": "sydney-shops-15",
+        "name": "Prospect Post Office",
+        "cityId": "sydney",
+        "categoryId": "shops",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Prospect%20Post%20Office%2C%20Sydney",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Prospect_Post_Office",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Jgb-Old_Prospect_Post_Office_-_20050727-2.jpg/960px-Jgb-Old_Prospect_Post_Office_-_20050727-2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Prospect_Post_Office"
+        }
+      },
+      {
+        "id": "sydney-shops-16",
+        "name": ".xyz",
+        "cityId": "sydney",
+        "categoryId": "shops",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=.xyz%2C%20Sydney",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/.xyz",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/.xyz_logo.svg/960px-.xyz_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/.xyz"
+        }
+      },
+      {
+        "id": "sydney-shops-17",
+        "name": "Cardiff Locomotive Workshops",
+        "cityId": "sydney",
+        "categoryId": "shops",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Cardiff%20Locomotive%20Workshops%2C%20Sydney",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Cardiff_Locomotive_Workshops",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Cardiff_056901.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Cardiff_Locomotive_Workshops"
+        }
+      },
+      {
+        "id": "sydney-shops-18",
+        "name": "Logie Awards of 1981",
+        "cityId": "sydney",
+        "categoryId": "shops",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Logie%20Awards%20of%201981%2C%20Sydney",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Logie_Awards_of_1981",
+        "photo": null
+      }
+    ]
+  }
+}

@@ -1,0 +1,1560 @@
+{
+  "cityId": "san-francisco",
+  "generatedAt": "2026-11-27T08:54:24.262Z",
+  "source": "Wikipedia API + Maps URLs (sin scraping de Google)",
+  "incomplete": [
+    "restaurants",
+    "bars",
+    "coffee_shops"
+  ],
+  "categories": {
+    "night_clubs": [
+      {
+        "id": "san-francisco-night_clubs-1",
+        "name": "The Boarding House",
+        "cityId": "san-francisco",
+        "categoryId": "night_clubs",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Boarding%20House%2C%20San%20Francisco",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/The_Boarding_House_(nightclub)",
+        "photo": null
+      },
+      {
+        "id": "san-francisco-night_clubs-2",
+        "name": "Forbidden City",
+        "cityId": "san-francisco",
+        "categoryId": "night_clubs",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Forbidden%20City%2C%20San%20Francisco",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Forbidden_City_(nightclub)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Charlie_Low%27s_Forbidden_City.jpg/960px-Charlie_Low%27s_Forbidden_City.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Forbidden_City_(nightclub)"
+        }
+      },
+      {
+        "id": "san-francisco-night_clubs-3",
+        "name": "Hungry I",
+        "cityId": "san-francisco",
+        "categoryId": "night_clubs",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Hungry%20I%2C%20San%20Francisco",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Hungry_I",
+        "photo": null
+      },
+      {
+        "id": "san-francisco-night_clubs-4",
+        "name": "In Person Friday and Saturday Nights at the Blackhawk, Complete",
+        "cityId": "san-francisco",
+        "categoryId": "night_clubs",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=In%20Person%20Friday%20and%20Saturday%20Nights%20at%20the%20Blackhawk%2C%20Complete%2C%20San%20Francisco",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/In_Person_Friday_and_Saturday_Nights_at_the_Blackhawk%2C_Complete",
+        "photo": null
+      },
+      {
+        "id": "san-francisco-night_clubs-5",
+        "name": "Mabuhay Gardens",
+        "cityId": "san-francisco",
+        "categoryId": "night_clubs",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Mabuhay%20Gardens%2C%20San%20Francisco",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Mabuhay_Gardens",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/Broadway_Studios%2C_San_Francisco.jpg/960px-Broadway_Studios%2C_San_Francisco.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Mabuhay_Gardens"
+        }
+      },
+      {
+        "id": "san-francisco-night_clubs-6",
+        "name": "Black Hawk",
+        "cityId": "san-francisco",
+        "categoryId": "night_clubs",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Black%20Hawk%2C%20San%20Francisco",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Black_Hawk_(nightclub)",
+        "photo": null
+      },
+      {
+        "id": "san-francisco-night_clubs-7",
+        "name": "Condor Club",
+        "cityId": "san-francisco",
+        "categoryId": "night_clubs",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Condor%20Club%2C%20San%20Francisco",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Condor_Club",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Condor_Club.jpg/960px-Condor_Club.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Condor_Club"
+        }
+      },
+      {
+        "id": "san-francisco-night_clubs-8",
+        "name": "Yoshi's",
+        "cityId": "san-francisco",
+        "categoryId": "night_clubs",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Yoshi's%2C%20San%20Francisco",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Yoshi's",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/Yoshi%27s_Jazz_Club_Oakland.jpg/960px-Yoshi%27s_Jazz_Club_Oakland.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Yoshi's"
+        }
+      },
+      {
+        "id": "san-francisco-night_clubs-9",
+        "name": "Slim's",
+        "cityId": "san-francisco",
+        "categoryId": "night_clubs",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Slim's%2C%20San%20Francisco",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Slim's",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/Citizen_at_Slim%27s.jpg/960px-Citizen_at_Slim%27s.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Slim's"
+        }
+      },
+      {
+        "id": "san-francisco-night_clubs-10",
+        "name": "Bimbo's 365 Club",
+        "cityId": "san-francisco",
+        "categoryId": "night_clubs",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Bimbo's%20365%20Club%2C%20San%20Francisco",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Bimbo's_365_Club",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/Bimbo%27s_Marquee.jpg/960px-Bimbo%27s_Marquee.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Bimbo's_365_Club"
+        }
+      },
+      {
+        "id": "san-francisco-night_clubs-11",
+        "name": "Club Fugazi",
+        "cityId": "san-francisco",
+        "categoryId": "night_clubs",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Club%20Fugazi%2C%20San%20Francisco",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Club_Fugazi",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Club_Fugazi_entrance%2C_2017-02-10.jpg/960px-Club_Fugazi_entrance%2C_2017-02-10.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Club_Fugazi"
+        }
+      },
+      {
+        "id": "san-francisco-night_clubs-12",
+        "name": "AMC Kabuki 8",
+        "cityId": "san-francisco",
+        "categoryId": "night_clubs",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=AMC%20Kabuki%208%2C%20San%20Francisco",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/AMC_Kabuki_8",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Sundance_Kabuki_Cinemas%2C_Japan_Center_2.JPG/960px-Sundance_Kabuki_Cinemas%2C_Japan_Center_2.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/AMC_Kabuki_8"
+        }
+      },
+      {
+        "id": "san-francisco-night_clubs-13",
+        "name": "Showgirl Magic Museum",
+        "cityId": "san-francisco",
+        "categoryId": "night_clubs",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Showgirl%20Magic%20Museum%2C%20San%20Francisco",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Showgirl_Magic_Museum",
+        "photo": null
+      },
+      {
+        "id": "san-francisco-night_clubs-14",
+        "name": "The EndUp",
+        "cityId": "san-francisco",
+        "categoryId": "night_clubs",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20EndUp%2C%20San%20Francisco",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/The_EndUp",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/End_Up.jpg/960px-End_Up.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/The_EndUp"
+        }
+      },
+      {
+        "id": "san-francisco-night_clubs-15",
+        "name": "Maritime Hall",
+        "cityId": "san-francisco",
+        "categoryId": "night_clubs",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Maritime%20Hall%2C%20San%20Francisco",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Maritime_Hall",
+        "photo": null
+      },
+      {
+        "id": "san-francisco-night_clubs-16",
+        "name": "Badlands",
+        "cityId": "san-francisco",
+        "categoryId": "night_clubs",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Badlands%2C%20San%20Francisco",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Badlands_(San_Francisco)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Badlands_bar%2C_San_Francisco%2C_October_2023.jpg/960px-Badlands_bar%2C_San_Francisco%2C_October_2023.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Badlands_(San_Francisco)"
+        }
+      },
+      {
+        "id": "san-francisco-night_clubs-17",
+        "name": "I-Beam",
+        "cityId": "san-francisco",
+        "categoryId": "night_clubs",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=I-Beam%2C%20San%20Francisco",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/I-Beam_(nightclub)",
+        "photo": null
+      },
+      {
+        "id": "san-francisco-night_clubs-18",
+        "name": "Punch Line San Francisco",
+        "cityId": "san-francisco",
+        "categoryId": "night_clubs",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Punch%20Line%20San%20Francisco%2C%20San%20Francisco",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Punch_Line_San_Francisco",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Punch_Line_San_Francisco.jpg/960px-Punch_Line_San_Francisco.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Punch_Line_San_Francisco"
+        }
+      }
+    ],
+    "restaurants": [],
+    "bars": [],
+    "coffee_shops": [],
+    "bookshops": [
+      {
+        "id": "san-francisco-bookshops-1",
+        "name": "City Lights Bookstore",
+        "cityId": "san-francisco",
+        "categoryId": "bookshops",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=City%20Lights%20Bookstore%2C%20San%20Francisco",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/City_Lights_Bookstore",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/City_Lights_Booksellers.jpg/960px-City_Lights_Booksellers.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/City_Lights_Bookstore"
+        }
+      },
+      {
+        "id": "san-francisco-bookshops-2",
+        "name": "Bound Together",
+        "cityId": "san-francisco",
+        "categoryId": "bookshops",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Bound%20Together%2C%20San%20Francisco",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Bound_Together",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Bound_Together_-_shopfront_sign_in_2017.jpg/960px-Bound_Together_-_shopfront_sign_in_2017.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Bound_Together"
+        }
+      },
+      {
+        "id": "san-francisco-bookshops-3",
+        "name": "Jack Kerouac Alley",
+        "cityId": "san-francisco",
+        "categoryId": "bookshops",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Jack%20Kerouac%20Alley%2C%20San%20Francisco",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Jack_Kerouac_Alley",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/2017_Jack_Kerouac_Alley.jpg/960px-2017_Jack_Kerouac_Alley.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Jack_Kerouac_Alley"
+        }
+      },
+      {
+        "id": "san-francisco-bookshops-4",
+        "name": "Vesuvio Cafe",
+        "cityId": "san-francisco",
+        "categoryId": "bookshops",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Vesuvio%20Cafe%2C%20San%20Francisco",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Vesuvio_Cafe",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Vesuvio_mural.jpg/960px-Vesuvio_mural.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Vesuvio_Cafe"
+        }
+      },
+      {
+        "id": "san-francisco-bookshops-5",
+        "name": "Feminist Bookstore News",
+        "cityId": "san-francisco",
+        "categoryId": "bookshops",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Feminist%20Bookstore%20News%2C%20San%20Francisco",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Feminist_Bookstore_News",
+        "photo": null
+      },
+      {
+        "id": "san-francisco-bookshops-6",
+        "name": "Daliel's Gallery",
+        "cityId": "san-francisco",
+        "categoryId": "bookshops",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Daliel's%20Gallery%2C%20San%20Francisco",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Daliel's_Gallery",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/64/Daliel%27s_Bookstore.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Daliel's_Gallery"
+        }
+      },
+      {
+        "id": "san-francisco-bookshops-7",
+        "name": "Booksmith",
+        "cityId": "san-francisco",
+        "categoryId": "bookshops",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Booksmith%2C%20San%20Francisco",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Booksmith",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Booksmith_in_June_2011.jpg/960px-Booksmith_in_June_2011.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Booksmith"
+        }
+      },
+      {
+        "id": "san-francisco-bookshops-8",
+        "name": "Old Wives Tales",
+        "cityId": "san-francisco",
+        "categoryId": "bookshops",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Old%20Wives%20Tales%2C%20San%20Francisco",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Old_Wives_Tales_(bookstore)",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/28/Old_Wives_Tales_bookstore_at_1009_Valencia_Street_-_1983.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Old_Wives_Tales_(bookstore)"
+        }
+      },
+      {
+        "id": "san-francisco-bookshops-9",
+        "name": "Mr. Penumbra's 24-Hour Bookstore",
+        "cityId": "san-francisco",
+        "categoryId": "bookshops",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Mr.%20Penumbra's%2024-Hour%20Bookstore%2C%20San%20Francisco",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Mr._Penumbra's_24-Hour_Bookstore",
+        "photo": null
+      },
+      {
+        "id": "san-francisco-bookshops-10",
+        "name": "A Different Light",
+        "cityId": "san-francisco",
+        "categoryId": "bookshops",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=A%20Different%20Light%2C%20San%20Francisco",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/A_Different_Light_(bookstore)",
+        "photo": null
+      },
+      {
+        "id": "san-francisco-bookshops-11",
+        "name": "Cody's Books",
+        "cityId": "san-francisco",
+        "categoryId": "bookshops",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Cody's%20Books%2C%20San%20Francisco",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Cody's_Books",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/en/thumb/b/bd/CodysClosingSale.jpg/960px-CodysClosingSale.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Cody's_Books"
+        }
+      },
+      {
+        "id": "san-francisco-bookshops-12",
+        "name": "Broadway",
+        "cityId": "san-francisco",
+        "categoryId": "bookshops",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Broadway%2C%20San%20Francisco",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Broadway_(San_Francisco)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Broadway%2C_SF%2C_CA%2C_jjron_25.03.2012.jpg/960px-Broadway%2C_SF%2C_CA%2C_jjron_25.03.2012.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Broadway_(San_Francisco)"
+        }
+      },
+      {
+        "id": "san-francisco-bookshops-13",
+        "name": "Green Apple Books & Music",
+        "cityId": "san-francisco",
+        "categoryId": "bookshops",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Green%20Apple%20Books%20%26%20Music%2C%20San%20Francisco",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Green_Apple_Books_%26_Music",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/95/Greenapplebooks.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Green_Apple_Books_%26_Music"
+        }
+      },
+      {
+        "id": "san-francisco-bookshops-14",
+        "name": "A Woman's Place",
+        "cityId": "san-francisco",
+        "categoryId": "bookshops",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=A%20Woman's%20Place%2C%20San%20Francisco",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/A_Woman's_Place_(bookstore)",
+        "photo": null
+      },
+      {
+        "id": "san-francisco-bookshops-15",
+        "name": "Computer Literacy Bookshops",
+        "cityId": "san-francisco",
+        "categoryId": "bookshops",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Computer%20Literacy%20Bookshops%2C%20San%20Francisco",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Computer_Literacy_Bookshops",
+        "photo": null
+      },
+      {
+        "id": "san-francisco-bookshops-16",
+        "name": "Carol Seajay",
+        "cityId": "san-francisco",
+        "categoryId": "bookshops",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Carol%20Seajay%2C%20San%20Francisco",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Carol_Seajay",
+        "photo": null
+      },
+      {
+        "id": "san-francisco-bookshops-17",
+        "name": "George Leite",
+        "cityId": "san-francisco",
+        "categoryId": "bookshops",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=George%20Leite%2C%20San%20Francisco",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/George_Leite",
+        "photo": null
+      },
+      {
+        "id": "san-francisco-bookshops-18",
+        "name": "Peter D. Martin",
+        "cityId": "san-francisco",
+        "categoryId": "bookshops",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Peter%20D.%20Martin%2C%20San%20Francisco",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Peter_D._Martin",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/New_Yorker_Bookshop_web.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Peter_D._Martin"
+        }
+      }
+    ],
+    "museums": [
+      {
+        "id": "san-francisco-museums-1",
+        "name": "San Francisco Museum of Modern Art",
+        "cityId": "san-francisco",
+        "categoryId": "museums",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=San%20Francisco%20Museum%20of%20Modern%20Art%2C%20San%20Francisco",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/San_Francisco_Museum_of_Modern_Art",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/2017_SFMOMA_from_Yerba_Buena_Gardens.jpg/960px-2017_SFMOMA_from_Yerba_Buena_Gardens.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/San_Francisco_Museum_of_Modern_Art"
+        }
+      },
+      {
+        "id": "san-francisco-museums-2",
+        "name": "Fine Arts Museums of San Francisco",
+        "cityId": "san-francisco",
+        "categoryId": "museums",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Fine%20Arts%20Museums%20of%20San%20Francisco%2C%20San%20Francisco",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Fine_Arts_Museums_of_San_Francisco",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Famsf-logo-2024.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Fine_Arts_Museums_of_San_Francisco"
+        }
+      },
+      {
+        "id": "san-francisco-museums-3",
+        "name": "Asian Art Museum",
+        "cityId": "san-francisco",
+        "categoryId": "museums",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Asian%20Art%20Museum%2C%20San%20Francisco",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Asian_Art_Museum_(San_Francisco)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Terracotta_Warriors_Exhibition_San_Francisco_2013.jpg/960px-Terracotta_Warriors_Exhibition_San_Francisco_2013.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Asian_Art_Museum_(San_Francisco)"
+        }
+      },
+      {
+        "id": "san-francisco-museums-4",
+        "name": "San Francisco Cable Car Museum",
+        "cityId": "san-francisco",
+        "categoryId": "museums",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=San%20Francisco%20Cable%20Car%20Museum%2C%20San%20Francisco",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/San_Francisco_Cable_Car_Museum",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/Exterior_of_the_Ferries_and_Cliff_House_Railway_Co._Building_Constructed_in_1887.jpg/960px-Exterior_of_the_Ferries_and_Cliff_House_Railway_Co._Building_Constructed_in_1887.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/San_Francisco_Cable_Car_Museum"
+        }
+      },
+      {
+        "id": "san-francisco-museums-5",
+        "name": "St. Louis–San Francisco Railway",
+        "cityId": "san-francisco",
+        "categoryId": "museums",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=St.%20Louis%E2%80%93San%20Francisco%20Railway%2C%20San%20Francisco",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/St._Louis%E2%80%93San_Francisco_Railway",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/St._Louis-San_Francisco_Railway_system_map_%281918%29.svg/960px-St._Louis-San_Francisco_Railway_system_map_%281918%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/St._Louis%E2%80%93San_Francisco_Railway"
+        }
+      },
+      {
+        "id": "san-francisco-museums-6",
+        "name": "Legion of Honor",
+        "cityId": "san-francisco",
+        "categoryId": "museums",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Legion%20of%20Honor%2C%20San%20Francisco",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Legion_of_Honor_(museum)",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Famsf-logo-2024.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Legion_of_Honor_(museum)"
+        }
+      },
+      {
+        "id": "san-francisco-museums-7",
+        "name": "San Francisco Railway Museum",
+        "cityId": "san-francisco",
+        "categoryId": "museums",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=San%20Francisco%20Railway%20Museum%2C%20San%20Francisco",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/San_Francisco_Railway_Museum",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c8/San_Francisco_Railway_Museum_Logo.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/San_Francisco_Railway_Museum"
+        }
+      },
+      {
+        "id": "san-francisco-museums-8",
+        "name": "Cartoon Art Museum",
+        "cityId": "san-francisco",
+        "categoryId": "museums",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Cartoon%20Art%20Museum%2C%20San%20Francisco",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Cartoon_Art_Museum",
+        "photo": null
+      },
+      {
+        "id": "san-francisco-museums-9",
+        "name": "De Young Museum",
+        "cityId": "san-francisco",
+        "categoryId": "museums",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=De%20Young%20Museum%2C%20San%20Francisco",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/De_Young_Museum",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Famsf-logo-2024.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/De_Young_Museum"
+        }
+      },
+      {
+        "id": "san-francisco-museums-10",
+        "name": "San Francisco Maritime National Historical Park",
+        "cityId": "san-francisco",
+        "categoryId": "museums",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=San%20Francisco%20Maritime%20National%20Historical%20Park%2C%20San%20Francisco",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/San_Francisco_Maritime_National_Historical_Park",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/San_Francisco_Maritime_National_Historic_Park.JPG/960px-San_Francisco_Maritime_National_Historic_Park.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/San_Francisco_Maritime_National_Historical_Park"
+        }
+      },
+      {
+        "id": "san-francisco-museums-11",
+        "name": "Contemporary Jewish Museum",
+        "cityId": "san-francisco",
+        "categoryId": "museums",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Contemporary%20Jewish%20Museum%2C%20San%20Francisco",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Contemporary_Jewish_Museum",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Contemporary_Jewish_Museum.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Contemporary_Jewish_Museum"
+        }
+      },
+      {
+        "id": "san-francisco-museums-12",
+        "name": "San Francisco International Airport",
+        "cityId": "san-francisco",
+        "categoryId": "museums",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=San%20Francisco%20International%20Airport%2C%20San%20Francisco",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/San_Francisco_International_Airport",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/San_Francisco_International_Airport_aerial_view%2C_Sept._2026_-_03.jpg/960px-San_Francisco_International_Airport_aerial_view%2C_Sept._2026_-_03.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/San_Francisco_International_Airport"
+        }
+      },
+      {
+        "id": "san-francisco-museums-13",
+        "name": "San Francisco cable car system",
+        "cityId": "san-francisco",
+        "categoryId": "museums",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=San%20Francisco%20cable%20car%20system%2C%20San%20Francisco",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/San_Francisco_cable_car_system",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Cable_car_19_on_Hyde_Street%2C_July_2023.JPG/960px-Cable_car_19_on_Hyde_Street%2C_July_2023.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/San_Francisco_cable_car_system"
+        }
+      },
+      {
+        "id": "san-francisco-museums-14",
+        "name": "San Francisco",
+        "cityId": "san-francisco",
+        "categoryId": "museums",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=San%20Francisco%2C%20San%20Francisco",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/San_Francisco",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/Zeppelin-ride-020100925-195_%285029394846%29.jpg/960px-Zeppelin-ride-020100925-195_%285029394846%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/San_Francisco"
+        }
+      },
+      {
+        "id": "san-francisco-museums-15",
+        "name": "Lafayette Park",
+        "cityId": "san-francisco",
+        "categoryId": "museums",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Lafayette%20Park%2C%20San%20Francisco",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Lafayette_Park_(San_Francisco)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Lafayette_Park%2C_San_Francisco%2C_from_the_park%27s_western_edge.jpg/960px-Lafayette_Park%2C_San_Francisco%2C_from_the_park%27s_western_edge.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Lafayette_Park_(San_Francisco)"
+        }
+      },
+      {
+        "id": "san-francisco-museums-16",
+        "name": "Randall Museum",
+        "cityId": "san-francisco",
+        "categoryId": "museums",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Randall%20Museum%2C%20San%20Francisco",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Randall_Museum",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Randall-Museum.jpg/960px-Randall-Museum.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Randall_Museum"
+        }
+      },
+      {
+        "id": "san-francisco-museums-17",
+        "name": "Ansel Adams",
+        "cityId": "san-francisco",
+        "categoryId": "museums",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Ansel%20Adams%2C%20San%20Francisco",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Ansel_Adams",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Ansel_Adams_and_camera.jpg/960px-Ansel_Adams_and_camera.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Ansel_Adams"
+        }
+      },
+      {
+        "id": "san-francisco-museums-18",
+        "name": "Walt Disney Family Museum",
+        "cityId": "san-francisco",
+        "categoryId": "museums",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Walt%20Disney%20Family%20Museum%2C%20San%20Francisco",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Walt_Disney_Family_Museum",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/Walt_Disney_Family_Museum_by_Joy_of_Museums.jpg/960px-Walt_Disney_Family_Museum_by_Joy_of_Museums.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Walt_Disney_Family_Museum"
+        }
+      }
+    ],
+    "concerts": [
+      {
+        "id": "san-francisco-concerts-1",
+        "name": "Bing Concert Hall",
+        "cityId": "san-francisco",
+        "categoryId": "concerts",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Bing%20Concert%20Hall%2C%20San%20Francisco",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Bing_Concert_Hall",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Bing_concert_hall_at_Stanford_University.JPG/960px-Bing_concert_hall_at_Stanford_University.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Bing_Concert_Hall"
+        }
+      },
+      {
+        "id": "san-francisco-concerts-2",
+        "name": "Louise M. Davies Symphony Hall",
+        "cityId": "san-francisco",
+        "categoryId": "concerts",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Louise%20M.%20Davies%20Symphony%20Hall%2C%20San%20Francisco",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Louise_M._Davies_Symphony_Hall",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Daviessymphonyhall.jpg/960px-Daviessymphonyhall.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Louise_M._Davies_Symphony_Hall"
+        }
+      },
+      {
+        "id": "san-francisco-concerts-3",
+        "name": "Maritime Hall",
+        "cityId": "san-francisco",
+        "categoryId": "concerts",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Maritime%20Hall%2C%20San%20Francisco",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Maritime_Hall",
+        "photo": null
+      },
+      {
+        "id": "san-francisco-concerts-4",
+        "name": "Philharmonia Baroque Orchestra",
+        "cityId": "san-francisco",
+        "categoryId": "concerts",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Philharmonia%20Baroque%20Orchestra%2C%20San%20Francisco",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Philharmonia_Baroque_Orchestra",
+        "photo": null
+      },
+      {
+        "id": "san-francisco-concerts-5",
+        "name": "Great American Music Hall",
+        "cityId": "san-francisco",
+        "categoryId": "concerts",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Great%20American%20Music%20Hall%2C%20San%20Francisco",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Great_American_Music_Hall",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Great_American_Music_Hall_%28April_1976%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Great_American_Music_Hall"
+        }
+      },
+      {
+        "id": "san-francisco-concerts-6",
+        "name": "Curved Form",
+        "cityId": "san-francisco",
+        "categoryId": "concerts",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Curved%20Form%2C%20San%20Francisco",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Curved_Form_(Bryher)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Curved-form-bryher.JPG/960px-Curved-form-bryher.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Curved_Form_(Bryher)"
+        }
+      },
+      {
+        "id": "san-francisco-concerts-7",
+        "name": "California Hall",
+        "cityId": "san-francisco",
+        "categoryId": "concerts",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=California%20Hall%2C%20San%20Francisco",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/California_Hall_(San_Francisco)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/California_Hall_%28Polk_Street%29%2C_August_2022_-1.jpg/960px-California_Hall_%28Polk_Street%29%2C_August_2022_-1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/California_Hall_(San_Francisco)"
+        }
+      },
+      {
+        "id": "san-francisco-concerts-8",
+        "name": "Fox Oakland Theatre",
+        "cityId": "san-francisco",
+        "categoryId": "concerts",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Fox%20Oakland%20Theatre%2C%20San%20Francisco",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Fox_Oakland_Theatre",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/28/Fox_Oakland_Theatre.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Fox_Oakland_Theatre"
+        }
+      },
+      {
+        "id": "san-francisco-concerts-9",
+        "name": "Trocadero",
+        "cityId": "san-francisco",
+        "categoryId": "concerts",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Trocadero%2C%20San%20Francisco",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Trocadero",
+        "photo": null
+      },
+      {
+        "id": "san-francisco-concerts-10",
+        "name": "Family Dog at the Great Highway, San Francisco, CA 4/18/70",
+        "cityId": "san-francisco",
+        "categoryId": "concerts",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Family%20Dog%20at%20the%20Great%20Highway%2C%20San%20Francisco%2C%20CA%204%2F18%2F70%2C%20San%20Francisco",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Family_Dog_at_the_Great_Highway%2C_San_Francisco%2C_CA_4%2F18%2F70",
+        "photo": null
+      },
+      {
+        "id": "san-francisco-concerts-11",
+        "name": "Mendocino Music Festival",
+        "cityId": "san-francisco",
+        "categoryId": "concerts",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Mendocino%20Music%20Festival%2C%20San%20Francisco",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Mendocino_Music_Festival",
+        "photo": null
+      },
+      {
+        "id": "san-francisco-concerts-12",
+        "name": "UC Berkeley Symphony Orchestra",
+        "cityId": "san-francisco",
+        "categoryId": "concerts",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=UC%20Berkeley%20Symphony%20Orchestra%2C%20San%20Francisco",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/UC_Berkeley_Symphony_Orchestra",
+        "photo": null
+      },
+      {
+        "id": "san-francisco-concerts-13",
+        "name": "Alfred Hertz",
+        "cityId": "san-francisco",
+        "categoryId": "concerts",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Alfred%20Hertz%2C%20San%20Francisco",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Alfred_Hertz",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Alfred_Hertz%2C_by_Aim%C3%A9_Dupont%2C_1904%2C_from_the_Digital_Commonwealth_-_1_commonwealth_vh53xd68m.jpg/960px-Alfred_Hertz%2C_by_Aim%C3%A9_Dupont%2C_1904%2C_from_the_Digital_Commonwealth_-_1_commonwealth_vh53xd68m.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Alfred_Hertz"
+        }
+      },
+      {
+        "id": "san-francisco-concerts-14",
+        "name": "Symphony No. 12",
+        "cityId": "san-francisco",
+        "categoryId": "concerts",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Symphony%20No.%2012%2C%20San%20Francisco",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Symphony_No._12_(Glass)",
+        "photo": null
+      },
+      {
+        "id": "san-francisco-concerts-15",
+        "name": "Mary Chun",
+        "cityId": "san-francisco",
+        "categoryId": "concerts",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Mary%20Chun%2C%20San%20Francisco",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Mary_Chun",
+        "photo": null
+      },
+      {
+        "id": "san-francisco-concerts-16",
+        "name": "Where in the World of Music Is Carmen Sandiego?",
+        "cityId": "san-francisco",
+        "categoryId": "concerts",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Where%20in%20the%20World%20of%20Music%20Is%20Carmen%20Sandiego%3F%2C%20San%20Francisco",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Where_in_the_World_of_Music_Is_Carmen_Sandiego%3F",
+        "photo": null
+      },
+      {
+        "id": "san-francisco-concerts-17",
+        "name": "Radical Light",
+        "cityId": "san-francisco",
+        "categoryId": "concerts",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Radical%20Light%2C%20San%20Francisco",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Radical_Light",
+        "photo": null
+      },
+      {
+        "id": "san-francisco-concerts-18",
+        "name": "Aarhus Pride",
+        "cityId": "san-francisco",
+        "categoryId": "concerts",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Aarhus%20Pride%2C%20San%20Francisco",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Aarhus_Pride",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Aarhus_Pride%2C_2012%2C_start_of_day.jpg/960px-Aarhus_Pride%2C_2012%2C_start_of_day.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Aarhus_Pride"
+        }
+      }
+    ],
+    "fashion": [
+      {
+        "id": "san-francisco-fashion-1",
+        "name": "Magnin",
+        "cityId": "san-francisco",
+        "categoryId": "fashion",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Magnin%2C%20San%20Francisco",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Magnin",
+        "photo": null
+      },
+      {
+        "id": "san-francisco-fashion-2",
+        "name": "Charlotte Russe",
+        "cityId": "san-francisco",
+        "categoryId": "fashion",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Charlotte%20Russe%2C%20San%20Francisco",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Charlotte_Russe_(retailer)",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/10/Charlotte_russe.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Charlotte_Russe_(retailer)"
+        }
+      },
+      {
+        "id": "san-francisco-fashion-3",
+        "name": "Isaac Magnin",
+        "cityId": "san-francisco",
+        "categoryId": "fashion",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Isaac%20Magnin%2C%20San%20Francisco",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Isaac_Magnin",
+        "photo": null
+      },
+      {
+        "id": "san-francisco-fashion-4",
+        "name": "Margaret Mary Morgan",
+        "cityId": "san-francisco",
+        "categoryId": "fashion",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Margaret%20Mary%20Morgan%2C%20San%20Francisco",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Margaret_Mary_Morgan",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Margaret_Mary_Morgan_political_campaign_card%2C_1921.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Margaret_Mary_Morgan"
+        }
+      },
+      {
+        "id": "san-francisco-fashion-5",
+        "name": "Joseph P. Newmark",
+        "cityId": "san-francisco",
+        "categoryId": "fashion",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Joseph%20P.%20Newmark%2C%20San%20Francisco",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Joseph_P._Newmark",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/df/RichNewmarkLazardKremer18540921.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Joseph_P._Newmark"
+        }
+      },
+      {
+        "id": "san-francisco-fashion-6",
+        "name": "Swelldom",
+        "cityId": "san-francisco",
+        "categoryId": "fashion",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Swelldom%2C%20San%20Francisco",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Swelldom",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Swelldom_1924.png/960px-Swelldom_1924.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Swelldom"
+        }
+      },
+      {
+        "id": "san-francisco-fashion-7",
+        "name": "BeGood Clothing",
+        "cityId": "san-francisco",
+        "categoryId": "fashion",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=BeGood%20Clothing%2C%20San%20Francisco",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/BeGood_Clothing",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b7/BeGood-Eco-Apparel.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/BeGood_Clothing"
+        }
+      },
+      {
+        "id": "san-francisco-fashion-8",
+        "name": "Berner",
+        "cityId": "san-francisco",
+        "categoryId": "fashion",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Berner%2C%20San%20Francisco",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Berner_(rapper)",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/be/Gilbert_Anthony_%28Berner%29_Milam_Jr.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Berner_(rapper)"
+        }
+      },
+      {
+        "id": "san-francisco-fashion-9",
+        "name": "Claudia Wells",
+        "cityId": "san-francisco",
+        "categoryId": "fashion",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Claudia%20Wells%2C%20San%20Francisco",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Claudia_Wells",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Claudia_Wells_%2852301515623%29_%28cropped%29.jpg/960px-Claudia_Wells_%2852301515623%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Claudia_Wells"
+        }
+      },
+      {
+        "id": "san-francisco-fashion-10",
+        "name": "Samuel Altshuler",
+        "cityId": "san-francisco",
+        "categoryId": "fashion",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Samuel%20Altshuler%2C%20San%20Francisco",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Samuel_Altshuler",
+        "photo": null
+      },
+      {
+        "id": "san-francisco-fashion-11",
+        "name": "Just Group",
+        "cityId": "san-francisco",
+        "categoryId": "fashion",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Just%20Group%2C%20San%20Francisco",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Just_Group",
+        "photo": null
+      },
+      {
+        "id": "san-francisco-fashion-12",
+        "name": "San Francisco Centre",
+        "cityId": "san-francisco",
+        "categoryId": "fashion",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=San%20Francisco%20Centre%2C%20San%20Francisco",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/San_Francisco_Centre",
+        "photo": null
+      },
+      {
+        "id": "san-francisco-fashion-13",
+        "name": "Joplin Downtown Historic District",
+        "cityId": "san-francisco",
+        "categoryId": "fashion",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Joplin%20Downtown%20Historic%20District%2C%20San%20Francisco",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Joplin_Downtown_Historic_District",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Joplin_Downtown_Historic_District.jpg/960px-Joplin_Downtown_Historic_District.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Joplin_Downtown_Historic_District"
+        }
+      },
+      {
+        "id": "san-francisco-fashion-14",
+        "name": "Clennon Washington King Sr.",
+        "cityId": "san-francisco",
+        "categoryId": "fashion",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Clennon%20Washington%20King%20Sr.%2C%20San%20Francisco",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Clennon_Washington_King_Sr.",
+        "photo": null
+      },
+      {
+        "id": "san-francisco-fashion-15",
+        "name": "Wilkes Bashford",
+        "cityId": "san-francisco",
+        "categoryId": "fashion",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Wilkes%20Bashford%2C%20San%20Francisco",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Wilkes_Bashford",
+        "photo": null
+      },
+      {
+        "id": "san-francisco-fashion-16",
+        "name": "Terri Stickles",
+        "cityId": "san-francisco",
+        "categoryId": "fashion",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Terri%20Stickles%2C%20San%20Francisco",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Terri_Stickles",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/en/7/7d/SticklesTerri1964SwimOlympian.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Terri_Stickles"
+        }
+      },
+      {
+        "id": "san-francisco-fashion-17",
+        "name": "James A. Johnston",
+        "cityId": "san-francisco",
+        "categoryId": "fashion",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=James%20A.%20Johnston%2C%20San%20Francisco",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/James_A._Johnston",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/James_A_Johnston_001.jpg/960px-James_A_Johnston_001.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/James_A._Johnston"
+        }
+      },
+      {
+        "id": "san-francisco-fashion-18",
+        "name": "Newmark family of Southern California",
+        "cityId": "san-francisco",
+        "categoryId": "fashion",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Newmark%20family%20of%20Southern%20California%2C%20San%20Francisco",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Newmark_family_of_Southern_California",
+        "photo": null
+      }
+    ],
+    "shops": [
+      {
+        "id": "san-francisco-shops-1",
+        "name": "V. C. Morris Gift Shop",
+        "cityId": "san-francisco",
+        "categoryId": "shops",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=V.%20C.%20Morris%20Gift%20Shop%2C%20San%20Francisco",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/V._C._Morris_Gift_Shop",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Moriss_Gift_Interior_HABS_CAL%2C38-SANFRA%2C160-7.jpg/960px-Moriss_Gift_Interior_HABS_CAL%2C38-SANFRA%2C160-7.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/V._C._Morris_Gift_Shop"
+        }
+      },
+      {
+        "id": "san-francisco-shops-2",
+        "name": "Rockridge Market Hall",
+        "cityId": "san-francisco",
+        "categoryId": "shops",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Rockridge%20Market%20Hall%2C%20San%20Francisco",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Rockridge_Market_Hall",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/Rockridge_Market_Hall%2C_Oliveto%2C_Oakland_CA_%2816683136212%29.jpg/960px-Rockridge_Market_Hall%2C_Oliveto%2C_Oakland_CA_%2816683136212%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Rockridge_Market_Hall"
+        }
+      },
+      {
+        "id": "san-francisco-shops-3",
+        "name": "KYY",
+        "cityId": "san-francisco",
+        "categoryId": "shops",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=KYY%2C%20San%20Francisco",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/KYY",
+        "photo": null
+      },
+      {
+        "id": "san-francisco-shops-4",
+        "name": "Petrini's",
+        "cityId": "san-francisco",
+        "categoryId": "shops",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Petrini's%2C%20San%20Francisco",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Petrini's",
+        "photo": null
+      },
+      {
+        "id": "san-francisco-shops-5",
+        "name": "Pedro Joseph de Lemos",
+        "cityId": "san-francisco",
+        "categoryId": "shops",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Pedro%20Joseph%20de%20Lemos%2C%20San%20Francisco",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Pedro_Joseph_de_Lemos",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/Pedro_De_Lemos.jpg/960px-Pedro_De_Lemos.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Pedro_Joseph_de_Lemos"
+        }
+      },
+      {
+        "id": "san-francisco-shops-6",
+        "name": "Newsagent's shop",
+        "cityId": "san-francisco",
+        "categoryId": "shops",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Newsagent's%20shop%2C%20San%20Francisco",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Newsagent's_shop",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/Street_Scene_-_Salta_-_Argentina.jpg/960px-Street_Scene_-_Salta_-_Argentina.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Newsagent's_shop"
+        }
+      },
+      {
+        "id": "san-francisco-shops-7",
+        "name": "Union Square, San Francisco",
+        "cityId": "san-francisco",
+        "categoryId": "shops",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Union%20Square%2C%20San%20Francisco%2C%20San%20Francisco",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Union_Square%2C_San_Francisco",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/San_Francisco_Union_Square.jpg/960px-San_Francisco_Union_Square.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Union_Square%2C_San_Francisco"
+        }
+      },
+      {
+        "id": "san-francisco-shops-8",
+        "name": "KCNS",
+        "cityId": "san-francisco",
+        "categoryId": "shops",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=KCNS%2C%20San%20Francisco",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/KCNS",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/9d/KCNS_logo.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/KCNS"
+        }
+      },
+      {
+        "id": "san-francisco-shops-9",
+        "name": "Randall Museum",
+        "cityId": "san-francisco",
+        "categoryId": "shops",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Randall%20Museum%2C%20San%20Francisco",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Randall_Museum",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Randall-Museum.jpg/960px-Randall-Museum.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Randall_Museum"
+        }
+      },
+      {
+        "id": "san-francisco-shops-10",
+        "name": "Broderbund",
+        "cityId": "san-francisco",
+        "categoryId": "shops",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Broderbund%2C%20San%20Francisco",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Broderbund",
+        "photo": null
+      },
+      {
+        "id": "san-francisco-shops-11",
+        "name": "Swan Oyster Depot",
+        "cityId": "san-francisco",
+        "categoryId": "shops",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Swan%20Oyster%20Depot%2C%20San%20Francisco",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Swan_Oyster_Depot",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Swan_Oyster_Depot_-_Outside.jpg/960px-Swan_Oyster_Depot_-_Outside.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Swan_Oyster_Depot"
+        }
+      },
+      {
+        "id": "san-francisco-shops-12",
+        "name": "Good Vibrations",
+        "cityId": "san-francisco",
+        "categoryId": "shops",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Good%20Vibrations%2C%20San%20Francisco",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Good_Vibrations_(sex_shop)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/Good_Vibrations%2C_Brookline_MA.jpg/960px-Good_Vibrations%2C_Brookline_MA.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Good_Vibrations_(sex_shop)"
+        }
+      },
+      {
+        "id": "san-francisco-shops-13",
+        "name": "SFGate",
+        "cityId": "san-francisco",
+        "categoryId": "shops",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=SFGate%2C%20San%20Francisco",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/SFGate",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/Logo_of_SFGate.svg/960px-Logo_of_SFGate.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/SFGate"
+        }
+      },
+      {
+        "id": "san-francisco-shops-14",
+        "name": "QFI",
+        "cityId": "san-francisco",
+        "categoryId": "shops",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=QFI%2C%20San%20Francisco",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/QFI_(supermarket)",
+        "photo": null
+      },
+      {
+        "id": "san-francisco-shops-15",
+        "name": "Soma Fabrications",
+        "cityId": "san-francisco",
+        "categoryId": "shops",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Soma%20Fabrications%2C%20San%20Francisco",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Soma_Fabrications",
+        "photo": null
+      },
+      {
+        "id": "san-francisco-shops-16",
+        "name": "Haight-Ashbury",
+        "cityId": "san-francisco",
+        "categoryId": "shops",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Haight-Ashbury%2C%20San%20Francisco",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Haight-Ashbury",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/SF_Haight_Ashbury_2_CA.jpg/960px-SF_Haight_Ashbury_2_CA.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Haight-Ashbury"
+        }
+      },
+      {
+        "id": "san-francisco-shops-17",
+        "name": "Mollie Stone's Markets",
+        "cityId": "san-francisco",
+        "categoryId": "shops",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Mollie%20Stone's%20Markets%2C%20San%20Francisco",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Mollie_Stone's_Markets",
+        "photo": null
+      },
+      {
+        "id": "san-francisco-shops-18",
+        "name": "See's Candies",
+        "cityId": "san-francisco",
+        "categoryId": "shops",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=See's%20Candies%2C%20San%20Francisco",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/See's_Candies",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/See%27s_Candies_logo.svg/960px-See%27s_Candies_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/See's_Candies"
+        }
+      }
+    ]
+  }
+}

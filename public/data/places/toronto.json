@@ -1,0 +1,1580 @@
+{
+  "cityId": "toronto",
+  "generatedAt": "2026-11-27T08:53:08.262Z",
+  "source": "Wikipedia API + Maps URLs (sin scraping de Google)",
+  "incomplete": [
+    "night_clubs",
+    "restaurants",
+    "bars"
+  ],
+  "categories": {
+    "night_clubs": [],
+    "restaurants": [],
+    "bars": [],
+    "coffee_shops": [
+      {
+        "id": "toronto-coffee_shops-1",
+        "name": "32nd Genie Awards",
+        "cityId": "toronto",
+        "categoryId": "coffee_shops",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=32nd%20Genie%20Awards%2C%20Toronto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/32nd_Genie_Awards",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Allan_Hawco%2C_Genie_Awards_2012_%286822699720%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/32nd_Genie_Awards"
+        }
+      },
+      {
+        "id": "toronto-coffee_shops-2",
+        "name": "Citizens for Foreign Aid Reform",
+        "cityId": "toronto",
+        "categoryId": "coffee_shops",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Citizens%20for%20Foreign%20Aid%20Reform%2C%20Toronto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Citizens_for_Foreign_Aid_Reform",
+        "photo": null
+      },
+      {
+        "id": "toronto-coffee_shops-3",
+        "name": "Peaches",
+        "cityId": "toronto",
+        "categoryId": "coffee_shops",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Peaches%2C%20Toronto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Peaches_(musician)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Peaches_performing_in_Wellington%2C_New_Zealand_21_February_2023.jpg/960px-Peaches_performing_in_Wellington%2C_New_Zealand_21_February_2023.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Peaches_(musician)"
+        }
+      },
+      {
+        "id": "toronto-coffee_shops-4",
+        "name": "Restaurant Makeover",
+        "cityId": "toronto",
+        "categoryId": "coffee_shops",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Restaurant%20Makeover%2C%20Toronto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Restaurant_Makeover",
+        "photo": null
+      },
+      {
+        "id": "toronto-coffee_shops-5",
+        "name": "Hard Rock Cafe",
+        "cityId": "toronto",
+        "categoryId": "coffee_shops",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Hard%20Rock%20Cafe%2C%20Toronto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Hard_Rock_Cafe",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Hard_Rock_Cafe_Logo.svg/960px-Hard_Rock_Cafe_Logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Hard_Rock_Cafe"
+        }
+      },
+      {
+        "id": "toronto-coffee_shops-6",
+        "name": "Stuart McLean",
+        "cityId": "toronto",
+        "categoryId": "coffee_shops",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Stuart%20McLean%2C%20Toronto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Stuart_McLean",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Stuart_McLean_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Stuart_McLean"
+        }
+      },
+      {
+        "id": "toronto-coffee_shops-7",
+        "name": "Jazz Aviation",
+        "cityId": "toronto",
+        "categoryId": "coffee_shops",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Jazz%20Aviation%2C%20Toronto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Jazz_Aviation",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/Jazz_Aviation_headquarters_in_Enfield%2C_Nova_Scotia.jpg/960px-Jazz_Aviation_headquarters_in_Enfield%2C_Nova_Scotia.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Jazz_Aviation"
+        }
+      },
+      {
+        "id": "toronto-coffee_shops-8",
+        "name": "High Park",
+        "cityId": "toronto",
+        "categoryId": "coffee_shops",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=High%20Park%2C%20Toronto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/High_Park",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Hillside_Gardens_%2824677009128%29.jpg/960px-Hillside_Gardens_%2824677009128%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/High_Park"
+        }
+      },
+      {
+        "id": "toronto-coffee_shops-9",
+        "name": "Free Times Cafe",
+        "cityId": "toronto",
+        "categoryId": "coffee_shops",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Free%20Times%20Cafe%2C%20Toronto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Free_Times_Cafe",
+        "photo": null
+      },
+      {
+        "id": "toronto-coffee_shops-10",
+        "name": "Bob Snider",
+        "cityId": "toronto",
+        "categoryId": "coffee_shops",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Bob%20Snider%2C%20Toronto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Bob_Snider",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Bob_Snider.jpg/960px-Bob_Snider.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Bob_Snider"
+        }
+      },
+      {
+        "id": "toronto-coffee_shops-11",
+        "name": "Anarchism in Canada",
+        "cityId": "toronto",
+        "categoryId": "coffee_shops",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Anarchism%20in%20Canada%2C%20Toronto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Anarchism_in_Canada",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Anarchist_crowd_%2815948053412%29.jpg/960px-Anarchist_crowd_%2815948053412%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Anarchism_in_Canada"
+        }
+      },
+      {
+        "id": "toronto-coffee_shops-12",
+        "name": "Tim Hortons",
+        "cityId": "toronto",
+        "categoryId": "coffee_shops",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Tim%20Hortons%2C%20Toronto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Tim_Hortons",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/Tim_Hortons%2C_Kingsville%2C_Ontario%2C_2025-06-29.jpg/960px-Tim_Hortons%2C_Kingsville%2C_Ontario%2C_2025-06-29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Tim_Hortons"
+        }
+      },
+      {
+        "id": "toronto-coffee_shops-13",
+        "name": "Holt Renfrew",
+        "cityId": "toronto",
+        "categoryId": "coffee_shops",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Holt%20Renfrew%2C%20Toronto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Holt_Renfrew",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/Holt_Renfrew_Flagship_store_on_Mink_Mile_in_Yorkville_2022.jpg/960px-Holt_Renfrew_Flagship_store_on_Mink_Mile_in_Yorkville_2022.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Holt_Renfrew"
+        }
+      },
+      {
+        "id": "toronto-coffee_shops-14",
+        "name": "Alice Panikian",
+        "cityId": "toronto",
+        "categoryId": "coffee_shops",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Alice%20Panikian%2C%20Toronto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Alice_Panikian",
+        "photo": null
+      },
+      {
+        "id": "toronto-coffee_shops-15",
+        "name": "Miss Universe Canada",
+        "cityId": "toronto",
+        "categoryId": "coffee_shops",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Miss%20Universe%20Canada%2C%20Toronto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Miss_Universe_Canada",
+        "photo": null
+      },
+      {
+        "id": "toronto-coffee_shops-16",
+        "name": "Seth",
+        "cityId": "toronto",
+        "categoryId": "coffee_shops",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Seth%2C%20Toronto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Seth_(cartoonist)",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/29/Seth-cartoonist.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Seth_(cartoonist)"
+        }
+      },
+      {
+        "id": "toronto-coffee_shops-17",
+        "name": "Daniel Boulud",
+        "cityId": "toronto",
+        "categoryId": "coffee_shops",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Daniel%20Boulud%2C%20Toronto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Daniel_Boulud",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/dc/DanielBoulud.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Daniel_Boulud"
+        }
+      },
+      {
+        "id": "toronto-coffee_shops-18",
+        "name": "Cactus Club Cafe",
+        "cityId": "toronto",
+        "categoryId": "coffee_shops",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Cactus%20Club%20Cafe%2C%20Toronto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Cactus_Club_Cafe",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/Cactus_Club_Cafe_%2833000433094%29.jpg/960px-Cactus_Club_Cafe_%2833000433094%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Cactus_Club_Cafe"
+        }
+      }
+    ],
+    "bookshops": [
+      {
+        "id": "toronto-bookshops-1",
+        "name": "University of Toronto Press",
+        "cityId": "toronto",
+        "categoryId": "bookshops",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=University%20of%20Toronto%20Press%2C%20Toronto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/University_of_Toronto_Press",
+        "photo": null
+      },
+      {
+        "id": "toronto-bookshops-2",
+        "name": "Glad Day Bookshop",
+        "cityId": "toronto",
+        "categoryId": "bookshops",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Glad%20Day%20Bookshop%2C%20Toronto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Glad_Day_Bookshop",
+        "photo": null
+      },
+      {
+        "id": "toronto-bookshops-3",
+        "name": "Indigo Books and Music",
+        "cityId": "toronto",
+        "categoryId": "bookshops",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Indigo%20Books%20and%20Music%2C%20Toronto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Indigo_Books_and_Music",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Indigo_logo.svg/960px-Indigo_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Indigo_Books_and_Music"
+        }
+      },
+      {
+        "id": "toronto-bookshops-4",
+        "name": "Toronto Women's Bookstore",
+        "cityId": "toronto",
+        "categoryId": "bookshops",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Toronto%20Women's%20Bookstore%2C%20Toronto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Toronto_Women's_Bookstore",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/Closing_of_a_landmark.jpg/960px-Closing_of_a_landmark.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Toronto_Women's_Bookstore"
+        }
+      },
+      {
+        "id": "toronto-bookshops-5",
+        "name": "World's Biggest Bookstore",
+        "cityId": "toronto",
+        "categoryId": "bookshops",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=World's%20Biggest%20Bookstore%2C%20Toronto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/World's_Biggest_Bookstore",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/World%27s_Biggest_Bookstore.JPG/960px-World%27s_Biggest_Bookstore.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/World's_Biggest_Bookstore"
+        }
+      },
+      {
+        "id": "toronto-bookshops-6",
+        "name": "Priape",
+        "cityId": "toronto",
+        "categoryId": "bookshops",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Priape%2C%20Toronto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Priape",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/Pride_Toronto_2009_%283652271067%29.jpg/960px-Pride_Toronto_2009_%283652271067%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Priape"
+        }
+      },
+      {
+        "id": "toronto-bookshops-7",
+        "name": "Coles",
+        "cityId": "toronto",
+        "categoryId": "bookshops",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Coles%2C%20Toronto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Coles_(bookstore)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/Coles_Logo.svg/960px-Coles_Logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Coles_(bookstore)"
+        }
+      },
+      {
+        "id": "toronto-bookshops-8",
+        "name": "Chapters",
+        "cityId": "toronto",
+        "categoryId": "bookshops",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Chapters%2C%20Toronto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Chapters_(bookstore)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Chapters_Logo.svg/960px-Chapters_Logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Chapters_(bookstore)"
+        }
+      },
+      {
+        "id": "toronto-bookshops-9",
+        "name": "Runnymede Theatre",
+        "cityId": "toronto",
+        "categoryId": "bookshops",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Runnymede%20Theatre%2C%20Toronto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Runnymede_Theatre",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Runnymede_Theatre_2025.jpg/960px-Runnymede_Theatre_2025.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Runnymede_Theatre"
+        }
+      },
+      {
+        "id": "toronto-bookshops-10",
+        "name": "The Monkey's Paw",
+        "cityId": "toronto",
+        "categoryId": "bookshops",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Monkey's%20Paw%2C%20Toronto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/The_Monkey's_Paw_(bookstore)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/The_Biblio-Mat_%28cropped%29.jpg/960px-The_Biblio-Mat_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/The_Monkey's_Paw_(bookstore)"
+        }
+      },
+      {
+        "id": "toronto-bookshops-11",
+        "name": "Koffler Student Services Centre",
+        "cityId": "toronto",
+        "categoryId": "bookshops",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Koffler%20Student%20Services%20Centre%2C%20Toronto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Koffler_Student_Services_Centre",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Koffler_Student_Centre.JPG/960px-Koffler_Student_Centre.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Koffler_Student_Services_Centre"
+        }
+      },
+      {
+        "id": "toronto-bookshops-12",
+        "name": "Bakka-Phoenix",
+        "cityId": "toronto",
+        "categoryId": "bookshops",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Bakka-Phoenix%2C%20Toronto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Bakka-Phoenix",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Bakka_Phoenix_Toronto.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Bakka-Phoenix"
+        }
+      },
+      {
+        "id": "toronto-bookshops-13",
+        "name": "David Mirvish",
+        "cityId": "toronto",
+        "categoryId": "bookshops",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=David%20Mirvish%2C%20Toronto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/David_Mirvish",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/1c/David_Mirvish%2C_Urban_Leadership_Awards_luncheon.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/David_Mirvish"
+        }
+      },
+      {
+        "id": "toronto-bookshops-14",
+        "name": "This Ain't the Rosedale Library",
+        "cityId": "toronto",
+        "categoryId": "bookshops",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=This%20Ain't%20the%20Rosedale%20Library%2C%20Toronto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/This_Ain't_the_Rosedale_Library",
+        "photo": null
+      },
+      {
+        "id": "toronto-bookshops-15",
+        "name": "Little Sister's Book and Art Emporium",
+        "cityId": "toronto",
+        "categoryId": "bookshops",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Little%20Sister's%20Book%20and%20Art%20Emporium%2C%20Toronto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Little_Sister's_Book_and_Art_Emporium",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Little_Sister_s_Book_and_Art_Emporium.jpg/960px-Little_Sister_s_Book_and_Art_Emporium.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Little_Sister's_Book_and_Art_Emporium"
+        }
+      },
+      {
+        "id": "toronto-bookshops-16",
+        "name": "Writers' Union of Canada",
+        "cityId": "toronto",
+        "categoryId": "bookshops",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Writers'%20Union%20of%20Canada%2C%20Toronto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Writers'_Union_of_Canada",
+        "photo": null
+      },
+      {
+        "id": "toronto-bookshops-17",
+        "name": "Carl and Jack Cole",
+        "cityId": "toronto",
+        "categoryId": "bookshops",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Carl%20and%20Jack%20Cole%2C%20Toronto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Carl_and_Jack_Cole",
+        "photo": null
+      },
+      {
+        "id": "toronto-bookshops-18",
+        "name": "Iron Horse",
+        "cityId": "toronto",
+        "categoryId": "bookshops",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Iron%20Horse%2C%20Toronto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Iron_Horse_(poem)",
+        "photo": null
+      }
+    ],
+    "museums": [
+      {
+        "id": "toronto-museums-1",
+        "name": "Royal Ontario Museum",
+        "cityId": "toronto",
+        "categoryId": "museums",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Royal%20Ontario%20Museum%2C%20Toronto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Royal_Ontario_Museum",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Royal_Ontario_Museum_in_Fall_2021.jpg/960px-Royal_Ontario_Museum_in_Fall_2021.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Royal_Ontario_Museum"
+        }
+      },
+      {
+        "id": "toronto-museums-2",
+        "name": "Art Gallery of Ontario",
+        "cityId": "toronto",
+        "categoryId": "museums",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Art%20Gallery%20of%20Ontario%2C%20Toronto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Art_Gallery_of_Ontario",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Art_Gallery_of_Ontario_2023.jpg/960px-Art_Gallery_of_Ontario_2023.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Art_Gallery_of_Ontario"
+        }
+      },
+      {
+        "id": "toronto-museums-3",
+        "name": "Casa Loma",
+        "cityId": "toronto",
+        "categoryId": "museums",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Casa%20Loma%2C%20Toronto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Casa_Loma",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/Casa_Loma_%2823170005321%29.jpg/960px-Casa_Loma_%2823170005321%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Casa_Loma"
+        }
+      },
+      {
+        "id": "toronto-museums-4",
+        "name": "Halton County Radial Railway",
+        "cityId": "toronto",
+        "categoryId": "museums",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Halton%20County%20Radial%20Railway%2C%20Toronto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Halton_County_Radial_Railway",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/HCRY-PCC-Ice-Cream-Shop.jpg/960px-HCRY-PCC-Ice-Cream-Shop.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Halton_County_Radial_Railway"
+        }
+      },
+      {
+        "id": "toronto-museums-5",
+        "name": "The Village at Black Creek",
+        "cityId": "toronto",
+        "categoryId": "museums",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Village%20at%20Black%20Creek%2C%20Toronto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/The_Village_at_Black_Creek",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/In_the_shade_%281247127124%29.jpg/960px-In_the_shade_%281247127124%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/The_Village_at_Black_Creek"
+        }
+      },
+      {
+        "id": "toronto-museums-6",
+        "name": "Aga Khan Museum",
+        "cityId": "toronto",
+        "categoryId": "museums",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Aga%20Khan%20Museum%2C%20Toronto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Aga_Khan_Museum",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Aga_Khan_Museum_2022.jpg/960px-Aga_Khan_Museum_2022.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Aga_Khan_Museum"
+        }
+      },
+      {
+        "id": "toronto-museums-7",
+        "name": "William White",
+        "cityId": "toronto",
+        "categoryId": "museums",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=William%20White%2C%20Toronto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/William_White_(bishop_of_Honan)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Bishop_William_C._White.jpg/960px-Bishop_William_C._White.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/William_White_(bishop_of_Honan)"
+        }
+      },
+      {
+        "id": "toronto-museums-8",
+        "name": "Roundhouse Park",
+        "cityId": "toronto",
+        "categoryId": "museums",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Roundhouse%20Park%2C%20Toronto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Roundhouse_Park",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Roundhouse_Park_Toronto.jpg/960px-Roundhouse_Park_Toronto.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Roundhouse_Park"
+        }
+      },
+      {
+        "id": "toronto-museums-9",
+        "name": "Museum station",
+        "cityId": "toronto",
+        "categoryId": "museums",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Museum%20station%2C%20Toronto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Museum_station_(Toronto)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Museum_Platform_01.jpg/960px-Museum_Platform_01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Museum_station_(Toronto)"
+        }
+      },
+      {
+        "id": "toronto-museums-10",
+        "name": "Canadian Football Hall of Fame",
+        "cityId": "toronto",
+        "categoryId": "museums",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Canadian%20Football%20Hall%20of%20Fame%2C%20Toronto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Canadian_Football_Hall_of_Fame",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/CanadianFootballHallofFame.JPG/960px-CanadianFootballHallofFame.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Canadian_Football_Hall_of_Fame"
+        }
+      },
+      {
+        "id": "toronto-museums-11",
+        "name": "Gardiner Museum",
+        "cityId": "toronto",
+        "categoryId": "museums",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Gardiner%20Museum%2C%20Toronto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Gardiner_Museum",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Gardiner_Museum_Toronto.jpg/960px-Gardiner_Museum_Toronto.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Gardiner_Museum"
+        }
+      },
+      {
+        "id": "toronto-museums-12",
+        "name": "University of Toronto Press",
+        "cityId": "toronto",
+        "categoryId": "museums",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=University%20of%20Toronto%20Press%2C%20Toronto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/University_of_Toronto_Press",
+        "photo": null
+      },
+      {
+        "id": "toronto-museums-13",
+        "name": "Hockey Hall of Fame",
+        "cityId": "toronto",
+        "categoryId": "museums",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Hockey%20Hall%20of%20Fame%2C%20Toronto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Hockey_Hall_of_Fame",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/Hockey_Hall_of_Fame_2025-05-24.jpg/960px-Hockey_Hall_of_Fame_2025-05-24.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Hockey_Hall_of_Fame"
+        }
+      },
+      {
+        "id": "toronto-museums-14",
+        "name": "Museum of Contemporary Art Toronto Canada",
+        "cityId": "toronto",
+        "categoryId": "museums",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Museum%20of%20Contemporary%20Art%20Toronto%20Canada%2C%20Toronto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Museum_of_Contemporary_Art_Toronto_Canada",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Museum_of_Contemporary_Art_Toronto_Canada_logo.svg/960px-Museum_of_Contemporary_Art_Toronto_Canada_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Museum_of_Contemporary_Art_Toronto_Canada"
+        }
+      },
+      {
+        "id": "toronto-museums-15",
+        "name": "Textile Museum of Canada",
+        "cityId": "toronto",
+        "categoryId": "museums",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Textile%20Museum%20of%20Canada%2C%20Toronto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Textile_Museum_of_Canada",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/TextileMuseumOfCanada2.jpg/960px-TextileMuseumOfCanada2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Textile_Museum_of_Canada"
+        }
+      },
+      {
+        "id": "toronto-museums-16",
+        "name": "Line 5 Eglinton",
+        "cityId": "toronto",
+        "categoryId": "museums",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Line%205%20Eglinton%2C%20Toronto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Line_5_Eglinton",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Line_5_Flexity_Freedom_LRT_at_Eglinton_Station%2C_February_8_2026.jpg/960px-Line_5_Flexity_Freedom_LRT_at_Eglinton_Station%2C_February_8_2026.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Line_5_Eglinton"
+        }
+      },
+      {
+        "id": "toronto-museums-17",
+        "name": "Downtown Toronto",
+        "cityId": "toronto",
+        "categoryId": "museums",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Downtown%20Toronto%2C%20Toronto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Downtown_Toronto",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Downtown_Toronto_%28aerial%29_2026-10-31.jpg/960px-Downtown_Toronto_%28aerial%29_2026-10-31.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Downtown_Toronto"
+        }
+      },
+      {
+        "id": "toronto-museums-18",
+        "name": "Canadian Baseball Hall of Fame",
+        "cityId": "toronto",
+        "categoryId": "museums",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Canadian%20Baseball%20Hall%20of%20Fame%2C%20Toronto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Canadian_Baseball_Hall_of_Fame",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Canadian_Baseball_Hall_of_Fame_and_Museum.jpg/960px-Canadian_Baseball_Hall_of_Fame_and_Museum.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Canadian_Baseball_Hall_of_Fame"
+        }
+      }
+    ],
+    "concerts": [
+      {
+        "id": "toronto-concerts-1",
+        "name": "Masonic Temple",
+        "cityId": "toronto",
+        "categoryId": "concerts",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Masonic%20Temple%2C%20Toronto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Masonic_Temple_(Toronto)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Info-Tech_Research_Group_Toronto_Office_at_Masonic_Temple_2016.jpg/960px-Info-Tech_Research_Group_Toronto_Office_at_Masonic_Temple_2016.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Masonic_Temple_(Toronto)"
+        }
+      },
+      {
+        "id": "toronto-concerts-2",
+        "name": "Roy Thomson Hall",
+        "cityId": "toronto",
+        "categoryId": "concerts",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Roy%20Thomson%20Hall%2C%20Toronto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Roy_Thomson_Hall",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Shiny_buildings_in_Toronto.jpg/960px-Shiny_buildings_in_Toronto.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Roy_Thomson_Hall"
+        }
+      },
+      {
+        "id": "toronto-concerts-3",
+        "name": "Polson Pier",
+        "cityId": "toronto",
+        "categoryId": "concerts",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Polson%20Pier%2C%20Toronto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Polson_Pier",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Polson_Pier%2C_in_Toronto%2C_visible_from_the_Empire_Sandy%2C_2016_07_01_%281%29.JPG_-_panoramio.jpg/960px-Polson_Pier%2C_in_Toronto%2C_visible_from_the_Empire_Sandy%2C_2016_07_01_%281%29.JPG_-_panoramio.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Polson_Pier"
+        }
+      },
+      {
+        "id": "toronto-concerts-4",
+        "name": "Ain't It Dead Yet?",
+        "cityId": "toronto",
+        "categoryId": "concerts",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Ain't%20It%20Dead%20Yet%3F%2C%20Toronto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Ain't_It_Dead_Yet%3F",
+        "photo": null
+      },
+      {
+        "id": "toronto-concerts-5",
+        "name": "The Royal Conservatory of Music",
+        "cityId": "toronto",
+        "categoryId": "concerts",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Royal%20Conservatory%20of%20Music%2C%20Toronto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/The_Royal_Conservatory_of_Music",
+        "photo": null
+      },
+      {
+        "id": "toronto-concerts-6",
+        "name": "Mallet Quartet",
+        "cityId": "toronto",
+        "categoryId": "concerts",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Mallet%20Quartet%2C%20Toronto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Mallet_Quartet",
+        "photo": null
+      },
+      {
+        "id": "toronto-concerts-7",
+        "name": "Manitoba Opera",
+        "cityId": "toronto",
+        "categoryId": "concerts",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Manitoba%20Opera%2C%20Toronto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Manitoba_Opera",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/Centennial_Concert_Hall%2C_Winnipeg_Manitoba_01.JPG/960px-Centennial_Concert_Hall%2C_Winnipeg_Manitoba_01.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Manitoba_Opera"
+        }
+      },
+      {
+        "id": "toronto-concerts-8",
+        "name": "Aarhus Pride",
+        "cityId": "toronto",
+        "categoryId": "concerts",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Aarhus%20Pride%2C%20Toronto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Aarhus_Pride",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Aarhus_Pride%2C_2012%2C_start_of_day.jpg/960px-Aarhus_Pride%2C_2012%2C_start_of_day.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Aarhus_Pride"
+        }
+      },
+      {
+        "id": "toronto-concerts-9",
+        "name": "Henning Larsen Architects",
+        "cityId": "toronto",
+        "categoryId": "concerts",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Henning%20Larsen%20Architects%2C%20Toronto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Henning_Larsen_Architects",
+        "photo": null
+      },
+      {
+        "id": "toronto-concerts-10",
+        "name": "Werklund Centre",
+        "cityId": "toronto",
+        "categoryId": "concerts",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Werklund%20Centre%2C%20Toronto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Werklund_Centre",
+        "photo": null
+      },
+      {
+        "id": "toronto-concerts-11",
+        "name": "Mechanics' Hall",
+        "cityId": "toronto",
+        "categoryId": "concerts",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Mechanics'%20Hall%2C%20Toronto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Mechanics'_Hall_(Toronto)",
+        "photo": null
+      },
+      {
+        "id": "toronto-concerts-12",
+        "name": "Grand Opera House",
+        "cityId": "toronto",
+        "categoryId": "concerts",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Grand%20Opera%20House%2C%20Toronto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Grand_Opera_House_(Toronto)",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/The_new_grand_opera_house_Toronto.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Grand_Opera_House_(Toronto)"
+        }
+      },
+      {
+        "id": "toronto-concerts-13",
+        "name": "Greta Dale",
+        "cityId": "toronto",
+        "categoryId": "concerts",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Greta%20Dale%2C%20Toronto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Greta_Dale",
+        "photo": null
+      },
+      {
+        "id": "toronto-concerts-14",
+        "name": "Glen Campbell Goodbye Tour",
+        "cityId": "toronto",
+        "categoryId": "concerts",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Glen%20Campbell%20Goodbye%20Tour%2C%20Toronto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Glen_Campbell_Goodbye_Tour",
+        "photo": null
+      },
+      {
+        "id": "toronto-concerts-15",
+        "name": "Massey Hall",
+        "cityId": "toronto",
+        "categoryId": "concerts",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Massey%20Hall%2C%20Toronto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Massey_Hall",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Massey_Hall_August_2017_02.jpg/960px-Massey_Hall_August_2017_02.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Massey_Hall"
+        }
+      },
+      {
+        "id": "toronto-concerts-16",
+        "name": "3XN",
+        "cityId": "toronto",
+        "categoryId": "concerts",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=3XN%2C%20Toronto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/3XN",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/Quay_Quarter_Tower%2C_Governor_Phillip_Tower%2C_Sydney%2C_2023%2C_03.jpg/960px-Quay_Quarter_Tower%2C_Governor_Phillip_Tower%2C_Sydney%2C_2023%2C_03.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/3XN"
+        }
+      },
+      {
+        "id": "toronto-concerts-17",
+        "name": "Joseph Macerollo",
+        "cityId": "toronto",
+        "categoryId": "concerts",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Joseph%20Macerollo%2C%20Toronto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Joseph_Macerollo",
+        "photo": null
+      },
+      {
+        "id": "toronto-concerts-18",
+        "name": "Arts Centre Melbourne",
+        "cityId": "toronto",
+        "categoryId": "concerts",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Arts%20Centre%20Melbourne%2C%20Toronto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Arts_Centre_Melbourne",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Arts_Centre_Spire_Pano%2C_Melbourne%2C_jjron%2C_29.09.2010.jpg/960px-Arts_Centre_Spire_Pano%2C_Melbourne%2C_jjron%2C_29.09.2010.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Arts_Centre_Melbourne"
+        }
+      }
+    ],
+    "fashion": [
+      {
+        "id": "toronto-fashion-1",
+        "name": "Charlotte Russe",
+        "cityId": "toronto",
+        "categoryId": "fashion",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Charlotte%20Russe%2C%20Toronto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Charlotte_Russe_(retailer)",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/10/Charlotte_russe.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Charlotte_Russe_(retailer)"
+        }
+      },
+      {
+        "id": "toronto-fashion-2",
+        "name": "Take a Walk on the Wildside",
+        "cityId": "toronto",
+        "categoryId": "fashion",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Take%20a%20Walk%20on%20the%20Wildside%2C%20Toronto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Take_a_Walk_on_the_Wildside",
+        "photo": null
+      },
+      {
+        "id": "toronto-fashion-3",
+        "name": "Jack Wallaesa",
+        "cityId": "toronto",
+        "categoryId": "fashion",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Jack%20Wallaesa%2C%20Toronto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Jack_Wallaesa",
+        "photo": null
+      },
+      {
+        "id": "toronto-fashion-4",
+        "name": "X-Large",
+        "cityId": "toronto",
+        "categoryId": "fashion",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=X-Large%2C%20Toronto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/X-Large_(clothing_brand)",
+        "photo": null
+      },
+      {
+        "id": "toronto-fashion-5",
+        "name": "Jacob",
+        "cityId": "toronto",
+        "categoryId": "fashion",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Jacob%2C%20Toronto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Jacob_(clothing_retailer)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/JACOBYorkdale.jpg/960px-JACOBYorkdale.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Jacob_(clothing_retailer)"
+        }
+      },
+      {
+        "id": "toronto-fashion-6",
+        "name": "John McEntee Bowman",
+        "cityId": "toronto",
+        "categoryId": "fashion",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=John%20McEntee%20Bowman%2C%20Toronto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/John_McEntee_Bowman",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/John_McEntee_Bowman.jpg/960px-John_McEntee_Bowman.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/John_McEntee_Bowman"
+        }
+      },
+      {
+        "id": "toronto-fashion-7",
+        "name": "Victoria Hall",
+        "cityId": "toronto",
+        "categoryId": "fashion",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Victoria%20Hall%2C%20Toronto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Victoria_Hall_(Hamilton)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Victoria_hall_view_south.jpg/960px-Victoria_hall_view_south.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Victoria_Hall_(Hamilton)"
+        }
+      },
+      {
+        "id": "toronto-fashion-8",
+        "name": "Leon Major",
+        "cityId": "toronto",
+        "categoryId": "fashion",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Leon%20Major%2C%20Toronto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Leon_Major",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/af/Leon_Major_CTM_Interview_2013.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Leon_Major"
+        }
+      },
+      {
+        "id": "toronto-fashion-9",
+        "name": "Harry Rosen",
+        "cityId": "toronto",
+        "categoryId": "fashion",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Harry%20Rosen%2C%20Toronto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Harry_Rosen",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/HarryRosen.JPG/960px-HarryRosen.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Harry_Rosen"
+        }
+      },
+      {
+        "id": "toronto-fashion-10",
+        "name": "Campbell House",
+        "cityId": "toronto",
+        "categoryId": "fashion",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Campbell%20House%2C%20Toronto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Campbell_House_(Toronto)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Campbell_House_2025-06-29.jpg/960px-Campbell_House_2025-06-29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Campbell_House_(Toronto)"
+        }
+      },
+      {
+        "id": "toronto-fashion-11",
+        "name": "Benjamin Charles Prowse",
+        "cityId": "toronto",
+        "categoryId": "fashion",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Benjamin%20Charles%20Prowse%2C%20Toronto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Benjamin_Charles_Prowse",
+        "photo": null
+      },
+      {
+        "id": "toronto-fashion-12",
+        "name": "The Testaments",
+        "cityId": "toronto",
+        "categoryId": "fashion",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Testaments%2C%20Toronto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/The_Testaments",
+        "photo": null
+      },
+      {
+        "id": "toronto-fashion-13",
+        "name": "Mr. Brainwash",
+        "cityId": "toronto",
+        "categoryId": "fashion",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Mr.%20Brainwash%2C%20Toronto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Mr._Brainwash",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Mr_Brainwash_cropped.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Mr._Brainwash"
+        }
+      },
+      {
+        "id": "toronto-fashion-14",
+        "name": "Ariel Garten",
+        "cityId": "toronto",
+        "categoryId": "fashion",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Ariel%20Garten%2C%20Toronto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Ariel_Garten",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/Ariel_Garten_Playing_Quintephone_at_ICMC2007imgp7900cpq.jpg/960px-Ariel_Garten_Playing_Quintephone_at_ICMC2007imgp7900cpq.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Ariel_Garten"
+        }
+      },
+      {
+        "id": "toronto-fashion-15",
+        "name": "Albert Kish",
+        "cityId": "toronto",
+        "categoryId": "fashion",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Albert%20Kish%2C%20Toronto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Albert_Kish",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Albert_Kish.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Albert_Kish"
+        }
+      },
+      {
+        "id": "toronto-fashion-16",
+        "name": "One Bloor West",
+        "cityId": "toronto",
+        "categoryId": "fashion",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=One%20Bloor%20West%2C%20Toronto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/One_Bloor_West",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/One_Bloor_West_2026-11-04.jpg/960px-One_Bloor_West_2026-11-04.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/One_Bloor_West"
+        }
+      },
+      {
+        "id": "toronto-fashion-17",
+        "name": "Malvern, Toronto",
+        "cityId": "toronto",
+        "categoryId": "fashion",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Malvern%2C%20Toronto%2C%20Toronto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Malvern%2C_Toronto",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Malvern_in_Toronto_2023.jpg/960px-Malvern_in_Toronto_2023.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Malvern%2C_Toronto"
+        }
+      },
+      {
+        "id": "toronto-fashion-18",
+        "name": "Aritzia",
+        "cityId": "toronto",
+        "categoryId": "fashion",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Aritzia%2C%20Toronto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Aritzia",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Aritzia_%2854024638434%29.jpg/960px-Aritzia_%2854024638434%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Aritzia"
+        }
+      }
+    ],
+    "shops": [
+      {
+        "id": "toronto-shops-1",
+        "name": "The Beguiling",
+        "cityId": "toronto",
+        "categoryId": "shops",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Beguiling%2C%20Toronto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/The_Beguiling",
+        "photo": null
+      },
+      {
+        "id": "toronto-shops-2",
+        "name": "Hudson's Bay",
+        "cityId": "toronto",
+        "categoryId": "shops",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Hudson's%20Bay%2C%20Toronto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Hudson's_Bay_(department_store)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Hudson%27s_Bay_Queen_Street_2021.jpg/960px-Hudson%27s_Bay_Queen_Street_2021.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Hudson's_Bay_(department_store)"
+        }
+      },
+      {
+        "id": "toronto-shops-3",
+        "name": "Sunnyside Bus Terminal",
+        "cityId": "toronto",
+        "categoryId": "shops",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Sunnyside%20Bus%20Terminal%2C%20Toronto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Sunnyside_Bus_Terminal",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f9/GCL_Sunnyside_bus_terminal.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Sunnyside_Bus_Terminal"
+        }
+      },
+      {
+        "id": "toronto-shops-4",
+        "name": "Legoland Discovery Centre Toronto",
+        "cityId": "toronto",
+        "categoryId": "shops",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Legoland%20Discovery%20Centre%20Toronto%2C%20Toronto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Legoland_Discovery_Centre_Toronto",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/LegolandDiscoveryCentreToronto.JPG/960px-LegolandDiscoveryCentreToronto.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Legoland_Discovery_Centre_Toronto"
+        }
+      },
+      {
+        "id": "toronto-shops-5",
+        "name": "Dollarama",
+        "cityId": "toronto",
+        "categoryId": "shops",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Dollarama%2C%20Toronto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Dollarama",
+        "photo": null
+      },
+      {
+        "id": "toronto-shops-6",
+        "name": "Future Shop",
+        "cityId": "toronto",
+        "categoryId": "shops",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Future%20Shop%2C%20Toronto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Future_Shop",
+        "photo": null
+      },
+      {
+        "id": "toronto-shops-7",
+        "name": "Borrowing center",
+        "cityId": "toronto",
+        "categoryId": "shops",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Borrowing%20center%2C%20Toronto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Borrowing_center",
+        "photo": null
+      },
+      {
+        "id": "toronto-shops-8",
+        "name": "TIFF Lightbox",
+        "cityId": "toronto",
+        "categoryId": "shops",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=TIFF%20Lightbox%2C%20Toronto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/TIFF_Lightbox",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/Toronto_International_Film_Festival_logo.svg/960px-Toronto_International_Film_Festival_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/TIFF_Lightbox"
+        }
+      },
+      {
+        "id": "toronto-shops-9",
+        "name": "Greenwood Yard",
+        "cityId": "toronto",
+        "categoryId": "shops",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Greenwood%20Yard%2C%20Toronto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Greenwood_Yard",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/GREENWOODYARD.JPG/960px-GREENWOODYARD.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Greenwood_Yard"
+        }
+      },
+      {
+        "id": "toronto-shops-10",
+        "name": "John Candy",
+        "cityId": "toronto",
+        "categoryId": "shops",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=John%20Candy%2C%20Toronto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/John_Candy",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/John_Candy_%22SCTV_Network%22_%281982_NBC_press_photo%29.jpg/960px-John_Candy_%22SCTV_Network%22_%281982_NBC_press_photo%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/John_Candy"
+        }
+      },
+      {
+        "id": "toronto-shops-11",
+        "name": "Tim Hortons",
+        "cityId": "toronto",
+        "categoryId": "shops",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Tim%20Hortons%2C%20Toronto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Tim_Hortons",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/Tim_Hortons%2C_Kingsville%2C_Ontario%2C_2025-06-29.jpg/960px-Tim_Hortons%2C_Kingsville%2C_Ontario%2C_2025-06-29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Tim_Hortons"
+        }
+      },
+      {
+        "id": "toronto-shops-12",
+        "name": "The Village at Black Creek",
+        "cityId": "toronto",
+        "categoryId": "shops",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Village%20at%20Black%20Creek%2C%20Toronto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/The_Village_at_Black_Creek",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/In_the_shade_%281247127124%29.jpg/960px-In_the_shade_%281247127124%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/The_Village_at_Black_Creek"
+        }
+      },
+      {
+        "id": "toronto-shops-13",
+        "name": "Dante Alighieri Academy",
+        "cityId": "toronto",
+        "categoryId": "shops",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Dante%20Alighieri%20Academy%2C%20Toronto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Dante_Alighieri_Academy",
+        "photo": null
+      },
+      {
+        "id": "toronto-shops-14",
+        "name": "Blackalls Park",
+        "cityId": "toronto",
+        "categoryId": "shops",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Blackalls%20Park%2C%20Toronto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Blackalls_Park",
+        "photo": null
+      },
+      {
+        "id": "toronto-shops-15",
+        "name": "Dragon Lady Comics",
+        "cityId": "toronto",
+        "categoryId": "shops",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Dragon%20Lady%20Comics%2C%20Toronto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Dragon_Lady_Comics",
+        "photo": null
+      },
+      {
+        "id": "toronto-shops-16",
+        "name": "Hot dog stand",
+        "cityId": "toronto",
+        "categoryId": "shops",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Hot%20dog%20stand%2C%20Toronto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Hot_dog_stand",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Pinks_Hot_Dogs.jpg/960px-Pinks_Hot_Dogs.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Hot_dog_stand"
+        }
+      },
+      {
+        "id": "toronto-shops-17",
+        "name": "Shopify",
+        "cityId": "toronto",
+        "categoryId": "shops",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Shopify%2C%20Toronto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Shopify",
+        "photo": null
+      },
+      {
+        "id": "toronto-shops-18",
+        "name": "Rogers Plus",
+        "cityId": "toronto",
+        "categoryId": "shops",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Rogers%20Plus%2C%20Toronto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Rogers_Plus",
+        "photo": null
+      }
+    ]
+  }
+}

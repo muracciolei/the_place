@@ -5,7 +5,7 @@
  * NO se hace scraping de Google Maps.
  * Ejecutar solo en desarrollo: npm run generate:places
  */
-import { writeFile, mkdir } from 'node:fs/promises'
+import { writeFile, mkdir, readFile } from 'node:fs/promises'
 import { fileURLToPath } from 'node:url'
 import path from 'node:path'
 import { CITIES } from '../src/data/cities.js'
@@ -98,12 +98,16 @@ async function thumbnails(entries) {
   return map
 }
 
-async function generateCity(city) {
+async function generateCity(city, onlyCategoryId) {
   const categories = {}
   const incomplete = []
   const allEntries = []
 
-  for (const category of CATEGORIES.slice(0, 9)) {
+  const selectedCategories = onlyCategoryId
+    ? CATEGORIES.filter((category) => category.id === onlyCategoryId)
+    : CATEGORIES.slice(0, 9)
+
+  for (const category of selectedCategories) {
     const entries = await titlesFor(city, category.id)
     categories[category.id] = entries
     if (entries.length < PER_CATEGORY) incomplete.push(category.id)
@@ -132,20 +136,37 @@ async function generateCity(city) {
     })
   }
 
+  const finalCategories = onlyCategoryId
+    ? (await readExisting(city.id)).categories
+    : {}
+  Object.assign(finalCategories, categories)
+  const finalIncomplete = CATEGORIES.slice(0, 9)
+    .filter((category) => (finalCategories[category.id] || []).length < PER_CATEGORY)
+    .map((category) => category.id)
+
   return {
     cityId: city.id,
     generatedAt: new Date().toISOString(),
     source: 'Wikipedia API + Maps URLs (sin scraping de Google)',
-    incomplete,
-    categories,
+    incomplete: finalIncomplete,
+    categories: finalCategories,
+  }
+}
+
+async function readExisting(cityId) {
+  try {
+    return JSON.parse(await readFile(path.join(OUT, `${cityId}.json`), 'utf8'))
+  } catch {
+    return { categories: {} }
   }
 }
 
 await mkdir(OUT, { recursive: true })
 const CITY_ID = process.env.CITY_ID
+const CATEGORY_ID = process.env.CATEGORY_ID
 const selected = CITY_ID ? CITIES.filter((city) => city.id === CITY_ID) : CITIES
 for (const [index, city] of selected.entries()) {
-  const data = await generateCity(city)
+  const data = await generateCity(city, CATEGORY_ID)
   await writeFile(path.join(OUT, `${city.id}.json`), JSON.stringify(data, null, 2), 'utf8')
   const counts = Object.values(data.categories).map((list) => list.length)
   console.log(

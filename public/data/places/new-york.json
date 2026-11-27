@@ -1,11 +1,8 @@
 {
   "cityId": "new-york",
-  "generatedAt": "2026-11-27T08:22:11.124Z",
+  "generatedAt": "2026-11-27T08:57:38.718Z",
   "source": "Wikipedia API + Maps URLs (sin scraping de Google)",
-  "incomplete": [
-    "coffee_shops",
-    "bookshops"
-  ],
+  "incomplete": [],
   "categories": {
     "night_clubs": [
       {
@@ -807,8 +804,541 @@
         }
       }
     ],
-    "coffee_shops": [],
-    "bookshops": [],
+    "coffee_shops": [
+      {
+        "id": "new-york-coffee_shops-1",
+        "name": "Café des Artistes",
+        "cityId": "new-york",
+        "categoryId": "coffee_shops",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Caf%C3%A9%20des%20Artistes%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Caf%C3%A9_des_Artistes",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/WSTM_Team_Boerum_0072.jpg/960px-WSTM_Team_Boerum_0072.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Caf%C3%A9_des_Artistes"
+        }
+      },
+      {
+        "id": "new-york-coffee_shops-2",
+        "name": "Union Square Cafe",
+        "cityId": "new-york",
+        "categoryId": "coffee_shops",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Union%20Square%20Cafe%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Union_Square_Cafe",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/Union-square-cafe1.jpg/960px-Union-square-cafe1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Union_Square_Cafe"
+        }
+      },
+      {
+        "id": "new-york-coffee_shops-3",
+        "name": "Nuyorican Poets Café",
+        "cityId": "new-york",
+        "categoryId": "coffee_shops",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Nuyorican%20Poets%20Caf%C3%A9%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Nuyorican_Poets_Caf%C3%A9",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/Nuyorican_Poets_Cafe_in_Loisaida_section_of_New_York_City.jpg/960px-Nuyorican_Poets_Cafe_in_Loisaida_section_of_New_York_City.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Nuyorican_Poets_Caf%C3%A9"
+        }
+      },
+      {
+        "id": "new-york-coffee_shops-4",
+        "name": "Fashion Cafe",
+        "cityId": "new-york",
+        "categoryId": "coffee_shops",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Fashion%20Cafe%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Fashion_Cafe",
+        "photo": null
+      },
+      {
+        "id": "new-york-coffee_shops-5",
+        "name": "WOW Café",
+        "cityId": "new-york",
+        "categoryId": "coffee_shops",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=WOW%20Caf%C3%A9%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/WOW_Caf%C3%A9",
+        "photo": null
+      },
+      {
+        "id": "new-york-coffee_shops-6",
+        "name": "The Gaslight Cafe",
+        "cityId": "new-york",
+        "categoryId": "coffee_shops",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Gaslight%20Cafe%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/The_Gaslight_Cafe",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Site_of_the_former_Gaslight_Cafe.jpg/960px-Site_of_the_former_Gaslight_Cafe.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/The_Gaslight_Cafe"
+        }
+      },
+      {
+        "id": "new-york-coffee_shops-7",
+        "name": "Café Nicholson",
+        "cityId": "new-york",
+        "categoryId": "coffee_shops",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Caf%C3%A9%20Nicholson%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Caf%C3%A9_Nicholson",
+        "photo": null
+      },
+      {
+        "id": "new-york-coffee_shops-8",
+        "name": "Candle Cafe",
+        "cityId": "new-york",
+        "categoryId": "coffee_shops",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Candle%20Cafe%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Candle_Cafe",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/Candle_Cafe_NYC.jpg/960px-Candle_Cafe_NYC.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Candle_Cafe"
+        }
+      },
+      {
+        "id": "new-york-coffee_shops-9",
+        "name": "Café Boulud",
+        "cityId": "new-york",
+        "categoryId": "coffee_shops",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Caf%C3%A9%20Boulud%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Caf%C3%A9_Boulud",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/Caf%C3%A9_Boulud_NYC.jpg/960px-Caf%C3%A9_Boulud_NYC.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Caf%C3%A9_Boulud"
+        }
+      },
+      {
+        "id": "new-york-coffee_shops-10",
+        "name": "Bruegger's",
+        "cityId": "new-york",
+        "categoryId": "coffee_shops",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Bruegger's%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Bruegger's",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/en/thumb/8/89/Bruegger%27s_%28logo%29.svg/960px-Bruegger%27s_%28logo%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Bruegger's"
+        }
+      },
+      {
+        "id": "new-york-coffee_shops-11",
+        "name": "Five Spot Café",
+        "cityId": "new-york",
+        "categoryId": "coffee_shops",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Five%20Spot%20Caf%C3%A9%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Five_Spot_Caf%C3%A9",
+        "photo": null
+      },
+      {
+        "id": "new-york-coffee_shops-12",
+        "name": "Fanelli Cafe",
+        "cityId": "new-york",
+        "categoryId": "coffee_shops",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Fanelli%20Cafe%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Fanelli_Cafe",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/NYC_Soho_near_Prince_St.jpg/960px-NYC_Soho_near_Prince_St.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Fanelli_Cafe"
+        }
+      },
+      {
+        "id": "new-york-coffee_shops-13",
+        "name": "Cafe Chambord",
+        "cityId": "new-york",
+        "categoryId": "coffee_shops",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Cafe%20Chambord%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Cafe_Chambord",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Cafe_Chambord.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Cafe_Chambord"
+        }
+      },
+      {
+        "id": "new-york-coffee_shops-14",
+        "name": "Cafe Rouge",
+        "cityId": "new-york",
+        "categoryId": "coffee_shops",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Cafe%20Rouge%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Cafe_Rouge_(Hotel_Pennsylvania)",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Dining_room_of_the_Cafe_Rouge_%28Hotel_Pennsylvania%29_%28postcard_circa_1920%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Cafe_Rouge_(Hotel_Pennsylvania)"
+        }
+      },
+      {
+        "id": "new-york-coffee_shops-15",
+        "name": "La MaMa Experimental Theatre Club",
+        "cityId": "new-york",
+        "categoryId": "coffee_shops",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=La%20MaMa%20Experimental%20Theatre%20Club%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/La_MaMa_Experimental_Theatre_Club",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/La_MaMa_Experimental_Theatre_Club_%2851661012659%29.jpg/960px-La_MaMa_Experimental_Theatre_Club_%2851661012659%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/La_MaMa_Experimental_Theatre_Club"
+        }
+      },
+      {
+        "id": "new-york-coffee_shops-16",
+        "name": "Reisenweber's Cafe",
+        "cityId": "new-york",
+        "categoryId": "coffee_shops",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Reisenweber's%20Cafe%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Reisenweber's_Cafe",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Beefsteak_dinner_at_Reisenwebers_to_honour_H.H._Rogers_%26_Mark_Twain_LCCN2014681447.tif/lossy-page1-960px-Beefsteak_dinner_at_Reisenwebers_to_honour_H.H._Rogers_%26_Mark_Twain_LCCN2014681447.tif.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Reisenweber's_Cafe"
+        }
+      },
+      {
+        "id": "new-york-coffee_shops-17",
+        "name": "West Village",
+        "cityId": "new-york",
+        "categoryId": "coffee_shops",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=West%20Village%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/West_Village",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/2_Horatio_Street_NYC_Summer_from_the_North.jpg/960px-2_Horatio_Street_NYC_Summer_from_the_North.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/West_Village"
+        }
+      },
+      {
+        "id": "new-york-coffee_shops-18",
+        "name": "Bridge Cafe",
+        "cityId": "new-york",
+        "categoryId": "coffee_shops",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Bridge%20Cafe%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Bridge_Cafe",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/Bridge_Cafe_%28WTM_by_official-ly_cool_060%29.jpg/960px-Bridge_Cafe_%28WTM_by_official-ly_cool_060%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Bridge_Cafe"
+        }
+      }
+    ],
+    "bookshops": [
+      {
+        "id": "new-york-bookshops-1",
+        "name": "Strand Bookstore",
+        "cityId": "new-york",
+        "categoryId": "bookshops",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Strand%20Bookstore%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Strand_Bookstore",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/en/4/47/Strand_Bookstore_logo.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Strand_Bookstore"
+        }
+      },
+      {
+        "id": "new-york-bookshops-2",
+        "name": "Barnes & Noble",
+        "cityId": "new-york",
+        "categoryId": "bookshops",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Barnes%20%26%20Noble%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Barnes_%26_Noble",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/Barnes_%26_Noble_Union_Square_NYC_May_2025.jpg/960px-Barnes_%26_Noble_Union_Square_NYC_May_2025.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Barnes_%26_Noble"
+        }
+      },
+      {
+        "id": "new-york-bookshops-3",
+        "name": "Bluestockings",
+        "cityId": "new-york",
+        "categoryId": "bookshops",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Bluestockings%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Bluestockings_(bookstore)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Bluestockings_%28142607424%29.jpg/960px-Bluestockings_%28142607424%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Bluestockings_(bookstore)"
+        }
+      },
+      {
+        "id": "new-york-bookshops-4",
+        "name": "Oscar Wilde Bookshop",
+        "cityId": "new-york",
+        "categoryId": "bookshops",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Oscar%20Wilde%20Bookshop%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Oscar_Wilde_Bookshop",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/66/ChristopherAndGayStreets9.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Oscar_Wilde_Bookshop"
+        }
+      },
+      {
+        "id": "new-york-bookshops-5",
+        "name": "Book Row",
+        "cityId": "new-york",
+        "categoryId": "bookshops",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Book%20Row%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Book_Row",
+        "photo": null
+      },
+      {
+        "id": "new-york-bookshops-6",
+        "name": "Gotham Book Mart",
+        "cityId": "new-york",
+        "categoryId": "bookshops",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Gotham%20Book%20Mart%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Gotham_Book_Mart",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/Gotham-Book-Mart-Sign.jpg/960px-Gotham-Book-Mart-Sign.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Gotham_Book_Mart"
+        }
+      },
+      {
+        "id": "new-york-bookshops-7",
+        "name": "St. Mark's Bookshop",
+        "cityId": "new-york",
+        "categoryId": "bookshops",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=St.%20Mark's%20Bookshop%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/St._Mark's_Bookshop",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Lozupone_stmarksbooksclose.png/960px-Lozupone_stmarksbooksclose.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/St._Mark's_Bookshop"
+        }
+      },
+      {
+        "id": "new-york-bookshops-8",
+        "name": "University of Toronto Press",
+        "cityId": "new-york",
+        "categoryId": "bookshops",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=University%20of%20Toronto%20Press%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/University_of_Toronto_Press",
+        "photo": null
+      },
+      {
+        "id": "new-york-bookshops-9",
+        "name": "Waldenbooks",
+        "cityId": "new-york",
+        "categoryId": "bookshops",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Waldenbooks%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Waldenbooks",
+        "photo": null
+      },
+      {
+        "id": "new-york-bookshops-10",
+        "name": "Argosy Book Store",
+        "cityId": "new-york",
+        "categoryId": "bookshops",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Argosy%20Book%20Store%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Argosy_Book_Store",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Argosy_Book_Store.jpeg/960px-Argosy_Book_Store.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Argosy_Book_Store"
+        }
+      },
+      {
+        "id": "new-york-bookshops-11",
+        "name": "J. Levine Books and Judaica",
+        "cityId": "new-york",
+        "categoryId": "bookshops",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=J.%20Levine%20Books%20and%20Judaica%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/J._Levine_Books_and_Judaica",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/J_Levine_Building.jpg/960px-J_Levine_Building.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/J._Levine_Books_and_Judaica"
+        }
+      },
+      {
+        "id": "new-york-bookshops-12",
+        "name": "Housing Works",
+        "cityId": "new-york",
+        "categoryId": "bookshops",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Housing%20Works%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Housing_Works",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/HousingWorksCafe-April2015.jpg/960px-HousingWorksCafe-April2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Housing_Works"
+        }
+      },
+      {
+        "id": "new-york-bookshops-13",
+        "name": "Rizzoli Bookstore",
+        "cityId": "new-york",
+        "categoryId": "bookshops",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Rizzoli%20Bookstore%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Rizzoli_Bookstore",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Rizzoli_Bookstore_%2838202143341%29.jpg/960px-Rizzoli_Bookstore_%2838202143341%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Rizzoli_Bookstore"
+        }
+      },
+      {
+        "id": "new-york-bookshops-14",
+        "name": "Weiser Antiquarian Books",
+        "cityId": "new-york",
+        "categoryId": "bookshops",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Weiser%20Antiquarian%20Books%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Weiser_Antiquarian_Books",
+        "photo": null
+      },
+      {
+        "id": "new-york-bookshops-15",
+        "name": "Glad Day Bookshop",
+        "cityId": "new-york",
+        "categoryId": "bookshops",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Glad%20Day%20Bookshop%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Glad_Day_Bookshop",
+        "photo": null
+      },
+      {
+        "id": "new-york-bookshops-16",
+        "name": "Independent bookstore",
+        "cityId": "new-york",
+        "categoryId": "bookshops",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Independent%20bookstore%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Independent_bookstore",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Stoke_Newington_Bookshop%2C_London.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Independent_bookstore"
+        }
+      },
+      {
+        "id": "new-york-bookshops-17",
+        "name": "Ticknor and Fields",
+        "cityId": "new-york",
+        "categoryId": "bookshops",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Ticknor%20and%20Fields%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Ticknor_and_Fields",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Ticknor_and_Fields_logo_1867.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Ticknor_and_Fields"
+        }
+      },
+      {
+        "id": "new-york-bookshops-18",
+        "name": "Amazon Books",
+        "cityId": "new-york",
+        "categoryId": "bookshops",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Amazon%20Books%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Amazon_Books",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/Amazon_Books_at_U_Village%2C_Seattle_%2822955160585%29.jpg/960px-Amazon_Books_at_U_Village%2C_Seattle_%2822955160585%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Amazon_Books"
+        }
+      }
+    ],
     "museums": [
       {
         "id": "new-york-museums-1",

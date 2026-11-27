@@ -1,10 +1,8 @@
 {
   "cityId": "tokyo",
-  "generatedAt": "2026-11-27T08:24:24.619Z",
+  "generatedAt": "2026-11-27T08:56:14.798Z",
   "source": "Wikipedia API + Maps URLs (sin scraping de Google)",
-  "incomplete": [
-    "bars"
-  ],
+  "incomplete": [],
   "categories": {
     "night_clubs": [
       {
@@ -521,7 +519,266 @@
         }
       }
     ],
-    "bars": [],
+    "bars": [
+      {
+        "id": "tokyo-bars-1",
+        "name": "Grand Central Oyster Bar & Restaurant",
+        "cityId": "tokyo",
+        "categoryId": "bars",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Grand%20Central%20Oyster%20Bar%20%26%20Restaurant%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Grand_Central_Oyster_Bar_%26_Restaurant",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/The_Oyster_Bar%2C_Grand_Central_Terminal%2C_New_York_City_%284057303042%29.jpg/960px-The_Oyster_Bar%2C_Grand_Central_Terminal%2C_New_York_City_%284057303042%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Grand_Central_Oyster_Bar_%26_Restaurant"
+        }
+      },
+      {
+        "id": "tokyo-bars-2",
+        "name": "Bakutsuri Bar Hunter",
+        "cityId": "tokyo",
+        "categoryId": "bars",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Bakutsuri%20Bar%20Hunter%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Bakutsuri_Bar_Hunter",
+        "photo": null
+      },
+      {
+        "id": "tokyo-bars-3",
+        "name": "High jump",
+        "cityId": "tokyo",
+        "categoryId": "bars",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=High%20jump%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/High_jump",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Nicole_Forrester.JPG/960px-Nicole_Forrester.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/High_jump"
+        }
+      },
+      {
+        "id": "tokyo-bars-4",
+        "name": "Host and hostess clubs",
+        "cityId": "tokyo",
+        "categoryId": "bars",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Host%20and%20hostess%20clubs%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Host_and_hostess_clubs",
+        "photo": null
+      },
+      {
+        "id": "tokyo-bars-5",
+        "name": "Boris Shakhlin",
+        "cityId": "tokyo",
+        "categoryId": "bars",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Boris%20Shakhlin%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Boris_Shakhlin",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/De_Russische_Boris_Chaklin_in_aktie_aan_de_ringen%2C_Bestanddeelnr_919-5889.jpg/960px-De_Russische_Boris_Chaklin_in_aktie_aan_de_ringen%2C_Bestanddeelnr_919-5889.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Boris_Shakhlin"
+        }
+      },
+      {
+        "id": "tokyo-bars-6",
+        "name": "Zuma",
+        "cityId": "tokyo",
+        "categoryId": "bars",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Zuma%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Zuma_(restaurant)",
+        "photo": null
+      },
+      {
+        "id": "tokyo-bars-7",
+        "name": "PayPay",
+        "cityId": "tokyo",
+        "categoryId": "bars",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=PayPay%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/PayPay",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/Tokyo_Garden_Terrace_Kioicho.jpg/960px-Tokyo_Garden_Terrace_Kioicho.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/PayPay"
+        }
+      },
+      {
+        "id": "tokyo-bars-8",
+        "name": "Tokyo One Piece Tower",
+        "cityId": "tokyo",
+        "categoryId": "bars",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Tokyo%20One%20Piece%20Tower%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Tokyo_One_Piece_Tower",
+        "photo": null
+      },
+      {
+        "id": "tokyo-bars-9",
+        "name": "The Adicts",
+        "cityId": "tokyo",
+        "categoryId": "bars",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Adicts%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/The_Adicts",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/The-Adicts.jpg/960px-The-Adicts.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/The_Adicts"
+        }
+      },
+      {
+        "id": "tokyo-bars-10",
+        "name": "DDT Pro-Wrestling",
+        "cityId": "tokyo",
+        "categoryId": "bars",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=DDT%20Pro-Wrestling%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/DDT_Pro-Wrestling",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/en/thumb/a/af/DDT-Wrestling.svg/960px-DDT-Wrestling.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/DDT_Pro-Wrestling"
+        }
+      },
+      {
+        "id": "tokyo-bars-11",
+        "name": "Tokyo Metropolitan Police Department",
+        "cityId": "tokyo",
+        "categoryId": "bars",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Tokyo%20Metropolitan%20Police%20Department%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Tokyo_Metropolitan_Police_Department",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Asahikage.svg/960px-Asahikage.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Tokyo_Metropolitan_Police_Department"
+        }
+      },
+      {
+        "id": "tokyo-bars-12",
+        "name": "Kōhei Uchimura",
+        "cityId": "tokyo",
+        "categoryId": "bars",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=K%C5%8Dhei%20Uchimura%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/K%C5%8Dhei_Uchimura",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/04/Kohei_Uchimura_%282011%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/K%C5%8Dhei_Uchimura"
+        }
+      },
+      {
+        "id": "tokyo-bars-13",
+        "name": "2020 in artistic gymnastics",
+        "cityId": "tokyo",
+        "categoryId": "bars",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=2020%20in%20artistic%20gymnastics%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/2020_in_artistic_gymnastics",
+        "photo": null
+      },
+      {
+        "id": "tokyo-bars-14",
+        "name": "Daiki Hashimoto",
+        "cityId": "tokyo",
+        "categoryId": "bars",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Daiki%20Hashimoto%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Daiki_Hashimoto",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Daiki_Hashimoto_-_2026_American_Cup.jpg/960px-Daiki_Hashimoto_-_2026_American_Cup.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Daiki_Hashimoto"
+        }
+      },
+      {
+        "id": "tokyo-bars-15",
+        "name": "Viktor Lisitsky",
+        "cityId": "tokyo",
+        "categoryId": "bars",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Viktor%20Lisitsky%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Viktor_Lisitsky",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Viktor_Lisitsky_1964b.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Viktor_Lisitsky"
+        }
+      },
+      {
+        "id": "tokyo-bars-16",
+        "name": ".bar",
+        "cityId": "tokyo",
+        "categoryId": "bars",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=.bar%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/.bar",
+        "photo": null
+      },
+      {
+        "id": "tokyo-bars-17",
+        "name": ".tokyo",
+        "cityId": "tokyo",
+        "categoryId": "bars",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=.tokyo%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/.tokyo",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/.tokyo_TLD_logo.svg/960px-.tokyo_TLD_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/.tokyo"
+        }
+      },
+      {
+        "id": "tokyo-bars-18",
+        "name": "Yukio Endō",
+        "cityId": "tokyo",
+        "categoryId": "bars",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Yukio%20End%C5%8D%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Yukio_End%C5%8D",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Yukio_Endo_1964b.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Yukio_End%C5%8D"
+        }
+      }
+    ],
     "coffee_shops": [
       {
         "id": "tokyo-coffee_shops-1",

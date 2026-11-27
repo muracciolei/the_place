@@ -1,0 +1,2323 @@
+{
+  "cityId": "chicago",
+  "generatedAt": "2026-11-27T08:57:38.587Z",
+  "source": "Wikipedia API + Maps URLs (sin scraping de Google)",
+  "incomplete": [],
+  "categories": {
+    "night_clubs": [
+      {
+        "id": "chicago-night_clubs-1",
+        "name": "E2 nightclub stampede",
+        "cityId": "chicago",
+        "categoryId": "night_clubs",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=E2%20nightclub%20stampede%2C%20Chicago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/E2_nightclub_stampede",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Motor_row_Chicago_buildings_%2837291659184%29_%28adjusted%29.jpg/960px-Motor_row_Chicago_buildings_%2837291659184%29_%28adjusted%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/E2_nightclub_stampede"
+        }
+      },
+      {
+        "id": "chicago-night_clubs-2",
+        "name": "Neo",
+        "cityId": "chicago",
+        "categoryId": "night_clubs",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Neo%2C%20Chicago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Neo_(nightclub)",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/63/Neo_nightclub.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Neo_(nightclub)"
+        }
+      },
+      {
+        "id": "chicago-night_clubs-3",
+        "name": "Metro Chicago",
+        "cityId": "chicago",
+        "categoryId": "night_clubs",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Metro%20Chicago%2C%20Chicago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Metro_Chicago",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/TheMetroChicagoJI1.jpg/960px-TheMetroChicagoJI1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Metro_Chicago"
+        }
+      },
+      {
+        "id": "chicago-night_clubs-4",
+        "name": "The Limelight",
+        "cityId": "chicago",
+        "categoryId": "night_clubs",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Limelight%2C%20Chicago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/The_Limelight",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Avalon_NYC_2007_006.jpg/960px-Avalon_NYC_2007_006.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/The_Limelight"
+        }
+      },
+      {
+        "id": "chicago-night_clubs-5",
+        "name": "Constellation",
+        "cityId": "chicago",
+        "categoryId": "night_clubs",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Constellation%2C%20Chicago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Constellation_(nightclub)",
+        "photo": null
+      },
+      {
+        "id": "chicago-night_clubs-6",
+        "name": "Warehouse",
+        "cityId": "chicago",
+        "categoryId": "night_clubs",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Warehouse%2C%20Chicago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Warehouse_(nightclub)",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/The_Warehouse%3B_Chicago%2C_Il%3B_5_Oct_2024.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Warehouse_(nightclub)"
+        }
+      },
+      {
+        "id": "chicago-night_clubs-7",
+        "name": "Redd Foxx",
+        "cityId": "chicago",
+        "categoryId": "night_clubs",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Redd%20Foxx%2C%20Chicago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Redd_Foxx",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Redd_Foxx_1966.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Redd_Foxx"
+        }
+      },
+      {
+        "id": "chicago-night_clubs-8",
+        "name": "Velvet Lounge",
+        "cityId": "chicago",
+        "categoryId": "night_clubs",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Velvet%20Lounge%2C%20Chicago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Velvet_Lounge",
+        "photo": null
+      },
+      {
+        "id": "chicago-night_clubs-9",
+        "name": "Kingston Mines",
+        "cityId": "chicago",
+        "categoryId": "night_clubs",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Kingston%20Mines%2C%20Chicago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Kingston_Mines_(blues_club)",
+        "photo": null
+      },
+      {
+        "id": "chicago-night_clubs-10",
+        "name": "O'Banion's",
+        "cityId": "chicago",
+        "categoryId": "night_clubs",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=O'Banion's%2C%20Chicago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/O'Banion's",
+        "photo": null
+      },
+      {
+        "id": "chicago-night_clubs-11",
+        "name": "Woody Allen",
+        "cityId": "chicago",
+        "categoryId": "night_clubs",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Woody%20Allen%2C%20Chicago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Woody_Allen_(album)",
+        "photo": null
+      },
+      {
+        "id": "chicago-night_clubs-12",
+        "name": "Octavio Dotel",
+        "cityId": "chicago",
+        "categoryId": "night_clubs",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Octavio%20Dotel%2C%20Chicago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Octavio_Dotel",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/20120713-0283j_Octavio_Dotel.jpg/960px-20120713-0283j_Octavio_Dotel.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Octavio_Dotel"
+        }
+      },
+      {
+        "id": "chicago-night_clubs-13",
+        "name": "Angels & Kings",
+        "cityId": "chicago",
+        "categoryId": "night_clubs",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Angels%20%26%20Kings%2C%20Chicago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Angels_%26_Kings",
+        "photo": null
+      },
+      {
+        "id": "chicago-night_clubs-14",
+        "name": "Double Door",
+        "cityId": "chicago",
+        "categoryId": "night_clubs",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Double%20Door%2C%20Chicago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Double_Door",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/Double_door_2014-05-25_16-35.jpg/960px-Double_door_2014-05-25_16-35.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Double_Door"
+        }
+      },
+      {
+        "id": "chicago-night_clubs-15",
+        "name": "Mister Kelly's",
+        "cityId": "chicago",
+        "categoryId": "night_clubs",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Mister%20Kelly's%2C%20Chicago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Mister_Kelly's",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Photography_by_Victor_Albert_Grigas_%281919-2017%29_000301930009_%2854946101976%29.jpg/960px-Photography_by_Victor_Albert_Grigas_%281919-2017%29_000301930009_%2854946101976%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Mister_Kelly's"
+        }
+      },
+      {
+        "id": "chicago-night_clubs-16",
+        "name": "Rekom UK",
+        "cityId": "chicago",
+        "categoryId": "night_clubs",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Rekom%20UK%2C%20Chicago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Rekom_UK",
+        "photo": null
+      },
+      {
+        "id": "chicago-night_clubs-17",
+        "name": "Lincoln Gardens",
+        "cityId": "chicago",
+        "categoryId": "night_clubs",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Lincoln%20Gardens%2C%20Chicago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Lincoln_Gardens",
+        "photo": null
+      },
+      {
+        "id": "chicago-night_clubs-18",
+        "name": "Ike Bloom",
+        "cityId": "chicago",
+        "categoryId": "night_clubs",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Ike%20Bloom%2C%20Chicago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Ike_Bloom",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/en/d/da/IkeBloom.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Ike_Bloom"
+        }
+      }
+    ],
+    "restaurants": [
+      {
+        "id": "chicago-restaurants-1",
+        "name": "Portillo's Restaurants",
+        "cityId": "chicago",
+        "categoryId": "restaurants",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Portillo's%20Restaurants%2C%20Chicago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Portillo's_Restaurants",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/94/Portillos.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Portillo's_Restaurants"
+        }
+      },
+      {
+        "id": "chicago-restaurants-2",
+        "name": "The Cubby Bear",
+        "cityId": "chicago",
+        "categoryId": "restaurants",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Cubby%20Bear%2C%20Chicago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/The_Cubby_Bear",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Cubby_Bear_Wrigleyville.jpg/960px-Cubby_Bear_Wrigleyville.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/The_Cubby_Bear"
+        }
+      },
+      {
+        "id": "chicago-restaurants-3",
+        "name": "Brown's Chicken & Pasta",
+        "cityId": "chicago",
+        "categoryId": "restaurants",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Brown's%20Chicken%20%26%20Pasta%2C%20Chicago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Brown's_Chicken_%26_Pasta",
+        "photo": null
+      },
+      {
+        "id": "chicago-restaurants-4",
+        "name": "Harry Caray's Italian Steakhouse",
+        "cityId": "chicago",
+        "categoryId": "restaurants",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Harry%20Caray's%20Italian%20Steakhouse%2C%20Chicago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Harry_Caray's_Italian_Steakhouse",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Harry_Caray%27s_Italian_Steakhouse%2C_Chicago_Varnish_Company_Building%2C_33_West_Kinzie_Street_in_Chicago.jpg/960px-Harry_Caray%27s_Italian_Steakhouse%2C_Chicago_Varnish_Company_Building%2C_33_West_Kinzie_Street_in_Chicago.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Harry_Caray's_Italian_Steakhouse"
+        }
+      },
+      {
+        "id": "chicago-restaurants-5",
+        "name": "Uno Pizzeria & Grill",
+        "cityId": "chicago",
+        "categoryId": "restaurants",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Uno%20Pizzeria%20%26%20Grill%2C%20Chicago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Uno_Pizzeria_%26_Grill",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Uno_Due_Chicago.jpg/960px-Uno_Due_Chicago.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Uno_Pizzeria_%26_Grill"
+        }
+      },
+      {
+        "id": "chicago-restaurants-6",
+        "name": "Morton's The Steakhouse",
+        "cityId": "chicago",
+        "categoryId": "restaurants",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Morton's%20The%20Steakhouse%2C%20Chicago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Morton's_The_Steakhouse",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Morton%27s_The_Steakhouse%2C_San_Jose%2C_CA_1_2017-01-02.jpg/960px-Morton%27s_The_Steakhouse%2C_San_Jose%2C_CA_1_2017-01-02.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Morton's_The_Steakhouse"
+        }
+      },
+      {
+        "id": "chicago-restaurants-7",
+        "name": "Potbelly Sandwich Shop",
+        "cityId": "chicago",
+        "categoryId": "restaurants",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Potbelly%20Sandwich%20Shop%2C%20Chicago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Potbelly_Sandwich_Shop",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/43/11-16-06-EPMN-potbelly.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Potbelly_Sandwich_Shop"
+        }
+      },
+      {
+        "id": "chicago-restaurants-8",
+        "name": "Lou Malnati's Pizzeria",
+        "cityId": "chicago",
+        "categoryId": "restaurants",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Lou%20Malnati's%20Pizzeria%2C%20Chicago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Lou_Malnati's_Pizzeria",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/Lou_Malnati_Pizza_Food_Items.png/960px-Lou_Malnati_Pizza_Food_Items.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Lou_Malnati's_Pizzeria"
+        }
+      },
+      {
+        "id": "chicago-restaurants-9",
+        "name": "McDonald's Chicago Flagship",
+        "cityId": "chicago",
+        "categoryId": "restaurants",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=McDonald's%20Chicago%20Flagship%2C%20Chicago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/McDonald's_Chicago_Flagship",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/McDonald%27s_Chicago_Flagship.jpg/960px-McDonald%27s_Chicago_Flagship.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/McDonald's_Chicago_Flagship"
+        }
+      },
+      {
+        "id": "chicago-restaurants-10",
+        "name": "Home Run Inn",
+        "cityId": "chicago",
+        "categoryId": "restaurants",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Home%20Run%20Inn%2C%20Chicago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Home_Run_Inn",
+        "photo": null
+      },
+      {
+        "id": "chicago-restaurants-11",
+        "name": "Sixteen",
+        "cityId": "chicago",
+        "categoryId": "restaurants",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Sixteen%2C%20Chicago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Sixteen_(restaurant)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/20090310_Wine_Racks_at_Sixteen.jpg/960px-20090310_Wine_Racks_at_Sixteen.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Sixteen_(restaurant)"
+        }
+      },
+      {
+        "id": "chicago-restaurants-12",
+        "name": "Alinea",
+        "cityId": "chicago",
+        "categoryId": "restaurants",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Alinea%2C%20Chicago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Alinea_(restaurant)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Alinea_-_Front.jpg/960px-Alinea_-_Front.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Alinea_(restaurant)"
+        }
+      },
+      {
+        "id": "chicago-restaurants-13",
+        "name": "John Hancock Center",
+        "cityId": "chicago",
+        "categoryId": "restaurants",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=John%20Hancock%20Center%2C%20Chicago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/John_Hancock_Center",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Chicago_in_2022_John_Hancock_Center_%2852054925135%29.jpg/960px-Chicago_in_2022_John_Hancock_Center_%2852054925135%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/John_Hancock_Center"
+        }
+      },
+      {
+        "id": "chicago-restaurants-14",
+        "name": "Michael Jordan's Restaurant",
+        "cityId": "chicago",
+        "categoryId": "restaurants",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Michael%20Jordan's%20Restaurant%2C%20Chicago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Michael_Jordan's_Restaurant",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/61/Michael_jordans_restaurant.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Michael_Jordan's_Restaurant"
+        }
+      },
+      {
+        "id": "chicago-restaurants-15",
+        "name": "Rosati's",
+        "cityId": "chicago",
+        "categoryId": "restaurants",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Rosati's%2C%20Chicago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Rosati's",
+        "photo": null
+      },
+      {
+        "id": "chicago-restaurants-16",
+        "name": "Park Grill",
+        "cityId": "chicago",
+        "categoryId": "restaurants",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Park%20Grill%2C%20Chicago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Park_Grill",
+        "photo": null
+      },
+      {
+        "id": "chicago-restaurants-17",
+        "name": "Greektown, Chicago",
+        "cityId": "chicago",
+        "categoryId": "restaurants",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Greektown%2C%20Chicago%2C%20Chicago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Greektown%2C_Chicago",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/New_National_Hellenic_Museum_during_the_day.jpg/960px-New_National_Hellenic_Museum_during_the_day.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Greektown%2C_Chicago"
+        }
+      },
+      {
+        "id": "chicago-restaurants-18",
+        "name": "SPB Hospitality",
+        "cityId": "chicago",
+        "categoryId": "restaurants",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=SPB%20Hospitality%2C%20Chicago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/SPB_Hospitality",
+        "photo": null
+      }
+    ],
+    "bars": [
+      {
+        "id": "chicago-bars-1",
+        "name": "The Cubby Bear",
+        "cityId": "chicago",
+        "categoryId": "bars",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Cubby%20Bear%2C%20Chicago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/The_Cubby_Bear",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Cubby_Bear_Wrigleyville.jpg/960px-Cubby_Bear_Wrigleyville.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/The_Cubby_Bear"
+        }
+      },
+      {
+        "id": "chicago-bars-2",
+        "name": "University of Illinois Chicago School of Law",
+        "cityId": "chicago",
+        "categoryId": "bars",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=University%20of%20Illinois%20Chicago%20School%20of%20Law%2C%20Chicago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/University_of_Illinois_Chicago_School_of_Law",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/University_of_Illinois_Chicago_School_of_Law_%2851575326034%29.jpg/960px-University_of_Illinois_Chicago_School_of_Law_%2851575326034%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/University_of_Illinois_Chicago_School_of_Law"
+        }
+      },
+      {
+        "id": "chicago-bars-3",
+        "name": "Harry Caray's Italian Steakhouse",
+        "cityId": "chicago",
+        "categoryId": "bars",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Harry%20Caray's%20Italian%20Steakhouse%2C%20Chicago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Harry_Caray's_Italian_Steakhouse",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Harry_Caray%27s_Italian_Steakhouse%2C_Chicago_Varnish_Company_Building%2C_33_West_Kinzie_Street_in_Chicago.jpg/960px-Harry_Caray%27s_Italian_Steakhouse%2C_Chicago_Varnish_Company_Building%2C_33_West_Kinzie_Street_in_Chicago.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Harry_Caray's_Italian_Steakhouse"
+        }
+      },
+      {
+        "id": "chicago-bars-4",
+        "name": "American Bar Foundation",
+        "cityId": "chicago",
+        "categoryId": "bars",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=American%20Bar%20Foundation%2C%20Chicago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/American_Bar_Foundation",
+        "photo": null
+      },
+      {
+        "id": "chicago-bars-5",
+        "name": "Uno Pizzeria & Grill",
+        "cityId": "chicago",
+        "categoryId": "bars",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Uno%20Pizzeria%20%26%20Grill%2C%20Chicago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Uno_Pizzeria_%26_Grill",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Uno_Due_Chicago.jpg/960px-Uno_Due_Chicago.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Uno_Pizzeria_%26_Grill"
+        }
+      },
+      {
+        "id": "chicago-bars-6",
+        "name": "Flag of Chicago",
+        "cityId": "chicago",
+        "categoryId": "bars",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Flag%20of%20Chicago%2C%20Chicago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Flag_of_Chicago",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/Flag_of_Chicago%2C_Illinois.svg/960px-Flag_of_Chicago%2C_Illinois.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Flag_of_Chicago"
+        }
+      },
+      {
+        "id": "chicago-bars-7",
+        "name": "Smart Bar Chicago 1985",
+        "cityId": "chicago",
+        "categoryId": "bars",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Smart%20Bar%20Chicago%201985%2C%20Chicago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Smart_Bar_Chicago_1985",
+        "photo": null
+      },
+      {
+        "id": "chicago-bars-8",
+        "name": "Harold's Chicken Shack",
+        "cityId": "chicago",
+        "categoryId": "bars",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Harold's%20Chicken%20Shack%2C%20Chicago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Harold's_Chicken_Shack",
+        "photo": null
+      },
+      {
+        "id": "chicago-bars-9",
+        "name": "Metro Chicago",
+        "cityId": "chicago",
+        "categoryId": "bars",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Metro%20Chicago%2C%20Chicago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Metro_Chicago",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/TheMetroChicagoJI1.jpg/960px-TheMetroChicagoJI1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Metro_Chicago"
+        }
+      },
+      {
+        "id": "chicago-bars-10",
+        "name": "ABA Journal",
+        "cityId": "chicago",
+        "categoryId": "bars",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=ABA%20Journal%2C%20Chicago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/ABA_Journal",
+        "photo": null
+      },
+      {
+        "id": "chicago-bars-11",
+        "name": "Loyola University Chicago School of Law",
+        "cityId": "chicago",
+        "categoryId": "bars",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Loyola%20University%20Chicago%20School%20of%20Law%2C%20Chicago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Loyola_University_Chicago_School_of_Law",
+        "photo": null
+      },
+      {
+        "id": "chicago-bars-12",
+        "name": "Early Edition",
+        "cityId": "chicago",
+        "categoryId": "bars",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Early%20Edition%2C%20Chicago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Early_Edition",
+        "photo": null
+      },
+      {
+        "id": "chicago-bars-13",
+        "name": "Soulja Boy",
+        "cityId": "chicago",
+        "categoryId": "bars",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Soulja%20Boy%2C%20Chicago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Soulja_Boy",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/38/Soulja.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Soulja_Boy"
+        }
+      },
+      {
+        "id": "chicago-bars-14",
+        "name": "Dash",
+        "cityId": "chicago",
+        "categoryId": "bars",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Dash%2C%20Chicago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Dash",
+        "photo": null
+      },
+      {
+        "id": "chicago-bars-15",
+        "name": "Guinness Storehouse",
+        "cityId": "chicago",
+        "categoryId": "bars",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Guinness%20Storehouse%2C%20Chicago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Guinness_Storehouse",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/Guinness_Storehouse_exterior_3.jpg/960px-Guinness_Storehouse_exterior_3.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Guinness_Storehouse"
+        }
+      },
+      {
+        "id": "chicago-bars-16",
+        "name": "Big Chicks",
+        "cityId": "chicago",
+        "categoryId": "bars",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Big%20Chicks%2C%20Chicago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Big_Chicks",
+        "photo": null
+      },
+      {
+        "id": "chicago-bars-17",
+        "name": "Lem's Bar-B-Q",
+        "cityId": "chicago",
+        "categoryId": "bars",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Lem's%20Bar-B-Q%2C%20Chicago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Lem's_Bar-B-Q",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Lem%27s_Bar-B-Q%2C_Chicago.jpg/960px-Lem%27s_Bar-B-Q%2C_Chicago.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Lem's_Bar-B-Q"
+        }
+      },
+      {
+        "id": "chicago-bars-18",
+        "name": "Chicago Options Associates",
+        "cityId": "chicago",
+        "categoryId": "bars",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Chicago%20Options%20Associates%2C%20Chicago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Chicago_Options_Associates",
+        "photo": null
+      }
+    ],
+    "coffee_shops": [
+      {
+        "id": "chicago-coffee_shops-1",
+        "name": "Portillo's Restaurants",
+        "cityId": "chicago",
+        "categoryId": "coffee_shops",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Portillo's%20Restaurants%2C%20Chicago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Portillo's_Restaurants",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/94/Portillos.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Portillo's_Restaurants"
+        }
+      },
+      {
+        "id": "chicago-coffee_shops-2",
+        "name": "Sunset Cafe",
+        "cityId": "chicago",
+        "categoryId": "coffee_shops",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Sunset%20Cafe%2C%20Chicago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Sunset_Cafe",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Sunset_Cafe_Chicago_c_1923.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Sunset_Cafe"
+        }
+      },
+      {
+        "id": "chicago-coffee_shops-3",
+        "name": "Wonut",
+        "cityId": "chicago",
+        "categoryId": "coffee_shops",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Wonut%2C%20Chicago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Wonut",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/20161010_Wonut.jpg/960px-20161010_Wonut.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Wonut"
+        }
+      },
+      {
+        "id": "chicago-coffee_shops-4",
+        "name": "Hard Rock Cafe",
+        "cityId": "chicago",
+        "categoryId": "coffee_shops",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Hard%20Rock%20Cafe%2C%20Chicago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Hard_Rock_Cafe",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Hard_Rock_Cafe_Logo.svg/960px-Hard_Rock_Cafe_Logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Hard_Rock_Cafe"
+        }
+      },
+      {
+        "id": "chicago-coffee_shops-5",
+        "name": "Pub chain",
+        "cityId": "chicago",
+        "categoryId": "coffee_shops",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Pub%20chain%2C%20Chicago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Pub_chain",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/28/The_Alex_-_geograph.org.uk_-_333633.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Pub_chain"
+        }
+      },
+      {
+        "id": "chicago-coffee_shops-6",
+        "name": "Olympia Café",
+        "cityId": "chicago",
+        "categoryId": "coffee_shops",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Olympia%20Caf%C3%A9%2C%20Chicago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Olympia_Caf%C3%A9",
+        "photo": null
+      },
+      {
+        "id": "chicago-coffee_shops-7",
+        "name": "Ceres Cafe",
+        "cityId": "chicago",
+        "categoryId": "coffee_shops",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Ceres%20Cafe%2C%20Chicago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Ceres_Cafe",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Ceres_Cafe_in_the_board_of_trade.jpg/960px-Ceres_Cafe_in_the_board_of_trade.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Ceres_Cafe"
+        }
+      },
+      {
+        "id": "chicago-coffee_shops-8",
+        "name": "Heartland Cafe",
+        "cityId": "chicago",
+        "categoryId": "coffee_shops",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Heartland%20Cafe%2C%20Chicago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Heartland_Cafe",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Heartland_Cafe.tif/lossy-page1-960px-Heartland_Cafe.tif.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Heartland_Cafe"
+        }
+      },
+      {
+        "id": "chicago-coffee_shops-9",
+        "name": "Back to the Future Part II",
+        "cityId": "chicago",
+        "categoryId": "coffee_shops",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Back%20to%20the%20Future%20Part%20II%2C%20Chicago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Back_to_the_Future_Part_II",
+        "photo": null
+      },
+      {
+        "id": "chicago-coffee_shops-10",
+        "name": "Billy Goat Tavern",
+        "cityId": "chicago",
+        "categoryId": "coffee_shops",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Billy%20Goat%20Tavern%2C%20Chicago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Billy_Goat_Tavern",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/67/Billy_Goat_Tavern_in_Chicago%2C_Illinois.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Billy_Goat_Tavern"
+        }
+      },
+      {
+        "id": "chicago-coffee_shops-11",
+        "name": "Brown's Chicken & Pasta",
+        "cityId": "chicago",
+        "categoryId": "coffee_shops",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Brown's%20Chicken%20%26%20Pasta%2C%20Chicago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Brown's_Chicken_%26_Pasta",
+        "photo": null
+      },
+      {
+        "id": "chicago-coffee_shops-12",
+        "name": "Argo Tea",
+        "cityId": "chicago",
+        "categoryId": "coffee_shops",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Argo%20Tea%2C%20Chicago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Argo_Tea",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/20110723_Argo_Tea_HQ.jpg/960px-20110723_Argo_Tea_HQ.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Argo_Tea"
+        }
+      },
+      {
+        "id": "chicago-coffee_shops-13",
+        "name": "Corner Bakery Cafe",
+        "cityId": "chicago",
+        "categoryId": "coffee_shops",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Corner%20Bakery%20Cafe%2C%20Chicago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Corner_Bakery_Cafe",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/2024_CB_-_New_Square_Logo.jpg/960px-2024_CB_-_New_Square_Logo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Corner_Bakery_Cafe"
+        }
+      },
+      {
+        "id": "chicago-coffee_shops-14",
+        "name": "W. Kamau Bell",
+        "cityId": "chicago",
+        "categoryId": "coffee_shops",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=W.%20Kamau%20Bell%2C%20Chicago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/W._Kamau_Bell",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/W._Kamau_Bell_Taxi_Driver_Tribeca_Festival_2026-2_%28cropped%29.jpg/960px-W._Kamau_Bell_Taxi_Driver_Tribeca_Festival_2026-2_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/W._Kamau_Bell"
+        }
+      },
+      {
+        "id": "chicago-coffee_shops-15",
+        "name": "National Poetry Slam",
+        "cityId": "chicago",
+        "categoryId": "coffee_shops",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=National%20Poetry%20Slam%2C%20Chicago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/National_Poetry_Slam",
+        "photo": null
+      },
+      {
+        "id": "chicago-coffee_shops-16",
+        "name": "Park Grill",
+        "cityId": "chicago",
+        "categoryId": "coffee_shops",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Park%20Grill%2C%20Chicago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Park_Grill",
+        "photo": null
+      },
+      {
+        "id": "chicago-coffee_shops-17",
+        "name": "Henry's Hamburgers",
+        "cityId": "chicago",
+        "categoryId": "coffee_shops",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Henry's%20Hamburgers%2C%20Chicago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Henry's_Hamburgers",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Henry%27s%2C_Fairplane_Plaza%2C_12_%2C16_%2C2009-.jpg/960px-Henry%27s%2C_Fairplane_Plaza%2C_12_%2C16_%2C2009-.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Henry's_Hamburgers"
+        }
+      },
+      {
+        "id": "chicago-coffee_shops-18",
+        "name": "20th century",
+        "cityId": "chicago",
+        "categoryId": "coffee_shops",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=20th%20century%2C%20Chicago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/20th_century_(cocktail)",
+        "photo": null
+      }
+    ],
+    "bookshops": [
+      {
+        "id": "chicago-bookshops-1",
+        "name": "Seminary Co-op",
+        "cityId": "chicago",
+        "categoryId": "bookshops",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Seminary%20Co-op%2C%20Chicago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Seminary_Co-op",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/Seminary_Co-op_Bookstore.jpg/960px-Seminary_Co-op_Bookstore.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Seminary_Co-op"
+        }
+      },
+      {
+        "id": "chicago-bookshops-2",
+        "name": "Ann Christophersen",
+        "cityId": "chicago",
+        "categoryId": "bookshops",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Ann%20Christophersen%2C%20Chicago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Ann_Christophersen",
+        "photo": null
+      },
+      {
+        "id": "chicago-bookshops-3",
+        "name": "Amazon Books",
+        "cityId": "chicago",
+        "categoryId": "bookshops",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Amazon%20Books%2C%20Chicago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Amazon_Books",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/Amazon_Books_at_U_Village%2C_Seattle_%2822955160585%29.jpg/960px-Amazon_Books_at_U_Village%2C_Seattle_%2822955160585%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Amazon_Books"
+        }
+      },
+      {
+        "id": "chicago-bookshops-4",
+        "name": "Kroch's and Brentano's",
+        "cityId": "chicago",
+        "categoryId": "bookshops",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Kroch's%20and%20Brentano's%2C%20Chicago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Kroch's_and_Brentano's",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Kroch%27s_and_Brentano%27s_Logo.svg/960px-Kroch%27s_and_Brentano%27s_Logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Kroch's_and_Brentano's"
+        }
+      },
+      {
+        "id": "chicago-bookshops-5",
+        "name": "Brentano's",
+        "cityId": "chicago",
+        "categoryId": "bookshops",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Brentano's%2C%20Chicago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Brentano's",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Brentano%27s_Booksellers_1916.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Brentano's"
+        }
+      },
+      {
+        "id": "chicago-bookshops-6",
+        "name": "Unabridged Bookstore",
+        "cityId": "chicago",
+        "categoryId": "bookshops",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Unabridged%20Bookstore%2C%20Chicago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Unabridged_Bookstore",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Classic_storefront.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Unabridged_Bookstore"
+        }
+      },
+      {
+        "id": "chicago-bookshops-7",
+        "name": "Women & Children First",
+        "cityId": "chicago",
+        "categoryId": "bookshops",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Women%20%26%20Children%20First%2C%20Chicago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Women_%26_Children_First_(bookstore)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/Women_%26_Children_First_bookstore_inside.jpg/960px-Women_%26_Children_First_bookstore_inside.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Women_%26_Children_First_(bookstore)"
+        }
+      },
+      {
+        "id": "chicago-bookshops-8",
+        "name": "Brett Shingledecker",
+        "cityId": "chicago",
+        "categoryId": "bookshops",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Brett%20Shingledecker%2C%20Chicago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Brett_Shingledecker",
+        "photo": null
+      },
+      {
+        "id": "chicago-bookshops-9",
+        "name": "A. C. McClurg",
+        "cityId": "chicago",
+        "categoryId": "bookshops",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=A.%20C.%20McClurg%2C%20Chicago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/A._C._McClurg",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/Acmcclurg-logo.png/960px-Acmcclurg-logo.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/A._C._McClurg"
+        }
+      },
+      {
+        "id": "chicago-bookshops-10",
+        "name": "Windy City Times",
+        "cityId": "chicago",
+        "categoryId": "bookshops",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Windy%20City%20Times%2C%20Chicago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Windy_City_Times",
+        "photo": null
+      },
+      {
+        "id": "chicago-bookshops-11",
+        "name": "Quimby's Bookstore",
+        "cityId": "chicago",
+        "categoryId": "bookshops",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Quimby's%20Bookstore%2C%20Chicago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Quimby's_Bookstore",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/Quimby%27s_Bookstore_storefront.jpg/960px-Quimby%27s_Bookstore_storefront.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Quimby's_Bookstore"
+        }
+      },
+      {
+        "id": "chicago-bookshops-12",
+        "name": "Lucy Parsons Center",
+        "cityId": "chicago",
+        "categoryId": "bookshops",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Lucy%20Parsons%20Center%2C%20Chicago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Lucy_Parsons_Center",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Lucy_Parsons_Center_July_2026.jpg/960px-Lucy_Parsons_Center_July_2026.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Lucy_Parsons_Center"
+        }
+      },
+      {
+        "id": "chicago-bookshops-13",
+        "name": "Independent bookstore",
+        "cityId": "chicago",
+        "categoryId": "bookshops",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Independent%20bookstore%2C%20Chicago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Independent_bookstore",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Stoke_Newington_Bookshop%2C_London.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Independent_bookstore"
+        }
+      },
+      {
+        "id": "chicago-bookshops-14",
+        "name": "Purdue Pete",
+        "cityId": "chicago",
+        "categoryId": "bookshops",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Purdue%20Pete%2C%20Chicago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Purdue_Pete",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Purdue_Pete_modern.jpg/960px-Purdue_Pete_modern.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Purdue_Pete"
+        }
+      },
+      {
+        "id": "chicago-bookshops-15",
+        "name": "Powell's Books",
+        "cityId": "chicago",
+        "categoryId": "bookshops",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Powell's%20Books%2C%20Chicago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Powell's_Books",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/PowellsBookstore.jpg/960px-PowellsBookstore.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Powell's_Books"
+        }
+      },
+      {
+        "id": "chicago-bookshops-16",
+        "name": "Barnes & Noble",
+        "cityId": "chicago",
+        "categoryId": "bookshops",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Barnes%20%26%20Noble%2C%20Chicago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Barnes_%26_Noble",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/Barnes_%26_Noble_Union_Square_NYC_May_2025.jpg/960px-Barnes_%26_Noble_Union_Square_NYC_May_2025.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Barnes_%26_Noble"
+        }
+      },
+      {
+        "id": "chicago-bookshops-17",
+        "name": "Katherine Duffy",
+        "cityId": "chicago",
+        "categoryId": "bookshops",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Katherine%20Duffy%2C%20Chicago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Katherine_Duffy",
+        "photo": null
+      },
+      {
+        "id": "chicago-bookshops-18",
+        "name": "City Lights Bookstore",
+        "cityId": "chicago",
+        "categoryId": "bookshops",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=City%20Lights%20Bookstore%2C%20Chicago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/City_Lights_Bookstore",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/City_Lights_Booksellers.jpg/960px-City_Lights_Booksellers.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/City_Lights_Bookstore"
+        }
+      }
+    ],
+    "museums": [
+      {
+        "id": "chicago-museums-1",
+        "name": "Art Institute of Chicago",
+        "cityId": "chicago",
+        "categoryId": "museums",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Art%20Institute%20of%20Chicago%2C%20Chicago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Art_Institute_of_Chicago",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Art_Institute_of_Chicago_Logo.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Art_Institute_of_Chicago"
+        }
+      },
+      {
+        "id": "chicago-museums-2",
+        "name": "Museum of Science and Industry",
+        "cityId": "chicago",
+        "categoryId": "museums",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Museum%20of%20Science%20and%20Industry%2C%20Chicago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Museum_of_Science_and_Industry_(Chicago)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Museum_of_Science_and_Industry_%28Chicago%29.jpg/960px-Museum_of_Science_and_Industry_%28Chicago%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Museum_of_Science_and_Industry_(Chicago)"
+        }
+      },
+      {
+        "id": "chicago-museums-3",
+        "name": "Museum of Contemporary Art Chicago",
+        "cityId": "chicago",
+        "categoryId": "museums",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Museum%20of%20Contemporary%20Art%20Chicago%2C%20Chicago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Museum_of_Contemporary_Art_Chicago",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/MCA_Chicago_060930.jpg/960px-MCA_Chicago_060930.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Museum_of_Contemporary_Art_Chicago"
+        }
+      },
+      {
+        "id": "chicago-museums-4",
+        "name": "Institute for the Study of Ancient Cultures",
+        "cityId": "chicago",
+        "categoryId": "museums",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Institute%20for%20the%20Study%20of%20Ancient%20Cultures%2C%20Chicago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Institute_for_the_Study_of_Ancient_Cultures",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/df/Orientalinstitutedoors.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Institute_for_the_Study_of_Ancient_Cultures"
+        }
+      },
+      {
+        "id": "chicago-museums-5",
+        "name": "Chicago and North Western Railway",
+        "cityId": "chicago",
+        "categoryId": "museums",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Chicago%20and%20North%20Western%20Railway%2C%20Chicago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Chicago_and_North_Western_Railway",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Chicago_and_North_Western_System_logo.svg/960px-Chicago_and_North_Western_System_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Chicago_and_North_Western_Railway"
+        }
+      },
+      {
+        "id": "chicago-museums-6",
+        "name": "Chicago Athenaeum",
+        "cityId": "chicago",
+        "categoryId": "museums",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Chicago%20Athenaeum%2C%20Chicago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Chicago_Athenaeum",
+        "photo": null
+      },
+      {
+        "id": "chicago-museums-7",
+        "name": "National Museum of Mexican Art",
+        "cityId": "chicago",
+        "categoryId": "museums",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=National%20Museum%20of%20Mexican%20Art%2C%20Chicago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/National_Museum_of_Mexican_Art",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/National_Museum_of_Mexican_Art_entrance.jpg/960px-National_Museum_of_Mexican_Art_entrance.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/National_Museum_of_Mexican_Art"
+        }
+      },
+      {
+        "id": "chicago-museums-8",
+        "name": "Museum Campus",
+        "cityId": "chicago",
+        "categoryId": "museums",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Museum%20Campus%2C%20Chicago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Museum_Campus",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Museum_Campus_2022.jpg/960px-Museum_Campus_2022.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Museum_Campus"
+        }
+      },
+      {
+        "id": "chicago-museums-9",
+        "name": "Barack Obama Presidential Center",
+        "cityId": "chicago",
+        "categoryId": "museums",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Barack%20Obama%20Presidential%20Center%2C%20Chicago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Barack_Obama_Presidential_Center",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Obama_Center_south_elevation_2_%28opening_day%29_-_Chicago%2C_IL_-_June_2026.jpg/960px-Obama_Center_south_elevation_2_%28opening_day%29_-_Chicago%2C_IL_-_June_2026.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Barack_Obama_Presidential_Center"
+        }
+      },
+      {
+        "id": "chicago-museums-10",
+        "name": "Chicago",
+        "cityId": "chicago",
+        "categoryId": "museums",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Chicago%2C%20Chicago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Chicago",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/Chicago_River_ferry_b.jpg/960px-Chicago_River_ferry_b.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Chicago"
+        }
+      },
+      {
+        "id": "chicago-museums-11",
+        "name": "Smart Museum of Art",
+        "cityId": "chicago",
+        "categoryId": "museums",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Smart%20Museum%20of%20Art%2C%20Chicago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Smart_Museum_of_Art",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/University_of_Chicago_July_2013_48_%28Smart_Museum%29.jpg/960px-University_of_Chicago_July_2013_48_%28Smart_Museum%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Smart_Museum_of_Art"
+        }
+      },
+      {
+        "id": "chicago-museums-12",
+        "name": "Hull House",
+        "cityId": "chicago",
+        "categoryId": "museums",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Hull%20House%2C%20Chicago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Hull_House",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/The_Hull_House%2C_Chicago_%28front%29.tif/lossy-page1-960px-The_Hull_House%2C_Chicago_%28front%29.tif.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Hull_House"
+        }
+      },
+      {
+        "id": "chicago-museums-13",
+        "name": "Chicago, Burlington and Quincy Railroad",
+        "cityId": "chicago",
+        "categoryId": "museums",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Chicago%2C%20Burlington%20and%20Quincy%20Railroad%2C%20Chicago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Chicago%2C_Burlington_and_Quincy_Railroad",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Burlington_Route_%E2%80%9CBlack_Box%E2%80%9D_Logo.svg/960px-Burlington_Route_%E2%80%9CBlack_Box%E2%80%9D_Logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Chicago%2C_Burlington_and_Quincy_Railroad"
+        }
+      },
+      {
+        "id": "chicago-museums-14",
+        "name": "Museum of Broadcast Communications",
+        "cityId": "chicago",
+        "categoryId": "museums",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Museum%20of%20Broadcast%20Communications%2C%20Chicago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Museum_of_Broadcast_Communications",
+        "photo": null
+      },
+      {
+        "id": "chicago-museums-15",
+        "name": "Pritzker Military Museum & Library",
+        "cityId": "chicago",
+        "categoryId": "museums",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Pritzker%20Military%20Museum%20%26%20Library%2C%20Chicago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Pritzker_Military_Museum_%26_Library",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/Pritzker_Military_Museum_and_Library.svg/960px-Pritzker_Military_Museum_and_Library.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Pritzker_Military_Museum_%26_Library"
+        }
+      },
+      {
+        "id": "chicago-museums-16",
+        "name": "South Side, Chicago",
+        "cityId": "chicago",
+        "categoryId": "museums",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=South%20Side%2C%20Chicago%2C%20Chicago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/South_Side%2C_Chicago",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/Midway_Airport_Airfield.jpg/960px-Midway_Airport_Airfield.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/South_Side%2C_Chicago"
+        }
+      },
+      {
+        "id": "chicago-museums-17",
+        "name": "Illinois Railway Museum",
+        "cityId": "chicago",
+        "categoryId": "museums",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Illinois%20Railway%20Museum%2C%20Chicago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Illinois_Railway_Museum",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Ilinois_Railway_Museum_Overhead.jpg/960px-Ilinois_Railway_Museum_Overhead.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Illinois_Railway_Museum"
+        }
+      },
+      {
+        "id": "chicago-museums-18",
+        "name": "Federal Reserve Bank of Chicago",
+        "cityId": "chicago",
+        "categoryId": "museums",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Federal%20Reserve%20Bank%20of%20Chicago%2C%20Chicago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Federal_Reserve_Bank_of_Chicago",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Federal_Reserve_Bank_of_Chicago_%2851574643886%29.jpg/960px-Federal_Reserve_Bank_of_Chicago_%2851574643886%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Federal_Reserve_Bank_of_Chicago"
+        }
+      }
+    ],
+    "concerts": [
+      {
+        "id": "chicago-concerts-1",
+        "name": "Bottom Lounge",
+        "cityId": "chicago",
+        "categoryId": "concerts",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Bottom%20Lounge%2C%20Chicago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Bottom_Lounge",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/Bottom_Lounge%2C_Chicago.jpg/960px-Bottom_Lounge%2C_Chicago.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Bottom_Lounge"
+        }
+      },
+      {
+        "id": "chicago-concerts-2",
+        "name": "Rosemont Theatre",
+        "cityId": "chicago",
+        "categoryId": "concerts",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Rosemont%20Theatre%2C%20Chicago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Rosemont_Theatre",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Rosemont_Theatre_20230821.jpg/960px-Rosemont_Theatre_20230821.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Rosemont_Theatre"
+        }
+      },
+      {
+        "id": "chicago-concerts-3",
+        "name": "Pick-Staiger Concert Hall",
+        "cityId": "chicago",
+        "categoryId": "concerts",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Pick-Staiger%20Concert%20Hall%2C%20Chicago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Pick-Staiger_Concert_Hall",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/NU_Pick-Staiger.JPG/960px-NU_Pick-Staiger.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Pick-Staiger_Concert_Hall"
+        }
+      },
+      {
+        "id": "chicago-concerts-4",
+        "name": "North Central College",
+        "cityId": "chicago",
+        "categoryId": "concerts",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=North%20Central%20College%2C%20Chicago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/North_Central_College",
+        "photo": null
+      },
+      {
+        "id": "chicago-concerts-5",
+        "name": "Double Door",
+        "cityId": "chicago",
+        "categoryId": "concerts",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Double%20Door%2C%20Chicago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Double_Door",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/Double_door_2014-05-25_16-35.jpg/960px-Double_door_2014-05-25_16-35.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Double_Door"
+        }
+      },
+      {
+        "id": "chicago-concerts-6",
+        "name": "Music Theater Works",
+        "cityId": "chicago",
+        "categoryId": "concerts",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Music%20Theater%20Works%2C%20Chicago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Music_Theater_Works",
+        "photo": null
+      },
+      {
+        "id": "chicago-concerts-7",
+        "name": "Metro Chicago",
+        "cityId": "chicago",
+        "categoryId": "concerts",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Metro%20Chicago%2C%20Chicago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Metro_Chicago",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/TheMetroChicagoJI1.jpg/960px-TheMetroChicagoJI1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Metro_Chicago"
+        }
+      },
+      {
+        "id": "chicago-concerts-8",
+        "name": "Walt Disney Concert Hall",
+        "cityId": "chicago",
+        "categoryId": "concerts",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Walt%20Disney%20Concert%20Hall%2C%20Chicago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Walt_Disney_Concert_Hall",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Walt_Disney_Concert_Hall%2C_LA%2C_CA%2C_jjron_22.03.2012.jpg/960px-Walt_Disney_Concert_Hall%2C_LA%2C_CA%2C_jjron_22.03.2012.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Walt_Disney_Concert_Hall"
+        }
+      },
+      {
+        "id": "chicago-concerts-9",
+        "name": "Neal S. Blaisdell Center",
+        "cityId": "chicago",
+        "categoryId": "concerts",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Neal%20S.%20Blaisdell%20Center%2C%20Chicago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Neal_S._Blaisdell_Center",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Neal_S._Blaisdell_Center%2C_Ward_Avenue%2C_Kakaako%2C_Honolulu%2C_HI.jpg/960px-Neal_S._Blaisdell_Center%2C_Ward_Avenue%2C_Kakaako%2C_Honolulu%2C_HI.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Neal_S._Blaisdell_Center"
+        }
+      },
+      {
+        "id": "chicago-concerts-10",
+        "name": "Henning Larsen Architects",
+        "cityId": "chicago",
+        "categoryId": "concerts",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Henning%20Larsen%20Architects%2C%20Chicago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Henning_Larsen_Architects",
+        "photo": null
+      },
+      {
+        "id": "chicago-concerts-11",
+        "name": "Aarhus Pride",
+        "cityId": "chicago",
+        "categoryId": "concerts",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Aarhus%20Pride%2C%20Chicago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Aarhus_Pride",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Aarhus_Pride%2C_2012%2C_start_of_day.jpg/960px-Aarhus_Pride%2C_2012%2C_start_of_day.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Aarhus_Pride"
+        }
+      },
+      {
+        "id": "chicago-concerts-12",
+        "name": "Barbican Centre",
+        "cityId": "chicago",
+        "categoryId": "concerts",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Barbican%20Centre%2C%20Chicago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Barbican_Centre",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Barbican_Lakeside_on_a_summer_evening.jpg/960px-Barbican_Lakeside_on_a_summer_evening.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Barbican_Centre"
+        }
+      },
+      {
+        "id": "chicago-concerts-13",
+        "name": "South Mountain Concert Hall",
+        "cityId": "chicago",
+        "categoryId": "concerts",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=South%20Mountain%20Concert%20Hall%2C%20Chicago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/South_Mountain_Concert_Hall",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/South_Mountain_Concert_Hall_2012-10-24_22-06-31.jpg/960px-South_Mountain_Concert_Hall_2012-10-24_22-06-31.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/South_Mountain_Concert_Hall"
+        }
+      },
+      {
+        "id": "chicago-concerts-14",
+        "name": "Melvin Bliss",
+        "cityId": "chicago",
+        "categoryId": "concerts",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Melvin%20Bliss%2C%20Chicago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Melvin_Bliss",
+        "photo": null
+      },
+      {
+        "id": "chicago-concerts-15",
+        "name": "Music Institute of Chicago",
+        "cityId": "chicago",
+        "categoryId": "concerts",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Music%20Institute%20of%20Chicago%2C%20Chicago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Music_Institute_of_Chicago",
+        "photo": null
+      },
+      {
+        "id": "chicago-concerts-16",
+        "name": "Genesee Theatre",
+        "cityId": "chicago",
+        "categoryId": "concerts",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Genesee%20Theatre%2C%20Chicago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Genesee_Theatre",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/17/Genesee_Theatre.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Genesee_Theatre"
+        }
+      },
+      {
+        "id": "chicago-concerts-17",
+        "name": "Willie the Wildcat",
+        "cityId": "chicago",
+        "categoryId": "concerts",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Willie%20the%20Wildcat%2C%20Chicago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Willie_the_Wildcat_(Northwestern)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/20180206_UM-NW_Willie_the_Wildcat_7DM27187.jpg/960px-20180206_UM-NW_Willie_the_Wildcat_7DM27187.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Willie_the_Wildcat_(Northwestern)"
+        }
+      },
+      {
+        "id": "chicago-concerts-18",
+        "name": "Thurman Barker",
+        "cityId": "chicago",
+        "categoryId": "concerts",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Thurman%20Barker%2C%20Chicago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Thurman_Barker",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Thurman_Barker.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Thurman_Barker"
+        }
+      }
+    ],
+    "fashion": [
+      {
+        "id": "chicago-fashion-1",
+        "name": "North Park Plaza",
+        "cityId": "chicago",
+        "categoryId": "fashion",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=North%20Park%20Plaza%2C%20Chicago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/North_Park_Plaza",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/North_Park_Plaza_1.jpg/960px-North_Park_Plaza_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/North_Park_Plaza"
+        }
+      },
+      {
+        "id": "chicago-fashion-2",
+        "name": "Redneck Shop",
+        "cityId": "chicago",
+        "categoryId": "fashion",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Redneck%20Shop%2C%20Chicago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Redneck_Shop",
+        "photo": null
+      },
+      {
+        "id": "chicago-fashion-3",
+        "name": "John V. Farwell & Co.",
+        "cityId": "chicago",
+        "categoryId": "fashion",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=John%20V.%20Farwell%20%26%20Co.%2C%20Chicago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/John_V._Farwell_%26_Co.",
+        "photo": null
+      },
+      {
+        "id": "chicago-fashion-4",
+        "name": "Smoky Joe's",
+        "cityId": "chicago",
+        "categoryId": "fashion",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Smoky%20Joe's%2C%20Chicago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Smoky_Joe's",
+        "photo": null
+      },
+      {
+        "id": "chicago-fashion-5",
+        "name": "Lenn Redman",
+        "cityId": "chicago",
+        "categoryId": "fashion",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Lenn%20Redman%2C%20Chicago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Lenn_Redman",
+        "photo": null
+      },
+      {
+        "id": "chicago-fashion-6",
+        "name": "Jack Wallaesa",
+        "cityId": "chicago",
+        "categoryId": "fashion",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Jack%20Wallaesa%2C%20Chicago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Jack_Wallaesa",
+        "photo": null
+      },
+      {
+        "id": "chicago-fashion-7",
+        "name": "Abe Stark",
+        "cityId": "chicago",
+        "categoryId": "fashion",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Abe%20Stark%2C%20Chicago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Abe_Stark",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Abe_Stark_1949.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Abe_Stark"
+        }
+      },
+      {
+        "id": "chicago-fashion-8",
+        "name": "Retail design",
+        "cityId": "chicago",
+        "categoryId": "fashion",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Retail%20design%2C%20Chicago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Retail_design",
+        "photo": null
+      },
+      {
+        "id": "chicago-fashion-9",
+        "name": "National Stores",
+        "cityId": "chicago",
+        "categoryId": "fashion",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=National%20Stores%2C%20Chicago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/National_Stores",
+        "photo": null
+      },
+      {
+        "id": "chicago-fashion-10",
+        "name": "Limbo",
+        "cityId": "chicago",
+        "categoryId": "fashion",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Limbo%2C%20Chicago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Limbo_(boutique)",
+        "photo": null
+      },
+      {
+        "id": "chicago-fashion-11",
+        "name": "Philip Wadsworth",
+        "cityId": "chicago",
+        "categoryId": "fashion",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Philip%20Wadsworth%2C%20Chicago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Philip_Wadsworth",
+        "photo": null
+      },
+      {
+        "id": "chicago-fashion-12",
+        "name": "Cornelius J. Doyle",
+        "cityId": "chicago",
+        "categoryId": "fashion",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Cornelius%20J.%20Doyle%2C%20Chicago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Cornelius_J._Doyle",
+        "photo": null
+      },
+      {
+        "id": "chicago-fashion-13",
+        "name": "Paul Stuart",
+        "cityId": "chicago",
+        "categoryId": "fashion",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Paul%20Stuart%2C%20Chicago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Paul_Stuart",
+        "photo": null
+      },
+      {
+        "id": "chicago-fashion-14",
+        "name": "Nancy Talbot",
+        "cityId": "chicago",
+        "categoryId": "fashion",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Nancy%20Talbot%2C%20Chicago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Nancy_Talbot",
+        "photo": null
+      },
+      {
+        "id": "chicago-fashion-15",
+        "name": "Tomm Murstad",
+        "cityId": "chicago",
+        "categoryId": "fashion",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Tomm%20Murstad%2C%20Chicago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Tomm_Murstad",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/60/Tomm_Murstad.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Tomm_Murstad"
+        }
+      },
+      {
+        "id": "chicago-fashion-16",
+        "name": "Klopfenstein's",
+        "cityId": "chicago",
+        "categoryId": "fashion",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Klopfenstein's%2C%20Chicago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Klopfenstein's",
+        "photo": null
+      },
+      {
+        "id": "chicago-fashion-17",
+        "name": "Corky Hale",
+        "cityId": "chicago",
+        "categoryId": "fashion",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Corky%20Hale%2C%20Chicago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Corky_Hale",
+        "photo": null
+      },
+      {
+        "id": "chicago-fashion-18",
+        "name": "Don C",
+        "cityId": "chicago",
+        "categoryId": "fashion",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Don%20C%2C%20Chicago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Don_C",
+        "photo": null
+      }
+    ],
+    "shops": [
+      {
+        "id": "chicago-shops-1",
+        "name": "Potbelly Sandwich Shop",
+        "cityId": "chicago",
+        "categoryId": "shops",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Potbelly%20Sandwich%20Shop%2C%20Chicago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Potbelly_Sandwich_Shop",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/43/11-16-06-EPMN-potbelly.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Potbelly_Sandwich_Shop"
+        }
+      },
+      {
+        "id": "chicago-shops-2",
+        "name": "Barbershop",
+        "cityId": "chicago",
+        "categoryId": "shops",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Barbershop%2C%20Chicago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Barbershop_(film)",
+        "photo": null
+      },
+      {
+        "id": "chicago-shops-3",
+        "name": "Don West",
+        "cityId": "chicago",
+        "categoryId": "shops",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Don%20West%2C%20Chicago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Don_West_(wrestling)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/Don_West%2C_July_2010_%28cropped%29.jpg/960px-Don_West%2C_July_2010_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Don_West_(wrestling)"
+        }
+      },
+      {
+        "id": "chicago-shops-4",
+        "name": "Mitsuwa Marketplace",
+        "cityId": "chicago",
+        "categoryId": "shops",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Mitsuwa%20Marketplace%2C%20Chicago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Mitsuwa_Marketplace",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Mitsuwa_Torrance_2025-10-15.jpg/960px-Mitsuwa_Torrance_2025-10-15.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Mitsuwa_Marketplace"
+        }
+      },
+      {
+        "id": "chicago-shops-5",
+        "name": "Hot dog stand",
+        "cityId": "chicago",
+        "categoryId": "shops",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Hot%20dog%20stand%2C%20Chicago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Hot_dog_stand",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Pinks_Hot_Dogs.jpg/960px-Pinks_Hot_Dogs.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Hot_dog_stand"
+        }
+      },
+      {
+        "id": "chicago-shops-6",
+        "name": "Nick Offerman",
+        "cityId": "chicago",
+        "categoryId": "shops",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Nick%20Offerman%2C%20Chicago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Nick_Offerman",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Nick_Offerman_2022_National_Book_Festival_%2852342575962%29_%28cropped%29.jpg/960px-Nick_Offerman_2022_National_Book_Festival_%2852342575962%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Nick_Offerman"
+        }
+      },
+      {
+        "id": "chicago-shops-7",
+        "name": "Illinois Army National Guard",
+        "cityId": "chicago",
+        "categoryId": "shops",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Illinois%20Army%20National%20Guard%2C%20Chicago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Illinois_Army_National_Guard",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Ilarnghq.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Illinois_Army_National_Guard"
+        }
+      },
+      {
+        "id": "chicago-shops-8",
+        "name": "The Millinery Shop",
+        "cityId": "chicago",
+        "categoryId": "shops",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Millinery%20Shop%2C%20Chicago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/The_Millinery_Shop",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Edgar_Degas_-_The_Millinery_Shop_-_Google_Art_Project.jpg/960px-Edgar_Degas_-_The_Millinery_Shop_-_Google_Art_Project.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/The_Millinery_Shop"
+        }
+      },
+      {
+        "id": "chicago-shops-9",
+        "name": "Department store",
+        "cityId": "chicago",
+        "categoryId": "shops",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Department%20store%2C%20Chicago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Department_store",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/Bon_March%C3%A9%2C_Paris_-_interior_view.JPG/960px-Bon_March%C3%A9%2C_Paris_-_interior_view.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Department_store"
+        }
+      },
+      {
+        "id": "chicago-shops-10",
+        "name": "Carpentersville, Illinois",
+        "cityId": "chicago",
+        "categoryId": "shops",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Carpentersville%2C%20Illinois%2C%20Chicago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Carpentersville%2C_Illinois",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/Library_Hall_in_Carpentersville%2C_Illinois.jpg/960px-Library_Hall_in_Carpentersville%2C_Illinois.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Carpentersville%2C_Illinois"
+        }
+      },
+      {
+        "id": "chicago-shops-11",
+        "name": "Peapod",
+        "cityId": "chicago",
+        "categoryId": "shops",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Peapod%2C%20Chicago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Peapod",
+        "photo": null
+      },
+      {
+        "id": "chicago-shops-12",
+        "name": "Sears",
+        "cityId": "chicago",
+        "categoryId": "shops",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Sears%2C%20Chicago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Sears",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/View_of_Willis_Tower%2C_formerly_known_as_Sears_Tower_Designed_and_built_in_1973_by_the_architectural_firm_Skidmore%2C_Owings_%26_Merrill_for_Sears%2C_Roebuck_%26_Company%2C_the_world%27s_largest_retailer_LCCN2011631755.tif/lossy-page1-960px-thumbnail.tif.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Sears"
+        }
+      },
+      {
+        "id": "chicago-shops-13",
+        "name": "WOCK-CD",
+        "cityId": "chicago",
+        "categoryId": "shops",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=WOCK-CD%2C%20Chicago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/WOCK-CD",
+        "photo": null
+      },
+      {
+        "id": "chicago-shops-14",
+        "name": "Numbers game",
+        "cityId": "chicago",
+        "categoryId": "shops",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Numbers%20game%2C%20Chicago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Numbers_game",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/12/A._Orlando_Jackson_in_The_New_York_Times_of_New_York_City%2C_New_York_on_February_1%2C_1881.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Numbers_game"
+        }
+      },
+      {
+        "id": "chicago-shops-15",
+        "name": "Goosefoot",
+        "cityId": "chicago",
+        "categoryId": "shops",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Goosefoot%2C%20Chicago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Goosefoot_(restaurant)",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/78/Logo_goosefoot_bg_branco-031613.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Goosefoot_(restaurant)"
+        }
+      },
+      {
+        "id": "chicago-shops-16",
+        "name": "Pawn Queens",
+        "cityId": "chicago",
+        "categoryId": "shops",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Pawn%20Queens%2C%20Chicago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Pawn_Queens",
+        "photo": null
+      },
+      {
+        "id": "chicago-shops-17",
+        "name": "Oracle Productions",
+        "cityId": "chicago",
+        "categoryId": "shops",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Oracle%20Productions%2C%20Chicago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Oracle_Productions",
+        "photo": null
+      },
+      {
+        "id": "chicago-shops-18",
+        "name": "Chicago Great Western Railway",
+        "cityId": "chicago",
+        "categoryId": "shops",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Chicago%20Great%20Western%20Railway%2C%20Chicago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Chicago_Great_Western_Railway",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/77/CGNWlogocornbelt.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Chicago_Great_Western_Railway"
+        }
+      }
+    ]
+  }
+}
