@@ -13,3 +13,18 @@ export async function getHardcodedPlaces(cityId, categoryId, signal) {
   }
   return (data.categories?.[categoryId] || []).slice(0, 18)
 }
+
+export async function getHardcodedPlace(cityId, placeId, signal) {
+  let data = memoryCache.get(cityId)
+  if (!data) {
+    const response = await fetch(`${APP_BASE}data/places/${cityId}.json`, { signal })
+    if (!response.ok) return null
+    data = await response.json()
+    memoryCache.set(cityId, data)
+  }
+  for (const list of Object.values(data.categories || {})) {
+    const place = list.find((item) => item.id === placeId)
+    if (place) return place
+  }
+  return null
+}

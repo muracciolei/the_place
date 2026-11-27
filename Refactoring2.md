@@ -13,6 +13,7 @@
 - [x] Servicio de lectura `src/services/hardcodedPlaces.js` y opción "Usar datos locales" en Ajustes
 - [x] Generación de los 41 archivos por ciudad (**6.642 lugares**)
 - [x] Validación final (0 incompletos, 0 errores), build y deploy en `gh-pages`
+- [x] Ficha interna del lugar: al tocar una tarjeta se abre perfil con fotos/datos; el botón "Abrir en Google Maps" queda al final. Con clave, la ficha consulta Places por nombre+ciudad; sin clave, muestra los datos locales.
 
 ## 1. Resumen de lo pedido
 

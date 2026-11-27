@@ -247,6 +247,17 @@ export function getMapsLink(place) {
   return `https://www.google.com/maps/search/?api=1&query=${query}${placeIdParam}`
 }
 
+/**
+ * Un lugar hardcodeado no tiene place ID: se busca por nombre+ciudad con Places y
+ * se obtiene su ficha real. Devuelve null si Google no encuentra ningún resultado.
+ */
+export async function getGooglePlaceForLocalEntry({ name, city, category, languageCode = 'en', signal }) {
+  const search = await searchPlaces({ city, category, query: name, languageCode, signal })
+  const match = search.places?.[0]
+  if (!match) return null
+  return getPlaceDetails({ placeId: match.id, languageCode, signal })
+}
+
 export const PRICE_LABELS = {
   PRICE_LEVEL_FREE: 'Gratis',
   PRICE_LEVEL_INEXPENSIVE: '$',

@@ -40,8 +40,7 @@ export default function PlaceCard({ place, isFavorite, onToggleFavorite, to }) {
 
   return (
     <VerticalCard
-      to={isLocal ? undefined : to}
-      href={isLocal ? place.mapsUrl : undefined}
+      to={isLocal ? `${to}${to.includes('?') ? '&' : '?'}local=1` : to}
       image={image}
       title={place.name}
       subtitle={subtitle}

@@ -13,7 +13,7 @@ export default function PhotoGallery({ photos = [] }) {
         return (
           <figure className="photo-gallery__item" key={photo.name || index}>
             <img
-              src={getPhotoUrl(photo.name, 900)}
+              src={photo.url || getPhotoUrl(photo.name, 900)}
               alt={`${t('common.photos')} ${index + 1}`}
               loading="lazy"
               decoding="async"
