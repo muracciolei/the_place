@@ -1,80 +1,75 @@
-import { useState } from 'react'
+import { useCallback, useEffect, useState } from 'react'
 import { useTranslation } from 'react-i18next'
-import { CITIES, COUNTRIES, getCity, getCountry } from '../data/cities'
-import { CATEGORIES } from '../data/categories'
-import { localizedName } from '../i18n'
-import CityCard from '../components/CityCard'
-import CategoryCard from '../components/CategoryCard'
+import { useFavorites } from '../hooks/useFavorites'
+import { getRandomPlaces } from '../services/randomPlaces'
+import PlaceCard from '../components/PlaceCard'
+import { LoadingGrid, ErrorState, EmptyState } from '../components/StateViews'
 
 export default function ExplorePage() {
-  const { t, i18n } = useTranslation()
-  const [mode, setMode] = useState('world')
-  const [cityId, setCityId] = useState(CITIES[0].id)
-  const [countryName, setCountryName] = useState(COUNTRIES[0].name)
-  const country = getCountry(countryName)
-  const city = getCity(cityId)
+  const { t } = useTranslation()
+  const { favorites, toggle } = useFavorites()
+  const [places, setPlaces] = useState([])
+  const [loading, setLoading] = useState(true)
+  const [error, setError] = useState(null)
+  const [batch, setBatch] = useState(0)
 
-  const cities = mode === 'country' ? country.cities : CITIES
+  useEffect(() => {
+    const controller = new AbortController()
+    setLoading(true)
+    setError(null)
+    getRandomPlaces({ count: 45, signal: controller.signal })
+      .then((next) => {
+        if (controller.signal.aborted) return
+        setPlaces((prev) => {
+          const seen = new Set(prev.map((place) => place.id))
+          return [...prev, ...next.filter((place) => !seen.has(place.id))]
+        })
+        setLoading(false)
+      })
+      .catch((err) => {
+        if (err.name === 'AbortError' || controller.signal.aborted) return
+        setError(err.message)
+        setLoading(false)
+      })
+    return () => controller.abort()
+  }, [batch])
+
+  const loadMore = useCallback(() => setBatch((value) => value + 1), [])
 
   return (
     <div className="page explore-page">
       <div className="page__head">
-        <h1>{t('nav.explore')}</h1>
-        <div className="mode-switcher" role="tablist">
-          {['local', 'country', 'world'].map((id) => (
-            <button
-              key={id}
-              type="button"
-              role="tab"
-              aria-selected={mode === id}
-              className={`mode-switcher__button${mode === id ? ' is-active' : ''}`}
-              onClick={() => setMode(id)}
-            >
-              {t(`modes.${id}`)}
-            </button>
-          ))}
-        </div>
-
-        {mode === 'country' && (
-          <select className="search-input" value={countryName} onChange={(event) => {
-            const next = getCountry(event.target.value)
-            setCountryName(next.name)
-            setCityId(next.cities[0].id)
-          }}>
-            {COUNTRIES.map((item) => (
-              <option key={item.name} value={item.name}>
-                {localizedName(item.names, item.name, i18n.language)}
-              </option>
-            ))}
-          </select>
-        )}
-
-        {mode === 'local' && (
-          <select className="search-input" value={cityId} onChange={(event) => setCityId(event.target.value)}>
-            {CITIES.map((item) => (
-              <option key={item.id} value={item.id}>
-                {localizedName(item.names, item.name, i18n.language)}
-              </option>
-            ))}
-          </select>
-        )}
+        <h1>{t('explore.title')}</h1>
+        <p className="muted">{t('explore.subtitle')}</p>
       </div>
 
-      {mode === 'local' && (
-        <section className="section">
-          <h2>{t('city.categories', { city: localizedName(city.names, city.name, i18n.language) })}</h2>
+      {error && <ErrorState message={error} onRetry={loadMore} />}
+      {!error && loading && places.length === 0 && <LoadingGrid count={9} />}
+      {!error && !loading && places.length === 0 && <EmptyState message={t('common.noResults')} />}
+
+      {places.length > 0 && (
+        <>
           <div className="vgrid">
-            {CATEGORIES.map((category) => (
-              <CategoryCard key={category.id} category={category} cityId={city.id} />
+            {places.map((place) => (
+              <PlaceCard
+                key={`${place.id}-${batch}`}
+                place={place}
+                to={`/place/${encodeURIComponent(place.id)}?city=${place.cityId}&category=${place.categoryId}&local=1`}
+                isFavorite={favorites.some((favorite) => favorite.id === place.id)}
+                onToggleFavorite={toggle}
+              />
             ))}
           </div>
-        </section>
-      )}
-
-      {mode !== 'local' && (
-        <div className="vgrid">
-          {cities.map((item) => <CityCard key={item.id} city={item} />)}
-        </div>
+          {loading && <LoadingGrid count={3} />}
+          <button
+            type="button"
+            className="button button--outline button--block"
+            onClick={loadMore}
+            disabled={loading}
+          >
+            {loading ? t('common.loading') : t('common.more')}
+          </button>
+        </>
       )}
     </div>
   )
