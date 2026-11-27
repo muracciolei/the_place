@@ -1,8 +1,18 @@
 # THE PLACE — Refactoring 2: feed de 3 columnas, orden de categorías y datos hardcodeados
 
-> Plan de los ajustes pedidos después del primer refactoring. **Pendiente de ejecución**.
-> El estado actual del sitio sigue siendo el de `Refactoring.md` (feed vertical,
-> 2 columnas en móvil, 9 categorías antiguas, datos de ejemplo).
+> Plan de los ajustes pedidos después del primer refactoring. **En ejecución**.
+> Ya aplicados: feed de 3 columnas y nuevo orden de categorías. En curso:
+> generación de los datos hardcodeados por ciudad.
+
+## 0. Estado de avance
+
+- [x] Cuadrícula de 3 tarjetas por fila en móvil (4 en tablet, 5 en escritorio)
+- [x] Nueve categorías principales en el orden pedido + categorías complementarias
+- [x] Etiquetas de categorías traducidas a los 6 idiomas
+- [x] Generador y validador de datos (`scripts/generate-places.mjs`, `scripts/validate-places.mjs`)
+- [x] Servicio de lectura `src/services/hardcodedPlaces.js` y opción "Usar datos locales" en Ajustes
+- [ ] Generación de los 41 archivos por ciudad (en curso)
+- [ ] Validación final, build, deploy y comprobación en el sitio
 
 ## 1. Resumen de lo pedido
 
@@ -74,8 +84,8 @@ Si un tipo de Google no existe con ese nombre, se conserva la categoría y se us
 
 | Fuente | Uso | Condición |
 |---|---|---|
-| **Wikidata SPARQL** (`query.wikidata.org/sparql`, JSON, CC0) | Nombres reales de museos, monumentos, bibliotecas, teatros, tiendas y coordenadas por ciudad | Gratis; se consulta en **tiempo de desarrollo**, no en la app |
-| **Wikipedia / sitios turísticos oficiales** | Completar los 18 cuando Wikidata tiene huecos (especialmente nightlife, fashion, cafés) | Texto e imágenes con su licencia (CC BY-SA u oficial) |
+| **Wikipedia API** (`en.wikipedia.org/w/api.php`, `list=search` y `pageimages`) | Nombres reales de locales por ciudad/categoría y miniaturas de su artículo | Gratuita; se consulta en **tiempo de desarrollo**, no en la app. Fotos enlazadas al artículo (CC BY-SA) |
+| **Wikidata SPARQL** | Se evaluó como fuente primaria, pero el endpoint limita a 1 petición/minuto y devolvió 504; se descarta por inviabilidad operativa | No se usa en la versión actual |
 | **Búsqueda web** | Verificar que el lugar existe y es relevante; priorizar por popularity/sitelinks | Solo para curación manual |
 | **Google Maps URLs** (gratuitas, sin clave) | Enlace directo al lugar | `https://www.google.com/maps/search/?api=1&query=NOMBRE%2C+CIUDAD` |
 
@@ -131,13 +141,15 @@ antes de que se intente: esta arquitectura no lo implementa por defecto.
 
 ### 4.5 Generación y validación
 
-- `scripts/generate-places.mjs`:
+- `scripts/generate-places.mjs` (implementado):
   1. Lee `src/data/cities.js` y `src/data/categories.js`.
-  2. Consulta Wikidata por ciudad (QID mapeado en `src/data/wikidataIds.js`) y tipo,
-     con `LIMIT` alto y `ORDER BY` por número de sitelinks (relevancia).
-  3. Aplica correcciones manuales de `src/data/curatedPlaces.js` (top venues por ciudad/categoría).
-  4. Compone `mapsUrl` con Maps URLs y escribe `public/data/places/{cityId}.json`.
-  5. Respeta un **rate limit** (una consulta cada 2–3 s) y reintentos; se ejecuta solo en desarrollo.
+  2. Por ciudad y categoría, llama a `list=search` de Wikipedia con la palabra clave
+     y el nombre de la ciudad (`srlimit=50`).
+  3. Filtra artículos genéricos (listas, "history", "mayor", etc.), limpia el título
+     y toma los 18 primeros por relevancia de búsqueda.
+  4. Obtiene miniaturas en lotes de 40 títulos con `prop=pageimages`.
+  5. Compone `mapsUrl` con Maps URLs y escribe `public/data/places/{cityId}.json`.
+  6. Incluye reintentos con backoff y pausas; se ejecuta solo en desarrollo.
 - `scripts/validate-places.mjs`: verifica ≥18 por categoría/ciudad de la Fase 1, nombres
   únicos, `mapsUrl` válida, `source` presente y que no haya campos copiados de Google.
 - Salida esperada: un informe por ciudad indicando categorías completas y pendientes.

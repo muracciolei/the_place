@@ -1,0 +1,2443 @@
+{
+  "cityId": "london",
+  "generatedAt": "2026-11-27T08:35:09.052Z",
+  "source": "Wikipedia API + Maps URLs (sin scraping de Google)",
+  "incomplete": [],
+  "categories": {
+    "night_clubs": [
+      {
+        "id": "london-night_clubs-1",
+        "name": "Justin Berkmann",
+        "cityId": "london",
+        "categoryId": "night_clubs",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Justin%20Berkmann%2C%20London",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Justin_Berkmann",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/20/Justin_Berkmann_%28around_2009%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Justin_Berkmann"
+        }
+      },
+      {
+        "id": "london-night_clubs-2",
+        "name": "Heaven",
+        "cityId": "london",
+        "categoryId": "night_clubs",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Heaven%2C%20London",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Heaven_(nightclub)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Heaven-Nightclub-Entrance-2025.jpg/960px-Heaven-Nightclub-Entrance-2025.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Heaven_(nightclub)"
+        }
+      },
+      {
+        "id": "london-night_clubs-3",
+        "name": "Fabric",
+        "cityId": "london",
+        "categoryId": "night_clubs",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Fabric%2C%20London",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Fabric_(club)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Fabric_Club_London_2020.jpg/960px-Fabric_Club_London_2020.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Fabric_(club)"
+        }
+      },
+      {
+        "id": "london-night_clubs-4",
+        "name": "Ministry of Sound",
+        "cityId": "london",
+        "categoryId": "night_clubs",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Ministry%20of%20Sound%2C%20London",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Ministry_of_Sound",
+        "photo": null
+      },
+      {
+        "id": "london-night_clubs-5",
+        "name": "Batcave",
+        "cityId": "london",
+        "categoryId": "night_clubs",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Batcave%2C%20London",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Batcave_(club)",
+        "photo": null
+      },
+      {
+        "id": "london-night_clubs-6",
+        "name": "Walford",
+        "cityId": "london",
+        "categoryId": "night_clubs",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Walford%2C%20London",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Walford",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Bridge_Street_Cafe.jpg/960px-Bridge_Street_Cafe.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Walford"
+        }
+      },
+      {
+        "id": "london-night_clubs-7",
+        "name": "Hippodrome, London",
+        "cityId": "london",
+        "categoryId": "night_clubs",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Hippodrome%2C%20London%2C%20London",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Hippodrome%2C_London",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Hippodrome_-_London.jpg/960px-Hippodrome_-_London.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Hippodrome%2C_London"
+        }
+      },
+      {
+        "id": "london-night_clubs-8",
+        "name": "Hakkasan",
+        "cityId": "london",
+        "categoryId": "night_clubs",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Hakkasan%2C%20London",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Hakkasan",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Hakkasan_London_-_3.jpg/960px-Hakkasan_London_-_3.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Hakkasan"
+        }
+      },
+      {
+        "id": "london-night_clubs-9",
+        "name": "The Scotch of St. James",
+        "cityId": "london",
+        "categoryId": "night_clubs",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Scotch%20of%20St.%20James%2C%20London",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/The_Scotch_of_St._James",
+        "photo": null
+      },
+      {
+        "id": "london-night_clubs-10",
+        "name": "G-A-Y",
+        "cityId": "london",
+        "categoryId": "night_clubs",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=G-A-Y%2C%20London",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/G-A-Y",
+        "photo": null
+      },
+      {
+        "id": "london-night_clubs-11",
+        "name": "The Fridge",
+        "cityId": "london",
+        "categoryId": "night_clubs",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Fridge%2C%20London",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/The_Fridge_(nightclub)",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/ce/TheFridgeinBrixton.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/The_Fridge_(nightclub)"
+        }
+      },
+      {
+        "id": "london-night_clubs-12",
+        "name": "Blitz Kids",
+        "cityId": "london",
+        "categoryId": "night_clubs",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Blitz%20Kids%2C%20London",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Blitz_Kids_(New_Romantics)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/The_former_home_of_Blitz_nightclub_%281979%29%2C_4_Great_Queen_Street%2C_Covent_Garden%2C_London%2C_WC2%2C.jpg/960px-The_former_home_of_Blitz_nightclub_%281979%29%2C_4_Great_Queen_Street%2C_Covent_Garden%2C_London%2C_WC2%2C.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Blitz_Kids_(New_Romantics)"
+        }
+      },
+      {
+        "id": "london-night_clubs-13",
+        "name": "The Limelight",
+        "cityId": "london",
+        "categoryId": "night_clubs",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Limelight%2C%20London",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/The_Limelight",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Avalon_NYC_2007_006.jpg/960px-Avalon_NYC_2007_006.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/The_Limelight"
+        }
+      },
+      {
+        "id": "london-night_clubs-14",
+        "name": "Isow's",
+        "cityId": "london",
+        "categoryId": "night_clubs",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Isow's%2C%20London",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Isow's",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/65/Madame_JoJos_Escape%2C_Soho%2C_W1_%282711075081%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Isow's"
+        }
+      },
+      {
+        "id": "london-night_clubs-15",
+        "name": "Troubadour",
+        "cityId": "london",
+        "categoryId": "night_clubs",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Troubadour%2C%20London",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Troubadour_(London_nightclub)",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/en/2/2d/Troubadour%2C_London%2C_18_Apr_2009.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Troubadour_(London_nightclub)"
+        }
+      },
+      {
+        "id": "london-night_clubs-16",
+        "name": "Egg London",
+        "cityId": "london",
+        "categoryId": "night_clubs",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Egg%20London%2C%20London",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Egg_London",
+        "photo": null
+      },
+      {
+        "id": "london-night_clubs-17",
+        "name": "Sybil Christopher",
+        "cityId": "london",
+        "categoryId": "night_clubs",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Sybil%20Christopher%2C%20London",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Sybil_Christopher",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Sybil_Burton_Christopher.JPG/960px-Sybil_Burton_Christopher.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Sybil_Christopher"
+        }
+      },
+      {
+        "id": "london-night_clubs-18",
+        "name": "Peter Stringfellow",
+        "cityId": "london",
+        "categoryId": "night_clubs",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Peter%20Stringfellow%2C%20London",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Peter_Stringfellow",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/63/Peter_James_Stringfellow.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Peter_Stringfellow"
+        }
+      }
+    ],
+    "restaurants": [
+      {
+        "id": "london-restaurants-1",
+        "name": "Restaurant Gordon Ramsay",
+        "cityId": "london",
+        "categoryId": "restaurants",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Restaurant%20Gordon%20Ramsay%2C%20London",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Restaurant_Gordon_Ramsay",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/Eu_j%C3%A1_comi_duas_vezes_o_ravioli_de_frutos_do_mar_que_%C3%A9_um_prato-assinatura_do_Gordon_Ramsay_at_Royal_Hospital_Road_%2826672111050%29.jpg/960px-Eu_j%C3%A1_comi_duas_vezes_o_ravioli_de_frutos_do_mar_que_%C3%A9_um_prato-assinatura_do_Gordon_Ramsay_at_Royal_Hospital_Road_%2826672111050%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Restaurant_Gordon_Ramsay"
+        }
+      },
+      {
+        "id": "london-restaurants-2",
+        "name": "Harveys",
+        "cityId": "london",
+        "categoryId": "restaurants",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Harveys%2C%20London",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Harveys",
+        "photo": null
+      },
+      {
+        "id": "london-restaurants-3",
+        "name": "The Restaurant Marco Pierre White",
+        "cityId": "london",
+        "categoryId": "restaurants",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Restaurant%20Marco%20Pierre%20White%2C%20London",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/The_Restaurant_Marco_Pierre_White",
+        "photo": null
+      },
+      {
+        "id": "london-restaurants-4",
+        "name": "Le Gavroche",
+        "cityId": "london",
+        "categoryId": "restaurants",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Le%20Gavroche%2C%20London",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Le_Gavroche",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Le_Gavroche_2008_06_19.jpg/960px-Le_Gavroche_2008_06_19.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Le_Gavroche"
+        }
+      },
+      {
+        "id": "london-restaurants-5",
+        "name": "Gordon Ramsay",
+        "cityId": "london",
+        "categoryId": "restaurants",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Gordon%20Ramsay%2C%20London",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Gordon_Ramsay",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/96/Gordon_Ramsay_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Gordon_Ramsay"
+        }
+      },
+      {
+        "id": "london-restaurants-6",
+        "name": "Aubergine",
+        "cityId": "london",
+        "categoryId": "restaurants",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Aubergine%2C%20London",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Aubergine_(London_restaurant)",
+        "photo": null
+      },
+      {
+        "id": "london-restaurants-7",
+        "name": "Pétrus",
+        "cityId": "london",
+        "categoryId": "restaurants",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=P%C3%A9trus%2C%20London",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/P%C3%A9trus_(restaurant)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Petrus_restaurant_london.jpg/960px-Petrus_restaurant_london.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/P%C3%A9trus_(restaurant)"
+        }
+      },
+      {
+        "id": "london-restaurants-8",
+        "name": "Heston Blumenthal",
+        "cityId": "london",
+        "categoryId": "restaurants",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Heston%20Blumenthal%2C%20London",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Heston_Blumenthal",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Hestonregentspark.jpg/960px-Hestonregentspark.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Heston_Blumenthal"
+        }
+      },
+      {
+        "id": "london-restaurants-9",
+        "name": "Wasabi",
+        "cityId": "london",
+        "categoryId": "restaurants",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Wasabi%2C%20London",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Wasabi_(restaurant)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Wasabi_logo.svg/960px-Wasabi_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Wasabi_(restaurant)"
+        }
+      },
+      {
+        "id": "london-restaurants-10",
+        "name": "Wagamama",
+        "cityId": "london",
+        "categoryId": "restaurants",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Wagamama%2C%20London",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Wagamama",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/Wagamama.jpg/960px-Wagamama.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Wagamama"
+        }
+      },
+      {
+        "id": "london-restaurants-11",
+        "name": "Hawksmoor",
+        "cityId": "london",
+        "categoryId": "restaurants",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Hawksmoor%2C%20London",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Hawksmoor_(restaurant)",
+        "photo": null
+      },
+      {
+        "id": "london-restaurants-12",
+        "name": "St. John",
+        "cityId": "london",
+        "categoryId": "restaurants",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=St.%20John%2C%20London",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/St._John_(restaurant)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/26_St_John_Street%2C_Clerkenwell%2C_April_2023.jpg/960px-26_St_John_Street%2C_Clerkenwell%2C_April_2023.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/St._John_(restaurant)"
+        }
+      },
+      {
+        "id": "london-restaurants-13",
+        "name": "Zuma",
+        "cityId": "london",
+        "categoryId": "restaurants",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Zuma%2C%20London",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Zuma_(restaurant)",
+        "photo": null
+      },
+      {
+        "id": "london-restaurants-14",
+        "name": "Restaurant Aquavit",
+        "cityId": "london",
+        "categoryId": "restaurants",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Restaurant%20Aquavit%2C%20London",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Restaurant_Aquavit",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/Aquavit_NYC.jpg/960px-Aquavit_NYC.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Restaurant_Aquavit"
+        }
+      },
+      {
+        "id": "london-restaurants-15",
+        "name": "Côte",
+        "cityId": "london",
+        "categoryId": "restaurants",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=C%C3%B4te%2C%20London",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/C%C3%B4te",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/en/thumb/6/65/C%C3%B4te_logo.svg/960px-C%C3%B4te_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/C%C3%B4te"
+        }
+      },
+      {
+        "id": "london-restaurants-16",
+        "name": "Murano",
+        "cityId": "london",
+        "categoryId": "restaurants",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Murano%2C%20London",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Murano_(restaurant)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Murano%2C_Mayfair%2C_W1.jpg/960px-Murano%2C_Mayfair%2C_W1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Murano_(restaurant)"
+        }
+      },
+      {
+        "id": "london-restaurants-17",
+        "name": "Marco Pierre White",
+        "cityId": "london",
+        "categoryId": "restaurants",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Marco%20Pierre%20White%2C%20London",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Marco_Pierre_White",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/MarcoPierreWhite.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Marco_Pierre_White"
+        }
+      },
+      {
+        "id": "london-restaurants-18",
+        "name": "Walton's Restaurant bombing",
+        "cityId": "london",
+        "categoryId": "restaurants",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Walton's%20Restaurant%20bombing%2C%20London",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Walton's_Restaurant_bombing",
+        "photo": null
+      }
+    ],
+    "bars": [
+      {
+        "id": "london-bars-1",
+        "name": "Military Cross",
+        "cityId": "london",
+        "categoryId": "bars",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Military%20Cross%2C%20London",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Military_Cross",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Military_Cross_3.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Military_Cross"
+        }
+      },
+      {
+        "id": "london-bars-2",
+        "name": "Distinguished Service Order",
+        "cityId": "london",
+        "categoryId": "bars",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Distinguished%20Service%20Order%2C%20London",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Distinguished_Service_Order",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Distinguished_Service_Order_badge_%28United_Kingdom%29_-_Tallinn_Museum_of_Orders.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Distinguished_Service_Order"
+        }
+      },
+      {
+        "id": "london-bars-3",
+        "name": "Distinguished Flying Cross",
+        "cityId": "london",
+        "categoryId": "bars",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Distinguished%20Flying%20Cross%2C%20London",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Distinguished_Flying_Cross_(United_Kingdom)",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/9d/DistinguishedFlyingCrossUKObv.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Distinguished_Flying_Cross_(United_Kingdom)"
+        }
+      },
+      {
+        "id": "london-bars-4",
+        "name": "Distinguished Service Cross",
+        "cityId": "london",
+        "categoryId": "bars",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Distinguished%20Service%20Cross%2C%20London",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Distinguished_Service_Cross_(United_Kingdom)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Distinguished_Service_Cross%2C_Obverse%2C_1937-47.jpg/960px-Distinguished_Service_Cross%2C_Obverse%2C_1937-47.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Distinguished_Service_Cross_(United_Kingdom)"
+        }
+      },
+      {
+        "id": "london-bars-5",
+        "name": "Middle Temple",
+        "cityId": "london",
+        "categoryId": "bars",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Middle%20Temple%2C%20London",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Middle_Temple",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Middle_Temple_Hall_Exterior%2C_London%2C_UK_-_Diliff.jpg/960px-Middle_Temple_Hall_Exterior%2C_London%2C_UK_-_Diliff.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Middle_Temple"
+        }
+      },
+      {
+        "id": "london-bars-6",
+        "name": "Candy Bar, Soho",
+        "cityId": "london",
+        "categoryId": "bars",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Candy%20Bar%2C%20Soho%2C%20London",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Candy_Bar%2C_Soho",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Candy_Bar%2C_Carlisle_Street.jpg/960px-Candy_Bar%2C_Carlisle_Street.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Candy_Bar%2C_Soho"
+        }
+      },
+      {
+        "id": "london-bars-7",
+        "name": "Air Force Cross",
+        "cityId": "london",
+        "categoryId": "bars",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Air%20Force%20Cross%2C%20London",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Air_Force_Cross_(United_Kingdom)",
+        "photo": null
+      },
+      {
+        "id": "london-bars-8",
+        "name": "Pub",
+        "cityId": "london",
+        "categoryId": "bars",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Pub%2C%20London",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Pub",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/81/Pub.williams.arp.750pix.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Pub"
+        }
+      },
+      {
+        "id": "london-bars-9",
+        "name": "Potters Bar",
+        "cityId": "london",
+        "categoryId": "bars",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Potters%20Bar%2C%20London",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Potters_Bar",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/35/Wylliott%27s_Manor%2C_Potters_Bar_-_geograph.org.uk_-_130858.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Potters_Bar"
+        }
+      },
+      {
+        "id": "london-bars-10",
+        "name": "Temple Bar, London",
+        "cityId": "london",
+        "categoryId": "bars",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Temple%20Bar%2C%20London%2C%20London",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Temple_Bar%2C_London",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Temple_Bar%2C_26_August_2012.jpg/960px-Temple_Bar%2C_26_August_2012.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Temple_Bar%2C_London"
+        }
+      },
+      {
+        "id": "london-bars-11",
+        "name": "Gray's Inn",
+        "cityId": "london",
+        "categoryId": "bars",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Gray's%20Inn%2C%20London",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Gray's_Inn",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/Gray%27s_inn_zz.JPG/960px-Gray%27s_inn_zz.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Gray's_Inn"
+        }
+      },
+      {
+        "id": "london-bars-12",
+        "name": "Distinguished Conduct Medal",
+        "cityId": "london",
+        "categoryId": "bars",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Distinguished%20Conduct%20Medal%2C%20London",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Distinguished_Conduct_Medal",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/13/Distinguished_Conduct_Medal_-_Victoria.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Distinguished_Conduct_Medal"
+        }
+      },
+      {
+        "id": "london-bars-13",
+        "name": "Distinguished Service Medal",
+        "cityId": "london",
+        "categoryId": "bars",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Distinguished%20Service%20Medal%2C%20London",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Distinguished_Service_Medal_(United_Kingdom)",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Distinguished_Service_Medal_%28UK%29_Obverse.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Distinguished_Service_Medal_(United_Kingdom)"
+        }
+      },
+      {
+        "id": "london-bars-14",
+        "name": "Coffeehouse",
+        "cityId": "london",
+        "categoryId": "bars",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Coffeehouse%2C%20London",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Coffeehouse",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/Caf%C3%A9_de_Flore.jpg/960px-Caf%C3%A9_de_Flore.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Coffeehouse"
+        }
+      },
+      {
+        "id": "london-bars-15",
+        "name": "Gay bar",
+        "cityId": "london",
+        "categoryId": "bars",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Gay%20bar%2C%20London",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Gay_bar",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/09/Comptons-Of-Soho.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Gay_bar"
+        }
+      },
+      {
+        "id": "london-bars-16",
+        "name": "Distinguished Flying Medal",
+        "cityId": "london",
+        "categoryId": "bars",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Distinguished%20Flying%20Medal%2C%20London",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Distinguished_Flying_Medal",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/2d/DFM-GVIR.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Distinguished_Flying_Medal"
+        }
+      },
+      {
+        "id": "london-bars-17",
+        "name": "Nightclub",
+        "cityId": "london",
+        "categoryId": "bars",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Nightclub%2C%20London",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Nightclub",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/Wikipedia_space_ibiza%2803%29.jpg/960px-Wikipedia_space_ibiza%2803%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Nightclub"
+        }
+      },
+      {
+        "id": "london-bars-18",
+        "name": "Bar Italia",
+        "cityId": "london",
+        "categoryId": "bars",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Bar%20Italia%2C%20London",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Bar_Italia",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Bar_Italia_-_Soho_%284764432107%29.jpg/960px-Bar_Italia_-_Soho_%284764432107%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Bar_Italia"
+        }
+      }
+    ],
+    "coffee_shops": [
+      {
+        "id": "london-coffee_shops-1",
+        "name": "Hard Rock Cafe",
+        "cityId": "london",
+        "categoryId": "coffee_shops",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Hard%20Rock%20Cafe%2C%20London",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Hard_Rock_Cafe",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Hard_Rock_Cafe_Logo.svg/960px-Hard_Rock_Cafe_Logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Hard_Rock_Cafe"
+        }
+      },
+      {
+        "id": "london-coffee_shops-2",
+        "name": "Coffeehouse",
+        "cityId": "london",
+        "categoryId": "coffee_shops",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Coffeehouse%2C%20London",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Coffeehouse",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/Caf%C3%A9_de_Flore.jpg/960px-Caf%C3%A9_de_Flore.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Coffeehouse"
+        }
+      },
+      {
+        "id": "london-coffee_shops-3",
+        "name": "The River Cafe",
+        "cityId": "london",
+        "categoryId": "coffee_shops",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20River%20Cafe%2C%20London",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/The_River_Cafe_(London)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Inside_River_Cafe_2008.jpg/960px-Inside_River_Cafe_2008.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/The_River_Cafe_(London)"
+        }
+      },
+      {
+        "id": "london-coffee_shops-4",
+        "name": "Walford",
+        "cityId": "london",
+        "categoryId": "coffee_shops",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Walford%2C%20London",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Walford",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Bridge_Street_Cafe.jpg/960px-Bridge_Street_Cafe.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Walford"
+        }
+      },
+      {
+        "id": "london-coffee_shops-5",
+        "name": "Regency Cafe",
+        "cityId": "london",
+        "categoryId": "coffee_shops",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Regency%20Cafe%2C%20London",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Regency_Cafe",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/Regency_Cafe%2C_Westminster_%281%29.jpg/960px-Regency_Cafe%2C_Westminster_%281%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Regency_Cafe"
+        }
+      },
+      {
+        "id": "london-coffee_shops-6",
+        "name": "Ace Cafe",
+        "cityId": "london",
+        "categoryId": "coffee_shops",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Ace%20Cafe%2C%20London",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Ace_Cafe",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/BSA_riders_at_2007_Ace_Cafe_reunion.jpg/960px-BSA_riders_at_2007_Ace_Cafe_reunion.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Ace_Cafe"
+        }
+      },
+      {
+        "id": "london-coffee_shops-7",
+        "name": "Café de Paris, London",
+        "cityId": "london",
+        "categoryId": "coffee_shops",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Caf%C3%A9%20de%20Paris%2C%20London%2C%20London",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Caf%C3%A9_de_Paris%2C_London",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Caf%C3%A9_de_Paris_-_London_-_08.JPG/960px-Caf%C3%A9_de_Paris_-_London_-_08.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Caf%C3%A9_de_Paris%2C_London"
+        }
+      },
+      {
+        "id": "london-coffee_shops-8",
+        "name": "Cereal Killer Cafe",
+        "cityId": "london",
+        "categoryId": "coffee_shops",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Cereal%20Killer%20Cafe%2C%20London",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Cereal_Killer_Cafe",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/en/thumb/1/18/Cereal_Killer_exterior.JPG/960px-Cereal_Killer_exterior.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Cereal_Killer_Cafe"
+        }
+      },
+      {
+        "id": "london-coffee_shops-9",
+        "name": "Gioconda coffee bar",
+        "cityId": "london",
+        "categoryId": "coffee_shops",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Gioconda%20coffee%20bar%2C%20London",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Gioconda_coffee_bar",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/en/thumb/a/a3/Tin_Pan_Alley_plaque_in_Denmark_Street.jpg/960px-Tin_Pan_Alley_plaque_in_Denmark_Street.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Gioconda_coffee_bar"
+        }
+      },
+      {
+        "id": "london-coffee_shops-10",
+        "name": "Café Monico",
+        "cityId": "london",
+        "categoryId": "coffee_shops",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Caf%C3%A9%20Monico%2C%20London",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Caf%C3%A9_Monico",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Cafe_Monico%2C_Shaftesbury_Avenue_%282%29.JPG/960px-Cafe_Monico%2C_Shaftesbury_Avenue_%282%29.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Caf%C3%A9_Monico"
+        }
+      },
+      {
+        "id": "london-coffee_shops-11",
+        "name": "The Jazz Cafe",
+        "cityId": "london",
+        "categoryId": "coffee_shops",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Jazz%20Cafe%2C%20London",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/The_Jazz_Cafe",
+        "photo": null
+      },
+      {
+        "id": "london-coffee_shops-12",
+        "name": "Canal Cafe Theatre",
+        "cityId": "london",
+        "categoryId": "coffee_shops",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Canal%20Cafe%20Theatre%2C%20London",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Canal_Cafe_Theatre",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/65/The_Bridge_House_pub_and_Canal_Cafe_Theatre%2C_London_W2_%28geograph_3136868%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Canal_Cafe_Theatre"
+        }
+      },
+      {
+        "id": "london-coffee_shops-13",
+        "name": "Minerva Café",
+        "cityId": "london",
+        "categoryId": "coffee_shops",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Minerva%20Caf%C3%A9%2C%20London",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Minerva_Caf%C3%A9",
+        "photo": null
+      },
+      {
+        "id": "london-coffee_shops-14",
+        "name": "Maxi Jazz",
+        "cityId": "london",
+        "categoryId": "coffee_shops",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Maxi%20Jazz%2C%20London",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Maxi_Jazz",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/2015_RiP_Maxi_Jazz_-_by_2eight_-_DSC5599.jpg/960px-2015_RiP_Maxi_Jazz_-_by_2eight_-_DSC5599.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Maxi_Jazz"
+        }
+      },
+      {
+        "id": "london-coffee_shops-15",
+        "name": "Caffè Nero",
+        "cityId": "london",
+        "categoryId": "coffee_shops",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Caff%C3%A8%20Nero%2C%20London",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Caff%C3%A8_Nero",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Wandsworth_Bridge_Road_Caff%C3%A8_Nero.jpg/960px-Wandsworth_Bridge_Road_Caff%C3%A8_Nero.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Caff%C3%A8_Nero"
+        }
+      },
+      {
+        "id": "london-coffee_shops-16",
+        "name": "Café racer",
+        "cityId": "london",
+        "categoryId": "coffee_shops",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Caf%C3%A9%20racer%2C%20London",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Caf%C3%A9_racer",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/BSA_riders_at_2007_Ace_Cafe_reunion.jpg/960px-BSA_riders_at_2007_Ace_Cafe_reunion.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Caf%C3%A9_racer"
+        }
+      },
+      {
+        "id": "london-coffee_shops-17",
+        "name": "Bar Italia",
+        "cityId": "london",
+        "categoryId": "coffee_shops",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Bar%20Italia%2C%20London",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Bar_Italia",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Bar_Italia_-_Soho_%284764432107%29.jpg/960px-Bar_Italia_-_Soho_%284764432107%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Bar_Italia"
+        }
+      },
+      {
+        "id": "london-coffee_shops-18",
+        "name": "Gwyneth Jones",
+        "cityId": "london",
+        "categoryId": "coffee_shops",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Gwyneth%20Jones%2C%20London",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Gwyneth_Jones_(novelist)",
+        "photo": null
+      }
+    ],
+    "bookshops": [
+      {
+        "id": "london-bookshops-1",
+        "name": "Dillons the Bookstore",
+        "cityId": "london",
+        "categoryId": "bookshops",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Dillons%20the%20Bookstore%2C%20London",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Dillons_the_Bookstore",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Dillons-Gower-St-sign-1996.jpg/960px-Dillons-Gower-St-sign-1996.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Dillons_the_Bookstore"
+        }
+      },
+      {
+        "id": "london-bookshops-2",
+        "name": "Bookselling",
+        "cityId": "london",
+        "categoryId": "bookshops",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Bookselling%2C%20London",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Bookselling",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/Libraria_Carturesti_Carusel_-_Interior_ziua.jpg/960px-Libraria_Carturesti_Carusel_-_Interior_ziua.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Bookselling"
+        }
+      },
+      {
+        "id": "london-bookshops-3",
+        "name": "Charing Cross Road",
+        "cityId": "london",
+        "categoryId": "bookshops",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Charing%20Cross%20Road%2C%20London",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Charing_Cross_Road",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/Charing_Cross_Road%2C_London_%28August_2023%29_02.jpg/960px-Charing_Cross_Road%2C_London_%28August_2023%29_02.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Charing_Cross_Road"
+        }
+      },
+      {
+        "id": "london-bookshops-4",
+        "name": "Better Books",
+        "cityId": "london",
+        "categoryId": "bookshops",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Better%20Books%2C%20London",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Better_Books",
+        "photo": null
+      },
+      {
+        "id": "london-bookshops-5",
+        "name": "Compendium Books",
+        "cityId": "london",
+        "categoryId": "bookshops",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Compendium%20Books%2C%20London",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Compendium_Books",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/72/Compendium_Books_%28cropped%29.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Compendium_Books"
+        }
+      },
+      {
+        "id": "london-bookshops-6",
+        "name": "Foyles",
+        "cityId": "london",
+        "categoryId": "bookshops",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Foyles%2C%20London",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Foyles",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/Foyles%2C_Charing_Cross_Road_%28April_2015%29_%28cropped%29.jpg/960px-Foyles%2C_Charing_Cross_Road_%28April_2015%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Foyles"
+        }
+      },
+      {
+        "id": "london-bookshops-7",
+        "name": "Forbidden Planet",
+        "cityId": "london",
+        "categoryId": "bookshops",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Forbidden%20Planet%2C%20London",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Forbidden_Planet_(retail_chain)",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/79/Forbidden_Planet_logo.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Forbidden_Planet_(retail_chain)"
+        }
+      },
+      {
+        "id": "london-bookshops-8",
+        "name": "Bluestockings",
+        "cityId": "london",
+        "categoryId": "bookshops",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Bluestockings%2C%20London",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Bluestockings_(bookstore)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Bluestockings_%28142607424%29.jpg/960px-Bluestockings_%28142607424%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Bluestockings_(bookstore)"
+        }
+      },
+      {
+        "id": "london-bookshops-9",
+        "name": "Used bookstore",
+        "cityId": "london",
+        "categoryId": "bookshops",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Used%20bookstore%2C%20London",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Used_bookstore",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/MADRID_060310_MXALX_105.jpg/960px-MADRID_060310_MXALX_105.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Used_bookstore"
+        }
+      },
+      {
+        "id": "london-bookshops-10",
+        "name": "Arthur Probsthain",
+        "cityId": "london",
+        "categoryId": "bookshops",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Arthur%20Probsthain%2C%20London",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Arthur_Probsthain",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Arthur_Probsthain.jpg/960px-Arthur_Probsthain.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Arthur_Probsthain"
+        }
+      },
+      {
+        "id": "london-bookshops-11",
+        "name": "Strand Bookstore",
+        "cityId": "london",
+        "categoryId": "bookshops",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Strand%20Bookstore%2C%20London",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Strand_Bookstore",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/en/4/47/Strand_Bookstore_logo.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Strand_Bookstore"
+        }
+      },
+      {
+        "id": "london-bookshops-12",
+        "name": "Independent bookstore",
+        "cityId": "london",
+        "categoryId": "bookshops",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Independent%20bookstore%2C%20London",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Independent_bookstore",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Stoke_Newington_Bookshop%2C_London.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Independent_bookstore"
+        }
+      },
+      {
+        "id": "london-bookshops-13",
+        "name": "Borders",
+        "cityId": "london",
+        "categoryId": "bookshops",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Borders%2C%20London",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Borders_(retailer)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Borders_The_Curve_%28211029%29.jpg/960px-Borders_The_Curve_%28211029%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Borders_(retailer)"
+        }
+      },
+      {
+        "id": "london-bookshops-14",
+        "name": "Barnes & Noble",
+        "cityId": "london",
+        "categoryId": "bookshops",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Barnes%20%26%20Noble%2C%20London",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Barnes_%26_Noble",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/Barnes_%26_Noble_Union_Square_NYC_May_2025.jpg/960px-Barnes_%26_Noble_Union_Square_NYC_May_2025.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Barnes_%26_Noble"
+        }
+      },
+      {
+        "id": "london-bookshops-15",
+        "name": "Infoshop",
+        "cityId": "london",
+        "categoryId": "bookshops",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Infoshop%2C%20London",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Infoshop",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/L%27Insoumise_Montreal.jpg/960px-L%27Insoumise_Montreal.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Infoshop"
+        }
+      },
+      {
+        "id": "london-bookshops-16",
+        "name": "Daunt Books",
+        "cityId": "london",
+        "categoryId": "bookshops",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Daunt%20Books%2C%20London",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Daunt_Books",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Daunt_Books%27s_famous_gallery.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Daunt_Books"
+        }
+      },
+      {
+        "id": "london-bookshops-17",
+        "name": "WHSmith",
+        "cityId": "london",
+        "categoryId": "bookshops",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=WHSmith%2C%20London",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/WHSmith",
+        "photo": null
+      },
+      {
+        "id": "london-bookshops-18",
+        "name": "Ottakar's",
+        "cityId": "london",
+        "categoryId": "bookshops",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Ottakar's%2C%20London",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Ottakar's",
+        "photo": null
+      }
+    ],
+    "museums": [
+      {
+        "id": "london-museums-1",
+        "name": "British Museum",
+        "cityId": "london",
+        "categoryId": "museums",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=British%20Museum%2C%20London",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/British_Museum",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/British_Museum_from_NE_2.JPG/960px-British_Museum_from_NE_2.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/British_Museum"
+        }
+      },
+      {
+        "id": "london-museums-2",
+        "name": "Madame Tussauds",
+        "cityId": "london",
+        "categoryId": "museums",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Madame%20Tussauds%2C%20London",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Madame_Tussauds",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/WaxMuseumMadameTussaudsLondon.JPG/960px-WaxMuseumMadameTussaudsLondon.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Madame_Tussauds"
+        }
+      },
+      {
+        "id": "london-museums-3",
+        "name": "Science Museum, London",
+        "cityId": "london",
+        "categoryId": "museums",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Science%20Museum%2C%20London%2C%20London",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Science_Museum%2C_London",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/Science_Museum%2C_Exhibition_Road_%28cropped%29.jpg/960px-Science_Museum%2C_Exhibition_Road_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Science_Museum%2C_London"
+        }
+      },
+      {
+        "id": "london-museums-4",
+        "name": "London Museum",
+        "cityId": "london",
+        "categoryId": "museums",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=London%20Museum%2C%20London",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/London_Museum",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/London_Museum_entrance_2026.jpg/960px-London_Museum_entrance_2026.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/London_Museum"
+        }
+      },
+      {
+        "id": "london-museums-5",
+        "name": "London Transport Museum",
+        "cityId": "london",
+        "categoryId": "museums",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=London%20Transport%20Museum%2C%20London",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/London_Transport_Museum",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/en/thumb/7/77/LTMLogo2024.svg/960px-LTMLogo2024.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/London_Transport_Museum"
+        }
+      },
+      {
+        "id": "london-museums-6",
+        "name": "National Maritime Museum",
+        "cityId": "london",
+        "categoryId": "museums",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=National%20Maritime%20Museum%2C%20London",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/National_Maritime_Museum",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/EH1211481_National_Maritime_Museum_10_%28cropped%29.JPG/960px-EH1211481_National_Maritime_Museum_10_%28cropped%29.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/National_Maritime_Museum"
+        }
+      },
+      {
+        "id": "london-museums-7",
+        "name": "Victoria and Albert Museum",
+        "cityId": "london",
+        "categoryId": "museums",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Victoria%20and%20Albert%20Museum%2C%20London",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Victoria_and_Albert_Museum",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/Victoria_and_Albert_Museum_Logo.svg/960px-Victoria_and_Albert_Museum_Logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Victoria_and_Albert_Museum"
+        }
+      },
+      {
+        "id": "london-museums-8",
+        "name": "Francis Walker",
+        "cityId": "london",
+        "categoryId": "museums",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Francis%20Walker%2C%20London",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Francis_Walker_(entomologist)",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/22/Walker_Francis_1809-1874.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Francis_Walker_(entomologist)"
+        }
+      },
+      {
+        "id": "london-museums-9",
+        "name": "Kensington",
+        "cityId": "london",
+        "categoryId": "museums",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Kensington%2C%20London",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Kensington",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Kensington_High_Street_2_Londres.jpg/960px-Kensington_High_Street_2_Londres.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Kensington"
+        }
+      },
+      {
+        "id": "london-museums-10",
+        "name": "Arthur Gardiner Butler",
+        "cityId": "london",
+        "categoryId": "museums",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Arthur%20Gardiner%20Butler%2C%20London",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Arthur_Gardiner_Butler",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/94/Arthur_Gardiner_Butler.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Arthur_Gardiner_Butler"
+        }
+      },
+      {
+        "id": "london-museums-11",
+        "name": "South Kensington",
+        "cityId": "london",
+        "categoryId": "museums",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=South%20Kensington%2C%20London",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/South_Kensington",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/London_-_Victoria_and_Albert_Museum_-_panoramio_%282%29.jpg/960px-London_-_Victoria_and_Albert_Museum_-_panoramio_%282%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/South_Kensington"
+        }
+      },
+      {
+        "id": "london-museums-12",
+        "name": "London",
+        "cityId": "london",
+        "categoryId": "museums",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=London%2C%20London",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/London",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/London_Skyline_%28125508655%29.jpeg/960px-London_Skyline_%28125508655%29.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/London"
+        }
+      },
+      {
+        "id": "london-museums-13",
+        "name": "Royal Air Force Museum London",
+        "cityId": "london",
+        "categoryId": "museums",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Royal%20Air%20Force%20Museum%20London%2C%20London",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Royal_Air_Force_Museum_London",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Royal_Air_Force_Museum_logo.svg/960px-Royal_Air_Force_Museum_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Royal_Air_Force_Museum_London"
+        }
+      },
+      {
+        "id": "london-museums-14",
+        "name": "John Edward Gray",
+        "cityId": "london",
+        "categoryId": "museums",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=John%20Edward%20Gray%2C%20London",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/John_Edward_Gray",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d3/John-Edward-Gray-1851.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/John_Edward_Gray"
+        }
+      },
+      {
+        "id": "london-museums-15",
+        "name": "St Mary's Hospital, London",
+        "cityId": "london",
+        "categoryId": "museums",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=St%20Mary's%20Hospital%2C%20London%2C%20London",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/St_Mary's_Hospital%2C_London",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/St_Mary%27s_Hospital.jpg/960px-St_Mary%27s_Hospital.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/St_Mary's_Hospital%2C_London"
+        }
+      },
+      {
+        "id": "london-museums-16",
+        "name": "National Army Museum",
+        "cityId": "london",
+        "categoryId": "museums",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=National%20Army%20Museum%2C%20London",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/National_Army_Museum",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/National_Army_Museum_-_Joy_of_Museums.jpg/960px-National_Army_Museum_-_Joy_of_Museums.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/National_Army_Museum"
+        }
+      },
+      {
+        "id": "london-museums-17",
+        "name": "Tate",
+        "cityId": "london",
+        "categoryId": "museums",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Tate%2C%20London",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Tate",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/Tate_museum_logo.svg/960px-Tate_museum_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Tate"
+        }
+      },
+      {
+        "id": "london-museums-18",
+        "name": "Valence House Museum",
+        "cityId": "london",
+        "categoryId": "museums",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Valence%20House%20Museum%2C%20London",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Valence_House_Museum",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/Valence_House_Museum_2010.jpg/960px-Valence_House_Museum_2010.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Valence_House_Museum"
+        }
+      }
+    ],
+    "concerts": [
+      {
+        "id": "london-concerts-1",
+        "name": "Barbican Centre",
+        "cityId": "london",
+        "categoryId": "concerts",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Barbican%20Centre%2C%20London",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Barbican_Centre",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Barbican_Lakeside_on_a_summer_evening.jpg/960px-Barbican_Lakeside_on_a_summer_evening.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Barbican_Centre"
+        }
+      },
+      {
+        "id": "london-concerts-2",
+        "name": "Union Concert Hall",
+        "cityId": "london",
+        "categoryId": "concerts",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Union%20Concert%20Hall%2C%20London",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Union_Concert_Hall",
+        "photo": null
+      },
+      {
+        "id": "london-concerts-3",
+        "name": "Cadogan Hall",
+        "cityId": "london",
+        "categoryId": "concerts",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Cadogan%20Hall%2C%20London",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Cadogan_Hall",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Cadogan_Hall_%2820225431829%29.jpg/960px-Cadogan_Hall_%2820225431829%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Cadogan_Hall"
+        }
+      },
+      {
+        "id": "london-concerts-4",
+        "name": "Snape Maltings Concert Hall",
+        "cityId": "london",
+        "categoryId": "concerts",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Snape%20Maltings%20Concert%20Hall%2C%20London",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Snape_Maltings_Concert_Hall",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Snape_maltings_concert_hall.jpeg/960px-Snape_maltings_concert_hall.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Snape_Maltings_Concert_Hall"
+        }
+      },
+      {
+        "id": "london-concerts-5",
+        "name": "Fairfield Halls",
+        "cityId": "london",
+        "categoryId": "concerts",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Fairfield%20Halls%2C%20London",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Fairfield_Halls",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Fairfield_Halls_-_London.jpg/960px-Fairfield_Halls_-_London.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Fairfield_Halls"
+        }
+      },
+      {
+        "id": "london-concerts-6",
+        "name": "Wathen Hall",
+        "cityId": "london",
+        "categoryId": "concerts",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Wathen%20Hall%2C%20London",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Wathen_Hall",
+        "photo": null
+      },
+      {
+        "id": "london-concerts-7",
+        "name": "Aeolian Hall",
+        "cityId": "london",
+        "categoryId": "concerts",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Aeolian%20Hall%2C%20London",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Aeolian_Hall_(London)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/Salon_of_the_Vocalion_Warerooms%2C_Aeolian_Hall%2C_London.png/960px-Salon_of_the_Vocalion_Warerooms%2C_Aeolian_Hall%2C_London.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Aeolian_Hall_(London)"
+        }
+      },
+      {
+        "id": "london-concerts-8",
+        "name": "Smith Square Hall",
+        "cityId": "london",
+        "categoryId": "concerts",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Smith%20Square%20Hall%2C%20London",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Smith_Square_Hall",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/St_John%27s_Smith_Square_south_facade.jpg/960px-St_John%27s_Smith_Square_south_facade.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Smith_Square_Hall"
+        }
+      },
+      {
+        "id": "london-concerts-9",
+        "name": "Chan Centre for the Performing Arts",
+        "cityId": "london",
+        "categoryId": "concerts",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Chan%20Centre%20for%20the%20Performing%20Arts%2C%20London",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Chan_Centre_for_the_Performing_Arts",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Chancentre-closeup.jpg/960px-Chancentre-closeup.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Chan_Centre_for_the_Performing_Arts"
+        }
+      },
+      {
+        "id": "london-concerts-10",
+        "name": "Harpa",
+        "cityId": "london",
+        "categoryId": "concerts",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Harpa%2C%20London",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Harpa_(concert_hall)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/en/thumb/d/df/Harpa_Concert_Hall%2C_Reykjavik.jpg/960px-Harpa_Concert_Hall%2C_Reykjavik.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Harpa_(concert_hall)"
+        }
+      },
+      {
+        "id": "london-concerts-11",
+        "name": "Symphony No. 12",
+        "cityId": "london",
+        "categoryId": "concerts",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Symphony%20No.%2012%2C%20London",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Symphony_No._12_(Glass)",
+        "photo": null
+      },
+      {
+        "id": "london-concerts-12",
+        "name": "Brighton Dome",
+        "cityId": "london",
+        "categoryId": "concerts",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Brighton%20Dome%2C%20London",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Brighton_Dome",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Brighton_Dome.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Brighton_Dome"
+        }
+      },
+      {
+        "id": "london-concerts-13",
+        "name": "Glasgow Royal Concert Hall",
+        "cityId": "london",
+        "categoryId": "concerts",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Glasgow%20Royal%20Concert%20Hall%2C%20London",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Glasgow_Royal_Concert_Hall",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/Glasgow_Royal_Concert_Hall_%286182751252%29.jpg/960px-Glasgow_Royal_Concert_Hall_%286182751252%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Glasgow_Royal_Concert_Hall"
+        }
+      },
+      {
+        "id": "london-concerts-14",
+        "name": "National Concert Hall",
+        "cityId": "london",
+        "categoryId": "concerts",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=National%20Concert%20Hall%2C%20London",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/National_Concert_Hall",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/Nch-exterior-night.jpg/960px-Nch-exterior-night.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/National_Concert_Hall"
+        }
+      },
+      {
+        "id": "london-concerts-15",
+        "name": "Royal Festival Hall",
+        "cityId": "london",
+        "categoryId": "concerts",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Royal%20Festival%20Hall%2C%20London",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Royal_Festival_Hall",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Royal_Festival_Hall%2C_Belvedere_Road_%281%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Royal_Festival_Hall"
+        }
+      },
+      {
+        "id": "london-concerts-16",
+        "name": "This England",
+        "cityId": "london",
+        "categoryId": "concerts",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=This%20England%2C%20London",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/This_England_(album)",
+        "photo": null
+      },
+      {
+        "id": "london-concerts-17",
+        "name": "Vatroslav Lisinski Concert Hall",
+        "cityId": "london",
+        "categoryId": "concerts",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Vatroslav%20Lisinski%20Concert%20Hall%2C%20London",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Vatroslav_Lisinski_Concert_Hall",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Vatroslav_Lisinski_Concert_Hall.jpg/960px-Vatroslav_Lisinski_Concert_Hall.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Vatroslav_Lisinski_Concert_Hall"
+        }
+      },
+      {
+        "id": "london-concerts-18",
+        "name": "Lighthouse",
+        "cityId": "london",
+        "categoryId": "concerts",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Lighthouse%2C%20London",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Lighthouse_(Poole)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Lighthouse_Arts_Centre%2C_Poole_%28geograph_5678738%29.jpg/960px-Lighthouse_Arts_Centre%2C_Poole_%28geograph_5678738%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Lighthouse_(Poole)"
+        }
+      }
+    ],
+    "fashion": [
+      {
+        "id": "london-fashion-1",
+        "name": "Hackett London",
+        "cityId": "london",
+        "categoryId": "fashion",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Hackett%20London%2C%20London",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Hackett_London",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/en/d/d6/Hackett_%28clothing%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Hackett_London"
+        }
+      },
+      {
+        "id": "london-fashion-2",
+        "name": "Clothes shop",
+        "cityId": "london",
+        "categoryId": "fashion",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Clothes%20shop%2C%20London",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Clothes_shop",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Listed_Duzi_house%2C_11_Dob%C3%B3_Street%2C_Eger%2C_2016_Hungary.jpg/960px-Listed_Duzi_house%2C_11_Dob%C3%B3_Street%2C_Eger%2C_2016_Hungary.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Clothes_shop"
+        }
+      },
+      {
+        "id": "london-fashion-3",
+        "name": "Haberdasher",
+        "cityId": "london",
+        "categoryId": "fashion",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Haberdasher%2C%20London",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Haberdasher",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/20220117_164603_January_2022_in_Bia%C5%82ystok.jpg/960px-20220117_164603_January_2022_in_Bia%C5%82ystok.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Haberdasher"
+        }
+      },
+      {
+        "id": "london-fashion-4",
+        "name": "Abe Stark",
+        "cityId": "london",
+        "categoryId": "fashion",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Abe%20Stark%2C%20London",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Abe_Stark",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Abe_Stark_1949.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Abe_Stark"
+        }
+      },
+      {
+        "id": "london-fashion-5",
+        "name": "Acme Attractions",
+        "cityId": "london",
+        "categoryId": "fashion",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Acme%20Attractions%2C%20London",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Acme_Attractions",
+        "photo": null
+      },
+      {
+        "id": "london-fashion-6",
+        "name": "Ravenite Social Club",
+        "cityId": "london",
+        "categoryId": "fashion",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Ravenite%20Social%20Club%2C%20London",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Ravenite_Social_Club",
+        "photo": null
+      },
+      {
+        "id": "london-fashion-7",
+        "name": "Virginia Wetherell",
+        "cityId": "london",
+        "categoryId": "fashion",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Virginia%20Wetherell%2C%20London",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Virginia_Wetherell",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/47/Dracula_%281973%29_-_Virginia_Wetherell_%28Cropped%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Virginia_Wetherell"
+        }
+      },
+      {
+        "id": "london-fashion-8",
+        "name": "Deekline",
+        "cityId": "london",
+        "categoryId": "fashion",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Deekline%2C%20London",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Deekline",
+        "photo": null
+      },
+      {
+        "id": "london-fashion-9",
+        "name": "Isaac Magnin",
+        "cityId": "london",
+        "categoryId": "fashion",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Isaac%20Magnin%2C%20London",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Isaac_Magnin",
+        "photo": null
+      },
+      {
+        "id": "london-fashion-10",
+        "name": "Percy J. Benbough",
+        "cityId": "london",
+        "categoryId": "fashion",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Percy%20J.%20Benbough%2C%20London",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Percy_J._Benbough",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Mayor_Benbough.jpg/960px-Mayor_Benbough.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Percy_J._Benbough"
+        }
+      },
+      {
+        "id": "london-fashion-11",
+        "name": "Emanuela de Paula",
+        "cityId": "london",
+        "categoryId": "fashion",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Emanuela%20de%20Paula%2C%20London",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Emanuela_de_Paula",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Emanuelee.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Emanuela_de_Paula"
+        }
+      },
+      {
+        "id": "london-fashion-12",
+        "name": "Piccadilly",
+        "cityId": "london",
+        "categoryId": "fashion",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Piccadilly%2C%20London",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Piccadilly",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/A4_Piccadilly_-_DSC04251.JPG/960px-A4_Piccadilly_-_DSC04251.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Piccadilly"
+        }
+      },
+      {
+        "id": "london-fashion-13",
+        "name": "Retail design",
+        "cityId": "london",
+        "categoryId": "fashion",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Retail%20design%2C%20London",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Retail_design",
+        "photo": null
+      },
+      {
+        "id": "london-fashion-14",
+        "name": "Peter Golding",
+        "cityId": "london",
+        "categoryId": "fashion",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Peter%20Golding%2C%20London",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Peter_Golding",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/Peter_Golding.jpg/960px-Peter_Golding.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Peter_Golding"
+        }
+      },
+      {
+        "id": "london-fashion-15",
+        "name": "The Kingsman Shop",
+        "cityId": "london",
+        "categoryId": "fashion",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Kingsman%20Shop%2C%20London",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/The_Kingsman_Shop_(London)",
+        "photo": null
+      },
+      {
+        "id": "london-fashion-16",
+        "name": "Experiential retail",
+        "cityId": "london",
+        "categoryId": "fashion",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Experiential%20retail%2C%20London",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Experiential_retail",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/Mercy_Wellness_%28Cotati%2C_California%29_02.jpg/960px-Mercy_Wellness_%28Cotati%2C_California%29_02.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Experiential_retail"
+        }
+      },
+      {
+        "id": "london-fashion-17",
+        "name": "White Stuff Clothing",
+        "cityId": "london",
+        "categoryId": "fashion",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=White%20Stuff%20Clothing%2C%20London",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/White_Stuff_Clothing",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/72/220519_White_Stuff_Wiki_logo_146x129.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/White_Stuff_Clothing"
+        }
+      },
+      {
+        "id": "london-fashion-18",
+        "name": "Slaxx",
+        "cityId": "london",
+        "categoryId": "fashion",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Slaxx%2C%20London",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Slaxx",
+        "photo": null
+      }
+    ],
+    "shops": [
+      {
+        "id": "london-shops-1",
+        "name": "Pet Shop Boys",
+        "cityId": "london",
+        "categoryId": "shops",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Pet%20Shop%20Boys%2C%20London",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Pet_Shop_Boys",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/86/Pet_Shop_Boys_interview_2013_still.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Pet_Shop_Boys"
+        }
+      },
+      {
+        "id": "london-shops-2",
+        "name": "Neil Tennant",
+        "cityId": "london",
+        "categoryId": "shops",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Neil%20Tennant%2C%20London",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Neil_Tennant",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Glastonbury2022_%28389_of_413%29_%2852181392272%29_%28cropped%29.jpg/960px-Glastonbury2022_%28389_of_413%29_%2852181392272%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Neil_Tennant"
+        }
+      },
+      {
+        "id": "london-shops-3",
+        "name": "HMV",
+        "cityId": "london",
+        "categoryId": "shops",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=HMV%2C%20London",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/HMV",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/The_HMV_Shop%2C_Trinity_Walk%2C_Wakefield%2C_West_Yorkshire_%283rd_December_2022%29.jpg/960px-The_HMV_Shop%2C_Trinity_Walk%2C_Wakefield%2C_West_Yorkshire_%283rd_December_2022%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/HMV"
+        }
+      },
+      {
+        "id": "london-shops-4",
+        "name": "Rough Trade",
+        "cityId": "london",
+        "categoryId": "shops",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Rough%20Trade%2C%20London",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Rough_Trade_(shops)",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Rough_Trade_Records%2C_Talbot_Road_-_geograph.org.uk_-_1279495.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Rough_Trade_(shops)"
+        }
+      },
+      {
+        "id": "london-shops-5",
+        "name": "The Body Shop",
+        "cityId": "london",
+        "categoryId": "shops",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Body%20Shop%2C%20London",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/The_Body_Shop",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/The_Body_Shop%2C_Oxford_Street%2C_London%2C_March_2016_01.jpg/960px-The_Body_Shop%2C_Oxford_Street%2C_London%2C_March_2016_01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/The_Body_Shop"
+        }
+      },
+      {
+        "id": "london-shops-6",
+        "name": "The Old Curiosity Shop",
+        "cityId": "london",
+        "categoryId": "shops",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Old%20Curiosity%20Shop%2C%20London",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/The_Old_Curiosity_Shop",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Masterclock_serial_cover.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/The_Old_Curiosity_Shop"
+        }
+      },
+      {
+        "id": "london-shops-7",
+        "name": "Chris Lowe",
+        "cityId": "london",
+        "categoryId": "shops",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Chris%20Lowe%2C%20London",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Chris_Lowe",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Chris_Lowe_Glastonbury2022_%28411_of_413%29_%2852182659109%29_%28cropped%29.jpg/960px-Chris_Lowe_Glastonbury2022_%28411_of_413%29_%2852182659109%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Chris_Lowe"
+        }
+      },
+      {
+        "id": "london-shops-8",
+        "name": "London",
+        "cityId": "london",
+        "categoryId": "shops",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=London%2C%20London",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/London_(Pet_Shop_Boys_song)",
+        "photo": null
+      },
+      {
+        "id": "london-shops-9",
+        "name": "Fish and chips",
+        "cityId": "london",
+        "categoryId": "shops",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Fish%20and%20chips%2C%20London",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Fish_and_chips",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Fish_and_chips_blackpool.jpg/960px-Fish_and_chips_blackpool.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Fish_and_chips"
+        }
+      },
+      {
+        "id": "london-shops-10",
+        "name": "Sainsbury's",
+        "cityId": "london",
+        "categoryId": "shops",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Sainsbury's%2C%20London",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Sainsbury's",
+        "photo": null
+      },
+      {
+        "id": "london-shops-11",
+        "name": "West End Girls",
+        "cityId": "london",
+        "categoryId": "shops",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=West%20End%20Girls%2C%20London",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/West_End_Girls",
+        "photo": null
+      },
+      {
+        "id": "london-shops-12",
+        "name": "Pret a Manger",
+        "cityId": "london",
+        "categoryId": "shops",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Pret%20a%20Manger%2C%20London",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Pret_a_Manger",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Pret_a_Manger_signage_Fulham_Broadway_tube_station.jpg/960px-Pret_a_Manger_signage_Fulham_Broadway_tube_station.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Pret_a_Manger"
+        }
+      },
+      {
+        "id": "london-shops-13",
+        "name": "Code of Scotland Yard",
+        "cityId": "london",
+        "categoryId": "shops",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Code%20of%20Scotland%20Yard%2C%20London",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Code_of_Scotland_Yard",
+        "photo": null
+      },
+      {
+        "id": "london-shops-14",
+        "name": "Howarth of London",
+        "cityId": "london",
+        "categoryId": "shops",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Howarth%20of%20London%2C%20London",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Howarth_of_London",
+        "photo": null
+      },
+      {
+        "id": "london-shops-15",
+        "name": "Miranda Hart",
+        "cityId": "london",
+        "categoryId": "shops",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Miranda%20Hart%2C%20London",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Miranda_Hart",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Miranda_Hart_in_2011.jpg/960px-Miranda_Hart_in_2011.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Miranda_Hart"
+        }
+      },
+      {
+        "id": "london-shops-16",
+        "name": "Joseph Merrick",
+        "cityId": "london",
+        "categoryId": "shops",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Joseph%20Merrick%2C%20London",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Joseph_Merrick",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/be/Joseph_Merrick_carte_de_visite_photo%2C_c._1889.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Joseph_Merrick"
+        }
+      },
+      {
+        "id": "london-shops-17",
+        "name": "Argos",
+        "cityId": "london",
+        "categoryId": "shops",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Argos%2C%20London",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Argos_(retailer)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Argos_logo.svg/960px-Argos_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Argos_(retailer)"
+        }
+      },
+      {
+        "id": "london-shops-18",
+        "name": "UK Property Shop",
+        "cityId": "london",
+        "categoryId": "shops",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=UK%20Property%20Shop%2C%20London",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/UK_Property_Shop",
+        "photo": null
+      }
+    ]
+  }
+}

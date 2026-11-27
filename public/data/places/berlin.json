@@ -1,0 +1,1993 @@
+{
+  "cityId": "berlin",
+  "generatedAt": "2026-11-27T08:48:18.301Z",
+  "source": "Wikipedia API + Maps URLs (sin scraping de Google)",
+  "incomplete": [],
+  "categories": {
+    "night_clubs": [
+      {
+        "id": "berlin-night_clubs-1",
+        "name": "Docks",
+        "cityId": "berlin",
+        "categoryId": "night_clubs",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Docks%2C%20Berlin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Docks_(nightclub)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Docks_Hamburg.jpg/960px-Docks_Hamburg.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Docks_(nightclub)"
+        }
+      },
+      {
+        "id": "berlin-night_clubs-2",
+        "name": "West Berlin discotheque bombing",
+        "cityId": "berlin",
+        "categoryId": "night_clubs",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=West%20Berlin%20discotheque%20bombing%2C%20Berlin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/West_Berlin_discotheque_bombing",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Roxy_frontal.jpg/960px-Roxy_frontal.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/West_Berlin_discotheque_bombing"
+        }
+      },
+      {
+        "id": "berlin-night_clubs-3",
+        "name": "Berghain",
+        "cityId": "berlin",
+        "categoryId": "night_clubs",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Berghain%2C%20Berlin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Berghain",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Berlin_Berghain.jpg/960px-Berlin_Berghain.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Berghain"
+        }
+      },
+      {
+        "id": "berlin-night_clubs-4",
+        "name": "Wise Guy",
+        "cityId": "berlin",
+        "categoryId": "night_clubs",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Wise%20Guy%2C%20Berlin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Wise_Guy_(musical)",
+        "photo": null
+      },
+      {
+        "id": "berlin-night_clubs-5",
+        "name": "Constellation",
+        "cityId": "berlin",
+        "categoryId": "night_clubs",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Constellation%2C%20Berlin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Constellation_(nightclub)",
+        "photo": null
+      },
+      {
+        "id": "berlin-night_clubs-6",
+        "name": "KitKatClub",
+        "cityId": "berlin",
+        "categoryId": "night_clubs",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=KitKatClub%2C%20Berlin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/KitKatClub",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/en/2/26/Kitkatclub.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/KitKatClub"
+        }
+      },
+      {
+        "id": "berlin-night_clubs-7",
+        "name": "Berlin Heidelberger Platz station",
+        "cityId": "berlin",
+        "categoryId": "night_clubs",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Berlin%20Heidelberger%20Platz%20station%2C%20Berlin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Berlin_Heidelberger_Platz_station",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/UBahnhf-Heidelbergerplatz.JPG/960px-UBahnhf-Heidelbergerplatz.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Berlin_Heidelberger_Platz_station"
+        }
+      },
+      {
+        "id": "berlin-night_clubs-8",
+        "name": "Lina Rafn",
+        "cityId": "berlin",
+        "categoryId": "night_clubs",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Lina%20Rafn%2C%20Berlin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Lina_Rafn",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/Lina_Rafn_at_Danish_DJ_Awards_anno_2007.jpg/960px-Lina_Rafn_at_Danish_DJ_Awards_anno_2007.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Lina_Rafn"
+        }
+      },
+      {
+        "id": "berlin-night_clubs-9",
+        "name": "Liane Augustin",
+        "cityId": "berlin",
+        "categoryId": "night_clubs",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Liane%20Augustin%2C%20Berlin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Liane_Augustin",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Eurovision_Song_Contest_1958_-_Liane_Augustin_2.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Liane_Augustin"
+        }
+      },
+      {
+        "id": "berlin-night_clubs-10",
+        "name": "Romy Haag",
+        "cityId": "berlin",
+        "categoryId": "night_clubs",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Romy%20Haag%2C%20Berlin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Romy_Haag",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/00/Romy_Haag_at_Teddy_Awards_2011.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Romy_Haag"
+        }
+      },
+      {
+        "id": "berlin-night_clubs-11",
+        "name": "Empathy",
+        "cityId": "berlin",
+        "categoryId": "night_clubs",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Empathy%2C%20Berlin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Empathy_(Bill_Evans_and_Shelly_Manne_album)",
+        "photo": null
+      },
+      {
+        "id": "berlin-night_clubs-12",
+        "name": "Superclub",
+        "cityId": "berlin",
+        "categoryId": "night_clubs",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Superclub%2C%20Berlin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Superclub",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Wikipedia_space_ibiza%2809%29.jpg/960px-Wikipedia_space_ibiza%2809%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Superclub"
+        }
+      },
+      {
+        "id": "berlin-night_clubs-13",
+        "name": "Dimitri Hegemann",
+        "cityId": "berlin",
+        "categoryId": "night_clubs",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Dimitri%20Hegemann%2C%20Berlin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Dimitri_Hegemann",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Dimitri_Hegemann_2016.jpg/960px-Dimitri_Hegemann_2016.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Dimitri_Hegemann"
+        }
+      },
+      {
+        "id": "berlin-night_clubs-14",
+        "name": "Blue Skies",
+        "cityId": "berlin",
+        "categoryId": "night_clubs",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Blue%20Skies%2C%20Berlin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Blue_Skies_(1946_film)",
+        "photo": null
+      },
+      {
+        "id": "berlin-night_clubs-15",
+        "name": "Blondie Knows Best",
+        "cityId": "berlin",
+        "categoryId": "night_clubs",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Blondie%20Knows%20Best%2C%20Berlin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Blondie_Knows_Best",
+        "photo": null
+      },
+      {
+        "id": "berlin-night_clubs-16",
+        "name": "Egg London",
+        "cityId": "berlin",
+        "categoryId": "night_clubs",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Egg%20London%2C%20Berlin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Egg_London",
+        "photo": null
+      },
+      {
+        "id": "berlin-night_clubs-17",
+        "name": "Portrait of Erna Schilling",
+        "cityId": "berlin",
+        "categoryId": "night_clubs",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Portrait%20of%20Erna%20Schilling%2C%20Berlin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Portrait_of_Erna_Schilling",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Ernst_Ludwig_Kirchner_-_Portr%C3%A4t_der_Erna_Schilling.jpg/960px-Ernst_Ludwig_Kirchner_-_Portr%C3%A4t_der_Erna_Schilling.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Portrait_of_Erna_Schilling"
+        }
+      },
+      {
+        "id": "berlin-night_clubs-18",
+        "name": "Rave",
+        "cityId": "berlin",
+        "categoryId": "night_clubs",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Rave%2C%20Berlin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Rave",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Sven_Vath_playing_at_Amnesia.JPG/960px-Sven_Vath_playing_at_Amnesia.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Rave"
+        }
+      }
+    ],
+    "restaurants": [
+      {
+        "id": "berlin-restaurants-1",
+        "name": "Berlin Inn",
+        "cityId": "berlin",
+        "categoryId": "restaurants",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Berlin%20Inn%2C%20Berlin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Berlin_Inn",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/Southeast_Portland%2C_Oregon_%28January_23%2C_2021%29_-_062.jpg/960px-Southeast_Portland%2C_Oregon_%28January_23%2C_2021%29_-_062.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Berlin_Inn"
+        }
+      },
+      {
+        "id": "berlin-restaurants-2",
+        "name": "Hallo Berlin",
+        "cityId": "berlin",
+        "categoryId": "restaurants",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Hallo%20Berlin%2C%20Berlin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Hallo_Berlin",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Hallo_Berlin_2015.jpg/960px-Hallo_Berlin_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Hallo_Berlin"
+        }
+      },
+      {
+        "id": "berlin-restaurants-3",
+        "name": "Sticks'n'Sushi",
+        "cityId": "berlin",
+        "categoryId": "restaurants",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Sticks'n'Sushi%2C%20Berlin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Sticks'n'Sushi",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/en/thumb/a/aa/Sticks%27n%27Sushi_logo.svg/960px-Sticks%27n%27Sushi_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Sticks'n'Sushi"
+        }
+      },
+      {
+        "id": "berlin-restaurants-4",
+        "name": "Mykonos restaurant assassinations",
+        "cityId": "berlin",
+        "categoryId": "restaurants",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Mykonos%20restaurant%20assassinations%2C%20Berlin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Mykonos_restaurant_assassinations",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Mykonos_restaurant_plaque.jpg/960px-Mykonos_restaurant_plaque.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Mykonos_restaurant_assassinations"
+        }
+      },
+      {
+        "id": "berlin-restaurants-5",
+        "name": "Fernsehturm Berlin",
+        "cityId": "berlin",
+        "categoryId": "restaurants",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Fernsehturm%20Berlin%2C%20Berlin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Fernsehturm_Berlin",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Berliner_Fernsehturm%2C_Sicht_vom_Neptunbrunnen_-_Berlin_Mitte.jpg/960px-Berliner_Fernsehturm%2C_Sicht_vom_Neptunbrunnen_-_Berlin_Mitte.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Fernsehturm_Berlin"
+        }
+      },
+      {
+        "id": "berlin-restaurants-6",
+        "name": "Nikolaiviertel",
+        "cityId": "berlin",
+        "categoryId": "restaurants",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Nikolaiviertel%2C%20Berlin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Nikolaiviertel",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Blue_Hour_in_Berlin.jpg/960px-Blue_Hour_in_Berlin.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Nikolaiviertel"
+        }
+      },
+      {
+        "id": "berlin-restaurants-7",
+        "name": "Berlin Radio Tower",
+        "cityId": "berlin",
+        "categoryId": "restaurants",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Berlin%20Radio%20Tower%2C%20Berlin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Berlin_Radio_Tower",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Berlin_-_Funkturm2.jpg/960px-Berlin_-_Funkturm2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Berlin_Radio_Tower"
+        }
+      },
+      {
+        "id": "berlin-restaurants-8",
+        "name": "1982 Berlin restaurant bombing",
+        "cityId": "berlin",
+        "categoryId": "restaurants",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=1982%20Berlin%20restaurant%20bombing%2C%20Berlin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/1982_Berlin_restaurant_bombing",
+        "photo": null
+      },
+      {
+        "id": "berlin-restaurants-9",
+        "name": "Rosenthal",
+        "cityId": "berlin",
+        "categoryId": "restaurants",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Rosenthal%2C%20Berlin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Rosenthal_(Berlin)",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Dorfkirche_Rosenthal_02.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Rosenthal_(Berlin)"
+        }
+      },
+      {
+        "id": "berlin-restaurants-10",
+        "name": "Oranienburger Straße",
+        "cityId": "berlin",
+        "categoryId": "restaurants",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Oranienburger%20Stra%C3%9Fe%2C%20Berlin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Oranienburger_Stra%C3%9Fe",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/Berlin-Mitte%2C_Oranienburger_Stra%C3%9Fe%2C_middle_part.JPG/960px-Berlin-Mitte%2C_Oranienburger_Stra%C3%9Fe%2C_middle_part.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Oranienburger_Stra%C3%9Fe"
+        }
+      },
+      {
+        "id": "berlin-restaurants-11",
+        "name": "Let's Have Another Cup of Coffee",
+        "cityId": "berlin",
+        "categoryId": "restaurants",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Let's%20Have%20Another%20Cup%20of%20Coffee%2C%20Berlin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Let's_Have_Another_Cup_of_Coffee",
+        "photo": null
+      },
+      {
+        "id": "berlin-restaurants-12",
+        "name": "Automat",
+        "cityId": "berlin",
+        "categoryId": "restaurants",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Automat%2C%20Berlin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Automat",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/StollwerckAutomatenrestaurant1896.jpg/960px-StollwerckAutomatenrestaurant1896.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Automat"
+        }
+      },
+      {
+        "id": "berlin-restaurants-13",
+        "name": "Chinese restaurant",
+        "cityId": "berlin",
+        "categoryId": "restaurants",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Chinese%20restaurant%2C%20Berlin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Chinese_restaurant",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/HK_Shatin_Yu_Chui_Shopping_Centre_Chinese_restaurant_interior_visitors_Sept-2012.JPG/960px-HK_Shatin_Yu_Chui_Shopping_Centre_Chinese_restaurant_interior_visitors_Sept-2012.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Chinese_restaurant"
+        }
+      },
+      {
+        "id": "berlin-restaurants-14",
+        "name": "Floating restaurant",
+        "cityId": "berlin",
+        "categoryId": "restaurants",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Floating%20restaurant%2C%20Berlin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Floating_restaurant",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Vaal_River_-_Floating_Restaurant-001.jpg/960px-Vaal_River_-_Floating_Restaurant-001.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Floating_restaurant"
+        }
+      },
+      {
+        "id": "berlin-restaurants-15",
+        "name": "German Doner Kebab",
+        "cityId": "berlin",
+        "categoryId": "restaurants",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=German%20Doner%20Kebab%2C%20Berlin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/German_Doner_Kebab",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/GDK_Leeds_White_Rose%2C_UK.jpg/960px-GDK_Leeds_White_Rose%2C_UK.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/German_Doner_Kebab"
+        }
+      },
+      {
+        "id": "berlin-restaurants-16",
+        "name": "Romanisches Café",
+        "cityId": "berlin",
+        "categoryId": "restaurants",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Romanisches%20Caf%C3%A9%2C%20Berlin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Romanisches_Caf%C3%A9",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Romanisches_Haus_in_Berlin.jpg/960px-Romanisches_Haus_in_Berlin.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Romanisches_Caf%C3%A9"
+        }
+      },
+      {
+        "id": "berlin-restaurants-17",
+        "name": "Bundesautobahn 24",
+        "cityId": "berlin",
+        "categoryId": "restaurants",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Bundesautobahn%2024%2C%20Berlin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Bundesautobahn_24",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Bundesautobahn_24_number.svg/960px-Bundesautobahn_24_number.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Bundesautobahn_24"
+        }
+      },
+      {
+        "id": "berlin-restaurants-18",
+        "name": "Doner kebab",
+        "cityId": "berlin",
+        "categoryId": "restaurants",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Doner%20kebab%2C%20Berlin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Doner_kebab",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/D%C3%B6ner_kebab_slicing.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Doner_kebab"
+        }
+      }
+    ],
+    "bars": [
+      {
+        "id": "berlin-bars-1",
+        "name": "Golden Bear",
+        "cityId": "berlin",
+        "categoryId": "bars",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Golden%20Bear%2C%20Berlin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Golden_Bear",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/%C4%B0lker_%C3%87atak_at_the_2026_Berlin_International_Film_Festival-61847.jpg/960px-%C4%B0lker_%C3%87atak_at_the_2026_Berlin_International_Film_Festival-61847.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Golden_Bear"
+        }
+      },
+      {
+        "id": "berlin-bars-2",
+        "name": "Coat of arms of Berlin",
+        "cityId": "berlin",
+        "categoryId": "bars",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Coat%20of%20arms%20of%20Berlin%2C%20Berlin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Coat_of_arms_of_Berlin",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/DEU_Berlin_COA.svg/960px-DEU_Berlin_COA.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Coat_of_arms_of_Berlin"
+        }
+      },
+      {
+        "id": "berlin-bars-3",
+        "name": "United Buddy Bears",
+        "cityId": "berlin",
+        "categoryId": "bars",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=United%20Buddy%20Bears%2C%20Berlin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/United_Buddy_Bears",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/SHA_8164.JPG/960px-SHA_8164.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/United_Buddy_Bears"
+        }
+      },
+      {
+        "id": "berlin-bars-4",
+        "name": "Berghain",
+        "cityId": "berlin",
+        "categoryId": "bars",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Berghain%2C%20Berlin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Berghain",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Berlin_Berghain.jpg/960px-Berlin_Berghain.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Berghain"
+        }
+      },
+      {
+        "id": "berlin-bars-5",
+        "name": "TuS Makkabi Berlin",
+        "cityId": "berlin",
+        "categoryId": "bars",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=TuS%20Makkabi%20Berlin%2C%20Berlin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/TuS_Makkabi_Berlin",
+        "photo": null
+      },
+      {
+        "id": "berlin-bars-6",
+        "name": "Berlin outer ring",
+        "cityId": "berlin",
+        "categoryId": "bars",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Berlin%20outer%20ring%2C%20Berlin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Berlin_outer_ring",
+        "photo": null
+      },
+      {
+        "id": "berlin-bars-7",
+        "name": "Meir Bar-Ilan",
+        "cityId": "berlin",
+        "categoryId": "bars",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Meir%20Bar-Ilan%2C%20Berlin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Meir_Bar-Ilan",
+        "photo": null
+      },
+      {
+        "id": "berlin-bars-8",
+        "name": "Bar Timor",
+        "cityId": "berlin",
+        "categoryId": "bars",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Bar%20Timor%2C%20Berlin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Bar_Timor",
+        "photo": null
+      },
+      {
+        "id": "berlin-bars-9",
+        "name": "High jump",
+        "cityId": "berlin",
+        "categoryId": "bars",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=High%20jump%2C%20Berlin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/High_jump",
+        "photo": null
+      },
+      {
+        "id": "berlin-bars-10",
+        "name": "Hallo Berlin",
+        "cityId": "berlin",
+        "categoryId": "bars",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Hallo%20Berlin%2C%20Berlin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Hallo_Berlin",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Hallo_Berlin_2015.jpg/960px-Hallo_Berlin_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Hallo_Berlin"
+        }
+      },
+      {
+        "id": "berlin-bars-11",
+        "name": "Christoph Meyer",
+        "cityId": "berlin",
+        "categoryId": "bars",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Christoph%20Meyer%2C%20Berlin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Christoph_Meyer",
+        "photo": null
+      },
+      {
+        "id": "berlin-bars-12",
+        "name": "3rd Berlin International Film Festival",
+        "cityId": "berlin",
+        "categoryId": "bars",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=3rd%20Berlin%20International%20Film%20Festival%2C%20Berlin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/3rd_Berlin_International_Film_Festival",
+        "photo": null
+      },
+      {
+        "id": "berlin-bars-13",
+        "name": "Herbert Wollmann",
+        "cityId": "berlin",
+        "categoryId": "bars",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Herbert%20Wollmann%2C%20Berlin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Herbert_Wollmann",
+        "photo": null
+      },
+      {
+        "id": "berlin-bars-14",
+        "name": "Helmut Kleebank",
+        "cityId": "berlin",
+        "categoryId": "bars",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Helmut%20Kleebank%2C%20Berlin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Helmut_Kleebank",
+        "photo": null
+      },
+      {
+        "id": "berlin-bars-15",
+        "name": "Silver Bear for Best Screenplay",
+        "cityId": "berlin",
+        "categoryId": "bars",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Silver%20Bear%20for%20Best%20Screenplay%2C%20Berlin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Silver_Bear_for_Best_Screenplay",
+        "photo": null
+      },
+      {
+        "id": "berlin-bars-16",
+        "name": "Hakan Demir",
+        "cityId": "berlin",
+        "categoryId": "bars",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Hakan%20Demir%2C%20Berlin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Hakan_Demir_(politician)",
+        "photo": null
+      },
+      {
+        "id": "berlin-bars-17",
+        "name": "Daniela Kluckert",
+        "cityId": "berlin",
+        "categoryId": "bars",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Daniela%20Kluckert%2C%20Berlin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Daniela_Kluckert",
+        "photo": null
+      },
+      {
+        "id": "berlin-bars-18",
+        "name": "Naftali Zvi Yehuda Berlin",
+        "cityId": "berlin",
+        "categoryId": "bars",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Naftali%20Zvi%20Yehuda%20Berlin%2C%20Berlin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Naftali_Zvi_Yehuda_Berlin",
+        "photo": null
+      }
+    ],
+    "coffee_shops": [
+      {
+        "id": "berlin-coffee_shops-1",
+        "name": "Hallo Berlin",
+        "cityId": "berlin",
+        "categoryId": "coffee_shops",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Hallo%20Berlin%2C%20Berlin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Hallo_Berlin",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Hallo_Berlin_2015.jpg/960px-Hallo_Berlin_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Hallo_Berlin"
+        }
+      },
+      {
+        "id": "berlin-coffee_shops-2",
+        "name": "Kurfürstendamm station",
+        "cityId": "berlin",
+        "categoryId": "coffee_shops",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Kurf%C3%BCrstendamm%20station%2C%20Berlin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Kurf%C3%BCrstendamm_station",
+        "photo": null
+      },
+      {
+        "id": "berlin-coffee_shops-3",
+        "name": "Energy 52",
+        "cityId": "berlin",
+        "categoryId": "coffee_shops",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Energy%2052%2C%20Berlin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Energy_52",
+        "photo": null
+      },
+      {
+        "id": "berlin-coffee_shops-4",
+        "name": "Jeannie Berlin",
+        "cityId": "berlin",
+        "categoryId": "coffee_shops",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Jeannie%20Berlin%2C%20Berlin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Jeannie_Berlin",
+        "photo": null
+      },
+      {
+        "id": "berlin-coffee_shops-5",
+        "name": "Romanisches Café",
+        "cityId": "berlin",
+        "categoryId": "coffee_shops",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Romanisches%20Caf%C3%A9%2C%20Berlin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Romanisches_Caf%C3%A9",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Romanisches_Haus_in_Berlin.jpg/960px-Romanisches_Haus_in_Berlin.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Romanisches_Caf%C3%A9"
+        }
+      },
+      {
+        "id": "berlin-coffee_shops-6",
+        "name": "Potsdamer Platz",
+        "cityId": "berlin",
+        "categoryId": "coffee_shops",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Potsdamer%20Platz%2C%20Berlin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Potsdamer_Platz",
+        "photo": null
+      },
+      {
+        "id": "berlin-coffee_shops-7",
+        "name": "Café Kranzler",
+        "cityId": "berlin",
+        "categoryId": "coffee_shops",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Caf%C3%A9%20Kranzler%2C%20Berlin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Caf%C3%A9_Kranzler",
+        "photo": null
+      },
+      {
+        "id": "berlin-coffee_shops-8",
+        "name": "2009–10 Eurocup Basketball",
+        "cityId": "berlin",
+        "categoryId": "coffee_shops",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=2009%E2%80%9310%20Eurocup%20Basketball%2C%20Berlin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/2009%E2%80%9310_Eurocup_Basketball",
+        "photo": null
+      },
+      {
+        "id": "berlin-coffee_shops-9",
+        "name": "Café Josty",
+        "cityId": "berlin",
+        "categoryId": "coffee_shops",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Caf%C3%A9%20Josty%2C%20Berlin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Caf%C3%A9_Josty",
+        "photo": null
+      },
+      {
+        "id": "berlin-coffee_shops-10",
+        "name": "Rosa Valetti",
+        "cityId": "berlin",
+        "categoryId": "coffee_shops",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Rosa%20Valetti%2C%20Berlin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Rosa_Valetti",
+        "photo": null
+      },
+      {
+        "id": "berlin-coffee_shops-11",
+        "name": "Café des Westens",
+        "cityId": "berlin",
+        "categoryId": "coffee_shops",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Caf%C3%A9%20des%20Westens%2C%20Berlin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Caf%C3%A9_des_Westens",
+        "photo": null
+      },
+      {
+        "id": "berlin-coffee_shops-12",
+        "name": "Percy Adlon",
+        "cityId": "berlin",
+        "categoryId": "coffee_shops",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Percy%20Adlon%2C%20Berlin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Percy_Adlon",
+        "photo": null
+      },
+      {
+        "id": "berlin-coffee_shops-13",
+        "name": "Haus Vaterland",
+        "cityId": "berlin",
+        "categoryId": "coffee_shops",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Haus%20Vaterland%2C%20Berlin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Haus_Vaterland",
+        "photo": null
+      },
+      {
+        "id": "berlin-coffee_shops-14",
+        "name": "Hard Rock Cafe",
+        "cityId": "berlin",
+        "categoryId": "coffee_shops",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Hard%20Rock%20Cafe%2C%20Berlin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Hard_Rock_Cafe",
+        "photo": null
+      },
+      {
+        "id": "berlin-coffee_shops-15",
+        "name": "Kurfürstendamm",
+        "cityId": "berlin",
+        "categoryId": "coffee_shops",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Kurf%C3%BCrstendamm%2C%20Berlin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Kurf%C3%BCrstendamm",
+        "photo": null
+      },
+      {
+        "id": "berlin-coffee_shops-16",
+        "name": "Café Oriental",
+        "cityId": "berlin",
+        "categoryId": "coffee_shops",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Caf%C3%A9%20Oriental%2C%20Berlin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Caf%C3%A9_Oriental",
+        "photo": null
+      },
+      {
+        "id": "berlin-coffee_shops-17",
+        "name": "Peaches",
+        "cityId": "berlin",
+        "categoryId": "coffee_shops",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Peaches%2C%20Berlin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Peaches_(musician)",
+        "photo": null
+      },
+      {
+        "id": "berlin-coffee_shops-18",
+        "name": "The Ballad of the Sad Café",
+        "cityId": "berlin",
+        "categoryId": "coffee_shops",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Ballad%20of%20the%20Sad%20Caf%C3%A9%2C%20Berlin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/The_Ballad_of_the_Sad_Caf%C3%A9_(film)",
+        "photo": null
+      }
+    ],
+    "bookshops": [
+      {
+        "id": "berlin-bookshops-1",
+        "name": "Fred Basset Blair",
+        "cityId": "berlin",
+        "categoryId": "bookshops",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Fred%20Basset%20Blair%2C%20Berlin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Fred_Basset_Blair",
+        "photo": null
+      },
+      {
+        "id": "berlin-bookshops-2",
+        "name": "Akademische Verlagsgesellschaft",
+        "cityId": "berlin",
+        "categoryId": "bookshops",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Akademische%20Verlagsgesellschaft%2C%20Berlin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Akademische_Verlagsgesellschaft",
+        "photo": null
+      },
+      {
+        "id": "berlin-bookshops-3",
+        "name": "Julius Eduard Hitzig",
+        "cityId": "berlin",
+        "categoryId": "bookshops",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Julius%20Eduard%20Hitzig%2C%20Berlin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Julius_Eduard_Hitzig",
+        "photo": null
+      },
+      {
+        "id": "berlin-bookshops-4",
+        "name": "Ferdinand Gottlieb",
+        "cityId": "berlin",
+        "categoryId": "bookshops",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Ferdinand%20Gottlieb%2C%20Berlin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Ferdinand_Gottlieb",
+        "photo": null
+      },
+      {
+        "id": "berlin-bookshops-5",
+        "name": "MIT Press",
+        "cityId": "berlin",
+        "categoryId": "bookshops",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=MIT%20Press%2C%20Berlin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/MIT_Press",
+        "photo": null
+      },
+      {
+        "id": "berlin-bookshops-6",
+        "name": "Politics and Prose",
+        "cityId": "berlin",
+        "categoryId": "bookshops",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Politics%20and%20Prose%2C%20Berlin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Politics_and_Prose",
+        "photo": null
+      },
+      {
+        "id": "berlin-bookshops-7",
+        "name": "Legion Condor",
+        "cityId": "berlin",
+        "categoryId": "bookshops",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Legion%20Condor%2C%20Berlin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Legion_Condor_(film)",
+        "photo": null
+      },
+      {
+        "id": "berlin-bookshops-8",
+        "name": "Charles E. Cobb Jr.",
+        "cityId": "berlin",
+        "categoryId": "bookshops",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Charles%20E.%20Cobb%20Jr.%2C%20Berlin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Charles_E._Cobb_Jr.",
+        "photo": null
+      },
+      {
+        "id": "berlin-bookshops-9",
+        "name": "Emanuel Querido",
+        "cityId": "berlin",
+        "categoryId": "bookshops",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Emanuel%20Querido%2C%20Berlin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Emanuel_Querido",
+        "photo": null
+      },
+      {
+        "id": "berlin-bookshops-10",
+        "name": "Poetry reading",
+        "cityId": "berlin",
+        "categoryId": "bookshops",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Poetry%20reading%2C%20Berlin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Poetry_reading",
+        "photo": null
+      },
+      {
+        "id": "berlin-bookshops-11",
+        "name": "Berlin",
+        "cityId": "berlin",
+        "categoryId": "bookshops",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Berlin%2C%20Berlin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Berlin",
+        "photo": null
+      },
+      {
+        "id": "berlin-bookshops-12",
+        "name": "Kavi Gupta",
+        "cityId": "berlin",
+        "categoryId": "bookshops",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Kavi%20Gupta%2C%20Berlin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Kavi_Gupta",
+        "photo": null
+      },
+      {
+        "id": "berlin-bookshops-13",
+        "name": "Ludwig Mayer",
+        "cityId": "berlin",
+        "categoryId": "bookshops",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Ludwig%20Mayer%2C%20Berlin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Ludwig_Mayer_(bookseller)",
+        "photo": null
+      },
+      {
+        "id": "berlin-bookshops-14",
+        "name": "Chuffer Dandridge",
+        "cityId": "berlin",
+        "categoryId": "bookshops",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Chuffer%20Dandridge%2C%20Berlin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Chuffer_Dandridge",
+        "photo": null
+      },
+      {
+        "id": "berlin-bookshops-15",
+        "name": "Lempertz",
+        "cityId": "berlin",
+        "categoryId": "bookshops",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Lempertz%2C%20Berlin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Lempertz",
+        "photo": null
+      },
+      {
+        "id": "berlin-bookshops-16",
+        "name": "Jacob Dybwad",
+        "cityId": "berlin",
+        "categoryId": "bookshops",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Jacob%20Dybwad%2C%20Berlin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Jacob_Dybwad",
+        "photo": null
+      },
+      {
+        "id": "berlin-bookshops-17",
+        "name": "Neil Clarke",
+        "cityId": "berlin",
+        "categoryId": "bookshops",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Neil%20Clarke%2C%20Berlin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Neil_Clarke_(editor)",
+        "photo": null
+      },
+      {
+        "id": "berlin-bookshops-18",
+        "name": "De Gruyter Brill",
+        "cityId": "berlin",
+        "categoryId": "bookshops",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=De%20Gruyter%20Brill%2C%20Berlin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/De_Gruyter_Brill",
+        "photo": null
+      }
+    ],
+    "museums": [
+      {
+        "id": "berlin-museums-1",
+        "name": "Berlin",
+        "cityId": "berlin",
+        "categoryId": "museums",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Berlin%2C%20Berlin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Berlin",
+        "photo": null
+      },
+      {
+        "id": "berlin-museums-2",
+        "name": "Humboldt University of Berlin",
+        "cityId": "berlin",
+        "categoryId": "museums",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Humboldt%20University%20of%20Berlin%2C%20Berlin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Humboldt_University_of_Berlin",
+        "photo": null
+      },
+      {
+        "id": "berlin-museums-3",
+        "name": "Museum für Naturkunde Berlin",
+        "cityId": "berlin",
+        "categoryId": "museums",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Museum%20f%C3%BCr%20Naturkunde%20Berlin%2C%20Berlin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Museum_f%C3%BCr_Naturkunde_Berlin",
+        "photo": null
+      },
+      {
+        "id": "berlin-museums-4",
+        "name": "Pergamon Museum",
+        "cityId": "berlin",
+        "categoryId": "museums",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Pergamon%20Museum%2C%20Berlin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Pergamon_Museum",
+        "photo": null
+      },
+      {
+        "id": "berlin-museums-5",
+        "name": "Staatliche Museen zu Berlin",
+        "cityId": "berlin",
+        "categoryId": "museums",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Staatliche%20Museen%20zu%20Berlin%2C%20Berlin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Staatliche_Museen_zu_Berlin",
+        "photo": null
+      },
+      {
+        "id": "berlin-museums-6",
+        "name": "Museum Island",
+        "cityId": "berlin",
+        "categoryId": "museums",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Museum%20Island%2C%20Berlin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Museum_Island",
+        "photo": null
+      },
+      {
+        "id": "berlin-museums-7",
+        "name": "Altes Museum",
+        "cityId": "berlin",
+        "categoryId": "museums",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Altes%20Museum%2C%20Berlin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Altes_Museum",
+        "photo": null
+      },
+      {
+        "id": "berlin-museums-8",
+        "name": "Jewish Museum Berlin",
+        "cityId": "berlin",
+        "categoryId": "museums",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Jewish%20Museum%20Berlin%2C%20Berlin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Jewish_Museum_Berlin",
+        "photo": null
+      },
+      {
+        "id": "berlin-museums-9",
+        "name": "Gemäldegalerie, Berlin",
+        "cityId": "berlin",
+        "categoryId": "museums",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Gem%C3%A4ldegalerie%2C%20Berlin%2C%20Berlin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Gem%C3%A4ldegalerie%2C_Berlin",
+        "photo": null
+      },
+      {
+        "id": "berlin-museums-10",
+        "name": "Berlin State Opera",
+        "cityId": "berlin",
+        "categoryId": "museums",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Berlin%20State%20Opera%2C%20Berlin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Berlin_State_Opera",
+        "photo": null
+      },
+      {
+        "id": "berlin-museums-11",
+        "name": "Bode Museum",
+        "cityId": "berlin",
+        "categoryId": "museums",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Bode%20Museum%2C%20Berlin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Bode_Museum",
+        "photo": null
+      },
+      {
+        "id": "berlin-museums-12",
+        "name": "Museum of Islamic Art, Berlin",
+        "cityId": "berlin",
+        "categoryId": "museums",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Museum%20of%20Islamic%20Art%2C%20Berlin%2C%20Berlin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Museum_of_Islamic_Art%2C_Berlin",
+        "photo": null
+      },
+      {
+        "id": "berlin-museums-13",
+        "name": "Berlin Botanical Garden and Botanical Museum",
+        "cityId": "berlin",
+        "categoryId": "museums",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Berlin%20Botanical%20Garden%20and%20Botanical%20Museum%2C%20Berlin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Berlin_Botanical_Garden_and_Botanical_Museum",
+        "photo": null
+      },
+      {
+        "id": "berlin-museums-14",
+        "name": "German Historical Museum",
+        "cityId": "berlin",
+        "categoryId": "museums",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=German%20Historical%20Museum%2C%20Berlin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/German_Historical_Museum",
+        "photo": null
+      },
+      {
+        "id": "berlin-museums-15",
+        "name": "Neues Museum",
+        "cityId": "berlin",
+        "categoryId": "museums",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Neues%20Museum%2C%20Berlin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Neues_Museum",
+        "photo": null
+      },
+      {
+        "id": "berlin-museums-16",
+        "name": "Märkisches Museum station",
+        "cityId": "berlin",
+        "categoryId": "museums",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=M%C3%A4rkisches%20Museum%20station%2C%20Berlin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/M%C3%A4rkisches_Museum_station",
+        "photo": null
+      },
+      {
+        "id": "berlin-museums-17",
+        "name": "Kunstgewerbemuseum Berlin",
+        "cityId": "berlin",
+        "categoryId": "museums",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Kunstgewerbemuseum%20Berlin%2C%20Berlin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Kunstgewerbemuseum_Berlin",
+        "photo": null
+      },
+      {
+        "id": "berlin-museums-18",
+        "name": "Kupferstichkabinett Berlin",
+        "cityId": "berlin",
+        "categoryId": "museums",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Kupferstichkabinett%20Berlin%2C%20Berlin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Kupferstichkabinett_Berlin",
+        "photo": null
+      }
+    ],
+    "concerts": [
+      {
+        "id": "berlin-concerts-1",
+        "name": "Berliner Philharmonie",
+        "cityId": "berlin",
+        "categoryId": "concerts",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Berliner%20Philharmonie%2C%20Berlin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Berliner_Philharmonie",
+        "photo": null
+      },
+      {
+        "id": "berlin-concerts-2",
+        "name": "Konzerthaus Berlin",
+        "cityId": "berlin",
+        "categoryId": "concerts",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Konzerthaus%20Berlin%2C%20Berlin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Konzerthaus_Berlin",
+        "photo": null
+      },
+      {
+        "id": "berlin-concerts-3",
+        "name": "Digital Concert Hall",
+        "cityId": "berlin",
+        "categoryId": "concerts",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Digital%20Concert%20Hall%2C%20Berlin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Digital_Concert_Hall",
+        "photo": null
+      },
+      {
+        "id": "berlin-concerts-4",
+        "name": "Berlin Philharmonic",
+        "cityId": "berlin",
+        "categoryId": "concerts",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Berlin%20Philharmonic%2C%20Berlin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Berlin_Philharmonic",
+        "photo": null
+      },
+      {
+        "id": "berlin-concerts-5",
+        "name": "Musikverein",
+        "cityId": "berlin",
+        "categoryId": "concerts",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Musikverein%2C%20Berlin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Musikverein",
+        "photo": null
+      },
+      {
+        "id": "berlin-concerts-6",
+        "name": "Barenboim–Said Akademie",
+        "cityId": "berlin",
+        "categoryId": "concerts",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Barenboim%E2%80%93Said%20Akademie%2C%20Berlin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Barenboim%E2%80%93Said_Akademie",
+        "photo": null
+      },
+      {
+        "id": "berlin-concerts-7",
+        "name": "Alte Oper",
+        "cityId": "berlin",
+        "categoryId": "concerts",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Alte%20Oper%2C%20Berlin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Alte_Oper",
+        "photo": null
+      },
+      {
+        "id": "berlin-concerts-8",
+        "name": "Polish Baltic Philharmonic",
+        "cityId": "berlin",
+        "categoryId": "concerts",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Polish%20Baltic%20Philharmonic%2C%20Berlin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Polish_Baltic_Philharmonic",
+        "photo": null
+      },
+      {
+        "id": "berlin-concerts-9",
+        "name": "Symphony No. 12",
+        "cityId": "berlin",
+        "categoryId": "concerts",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Symphony%20No.%2012%2C%20Berlin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Symphony_No._12_(Glass)",
+        "photo": null
+      },
+      {
+        "id": "berlin-concerts-10",
+        "name": "Double Holy House",
+        "cityId": "berlin",
+        "categoryId": "concerts",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Double%20Holy%20House%2C%20Berlin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Double_Holy_House",
+        "photo": null
+      },
+      {
+        "id": "berlin-concerts-11",
+        "name": "Neue Welt",
+        "cityId": "berlin",
+        "categoryId": "concerts",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Neue%20Welt%2C%20Berlin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Neue_Welt_(Berlin)",
+        "photo": null
+      },
+      {
+        "id": "berlin-concerts-12",
+        "name": "Nailed",
+        "cityId": "berlin",
+        "categoryId": "concerts",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Nailed%2C%20Berlin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Nailed_(Cecil_Taylor_album)",
+        "photo": null
+      },
+      {
+        "id": "berlin-concerts-13",
+        "name": "Metropol",
+        "cityId": "berlin",
+        "categoryId": "concerts",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Metropol%2C%20Berlin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Metropol_(Berlin)",
+        "photo": null
+      },
+      {
+        "id": "berlin-concerts-14",
+        "name": "Melancholy",
+        "cityId": "berlin",
+        "categoryId": "concerts",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Melancholy%2C%20Berlin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Melancholy_(Cecil_Taylor_album)",
+        "photo": null
+      },
+      {
+        "id": "berlin-concerts-15",
+        "name": "Schiller Monument",
+        "cityId": "berlin",
+        "categoryId": "concerts",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Schiller%20Monument%2C%20Berlin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Schiller_Monument_(Berlin)",
+        "photo": null
+      },
+      {
+        "id": "berlin-concerts-16",
+        "name": "Gendarmenmarkt",
+        "cityId": "berlin",
+        "categoryId": "concerts",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Gendarmenmarkt%2C%20Berlin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Gendarmenmarkt",
+        "photo": null
+      },
+      {
+        "id": "berlin-concerts-17",
+        "name": "Kulturpalast",
+        "cityId": "berlin",
+        "categoryId": "concerts",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Kulturpalast%2C%20Berlin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Kulturpalast",
+        "photo": null
+      },
+      {
+        "id": "berlin-concerts-18",
+        "name": "Volker Wangenheim",
+        "cityId": "berlin",
+        "categoryId": "concerts",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Volker%20Wangenheim%2C%20Berlin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Volker_Wangenheim",
+        "photo": null
+      }
+    ],
+    "fashion": [
+      {
+        "id": "berlin-fashion-1",
+        "name": "Slaxx",
+        "cityId": "berlin",
+        "categoryId": "fashion",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Slaxx%2C%20Berlin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Slaxx",
+        "photo": null
+      },
+      {
+        "id": "berlin-fashion-2",
+        "name": "Tauentzienstraße",
+        "cityId": "berlin",
+        "categoryId": "fashion",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Tauentzienstra%C3%9Fe%2C%20Berlin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Tauentzienstra%C3%9Fe",
+        "photo": null
+      },
+      {
+        "id": "berlin-fashion-3",
+        "name": "Ilse Blumenthal-Weiss",
+        "cityId": "berlin",
+        "categoryId": "fashion",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Ilse%20Blumenthal-Weiss%2C%20Berlin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Ilse_Blumenthal-Weiss",
+        "photo": null
+      },
+      {
+        "id": "berlin-fashion-4",
+        "name": "Alexander's",
+        "cityId": "berlin",
+        "categoryId": "fashion",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Alexander's%2C%20Berlin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Alexander's_(disambiguation)",
+        "photo": null
+      },
+      {
+        "id": "berlin-fashion-5",
+        "name": "Hitler",
+        "cityId": "berlin",
+        "categoryId": "fashion",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Hitler%2C%20Berlin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Hitler_(disambiguation)",
+        "photo": null
+      },
+      {
+        "id": "berlin-fashion-6",
+        "name": "Stefan Brecht",
+        "cityId": "berlin",
+        "categoryId": "fashion",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Stefan%20Brecht%2C%20Berlin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Stefan_Brecht",
+        "photo": null
+      },
+      {
+        "id": "berlin-fashion-7",
+        "name": "Fler",
+        "cityId": "berlin",
+        "categoryId": "fashion",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Fler%2C%20Berlin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Fler",
+        "photo": null
+      },
+      {
+        "id": "berlin-fashion-8",
+        "name": "Henri Gourarier",
+        "cityId": "berlin",
+        "categoryId": "fashion",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Henri%20Gourarier%2C%20Berlin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Henri_Gourarier",
+        "photo": null
+      },
+      {
+        "id": "berlin-fashion-9",
+        "name": "Simon Tolkien",
+        "cityId": "berlin",
+        "categoryId": "fashion",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Simon%20Tolkien%2C%20Berlin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Simon_Tolkien",
+        "photo": null
+      },
+      {
+        "id": "berlin-fashion-10",
+        "name": "Berliner FC Dynamo",
+        "cityId": "berlin",
+        "categoryId": "fashion",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Berliner%20FC%20Dynamo%2C%20Berlin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Berliner_FC_Dynamo",
+        "photo": null
+      },
+      {
+        "id": "berlin-fashion-11",
+        "name": "Kurt Lichtenstein",
+        "cityId": "berlin",
+        "categoryId": "fashion",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Kurt%20Lichtenstein%2C%20Berlin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Kurt_Lichtenstein",
+        "photo": null
+      },
+      {
+        "id": "berlin-fashion-12",
+        "name": "Brunhilde Pomsel",
+        "cityId": "berlin",
+        "categoryId": "fashion",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Brunhilde%20Pomsel%2C%20Berlin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Brunhilde_Pomsel",
+        "photo": null
+      },
+      {
+        "id": "berlin-fashion-13",
+        "name": "The Other Side of Hope",
+        "cityId": "berlin",
+        "categoryId": "fashion",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Other%20Side%20of%20Hope%2C%20Berlin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/The_Other_Side_of_Hope",
+        "photo": null
+      },
+      {
+        "id": "berlin-fashion-14",
+        "name": "Julius S. Held",
+        "cityId": "berlin",
+        "categoryId": "fashion",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Julius%20S.%20Held%2C%20Berlin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Julius_S._Held",
+        "photo": null
+      },
+      {
+        "id": "berlin-fashion-15",
+        "name": "Charles Bally",
+        "cityId": "berlin",
+        "categoryId": "fashion",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Charles%20Bally%2C%20Berlin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Charles_Bally",
+        "photo": null
+      },
+      {
+        "id": "berlin-fashion-16",
+        "name": "Hülya Avşar",
+        "cityId": "berlin",
+        "categoryId": "fashion",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=H%C3%BClya%20Av%C5%9Far%2C%20Berlin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/H%C3%BClya_Av%C5%9Far",
+        "photo": null
+      },
+      {
+        "id": "berlin-fashion-17",
+        "name": "Hans Neumeyer",
+        "cityId": "berlin",
+        "categoryId": "fashion",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Hans%20Neumeyer%2C%20Berlin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Hans_Neumeyer",
+        "photo": null
+      },
+      {
+        "id": "berlin-fashion-18",
+        "name": "Kolel Chibas Yerushalayim",
+        "cityId": "berlin",
+        "categoryId": "fashion",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Kolel%20Chibas%20Yerushalayim%2C%20Berlin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Kolel_Chibas_Yerushalayim",
+        "photo": null
+      }
+    ],
+    "shops": [
+      {
+        "id": "berlin-shops-1",
+        "name": "Hotspot",
+        "cityId": "berlin",
+        "categoryId": "shops",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Hotspot%2C%20Berlin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Hotspot_(album)",
+        "photo": null
+      },
+      {
+        "id": "berlin-shops-2",
+        "name": "Rough Trade",
+        "cityId": "berlin",
+        "categoryId": "shops",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Rough%20Trade%2C%20Berlin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Rough_Trade_(shops)",
+        "photo": null
+      },
+      {
+        "id": "berlin-shops-3",
+        "name": "London",
+        "cityId": "berlin",
+        "categoryId": "shops",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=London%2C%20Berlin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/London_(Pet_Shop_Boys_song)",
+        "photo": null
+      },
+      {
+        "id": "berlin-shops-4",
+        "name": "FontShop International",
+        "cityId": "berlin",
+        "categoryId": "shops",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=FontShop%20International%2C%20Berlin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/FontShop_International",
+        "photo": null
+      },
+      {
+        "id": "berlin-shops-5",
+        "name": "Hallo Berlin",
+        "cityId": "berlin",
+        "categoryId": "shops",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Hallo%20Berlin%2C%20Berlin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Hallo_Berlin",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Hallo_Berlin_2015.jpg/960px-Hallo_Berlin_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Hallo_Berlin"
+        }
+      },
+      {
+        "id": "berlin-shops-6",
+        "name": ".shop",
+        "cityId": "berlin",
+        "categoryId": "shops",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=.shop%2C%20Berlin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/.shop",
+        "photo": null
+      },
+      {
+        "id": "berlin-shops-7",
+        "name": "Berlin–Ichthyosaur State Park",
+        "cityId": "berlin",
+        "categoryId": "shops",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Berlin%E2%80%93Ichthyosaur%20State%20Park%2C%20Berlin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Berlin%E2%80%93Ichthyosaur_State_Park",
+        "photo": null
+      },
+      {
+        "id": "berlin-shops-8",
+        "name": "Ernst Lubitsch",
+        "cityId": "berlin",
+        "categoryId": "shops",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Ernst%20Lubitsch%2C%20Berlin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Ernst_Lubitsch",
+        "photo": null
+      },
+      {
+        "id": "berlin-shops-9",
+        "name": "Dreamland",
+        "cityId": "berlin",
+        "categoryId": "shops",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Dreamland%2C%20Berlin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Dreamland_(Pet_Shop_Boys_song)",
+        "photo": null
+      },
+      {
+        "id": "berlin-shops-10",
+        "name": ".xyz",
+        "cityId": "berlin",
+        "categoryId": "shops",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=.xyz%2C%20Berlin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/.xyz",
+        "photo": null
+      },
+      {
+        "id": "berlin-shops-11",
+        "name": "Disco 3",
+        "cityId": "berlin",
+        "categoryId": "shops",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Disco%203%2C%20Berlin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Disco_3",
+        "photo": null
+      },
+      {
+        "id": "berlin-shops-12",
+        "name": "Kebab shop",
+        "cityId": "berlin",
+        "categoryId": "shops",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Kebab%20shop%2C%20Berlin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Kebab_shop",
+        "photo": null
+      },
+      {
+        "id": "berlin-shops-13",
+        "name": "Ausbesserungswerk",
+        "cityId": "berlin",
+        "categoryId": "shops",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Ausbesserungswerk%2C%20Berlin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Ausbesserungswerk",
+        "photo": null
+      },
+      {
+        "id": "berlin-shops-14",
+        "name": "Neil Tennant",
+        "cityId": "berlin",
+        "categoryId": "shops",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Neil%20Tennant%2C%20Berlin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Neil_Tennant",
+        "photo": null
+      },
+      {
+        "id": "berlin-shops-15",
+        "name": "Berlin Historic District",
+        "cityId": "berlin",
+        "categoryId": "shops",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Berlin%20Historic%20District%2C%20Berlin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Berlin_Historic_District_(Berlin%2C_Nevada)",
+        "photo": null
+      },
+      {
+        "id": "berlin-shops-16",
+        "name": "Natasha Kroll",
+        "cityId": "berlin",
+        "categoryId": "shops",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Natasha%20Kroll%2C%20Berlin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Natasha_Kroll",
+        "photo": null
+      },
+      {
+        "id": "berlin-shops-17",
+        "name": "Department store",
+        "cityId": "berlin",
+        "categoryId": "shops",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Department%20store%2C%20Berlin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Department_store",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/Bon_March%C3%A9%2C_Paris_-_interior_view.JPG/960px-Bon_March%C3%A9%2C_Paris_-_interior_view.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Department_store"
+        }
+      },
+      {
+        "id": "berlin-shops-18",
+        "name": "A Simple Noodle Story",
+        "cityId": "berlin",
+        "categoryId": "shops",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=A%20Simple%20Noodle%20Story%2C%20Berlin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/A_Simple_Noodle_Story",
+        "photo": null
+      }
+    ]
+  }
+}

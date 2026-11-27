@@ -1,0 +1,2328 @@
+{
+  "cityId": "seoul",
+  "generatedAt": "2026-11-27T08:30:03.303Z",
+  "source": "Wikipedia API + Maps URLs (sin scraping de Google)",
+  "incomplete": [],
+  "categories": {
+    "night_clubs": [
+      {
+        "id": "seoul-night_clubs-1",
+        "name": "Gay bar",
+        "cityId": "seoul",
+        "categoryId": "night_clubs",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Gay%20bar%2C%20Seoul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Gay_bar",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/09/Comptons-Of-Soho.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Gay_bar"
+        }
+      },
+      {
+        "id": "seoul-night_clubs-2",
+        "name": "Hines Ward",
+        "cityId": "seoul",
+        "categoryId": "night_clubs",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Hines%20Ward%2C%20Seoul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Hines_Ward",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/fd/HINESWARD2019.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Hines_Ward"
+        }
+      },
+      {
+        "id": "seoul-night_clubs-3",
+        "name": "Something Happened in Bali",
+        "cityId": "seoul",
+        "categoryId": "night_clubs",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Something%20Happened%20in%20Bali%2C%20Seoul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Something_Happened_in_Bali",
+        "photo": null
+      },
+      {
+        "id": "seoul-night_clubs-4",
+        "name": "Once Upon a Time",
+        "cityId": "seoul",
+        "categoryId": "night_clubs",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Once%20Upon%20a%20Time%2C%20Seoul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Once_Upon_a_Time_(2008_film)",
+        "photo": null
+      },
+      {
+        "id": "seoul-night_clubs-5",
+        "name": "Brilliant Legacy",
+        "cityId": "seoul",
+        "categoryId": "night_clubs",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Brilliant%20Legacy%2C%20Seoul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Brilliant_Legacy",
+        "photo": null
+      },
+      {
+        "id": "seoul-night_clubs-6",
+        "name": "Jazz club",
+        "cityId": "seoul",
+        "categoryId": "night_clubs",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Jazz%20club%2C%20Seoul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Jazz_club",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/Louis_Moholo_Quintet.jpg/960px-Louis_Moholo_Quintet.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Jazz_club"
+        }
+      },
+      {
+        "id": "seoul-night_clubs-7",
+        "name": "Seungri",
+        "cityId": "seoul",
+        "categoryId": "night_clubs",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Seungri%2C%20Seoul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Seungri",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Seungri_-_Made_Tour_Final.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Seungri"
+        }
+      },
+      {
+        "id": "seoul-night_clubs-8",
+        "name": "Redd Foxx",
+        "cityId": "seoul",
+        "categoryId": "night_clubs",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Redd%20Foxx%2C%20Seoul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Redd_Foxx",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Redd_Foxx_1966.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Redd_Foxx"
+        }
+      },
+      {
+        "id": "seoul-night_clubs-9",
+        "name": "Itaewon",
+        "cityId": "seoul",
+        "categoryId": "night_clubs",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Itaewon%2C%20Seoul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Itaewon",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Itaewon_2.jpg/960px-Itaewon_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Itaewon"
+        }
+      },
+      {
+        "id": "seoul-night_clubs-10",
+        "name": "Hotelier",
+        "cityId": "seoul",
+        "categoryId": "night_clubs",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Hotelier%2C%20Seoul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Hotelier_(South_Korean_TV_series)",
+        "photo": null
+      },
+      {
+        "id": "seoul-night_clubs-11",
+        "name": "The Worst of Evil",
+        "cityId": "seoul",
+        "categoryId": "night_clubs",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Worst%20of%20Evil%2C%20Seoul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/The_Worst_of_Evil",
+        "photo": null
+      },
+      {
+        "id": "seoul-night_clubs-12",
+        "name": "Olympic Village",
+        "cityId": "seoul",
+        "categoryId": "night_clubs",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Olympic%20Village%2C%20Seoul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Olympic_Village_(Seoul)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/%EC%98%AC%EB%A6%BC%ED%94%BD_%ED%94%84%EB%9D%BC%EC%9E%90_%EC%83%81%EA%B0%80_-_panoramio.jpg/960px-%EC%98%AC%EB%A6%BC%ED%94%BD_%ED%94%84%EB%9D%BC%EC%9E%90_%EC%83%81%EA%B0%80_-_panoramio.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Olympic_Village_(Seoul)"
+        }
+      },
+      {
+        "id": "seoul-night_clubs-13",
+        "name": "Seoul Vibe",
+        "cityId": "seoul",
+        "categoryId": "night_clubs",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Seoul%20Vibe%2C%20Seoul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Seoul_Vibe",
+        "photo": null
+      },
+      {
+        "id": "seoul-night_clubs-14",
+        "name": "Indians in Korea",
+        "cityId": "seoul",
+        "categoryId": "night_clubs",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Indians%20in%20Korea%2C%20Seoul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Indians_in_Korea",
+        "photo": null
+      },
+      {
+        "id": "seoul-night_clubs-15",
+        "name": "Lovers",
+        "cityId": "seoul",
+        "categoryId": "night_clubs",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Lovers%2C%20Seoul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Lovers_(South_Korean_TV_series)",
+        "photo": null
+      },
+      {
+        "id": "seoul-night_clubs-16",
+        "name": "Harisu",
+        "cityId": "seoul",
+        "categoryId": "night_clubs",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Harisu%2C%20Seoul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Harisu",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/2018_LBMA_STAR_%EB%9D%BC%EB%B0%94%EC%9A%B0%EB%A8%BC_%ED%8C%A8%EC%85%98%EC%87%BC_%282%29.jpg/960px-2018_LBMA_STAR_%EB%9D%BC%EB%B0%94%EC%9A%B0%EB%A8%BC_%ED%8C%A8%EC%85%98%EC%87%BC_%282%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Harisu"
+        }
+      },
+      {
+        "id": "seoul-night_clubs-17",
+        "name": "Awaken",
+        "cityId": "seoul",
+        "categoryId": "night_clubs",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Awaken%2C%20Seoul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Awaken_(TV_series)",
+        "photo": null
+      },
+      {
+        "id": "seoul-night_clubs-18",
+        "name": "Wheesung",
+        "cityId": "seoul",
+        "categoryId": "night_clubs",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Wheesung%2C%20Seoul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Wheesung",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/181003_%ED%9C%98%EC%84%B1_%22%EC%82%AC%EB%9E%91%EC%9D%80_%EB%A7%9B%EC%9E%88%EB%8B%A4%22_%ED%99%94%EC%84%B1%EC%8B%9C%2C_%EB%AC%B8%ED%99%94%EB%A5%BC_%ED%8E%BC%EC%B9%98%EB%8B%A4_%EA%B3%B5%EC%97%B0.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Wheesung"
+        }
+      }
+    ],
+    "restaurants": [
+      {
+        "id": "seoul-restaurants-1",
+        "name": "SMT House",
+        "cityId": "seoul",
+        "categoryId": "restaurants",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=SMT%20House%2C%20Seoul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/SMT_House",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/44/SMT_HOUSE_Logo.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/SMT_House"
+        }
+      },
+      {
+        "id": "seoul-restaurants-2",
+        "name": "SM F&B Development",
+        "cityId": "seoul",
+        "categoryId": "restaurants",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=SM%20F%26B%20Development%2C%20Seoul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/SM_F%26B_Development",
+        "photo": null
+      },
+      {
+        "id": "seoul-restaurants-3",
+        "name": "White Spot",
+        "cityId": "seoul",
+        "categoryId": "restaurants",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=White%20Spot%2C%20Seoul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/White_Spot",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/A_Chevron_in_Chilliwack.jpg/960px-A_Chevron_in_Chilliwack.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/White_Spot"
+        }
+      },
+      {
+        "id": "seoul-restaurants-4",
+        "name": "Drug Restaurant",
+        "cityId": "seoul",
+        "categoryId": "restaurants",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Drug%20Restaurant%2C%20Seoul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Drug_Restaurant",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Jeong_Jun_Young_Band_%28%EC%A0%95%EC%A4%80%EC%98%81%EB%B0%B4%EB%93%9C%29_at_2015_Summer_K-POP_Festival.jpg/960px-Jeong_Jun_Young_Band_%28%EC%A0%95%EC%A4%80%EC%98%81%EB%B0%B4%EB%93%9C%29_at_2015_Summer_K-POP_Festival.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Drug_Restaurant"
+        }
+      },
+      {
+        "id": "seoul-restaurants-5",
+        "name": "Lotte World Tower",
+        "cityId": "seoul",
+        "categoryId": "restaurants",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Lotte%20World%20Tower%2C%20Seoul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Lotte_World_Tower",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/en/thumb/2/28/Lotte_World_Tower_day_view_10.jpg/960px-Lotte_World_Tower_day_view_10.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Lotte_World_Tower"
+        }
+      },
+      {
+        "id": "seoul-restaurants-6",
+        "name": "Smith & Wollensky",
+        "cityId": "seoul",
+        "categoryId": "restaurants",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Smith%20%26%20Wollensky%2C%20Seoul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Smith_%26_Wollensky",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Smith_%26_Wollensky_%2855273935820%29.jpg/960px-Smith_%26_Wollensky_%2855273935820%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Smith_%26_Wollensky"
+        }
+      },
+      {
+        "id": "seoul-restaurants-7",
+        "name": "Late Night Restaurant",
+        "cityId": "seoul",
+        "categoryId": "restaurants",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Late%20Night%20Restaurant%2C%20Seoul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Late_Night_Restaurant",
+        "photo": null
+      },
+      {
+        "id": "seoul-restaurants-8",
+        "name": "Pelicana Chicken",
+        "cityId": "seoul",
+        "categoryId": "restaurants",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Pelicana%20Chicken%2C%20Seoul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Pelicana_Chicken",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/PelicanaChickenShanghai.jpg/960px-PelicanaChickenShanghai.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Pelicana_Chicken"
+        }
+      },
+      {
+        "id": "seoul-restaurants-9",
+        "name": "Lotteria",
+        "cityId": "seoul",
+        "categoryId": "restaurants",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Lotteria%2C%20Seoul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Lotteria",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Lotteria_Japan_2006.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Lotteria"
+        }
+      },
+      {
+        "id": "seoul-restaurants-10",
+        "name": "Channel A",
+        "cityId": "seoul",
+        "categoryId": "restaurants",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Channel%20A%2C%20Seoul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Channel_A_(TV_channel)",
+        "photo": null
+      },
+      {
+        "id": "seoul-restaurants-11",
+        "name": "VIPS",
+        "cityId": "seoul",
+        "categoryId": "restaurants",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=VIPS%2C%20Seoul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/VIPS_(South_Korean_restaurant)",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/en/2/22/VIPS_restaurant_logo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/VIPS_(South_Korean_restaurant)"
+        }
+      },
+      {
+        "id": "seoul-restaurants-12",
+        "name": "Okryu-gwan",
+        "cityId": "seoul",
+        "categoryId": "restaurants",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Okryu-gwan%2C%20Seoul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Okryu-gwan",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Okryu_Restaurant_in_Pyongyang.jpg/960px-Okryu_Restaurant_in_Pyongyang.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Okryu-gwan"
+        }
+      },
+      {
+        "id": "seoul-restaurants-13",
+        "name": "Gahoe-dong",
+        "cityId": "seoul",
+        "categoryId": "restaurants",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Gahoe-dong%2C%20Seoul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Gahoe-dong",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Korea_Gaheedong_Catholic_Church_20140424_05_%2814042429885%29.jpg/960px-Korea_Gaheedong_Catholic_Church_20140424_05_%2814042429885%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Gahoe-dong"
+        }
+      },
+      {
+        "id": "seoul-restaurants-14",
+        "name": "Saemaeul-ho",
+        "cityId": "seoul",
+        "categoryId": "restaurants",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Saemaeul-ho%2C%20Seoul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Saemaeul-ho",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/Korail_Mugunghwa_7300%2C_Guro_%2820240403b%29_%2854220538831%29.jpg/960px-Korail_Mugunghwa_7300%2C_Guro_%2820240403b%29_%2854220538831%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Saemaeul-ho"
+        }
+      },
+      {
+        "id": "seoul-restaurants-15",
+        "name": "Trade Tower",
+        "cityId": "seoul",
+        "categoryId": "restaurants",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Trade%20Tower%2C%20Seoul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Trade_Tower",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/en/4/49/Trade_Tower_in_Gangnam_district%2C_Seoul.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Trade_Tower"
+        }
+      },
+      {
+        "id": "seoul-restaurants-16",
+        "name": "Jung Joon-young",
+        "cityId": "seoul",
+        "categoryId": "restaurants",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Jung%20Joon-young%2C%20Seoul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Jung_Joon-young",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e5/160511_Jung_Joon-young.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Jung_Joon-young"
+        }
+      },
+      {
+        "id": "seoul-restaurants-17",
+        "name": "Jongno Tower",
+        "cityId": "seoul",
+        "categoryId": "restaurants",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Jongno%20Tower%2C%20Seoul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Jongno_Tower",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/en/thumb/5/59/Night_view_of_Downtown_Seoul_around_Jongno_Tower_in_2020.jpg/960px-Night_view_of_Downtown_Seoul_around_Jongno_Tower_in_2020.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Jongno_Tower"
+        }
+      },
+      {
+        "id": "seoul-restaurants-18",
+        "name": "Only You",
+        "cityId": "seoul",
+        "categoryId": "restaurants",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Only%20You%2C%20Seoul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Only_You_(2005_TV_series)",
+        "photo": null
+      }
+    ],
+    "bars": [
+      {
+        "id": "seoul-bars-1",
+        "name": "Vladimir Artemov",
+        "cityId": "seoul",
+        "categoryId": "bars",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Vladimir%20Artemov%2C%20Seoul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Vladimir_Artemov",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Artemov_%28Bercy_1988%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Vladimir_Artemov"
+        }
+      },
+      {
+        "id": "seoul-bars-2",
+        "name": "Dmitry Bilozerchev",
+        "cityId": "seoul",
+        "categoryId": "bars",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Dmitry%20Bilozerchev%2C%20Seoul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Dmitry_Bilozerchev",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/08/Dmitry_Bilozerchev_1987.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Dmitry_Bilozerchev"
+        }
+      },
+      {
+        "id": "seoul-bars-3",
+        "name": "Valeri Liukin",
+        "cityId": "seoul",
+        "categoryId": "bars",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Valeri%20Liukin%2C%20Seoul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Valeri_Liukin",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/Valeri_Liukin_-_2026_American_Cup.jpg/960px-Valeri_Liukin_-_2026_American_Cup.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Valeri_Liukin"
+        }
+      },
+      {
+        "id": "seoul-bars-4",
+        "name": "Holger Behrendt",
+        "cityId": "seoul",
+        "categoryId": "bars",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Holger%20Behrendt%2C%20Seoul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Holger_Behrendt",
+        "photo": null
+      },
+      {
+        "id": "seoul-bars-5",
+        "name": "Lotte World Tower",
+        "cityId": "seoul",
+        "categoryId": "bars",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Lotte%20World%20Tower%2C%20Seoul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Lotte_World_Tower",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/en/thumb/2/28/Lotte_World_Tower_day_view_10.jpg/960px-Lotte_World_Tower_day_view_10.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Lotte_World_Tower"
+        }
+      },
+      {
+        "id": "seoul-bars-6",
+        "name": "Kevin Na",
+        "cityId": "seoul",
+        "categoryId": "bars",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Kevin%20Na%2C%20Seoul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Kevin_Na",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Kevin_Na_-_2018.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Kevin_Na"
+        }
+      },
+      {
+        "id": "seoul-bars-7",
+        "name": "Iceland at the Paralympics",
+        "cityId": "seoul",
+        "categoryId": "bars",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Iceland%20at%20the%20Paralympics%2C%20Seoul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Iceland_at_the_Paralympics",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Iceland.svg/960px-Flag_of_Iceland.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Iceland_at_the_Paralympics"
+        }
+      },
+      {
+        "id": "seoul-bars-8",
+        "name": "Sergey Kharkov",
+        "cityId": "seoul",
+        "categoryId": "bars",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Sergey%20Kharkov%2C%20Seoul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Sergey_Kharkov",
+        "photo": null
+      },
+      {
+        "id": "seoul-bars-9",
+        "name": "Jongno Tower",
+        "cityId": "seoul",
+        "categoryId": "bars",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Jongno%20Tower%2C%20Seoul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Jongno_Tower",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/en/thumb/5/59/Night_view_of_Downtown_Seoul_around_Jongno_Tower_in_2020.jpg/960px-Night_view_of_Downtown_Seoul_around_Jongno_Tower_in_2020.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Jongno_Tower"
+        }
+      },
+      {
+        "id": "seoul-bars-10",
+        "name": "Law schools in South Korea",
+        "cityId": "seoul",
+        "categoryId": "bars",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Law%20schools%20in%20South%20Korea%2C%20Seoul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Law_schools_in_South_Korea",
+        "photo": null
+      },
+      {
+        "id": "seoul-bars-11",
+        "name": "Squatting in South Korea",
+        "cityId": "seoul",
+        "categoryId": "bars",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Squatting%20in%20South%20Korea%2C%20Seoul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Squatting_in_South_Korea",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Republic_of_Korea_%28orthographic_projection%29.svg/960px-Republic_of_Korea_%28orthographic_projection%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Squatting_in_South_Korea"
+        }
+      },
+      {
+        "id": "seoul-bars-12",
+        "name": "Li Ning",
+        "cityId": "seoul",
+        "categoryId": "bars",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Li%20Ning%2C%20Seoul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Li_Ning",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Li_Ling_during_2008_Summer_Olympics_opening_ceremony.jpg/960px-Li_Ling_during_2008_Summer_Olympics_opening_ceremony.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Li_Ning"
+        }
+      },
+      {
+        "id": "seoul-bars-13",
+        "name": "1988 Summer Olympics",
+        "cityId": "seoul",
+        "categoryId": "bars",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=1988%20Summer%20Olympics%2C%20Seoul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/1988_Summer_Olympics",
+        "photo": null
+      },
+      {
+        "id": "seoul-bars-14",
+        "name": "The Day He Arrives",
+        "cityId": "seoul",
+        "categoryId": "bars",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Day%20He%20Arrives%2C%20Seoul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/The_Day_He_Arrives",
+        "photo": null
+      },
+      {
+        "id": "seoul-bars-15",
+        "name": "Once",
+        "cityId": "seoul",
+        "categoryId": "bars",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Once%2C%20Seoul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Once_(musical)",
+        "photo": null
+      },
+      {
+        "id": "seoul-bars-16",
+        "name": "Namsan Seoul Tower",
+        "cityId": "seoul",
+        "categoryId": "bars",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Namsan%20Seoul%20Tower%2C%20Seoul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Namsan_Seoul_Tower",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/en/a/a6/NamsanTower_%28Cropped%29.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Namsan_Seoul_Tower"
+        }
+      },
+      {
+        "id": "seoul-bars-17",
+        "name": "Chrome Entertainment",
+        "cityId": "seoul",
+        "categoryId": "bars",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Chrome%20Entertainment%2C%20Seoul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Chrome_Entertainment",
+        "photo": null
+      },
+      {
+        "id": "seoul-bars-18",
+        "name": "Colossal",
+        "cityId": "seoul",
+        "categoryId": "bars",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Colossal%2C%20Seoul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Colossal_(film)",
+        "photo": null
+      }
+    ],
+    "coffee_shops": [
+      {
+        "id": "seoul-coffee_shops-1",
+        "name": "Lotte World Tower",
+        "cityId": "seoul",
+        "categoryId": "coffee_shops",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Lotte%20World%20Tower%2C%20Seoul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Lotte_World_Tower",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/en/thumb/2/28/Lotte_World_Tower_day_view_10.jpg/960px-Lotte_World_Tower_day_view_10.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Lotte_World_Tower"
+        }
+      },
+      {
+        "id": "seoul-coffee_shops-2",
+        "name": "SMT House",
+        "cityId": "seoul",
+        "categoryId": "coffee_shops",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=SMT%20House%2C%20Seoul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/SMT_House",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/44/SMT_HOUSE_Logo.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/SMT_House"
+        }
+      },
+      {
+        "id": "seoul-coffee_shops-3",
+        "name": "Konnect Entertainment",
+        "cityId": "seoul",
+        "categoryId": "coffee_shops",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Konnect%20Entertainment%2C%20Seoul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Konnect_Entertainment",
+        "photo": null
+      },
+      {
+        "id": "seoul-coffee_shops-4",
+        "name": "Paris Baguette",
+        "cityId": "seoul",
+        "categoryId": "coffee_shops",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Paris%20Baguette%2C%20Seoul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Paris_Baguette",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/82/ParisBaguette.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Paris_Baguette"
+        }
+      },
+      {
+        "id": "seoul-coffee_shops-5",
+        "name": "2022 KBS Drama Awards",
+        "cityId": "seoul",
+        "categoryId": "coffee_shops",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=2022%20KBS%20Drama%20Awards%2C%20Seoul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/2022_KBS_Drama_Awards",
+        "photo": null
+      },
+      {
+        "id": "seoul-coffee_shops-6",
+        "name": "Gahoe-dong",
+        "cityId": "seoul",
+        "categoryId": "coffee_shops",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Gahoe-dong%2C%20Seoul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Gahoe-dong",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Korea_Gaheedong_Catholic_Church_20140424_05_%2814042429885%29.jpg/960px-Korea_Gaheedong_Catholic_Church_20140424_05_%2814042429885%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Gahoe-dong"
+        }
+      },
+      {
+        "id": "seoul-coffee_shops-7",
+        "name": "Seokchon Lake Park",
+        "cityId": "seoul",
+        "categoryId": "coffee_shops",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Seokchon%20Lake%20Park%2C%20Seoul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Seokchon_Lake_Park",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Lotte_World_day_view_10.jpg/960px-Lotte_World_day_view_10.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Seokchon_Lake_Park"
+        }
+      },
+      {
+        "id": "seoul-coffee_shops-8",
+        "name": "Bundang District",
+        "cityId": "seoul",
+        "categoryId": "coffee_shops",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Bundang%20District%2C%20Seoul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Bundang_District",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Seongnam-2013.jpg/960px-Seongnam-2013.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Bundang_District"
+        }
+      },
+      {
+        "id": "seoul-coffee_shops-9",
+        "name": "Art Sonje Center",
+        "cityId": "seoul",
+        "categoryId": "coffee_shops",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Art%20Sonje%20Center%2C%20Seoul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Art_Sonje_Center",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/ArtSonje_Center_November_2015.jpg/960px-ArtSonje_Center_November_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Art_Sonje_Center"
+        }
+      },
+      {
+        "id": "seoul-coffee_shops-10",
+        "name": "Lee Se-young",
+        "cityId": "seoul",
+        "categoryId": "coffee_shops",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Lee%20Se-young%2C%20Seoul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Lee_Se-young",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/LEE_Se-young_at_2026_Busan_International_Film_Festival_16.jpg/960px-LEE_Se-young_at_2026_Busan_International_Film_Festival_16.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Lee_Se-young"
+        }
+      },
+      {
+        "id": "seoul-coffee_shops-11",
+        "name": "Musée Grévin",
+        "cityId": "seoul",
+        "categoryId": "coffee_shops",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Mus%C3%A9e%20Gr%C3%A9vin%2C%20Seoul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Mus%C3%A9e_Gr%C3%A9vin",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/Grevin_musee_facade.jpg/960px-Grevin_musee_facade.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Mus%C3%A9e_Gr%C3%A9vin"
+        }
+      },
+      {
+        "id": "seoul-coffee_shops-12",
+        "name": "Yozoh",
+        "cityId": "seoul",
+        "categoryId": "coffee_shops",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Yozoh%2C%20Seoul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Yozoh",
+        "photo": null
+      },
+      {
+        "id": "seoul-coffee_shops-13",
+        "name": "Jjimjilbang",
+        "cityId": "seoul",
+        "categoryId": "coffee_shops",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Jjimjilbang%2C%20Seoul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Jjimjilbang",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Jjimjilbang.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Jjimjilbang"
+        }
+      },
+      {
+        "id": "seoul-coffee_shops-14",
+        "name": "Hangang Park",
+        "cityId": "seoul",
+        "categoryId": "coffee_shops",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Hangang%20Park%2C%20Seoul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Hangang_Park",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Hangang_Park_Overview_201604.jpg/960px-Hangang_Park_Overview_201604.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Hangang_Park"
+        }
+      },
+      {
+        "id": "seoul-coffee_shops-15",
+        "name": "Greena Park",
+        "cityId": "seoul",
+        "categoryId": "coffee_shops",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Greena%20Park%2C%20Seoul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Greena_Park",
+        "photo": null
+      },
+      {
+        "id": "seoul-coffee_shops-16",
+        "name": "SM Entertainment",
+        "cityId": "seoul",
+        "categoryId": "coffee_shops",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=SM%20Entertainment%2C%20Seoul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/SM_Entertainment",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/SM_Entertainment_Logo.svg/960px-SM_Entertainment_Logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/SM_Entertainment"
+        }
+      },
+      {
+        "id": "seoul-coffee_shops-17",
+        "name": "Seoul International Cafe Show",
+        "cityId": "seoul",
+        "categoryId": "coffee_shops",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Seoul%20International%20Cafe%20Show%2C%20Seoul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Seoul_International_Cafe_Show",
+        "photo": null
+      },
+      {
+        "id": "seoul-coffee_shops-18",
+        "name": "Squatting in South Korea",
+        "cityId": "seoul",
+        "categoryId": "coffee_shops",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Squatting%20in%20South%20Korea%2C%20Seoul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Squatting_in_South_Korea",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Republic_of_Korea_%28orthographic_projection%29.svg/960px-Republic_of_Korea_%28orthographic_projection%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Squatting_in_South_Korea"
+        }
+      }
+    ],
+    "bookshops": [
+      {
+        "id": "seoul-bookshops-1",
+        "name": "Central City",
+        "cityId": "seoul",
+        "categoryId": "bookshops",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Central%20City%2C%20Seoul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Central_City_(Seoul)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/%EB%B0%98%ED%8F%AC%ED%84%B0%EB%AF%B8%EB%84%90_%EC%A0%84%EA%B2%BD.jpg/960px-%EB%B0%98%ED%8F%AC%ED%84%B0%EB%AF%B8%EB%84%90_%EC%A0%84%EA%B2%BD.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Central_City_(Seoul)"
+        }
+      },
+      {
+        "id": "seoul-bookshops-2",
+        "name": "Kyobo Book Centre",
+        "cityId": "seoul",
+        "categoryId": "bookshops",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Kyobo%20Book%20Centre%2C%20Seoul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Kyobo_Book_Centre",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Kyobo_Book_Centre_-_Gwanghwamun_Branch.JPG/960px-Kyobo_Book_Centre_-_Gwanghwamun_Branch.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Kyobo_Book_Centre"
+        }
+      },
+      {
+        "id": "seoul-bookshops-3",
+        "name": "Starfield COEX Mall",
+        "cityId": "seoul",
+        "categoryId": "bookshops",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Starfield%20COEX%20Mall%2C%20Seoul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Starfield_COEX_Mall",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Starfield_Library.jpg/960px-Starfield_Library.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Starfield_COEX_Mall"
+        }
+      },
+      {
+        "id": "seoul-bookshops-4",
+        "name": "Jongno",
+        "cityId": "seoul",
+        "categoryId": "bookshops",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Jongno%2C%20Seoul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Jongno",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Downtown_Seoul_along_Jongno_Street_in_2020.jpg/960px-Downtown_Seoul_along_Jongno_Street_in_2020.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Jongno"
+        }
+      },
+      {
+        "id": "seoul-bookshops-5",
+        "name": "MoMA Bookstore",
+        "cityId": "seoul",
+        "categoryId": "bookshops",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=MoMA%20Bookstore%2C%20Seoul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/MoMA_Bookstore",
+        "photo": null
+      },
+      {
+        "id": "seoul-bookshops-6",
+        "name": "Itaewon Books",
+        "cityId": "seoul",
+        "categoryId": "bookshops",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Itaewon%20Books%2C%20Seoul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Itaewon_Books",
+        "photo": null
+      },
+      {
+        "id": "seoul-bookshops-7",
+        "name": "Nol Universe",
+        "cityId": "seoul",
+        "categoryId": "bookshops",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Nol%20Universe%2C%20Seoul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Nol_Universe",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Global_interpark_logo.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Nol_Universe"
+        }
+      },
+      {
+        "id": "seoul-bookshops-8",
+        "name": "Dongyang Bookstore",
+        "cityId": "seoul",
+        "categoryId": "bookshops",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Dongyang%20Bookstore%2C%20Seoul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Dongyang_Bookstore",
+        "photo": null
+      },
+      {
+        "id": "seoul-bookshops-9",
+        "name": "Nodeulseom",
+        "cityId": "seoul",
+        "categoryId": "bookshops",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Nodeulseom%2C%20Seoul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Nodeulseom",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Korea_A_View_From_Dongjakdaegyo_09_%2814855697222%29.jpg/960px-Korea_A_View_From_Dongjakdaegyo_09_%2814855697222%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Nodeulseom"
+        }
+      },
+      {
+        "id": "seoul-bookshops-10",
+        "name": "Alone in Love",
+        "cityId": "seoul",
+        "categoryId": "bookshops",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Alone%20in%20Love%2C%20Seoul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Alone_in_Love",
+        "photo": null
+      },
+      {
+        "id": "seoul-bookshops-11",
+        "name": "Book Off",
+        "cityId": "seoul",
+        "categoryId": "bookshops",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Book%20Off%2C%20Seoul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Book_Off",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Book_off.jpg/960px-Book_off.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Book_Off"
+        }
+      },
+      {
+        "id": "seoul-bookshops-12",
+        "name": "Jongno Seojeok",
+        "cityId": "seoul",
+        "categoryId": "bookshops",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Jongno%20Seojeok%2C%20Seoul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Jongno_Seojeok",
+        "photo": null
+      },
+      {
+        "id": "seoul-bookshops-13",
+        "name": "Express Bus Terminal station",
+        "cityId": "seoul",
+        "categoryId": "bookshops",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Express%20Bus%20Terminal%20station%2C%20Seoul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Express_Bus_Terminal_station",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/20250721_7%ED%98%B8%EC%84%A0_%EA%B3%A0%EC%86%8D%ED%84%B0%EB%AF%B8%EB%84%90%EC%97%AD_%EC%8A%B9%EA%B0%95%EC%9E%A5.jpg/960px-20250721_7%ED%98%B8%EC%84%A0_%EA%B3%A0%EC%86%8D%ED%84%B0%EB%AF%B8%EB%84%90%EC%97%AD_%EC%8A%B9%EA%B0%95%EC%9E%A5.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Express_Bus_Terminal_station"
+        }
+      },
+      {
+        "id": "seoul-bookshops-14",
+        "name": "Insa-dong",
+        "cityId": "seoul",
+        "categoryId": "bookshops",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Insa-dong%2C%20Seoul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Insa-dong",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Insa-dong_%EC%9D%B8%EC%82%AC%EB%8F%99_October_1_2020_20.jpg/960px-Insa-dong_%EC%9D%B8%EC%82%AC%EB%8F%99_October_1_2020_20.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Insa-dong"
+        }
+      },
+      {
+        "id": "seoul-bookshops-15",
+        "name": "Ewha Womans University Press",
+        "cityId": "seoul",
+        "categoryId": "bookshops",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Ewha%20Womans%20University%20Press%2C%20Seoul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Ewha_Womans_University_Press",
+        "photo": null
+      },
+      {
+        "id": "seoul-bookshops-16",
+        "name": "Itaewon",
+        "cityId": "seoul",
+        "categoryId": "bookshops",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Itaewon%2C%20Seoul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Itaewon",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Itaewon_2.jpg/960px-Itaewon_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Itaewon"
+        }
+      },
+      {
+        "id": "seoul-bookshops-17",
+        "name": "International Finance Center Seoul",
+        "cityId": "seoul",
+        "categoryId": "bookshops",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=International%20Finance%20Center%20Seoul%2C%20Seoul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/International_Finance_Center_Seoul",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/en/thumb/0/0b/International_Finance_Center_Seoul.jpg/960px-International_Finance_Center_Seoul.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/International_Finance_Center_Seoul"
+        }
+      },
+      {
+        "id": "seoul-bookshops-18",
+        "name": "Shinsegae",
+        "cityId": "seoul",
+        "categoryId": "bookshops",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Shinsegae%2C%20Seoul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Shinsegae",
+        "photo": null
+      }
+    ],
+    "museums": [
+      {
+        "id": "seoul-museums-1",
+        "name": "Seoul National University",
+        "cityId": "seoul",
+        "categoryId": "museums",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Seoul%20National%20University%2C%20Seoul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Seoul_National_University",
+        "photo": null
+      },
+      {
+        "id": "seoul-museums-2",
+        "name": "Musée Grévin",
+        "cityId": "seoul",
+        "categoryId": "museums",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Mus%C3%A9e%20Gr%C3%A9vin%2C%20Seoul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Mus%C3%A9e_Gr%C3%A9vin",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/Grevin_musee_facade.jpg/960px-Grevin_musee_facade.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Mus%C3%A9e_Gr%C3%A9vin"
+        }
+      },
+      {
+        "id": "seoul-museums-3",
+        "name": "Seoul",
+        "cityId": "seoul",
+        "categoryId": "museums",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Seoul%2C%20Seoul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Seoul",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/%EC%A4%91%ED%99%94%EC%A0%84%EC%9D%98_%EB%82%AE.jpg/960px-%EC%A4%91%ED%99%94%EC%A0%84%EC%9D%98_%EB%82%AE.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Seoul"
+        }
+      },
+      {
+        "id": "seoul-museums-4",
+        "name": "Seoul Arts Center",
+        "cityId": "seoul",
+        "categoryId": "museums",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Seoul%20Arts%20Center%2C%20Seoul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Seoul_Arts_Center",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/en/thumb/a/a0/Seoul_Arts_Center.jpg/960px-Seoul_Arts_Center.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Seoul_Arts_Center"
+        }
+      },
+      {
+        "id": "seoul-museums-5",
+        "name": "National Museum of Korea",
+        "cityId": "seoul",
+        "categoryId": "museums",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=National%20Museum%20of%20Korea%2C%20Seoul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/National_Museum_of_Korea",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/National_Museum_of_Korea%2C_Seoul_%282%29_%2840236586235%29.jpg/960px-National_Museum_of_Korea%2C_Seoul_%282%29_%2840236586235%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/National_Museum_of_Korea"
+        }
+      },
+      {
+        "id": "seoul-museums-6",
+        "name": "Ichon station",
+        "cityId": "seoul",
+        "categoryId": "museums",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Ichon%20station%2C%20Seoul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Ichon_station",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/20260723_4%ED%98%B8%EC%84%A0_%EC%9D%B4%EC%B4%8C%EC%97%AD_%EC%8A%B9%EA%B0%95%EC%9E%A5.jpg/960px-20260723_4%ED%98%B8%EC%84%A0_%EC%9D%B4%EC%B4%8C%EC%97%AD_%EC%8A%B9%EA%B0%95%EC%9E%A5.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Ichon_station"
+        }
+      },
+      {
+        "id": "seoul-museums-7",
+        "name": "Jung District, Seoul",
+        "cityId": "seoul",
+        "categoryId": "museums",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Jung%20District%2C%20Seoul%2C%20Seoul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Jung_District%2C_Seoul",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/en/thumb/0/0b/NamsanTower.JPG/960px-NamsanTower.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Jung_District%2C_Seoul"
+        }
+      },
+      {
+        "id": "seoul-museums-8",
+        "name": "Museum Kimchikan",
+        "cityId": "seoul",
+        "categoryId": "museums",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Museum%20Kimchikan%2C%20Seoul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Museum_Kimchikan",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Korea-Seoul-Kimchi_Field_Museum-01.jpg/960px-Korea-Seoul-Kimchi_Field_Museum-01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Museum_Kimchikan"
+        }
+      },
+      {
+        "id": "seoul-museums-9",
+        "name": "Seoul Museum of Art",
+        "cityId": "seoul",
+        "categoryId": "museums",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Seoul%20Museum%20of%20Art%2C%20Seoul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Seoul_Museum_of_Art",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Seoul_Museum_of_Art_%282014%29.jpg/960px-Seoul_Museum_of_Art_%282014%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Seoul_Museum_of_Art"
+        }
+      },
+      {
+        "id": "seoul-museums-10",
+        "name": "Chung Young Yang Embroidery Museum",
+        "cityId": "seoul",
+        "categoryId": "museums",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Chung%20Young%20Yang%20Embroidery%20Museum%2C%20Seoul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Chung_Young_Yang_Embroidery_Museum",
+        "photo": null
+      },
+      {
+        "id": "seoul-museums-11",
+        "name": "Archdiocese of Seoul",
+        "cityId": "seoul",
+        "categoryId": "museums",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Archdiocese%20of%20Seoul%2C%20Seoul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Archdiocese_of_Seoul",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Myeongdong_Cathedral_facade_2024-03-18.jpg/960px-Myeongdong_Cathedral_facade_2024-03-18.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Archdiocese_of_Seoul"
+        }
+      },
+      {
+        "id": "seoul-museums-12",
+        "name": "Leeum Museum of Art",
+        "cityId": "seoul",
+        "categoryId": "museums",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Leeum%20Museum%20of%20Art%2C%20Seoul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Leeum_Museum_of_Art",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Leeum%2C_Samsung_Museum_of_Art.jpg/960px-Leeum%2C_Samsung_Museum_of_Art.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Leeum_Museum_of_Art"
+        }
+      },
+      {
+        "id": "seoul-museums-13",
+        "name": "Han Sang Soo Embroidery Museum",
+        "cityId": "seoul",
+        "categoryId": "museums",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Han%20Sang%20Soo%20Embroidery%20Museum%2C%20Seoul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Han_Sang_Soo_Embroidery_Museum",
+        "photo": null
+      },
+      {
+        "id": "seoul-museums-14",
+        "name": "Chojun Textile and Quilt Art Museum",
+        "cityId": "seoul",
+        "categoryId": "museums",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Chojun%20Textile%20and%20Quilt%20Art%20Museum%2C%20Seoul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Chojun_Textile_and_Quilt_Art_Museum",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/Chojun_Textile_and_Quilt_Art_Museum.jpg/960px-Chojun_Textile_and_Quilt_Art_Museum.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Chojun_Textile_and_Quilt_Art_Museum"
+        }
+      },
+      {
+        "id": "seoul-museums-15",
+        "name": "National Museum of Modern and Contemporary Art",
+        "cityId": "seoul",
+        "categoryId": "museums",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=National%20Museum%20of%20Modern%20and%20Contemporary%20Art%2C%20Seoul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/National_Museum_of_Modern_and_Contemporary_Art",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/en/thumb/2/2b/MMCA-Gwacheon.jpg/960px-MMCA-Gwacheon.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/National_Museum_of_Modern_and_Contemporary_Art"
+        }
+      },
+      {
+        "id": "seoul-museums-16",
+        "name": "Plateau",
+        "cityId": "seoul",
+        "categoryId": "museums",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Plateau%2C%20Seoul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Plateau_(museum)",
+        "photo": null
+      },
+      {
+        "id": "seoul-museums-17",
+        "name": "Nam June Paik",
+        "cityId": "seoul",
+        "categoryId": "museums",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Nam%20June%20Paik%2C%20Seoul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Nam_June_Paik",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Nam_June_Paik_signature.png/960px-Nam_June_Paik_signature.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Nam_June_Paik"
+        }
+      },
+      {
+        "id": "seoul-museums-18",
+        "name": "Seodaemun District",
+        "cityId": "seoul",
+        "categoryId": "museums",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Seodaemun%20District%2C%20Seoul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Seodaemun_District",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Independence_Gate_and_Hyeonjeo_overpass.jpg/960px-Independence_Gate_and_Hyeonjeo_overpass.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Seodaemun_District"
+        }
+      }
+    ],
+    "concerts": [
+      {
+        "id": "seoul-concerts-1",
+        "name": "KBS Hall",
+        "cityId": "seoul",
+        "categoryId": "concerts",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=KBS%20Hall%2C%20Seoul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/KBS_Hall",
+        "photo": null
+      },
+      {
+        "id": "seoul-concerts-2",
+        "name": "Seoul Arts Center",
+        "cityId": "seoul",
+        "categoryId": "concerts",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Seoul%20Arts%20Center%2C%20Seoul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Seoul_Arts_Center",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/en/thumb/a/a0/Seoul_Arts_Center.jpg/960px-Seoul_Arts_Center.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Seoul_Arts_Center"
+        }
+      },
+      {
+        "id": "seoul-concerts-3",
+        "name": "KBS Symphony Orchestra",
+        "cityId": "seoul",
+        "categoryId": "concerts",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=KBS%20Symphony%20Orchestra%2C%20Seoul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/KBS_Symphony_Orchestra",
+        "photo": null
+      },
+      {
+        "id": "seoul-concerts-4",
+        "name": "ABU TV Song Festival 2012",
+        "cityId": "seoul",
+        "categoryId": "concerts",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=ABU%20TV%20Song%20Festival%202012%2C%20Seoul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/ABU_TV_Song_Festival_2012",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/ABU_TV_Song_Festival_2012_map.svg/960px-ABU_TV_Song_Festival_2012_map.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/ABU_TV_Song_Festival_2012"
+        }
+      },
+      {
+        "id": "seoul-concerts-5",
+        "name": "Hacken Lee",
+        "cityId": "seoul",
+        "categoryId": "concerts",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Hacken%20Lee%2C%20Seoul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Hacken_Lee",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Hacken_Lee_20250124.jpg/960px-Hacken_Lee_20250124.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Hacken_Lee"
+        }
+      },
+      {
+        "id": "seoul-concerts-6",
+        "name": "Olympic Hall",
+        "cityId": "seoul",
+        "categoryId": "concerts",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Olympic%20Hall%2C%20Seoul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Olympic_Hall",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Seoul_Olympic_Hall.jpg/960px-Seoul_Olympic_Hall.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Olympic_Hall"
+        }
+      },
+      {
+        "id": "seoul-concerts-7",
+        "name": "Aarhus Pride",
+        "cityId": "seoul",
+        "categoryId": "concerts",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Aarhus%20Pride%2C%20Seoul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Aarhus_Pride",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Aarhus_Pride%2C_2012%2C_start_of_day.jpg/960px-Aarhus_Pride%2C_2012%2C_start_of_day.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Aarhus_Pride"
+        }
+      },
+      {
+        "id": "seoul-concerts-8",
+        "name": "Seoul Philharmonic Orchestra",
+        "cityId": "seoul",
+        "categoryId": "concerts",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Seoul%20Philharmonic%20Orchestra%2C%20Seoul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Seoul_Philharmonic_Orchestra",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/en/thumb/b/b6/Seoul-Sejong.Art.Center-01.jpg/960px-Seoul-Sejong.Art.Center-01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Seoul_Philharmonic_Orchestra"
+        }
+      },
+      {
+        "id": "seoul-concerts-9",
+        "name": "Hyundai Global Business Center",
+        "cityId": "seoul",
+        "categoryId": "concerts",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Hyundai%20Global%20Business%20Center%2C%20Seoul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Hyundai_Global_Business_Center",
+        "photo": null
+      },
+      {
+        "id": "seoul-concerts-10",
+        "name": "Jaeneung Culture Center",
+        "cityId": "seoul",
+        "categoryId": "concerts",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Jaeneung%20Culture%20Center%2C%20Seoul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Jaeneung_Culture_Center",
+        "photo": null
+      },
+      {
+        "id": "seoul-concerts-11",
+        "name": "Lotte World Mall",
+        "cityId": "seoul",
+        "categoryId": "concerts",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Lotte%20World%20Mall%2C%20Seoul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Lotte_World_Mall",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/Lotte_World_Mall_in_Seoul.jpg/960px-Lotte_World_Mall_in_Seoul.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Lotte_World_Mall"
+        }
+      },
+      {
+        "id": "seoul-concerts-12",
+        "name": "Vineyard style",
+        "cityId": "seoul",
+        "categoryId": "concerts",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Vineyard%20style%2C%20Seoul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Vineyard_style",
+        "photo": null
+      },
+      {
+        "id": "seoul-concerts-13",
+        "name": "Henning Larsen Architects",
+        "cityId": "seoul",
+        "categoryId": "concerts",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Henning%20Larsen%20Architects%2C%20Seoul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Henning_Larsen_Architects",
+        "photo": null
+      },
+      {
+        "id": "seoul-concerts-14",
+        "name": "Gum Nanse",
+        "cityId": "seoul",
+        "categoryId": "concerts",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Gum%20Nanse%2C%20Seoul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Gum_Nanse",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Gum_Nanse_1.jpg/960px-Gum_Nanse_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Gum_Nanse"
+        }
+      },
+      {
+        "id": "seoul-concerts-15",
+        "name": "Siow Lee Chin",
+        "cityId": "seoul",
+        "categoryId": "concerts",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Siow%20Lee%20Chin%2C%20Seoul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Siow_Lee_Chin",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Siowleechin-wong.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Siow_Lee_Chin"
+        }
+      },
+      {
+        "id": "seoul-concerts-16",
+        "name": "New Millennium Hall, Konkuk University",
+        "cityId": "seoul",
+        "categoryId": "concerts",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=New%20Millennium%20Hall%2C%20Konkuk%20University%2C%20Seoul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/New_Millennium_Hall%2C_Konkuk_University",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Mhecker_seoul_2007.jpg/960px-Mhecker_seoul_2007.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/New_Millennium_Hall%2C_Konkuk_University"
+        }
+      },
+      {
+        "id": "seoul-concerts-17",
+        "name": "Ilsan",
+        "cityId": "seoul",
+        "categoryId": "concerts",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Ilsan%2C%20Seoul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Ilsan",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Madustation.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Ilsan"
+        }
+      },
+      {
+        "id": "seoul-concerts-18",
+        "name": "Rokkugo",
+        "cityId": "seoul",
+        "categoryId": "concerts",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Rokkugo%2C%20Seoul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Rokkugo",
+        "photo": null
+      }
+    ],
+    "fashion": [
+      {
+        "id": "seoul-fashion-1",
+        "name": "Seo Young",
+        "cityId": "seoul",
+        "categoryId": "fashion",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Seo%20Young%2C%20Seoul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Seo_Young",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Seo_Young_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Seo_Young"
+        }
+      },
+      {
+        "id": "seoul-fashion-2",
+        "name": "Camp Hovey",
+        "cityId": "seoul",
+        "categoryId": "fashion",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Camp%20Hovey%2C%20Seoul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Camp_Hovey",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/93/6_CampHoveySign2001.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Camp_Hovey"
+        }
+      },
+      {
+        "id": "seoul-fashion-3",
+        "name": "Sinbanpo station",
+        "cityId": "seoul",
+        "categoryId": "fashion",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Sinbanpo%20station%2C%20Seoul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Sinbanpo_station",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/20240611_%EC%8B%A0%EB%B0%98%ED%8F%AC%EC%97%AD_%EC%97%AD%EB%AA%85%ED%8C%90.jpg/960px-20240611_%EC%8B%A0%EB%B0%98%ED%8F%AC%EC%97%AD_%EC%97%AD%EB%AA%85%ED%8C%90.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Sinbanpo_station"
+        }
+      },
+      {
+        "id": "seoul-fashion-4",
+        "name": "My Kids Give Me a Headache",
+        "cityId": "seoul",
+        "categoryId": "fashion",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=My%20Kids%20Give%20Me%20a%20Headache%2C%20Seoul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/My_Kids_Give_Me_a_Headache",
+        "photo": null
+      },
+      {
+        "id": "seoul-fashion-5",
+        "name": "Elaine Kim",
+        "cityId": "seoul",
+        "categoryId": "fashion",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Elaine%20Kim%2C%20Seoul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Elaine_Kim_(fashion_designer)",
+        "photo": null
+      },
+      {
+        "id": "seoul-fashion-6",
+        "name": "Kim Bum",
+        "cityId": "seoul",
+        "categoryId": "fashion",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Kim%20Bum%2C%20Seoul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Kim_Bum",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Kim_Bum_in_2023_02.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Kim_Bum"
+        }
+      },
+      {
+        "id": "seoul-fashion-7",
+        "name": "Lee Ga-ryeong",
+        "cityId": "seoul",
+        "categoryId": "fashion",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Lee%20Ga-ryeong%2C%20Seoul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Lee_Ga-ryeong",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b8/%EC%9D%B4%EA%B0%80%EB%A0%B9_in_2021.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Lee_Ga-ryeong"
+        }
+      },
+      {
+        "id": "seoul-fashion-8",
+        "name": "Kim Dong-ho",
+        "cityId": "seoul",
+        "categoryId": "fashion",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Kim%20Dong-ho%2C%20Seoul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Kim_Dong-ho",
+        "photo": null
+      },
+      {
+        "id": "seoul-fashion-9",
+        "name": "The Heirs",
+        "cityId": "seoul",
+        "categoryId": "fashion",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Heirs%2C%20Seoul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/The_Heirs",
+        "photo": null
+      },
+      {
+        "id": "seoul-fashion-10",
+        "name": "Yoo Young-chul",
+        "cityId": "seoul",
+        "categoryId": "fashion",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Yoo%20Young-chul%2C%20Seoul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Yoo_Young-chul",
+        "photo": null
+      },
+      {
+        "id": "seoul-fashion-11",
+        "name": "Jeon Tae-il",
+        "cityId": "seoul",
+        "categoryId": "fashion",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Jeon%20Tae-il%2C%20Seoul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Jeon_Tae-il",
+        "photo": null
+      },
+      {
+        "id": "seoul-fashion-12",
+        "name": "Jang Young-nam",
+        "cityId": "seoul",
+        "categoryId": "fashion",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Jang%20Young-nam%2C%20Seoul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Jang_Young-nam",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d6/180212_%EC%9E%A5%EC%98%81%EB%82%A8.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Jang_Young-nam"
+        }
+      },
+      {
+        "id": "seoul-fashion-13",
+        "name": "Im Hyung-joon",
+        "cityId": "seoul",
+        "categoryId": "fashion",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Im%20Hyung-joon%2C%20Seoul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Im_Hyung-joon",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Im_Hyung-joon_in_2021_%281%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Im_Hyung-joon"
+        }
+      },
+      {
+        "id": "seoul-fashion-14",
+        "name": "Peter John Ramos",
+        "cityId": "seoul",
+        "categoryId": "fashion",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Peter%20John%20Ramos%2C%20Seoul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Peter_John_Ramos",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Peter_John_Ramos_being_interviewed_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Peter_John_Ramos"
+        }
+      },
+      {
+        "id": "seoul-fashion-15",
+        "name": "P.O",
+        "cityId": "seoul",
+        "categoryId": "fashion",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=P.O%2C%20Seoul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/P.O",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/2024-07-10_Good_Partner_event_01_%28cropped%29.jpg/960px-2024-07-10_Good_Partner_event_01_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/P.O"
+        }
+      },
+      {
+        "id": "seoul-fashion-16",
+        "name": "Clifford Grodd",
+        "cityId": "seoul",
+        "categoryId": "fashion",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Clifford%20Grodd%2C%20Seoul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Clifford_Grodd",
+        "photo": null
+      },
+      {
+        "id": "seoul-fashion-17",
+        "name": "Hwangbo",
+        "cityId": "seoul",
+        "categoryId": "fashion",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Hwangbo%2C%20Seoul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Hwangbo",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Hwangbo_in_2026.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Hwangbo"
+        }
+      },
+      {
+        "id": "seoul-fashion-18",
+        "name": "Possessed",
+        "cityId": "seoul",
+        "categoryId": "fashion",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Possessed%2C%20Seoul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Possessed_(TV_series)",
+        "photo": null
+      }
+    ],
+    "shops": [
+      {
+        "id": "seoul-shops-1",
+        "name": "Lotte World Tower",
+        "cityId": "seoul",
+        "categoryId": "shops",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Lotte%20World%20Tower%2C%20Seoul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Lotte_World_Tower",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/en/thumb/2/28/Lotte_World_Tower_day_view_10.jpg/960px-Lotte_World_Tower_day_view_10.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Lotte_World_Tower"
+        }
+      },
+      {
+        "id": "seoul-shops-2",
+        "name": "Shopping in Seoul",
+        "cityId": "seoul",
+        "categoryId": "shops",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Shopping%20in%20Seoul%2C%20Seoul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Shopping_in_Seoul",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Electronic_mall_in_seoul-yongsan.jpg/960px-Electronic_mall_in_seoul-yongsan.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Shopping_in_Seoul"
+        }
+      },
+      {
+        "id": "seoul-shops-3",
+        "name": "GS Group",
+        "cityId": "seoul",
+        "categoryId": "shops",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=GS%20Group%2C%20Seoul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/GS_Group",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/GS_logo_%28South_Korean_company%29.svg/960px-GS_logo_%28South_Korean_company%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/GS_Group"
+        }
+      },
+      {
+        "id": "seoul-shops-4",
+        "name": "Brave Entertainment",
+        "cityId": "seoul",
+        "categoryId": "shops",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Brave%20Entertainment%2C%20Seoul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Brave_Entertainment",
+        "photo": null
+      },
+      {
+        "id": "seoul-shops-5",
+        "name": "Jonggak station",
+        "cityId": "seoul",
+        "categoryId": "shops",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Jonggak%20station%2C%20Seoul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Jonggak_station",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/20240413_%EC%A2%85%EA%B0%81%EC%97%AD_%EC%97%AD%EB%AA%85%ED%8C%90.jpg/960px-20240413_%EC%A2%85%EA%B0%81%EC%97%AD_%EC%97%AD%EB%AA%85%ED%8C%90.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Jonggak_station"
+        }
+      },
+      {
+        "id": "seoul-shops-6",
+        "name": "Hongdae",
+        "cityId": "seoul",
+        "categoryId": "shops",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Hongdae%2C%20Seoul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Hongdae_(area)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Street_hongdae_Seoul.jpg/960px-Street_hongdae_Seoul.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Hongdae_(area)"
+        }
+      },
+      {
+        "id": "seoul-shops-7",
+        "name": "Sallim-dong",
+        "cityId": "seoul",
+        "categoryId": "shops",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Sallim-dong%2C%20Seoul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Sallim-dong",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/%EC%82%B4%EB%A6%BC%EB%8F%99_%EA%B8%88%EC%86%8D%EA%B3%B5%EC%9E%A5%EC%A7%80%EA%B5%AC.jpg/960px-%EC%82%B4%EB%A6%BC%EB%8F%99_%EA%B8%88%EC%86%8D%EA%B3%B5%EC%9E%A5%EC%A7%80%EA%B5%AC.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Sallim-dong"
+        }
+      },
+      {
+        "id": "seoul-shops-8",
+        "name": "FC Seoul",
+        "cityId": "seoul",
+        "categoryId": "shops",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=FC%20Seoul%2C%20Seoul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/FC_Seoul",
+        "photo": null
+      },
+      {
+        "id": "seoul-shops-9",
+        "name": "Hongik University station",
+        "cityId": "seoul",
+        "categoryId": "shops",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Hongik%20University%20station%2C%20Seoul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Hongik_University_station",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/Hongik-university-station-entrance-8-20181121-083542.jpg/960px-Hongik-university-station-entrance-8-20181121-083542.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Hongik_University_station"
+        }
+      },
+      {
+        "id": "seoul-shops-10",
+        "name": "Missha",
+        "cityId": "seoul",
+        "categoryId": "shops",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Missha%2C%20Seoul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Missha",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Myeong-dong_street_by_night.JPG/960px-Myeong-dong_street_by_night.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Missha"
+        }
+      },
+      {
+        "id": "seoul-shops-11",
+        "name": "2016 KBS Drama Awards",
+        "cityId": "seoul",
+        "categoryId": "shops",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=2016%20KBS%20Drama%20Awards%2C%20Seoul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/2016_KBS_Drama_Awards",
+        "photo": null
+      },
+      {
+        "id": "seoul-shops-12",
+        "name": "Gye-dong",
+        "cityId": "seoul",
+        "categoryId": "shops",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Gye-dong%2C%20Seoul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Gye-dong",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/Gyedong-gil_street_with_climbing_plants_at_golden_hour_in_Seoul_South_Korea.jpg/960px-Gyedong-gil_street_with_climbing_plants_at_golden_hour_in_Seoul_South_Korea.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Gye-dong"
+        }
+      },
+      {
+        "id": "seoul-shops-13",
+        "name": "Sinchon",
+        "cityId": "seoul",
+        "categoryId": "shops",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Sinchon%2C%20Seoul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Sinchon",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Seoul-Sinchon-01.jpg/960px-Seoul-Sinchon-01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Sinchon"
+        }
+      },
+      {
+        "id": "seoul-shops-14",
+        "name": "Lee Dong-wook",
+        "cityId": "seoul",
+        "categoryId": "shops",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Lee%20Dong-wook%2C%20Seoul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Lee_Dong-wook",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/Lee_Dong-wook_at_the_2024_Toronto_International_Film_Festival_%28cropped%29.jpg/960px-Lee_Dong-wook_at_the_2024_Toronto_International_Film_Festival_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Lee_Dong-wook"
+        }
+      },
+      {
+        "id": "seoul-shops-15",
+        "name": "Lee Ki-woo",
+        "cityId": "seoul",
+        "categoryId": "shops",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Lee%20Ki-woo%2C%20Seoul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Lee_Ki-woo",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/190604_%EC%9D%B4%EA%B8%B0%EC%9A%B0_%282%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Lee_Ki-woo"
+        }
+      },
+      {
+        "id": "seoul-shops-16",
+        "name": "Foxy Festival",
+        "cityId": "seoul",
+        "categoryId": "shops",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Foxy%20Festival%2C%20Seoul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Foxy_Festival",
+        "photo": null
+      },
+      {
+        "id": "seoul-shops-17",
+        "name": "Etude House",
+        "cityId": "seoul",
+        "categoryId": "shops",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Etude%20House%2C%20Seoul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Etude_House",
+        "photo": null
+      },
+      {
+        "id": "seoul-shops-18",
+        "name": "Skin Food",
+        "cityId": "seoul",
+        "categoryId": "shops",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Skin%20Food%2C%20Seoul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Skin_Food",
+        "photo": null
+      }
+    ]
+  }
+}

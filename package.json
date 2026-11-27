@@ -8,7 +8,9 @@
     "dev": "vite",
     "build": "vite build",
     "preview": "vite preview",
-    "deploy": "bash scripts/deploy.sh"
+    "deploy": "bash scripts/deploy.sh",
+    "generate:places": "node scripts/generate-places.mjs",
+    "validate:places": "node scripts/validate-places.mjs"
   },
   "dependencies": {
     "react": "^18.3.1",

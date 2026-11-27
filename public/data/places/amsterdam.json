@@ -1,0 +1,2423 @@
+{
+  "cityId": "amsterdam",
+  "generatedAt": "2026-11-27T08:50:11.297Z",
+  "source": "Wikipedia API + Maps URLs (sin scraping de Google)",
+  "incomplete": [],
+  "categories": {
+    "night_clubs": [
+      {
+        "id": "amsterdam-night_clubs-1",
+        "name": "Gay bar",
+        "cityId": "amsterdam",
+        "categoryId": "night_clubs",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Gay%20bar%2C%20Amsterdam",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Gay_bar",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/09/Comptons-Of-Soho.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Gay_bar"
+        }
+      },
+      {
+        "id": "amsterdam-night_clubs-2",
+        "name": "Amsterdam Walk",
+        "cityId": "amsterdam",
+        "categoryId": "night_clubs",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Amsterdam%20Walk%2C%20Amsterdam",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Amsterdam_Walk",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/Amsterdam_Walk_3.jpg/960px-Amsterdam_Walk_3.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Amsterdam_Walk"
+        }
+      },
+      {
+        "id": "amsterdam-night_clubs-3",
+        "name": "The Morey Amsterdam Show",
+        "cityId": "amsterdam",
+        "categoryId": "night_clubs",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Morey%20Amsterdam%20Show%2C%20Amsterdam",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/The_Morey_Amsterdam_Show",
+        "photo": null
+      },
+      {
+        "id": "amsterdam-night_clubs-4",
+        "name": "Moment of Silence",
+        "cityId": "amsterdam",
+        "categoryId": "night_clubs",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Moment%20of%20Silence%2C%20Amsterdam",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Moment_of_Silence_(song)",
+        "photo": null
+      },
+      {
+        "id": "amsterdam-night_clubs-5",
+        "name": "Berghain",
+        "cityId": "amsterdam",
+        "categoryId": "night_clubs",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Berghain%2C%20Amsterdam",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Berghain",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Berlin_Berghain.jpg/960px-Berlin_Berghain.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Berghain"
+        }
+      },
+      {
+        "id": "amsterdam-night_clubs-6",
+        "name": "Liquid drum and bass",
+        "cityId": "amsterdam",
+        "categoryId": "night_clubs",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Liquid%20drum%20and%20bass%2C%20Amsterdam",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Liquid_drum_and_bass",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/Netsky_purple_3_Liquicity_Festival_2015.jpg/960px-Netsky_purple_3_Liquicity_Festival_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Liquid_drum_and_bass"
+        }
+      },
+      {
+        "id": "amsterdam-night_clubs-7",
+        "name": "Bungalow 8",
+        "cityId": "amsterdam",
+        "categoryId": "night_clubs",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Bungalow%208%2C%20Amsterdam",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Bungalow_8",
+        "photo": null
+      },
+      {
+        "id": "amsterdam-night_clubs-8",
+        "name": "Morey Amsterdam",
+        "cityId": "amsterdam",
+        "categoryId": "night_clubs",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Morey%20Amsterdam%2C%20Amsterdam",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Morey_Amsterdam",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Morey_Amsterdam_HA-SN-99-00637.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Morey_Amsterdam"
+        }
+      },
+      {
+        "id": "amsterdam-night_clubs-9",
+        "name": "De School",
+        "cityId": "amsterdam",
+        "categoryId": "night_clubs",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=De%20School%2C%20Amsterdam",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/De_School",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/De_School_Dancefloor.jpg/960px-De_School_Dancefloor.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/De_School"
+        }
+      },
+      {
+        "id": "amsterdam-night_clubs-10",
+        "name": "DC10",
+        "cityId": "amsterdam",
+        "categoryId": "night_clubs",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=DC10%2C%20Amsterdam",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/DC10_(nightclub)",
+        "photo": null
+      },
+      {
+        "id": "amsterdam-night_clubs-11",
+        "name": "Balearic beat",
+        "cityId": "amsterdam",
+        "categoryId": "night_clubs",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Balearic%20beat%2C%20Amsterdam",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Balearic_beat",
+        "photo": null
+      },
+      {
+        "id": "amsterdam-night_clubs-12",
+        "name": "October Tour",
+        "cityId": "amsterdam",
+        "categoryId": "night_clubs",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=October%20Tour%2C%20Amsterdam",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/October_Tour",
+        "photo": null
+      },
+      {
+        "id": "amsterdam-night_clubs-13",
+        "name": "Holy Rollers",
+        "cityId": "amsterdam",
+        "categoryId": "night_clubs",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Holy%20Rollers%2C%20Amsterdam",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Holy_Rollers_(film)",
+        "photo": null
+      },
+      {
+        "id": "amsterdam-night_clubs-14",
+        "name": "Jazzhus Montmartre",
+        "cityId": "amsterdam",
+        "categoryId": "night_clubs",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Jazzhus%20Montmartre%2C%20Amsterdam",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Jazzhus_Montmartre",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/Jazzhus_Montmartre.jpg/960px-Jazzhus_Montmartre.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Jazzhus_Montmartre"
+        }
+      },
+      {
+        "id": "amsterdam-night_clubs-15",
+        "name": "Studio 54",
+        "cityId": "amsterdam",
+        "categoryId": "night_clubs",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Studio%2054%2C%20Amsterdam",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Studio_54",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/Studio_54_logo.svg/960px-Studio_54_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Studio_54"
+        }
+      },
+      {
+        "id": "amsterdam-night_clubs-16",
+        "name": "Carl Cox",
+        "cityId": "amsterdam",
+        "categoryId": "night_clubs",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Carl%20Cox%2C%20Amsterdam",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Carl_Cox",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Carl_Cox_%40_ADE_2012.jpg/960px-Carl_Cox_%40_ADE_2012.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Carl_Cox"
+        }
+      },
+      {
+        "id": "amsterdam-night_clubs-17",
+        "name": "Florenz Ziegfeld Jr.",
+        "cityId": "amsterdam",
+        "categoryId": "night_clubs",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Florenz%20Ziegfeld%20Jr.%2C%20Amsterdam",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Florenz_Ziegfeld_Jr.",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Florenz-Ziegfeld-1928.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Florenz_Ziegfeld_Jr."
+        }
+      },
+      {
+        "id": "amsterdam-night_clubs-18",
+        "name": "RUMAG",
+        "cityId": "amsterdam",
+        "categoryId": "night_clubs",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=RUMAG%2C%20Amsterdam",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/RUMAG",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/RUMAG_logo.jpg/960px-RUMAG_logo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/RUMAG"
+        }
+      }
+    ],
+    "restaurants": [
+      {
+        "id": "amsterdam-restaurants-1",
+        "name": "De L'Europe Amsterdam",
+        "cityId": "amsterdam",
+        "categoryId": "restaurants",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=De%20L'Europe%20Amsterdam%2C%20Amsterdam",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/De_L'Europe_Amsterdam",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Hotel_De_L%27Europe_Amsterdam.jpg/960px-Hotel_De_L%27Europe_Amsterdam.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/De_L'Europe_Amsterdam"
+        }
+      },
+      {
+        "id": "amsterdam-restaurants-2",
+        "name": "Melkweg",
+        "cityId": "amsterdam",
+        "categoryId": "restaurants",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Melkweg%2C%20Amsterdam",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Melkweg",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Melkweg_en_Rabozaal.jpg/960px-Melkweg_en_Rabozaal.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Melkweg"
+        }
+      },
+      {
+        "id": "amsterdam-restaurants-3",
+        "name": "Ron Blaauw",
+        "cityId": "amsterdam",
+        "categoryId": "restaurants",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Ron%20Blaauw%2C%20Amsterdam",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Ron_Blaauw_(restaurant)",
+        "photo": null
+      },
+      {
+        "id": "amsterdam-restaurants-4",
+        "name": "Rijksmuseum",
+        "cityId": "amsterdam",
+        "categoryId": "restaurants",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Rijksmuseum%2C%20Amsterdam",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Rijksmuseum",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/South_facade_of_the_Rijksmuseum_Amsterdam_%28DSCF0528%29.jpg/960px-South_facade_of_the_Rijksmuseum_Amsterdam_%28DSCF0528%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Rijksmuseum"
+        }
+      },
+      {
+        "id": "amsterdam-restaurants-5",
+        "name": "Spectrum",
+        "cityId": "amsterdam",
+        "categoryId": "restaurants",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Spectrum%2C%20Amsterdam",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Spectrum_(Amsterdam)",
+        "photo": null
+      },
+      {
+        "id": "amsterdam-restaurants-6",
+        "name": "Barney Greengrass",
+        "cityId": "amsterdam",
+        "categoryId": "restaurants",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Barney%20Greengrass%2C%20Amsterdam",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Barney_Greengrass",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Barney_Greengrass.jpg/960px-Barney_Greengrass.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Barney_Greengrass"
+        }
+      },
+      {
+        "id": "amsterdam-restaurants-7",
+        "name": "Ciel Bleu",
+        "cityId": "amsterdam",
+        "categoryId": "restaurants",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Ciel%20Bleu%2C%20Amsterdam",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Ciel_Bleu",
+        "photo": null
+      },
+      {
+        "id": "amsterdam-restaurants-8",
+        "name": "Floating restaurant",
+        "cityId": "amsterdam",
+        "categoryId": "restaurants",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Floating%20restaurant%2C%20Amsterdam",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Floating_restaurant",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Vaal_River_-_Floating_Restaurant-001.jpg/960px-Vaal_River_-_Floating_Restaurant-001.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Floating_restaurant"
+        }
+      },
+      {
+        "id": "amsterdam-restaurants-9",
+        "name": "Le Restaurant",
+        "cityId": "amsterdam",
+        "categoryId": "restaurants",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Le%20Restaurant%2C%20Amsterdam",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Le_Restaurant",
+        "photo": null
+      },
+      {
+        "id": "amsterdam-restaurants-10",
+        "name": "Christophe",
+        "cityId": "amsterdam",
+        "categoryId": "restaurants",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Christophe%2C%20Amsterdam",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Christophe_(Amsterdam)",
+        "photo": null
+      },
+      {
+        "id": "amsterdam-restaurants-11",
+        "name": "Auberge",
+        "cityId": "amsterdam",
+        "categoryId": "restaurants",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Auberge%2C%20Amsterdam",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Auberge_(restaurant)",
+        "photo": null
+      },
+      {
+        "id": "amsterdam-restaurants-12",
+        "name": "Vossius",
+        "cityId": "amsterdam",
+        "categoryId": "restaurants",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Vossius%2C%20Amsterdam",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Vossius_(restaurant)",
+        "photo": null
+      },
+      {
+        "id": "amsterdam-restaurants-13",
+        "name": "Sichuan Food",
+        "cityId": "amsterdam",
+        "categoryId": "restaurants",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Sichuan%20Food%2C%20Amsterdam",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Sichuan_Food_(restaurant)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Sichuanfood-amsterdam.jpg/960px-Sichuanfood-amsterdam.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Sichuan_Food_(restaurant)"
+        }
+      },
+      {
+        "id": "amsterdam-restaurants-14",
+        "name": "De Boerderij",
+        "cityId": "amsterdam",
+        "categoryId": "restaurants",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=De%20Boerderij%2C%20Amsterdam",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/De_Boerderij_(restaurant)",
+        "photo": null
+      },
+      {
+        "id": "amsterdam-restaurants-15",
+        "name": "Yamazato",
+        "cityId": "amsterdam",
+        "categoryId": "restaurants",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Yamazato%2C%20Amsterdam",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Yamazato",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Yamazato_Restaurant_-_Sushi_counter.jpg/960px-Yamazato_Restaurant_-_Sushi_counter.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Yamazato"
+        }
+      },
+      {
+        "id": "amsterdam-restaurants-16",
+        "name": "Gravenmolen",
+        "cityId": "amsterdam",
+        "categoryId": "restaurants",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Gravenmolen%2C%20Amsterdam",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Gravenmolen",
+        "photo": null
+      },
+      {
+        "id": "amsterdam-restaurants-17",
+        "name": "Overhoeks",
+        "cityId": "amsterdam",
+        "categoryId": "restaurants",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Overhoeks%2C%20Amsterdam",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Overhoeks",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/2012-06-02_ZevenProv_EYE.jpg/960px-2012-06-02_ZevenProv_EYE.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Overhoeks"
+        }
+      },
+      {
+        "id": "amsterdam-restaurants-18",
+        "name": "Adrian",
+        "cityId": "amsterdam",
+        "categoryId": "restaurants",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Adrian%2C%20Amsterdam",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Adrian_(restaurant)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Interieur_restaurant_Adrian_in_Reguliersdwarsstraat%2C_opdracht_Parool%2C_Bestanddeelnr_926-1245.jpg/960px-Interieur_restaurant_Adrian_in_Reguliersdwarsstraat%2C_opdracht_Parool%2C_Bestanddeelnr_926-1245.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Adrian_(restaurant)"
+        }
+      }
+    ],
+    "bars": [
+      {
+        "id": "amsterdam-bars-1",
+        "name": "De L'Europe Amsterdam",
+        "cityId": "amsterdam",
+        "categoryId": "bars",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=De%20L'Europe%20Amsterdam%2C%20Amsterdam",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/De_L'Europe_Amsterdam",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Hotel_De_L%27Europe_Amsterdam.jpg/960px-Hotel_De_L%27Europe_Amsterdam.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/De_L'Europe_Amsterdam"
+        }
+      },
+      {
+        "id": "amsterdam-bars-2",
+        "name": "Party bike",
+        "cityId": "amsterdam",
+        "categoryId": "bars",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Party%20bike%2C%20Amsterdam",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Party_bike",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Beercycle_Christchurch_New_Zealand.jpg/960px-Beercycle_Christchurch_New_Zealand.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Party_bike"
+        }
+      },
+      {
+        "id": "amsterdam-bars-3",
+        "name": "World Bowl IX",
+        "cityId": "amsterdam",
+        "categoryId": "bars",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=World%20Bowl%20IX%2C%20Amsterdam",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/World_Bowl_IX",
+        "photo": null
+      },
+      {
+        "id": "amsterdam-bars-4",
+        "name": "Gay bar",
+        "cityId": "amsterdam",
+        "categoryId": "bars",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Gay%20bar%2C%20Amsterdam",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Gay_bar",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/09/Comptons-Of-Soho.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Gay_bar"
+        }
+      },
+      {
+        "id": "amsterdam-bars-5",
+        "name": ".amsterdam",
+        "cityId": "amsterdam",
+        "categoryId": "bars",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=.amsterdam%2C%20Amsterdam",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/.amsterdam",
+        "photo": null
+      },
+      {
+        "id": "amsterdam-bars-6",
+        "name": "Asko/Schönberg",
+        "cityId": "amsterdam",
+        "categoryId": "bars",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Asko%2FSch%C3%B6nberg%2C%20Amsterdam",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Asko%2FSch%C3%B6nberg",
+        "photo": null
+      },
+      {
+        "id": "amsterdam-bars-7",
+        "name": ".bar",
+        "cityId": "amsterdam",
+        "categoryId": "bars",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=.bar%2C%20Amsterdam",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/.bar",
+        "photo": null
+      },
+      {
+        "id": "amsterdam-bars-8",
+        "name": "JDE Peet's",
+        "cityId": "amsterdam",
+        "categoryId": "bars",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=JDE%20Peet's%2C%20Amsterdam",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/JDE_Peet's",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/JDE_Peet%27s_horizontal_logo.svg/960px-JDE_Peet%27s_horizontal_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/JDE_Peet's"
+        }
+      },
+      {
+        "id": "amsterdam-bars-9",
+        "name": "Bljedi Bardic",
+        "cityId": "amsterdam",
+        "categoryId": "bars",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Bljedi%20Bardic%2C%20Amsterdam",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Bljedi_Bardic",
+        "photo": null
+      },
+      {
+        "id": "amsterdam-bars-10",
+        "name": "Leon Štukelj",
+        "cityId": "amsterdam",
+        "categoryId": "bars",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Leon%20%C5%A0tukelj%2C%20Amsterdam",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Leon_%C5%A0tukelj",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/Leon_%C5%A0tukelj_1958_%282%29.jpg/960px-Leon_%C5%A0tukelj_1958_%282%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Leon_%C5%A0tukelj"
+        }
+      },
+      {
+        "id": "amsterdam-bars-11",
+        "name": "Vondelpark",
+        "cityId": "amsterdam",
+        "categoryId": "bars",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Vondelpark%2C%20Amsterdam",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Vondelpark",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/Amsterdam%2C_Vondelpark%2C_at_the_pond-2.jpg/960px-Amsterdam%2C_Vondelpark%2C_at_the_pond-2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Vondelpark"
+        }
+      },
+      {
+        "id": "amsterdam-bars-12",
+        "name": "Amsterdam Dungeon",
+        "cityId": "amsterdam",
+        "categoryId": "bars",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Amsterdam%20Dungeon%2C%20Amsterdam",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Amsterdam_Dungeon",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Amsterdam_Dungeon_sign_%2826277651415%29.jpg/960px-Amsterdam_Dungeon_sign_%2826277651415%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Amsterdam_Dungeon"
+        }
+      },
+      {
+        "id": "amsterdam-bars-13",
+        "name": "Warmoesstraat",
+        "cityId": "amsterdam",
+        "categoryId": "bars",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Warmoesstraat%2C%20Amsterdam",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Warmoesstraat",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/Warmoesstraat_-_Amsterdam.jpg/960px-Warmoesstraat_-_Amsterdam.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Warmoesstraat"
+        }
+      },
+      {
+        "id": "amsterdam-bars-14",
+        "name": "Café 't Mandje",
+        "cityId": "amsterdam",
+        "categoryId": "bars",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Caf%C3%A9%20't%20Mandje%2C%20Amsterdam",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Caf%C3%A9_'t_Mandje",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/Caf%C3%A9_%E2%80%98t_Mandje.jpg/960px-Caf%C3%A9_%E2%80%98t_Mandje.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Caf%C3%A9_'t_Mandje"
+        }
+      },
+      {
+        "id": "amsterdam-bars-15",
+        "name": "Rosignol",
+        "cityId": "amsterdam",
+        "categoryId": "bars",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Rosignol%2C%20Amsterdam",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Rosignol",
+        "photo": null
+      },
+      {
+        "id": "amsterdam-bars-16",
+        "name": "Portrait of Vincent van Gogh",
+        "cityId": "amsterdam",
+        "categoryId": "bars",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Portrait%20of%20Vincent%20van%20Gogh%2C%20Amsterdam",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Portrait_of_Vincent_van_Gogh_(1887)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/Toulouse-Lautrec_de_Henri_Vincent_van_Gogh_Sun.jpg/960px-Toulouse-Lautrec_de_Henri_Vincent_van_Gogh_Sun.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Portrait_of_Vincent_van_Gogh_(1887)"
+        }
+      },
+      {
+        "id": "amsterdam-bars-17",
+        "name": "Georges Miez",
+        "cityId": "amsterdam",
+        "categoryId": "bars",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Georges%20Miez%2C%20Amsterdam",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Georges_Miez",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/Georges_Miez.jpg/960px-Georges_Miez.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Georges_Miez"
+        }
+      },
+      {
+        "id": "amsterdam-bars-18",
+        "name": "Douwe Bob",
+        "cityId": "amsterdam",
+        "categoryId": "bars",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Douwe%20Bob%2C%20Amsterdam",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Douwe_Bob",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/ESC2016_-_Netherlands_Meet_%26_Greet_03_%28crop%29.jpg/960px-ESC2016_-_Netherlands_Meet_%26_Greet_03_%28crop%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Douwe_Bob"
+        }
+      }
+    ],
+    "coffee_shops": [
+      {
+        "id": "amsterdam-coffee_shops-1",
+        "name": "Leidseplein",
+        "cityId": "amsterdam",
+        "categoryId": "coffee_shops",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Leidseplein%2C%20Amsterdam",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Leidseplein",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/Stadsschouwburg%2C_Amsterdam_2335.jpg/960px-Stadsschouwburg%2C_Amsterdam_2335.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Leidseplein"
+        }
+      },
+      {
+        "id": "amsterdam-coffee_shops-2",
+        "name": "OT301",
+        "cityId": "amsterdam",
+        "categoryId": "coffee_shops",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=OT301%2C%20Amsterdam",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/OT301",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/12/Overtoom_301%2C_entrance.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/OT301"
+        }
+      },
+      {
+        "id": "amsterdam-coffee_shops-3",
+        "name": "Coffeeshop",
+        "cityId": "amsterdam",
+        "categoryId": "coffee_shops",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Coffeeshop%2C%20Amsterdam",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Coffeeshop_(Netherlands)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Coffeeshop_Reefer.jpg/960px-Coffeeshop_Reefer.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Coffeeshop_(Netherlands)"
+        }
+      },
+      {
+        "id": "amsterdam-coffee_shops-4",
+        "name": "The Hungarian Pastry Shop",
+        "cityId": "amsterdam",
+        "categoryId": "coffee_shops",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Hungarian%20Pastry%20Shop%2C%20Amsterdam",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/The_Hungarian_Pastry_Shop",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/Hungarian_Pastry_Shop.jpg/960px-Hungarian_Pastry_Shop.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/The_Hungarian_Pastry_Shop"
+        }
+      },
+      {
+        "id": "amsterdam-coffee_shops-5",
+        "name": "Portrait of Vincent van Gogh",
+        "cityId": "amsterdam",
+        "categoryId": "coffee_shops",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Portrait%20of%20Vincent%20van%20Gogh%2C%20Amsterdam",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Portrait_of_Vincent_van_Gogh_(1887)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/Toulouse-Lautrec_de_Henri_Vincent_van_Gogh_Sun.jpg/960px-Toulouse-Lautrec_de_Henri_Vincent_van_Gogh_Sun.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Portrait_of_Vincent_van_Gogh_(1887)"
+        }
+      },
+      {
+        "id": "amsterdam-coffee_shops-6",
+        "name": "Torso of Venus and a Landscape",
+        "cityId": "amsterdam",
+        "categoryId": "coffee_shops",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Torso%20of%20Venus%20and%20a%20Landscape%2C%20Amsterdam",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Torso_of_Venus_and_a_Landscape",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Torso_of_Venus_and_a_Landscape.jpg/960px-Torso_of_Venus_and_a_Landscape.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Torso_of_Venus_and_a_Landscape"
+        }
+      },
+      {
+        "id": "amsterdam-coffee_shops-7",
+        "name": "OCCII",
+        "cityId": "amsterdam",
+        "categoryId": "coffee_shops",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=OCCII%2C%20Amsterdam",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/OCCII",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Occii_Amstelveenseweg_134_Amsterdam_1.jpg/960px-Occii_Amstelveenseweg_134_Amsterdam_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/OCCII"
+        }
+      },
+      {
+        "id": "amsterdam-coffee_shops-8",
+        "name": "Café 't Mandje",
+        "cityId": "amsterdam",
+        "categoryId": "coffee_shops",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Caf%C3%A9%20't%20Mandje%2C%20Amsterdam",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Caf%C3%A9_'t_Mandje",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/Caf%C3%A9_%E2%80%98t_Mandje.jpg/960px-Caf%C3%A9_%E2%80%98t_Mandje.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Caf%C3%A9_'t_Mandje"
+        }
+      },
+      {
+        "id": "amsterdam-coffee_shops-9",
+        "name": "Paradiso",
+        "cityId": "amsterdam",
+        "categoryId": "coffee_shops",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Paradiso%2C%20Amsterdam",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Paradiso_(Amsterdam)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Amsterdam_Paradiso.jpg/960px-Amsterdam_Paradiso.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Paradiso_(Amsterdam)"
+        }
+      },
+      {
+        "id": "amsterdam-coffee_shops-10",
+        "name": "Agostina Segatori Sitting in the Café du Tambourin",
+        "cityId": "amsterdam",
+        "categoryId": "coffee_shops",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Agostina%20Segatori%20Sitting%20in%20the%20Caf%C3%A9%20du%20Tambourin%2C%20Amsterdam",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Agostina_Segatori_Sitting_in_the_Caf%C3%A9_du_Tambourin",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Vincent_van_Gogh_-_In_the_caf%C3%A9_-_Agostina_Segatori_in_Le_Tambourin_-_Google_Art_Project_2.jpg/960px-Vincent_van_Gogh_-_In_the_caf%C3%A9_-_Agostina_Segatori_in_Le_Tambourin_-_Google_Art_Project_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Agostina_Segatori_Sitting_in_the_Caf%C3%A9_du_Tambourin"
+        }
+      },
+      {
+        "id": "amsterdam-coffee_shops-11",
+        "name": "Andries Bonger",
+        "cityId": "amsterdam",
+        "categoryId": "coffee_shops",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Andries%20Bonger%2C%20Amsterdam",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Andries_Bonger",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/Andries_Bonger%2C_op_middelbare_leeftijd%2C_gezeten_in_leunstoel%2C_RP-F-00-1426.jpg/960px-Andries_Bonger%2C_op_middelbare_leeftijd%2C_gezeten_in_leunstoel%2C_RP-F-00-1426.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Andries_Bonger"
+        }
+      },
+      {
+        "id": "amsterdam-coffee_shops-12",
+        "name": "Amstelpark",
+        "cityId": "amsterdam",
+        "categoryId": "coffee_shops",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Amstelpark%2C%20Amsterdam",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Amstelpark",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Amstelpark_water.jpg/960px-Amstelpark_water.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Amstelpark"
+        }
+      },
+      {
+        "id": "amsterdam-coffee_shops-13",
+        "name": "Markenplein",
+        "cityId": "amsterdam",
+        "categoryId": "coffee_shops",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Markenplein%2C%20Amsterdam",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Markenplein",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/60/Markenplein2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Markenplein"
+        }
+      },
+      {
+        "id": "amsterdam-coffee_shops-14",
+        "name": "Farm with Stacks of Peat",
+        "cityId": "amsterdam",
+        "categoryId": "coffee_shops",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Farm%20with%20Stacks%20of%20Peat%2C%20Amsterdam",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Farm_with_Stacks_of_Peat",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Boerderij_met_turfhopen_-_s0130V1962_-_Van_Gogh_Museum.jpg/960px-Boerderij_met_turfhopen_-_s0130V1962_-_Van_Gogh_Museum.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Farm_with_Stacks_of_Peat"
+        }
+      },
+      {
+        "id": "amsterdam-coffee_shops-15",
+        "name": "Amsterdam Science Park",
+        "cityId": "amsterdam",
+        "categoryId": "coffee_shops",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Amsterdam%20Science%20Park%2C%20Amsterdam",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Amsterdam_Science_Park",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/Opening_station_Science_Park.jpg/960px-Opening_station_Science_Park.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Amsterdam_Science_Park"
+        }
+      },
+      {
+        "id": "amsterdam-coffee_shops-16",
+        "name": "Foam Fotografiemuseum Amsterdam",
+        "cityId": "amsterdam",
+        "categoryId": "coffee_shops",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Foam%20Fotografiemuseum%20Amsterdam%2C%20Amsterdam",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Foam_Fotografiemuseum_Amsterdam",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/47/Keizersgracht_609%2C_Amsterdam.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Foam_Fotografiemuseum_Amsterdam"
+        }
+      },
+      {
+        "id": "amsterdam-coffee_shops-17",
+        "name": "Village at Sunset",
+        "cityId": "amsterdam",
+        "categoryId": "coffee_shops",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Village%20at%20Sunset%2C%20Amsterdam",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Village_at_Sunset",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Boerendorp_in_de_avond_Rijksmuseum_SK-A-3307.jpeg/960px-Boerendorp_in_de_avond_Rijksmuseum_SK-A-3307.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Village_at_Sunset"
+        }
+      },
+      {
+        "id": "amsterdam-coffee_shops-18",
+        "name": "The Kingfisher",
+        "cityId": "amsterdam",
+        "categoryId": "coffee_shops",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Kingfisher%2C%20Amsterdam",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/The_Kingfisher",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/IJsvogel_aan_de_waterkant_-_s0100V1962_-_Van_Gogh_Museum.jpg/960px-IJsvogel_aan_de_waterkant_-_s0100V1962_-_Van_Gogh_Museum.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/The_Kingfisher"
+        }
+      }
+    ],
+    "bookshops": [
+      {
+        "id": "amsterdam-bookshops-1",
+        "name": "Emanuel Querido",
+        "cityId": "amsterdam",
+        "categoryId": "bookshops",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Emanuel%20Querido%2C%20Amsterdam",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Emanuel_Querido",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/23/EmQuerido.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Emanuel_Querido"
+        }
+      },
+      {
+        "id": "amsterdam-bookshops-2",
+        "name": "Don't Worry, We'll Think of a Title",
+        "cityId": "amsterdam",
+        "categoryId": "bookshops",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Don't%20Worry%2C%20We'll%20Think%20of%20a%20Title%2C%20Amsterdam",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Don't_Worry%2C_We'll_Think_of_a_Title",
+        "photo": null
+      },
+      {
+        "id": "amsterdam-bookshops-3",
+        "name": "Schreierstoren",
+        "cityId": "amsterdam",
+        "categoryId": "bookshops",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Schreierstoren%2C%20Amsterdam",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Schreierstoren",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Schreierstoren2.jpg/960px-Schreierstoren2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Schreierstoren"
+        }
+      },
+      {
+        "id": "amsterdam-bookshops-4",
+        "name": "Huis aan de Drie Grachten",
+        "cityId": "amsterdam",
+        "categoryId": "bookshops",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Huis%20aan%20de%20Drie%20Grachten%2C%20Amsterdam",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Huis_aan_de_Drie_Grachten",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Huis_aan_de_drie_grachten.jpg/960px-Huis_aan_de_drie_grachten.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Huis_aan_de_Drie_Grachten"
+        }
+      },
+      {
+        "id": "amsterdam-bookshops-5",
+        "name": "Acta Philosophica Fennica",
+        "cityId": "amsterdam",
+        "categoryId": "bookshops",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Acta%20Philosophica%20Fennica%2C%20Amsterdam",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Acta_Philosophica_Fennica",
+        "photo": null
+      },
+      {
+        "id": "amsterdam-bookshops-6",
+        "name": "Alexander Bodon",
+        "cityId": "amsterdam",
+        "categoryId": "bookshops",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Alexander%20Bodon%2C%20Amsterdam",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Alexander_Bodon",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Portret_van_Alexander_Bodon%2C_architect_van_onder_andere_de_RAI%2C_Bestanddeelnr_932-5030.jpg/960px-Portret_van_Alexander_Bodon%2C_architect_van_onder_andere_de_RAI%2C_Bestanddeelnr_932-5030.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Alexander_Bodon"
+        }
+      },
+      {
+        "id": "amsterdam-bookshops-7",
+        "name": "Camas Bookstore and Infoshop",
+        "cityId": "amsterdam",
+        "categoryId": "bookshops",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Camas%20Bookstore%20and%20Infoshop%2C%20Amsterdam",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Camas_Bookstore_and_Infoshop",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/CamasInfoshop.jpg/960px-CamasInfoshop.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Camas_Bookstore_and_Infoshop"
+        }
+      },
+      {
+        "id": "amsterdam-bookshops-8",
+        "name": "Johannes van Dam",
+        "cityId": "amsterdam",
+        "categoryId": "bookshops",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Johannes%20van%20Dam%2C%20Amsterdam",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Johannes_van_Dam",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Johannes-van-dam-1385636831.jpg/960px-Johannes-van-dam-1385636831.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Johannes_van_Dam"
+        }
+      },
+      {
+        "id": "amsterdam-bookshops-9",
+        "name": "New Amsterdam Historic District",
+        "cityId": "amsterdam",
+        "categoryId": "bookshops",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=New%20Amsterdam%20Historic%20District%2C%20Amsterdam",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/New_Amsterdam_Historic_District",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/New_Amsterdam_streetscape_-_Detroit_Michigan.jpg/960px-New_Amsterdam_streetscape_-_Detroit_Michigan.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/New_Amsterdam_Historic_District"
+        }
+      },
+      {
+        "id": "amsterdam-bookshops-10",
+        "name": "Stuart Bertolotti-Bailey",
+        "cityId": "amsterdam",
+        "categoryId": "bookshops",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Stuart%20Bertolotti-Bailey%2C%20Amsterdam",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Stuart_Bertolotti-Bailey",
+        "photo": null
+      },
+      {
+        "id": "amsterdam-bookshops-11",
+        "name": "Red Emma's",
+        "cityId": "amsterdam",
+        "categoryId": "bookshops",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Red%20Emma's%2C%20Amsterdam",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Red_Emma's",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Red_Emma%27s_Cathedral_Street_location.jpg/960px-Red_Emma%27s_Cathedral_Street_location.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Red_Emma's"
+        }
+      },
+      {
+        "id": "amsterdam-bookshops-12",
+        "name": "BuchGourmet",
+        "cityId": "amsterdam",
+        "categoryId": "bookshops",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=BuchGourmet%2C%20Amsterdam",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/BuchGourmet",
+        "photo": null
+      },
+      {
+        "id": "amsterdam-bookshops-13",
+        "name": "Audax Groep",
+        "cityId": "amsterdam",
+        "categoryId": "bookshops",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Audax%20Groep%2C%20Amsterdam",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Audax_Groep",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Audax1.JPG/960px-Audax1.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Audax_Groep"
+        }
+      },
+      {
+        "id": "amsterdam-bookshops-14",
+        "name": "Kilometer Zero",
+        "cityId": "amsterdam",
+        "categoryId": "bookshops",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Kilometer%20Zero%2C%20Amsterdam",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Kilometer_Zero",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/en/2/2d/Theshortstep.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Kilometer_Zero"
+        }
+      },
+      {
+        "id": "amsterdam-bookshops-15",
+        "name": "August Aimé Balkema",
+        "cityId": "amsterdam",
+        "categoryId": "bookshops",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=August%20Aim%C3%A9%20Balkema%2C%20Amsterdam",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/August_Aim%C3%A9_Balkema",
+        "photo": null
+      },
+      {
+        "id": "amsterdam-bookshops-16",
+        "name": "Grimburgwal",
+        "cityId": "amsterdam",
+        "categoryId": "bookshops",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Grimburgwal%2C%20Amsterdam",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Grimburgwal",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Grimburgwal2.jpg/960px-Grimburgwal2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Grimburgwal"
+        }
+      },
+      {
+        "id": "amsterdam-bookshops-17",
+        "name": "Self-managed social center",
+        "cityId": "amsterdam",
+        "categoryId": "bookshops",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Self-managed%20social%20center%2C%20Amsterdam",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Self-managed_social_center",
+        "photo": null
+      },
+      {
+        "id": "amsterdam-bookshops-18",
+        "name": "Censorship in the Ancien Régime",
+        "cityId": "amsterdam",
+        "categoryId": "bookshops",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Censorship%20in%20the%20Ancien%20R%C3%A9gime%2C%20Amsterdam",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Censorship_in_the_Ancien_R%C3%A9gime",
+        "photo": null
+      }
+    ],
+    "museums": [
+      {
+        "id": "amsterdam-museums-1",
+        "name": "Rijksmuseum",
+        "cityId": "amsterdam",
+        "categoryId": "museums",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Rijksmuseum%2C%20Amsterdam",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Rijksmuseum",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/South_facade_of_the_Rijksmuseum_Amsterdam_%28DSCF0528%29.jpg/960px-South_facade_of_the_Rijksmuseum_Amsterdam_%28DSCF0528%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Rijksmuseum"
+        }
+      },
+      {
+        "id": "amsterdam-museums-2",
+        "name": "Amsterdam",
+        "cityId": "amsterdam",
+        "categoryId": "museums",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Amsterdam%2C%20Amsterdam",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Amsterdam",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Imagen_de_los_canales_conc%C3%A9ntricos_en_%C3%81msterdam.png/960px-Imagen_de_los_canales_conc%C3%A9ntricos_en_%C3%81msterdam.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Amsterdam"
+        }
+      },
+      {
+        "id": "amsterdam-museums-3",
+        "name": "Stedelijk Museum Amsterdam",
+        "cityId": "amsterdam",
+        "categoryId": "museums",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Stedelijk%20Museum%20Amsterdam%2C%20Amsterdam",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Stedelijk_Museum_Amsterdam",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/De_nieuwe_vleugel_van_het_Stedelijk_Museum_Amsterdam.jpg/960px-De_nieuwe_vleugel_van_het_Stedelijk_Museum_Amsterdam.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Stedelijk_Museum_Amsterdam"
+        }
+      },
+      {
+        "id": "amsterdam-museums-4",
+        "name": "Van Gogh Museum",
+        "cityId": "amsterdam",
+        "categoryId": "museums",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Van%20Gogh%20Museum%2C%20Amsterdam",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Van_Gogh_Museum",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Logo_-_Van_Gogh_Museum.png/960px-Logo_-_Van_Gogh_Museum.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Van_Gogh_Museum"
+        }
+      },
+      {
+        "id": "amsterdam-museums-5",
+        "name": "Amsterdam Museum",
+        "cityId": "amsterdam",
+        "categoryId": "museums",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Amsterdam%20Museum%2C%20Amsterdam",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Amsterdam_Museum",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/Ingang_Amsterdam_Museum.jpg/960px-Ingang_Amsterdam_Museum.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Amsterdam_Museum"
+        }
+      },
+      {
+        "id": "amsterdam-museums-6",
+        "name": "Rembrandt",
+        "cityId": "amsterdam",
+        "categoryId": "museums",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Rembrandt%2C%20Amsterdam",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Rembrandt",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Rembrandt_van_Rijn_-_Self-Portrait_-_Google_Art_Project.jpg/960px-Rembrandt_van_Rijn_-_Self-Portrait_-_Google_Art_Project.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Rembrandt"
+        }
+      },
+      {
+        "id": "amsterdam-museums-7",
+        "name": "Wereldmuseum Amsterdam",
+        "cityId": "amsterdam",
+        "categoryId": "museums",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Wereldmuseum%20Amsterdam%2C%20Amsterdam",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Wereldmuseum_Amsterdam",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Wereldmuseum_Amsterdam_%282024%29-1.jpg/960px-Wereldmuseum_Amsterdam_%282024%29-1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Wereldmuseum_Amsterdam"
+        }
+      },
+      {
+        "id": "amsterdam-museums-8",
+        "name": "EYE Institut Filmmuseum",
+        "cityId": "amsterdam",
+        "categoryId": "museums",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=EYE%20Institut%20Filmmuseum%2C%20Amsterdam",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/EYE_Institut_Filmmuseum",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/EYE_Filmmuseum.jpg/960px-EYE_Filmmuseum.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/EYE_Institut_Filmmuseum"
+        }
+      },
+      {
+        "id": "amsterdam-museums-9",
+        "name": "Rembrandt House Museum",
+        "cityId": "amsterdam",
+        "categoryId": "museums",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Rembrandt%20House%20Museum%2C%20Amsterdam",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Rembrandt_House_Museum",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Rembrandshuis.jpg/960px-Rembrandshuis.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Rembrandt_House_Museum"
+        }
+      },
+      {
+        "id": "amsterdam-museums-10",
+        "name": "Alexey Diakonoff",
+        "cityId": "amsterdam",
+        "categoryId": "museums",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Alexey%20Diakonoff%2C%20Amsterdam",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Alexey_Diakonoff",
+        "photo": null
+      },
+      {
+        "id": "amsterdam-museums-11",
+        "name": "Anne Frank House",
+        "cityId": "amsterdam",
+        "categoryId": "museums",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Anne%20Frank%20House%2C%20Amsterdam",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Anne_Frank_House",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Amsterdam_%28NL%29%2C_Anne-Frank-Huis_--_2015_--_7185.jpg/960px-Amsterdam_%28NL%29%2C_Anne-Frank-Huis_--_2015_--_7185.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Anne_Frank_House"
+        }
+      },
+      {
+        "id": "amsterdam-museums-12",
+        "name": "Amsterdam Impressionism",
+        "cityId": "amsterdam",
+        "categoryId": "museums",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Amsterdam%20Impressionism%2C%20Amsterdam",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Amsterdam_Impressionism",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Studenten_Rijksacademie_Amsterdam_1882-1883.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Amsterdam_Impressionism"
+        }
+      },
+      {
+        "id": "amsterdam-museums-13",
+        "name": "The Potato Eaters",
+        "cityId": "amsterdam",
+        "categoryId": "museums",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Potato%20Eaters%2C%20Amsterdam",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/The_Potato_Eaters",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/De_aardappeleters_-_s0005V1962_-_Van_Gogh_Museum.jpg/960px-De_aardappeleters_-_s0005V1962_-_Van_Gogh_Museum.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/The_Potato_Eaters"
+        }
+      },
+      {
+        "id": "amsterdam-museums-14",
+        "name": "Portraits of Vincent van Gogh",
+        "cityId": "amsterdam",
+        "categoryId": "museums",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Portraits%20of%20Vincent%20van%20Gogh%2C%20Amsterdam",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Portraits_of_Vincent_van_Gogh",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/Vincent_Willem_van_Gogh_102.jpg/960px-Vincent_Willem_van_Gogh_102.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Portraits_of_Vincent_van_Gogh"
+        }
+      },
+      {
+        "id": "amsterdam-museums-15",
+        "name": "Royal Palace of Amsterdam",
+        "cityId": "amsterdam",
+        "categoryId": "museums",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Royal%20Palace%20of%20Amsterdam%2C%20Amsterdam",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Royal_Palace_of_Amsterdam",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Paleis_op_de_Dam_2026.jpg/960px-Paleis_op_de_Dam_2026.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Royal_Palace_of_Amsterdam"
+        }
+      },
+      {
+        "id": "amsterdam-museums-16",
+        "name": "Plantage",
+        "cityId": "amsterdam",
+        "categoryId": "museums",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Plantage%2C%20Amsterdam",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Plantage",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Hortulanuswoning_en_entreegebouw_van_de_Hortus_Botanicus.JPG/960px-Hortulanuswoning_en_entreegebouw_van_de_Hortus_Botanicus.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Plantage"
+        }
+      },
+      {
+        "id": "amsterdam-museums-17",
+        "name": "Museumkwartier",
+        "cityId": "amsterdam",
+        "categoryId": "museums",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Museumkwartier%2C%20Amsterdam",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Museumkwartier",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Concertgebouw_3.jpg/960px-Concertgebouw_3.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Museumkwartier"
+        }
+      },
+      {
+        "id": "amsterdam-museums-18",
+        "name": "Wheatfield Under Thunderclouds",
+        "cityId": "amsterdam",
+        "categoryId": "museums",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Wheatfield%20Under%20Thunderclouds%2C%20Amsterdam",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Wheatfield_Under_Thunderclouds",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Vincent_van_Gogh_-_Wheatfield_under_thunderclouds_-_Google_Art_Project.jpg/960px-Vincent_van_Gogh_-_Wheatfield_under_thunderclouds_-_Google_Art_Project.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Wheatfield_Under_Thunderclouds"
+        }
+      }
+    ],
+    "concerts": [
+      {
+        "id": "amsterdam-concerts-1",
+        "name": "Royal Concertgebouw Orchestra",
+        "cityId": "amsterdam",
+        "categoryId": "concerts",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Royal%20Concertgebouw%20Orchestra%2C%20Amsterdam",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Royal_Concertgebouw_Orchestra",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Concertgebouworkest_Signet.svg/960px-Concertgebouworkest_Signet.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Royal_Concertgebouw_Orchestra"
+        }
+      },
+      {
+        "id": "amsterdam-concerts-2",
+        "name": "Concertgebouw, Amsterdam",
+        "cityId": "amsterdam",
+        "categoryId": "concerts",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Concertgebouw%2C%20Amsterdam%2C%20Amsterdam",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Concertgebouw%2C_Amsterdam",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/Concertgebouw_from_Museumplein_2539.jpg/960px-Concertgebouw_from_Museumplein_2539.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Concertgebouw%2C_Amsterdam"
+        }
+      },
+      {
+        "id": "amsterdam-concerts-3",
+        "name": "AFAS Live",
+        "cityId": "amsterdam",
+        "categoryId": "concerts",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=AFAS%20Live%2C%20Amsterdam",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/AFAS_Live",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/AFAS_Live_voorgevel.jpg/960px-AFAS_Live_voorgevel.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/AFAS_Live"
+        }
+      },
+      {
+        "id": "amsterdam-concerts-4",
+        "name": "Bimhuis",
+        "cityId": "amsterdam",
+        "categoryId": "concerts",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Bimhuis%2C%20Amsterdam",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Bimhuis",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Bimhuis_by_day.JPG/960px-Bimhuis_by_day.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Bimhuis"
+        }
+      },
+      {
+        "id": "amsterdam-concerts-5",
+        "name": "Musikverein",
+        "cityId": "amsterdam",
+        "categoryId": "concerts",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Musikverein%2C%20Amsterdam",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Musikverein",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Wien_-_Haus_des_Wiener_Musikvereins_%281%29.JPG/960px-Wien_-_Haus_des_Wiener_Musikvereins_%281%29.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Musikverein"
+        }
+      },
+      {
+        "id": "amsterdam-concerts-6",
+        "name": "OCCII",
+        "cityId": "amsterdam",
+        "categoryId": "concerts",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=OCCII%2C%20Amsterdam",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/OCCII",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Occii_Amstelveenseweg_134_Amsterdam_1.jpg/960px-Occii_Amstelveenseweg_134_Amsterdam_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/OCCII"
+        }
+      },
+      {
+        "id": "amsterdam-concerts-7",
+        "name": "Muziekgebouw aan 't IJ",
+        "cityId": "amsterdam",
+        "categoryId": "concerts",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Muziekgebouw%20aan%20't%20IJ%2C%20Amsterdam",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Muziekgebouw_aan_'t_IJ",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Muziekgebouw_aan_%27t_IJ.jpg/960px-Muziekgebouw_aan_%27t_IJ.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Muziekgebouw_aan_'t_IJ"
+        }
+      },
+      {
+        "id": "amsterdam-concerts-8",
+        "name": "Museumplein",
+        "cityId": "amsterdam",
+        "categoryId": "concerts",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Museumplein%2C%20Amsterdam",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Museumplein",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Amsterdam%2C_Holland_%28Ank_kumar_%29_12.jpg/960px-Amsterdam%2C_Holland_%28Ank_kumar_%29_12.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Museumplein"
+        }
+      },
+      {
+        "id": "amsterdam-concerts-9",
+        "name": "Merkin Hall",
+        "cityId": "amsterdam",
+        "categoryId": "concerts",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Merkin%20Hall%2C%20Amsterdam",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Merkin_Hall",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/en/thumb/e/e9/Performance_at_Merkin_Concert_Hall_7-27-2007.jpg/960px-Performance_at_Merkin_Concert_Hall_7-27-2007.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Merkin_Hall"
+        }
+      },
+      {
+        "id": "amsterdam-concerts-10",
+        "name": "Architectural acoustics",
+        "cityId": "amsterdam",
+        "categoryId": "concerts",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Architectural%20acoustics%2C%20Amsterdam",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Architectural_acoustics",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Symphony_Hall_Birmingham.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Architectural_acoustics"
+        }
+      },
+      {
+        "id": "amsterdam-concerts-11",
+        "name": "Felix Meritis",
+        "cityId": "amsterdam",
+        "categoryId": "concerts",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Felix%20Meritis%2C%20Amsterdam",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Felix_Meritis",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/FelixM.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Felix_Meritis"
+        }
+      },
+      {
+        "id": "amsterdam-concerts-12",
+        "name": "Gerrit de Jong Jr.",
+        "cityId": "amsterdam",
+        "categoryId": "concerts",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Gerrit%20de%20Jong%20Jr.%2C%20Amsterdam",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Gerrit_de_Jong_Jr.",
+        "photo": null
+      },
+      {
+        "id": "amsterdam-concerts-13",
+        "name": "Rotterdam Philharmonic Orchestra",
+        "cityId": "amsterdam",
+        "categoryId": "concerts",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Rotterdam%20Philharmonic%20Orchestra%2C%20Amsterdam",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Rotterdam_Philharmonic_Orchestra",
+        "photo": null
+      },
+      {
+        "id": "amsterdam-concerts-14",
+        "name": "Amsterdam",
+        "cityId": "amsterdam",
+        "categoryId": "concerts",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Amsterdam%2C%20Amsterdam",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Amsterdam",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Imagen_de_los_canales_conc%C3%A9ntricos_en_%C3%81msterdam.png/960px-Imagen_de_los_canales_conc%C3%A9ntricos_en_%C3%81msterdam.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Amsterdam"
+        }
+      },
+      {
+        "id": "amsterdam-concerts-15",
+        "name": "3XN",
+        "cityId": "amsterdam",
+        "categoryId": "concerts",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=3XN%2C%20Amsterdam",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/3XN",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/Quay_Quarter_Tower%2C_Governor_Phillip_Tower%2C_Sydney%2C_2023%2C_03.jpg/960px-Quay_Quarter_Tower%2C_Governor_Phillip_Tower%2C_Sydney%2C_2023%2C_03.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/3XN"
+        }
+      },
+      {
+        "id": "amsterdam-concerts-16",
+        "name": "Symphony Hall, Birmingham",
+        "cityId": "amsterdam",
+        "categoryId": "concerts",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Symphony%20Hall%2C%20Birmingham%2C%20Amsterdam",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Symphony_Hall%2C_Birmingham",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Symphony-Hall-Birmingham-from-Upper_Circle.jpg/960px-Symphony-Hall-Birmingham-from-Upper_Circle.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Symphony_Hall%2C_Birmingham"
+        }
+      },
+      {
+        "id": "amsterdam-concerts-17",
+        "name": "Amsterdam Oud-Zuid",
+        "cityId": "amsterdam",
+        "categoryId": "concerts",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Amsterdam%20Oud-Zuid%2C%20Amsterdam",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Amsterdam_Oud-Zuid",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Map_NL_-_Amsterdam_-_Stadsdeel_Oud-Zuid.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Amsterdam_Oud-Zuid"
+        }
+      },
+      {
+        "id": "amsterdam-concerts-18",
+        "name": "Symphony Hall",
+        "cityId": "amsterdam",
+        "categoryId": "concerts",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Symphony%20Hall%2C%20Amsterdam",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Symphony_Hall_(Boston)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Symphony_Hall_front_view.jpg/960px-Symphony_Hall_front_view.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Symphony_Hall_(Boston)"
+        }
+      }
+    ],
+    "fashion": [
+      {
+        "id": "amsterdam-fashion-1",
+        "name": "Tobias Sorensen",
+        "cityId": "amsterdam",
+        "categoryId": "fashion",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Tobias%20Sorensen%2C%20Amsterdam",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Tobias_Sorensen",
+        "photo": null
+      },
+      {
+        "id": "amsterdam-fashion-2",
+        "name": "Leon Major",
+        "cityId": "amsterdam",
+        "categoryId": "fashion",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Leon%20Major%2C%20Amsterdam",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Leon_Major",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/af/Leon_Major_CTM_Interview_2013.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Leon_Major"
+        }
+      },
+      {
+        "id": "amsterdam-fashion-3",
+        "name": "Sterke verhalen",
+        "cityId": "amsterdam",
+        "categoryId": "fashion",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Sterke%20verhalen%2C%20Amsterdam",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Sterke_verhalen",
+        "photo": null
+      },
+      {
+        "id": "amsterdam-fashion-4",
+        "name": "Shop Window",
+        "cityId": "amsterdam",
+        "categoryId": "fashion",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Shop%20Window%2C%20Amsterdam",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Shop_Window_(Isra%C3%ABls)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Israels_Isaac_-_Shop_Window.jpg/960px-Israels_Isaac_-_Shop_Window.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Shop_Window_(Isra%C3%ABls)"
+        }
+      },
+      {
+        "id": "amsterdam-fashion-5",
+        "name": "Ferenc Sas",
+        "cityId": "amsterdam",
+        "categoryId": "fashion",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Ferenc%20Sas%2C%20Amsterdam",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Ferenc_Sas",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Francisco_Sas_Sohn_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Ferenc_Sas"
+        }
+      },
+      {
+        "id": "amsterdam-fashion-6",
+        "name": "Otto Baumberger",
+        "cityId": "amsterdam",
+        "categoryId": "fashion",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Otto%20Baumberger%2C%20Amsterdam",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Otto_Baumberger",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/ETH-BIB-Baumberger%2C_Otto_%281889-1961%29-Portr_00019.tif/lossy-page1-500px-ETH-BIB-Baumberger%2C_Otto_%281889-1961%29-Portr_00019.tif.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Otto_Baumberger"
+        }
+      },
+      {
+        "id": "amsterdam-fashion-7",
+        "name": "Symphony Sid",
+        "cityId": "amsterdam",
+        "categoryId": "fashion",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Symphony%20Sid%2C%20Amsterdam",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Symphony_Sid",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Symphony_Sid_and_Josh_White%2C_WHOM%2C_New_York%2C_N.Y.%2C_between_1946_and_1948_%28William_P._Gottlieb_15291%29.jpg/960px-Symphony_Sid_and_Josh_White%2C_WHOM%2C_New_York%2C_N.Y.%2C_between_1946_and_1948_%28William_P._Gottlieb_15291%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Symphony_Sid"
+        }
+      },
+      {
+        "id": "amsterdam-fashion-8",
+        "name": "Sneek",
+        "cityId": "amsterdam",
+        "categoryId": "fashion",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Sneek%2C%20Amsterdam",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Sneek",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/20190529_Waterpoort1_Sneek.jpg/960px-20190529_Waterpoort1_Sneek.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Sneek"
+        }
+      },
+      {
+        "id": "amsterdam-fashion-9",
+        "name": "Paavo Nurmi",
+        "cityId": "amsterdam",
+        "categoryId": "fashion",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Paavo%20Nurmi%2C%20Amsterdam",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Paavo_Nurmi",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Paavo_Nurmi_%28Antwerp_1920%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Paavo_Nurmi"
+        }
+      },
+      {
+        "id": "amsterdam-fashion-10",
+        "name": "Vic Damone",
+        "cityId": "amsterdam",
+        "categoryId": "fashion",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Vic%20Damone%2C%20Amsterdam",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Vic_Damone",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Vic_Damone_1959.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Vic_Damone"
+        }
+      },
+      {
+        "id": "amsterdam-fashion-11",
+        "name": "The Belnord",
+        "cityId": "amsterdam",
+        "categoryId": "fashion",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Belnord%2C%20Amsterdam",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/The_Belnord",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/Upper_West_Side_May_2026_198.jpg/960px-Upper_West_Side_May_2026_198.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/The_Belnord"
+        }
+      },
+      {
+        "id": "amsterdam-fashion-12",
+        "name": "Park Row",
+        "cityId": "amsterdam",
+        "categoryId": "fashion",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Park%20Row%2C%20Amsterdam",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Park_Row_(Manhattan)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/15_Park_Row_3.JPG/960px-15_Park_Row_3.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Park_Row_(Manhattan)"
+        }
+      },
+      {
+        "id": "amsterdam-fashion-13",
+        "name": "Midwood, Brooklyn",
+        "cityId": "amsterdam",
+        "categoryId": "fashion",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Midwood%2C%20Brooklyn%2C%20Amsterdam",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Midwood%2C_Brooklyn",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Kings_Hwy_E_16th_St_td_%282017-11-28%29_01_-_1601_Kings_Highway.jpg/960px-Kings_Hwy_E_16th_St_td_%282017-11-28%29_01_-_1601_Kings_Highway.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Midwood%2C_Brooklyn"
+        }
+      },
+      {
+        "id": "amsterdam-fashion-14",
+        "name": "The El Dorado",
+        "cityId": "amsterdam",
+        "categoryId": "fashion",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20El%20Dorado%2C%20Amsterdam",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/The_El_Dorado",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/The_Eldorado_Apartments.jpg/960px-The_Eldorado_Apartments.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/The_El_Dorado"
+        }
+      },
+      {
+        "id": "amsterdam-fashion-15",
+        "name": "Economy of Memphis, Tennessee",
+        "cityId": "amsterdam",
+        "categoryId": "fashion",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Economy%20of%20Memphis%2C%20Tennessee%2C%20Amsterdam",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Economy_of_Memphis%2C_Tennessee",
+        "photo": null
+      },
+      {
+        "id": "amsterdam-fashion-16",
+        "name": "Heins & LaFarge",
+        "cityId": "amsterdam",
+        "categoryId": "fashion",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Heins%20%26%20LaFarge%2C%20Amsterdam",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Heins_%26_LaFarge",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/Cathedral_of_St._John_the_Divine_%286435402661%29.jpg/960px-Cathedral_of_St._John_the_Divine_%286435402661%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Heins_%26_LaFarge"
+        }
+      },
+      {
+        "id": "amsterdam-fashion-17",
+        "name": "Brunhilde Pomsel",
+        "cityId": "amsterdam",
+        "categoryId": "fashion",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Brunhilde%20Pomsel%2C%20Amsterdam",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Brunhilde_Pomsel",
+        "photo": null
+      },
+      {
+        "id": "amsterdam-fashion-18",
+        "name": "Lillian Vernon",
+        "cityId": "amsterdam",
+        "categoryId": "fashion",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Lillian%20Vernon%2C%20Amsterdam",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Lillian_Vernon_(businesswoman)",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Lillian_Vernon_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Lillian_Vernon_(businesswoman)"
+        }
+      }
+    ],
+    "shops": [
+      {
+        "id": "amsterdam-shops-1",
+        "name": "Ahold Delhaize",
+        "cityId": "amsterdam",
+        "categoryId": "shops",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Ahold%20Delhaize%2C%20Amsterdam",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Ahold_Delhaize",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Albert_Heijn_Headquarters_by_Niels_Kim.jpg/960px-Albert_Heijn_Headquarters_by_Niels_Kim.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Ahold_Delhaize"
+        }
+      },
+      {
+        "id": "amsterdam-shops-2",
+        "name": "Lambiek",
+        "cityId": "amsterdam",
+        "categoryId": "shops",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Lambiek%2C%20Amsterdam",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Lambiek",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Lambiek-Exterior.jpg/960px-Lambiek-Exterior.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Lambiek"
+        }
+      },
+      {
+        "id": "amsterdam-shops-3",
+        "name": "Coffeeshop",
+        "cityId": "amsterdam",
+        "categoryId": "shops",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Coffeeshop%2C%20Amsterdam",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Coffeeshop_(Netherlands)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Coffeeshop_Reefer.jpg/960px-Coffeeshop_Reefer.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Coffeeshop_(Netherlands)"
+        }
+      },
+      {
+        "id": "amsterdam-shops-4",
+        "name": "The Hungarian Pastry Shop",
+        "cityId": "amsterdam",
+        "categoryId": "shops",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Hungarian%20Pastry%20Shop%2C%20Amsterdam",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/The_Hungarian_Pastry_Shop",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/Hungarian_Pastry_Shop.jpg/960px-Hungarian_Pastry_Shop.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/The_Hungarian_Pastry_Shop"
+        }
+      },
+      {
+        "id": "amsterdam-shops-5",
+        "name": "Spar",
+        "cityId": "amsterdam",
+        "categoryId": "shops",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Spar%2C%20Amsterdam",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Spar_(retailer)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/SPAR_Mascot_at_the_ESC_Turquoise_Carpet_%E2%80%93_BT0A9538.jpg/960px-SPAR_Mascot_at_the_ESC_Turquoise_Carpet_%E2%80%93_BT0A9538.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Spar_(retailer)"
+        }
+      },
+      {
+        "id": "amsterdam-shops-6",
+        "name": "WCSS",
+        "cityId": "amsterdam",
+        "categoryId": "shops",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=WCSS%2C%20Amsterdam",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/WCSS",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/WCSSWKAJ1.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/WCSS"
+        }
+      },
+      {
+        "id": "amsterdam-shops-7",
+        "name": ".amsterdam",
+        "cityId": "amsterdam",
+        "categoryId": "shops",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=.amsterdam%2C%20Amsterdam",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/.amsterdam",
+        "photo": null
+      },
+      {
+        "id": "amsterdam-shops-8",
+        "name": "Cannabis retail outlet",
+        "cityId": "amsterdam",
+        "categoryId": "shops",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Cannabis%20retail%20outlet%2C%20Amsterdam",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Cannabis_retail_outlet",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Discount_Medical_Marijuana_-_2.jpg/960px-Discount_Medical_Marijuana_-_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Cannabis_retail_outlet"
+        }
+      },
+      {
+        "id": "amsterdam-shops-9",
+        "name": "Amsterdam, New Jersey",
+        "cityId": "amsterdam",
+        "categoryId": "shops",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Amsterdam%2C%20New%20Jersey%2C%20Amsterdam",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Amsterdam%2C_New_Jersey",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/5_Amsterdam_Road%2C_Amsterdam%2C_NJ.jpg/960px-5_Amsterdam_Road%2C_Amsterdam%2C_NJ.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Amsterdam%2C_New_Jersey"
+        }
+      },
+      {
+        "id": "amsterdam-shops-10",
+        "name": ".shop",
+        "cityId": "amsterdam",
+        "categoryId": "shops",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=.shop%2C%20Amsterdam",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/.shop",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/DotShop_gTLD_logo.svg/960px-DotShop_gTLD_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/.shop"
+        }
+      },
+      {
+        "id": "amsterdam-shops-11",
+        "name": "Rembrandt House Museum",
+        "cityId": "amsterdam",
+        "categoryId": "shops",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Rembrandt%20House%20Museum%2C%20Amsterdam",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Rembrandt_House_Museum",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Rembrandshuis.jpg/960px-Rembrandshuis.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Rembrandt_House_Museum"
+        }
+      },
+      {
+        "id": "amsterdam-shops-12",
+        "name": "Weesp railway station",
+        "cityId": "amsterdam",
+        "categoryId": "shops",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Weesp%20railway%20station%2C%20Amsterdam",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Weesp_railway_station",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/Station_Weesp_%282023%29.jpg/960px-Station_Weesp_%282023%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Weesp_railway_station"
+        }
+      },
+      {
+        "id": "amsterdam-shops-13",
+        "name": ".xyz",
+        "cityId": "amsterdam",
+        "categoryId": "shops",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=.xyz%2C%20Amsterdam",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/.xyz",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/.xyz_logo.svg/960px-.xyz_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/.xyz"
+        }
+      },
+      {
+        "id": "amsterdam-shops-14",
+        "name": "International Anarchist Congress of Amsterdam",
+        "cityId": "amsterdam",
+        "categoryId": "shops",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=International%20Anarchist%20Congress%20of%20Amsterdam%2C%20Amsterdam",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/International_Anarchist_Congress_of_Amsterdam",
+        "photo": null
+      },
+      {
+        "id": "amsterdam-shops-15",
+        "name": "OT301",
+        "cityId": "amsterdam",
+        "categoryId": "shops",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=OT301%2C%20Amsterdam",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/OT301",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/12/Overtoom_301%2C_entrance.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/OT301"
+        }
+      },
+      {
+        "id": "amsterdam-shops-16",
+        "name": "Disabilities",
+        "cityId": "amsterdam",
+        "categoryId": "shops",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Disabilities%2C%20Amsterdam",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Disabilities_(Jewish)",
+        "photo": null
+      },
+      {
+        "id": "amsterdam-shops-17",
+        "name": "Free Record Shop",
+        "cityId": "amsterdam",
+        "categoryId": "shops",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Free%20Record%20Shop%2C%20Amsterdam",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Free_Record_Shop",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Free-record-shop.svg/960px-Free-record-shop.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Free_Record_Shop"
+        }
+      },
+      {
+        "id": "amsterdam-shops-18",
+        "name": "Mellow Yellow",
+        "cityId": "amsterdam",
+        "categoryId": "shops",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Mellow%20Yellow%2C%20Amsterdam",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Mellow_Yellow_(coffeeshop)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Coffeeshop_Mellow_Yellow.jpg/960px-Coffeeshop_Mellow_Yellow.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Mellow_Yellow_(coffeeshop)"
+        }
+      }
+    ]
+  }
+}

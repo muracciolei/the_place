@@ -1,6 +1,7 @@
 import { useTranslation } from 'react-i18next'
 import { HAS_GOOGLE_KEY } from '../config'
 import { useFavorites } from '../hooks/useFavorites'
+import { useLocalDataPreference } from '../hooks/useLocalDataPreference'
 import LanguageSwitcher from '../components/LanguageSwitcher'
 import InstallButton from '../components/InstallButton'
 import { Link } from 'react-router-dom'
@@ -8,6 +9,7 @@ import { Link } from 'react-router-dom'
 export default function SettingsPage() {
   const { t } = useTranslation()
   const { favorites, remove } = useFavorites()
+  const [useLocal, setUseLocal] = useLocalDataPreference()
 
   return (
     <div className="page settings-page">
@@ -20,6 +22,17 @@ export default function SettingsPage() {
       <section className="settings-block">
         <h2>{t('settings.install')}</h2>
         <InstallButton />
+      </section>
+
+      <section className="settings-block">
+        <label className="switch-row">
+          <input
+            type="checkbox"
+            checked={Boolean(useLocal)}
+            onChange={(event) => setUseLocal(event.target.checked)}
+          />
+          <span>{t('settings.useLocal')}</span>
+        </label>
       </section>
 
       <section className="settings-block">

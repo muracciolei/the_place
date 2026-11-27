@@ -1,0 +1,2318 @@
+{
+  "cityId": "buenos-aires",
+  "generatedAt": "2026-11-27T08:36:05.884Z",
+  "source": "Wikipedia API + Maps URLs (sin scraping de Google)",
+  "incomplete": [],
+  "categories": {
+    "night_clubs": [
+      {
+        "id": "buenos-aires-night_clubs-1",
+        "name": "Aníbal Ibarra",
+        "cityId": "buenos-aires",
+        "categoryId": "night_clubs",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=An%C3%ADbal%20Ibarra%2C%20Buenos%20Aires",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/An%C3%ADbal_Ibarra",
+        "photo": null
+      },
+      {
+        "id": "buenos-aires-night_clubs-2",
+        "name": "Amerika",
+        "cityId": "buenos-aires",
+        "categoryId": "night_clubs",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Amerika%2C%20Buenos%20Aires",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Amerika_(nightclub)",
+        "photo": null
+      },
+      {
+        "id": "buenos-aires-night_clubs-3",
+        "name": "Omar Chabán",
+        "cityId": "buenos-aires",
+        "categoryId": "night_clubs",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Omar%20Chab%C3%A1n%2C%20Buenos%20Aires",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Omar_Chab%C3%A1n",
+        "photo": null
+      },
+      {
+        "id": "buenos-aires-night_clubs-4",
+        "name": "Pizza, Beer, and Cigarettes",
+        "cityId": "buenos-aires",
+        "categoryId": "night_clubs",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Pizza%2C%20Beer%2C%20and%20Cigarettes%2C%20Buenos%20Aires",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Pizza%2C_Beer%2C_and_Cigarettes",
+        "photo": null
+      },
+      {
+        "id": "buenos-aires-night_clubs-5",
+        "name": "María de Buenos Aires",
+        "cityId": "buenos-aires",
+        "categoryId": "night_clubs",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Mar%C3%ADa%20de%20Buenos%20Aires%2C%20Buenos%20Aires",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Mar%C3%ADa_de_Buenos_Aires",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/53/Astor_Piazzolla.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Mar%C3%ADa_de_Buenos_Aires"
+        }
+      },
+      {
+        "id": "buenos-aires-night_clubs-6",
+        "name": "Olivos, Buenos Aires",
+        "cityId": "buenos-aires",
+        "categoryId": "night_clubs",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Olivos%2C%20Buenos%20Aires%2C%20Buenos%20Aires",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Olivos%2C_Buenos_Aires",
+        "photo": null
+      },
+      {
+        "id": "buenos-aires-night_clubs-7",
+        "name": "The Black Vampire",
+        "cityId": "buenos-aires",
+        "categoryId": "night_clubs",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Black%20Vampire%2C%20Buenos%20Aires",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/The_Black_Vampire",
+        "photo": null
+      },
+      {
+        "id": "buenos-aires-night_clubs-8",
+        "name": "Fabian Perez",
+        "cityId": "buenos-aires",
+        "categoryId": "night_clubs",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Fabian%20Perez%2C%20Buenos%20Aires",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Fabian_Perez",
+        "photo": null
+      },
+      {
+        "id": "buenos-aires-night_clubs-9",
+        "name": "Cine Cosmos",
+        "cityId": "buenos-aires",
+        "categoryId": "night_clubs",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Cine%20Cosmos%2C%20Buenos%20Aires",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Cine_Cosmos",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Cine_Cosmos_%28julio_de_2010%29.JPG/960px-Cine_Cosmos_%28julio_de_2010%29.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Cine_Cosmos"
+        }
+      },
+      {
+        "id": "buenos-aires-night_clubs-10",
+        "name": "Buenos Aires",
+        "cityId": "buenos-aires",
+        "categoryId": "night_clubs",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Buenos%20Aires%2C%20Buenos%20Aires",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Buenos_Aires",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Puerto_Madero%2C_Buenos_Aires_%2840689219792%29_%28cropped%29.jpg/960px-Puerto_Madero%2C_Buenos_Aires_%2840689219792%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Buenos_Aires"
+        }
+      },
+      {
+        "id": "buenos-aires-night_clubs-11",
+        "name": "Patricio Fontanet",
+        "cityId": "buenos-aires",
+        "categoryId": "night_clubs",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Patricio%20Fontanet%2C%20Buenos%20Aires",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Patricio_Fontanet",
+        "photo": null
+      },
+      {
+        "id": "buenos-aires-night_clubs-12",
+        "name": "Maximiliano Djerfy",
+        "cityId": "buenos-aires",
+        "categoryId": "night_clubs",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Maximiliano%20Djerfy%2C%20Buenos%20Aires",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Maximiliano_Djerfy",
+        "photo": null
+      },
+      {
+        "id": "buenos-aires-night_clubs-13",
+        "name": "Katja Alemann",
+        "cityId": "buenos-aires",
+        "categoryId": "night_clubs",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Katja%20Alemann%2C%20Buenos%20Aires",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Katja_Alemann",
+        "photo": null
+      },
+      {
+        "id": "buenos-aires-night_clubs-14",
+        "name": "Callejeros",
+        "cityId": "buenos-aires",
+        "categoryId": "night_clubs",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Callejeros%2C%20Buenos%20Aires",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Callejeros",
+        "photo": null
+      },
+      {
+        "id": "buenos-aires-night_clubs-15",
+        "name": "2007 Buenos Aires City elections",
+        "cityId": "buenos-aires",
+        "categoryId": "night_clubs",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=2007%20Buenos%20Aires%20City%20elections%2C%20Buenos%20Aires",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/2007_Buenos_Aires_City_elections",
+        "photo": null
+      },
+      {
+        "id": "buenos-aires-night_clubs-16",
+        "name": "Eduardo Vázquez",
+        "cityId": "buenos-aires",
+        "categoryId": "night_clubs",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Eduardo%20V%C3%A1zquez%2C%20Buenos%20Aires",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Eduardo_V%C3%A1zquez",
+        "photo": null
+      },
+      {
+        "id": "buenos-aires-night_clubs-17",
+        "name": "2014 in Argentina",
+        "cityId": "buenos-aires",
+        "categoryId": "night_clubs",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=2014%20in%20Argentina%2C%20Buenos%20Aires",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/2014_in_Argentina",
+        "photo": null
+      },
+      {
+        "id": "buenos-aires-night_clubs-18",
+        "name": "Osvaldo Fresedo",
+        "cityId": "buenos-aires",
+        "categoryId": "night_clubs",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Osvaldo%20Fresedo%2C%20Buenos%20Aires",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Osvaldo_Fresedo",
+        "photo": null
+      }
+    ],
+    "restaurants": [
+      {
+        "id": "buenos-aires-restaurants-1",
+        "name": "California Burrito Co.",
+        "cityId": "buenos-aires",
+        "categoryId": "restaurants",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=California%20Burrito%20Co.%2C%20Buenos%20Aires",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/California_Burrito_Co.",
+        "photo": null
+      },
+      {
+        "id": "buenos-aires-restaurants-2",
+        "name": "Barrio Chino",
+        "cityId": "buenos-aires",
+        "categoryId": "restaurants",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Barrio%20Chino%2C%20Buenos%20Aires",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Barrio_Chino_(Buenos_Aires)",
+        "photo": null
+      },
+      {
+        "id": "buenos-aires-restaurants-3",
+        "name": "Confitería del Molino",
+        "cityId": "buenos-aires",
+        "categoryId": "restaurants",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Confiter%C3%ADa%20del%20Molino%2C%20Buenos%20Aires",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Confiter%C3%ADa_del_Molino",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Confiter%C3%ADa_del_Molino_in_2022.jpg/960px-Confiter%C3%ADa_del_Molino_in_2022.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Confiter%C3%ADa_del_Molino"
+        }
+      },
+      {
+        "id": "buenos-aires-restaurants-4",
+        "name": "AMIA bombing",
+        "cityId": "buenos-aires",
+        "categoryId": "restaurants",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=AMIA%20bombing%2C%20Buenos%20Aires",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/AMIA_bombing",
+        "photo": null
+      },
+      {
+        "id": "buenos-aires-restaurants-5",
+        "name": "Buenos Aires Japanese Gardens",
+        "cityId": "buenos-aires",
+        "categoryId": "restaurants",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Buenos%20Aires%20Japanese%20Gardens%2C%20Buenos%20Aires",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Buenos_Aires_Japanese_Gardens",
+        "photo": null
+      },
+      {
+        "id": "buenos-aires-restaurants-6",
+        "name": "Ada Cóncaro",
+        "cityId": "buenos-aires",
+        "categoryId": "restaurants",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Ada%20C%C3%B3ncaro%2C%20Buenos%20Aires",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Ada_C%C3%B3ncaro",
+        "photo": null
+      },
+      {
+        "id": "buenos-aires-restaurants-7",
+        "name": "Confitería Richmond",
+        "cityId": "buenos-aires",
+        "categoryId": "restaurants",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Confiter%C3%ADa%20Richmond%2C%20Buenos%20Aires",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Confiter%C3%ADa_Richmond",
+        "photo": null
+      },
+      {
+        "id": "buenos-aires-restaurants-8",
+        "name": "Versalles, Buenos Aires",
+        "cityId": "buenos-aires",
+        "categoryId": "restaurants",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Versalles%2C%20Buenos%20Aires%2C%20Buenos%20Aires",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Versalles%2C_Buenos_Aires",
+        "photo": null
+      },
+      {
+        "id": "buenos-aires-restaurants-9",
+        "name": "Fonda de los Tres Reyes",
+        "cityId": "buenos-aires",
+        "categoryId": "restaurants",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Fonda%20de%20los%20Tres%20Reyes%2C%20Buenos%20Aires",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Fonda_de_los_Tres_Reyes",
+        "photo": null
+      },
+      {
+        "id": "buenos-aires-restaurants-10",
+        "name": "El Faro",
+        "cityId": "buenos-aires",
+        "categoryId": "restaurants",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=El%20Faro%2C%20Buenos%20Aires",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/El_Faro",
+        "photo": null
+      },
+      {
+        "id": "buenos-aires-restaurants-11",
+        "name": "Paola Carosella",
+        "cityId": "buenos-aires",
+        "categoryId": "restaurants",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Paola%20Carosella%2C%20Buenos%20Aires",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Paola_Carosella",
+        "photo": null
+      },
+      {
+        "id": "buenos-aires-restaurants-12",
+        "name": "Paseo La Plaza",
+        "cityId": "buenos-aires",
+        "categoryId": "restaurants",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Paseo%20La%20Plaza%2C%20Buenos%20Aires",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Paseo_La_Plaza",
+        "photo": null
+      },
+      {
+        "id": "buenos-aires-restaurants-13",
+        "name": "Son of the Bride",
+        "cityId": "buenos-aires",
+        "categoryId": "restaurants",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Son%20of%20the%20Bride%2C%20Buenos%20Aires",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Son_of_the_Bride",
+        "photo": null
+      },
+      {
+        "id": "buenos-aires-restaurants-14",
+        "name": "Fundación Proa",
+        "cityId": "buenos-aires",
+        "categoryId": "restaurants",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Fundaci%C3%B3n%20Proa%2C%20Buenos%20Aires",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Fundaci%C3%B3n_Proa",
+        "photo": null
+      },
+      {
+        "id": "buenos-aires-restaurants-15",
+        "name": "Gato Dumas",
+        "cityId": "buenos-aires",
+        "categoryId": "restaurants",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Gato%20Dumas%2C%20Buenos%20Aires",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Gato_Dumas",
+        "photo": null
+      },
+      {
+        "id": "buenos-aires-restaurants-16",
+        "name": "Café Las Violetas",
+        "cityId": "buenos-aires",
+        "categoryId": "restaurants",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Caf%C3%A9%20Las%20Violetas%2C%20Buenos%20Aires",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Caf%C3%A9_Las_Violetas",
+        "photo": null
+      },
+      {
+        "id": "buenos-aires-restaurants-17",
+        "name": "Pumper Nic",
+        "cityId": "buenos-aires",
+        "categoryId": "restaurants",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Pumper%20Nic%2C%20Buenos%20Aires",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Pumper_Nic",
+        "photo": null
+      },
+      {
+        "id": "buenos-aires-restaurants-18",
+        "name": "Jorge Porcel",
+        "cityId": "buenos-aires",
+        "categoryId": "restaurants",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Jorge%20Porcel%2C%20Buenos%20Aires",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Jorge_Porcel",
+        "photo": null
+      }
+    ],
+    "bars": [
+      {
+        "id": "buenos-aires-bars-1",
+        "name": "Caballito, Buenos Aires",
+        "cityId": "buenos-aires",
+        "categoryId": "bars",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Caballito%2C%20Buenos%20Aires%2C%20Buenos%20Aires",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Caballito%2C_Buenos_Aires",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Barrio_Ingl%C3%A9s%2C_Caballito%2C_Buenos_Aires%2C_Argentina_%282%29.jpg/960px-Barrio_Ingl%C3%A9s%2C_Caballito%2C_Buenos_Aires%2C_Argentina_%282%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Caballito%2C_Buenos_Aires"
+        }
+      },
+      {
+        "id": "buenos-aires-bars-2",
+        "name": "Rodolfo Terragno",
+        "cityId": "buenos-aires",
+        "categoryId": "bars",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Rodolfo%20Terragno%2C%20Buenos%20Aires",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Rodolfo_Terragno",
+        "photo": null
+      },
+      {
+        "id": "buenos-aires-bars-3",
+        "name": "Club Atlético Fénix",
+        "cityId": "buenos-aires",
+        "categoryId": "bars",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Club%20Atl%C3%A9tico%20F%C3%A9nix%2C%20Buenos%20Aires",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Club_Atl%C3%A9tico_F%C3%A9nix",
+        "photo": null
+      },
+      {
+        "id": "buenos-aires-bars-4",
+        "name": "Lezama Park",
+        "cityId": "buenos-aires",
+        "categoryId": "bars",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Lezama%20Park%2C%20Buenos%20Aires",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Lezama_Park",
+        "photo": null
+      },
+      {
+        "id": "buenos-aires-bars-5",
+        "name": "Vilma Ibarra",
+        "cityId": "buenos-aires",
+        "categoryId": "bars",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Vilma%20Ibarra%2C%20Buenos%20Aires",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Vilma_Ibarra",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/26/Vilma_Ibarra.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Vilma_Ibarra"
+        }
+      },
+      {
+        "id": "buenos-aires-bars-6",
+        "name": "Antonio Cafiero",
+        "cityId": "buenos-aires",
+        "categoryId": "bars",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Antonio%20Cafiero%2C%20Buenos%20Aires",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Antonio_Cafiero",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Gobernador_Antonio_Cafiero.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Antonio_Cafiero"
+        }
+      },
+      {
+        "id": "buenos-aires-bars-7",
+        "name": "Takeru Kitazono",
+        "cityId": "buenos-aires",
+        "categoryId": "bars",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Takeru%20Kitazono%2C%20Buenos%20Aires",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Takeru_Kitazono",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/2018-10-15_Horizontal_bar_Victory_ceremony_%28Apparatus_final_Boys%27_Artistic_Gymnastics%29_at_2018_Summer_Youth_Olympics_by_Sandro_Halank%E2%80%93003.jpg/960px-2018-10-15_Horizontal_bar_Victory_ceremony_%28Apparatus_final_Boys%27_Artistic_Gymnastics%29_at_2018_Summer_Youth_Olympics_by_Sandro_Halank%E2%80%93003.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Takeru_Kitazono"
+        }
+      },
+      {
+        "id": "buenos-aires-bars-8",
+        "name": "Gymnastics at the Summer Youth Olympics",
+        "cityId": "buenos-aires",
+        "categoryId": "bars",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Gymnastics%20at%20the%20Summer%20Youth%20Olympics%2C%20Buenos%20Aires",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Gymnastics_at_the_Summer_Youth_Olympics",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Gymnastics_%28artistic%29_pictogram.svg/960px-Gymnastics_%28artistic%29_pictogram.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Gymnastics_at_the_Summer_Youth_Olympics"
+        }
+      },
+      {
+        "id": "buenos-aires-bars-9",
+        "name": "Mario Daniele",
+        "cityId": "buenos-aires",
+        "categoryId": "bars",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Mario%20Daniele%2C%20Buenos%20Aires",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Mario_Daniele",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Mario_Daniele_%28cropped%29.png/960px-Mario_Daniele_%28cropped%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Mario_Daniele"
+        }
+      },
+      {
+        "id": "buenos-aires-bars-10",
+        "name": "La Nación",
+        "cityId": "buenos-aires",
+        "categoryId": "bars",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=La%20Naci%C3%B3n%2C%20Buenos%20Aires",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/La_Naci%C3%B3n",
+        "photo": null
+      },
+      {
+        "id": "buenos-aires-bars-11",
+        "name": "Gerardo Sofovich",
+        "cityId": "buenos-aires",
+        "categoryId": "bars",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Gerardo%20Sofovich%2C%20Buenos%20Aires",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Gerardo_Sofovich",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/49/Gerardo_sofovich_1970.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Gerardo_Sofovich"
+        }
+      },
+      {
+        "id": "buenos-aires-bars-12",
+        "name": "Pedro Laurenz",
+        "cityId": "buenos-aires",
+        "categoryId": "bars",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Pedro%20Laurenz%2C%20Buenos%20Aires",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Pedro_Laurenz",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Pedro_Laurenz.JPG/960px-Pedro_Laurenz.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Pedro_Laurenz"
+        }
+      },
+      {
+        "id": "buenos-aires-bars-13",
+        "name": "El Bar TV",
+        "cityId": "buenos-aires",
+        "categoryId": "bars",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=El%20Bar%20TV%2C%20Buenos%20Aires",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/El_Bar_TV",
+        "photo": null
+      },
+      {
+        "id": "buenos-aires-bars-14",
+        "name": "Francisco Múgica",
+        "cityId": "buenos-aires",
+        "categoryId": "bars",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Francisco%20M%C3%BAgica%2C%20Buenos%20Aires",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Francisco_M%C3%BAgica",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/62/FranciscoMugica.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Francisco_M%C3%BAgica"
+        }
+      },
+      {
+        "id": "buenos-aires-bars-15",
+        "name": "María Laura Leguizamón",
+        "cityId": "buenos-aires",
+        "categoryId": "bars",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Mar%C3%ADa%20Laura%20Leguizam%C3%B3n%2C%20Buenos%20Aires",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Mar%C3%ADa_Laura_Leguizam%C3%B3n",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/21/Maria_Laura_Leguizamon.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Mar%C3%ADa_Laura_Leguizam%C3%B3n"
+        }
+      },
+      {
+        "id": "buenos-aires-bars-16",
+        "name": "Palacio Duhau - Park Hyatt Buenos Aires",
+        "cityId": "buenos-aires",
+        "categoryId": "bars",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Palacio%20Duhau%20-%20Park%20Hyatt%20Buenos%20Aires%2C%20Buenos%20Aires",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Palacio_Duhau_-_Park_Hyatt_Buenos_Aires",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Palacio_duhau_recoleta.jpg/960px-Palacio_duhau_recoleta.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Palacio_Duhau_-_Park_Hyatt_Buenos_Aires"
+        }
+      },
+      {
+        "id": "buenos-aires-bars-17",
+        "name": "Mercedes, Buenos Aires",
+        "cityId": "buenos-aires",
+        "categoryId": "bars",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Mercedes%2C%20Buenos%20Aires%2C%20Buenos%20Aires",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Mercedes%2C_Buenos_Aires",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Catedral_de_Mercedes_Buenos_Aires_Argentina.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Mercedes%2C_Buenos_Aires"
+        }
+      },
+      {
+        "id": "buenos-aires-bars-18",
+        "name": "Buenos Aires Provincial Police",
+        "cityId": "buenos-aires",
+        "categoryId": "bars",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Buenos%20Aires%20Provincial%20Police%2C%20Buenos%20Aires",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Buenos_Aires_Provincial_Police",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/81/Policia_bonaer_emblem.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Buenos_Aires_Provincial_Police"
+        }
+      }
+    ],
+    "coffee_shops": [
+      {
+        "id": "buenos-aires-coffee_shops-1",
+        "name": "Café Tortoni",
+        "cityId": "buenos-aires",
+        "categoryId": "coffee_shops",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Caf%C3%A9%20Tortoni%2C%20Buenos%20Aires",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Caf%C3%A9_Tortoni",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/Avenida_de_Mayo_Caf%C3%A9_Tortoni.jpg/960px-Avenida_de_Mayo_Caf%C3%A9_Tortoni.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Caf%C3%A9_Tortoni"
+        }
+      },
+      {
+        "id": "buenos-aires-coffee_shops-2",
+        "name": "Martínez, Buenos Aires",
+        "cityId": "buenos-aires",
+        "categoryId": "coffee_shops",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Mart%C3%ADnez%2C%20Buenos%20Aires%2C%20Buenos%20Aires",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Mart%C3%ADnez%2C_Buenos_Aires",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/Provincia_de_Buenos_Aires_-_Mart%C3%ADnez_-_Estaci%C3%B3n_Anchorena.JPG/960px-Provincia_de_Buenos_Aires_-_Mart%C3%ADnez_-_Estaci%C3%B3n_Anchorena.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Mart%C3%ADnez%2C_Buenos_Aires"
+        }
+      },
+      {
+        "id": "buenos-aires-coffee_shops-3",
+        "name": "La Trastienda Club",
+        "cityId": "buenos-aires",
+        "categoryId": "coffee_shops",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=La%20Trastienda%20Club%2C%20Buenos%20Aires",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/La_Trastienda_Club",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Beatsteaks_in_Buenos_Aires_-_La_Trastienda.jpg/960px-Beatsteaks_in_Buenos_Aires_-_La_Trastienda.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/La_Trastienda_Club"
+        }
+      },
+      {
+        "id": "buenos-aires-coffee_shops-4",
+        "name": "Piedras",
+        "cityId": "buenos-aires",
+        "categoryId": "coffee_shops",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Piedras%2C%20Buenos%20Aires",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Piedras_(Buenos_Aires_Underground)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Buenos_Aires_-_Subte_Estaci%C3%B3n_Piedras_-_20061207a.jpg/960px-Buenos_Aires_-_Subte_Estaci%C3%B3n_Piedras_-_20061207a.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Piedras_(Buenos_Aires_Underground)"
+        }
+      },
+      {
+        "id": "buenos-aires-coffee_shops-5",
+        "name": "Balvanera",
+        "cityId": "buenos-aires",
+        "categoryId": "coffee_shops",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Balvanera%2C%20Buenos%20Aires",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Balvanera",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Balvanera_montage.jpg/960px-Balvanera_montage.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Balvanera"
+        }
+      },
+      {
+        "id": "buenos-aires-coffee_shops-6",
+        "name": "Avenida Rivadavia",
+        "cityId": "buenos-aires",
+        "categoryId": "coffee_shops",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Avenida%20Rivadavia%2C%20Buenos%20Aires",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Avenida_Rivadavia",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Rivadavia_in_the_Golden_Hour.jpg/960px-Rivadavia_in_the_Golden_Hour.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Avenida_Rivadavia"
+        }
+      },
+      {
+        "id": "buenos-aires-coffee_shops-7",
+        "name": "Confitería del Molino",
+        "cityId": "buenos-aires",
+        "categoryId": "coffee_shops",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Confiter%C3%ADa%20del%20Molino%2C%20Buenos%20Aires",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Confiter%C3%ADa_del_Molino",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Confiter%C3%ADa_del_Molino_in_2022.jpg/960px-Confiter%C3%ADa_del_Molino_in_2022.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Confiter%C3%ADa_del_Molino"
+        }
+      },
+      {
+        "id": "buenos-aires-coffee_shops-8",
+        "name": "Avenida Corrientes",
+        "cityId": "buenos-aires",
+        "categoryId": "coffee_shops",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Avenida%20Corrientes%2C%20Buenos%20Aires",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Avenida_Corrientes",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Mapa_Avenida_Corrientes.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Avenida_Corrientes"
+        }
+      },
+      {
+        "id": "buenos-aires-coffee_shops-9",
+        "name": "Café La Biela",
+        "cityId": "buenos-aires",
+        "categoryId": "coffee_shops",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Caf%C3%A9%20La%20Biela%2C%20Buenos%20Aires",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Caf%C3%A9_La_Biela",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/La_biela.JPG/960px-La_biela.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Caf%C3%A9_La_Biela"
+        }
+      },
+      {
+        "id": "buenos-aires-coffee_shops-10",
+        "name": "Recoleta, Buenos Aires",
+        "cityId": "buenos-aires",
+        "categoryId": "coffee_shops",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Recoleta%2C%20Buenos%20Aires%2C%20Buenos%20Aires",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Recoleta%2C_Buenos_Aires",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Recoleta_montage.jpg/960px-Recoleta_montage.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Recoleta%2C_Buenos_Aires"
+        }
+      },
+      {
+        "id": "buenos-aires-coffee_shops-11",
+        "name": "Avenida Figueroa Alcorta",
+        "cityId": "buenos-aires",
+        "categoryId": "coffee_shops",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Avenida%20Figueroa%20Alcorta%2C%20Buenos%20Aires",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Avenida_Figueroa_Alcorta",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/Figueroa_Alcorta_Avenue_and_Buenos_Aires_Law_School.jpg/960px-Figueroa_Alcorta_Avenue_and_Buenos_Aires_Law_School.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Avenida_Figueroa_Alcorta"
+        }
+      },
+      {
+        "id": "buenos-aires-coffee_shops-12",
+        "name": "Avenida Callao",
+        "cityId": "buenos-aires",
+        "categoryId": "coffee_shops",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Avenida%20Callao%2C%20Buenos%20Aires",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Avenida_Callao",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/Callao.Recoleta.jpg/960px-Callao.Recoleta.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Avenida_Callao"
+        }
+      },
+      {
+        "id": "buenos-aires-coffee_shops-13",
+        "name": "San Telmo, Buenos Aires",
+        "cityId": "buenos-aires",
+        "categoryId": "coffee_shops",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=San%20Telmo%2C%20Buenos%20Aires%2C%20Buenos%20Aires",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/San_Telmo%2C_Buenos_Aires",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/San_Telmo_montage.jpg/960px-San_Telmo_montage.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/San_Telmo%2C_Buenos_Aires"
+        }
+      },
+      {
+        "id": "buenos-aires-coffee_shops-14",
+        "name": "Japanese Argentines",
+        "cityId": "buenos-aires",
+        "categoryId": "coffee_shops",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Japanese%20Argentines%2C%20Buenos%20Aires",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Japanese_Argentines",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Dia_del_inmigrante_033_%286237604869%29.jpg/960px-Dia_del_inmigrante_033_%286237604869%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Japanese_Argentines"
+        }
+      },
+      {
+        "id": "buenos-aires-coffee_shops-15",
+        "name": "Teatro Nacional Cervantes",
+        "cityId": "buenos-aires",
+        "categoryId": "coffee_shops",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Teatro%20Nacional%20Cervantes%2C%20Buenos%20Aires",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Teatro_Nacional_Cervantes",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Teatro_Cervantes_01.jpg/960px-Teatro_Cervantes_01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Teatro_Nacional_Cervantes"
+        }
+      },
+      {
+        "id": "buenos-aires-coffee_shops-16",
+        "name": "Buenos Aires Customs",
+        "cityId": "buenos-aires",
+        "categoryId": "coffee_shops",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Buenos%20Aires%20Customs%2C%20Buenos%20Aires",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Buenos_Aires_Customs",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Aduana_de_Buenos_Aires.jpg/960px-Aduana_de_Buenos_Aires.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Buenos_Aires_Customs"
+        }
+      },
+      {
+        "id": "buenos-aires-coffee_shops-17",
+        "name": "Monserrat, Buenos Aires",
+        "cityId": "buenos-aires",
+        "categoryId": "coffee_shops",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Monserrat%2C%20Buenos%20Aires%2C%20Buenos%20Aires",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Monserrat%2C_Buenos_Aires",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Monserrat_montage.jpg/960px-Monserrat_montage.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Monserrat%2C_Buenos_Aires"
+        }
+      },
+      {
+        "id": "buenos-aires-coffee_shops-18",
+        "name": "Galerías Pacífico",
+        "cityId": "buenos-aires",
+        "categoryId": "coffee_shops",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Galer%C3%ADas%20Pac%C3%ADfico%2C%20Buenos%20Aires",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Galer%C3%ADas_Pac%C3%ADfico",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Galerias_DSC-0514.JPG/960px-Galerias_DSC-0514.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Galer%C3%ADas_Pac%C3%ADfico"
+        }
+      }
+    ],
+    "bookshops": [
+      {
+        "id": "buenos-aires-bookshops-1",
+        "name": "El Ateneo Grand Splendid",
+        "cityId": "buenos-aires",
+        "categoryId": "bookshops",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=El%20Ateneo%20Grand%20Splendid%2C%20Buenos%20Aires",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/El_Ateneo_Grand_Splendid",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/Yenny_Ateneo_Grand_Splendid.jpg/960px-Yenny_Ateneo_Grand_Splendid.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/El_Ateneo_Grand_Splendid"
+        }
+      },
+      {
+        "id": "buenos-aires-bookshops-2",
+        "name": "Bookselling",
+        "cityId": "buenos-aires",
+        "categoryId": "bookshops",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Bookselling%2C%20Buenos%20Aires",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Bookselling",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/Libraria_Carturesti_Carusel_-_Interior_ziua.jpg/960px-Libraria_Carturesti_Carusel_-_Interior_ziua.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Bookselling"
+        }
+      },
+      {
+        "id": "buenos-aires-bookshops-3",
+        "name": "Avenida Santa Fe",
+        "cityId": "buenos-aires",
+        "categoryId": "bookshops",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Avenida%20Santa%20Fe%2C%20Buenos%20Aires",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Avenida_Santa_Fe",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Buenos_Aires_-_Avenida_Santa_Fe_entre_Maip%C3%BA_y_Esmeralda.jpg/960px-Buenos_Aires_-_Avenida_Santa_Fe_entre_Maip%C3%BA_y_Esmeralda.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Avenida_Santa_Fe"
+        }
+      },
+      {
+        "id": "buenos-aires-bookshops-4",
+        "name": "Avenida Corrientes",
+        "cityId": "buenos-aires",
+        "categoryId": "bookshops",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Avenida%20Corrientes%2C%20Buenos%20Aires",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Avenida_Corrientes",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Mapa_Avenida_Corrientes.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Avenida_Corrientes"
+        }
+      },
+      {
+        "id": "buenos-aires-bookshops-5",
+        "name": "Chacabuco Park",
+        "cityId": "buenos-aires",
+        "categoryId": "bookshops",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Chacabuco%20Park%2C%20Buenos%20Aires",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Chacabuco_Park",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/Vista_general_de_Parque_Chacabuco.jpg/960px-Vista_general_de_Parque_Chacabuco.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Chacabuco_Park"
+        }
+      },
+      {
+        "id": "buenos-aires-bookshops-6",
+        "name": "Rita Arditti",
+        "cityId": "buenos-aires",
+        "categoryId": "bookshops",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Rita%20Arditti%2C%20Buenos%20Aires",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Rita_Arditti",
+        "photo": null
+      },
+      {
+        "id": "buenos-aires-bookshops-7",
+        "name": "Avenida Callao",
+        "cityId": "buenos-aires",
+        "categoryId": "bookshops",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Avenida%20Callao%2C%20Buenos%20Aires",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Avenida_Callao",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/Callao.Recoleta.jpg/960px-Callao.Recoleta.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Avenida_Callao"
+        }
+      },
+      {
+        "id": "buenos-aires-bookshops-8",
+        "name": "Marcos Sastre",
+        "cityId": "buenos-aires",
+        "categoryId": "bookshops",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Marcos%20Sastre%2C%20Buenos%20Aires",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Marcos_Sastre",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e5/MarcosSastre.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Marcos_Sastre"
+        }
+      },
+      {
+        "id": "buenos-aires-bookshops-9",
+        "name": "Buenos Aires",
+        "cityId": "buenos-aires",
+        "categoryId": "bookshops",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Buenos%20Aires%2C%20Buenos%20Aires",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Buenos_Aires",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Puerto_Madero%2C_Buenos_Aires_%2840689219792%29_%28cropped%29.jpg/960px-Puerto_Madero%2C_Buenos_Aires_%2840689219792%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Buenos_Aires"
+        }
+      },
+      {
+        "id": "buenos-aires-bookshops-10",
+        "name": "Espasa-Calpe",
+        "cityId": "buenos-aires",
+        "categoryId": "bookshops",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Espasa-Calpe%2C%20Buenos%20Aires",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Espasa-Calpe",
+        "photo": null
+      },
+      {
+        "id": "buenos-aires-bookshops-11",
+        "name": "Libreria Argentina",
+        "cityId": "buenos-aires",
+        "categoryId": "bookshops",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Libreria%20Argentina%2C%20Buenos%20Aires",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Libreria_Argentina",
+        "photo": null
+      },
+      {
+        "id": "buenos-aires-bookshops-12",
+        "name": "Zone",
+        "cityId": "buenos-aires",
+        "categoryId": "bookshops",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Zone%2C%20Buenos%20Aires",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Zone_(magazine)",
+        "photo": null
+      },
+      {
+        "id": "buenos-aires-bookshops-13",
+        "name": "Roberto Arlt",
+        "cityId": "buenos-aires",
+        "categoryId": "bookshops",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Roberto%20Arlt%2C%20Buenos%20Aires",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Roberto_Arlt",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/6e/RobertoArlt.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Roberto_Arlt"
+        }
+      },
+      {
+        "id": "buenos-aires-bookshops-14",
+        "name": "Jorge Romero Brest",
+        "cityId": "buenos-aires",
+        "categoryId": "bookshops",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Jorge%20Romero%20Brest%2C%20Buenos%20Aires",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Jorge_Romero_Brest",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/Jorge_Romero_Brest_01.JPG/960px-Jorge_Romero_Brest_01.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Jorge_Romero_Brest"
+        }
+      },
+      {
+        "id": "buenos-aires-bookshops-15",
+        "name": "Teresa Carreño Cultural Complex",
+        "cityId": "buenos-aires",
+        "categoryId": "bookshops",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Teresa%20Carre%C3%B1o%20Cultural%20Complex%2C%20Buenos%20Aires",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Teresa_Carre%C3%B1o_Cultural_Complex",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Vista_Teatro_teresa_carre%C3%B1o.jpg/960px-Vista_Teatro_teresa_carre%C3%B1o.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Teresa_Carre%C3%B1o_Cultural_Complex"
+        }
+      },
+      {
+        "id": "buenos-aires-bookshops-16",
+        "name": "Mad Toy",
+        "cityId": "buenos-aires",
+        "categoryId": "bookshops",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Mad%20Toy%2C%20Buenos%20Aires",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Mad_Toy",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/El_juguete_rabioso_cover.jpg/960px-El_juguete_rabioso_cover.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Mad_Toy"
+        }
+      },
+      {
+        "id": "buenos-aires-bookshops-17",
+        "name": "Osvaldo Lamborghini",
+        "cityId": "buenos-aires",
+        "categoryId": "bookshops",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Osvaldo%20Lamborghini%2C%20Buenos%20Aires",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Osvaldo_Lamborghini",
+        "photo": null
+      },
+      {
+        "id": "buenos-aires-bookshops-18",
+        "name": "El Faro Towers",
+        "cityId": "buenos-aires",
+        "categoryId": "bookshops",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=El%20Faro%20Towers%2C%20Buenos%20Aires",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/El_Faro_Towers",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Torres_Chateau_y_El_Faro_desde_la_Reserva_Ecol%C3%B3gica.jpg/960px-Torres_Chateau_y_El_Faro_desde_la_Reserva_Ecol%C3%B3gica.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/El_Faro_Towers"
+        }
+      }
+    ],
+    "museums": [
+      {
+        "id": "buenos-aires-museums-1",
+        "name": "Museo Nacional de Bellas Artes",
+        "cityId": "buenos-aires",
+        "categoryId": "museums",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Museo%20Nacional%20de%20Bellas%20Artes%2C%20Buenos%20Aires",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Museo_Nacional_de_Bellas_Artes_(Buenos_Aires)",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Fachada_del_Museo_Nacional_de_Bellas_Artes_%28Argentina%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Museo_Nacional_de_Bellas_Artes_(Buenos_Aires)"
+        }
+      },
+      {
+        "id": "buenos-aires-museums-2",
+        "name": "Belgrano, Buenos Aires",
+        "cityId": "buenos-aires",
+        "categoryId": "museums",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Belgrano%2C%20Buenos%20Aires%2C%20Buenos%20Aires",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Belgrano%2C_Buenos_Aires",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/Belgrano_montage.jpg/960px-Belgrano_montage.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Belgrano%2C_Buenos_Aires"
+        }
+      },
+      {
+        "id": "buenos-aires-museums-3",
+        "name": "Núñez, Buenos Aires",
+        "cityId": "buenos-aires",
+        "categoryId": "museums",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=N%C3%BA%C3%B1ez%2C%20Buenos%20Aires%2C%20Buenos%20Aires",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/N%C3%BA%C3%B1ez%2C_Buenos_Aires",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/Aerial_view_of_Buenos_Aires%2C_2009-03-28.jpg/960px-Aerial_view_of_Buenos_Aires%2C_2009-03-28.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/N%C3%BA%C3%B1ez%2C_Buenos_Aires"
+        }
+      },
+      {
+        "id": "buenos-aires-museums-4",
+        "name": "Buenos Aires Museum of Modern Art",
+        "cityId": "buenos-aires",
+        "categoryId": "museums",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Buenos%20Aires%20Museum%20of%20Modern%20Art%2C%20Buenos%20Aires",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Buenos_Aires_Museum_of_Modern_Art",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b8/FachadaModerno.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Buenos_Aires_Museum_of_Modern_Art"
+        }
+      },
+      {
+        "id": "buenos-aires-museums-5",
+        "name": "Buenos Aires",
+        "cityId": "buenos-aires",
+        "categoryId": "museums",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Buenos%20Aires%2C%20Buenos%20Aires",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Buenos_Aires",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Puerto_Madero%2C_Buenos_Aires_%2840689219792%29_%28cropped%29.jpg/960px-Puerto_Madero%2C_Buenos_Aires_%2840689219792%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Buenos_Aires"
+        }
+      },
+      {
+        "id": "buenos-aires-museums-6",
+        "name": "Cabildo of Buenos Aires",
+        "cityId": "buenos-aires",
+        "categoryId": "museums",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Cabildo%20of%20Buenos%20Aires%2C%20Buenos%20Aires",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Cabildo_of_Buenos_Aires",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Cabildo_de_Buenos_Aires_2023.jpg/960px-Cabildo_de_Buenos_Aires_2023.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Cabildo_of_Buenos_Aires"
+        }
+      },
+      {
+        "id": "buenos-aires-museums-7",
+        "name": "Autódromo Oscar y Juan Gálvez",
+        "cityId": "buenos-aires",
+        "categoryId": "museums",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Aut%C3%B3dromo%20Oscar%20y%20Juan%20G%C3%A1lvez%2C%20Buenos%20Aires",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Aut%C3%B3dromo_Oscar_y_Juan_G%C3%A1lvez",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Aut%C3%B3dromo_Oscar_y_Juan_G%C3%A1lvez_Detalles.svg/960px-Aut%C3%B3dromo_Oscar_y_Juan_G%C3%A1lvez_Detalles.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Aut%C3%B3dromo_Oscar_y_Juan_G%C3%A1lvez"
+        }
+      },
+      {
+        "id": "buenos-aires-museums-8",
+        "name": "MALBA",
+        "cityId": "buenos-aires",
+        "categoryId": "museums",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=MALBA%2C%20Buenos%20Aires",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/MALBA",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Buenos_Aires_-_Palermo_-_Malba.jpg/960px-Buenos_Aires_-_Palermo_-_Malba.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/MALBA"
+        }
+      },
+      {
+        "id": "buenos-aires-museums-9",
+        "name": "Palermo, Buenos Aires",
+        "cityId": "buenos-aires",
+        "categoryId": "museums",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Palermo%2C%20Buenos%20Aires%2C%20Buenos%20Aires",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Palermo%2C_Buenos_Aires",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Palermo_montage.jpg/960px-Palermo_montage.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Palermo%2C_Buenos_Aires"
+        }
+      },
+      {
+        "id": "buenos-aires-museums-10",
+        "name": "Sarmiento Historical Museum",
+        "cityId": "buenos-aires",
+        "categoryId": "museums",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Sarmiento%20Historical%20Museum%2C%20Buenos%20Aires",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Sarmiento_Historical_Museum",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/FACHADA_SARMIENTO.jpg/960px-FACHADA_SARMIENTO.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Sarmiento_Historical_Museum"
+        }
+      },
+      {
+        "id": "buenos-aires-museums-11",
+        "name": "San Nicolás, Buenos Aires",
+        "cityId": "buenos-aires",
+        "categoryId": "museums",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=San%20Nicol%C3%A1s%2C%20Buenos%20Aires%2C%20Buenos%20Aires",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/San_Nicol%C3%A1s%2C_Buenos_Aires",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/San_Nicol%C3%A1s%2C_Buenos_Aires_montage.jpg/960px-San_Nicol%C3%A1s%2C_Buenos_Aires_montage.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/San_Nicol%C3%A1s%2C_Buenos_Aires"
+        }
+      },
+      {
+        "id": "buenos-aires-museums-12",
+        "name": "Museum of Foreign Debt",
+        "cityId": "buenos-aires",
+        "categoryId": "museums",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Museum%20of%20Foreign%20Debt%2C%20Buenos%20Aires",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Museum_of_Foreign_Debt",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Centro_Cultural_S%C3%A1bato.JPG/960px-Centro_Cultural_S%C3%A1bato.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Museum_of_Foreign_Debt"
+        }
+      },
+      {
+        "id": "buenos-aires-museums-13",
+        "name": "Avenida del Libertador",
+        "cityId": "buenos-aires",
+        "categoryId": "museums",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Avenida%20del%20Libertador%2C%20Buenos%20Aires",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Avenida_del_Libertador_(Buenos_Aires)",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Avenida_Libertador_Mapa.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Avenida_del_Libertador_(Buenos_Aires)"
+        }
+      },
+      {
+        "id": "buenos-aires-museums-14",
+        "name": "Caballito, Buenos Aires",
+        "cityId": "buenos-aires",
+        "categoryId": "museums",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Caballito%2C%20Buenos%20Aires%2C%20Buenos%20Aires",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Caballito%2C_Buenos_Aires",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Barrio_Ingl%C3%A9s%2C_Caballito%2C_Buenos_Aires%2C_Argentina_%282%29.jpg/960px-Barrio_Ingl%C3%A9s%2C_Caballito%2C_Buenos_Aires%2C_Argentina_%282%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Caballito%2C_Buenos_Aires"
+        }
+      },
+      {
+        "id": "buenos-aires-museums-15",
+        "name": "Monserrat, Buenos Aires",
+        "cityId": "buenos-aires",
+        "categoryId": "museums",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Monserrat%2C%20Buenos%20Aires%2C%20Buenos%20Aires",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Monserrat%2C_Buenos_Aires",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Monserrat_montage.jpg/960px-Monserrat_montage.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Monserrat%2C_Buenos_Aires"
+        }
+      },
+      {
+        "id": "buenos-aires-museums-16",
+        "name": "Retiro, Buenos Aires",
+        "cityId": "buenos-aires",
+        "categoryId": "museums",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Retiro%2C%20Buenos%20Aires%2C%20Buenos%20Aires",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Retiro%2C_Buenos_Aires",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Retiro_montage.jpg/960px-Retiro_montage.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Retiro%2C_Buenos_Aires"
+        }
+      },
+      {
+        "id": "buenos-aires-museums-17",
+        "name": "Casa Rosada",
+        "cityId": "buenos-aires",
+        "categoryId": "museums",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Casa%20Rosada%2C%20Buenos%20Aires",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Casa_Rosada",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Casa_Rosada_exterior_from_Plaza_de_Mayo.JPG/960px-Casa_Rosada_exterior_from_Plaza_de_Mayo.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Casa_Rosada"
+        }
+      },
+      {
+        "id": "buenos-aires-museums-18",
+        "name": "Retiro railway station",
+        "cityId": "buenos-aires",
+        "categoryId": "museums",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Retiro%20railway%20station%2C%20Buenos%20Aires",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Retiro_railway_station",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/RETIRO_aerea.jpg/960px-RETIRO_aerea.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Retiro_railway_station"
+        }
+      }
+    ],
+    "concerts": [
+      {
+        "id": "buenos-aires-concerts-1",
+        "name": "Libertad Palace",
+        "cityId": "buenos-aires",
+        "categoryId": "concerts",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Libertad%20Palace%2C%20Buenos%20Aires",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Libertad_Palace",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/Buenos_Aires_Centrum_Kirchner.jpg/960px-Buenos_Aires_Centrum_Kirchner.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Libertad_Palace"
+        }
+      },
+      {
+        "id": "buenos-aires-concerts-2",
+        "name": "Amelita Baltar",
+        "cityId": "buenos-aires",
+        "categoryId": "concerts",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Amelita%20Baltar%2C%20Buenos%20Aires",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Amelita_Baltar",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Charla_con_Amelita_Baltar_en_el_Instituto_Cervantes_de_Tokio_01_%28cropped%29.jpg/960px-Charla_con_Amelita_Baltar_en_el_Instituto_Cervantes_de_Tokio_01_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Amelita_Baltar"
+        }
+      },
+      {
+        "id": "buenos-aires-concerts-3",
+        "name": "Raúl Giménez",
+        "cityId": "buenos-aires",
+        "categoryId": "concerts",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Ra%C3%BAl%20Gim%C3%A9nez%2C%20Buenos%20Aires",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Ra%C3%BAl_Gim%C3%A9nez",
+        "photo": null
+      },
+      {
+        "id": "buenos-aires-concerts-4",
+        "name": "Omar Chabán",
+        "cityId": "buenos-aires",
+        "categoryId": "concerts",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Omar%20Chab%C3%A1n%2C%20Buenos%20Aires",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Omar_Chab%C3%A1n",
+        "photo": null
+      },
+      {
+        "id": "buenos-aires-concerts-5",
+        "name": "Mario Pergolini",
+        "cityId": "buenos-aires",
+        "categoryId": "concerts",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Mario%20Pergolini%2C%20Buenos%20Aires",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Mario_Pergolini",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Mario_Pergolini_Chevening_TALKS_2013.jpg/960px-Mario_Pergolini_Chevening_TALKS_2013.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Mario_Pergolini"
+        }
+      },
+      {
+        "id": "buenos-aires-concerts-6",
+        "name": "Teatro Colón",
+        "cityId": "buenos-aires",
+        "categoryId": "concerts",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Teatro%20Col%C3%B3n%2C%20Buenos%20Aires",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Teatro_Col%C3%B3n",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Fachada_del_Teatro_Col%C3%B3n_en_Buenos_Aires%2C_Argentina.jpg/960px-Fachada_del_Teatro_Col%C3%B3n_en_Buenos_Aires%2C_Argentina.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Teatro_Col%C3%B3n"
+        }
+      },
+      {
+        "id": "buenos-aires-concerts-7",
+        "name": "Balvanera",
+        "cityId": "buenos-aires",
+        "categoryId": "concerts",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Balvanera%2C%20Buenos%20Aires",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Balvanera",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Balvanera_montage.jpg/960px-Balvanera_montage.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Balvanera"
+        }
+      },
+      {
+        "id": "buenos-aires-concerts-8",
+        "name": "Federico Jusid",
+        "cityId": "buenos-aires",
+        "categoryId": "concerts",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Federico%20Jusid%2C%20Buenos%20Aires",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Federico_Jusid",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Federico_jusid_3.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Federico_Jusid"
+        }
+      },
+      {
+        "id": "buenos-aires-concerts-9",
+        "name": "María de Buenos Aires",
+        "cityId": "buenos-aires",
+        "categoryId": "concerts",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Mar%C3%ADa%20de%20Buenos%20Aires%2C%20Buenos%20Aires",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Mar%C3%ADa_de_Buenos_Aires",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/53/Astor_Piazzolla.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Mar%C3%ADa_de_Buenos_Aires"
+        }
+      },
+      {
+        "id": "buenos-aires-concerts-10",
+        "name": "Aarhus Pride",
+        "cityId": "buenos-aires",
+        "categoryId": "concerts",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Aarhus%20Pride%2C%20Buenos%20Aires",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Aarhus_Pride",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Aarhus_Pride%2C_2012%2C_start_of_day.jpg/960px-Aarhus_Pride%2C_2012%2C_start_of_day.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Aarhus_Pride"
+        }
+      },
+      {
+        "id": "buenos-aires-concerts-11",
+        "name": "Cemento",
+        "cityId": "buenos-aires",
+        "categoryId": "concerts",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Cemento%2C%20Buenos%20Aires",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Cemento",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/50/Cemento_Estados_Unidos_1200_BSAS.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Cemento"
+        }
+      },
+      {
+        "id": "buenos-aires-concerts-12",
+        "name": "Gilbert Chase",
+        "cityId": "buenos-aires",
+        "categoryId": "concerts",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Gilbert%20Chase%2C%20Buenos%20Aires",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Gilbert_Chase",
+        "photo": null
+      },
+      {
+        "id": "buenos-aires-concerts-13",
+        "name": "Otros Aires",
+        "cityId": "buenos-aires",
+        "categoryId": "concerts",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Otros%20Aires%2C%20Buenos%20Aires",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Otros_Aires",
+        "photo": null
+      },
+      {
+        "id": "buenos-aires-concerts-14",
+        "name": "Eduardo Delgado",
+        "cityId": "buenos-aires",
+        "categoryId": "concerts",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Eduardo%20Delgado%2C%20Buenos%20Aires",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Eduardo_Delgado",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/EduardoDelgado-5_2766.jpg/960px-EduardoDelgado-5_2766.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Eduardo_Delgado"
+        }
+      },
+      {
+        "id": "buenos-aires-concerts-15",
+        "name": "Goethe-Schule Buenos Aires",
+        "cityId": "buenos-aires",
+        "categoryId": "concerts",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Goethe-Schule%20Buenos%20Aires%2C%20Buenos%20Aires",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Goethe-Schule_Buenos_Aires",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Logo_GS_BA.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Goethe-Schule_Buenos_Aires"
+        }
+      },
+      {
+        "id": "buenos-aires-concerts-16",
+        "name": "Michael Tsalka",
+        "cityId": "buenos-aires",
+        "categoryId": "concerts",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Michael%20Tsalka%2C%20Buenos%20Aires",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Michael_Tsalka",
+        "photo": null
+      },
+      {
+        "id": "buenos-aires-concerts-17",
+        "name": "Hillsong Church São Paulo",
+        "cityId": "buenos-aires",
+        "categoryId": "concerts",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Hillsong%20Church%20S%C3%A3o%20Paulo%2C%20Buenos%20Aires",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Hillsong_Church_S%C3%A3o_Paulo",
+        "photo": null
+      },
+      {
+        "id": "buenos-aires-concerts-18",
+        "name": "Jorge Morel",
+        "cityId": "buenos-aires",
+        "categoryId": "concerts",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Jorge%20Morel%2C%20Buenos%20Aires",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Jorge_Morel",
+        "photo": null
+      }
+    ],
+    "fashion": [
+      {
+        "id": "buenos-aires-fashion-1",
+        "name": "A la Ciudad de Londres",
+        "cityId": "buenos-aires",
+        "categoryId": "fashion",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=A%20la%20Ciudad%20de%20Londres%2C%20Buenos%20Aires",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/A_la_Ciudad_de_Londres",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/86/Tienda_a_la_Ciudad_de_Londres.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/A_la_Ciudad_de_Londres"
+        }
+      },
+      {
+        "id": "buenos-aires-fashion-2",
+        "name": "Florencia Bertotti",
+        "cityId": "buenos-aires",
+        "categoryId": "fashion",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Florencia%20Bertotti%2C%20Buenos%20Aires",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Florencia_Bertotti",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/42/Florencia_Bertotti_2018.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Florencia_Bertotti"
+        }
+      },
+      {
+        "id": "buenos-aires-fashion-3",
+        "name": "Alan Damián Bender",
+        "cityId": "buenos-aires",
+        "categoryId": "fashion",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Alan%20Dami%C3%A1n%20Bender%2C%20Buenos%20Aires",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Alan_Dami%C3%A1n_Bender",
+        "photo": null
+      },
+      {
+        "id": "buenos-aires-fashion-4",
+        "name": "Marcela Morelo",
+        "cityId": "buenos-aires",
+        "categoryId": "fashion",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Marcela%20Morelo%2C%20Buenos%20Aires",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Marcela_Morelo",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Marcela_Morelo.jpg/960px-Marcela_Morelo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Marcela_Morelo"
+        }
+      },
+      {
+        "id": "buenos-aires-fashion-5",
+        "name": "Rab",
+        "cityId": "buenos-aires",
+        "categoryId": "fashion",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Rab%2C%20Buenos%20Aires",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Rab_(company)",
+        "photo": null
+      },
+      {
+        "id": "buenos-aires-fashion-6",
+        "name": "José Ber Gelbard",
+        "cityId": "buenos-aires",
+        "categoryId": "fashion",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Jos%C3%A9%20Ber%20Gelbard%2C%20Buenos%20Aires",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Jos%C3%A9_Ber_Gelbard",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/75/Gelbard2.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Jos%C3%A9_Ber_Gelbard"
+        }
+      },
+      {
+        "id": "buenos-aires-fashion-7",
+        "name": "Carlos Molinari",
+        "cityId": "buenos-aires",
+        "categoryId": "fashion",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Carlos%20Molinari%2C%20Buenos%20Aires",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Carlos_Molinari",
+        "photo": null
+      },
+      {
+        "id": "buenos-aires-fashion-8",
+        "name": "Martín Ríos",
+        "cityId": "buenos-aires",
+        "categoryId": "fashion",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Mart%C3%ADn%20R%C3%ADos%2C%20Buenos%20Aires",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Mart%C3%ADn_R%C3%ADos_(murderer)",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Mart%C3%ADnR%C3%ADos-BelgranoShooter.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Mart%C3%ADn_R%C3%ADos_(murderer)"
+        }
+      },
+      {
+        "id": "buenos-aires-fashion-9",
+        "name": "Giuliano Giuliani",
+        "cityId": "buenos-aires",
+        "categoryId": "fashion",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Giuliano%20Giuliani%2C%20Buenos%20Aires",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Giuliano_Giuliani",
+        "photo": null
+      },
+      {
+        "id": "buenos-aires-fashion-10",
+        "name": "Ferenc Sas",
+        "cityId": "buenos-aires",
+        "categoryId": "fashion",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Ferenc%20Sas%2C%20Buenos%20Aires",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Ferenc_Sas",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Francisco_Sas_Sohn_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Ferenc_Sas"
+        }
+      },
+      {
+        "id": "buenos-aires-fashion-11",
+        "name": "Let Them Chirp Awhile",
+        "cityId": "buenos-aires",
+        "categoryId": "fashion",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Let%20Them%20Chirp%20Awhile%2C%20Buenos%20Aires",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Let_Them_Chirp_Awhile",
+        "photo": null
+      },
+      {
+        "id": "buenos-aires-fashion-12",
+        "name": "Carmen Sandiego",
+        "cityId": "buenos-aires",
+        "categoryId": "fashion",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Carmen%20Sandiego%2C%20Buenos%20Aires",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Carmen_Sandiego_(TV_series)",
+        "photo": null
+      },
+      {
+        "id": "buenos-aires-fashion-13",
+        "name": "RBD",
+        "cityId": "buenos-aires",
+        "categoryId": "fashion",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=RBD%2C%20Buenos%20Aires",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/RBD",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Soy_Rebelde_Tour_-_Rio_de_Janeiro_-_Nov_10%2C_2023_-_53332493867.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/RBD"
+        }
+      },
+      {
+        "id": "buenos-aires-fashion-14",
+        "name": "Double-decker bus",
+        "cityId": "buenos-aires",
+        "categoryId": "fashion",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Double-decker%20bus%2C%20Buenos%20Aires",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Double-decker_bus",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/Abellio_LT157_%28LTZ1157%29_Holborn_Viaduct_20.01.2024.jpg/960px-Abellio_LT157_%28LTZ1157%29_Holborn_Viaduct_20.01.2024.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Double-decker_bus"
+        }
+      },
+      {
+        "id": "buenos-aires-fashion-15",
+        "name": "El Dorado World Tour",
+        "cityId": "buenos-aires",
+        "categoryId": "fashion",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=El%20Dorado%20World%20Tour%2C%20Buenos%20Aires",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/El_Dorado_World_Tour",
+        "photo": null
+      },
+      {
+        "id": "buenos-aires-fashion-16",
+        "name": "March 1901",
+        "cityId": "buenos-aires",
+        "categoryId": "fashion",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=March%201901%2C%20Buenos%20Aires",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/March_1901",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/L.N.Tolstoy_Prokudin-Gorsky.jpg/960px-L.N.Tolstoy_Prokudin-Gorsky.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/March_1901"
+        }
+      },
+      {
+        "id": "buenos-aires-fashion-17",
+        "name": "Second presidency of Tabaré Vázquez",
+        "cityId": "buenos-aires",
+        "categoryId": "fashion",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Second%20presidency%20of%20Tabar%C3%A9%20V%C3%A1zquez%2C%20Buenos%20Aires",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Second_presidency_of_Tabar%C3%A9_V%C3%A1zquez",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/Visita_Oficial_del_Presidente_de_Uruguay_1_%28cropped%29.jpg/960px-Visita_Oficial_del_Presidente_de_Uruguay_1_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Second_presidency_of_Tabar%C3%A9_V%C3%A1zquez"
+        }
+      },
+      {
+        "id": "buenos-aires-fashion-18",
+        "name": "31 Minutos",
+        "cityId": "buenos-aires",
+        "categoryId": "fashion",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=31%20Minutos%2C%20Buenos%20Aires",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/31_Minutos",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/31_minutos_logo.svg/960px-31_minutos_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/31_Minutos"
+        }
+      }
+    ],
+    "shops": [
+      {
+        "id": "buenos-aires-shops-1",
+        "name": "Fantabaires",
+        "cityId": "buenos-aires",
+        "categoryId": "shops",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Fantabaires%2C%20Buenos%20Aires",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Fantabaires",
+        "photo": null
+      },
+      {
+        "id": "buenos-aires-shops-2",
+        "name": "Carlos Saavedra Lamas",
+        "cityId": "buenos-aires",
+        "categoryId": "shops",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Carlos%20Saavedra%20Lamas%2C%20Buenos%20Aires",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Carlos_Saavedra_Lamas",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Carlos_Saavedra_Lamas.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Carlos_Saavedra_Lamas"
+        }
+      },
+      {
+        "id": "buenos-aires-shops-3",
+        "name": "Belgrano, Buenos Aires",
+        "cityId": "buenos-aires",
+        "categoryId": "shops",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Belgrano%2C%20Buenos%20Aires%2C%20Buenos%20Aires",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Belgrano%2C_Buenos_Aires",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/Belgrano_montage.jpg/960px-Belgrano_montage.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Belgrano%2C_Buenos_Aires"
+        }
+      },
+      {
+        "id": "buenos-aires-shops-4",
+        "name": "Buenos Aires Japanese Gardens",
+        "cityId": "buenos-aires",
+        "categoryId": "shops",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Buenos%20Aires%20Japanese%20Gardens%2C%20Buenos%20Aires",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Buenos_Aires_Japanese_Gardens",
+        "photo": null
+      },
+      {
+        "id": "buenos-aires-shops-5",
+        "name": "Patio Bullrich",
+        "cityId": "buenos-aires",
+        "categoryId": "shops",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Patio%20Bullrich%2C%20Buenos%20Aires",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Patio_Bullrich",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/Patio_Bullrich_Mall.jpg/960px-Patio_Bullrich_Mall.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Patio_Bullrich"
+        }
+      },
+      {
+        "id": "buenos-aires-shops-6",
+        "name": "Coto Supermarkets",
+        "cityId": "buenos-aires",
+        "categoryId": "shops",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Coto%20Supermarkets%2C%20Buenos%20Aires",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Coto_Supermarkets",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Coto.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Coto_Supermarkets"
+        }
+      },
+      {
+        "id": "buenos-aires-shops-7",
+        "name": "Buenos Aires Lawn Tennis Club",
+        "cityId": "buenos-aires",
+        "categoryId": "shops",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Buenos%20Aires%20Lawn%20Tennis%20Club%2C%20Buenos%20Aires",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Buenos_Aires_Lawn_Tennis_Club",
+        "photo": null
+      },
+      {
+        "id": "buenos-aires-shops-8",
+        "name": "Galerías Pacífico",
+        "cityId": "buenos-aires",
+        "categoryId": "shops",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Galer%C3%ADas%20Pac%C3%ADfico%2C%20Buenos%20Aires",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Galer%C3%ADas_Pac%C3%ADfico",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Galerias_DSC-0514.JPG/960px-Galerias_DSC-0514.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Galer%C3%ADas_Pac%C3%ADfico"
+        }
+      },
+      {
+        "id": "buenos-aires-shops-9",
+        "name": "Estadio Luna Park",
+        "cityId": "buenos-aires",
+        "categoryId": "shops",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Estadio%20Luna%20Park%2C%20Buenos%20Aires",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Estadio_Luna_Park",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Luna_Park%2C_Buenos_Aires.jpg/960px-Luna_Park%2C_Buenos_Aires.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Estadio_Luna_Park"
+        }
+      },
+      {
+        "id": "buenos-aires-shops-10",
+        "name": "Metrovías",
+        "cityId": "buenos-aires",
+        "categoryId": "shops",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Metrov%C3%ADas%2C%20Buenos%20Aires",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Metrov%C3%ADas",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/J30_710_Bf_Federico_Lacroze%2C_M.U.3887.jpg/960px-J30_710_Bf_Federico_Lacroze%2C_M.U.3887.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Metrov%C3%ADas"
+        }
+      },
+      {
+        "id": "buenos-aires-shops-11",
+        "name": "El Ateneo Grand Splendid",
+        "cityId": "buenos-aires",
+        "categoryId": "shops",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=El%20Ateneo%20Grand%20Splendid%2C%20Buenos%20Aires",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/El_Ateneo_Grand_Splendid",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/Yenny_Ateneo_Grand_Splendid.jpg/960px-Yenny_Ateneo_Grand_Splendid.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/El_Ateneo_Grand_Splendid"
+        }
+      },
+      {
+        "id": "buenos-aires-shops-12",
+        "name": "Lost Embrace",
+        "cityId": "buenos-aires",
+        "categoryId": "shops",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Lost%20Embrace%2C%20Buenos%20Aires",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Lost_Embrace",
+        "photo": null
+      },
+      {
+        "id": "buenos-aires-shops-13",
+        "name": "Metrobús",
+        "cityId": "buenos-aires",
+        "categoryId": "shops",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Metrob%C3%BAs%2C%20Buenos%20Aires",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Metrob%C3%BAs_(Buenos_Aires)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/MetrobusTeatroColonBA.jpg/960px-MetrobusTeatroColonBA.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Metrob%C3%BAs_(Buenos_Aires)"
+        }
+      },
+      {
+        "id": "buenos-aires-shops-14",
+        "name": "Cine Cosmos",
+        "cityId": "buenos-aires",
+        "categoryId": "shops",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Cine%20Cosmos%2C%20Buenos%20Aires",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Cine_Cosmos",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Cine_Cosmos_%28julio_de_2010%29.JPG/960px-Cine_Cosmos_%28julio_de_2010%29.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Cine_Cosmos"
+        }
+      },
+      {
+        "id": "buenos-aires-shops-15",
+        "name": "Club Ciudad de Buenos Aires",
+        "cityId": "buenos-aires",
+        "categoryId": "shops",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Club%20Ciudad%20de%20Buenos%20Aires%2C%20Buenos%20Aires",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Club_Ciudad_de_Buenos_Aires",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/Arms_of_Buenos_Aires_%28Flag%29.svg/960px-Arms_of_Buenos_Aires_%28Flag%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Club_Ciudad_de_Buenos_Aires"
+        }
+      },
+      {
+        "id": "buenos-aires-shops-16",
+        "name": "Bookselling",
+        "cityId": "buenos-aires",
+        "categoryId": "shops",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Bookselling%2C%20Buenos%20Aires",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Bookselling",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/Libraria_Carturesti_Carusel_-_Interior_ziua.jpg/960px-Libraria_Carturesti_Carusel_-_Interior_ziua.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Bookselling"
+        }
+      },
+      {
+        "id": "buenos-aires-shops-17",
+        "name": "Armenian Argentines",
+        "cityId": "buenos-aires",
+        "categoryId": "shops",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Armenian%20Argentines%2C%20Buenos%20Aires",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Armenian_Argentines",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/Dia_del_inmigrante_012_%286238124984%29.jpg/960px-Dia_del_inmigrante_012_%286238124984%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Armenian_Argentines"
+        }
+      },
+      {
+        "id": "buenos-aires-shops-18",
+        "name": "Attilio Pavesi",
+        "cityId": "buenos-aires",
+        "categoryId": "shops",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Attilio%20Pavesi%2C%20Buenos%20Aires",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Attilio_Pavesi",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Attilio_Pavesi_1931.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Attilio_Pavesi"
+        }
+      }
+    ]
+  }
+}

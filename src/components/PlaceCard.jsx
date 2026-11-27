@@ -6,7 +6,10 @@ export default function PlaceCard({ place, isFavorite, onToggleFavorite, to }) {
   const { t } = useTranslation()
   const image = place.photo?.name
     ? { url: getPhotoUrl(place.photo.name, 600) }
-    : null
+    : place.photo?.url
+      ? { url: place.photo.url }
+      : null
+  const isLocal = place.source === 'wikipedia'
 
   const favorite = (
     <span
@@ -37,12 +40,15 @@ export default function PlaceCard({ place, isFavorite, onToggleFavorite, to }) {
 
   return (
     <VerticalCard
-      to={to}
+      to={isLocal ? undefined : to}
+      href={isLocal ? place.mapsUrl : undefined}
       image={image}
       title={place.name}
       subtitle={subtitle}
-      badge={place.isSample ? t('common.demo') : t('common.attribution')}
-      credit={place.photo ? { author: 'Google Maps', license: '' } : null}
+      badge={isLocal ? t('common.localData') : (place.isSample ? t('common.demo') : t('common.attribution'))}
+      credit={isLocal
+        ? (place.photo ? { author: place.photo.author, license: place.photo.license } : null)
+        : (place.photo ? { author: 'Google Maps', license: '' } : null)}
       emoji="📍"
       action={favorite}
     />

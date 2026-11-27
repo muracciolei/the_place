@@ -7,6 +7,7 @@ import ImageCredit from './ImageCredit'
  */
 export default function VerticalCard({
   to,
+  href,
   image,
   title,
   subtitle,
@@ -39,6 +40,14 @@ export default function VerticalCard({
       <button type="button" className="vcard" onClick={onClick} aria-label={title}>
         {content}
       </button>
+    )
+  }
+
+  if (href) {
+    return (
+      <a href={href} className="vcard" aria-label={title} target="_blank" rel="noreferrer">
+        {content}
+      </a>
     )
   }
 

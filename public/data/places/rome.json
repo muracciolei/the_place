@@ -1,0 +1,1703 @@
+{
+  "cityId": "rome",
+  "generatedAt": "2026-11-27T08:38:19.825Z",
+  "source": "Wikipedia API + Maps URLs (sin scraping de Google)",
+  "incomplete": [
+    "fashion",
+    "shops"
+  ],
+  "categories": {
+    "night_clubs": [
+      {
+        "id": "rome-night_clubs-1",
+        "name": "Ada \"Bricktop\" Smith",
+        "cityId": "rome",
+        "categoryId": "night_clubs",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Ada%20%22Bricktop%22%20Smith%2C%20Rome",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Ada_%22Bricktop%22_Smith",
+        "photo": null
+      },
+      {
+        "id": "rome-night_clubs-2",
+        "name": "Coppers",
+        "cityId": "rome",
+        "categoryId": "night_clubs",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Coppers%2C%20Rome",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Coppers",
+        "photo": null
+      },
+      {
+        "id": "rome-night_clubs-3",
+        "name": "Rumiyah",
+        "cityId": "rome",
+        "categoryId": "night_clubs",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Rumiyah%2C%20Rome",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Rumiyah_(magazine)",
+        "photo": null
+      },
+      {
+        "id": "rome-night_clubs-4",
+        "name": "Lando Fiorini",
+        "cityId": "rome",
+        "categoryId": "night_clubs",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Lando%20Fiorini%2C%20Rome",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Lando_Fiorini",
+        "photo": null
+      },
+      {
+        "id": "rome-night_clubs-5",
+        "name": "Strange Occasion",
+        "cityId": "rome",
+        "categoryId": "night_clubs",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Strange%20Occasion%2C%20Rome",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Strange_Occasion",
+        "photo": null
+      },
+      {
+        "id": "rome-night_clubs-6",
+        "name": "Central Station",
+        "cityId": "rome",
+        "categoryId": "night_clubs",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Central%20Station%2C%20Rome",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Central_Station_(nightclub)",
+        "photo": null
+      },
+      {
+        "id": "rome-night_clubs-7",
+        "name": "Stanley Branche",
+        "cityId": "rome",
+        "categoryId": "night_clubs",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Stanley%20Branche%2C%20Rome",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Stanley_Branche",
+        "photo": null
+      },
+      {
+        "id": "rome-night_clubs-8",
+        "name": "Giulio Battiferri",
+        "cityId": "rome",
+        "categoryId": "night_clubs",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Giulio%20Battiferri%2C%20Rome",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Giulio_Battiferri",
+        "photo": null
+      },
+      {
+        "id": "rome-night_clubs-9",
+        "name": "Aïché Nana",
+        "cityId": "rome",
+        "categoryId": "night_clubs",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=A%C3%AFch%C3%A9%20Nana%2C%20Rome",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/A%C3%AFch%C3%A9_Nana",
+        "photo": null
+      },
+      {
+        "id": "rome-night_clubs-10",
+        "name": "Nightlife",
+        "cityId": "rome",
+        "categoryId": "night_clubs",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Nightlife%2C%20Rome",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Nightlife",
+        "photo": null
+      },
+      {
+        "id": "rome-night_clubs-11",
+        "name": "Joe Zelli",
+        "cityId": "rome",
+        "categoryId": "night_clubs",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Joe%20Zelli%2C%20Rome",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Joe_Zelli",
+        "photo": null
+      },
+      {
+        "id": "rome-night_clubs-12",
+        "name": "Jazz club",
+        "cityId": "rome",
+        "categoryId": "night_clubs",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Jazz%20club%2C%20Rome",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Jazz_club",
+        "photo": null
+      },
+      {
+        "id": "rome-night_clubs-13",
+        "name": "Café de Paris",
+        "cityId": "rome",
+        "categoryId": "night_clubs",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Caf%C3%A9%20de%20Paris%2C%20Rome",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Caf%C3%A9_de_Paris",
+        "photo": null
+      },
+      {
+        "id": "rome-night_clubs-14",
+        "name": "Shecky Greene",
+        "cityId": "rome",
+        "categoryId": "night_clubs",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Shecky%20Greene%2C%20Rome",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Shecky_Greene",
+        "photo": null
+      },
+      {
+        "id": "rome-night_clubs-15",
+        "name": "Gabriella Ferri",
+        "cityId": "rome",
+        "categoryId": "night_clubs",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Gabriella%20Ferri%2C%20Rome",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Gabriella_Ferri",
+        "photo": null
+      },
+      {
+        "id": "rome-night_clubs-16",
+        "name": "I nuovi mostri",
+        "cityId": "rome",
+        "categoryId": "night_clubs",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=I%20nuovi%20mostri%2C%20Rome",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/I_nuovi_mostri",
+        "photo": null
+      },
+      {
+        "id": "rome-night_clubs-17",
+        "name": "Buddy Greco",
+        "cityId": "rome",
+        "categoryId": "night_clubs",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Buddy%20Greco%2C%20Rome",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Buddy_Greco",
+        "photo": null
+      },
+      {
+        "id": "rome-night_clubs-18",
+        "name": "Rosa Lowinger",
+        "cityId": "rome",
+        "categoryId": "night_clubs",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Rosa%20Lowinger%2C%20Rome",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Rosa_Lowinger",
+        "photo": null
+      }
+    ],
+    "restaurants": [
+      {
+        "id": "rome-restaurants-1",
+        "name": "Zuma",
+        "cityId": "rome",
+        "categoryId": "restaurants",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Zuma%2C%20Rome",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Zuma_(restaurant)",
+        "photo": null
+      },
+      {
+        "id": "rome-restaurants-2",
+        "name": "Fettuccine Alfredo",
+        "cityId": "rome",
+        "categoryId": "restaurants",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Fettuccine%20Alfredo%2C%20Rome",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Fettuccine_Alfredo",
+        "photo": null
+      },
+      {
+        "id": "rome-restaurants-3",
+        "name": "Trastevere",
+        "cityId": "rome",
+        "categoryId": "restaurants",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Trastevere%2C%20Rome",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Trastevere",
+        "photo": null
+      },
+      {
+        "id": "rome-restaurants-4",
+        "name": "The Way of the Dragon",
+        "cityId": "rome",
+        "categoryId": "restaurants",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Way%20of%20the%20Dragon%2C%20Rome",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/The_Way_of_the_Dragon",
+        "photo": null
+      },
+      {
+        "id": "rome-restaurants-5",
+        "name": "Crime at the Chinese Restaurant",
+        "cityId": "rome",
+        "categoryId": "restaurants",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Crime%20at%20the%20Chinese%20Restaurant%2C%20Rome",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Crime_at_the_Chinese_Restaurant",
+        "photo": null
+      },
+      {
+        "id": "rome-restaurants-6",
+        "name": "PalaLottomatica",
+        "cityId": "rome",
+        "categoryId": "restaurants",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=PalaLottomatica%2C%20Rome",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/PalaLottomatica",
+        "photo": null
+      },
+      {
+        "id": "rome-restaurants-7",
+        "name": "Emily in Paris",
+        "cityId": "rome",
+        "categoryId": "restaurants",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Emily%20in%20Paris%2C%20Rome",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Emily_in_Paris",
+        "photo": null
+      },
+      {
+        "id": "rome-restaurants-8",
+        "name": "Roma",
+        "cityId": "rome",
+        "categoryId": "restaurants",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Roma%2C%20Rome",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Roma",
+        "photo": null
+      },
+      {
+        "id": "rome-restaurants-9",
+        "name": "Giada De Laurentiis",
+        "cityId": "rome",
+        "categoryId": "restaurants",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Giada%20De%20Laurentiis%2C%20Rome",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Giada_De_Laurentiis",
+        "photo": null
+      },
+      {
+        "id": "rome-restaurants-10",
+        "name": "Pizza capricciosa",
+        "cityId": "rome",
+        "categoryId": "restaurants",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Pizza%20capricciosa%2C%20Rome",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Pizza_capricciosa",
+        "photo": null
+      },
+      {
+        "id": "rome-restaurants-11",
+        "name": "Pizza by the slice",
+        "cityId": "rome",
+        "categoryId": "restaurants",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Pizza%20by%20the%20slice%2C%20Rome",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Pizza_by_the_slice",
+        "photo": null
+      },
+      {
+        "id": "rome-restaurants-12",
+        "name": "From Corleone to Brooklyn",
+        "cityId": "rome",
+        "categoryId": "restaurants",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=From%20Corleone%20to%20Brooklyn%2C%20Rome",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/From_Corleone_to_Brooklyn",
+        "photo": null
+      },
+      {
+        "id": "rome-restaurants-13",
+        "name": "The Varsity",
+        "cityId": "rome",
+        "categoryId": "restaurants",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Varsity%2C%20Rome",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/The_Varsity_(restaurant)",
+        "photo": null
+      },
+      {
+        "id": "rome-restaurants-14",
+        "name": "Palazzo Pamphilj",
+        "cityId": "rome",
+        "categoryId": "restaurants",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Palazzo%20Pamphilj%2C%20Rome",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Palazzo_Pamphilj",
+        "photo": null
+      },
+      {
+        "id": "rome-restaurants-15",
+        "name": "Gambero Rosso",
+        "cityId": "rome",
+        "categoryId": "restaurants",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Gambero%20Rosso%2C%20Rome",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Gambero_Rosso",
+        "photo": null
+      },
+      {
+        "id": "rome-restaurants-16",
+        "name": "Fettuccine",
+        "cityId": "rome",
+        "categoryId": "restaurants",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Fettuccine%2C%20Rome",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Fettuccine",
+        "photo": null
+      },
+      {
+        "id": "rome-restaurants-17",
+        "name": "Kimpton Hotels & Restaurants",
+        "cityId": "rome",
+        "categoryId": "restaurants",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Kimpton%20Hotels%20%26%20Restaurants%2C%20Rome",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Kimpton_Hotels_%26_Restaurants",
+        "photo": null
+      },
+      {
+        "id": "rome-restaurants-18",
+        "name": "Greasy spoon",
+        "cityId": "rome",
+        "categoryId": "restaurants",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Greasy%20spoon%2C%20Rome",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Greasy_spoon",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/NYC_diner_Brooklyn.jpg/960px-NYC_diner_Brooklyn.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Greasy_spoon"
+        }
+      }
+    ],
+    "bars": [
+      {
+        "id": "rome-bars-1",
+        "name": "Saint Peter",
+        "cityId": "rome",
+        "categoryId": "bars",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Saint%20Peter%2C%20Rome",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Saint_Peter",
+        "photo": null
+      },
+      {
+        "id": "rome-bars-2",
+        "name": "Zuma",
+        "cityId": "rome",
+        "categoryId": "bars",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Zuma%2C%20Rome",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Zuma_(restaurant)",
+        "photo": null
+      },
+      {
+        "id": "rome-bars-3",
+        "name": "Boris Shakhlin",
+        "cityId": "rome",
+        "categoryId": "bars",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Boris%20Shakhlin%2C%20Rome",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Boris_Shakhlin",
+        "photo": null
+      },
+      {
+        "id": "rome-bars-4",
+        "name": "Josephus",
+        "cityId": "rome",
+        "categoryId": "bars",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Josephus%2C%20Rome",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Josephus",
+        "photo": null
+      },
+      {
+        "id": "rome-bars-5",
+        "name": "Shemon bar Sabbae",
+        "cityId": "rome",
+        "categoryId": "bars",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Shemon%20bar%20Sabbae%2C%20Rome",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Shemon_bar_Sabbae",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Simeon_Barsabae.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Shemon_bar_Sabbae"
+        }
+      },
+      {
+        "id": "rome-bars-6",
+        "name": "Werner Eck",
+        "cityId": "rome",
+        "categoryId": "bars",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Werner%20Eck%2C%20Rome",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Werner_Eck",
+        "photo": null
+      },
+      {
+        "id": "rome-bars-7",
+        "name": "Aleksandr Tkachyov",
+        "cityId": "rome",
+        "categoryId": "bars",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Aleksandr%20Tkachyov%2C%20Rome",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Aleksandr_Tkachyov_(gymnast)",
+        "photo": null
+      },
+      {
+        "id": "rome-bars-8",
+        "name": "Takashi Ono",
+        "cityId": "rome",
+        "categoryId": "bars",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Takashi%20Ono%2C%20Rome",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Takashi_Ono_(gymnast)",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Takashi_Ono_1964h.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Takashi_Ono_(gymnast)"
+        }
+      },
+      {
+        "id": "rome-bars-9",
+        "name": "Tiber",
+        "cityId": "rome",
+        "categoryId": "bars",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Tiber%2C%20Rome",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Tiber",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/PonteSantAngeloRom.jpg/960px-PonteSantAngeloRom.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Tiber"
+        }
+      },
+      {
+        "id": "rome-bars-10",
+        "name": "Masao Takemoto",
+        "cityId": "rome",
+        "categoryId": "bars",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Masao%20Takemoto%2C%20Rome",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Masao_Takemoto",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Masao_Takemoto_1952.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Masao_Takemoto"
+        }
+      },
+      {
+        "id": "rome-bars-11",
+        "name": "Sesame seed candy",
+        "cityId": "rome",
+        "categoryId": "bars",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Sesame%20seed%20candy%2C%20Rome",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Sesame_seed_candy",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/Pasteli_varieties.JPG/960px-Pasteli_varieties.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Sesame_seed_candy"
+        }
+      },
+      {
+        "id": "rome-bars-12",
+        "name": "Isho bar Nun",
+        "cityId": "rome",
+        "categoryId": "bars",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Isho%20bar%20Nun%2C%20Rome",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Isho_bar_Nun",
+        "photo": null
+      },
+      {
+        "id": "rome-bars-13",
+        "name": "Sabrisho V",
+        "cityId": "rome",
+        "categoryId": "bars",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Sabrisho%20V%2C%20Rome",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Sabrisho_V",
+        "photo": null
+      },
+      {
+        "id": "rome-bars-14",
+        "name": "High jump",
+        "cityId": "rome",
+        "categoryId": "bars",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=High%20jump%2C%20Rome",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/High_jump",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Nicole_Forrester.JPG/960px-Nicole_Forrester.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/High_jump"
+        }
+      },
+      {
+        "id": "rome-bars-15",
+        "name": "Hadrian",
+        "cityId": "rome",
+        "categoryId": "bars",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Hadrian%2C%20Rome",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Hadrian",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/M%C3%BCnchen_SMAEK_2019-03-23n.jpg/960px-M%C3%BCnchen_SMAEK_2019-03-23n.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Hadrian"
+        }
+      },
+      {
+        "id": "rome-bars-16",
+        "name": "Bar Sawma of Seleucia-Ctesiphon",
+        "cityId": "rome",
+        "categoryId": "bars",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Bar%20Sawma%20of%20Seleucia-Ctesiphon%2C%20Rome",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Bar_Sawma_of_Seleucia-Ctesiphon",
+        "photo": null
+      },
+      {
+        "id": "rome-bars-17",
+        "name": "Yahballaha II",
+        "cityId": "rome",
+        "categoryId": "bars",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Yahballaha%20II%2C%20Rome",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Yahballaha_II",
+        "photo": null
+      },
+      {
+        "id": "rome-bars-18",
+        "name": "Jewish–Roman wars",
+        "cityId": "rome",
+        "categoryId": "bars",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Jewish%E2%80%93Roman%20wars%2C%20Rome",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Jewish%E2%80%93Roman_wars",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Roman_Empire_Trajan_117AD.png/960px-Roman_Empire_Trajan_117AD.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Jewish%E2%80%93Roman_wars"
+        }
+      }
+    ],
+    "coffee_shops": [
+      {
+        "id": "rome-coffee_shops-1",
+        "name": "Antico Caffè Greco",
+        "cityId": "rome",
+        "categoryId": "coffee_shops",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Antico%20Caff%C3%A8%20Greco%2C%20Rome",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Antico_Caff%C3%A8_Greco",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Ludwig_Passini_-_K%C3%BCnstler_im_Cafe_Greco_in_Rom.jpg/960px-Ludwig_Passini_-_K%C3%BCnstler_im_Cafe_Greco_in_Rom.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Antico_Caff%C3%A8_Greco"
+        }
+      },
+      {
+        "id": "rome-coffee_shops-2",
+        "name": "Café de Paris",
+        "cityId": "rome",
+        "categoryId": "coffee_shops",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Caf%C3%A9%20de%20Paris%2C%20Rome",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Caf%C3%A9_de_Paris_(Rome)",
+        "photo": null
+      },
+      {
+        "id": "rome-coffee_shops-3",
+        "name": "When in Rome",
+        "cityId": "rome",
+        "categoryId": "coffee_shops",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=When%20in%20Rome%2C%20Rome",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/When_in_Rome_(Penguin_Cafe_Orchestra_album)",
+        "photo": null
+      },
+      {
+        "id": "rome-coffee_shops-4",
+        "name": "Caffè Nero",
+        "cityId": "rome",
+        "categoryId": "coffee_shops",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Caff%C3%A8%20Nero%2C%20Rome",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Caff%C3%A8_Nero",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Wandsworth_Bridge_Road_Caff%C3%A8_Nero.jpg/960px-Wandsworth_Bridge_Road_Caff%C3%A8_Nero.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Caff%C3%A8_Nero"
+        }
+      },
+      {
+        "id": "rome-coffee_shops-5",
+        "name": "Greasy spoon",
+        "cityId": "rome",
+        "categoryId": "coffee_shops",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Greasy%20spoon%2C%20Rome",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Greasy_spoon",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/NYC_diner_Brooklyn.jpg/960px-NYC_diner_Brooklyn.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Greasy_spoon"
+        }
+      },
+      {
+        "id": "rome-coffee_shops-6",
+        "name": "Giolitti",
+        "cityId": "rome",
+        "categoryId": "coffee_shops",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Giolitti%2C%20Rome",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Giolitti",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/GiolittiCafeRoma.jpg/960px-GiolittiCafeRoma.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Giolitti"
+        }
+      },
+      {
+        "id": "rome-coffee_shops-7",
+        "name": "Union Cafe",
+        "cityId": "rome",
+        "categoryId": "coffee_shops",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Union%20Cafe%2C%20Rome",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Union_Cafe",
+        "photo": null
+      },
+      {
+        "id": "rome-coffee_shops-8",
+        "name": "Coffeehouse",
+        "cityId": "rome",
+        "categoryId": "coffee_shops",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Coffeehouse%2C%20Rome",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Coffeehouse",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/Caf%C3%A9_de_Flore.jpg/960px-Caf%C3%A9_de_Flore.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Coffeehouse"
+        }
+      },
+      {
+        "id": "rome-coffee_shops-9",
+        "name": "Chasen's",
+        "cityId": "rome",
+        "categoryId": "coffee_shops",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Chasen's%2C%20Rome",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Chasen's",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Chasen%27s_Awning_2.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Chasen's"
+        }
+      },
+      {
+        "id": "rome-coffee_shops-10",
+        "name": "Jet set",
+        "cityId": "rome",
+        "categoryId": "coffee_shops",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Jet%20set%2C%20Rome",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Jet_set",
+        "photo": null
+      },
+      {
+        "id": "rome-coffee_shops-11",
+        "name": "Vittorio Storaro",
+        "cityId": "rome",
+        "categoryId": "coffee_shops",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Vittorio%20Storaro%2C%20Rome",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Vittorio_Storaro",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/VITTORIO_STORARO.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Vittorio_Storaro"
+        }
+      },
+      {
+        "id": "rome-coffee_shops-12",
+        "name": "Gorella Gori",
+        "cityId": "rome",
+        "categoryId": "coffee_shops",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Gorella%20Gori%2C%20Rome",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Gorella_Gori",
+        "photo": null
+      },
+      {
+        "id": "rome-coffee_shops-13",
+        "name": "Via Condotti",
+        "cityId": "rome",
+        "categoryId": "coffee_shops",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Via%20Condotti%2C%20Rome",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Via_Condotti",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/Dolce_%26_Gabbana%2C_Via_dei_Condotti_%2846129645824%29.jpg/960px-Dolce_%26_Gabbana%2C_Via_dei_Condotti_%2846129645824%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Via_Condotti"
+        }
+      },
+      {
+        "id": "rome-coffee_shops-14",
+        "name": "Frecciarossa",
+        "cityId": "rome",
+        "categoryId": "coffee_shops",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Frecciarossa%2C%20Rome",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Frecciarossa",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Frecciarossa_1000_nuova_livrea.jpg/960px-Frecciarossa_1000_nuova_livrea.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Frecciarossa"
+        }
+      },
+      {
+        "id": "rome-coffee_shops-15",
+        "name": "Cotti e mangiati",
+        "cityId": "rome",
+        "categoryId": "coffee_shops",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Cotti%20e%20mangiati%2C%20Rome",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Cotti_e_mangiati",
+        "photo": null
+      },
+      {
+        "id": "rome-coffee_shops-16",
+        "name": "Veniero's",
+        "cityId": "rome",
+        "categoryId": "coffee_shops",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Veniero's%2C%20Rome",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Veniero's",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/43/Venieros_Sign_and_Storefront.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Veniero's"
+        }
+      },
+      {
+        "id": "rome-coffee_shops-17",
+        "name": "Comédie-ballet",
+        "cityId": "rome",
+        "categoryId": "coffee_shops",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Com%C3%A9die-ballet%2C%20Rome",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Com%C3%A9die-ballet",
+        "photo": null
+      },
+      {
+        "id": "rome-coffee_shops-18",
+        "name": "Signs of Life",
+        "cityId": "rome",
+        "categoryId": "coffee_shops",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Signs%20of%20Life%2C%20Rome",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Signs_of_Life_(Penguin_Cafe_Orchestra_album)",
+        "photo": null
+      }
+    ],
+    "bookshops": [
+      {
+        "id": "rome-bookshops-1",
+        "name": "Bookselling",
+        "cityId": "rome",
+        "categoryId": "bookshops",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Bookselling%2C%20Rome",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Bookselling",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/Libraria_Carturesti_Carusel_-_Interior_ziua.jpg/960px-Libraria_Carturesti_Carusel_-_Interior_ziua.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Bookselling"
+        }
+      },
+      {
+        "id": "rome-bookshops-2",
+        "name": "Souk Edabaghine",
+        "cityId": "rome",
+        "categoryId": "bookshops",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Souk%20Edabaghine%2C%20Rome",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Souk_Edabaghine",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/Plaque_m%C3%A9tallique_marquant_la_rue_de_Tanneurs_%D9%86%D9%87%D8%AC_%D8%A7%D9%84%D8%AF%D8%A8%D8%A7%D8%BA%D9%8A%D9%86.jpg/960px-Plaque_m%C3%A9tallique_marquant_la_rue_de_Tanneurs_%D9%86%D9%87%D8%AC_%D8%A7%D9%84%D8%AF%D8%A8%D8%A7%D8%BA%D9%8A%D9%86.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Souk_Edabaghine"
+        }
+      },
+      {
+        "id": "rome-bookshops-3",
+        "name": "Panckoucke",
+        "cityId": "rome",
+        "categoryId": "bookshops",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Panckoucke%2C%20Rome",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Panckoucke",
+        "photo": null
+      },
+      {
+        "id": "rome-bookshops-4",
+        "name": "Camas Bookstore and Infoshop",
+        "cityId": "rome",
+        "categoryId": "bookshops",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Camas%20Bookstore%20and%20Infoshop%2C%20Rome",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Camas_Bookstore_and_Infoshop",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/CamasInfoshop.jpg/960px-CamasInfoshop.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Camas_Bookstore_and_Infoshop"
+        }
+      },
+      {
+        "id": "rome-bookshops-5",
+        "name": "Rita Arditti",
+        "cityId": "rome",
+        "categoryId": "bookshops",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Rita%20Arditti%2C%20Rome",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Rita_Arditti",
+        "photo": null
+      },
+      {
+        "id": "rome-bookshops-6",
+        "name": "Infoshop",
+        "cityId": "rome",
+        "categoryId": "bookshops",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Infoshop%2C%20Rome",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Infoshop",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/L%27Insoumise_Montreal.jpg/960px-L%27Insoumise_Montreal.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Infoshop"
+        }
+      },
+      {
+        "id": "rome-bookshops-7",
+        "name": "Red Emma's",
+        "cityId": "rome",
+        "categoryId": "bookshops",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Red%20Emma's%2C%20Rome",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Red_Emma's",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Red_Emma%27s_Cathedral_Street_location.jpg/960px-Red_Emma%27s_Cathedral_Street_location.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Red_Emma's"
+        }
+      },
+      {
+        "id": "rome-bookshops-8",
+        "name": "Self-managed social center",
+        "cityId": "rome",
+        "categoryId": "bookshops",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Self-managed%20social%20center%2C%20Rome",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Self-managed_social_center",
+        "photo": null
+      },
+      {
+        "id": "rome-bookshops-9",
+        "name": "Présence Africaine",
+        "cityId": "rome",
+        "categoryId": "bookshops",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Pr%C3%A9sence%20Africaine%2C%20Rome",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Pr%C3%A9sence_Africaine",
+        "photo": null
+      },
+      {
+        "id": "rome-bookshops-10",
+        "name": "Sex shop",
+        "cityId": "rome",
+        "categoryId": "bookshops",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Sex%20shop%2C%20Rome",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Sex_shop",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Sex-shops-on-boulevard-de-clichi.jpg/960px-Sex-shops-on-boulevard-de-clichi.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Sex_shop"
+        }
+      },
+      {
+        "id": "rome-bookshops-11",
+        "name": "Rizzoli Libri",
+        "cityId": "rome",
+        "categoryId": "bookshops",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Rizzoli%20Libri%2C%20Rome",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Rizzoli_Libri",
+        "photo": null
+      },
+      {
+        "id": "rome-bookshops-12",
+        "name": "Charles E. Cobb Jr.",
+        "cityId": "rome",
+        "categoryId": "bookshops",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Charles%20E.%20Cobb%20Jr.%2C%20Rome",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Charles_E._Cobb_Jr.",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/Charles_Cobb_Jr_by_DeborahMenkart.jpg/960px-Charles_Cobb_Jr_by_DeborahMenkart.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Charles_E._Cobb_Jr."
+        }
+      },
+      {
+        "id": "rome-bookshops-13",
+        "name": "Wendy Artin",
+        "cityId": "rome",
+        "categoryId": "bookshops",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Wendy%20Artin%2C%20Rome",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Wendy_Artin",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/WendyArtin.2015.jpg/960px-WendyArtin.2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Wendy_Artin"
+        }
+      },
+      {
+        "id": "rome-bookshops-14",
+        "name": "Rome, Georgia",
+        "cityId": "rome",
+        "categoryId": "bookshops",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Rome%2C%20Georgia%2C%20Rome",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Rome%2C_Georgia",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Rome_GA_viewed_from_Myrtle_Hill_Cemetery%2C_Nov_2017.jpg/960px-Rome_GA_viewed_from_Myrtle_Hill_Cemetery%2C_Nov_2017.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Rome%2C_Georgia"
+        }
+      },
+      {
+        "id": "rome-bookshops-15",
+        "name": "Household Gods",
+        "cityId": "rome",
+        "categoryId": "bookshops",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Household%20Gods%2C%20Rome",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Household_Gods_(novel)",
+        "photo": null
+      },
+      {
+        "id": "rome-bookshops-16",
+        "name": "Rome Adventure",
+        "cityId": "rome",
+        "categoryId": "bookshops",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Rome%20Adventure%2C%20Rome",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Rome_Adventure",
+        "photo": null
+      },
+      {
+        "id": "rome-bookshops-17",
+        "name": "Feltrinelli",
+        "cityId": "rome",
+        "categoryId": "bookshops",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Feltrinelli%2C%20Rome",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Feltrinelli_(publisher)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/Feltrinelli_Editore_Logo.svg/960px-Feltrinelli_Editore_Logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Feltrinelli_(publisher)"
+        }
+      },
+      {
+        "id": "rome-bookshops-18",
+        "name": "Kenneth Searight",
+        "cityId": "rome",
+        "categoryId": "bookshops",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Kenneth%20Searight%2C%20Rome",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Kenneth_Searight",
+        "photo": null
+      }
+    ],
+    "museums": [
+      {
+        "id": "rome-museums-1",
+        "name": "Vatican Museums",
+        "cityId": "rome",
+        "categoryId": "museums",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Vatican%20Museums%2C%20Rome",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Vatican_Museums",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/Musei_vaticani_Coat_of_Arms.svg/960px-Musei_vaticani_Coat_of_Arms.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Vatican_Museums"
+        }
+      },
+      {
+        "id": "rome-museums-2",
+        "name": "Museo Nazionale Romano",
+        "cityId": "rome",
+        "categoryId": "museums",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Museo%20Nazionale%20Romano%2C%20Rome",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Museo_Nazionale_Romano",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Roma09_flickr.jpg/960px-Roma09_flickr.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Museo_Nazionale_Romano"
+        }
+      },
+      {
+        "id": "rome-museums-3",
+        "name": "Capitoline Museums",
+        "cityId": "rome",
+        "categoryId": "museums",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Capitoline%20Museums%2C%20Rome",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Capitoline_Museums",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/0_Cordonata_-_Dioscuri_-_Palazzo_Senatorio.JPG/960px-0_Cordonata_-_Dioscuri_-_Palazzo_Senatorio.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Capitoline_Museums"
+        }
+      },
+      {
+        "id": "rome-museums-4",
+        "name": "Museum of Contemporary Art of Rome",
+        "cityId": "rome",
+        "categoryId": "museums",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Museum%20of%20Contemporary%20Art%20of%20Rome%2C%20Rome",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Museum_of_Contemporary_Art_of_Rome",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Macro_Rome.jpg/960px-Macro_Rome.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Museum_of_Contemporary_Art_of_Rome"
+        }
+      },
+      {
+        "id": "rome-museums-5",
+        "name": "Galleria Nazionale d'Arte Moderna",
+        "cityId": "rome",
+        "categoryId": "museums",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Galleria%20Nazionale%20d'Arte%20Moderna%2C%20Rome",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Galleria_Nazionale_d'Arte_Moderna",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/72/Logo_GNAMC_Galleria_Nazionale_Roma2.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Galleria_Nazionale_d'Arte_Moderna"
+        }
+      },
+      {
+        "id": "rome-museums-6",
+        "name": "Constantinople",
+        "cityId": "rome",
+        "categoryId": "museums",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Constantinople%2C%20Rome",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Constantinople",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Byzantine_Constantinople-en.png/960px-Byzantine_Constantinople-en.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Constantinople"
+        }
+      },
+      {
+        "id": "rome-museums-7",
+        "name": "Museum of Roman Civilization",
+        "cityId": "rome",
+        "categoryId": "museums",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Museum%20of%20Roman%20Civilization%2C%20Rome",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Museum_of_Roman_Civilization",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Roma_2011_08_22_Museo_Civilt%C3%A0_Romana_colonnato_fronte.jpg/960px-Roma_2011_08_22_Museo_Civilt%C3%A0_Romana_colonnato_fronte.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Museum_of_Roman_Civilization"
+        }
+      },
+      {
+        "id": "rome-museums-8",
+        "name": "Rome",
+        "cityId": "rome",
+        "categoryId": "museums",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Rome%2C%20Rome",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Rome",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Colosseo_2020.jpg/960px-Colosseo_2020.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Rome"
+        }
+      },
+      {
+        "id": "rome-museums-9",
+        "name": "National Etruscan Museum of Villa Giulia",
+        "cityId": "rome",
+        "categoryId": "museums",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=National%20Etruscan%20Museum%20of%20Villa%20Giulia%2C%20Rome",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/National_Etruscan_Museum_of_Villa_Giulia",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Villa_Giulia_modified.jpg/960px-Villa_Giulia_modified.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/National_Etruscan_Museum_of_Villa_Giulia"
+        }
+      },
+      {
+        "id": "rome-museums-10",
+        "name": "Museo delle Mura",
+        "cityId": "rome",
+        "categoryId": "museums",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Museo%20delle%20Mura%2C%20Rome",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Museo_delle_Mura",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/Porta_St._Sebastiano_Rome_2011_1.jpg/960px-Porta_St._Sebastiano_Rome_2011_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Museo_delle_Mura"
+        }
+      },
+      {
+        "id": "rome-museums-11",
+        "name": "National Museum of Oriental Art",
+        "cityId": "rome",
+        "categoryId": "museums",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=National%20Museum%20of%20Oriental%20Art%2C%20Rome",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/National_Museum_of_Oriental_Art",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/18/NationalMuseumOfOrientalArt.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/National_Museum_of_Oriental_Art"
+        }
+      },
+      {
+        "id": "rome-museums-12",
+        "name": "Jewish Museum of Rome",
+        "cityId": "rome",
+        "categoryId": "museums",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Jewish%20Museum%20of%20Rome%2C%20Rome",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Jewish_Museum_of_Rome",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Great_Synagogue_of_Rome.jpg/960px-Great_Synagogue_of_Rome.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Jewish_Museum_of_Rome"
+        }
+      },
+      {
+        "id": "rome-museums-13",
+        "name": "Seven hills of Rome",
+        "cityId": "rome",
+        "categoryId": "museums",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Seven%20hills%20of%20Rome%2C%20Rome",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Seven_hills_of_Rome",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Seven_Hills_of_Rome.svg/960px-Seven_Hills_of_Rome.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Seven_hills_of_Rome"
+        }
+      },
+      {
+        "id": "rome-museums-14",
+        "name": "Castel Sant'Angelo",
+        "cityId": "rome",
+        "categoryId": "museums",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Castel%20Sant'Angelo%2C%20Rome",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Castel_Sant'Angelo",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Castel_Sant%27Angelo_at_Night.jpg/960px-Castel_Sant%27Angelo_at_Night.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Castel_Sant'Angelo"
+        }
+      },
+      {
+        "id": "rome-museums-15",
+        "name": "MAXXI",
+        "cityId": "rome",
+        "categoryId": "museums",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=MAXXI%2C%20Rome",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/MAXXI",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/en/thumb/9/9b/MAXXI_%2827483747665%29.jpg/960px-MAXXI_%2827483747665%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/MAXXI"
+        }
+      },
+      {
+        "id": "rome-museums-16",
+        "name": "Palatine Hill",
+        "cityId": "rome",
+        "categoryId": "museums",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Palatine%20Hill%2C%20Rome",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Palatine_Hill",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/Palatine_Hill_from_across_the_Circus_Maximus_April_2019.jpg/960px-Palatine_Hill_from_across_the_Circus_Maximus_April_2019.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Palatine_Hill"
+        }
+      },
+      {
+        "id": "rome-museums-17",
+        "name": "Museum of the Liberation of Rome",
+        "cityId": "rome",
+        "categoryId": "museums",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Museum%20of%20the%20Liberation%20of%20Rome%2C%20Rome",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Museum_of_the_Liberation_of_Rome",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/ViaTasso145_RomeLiberationMuseum.jpg/960px-ViaTasso145_RomeLiberationMuseum.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Museum_of_the_Liberation_of_Rome"
+        }
+      },
+      {
+        "id": "rome-museums-18",
+        "name": "Museo di Roma in Trastevere",
+        "cityId": "rome",
+        "categoryId": "museums",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Museo%20di%20Roma%20in%20Trastevere%2C%20Rome",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Museo_di_Roma_in_Trastevere",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Museo_di_Roma_in_Trastevere.jpg/960px-Museo_di_Roma_in_Trastevere.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Museo_di_Roma_in_Trastevere"
+        }
+      }
+    ],
+    "concerts": [
+      {
+        "id": "rome-concerts-1",
+        "name": "Bilkent Concert Hall",
+        "cityId": "rome",
+        "categoryId": "concerts",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Bilkent%20Concert%20Hall%2C%20Rome",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Bilkent_Concert_Hall",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/Bilkent_concert_hall.jpg/960px-Bilkent_concert_hall.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Bilkent_Concert_Hall"
+        }
+      },
+      {
+        "id": "rome-concerts-2",
+        "name": "Vatroslav Lisinski Concert Hall",
+        "cityId": "rome",
+        "categoryId": "concerts",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Vatroslav%20Lisinski%20Concert%20Hall%2C%20Rome",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Vatroslav_Lisinski_Concert_Hall",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Vatroslav_Lisinski_Concert_Hall.jpg/960px-Vatroslav_Lisinski_Concert_Hall.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Vatroslav_Lisinski_Concert_Hall"
+        }
+      },
+      {
+        "id": "rome-concerts-3",
+        "name": "MEB Şura Salonu",
+        "cityId": "rome",
+        "categoryId": "concerts",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=MEB%20%C5%9Eura%20Salonu%2C%20Rome",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/MEB_%C5%9Eura_Salonu",
+        "photo": null
+      },
+      {
+        "id": "rome-concerts-4",
+        "name": "Auditorium Conciliazione",
+        "cityId": "rome",
+        "categoryId": "concerts",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Auditorium%20Conciliazione%2C%20Rome",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Auditorium_Conciliazione",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Auditorium_Conciliazione_25_10_2020.jpg/960px-Auditorium_Conciliazione_25_10_2020.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Auditorium_Conciliazione"
+        }
+      },
+      {
+        "id": "rome-concerts-5",
+        "name": "CSO Ada Ankara",
+        "cityId": "rome",
+        "categoryId": "concerts",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=CSO%20Ada%20Ankara%2C%20Rome",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/CSO_Ada_Ankara",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/CSO_Ada_Ankara%2C_2022_12.jpg/960px-CSO_Ada_Ankara%2C_2022_12.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/CSO_Ada_Ankara"
+        }
+      },
+      {
+        "id": "rome-concerts-6",
+        "name": "Symphony Hall",
+        "cityId": "rome",
+        "categoryId": "concerts",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Symphony%20Hall%2C%20Rome",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Symphony_Hall_(Boston)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Symphony_Hall_front_view.jpg/960px-Symphony_Hall_front_view.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Symphony_Hall_(Boston)"
+        }
+      },
+      {
+        "id": "rome-concerts-7",
+        "name": "Charles Garnier",
+        "cityId": "rome",
+        "categoryId": "concerts",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Charles%20Garnier%2C%20Rome",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Charles_Garnier_(architect)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/Charles_Garnier_by_Nadar_-_Leniaud_2003_p142.jpg/960px-Charles_Garnier_by_Nadar_-_Leniaud_2003_p142.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Charles_Garnier_(architect)"
+        }
+      },
+      {
+        "id": "rome-concerts-8",
+        "name": "Budapest Concert",
+        "cityId": "rome",
+        "categoryId": "concerts",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Budapest%20Concert%2C%20Rome",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Budapest_Concert",
+        "photo": null
+      },
+      {
+        "id": "rome-concerts-9",
+        "name": "Henri Rabaud",
+        "cityId": "rome",
+        "categoryId": "concerts",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Henri%20Rabaud%2C%20Rome",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Henri_Rabaud",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Henri_Rabaud_in_1918.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Henri_Rabaud"
+        }
+      },
+      {
+        "id": "rome-concerts-10",
+        "name": "Temple of Augustus and Rome",
+        "cityId": "rome",
+        "categoryId": "concerts",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Temple%20of%20Augustus%20and%20Rome%2C%20Rome",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Temple_of_Augustus_and_Rome",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/AugustusAnkara2.jpg/960px-AugustusAnkara2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Temple_of_Augustus_and_Rome"
+        }
+      },
+      {
+        "id": "rome-concerts-11",
+        "name": "Tivoli Gardens",
+        "cityId": "rome",
+        "categoryId": "concerts",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Tivoli%20Gardens%2C%20Rome",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Tivoli_Gardens",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Tivoli_Gardens_4.jpg/960px-Tivoli_Gardens_4.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Tivoli_Gardens"
+        }
+      },
+      {
+        "id": "rome-concerts-12",
+        "name": "Alfred Desenclos",
+        "cityId": "rome",
+        "categoryId": "concerts",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Alfred%20Desenclos%2C%20Rome",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Alfred_Desenclos",
+        "photo": null
+      },
+      {
+        "id": "rome-concerts-13",
+        "name": "Theodore Kerkezos",
+        "cityId": "rome",
+        "categoryId": "concerts",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Theodore%20Kerkezos%2C%20Rome",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Theodore_Kerkezos",
+        "photo": null
+      },
+      {
+        "id": "rome-concerts-14",
+        "name": "Mevlana Boulevard",
+        "cityId": "rome",
+        "categoryId": "concerts",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Mevlana%20Boulevard%2C%20Rome",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Mevlana_Boulevard",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Konya_yolu_1.JPG/960px-Konya_yolu_1.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Mevlana_Boulevard"
+        }
+      },
+      {
+        "id": "rome-concerts-15",
+        "name": "Ankara Atatürk Sport Hall",
+        "cityId": "rome",
+        "categoryId": "concerts",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Ankara%20Atat%C3%BCrk%20Sport%20Hall%2C%20Rome",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Ankara_Atat%C3%BCrk_Sport_Hall",
+        "photo": null
+      },
+      {
+        "id": "rome-concerts-16",
+        "name": "Jeff Beal",
+        "cityId": "rome",
+        "categoryId": "concerts",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Jeff%20Beal%2C%20Rome",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Jeff_Beal",
+        "photo": null
+      },
+      {
+        "id": "rome-concerts-17",
+        "name": "ASKI Sport Hall",
+        "cityId": "rome",
+        "categoryId": "concerts",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=ASKI%20Sport%20Hall%2C%20Rome",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/ASKI_Sport_Hall",
+        "photo": null
+      },
+      {
+        "id": "rome-concerts-18",
+        "name": "Stadthalle Hannover",
+        "cityId": "rome",
+        "categoryId": "concerts",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Stadthalle%20Hannover%2C%20Rome",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Stadthalle_Hannover",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d5/HCC_Kuppelsaal_Hannover.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Stadthalle_Hannover"
+        }
+      }
+    ],
+    "fashion": [],
+    "shops": []
+  }
+}

@@ -1,0 +1,2393 @@
+{
+  "cityId": "florence",
+  "generatedAt": "2026-11-27T08:40:59.778Z",
+  "source": "Wikipedia API + Maps URLs (sin scraping de Google)",
+  "incomplete": [],
+  "categories": {
+    "night_clubs": [
+      {
+        "id": "florence-night_clubs-1",
+        "name": "Bobby Mackey's Music World",
+        "cityId": "florence",
+        "categoryId": "night_clubs",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Bobby%20Mackey's%20Music%20World%2C%20Florence",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Bobby_Mackey's_Music_World",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Bobby_Mackey%27s%2C_Wilder%2C_KY_%2832673976421%29.jpg/960px-Bobby_Mackey%27s%2C_Wilder%2C_KY_%2832673976421%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Bobby_Mackey's_Music_World"
+        }
+      },
+      {
+        "id": "florence-night_clubs-2",
+        "name": "Florence Wix",
+        "cityId": "florence",
+        "categoryId": "night_clubs",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Florence%20Wix%2C%20Florence",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Florence_Wix",
+        "photo": null
+      },
+      {
+        "id": "florence-night_clubs-3",
+        "name": "The Supremes at the Copa",
+        "cityId": "florence",
+        "categoryId": "night_clubs",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Supremes%20at%20the%20Copa%2C%20Florence",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/The_Supremes_at_the_Copa",
+        "photo": null
+      },
+      {
+        "id": "florence-night_clubs-4",
+        "name": "Florence LaRue",
+        "cityId": "florence",
+        "categoryId": "night_clubs",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Florence%20LaRue%2C%20Florence",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Florence_LaRue",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Florence_LaRue.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Florence_LaRue"
+        }
+      },
+      {
+        "id": "florence-night_clubs-5",
+        "name": "Live at London's Talk of the Town",
+        "cityId": "florence",
+        "categoryId": "night_clubs",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Live%20at%20London's%20Talk%20of%20the%20Town%2C%20Florence",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Live_at_London's_Talk_of_the_Town",
+        "photo": null
+      },
+      {
+        "id": "florence-night_clubs-6",
+        "name": "Louis Mitchell",
+        "cityId": "florence",
+        "categoryId": "night_clubs",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Louis%20Mitchell%2C%20Florence",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Louis_Mitchell",
+        "photo": null
+      },
+      {
+        "id": "florence-night_clubs-7",
+        "name": "Frances Langford",
+        "cityId": "florence",
+        "categoryId": "night_clubs",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Frances%20Langford%2C%20Florence",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Frances_Langford",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Frances_Langford_circa_1946.JPG/960px-Frances_Langford_circa_1946.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Frances_Langford"
+        }
+      },
+      {
+        "id": "florence-night_clubs-8",
+        "name": "Nightclub Hostess",
+        "cityId": "florence",
+        "categoryId": "night_clubs",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Nightclub%20Hostess%2C%20Florence",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Nightclub_Hostess",
+        "photo": null
+      },
+      {
+        "id": "florence-night_clubs-9",
+        "name": "The Blue Angel",
+        "cityId": "florence",
+        "categoryId": "night_clubs",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Blue%20Angel%2C%20Florence",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/The_Blue_Angel_(New_York_nightclub)",
+        "photo": null
+      },
+      {
+        "id": "florence-night_clubs-10",
+        "name": "Skyliner Ballroom",
+        "cityId": "florence",
+        "categoryId": "night_clubs",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Skyliner%20Ballroom%2C%20Florence",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Skyliner_Ballroom",
+        "photo": null
+      },
+      {
+        "id": "florence-night_clubs-11",
+        "name": "Bess Flowers",
+        "cityId": "florence",
+        "categoryId": "night_clubs",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Bess%20Flowers%2C%20Florence",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Bess_Flowers",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Bess_Flowers_in_Song_of_the_Thin_Man_1947.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Bess_Flowers"
+        }
+      },
+      {
+        "id": "florence-night_clubs-12",
+        "name": "Florence Mills",
+        "cityId": "florence",
+        "categoryId": "night_clubs",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Florence%20Mills%2C%20Florence",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Florence_Mills",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/59/Florence_Mills_in_%27Dover_Street_to_Dixie%27_at_the_London_Pavilion.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Florence_Mills"
+        }
+      },
+      {
+        "id": "florence-night_clubs-13",
+        "name": "Murder of Ashley Ann Olsen",
+        "cityId": "florence",
+        "categoryId": "night_clubs",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Murder%20of%20Ashley%20Ann%20Olsen%2C%20Florence",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Murder_of_Ashley_Ann_Olsen",
+        "photo": null
+      },
+      {
+        "id": "florence-night_clubs-14",
+        "name": "Golden Torch",
+        "cityId": "florence",
+        "categoryId": "night_clubs",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Golden%20Torch%2C%20Florence",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Golden_Torch",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/72/The_Golden_Torch_Tunstall.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Golden_Torch"
+        }
+      },
+      {
+        "id": "florence-night_clubs-15",
+        "name": "Gay bar",
+        "cityId": "florence",
+        "categoryId": "night_clubs",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Gay%20bar%2C%20Florence",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Gay_bar",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/09/Comptons-Of-Soho.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Gay_bar"
+        }
+      },
+      {
+        "id": "florence-night_clubs-16",
+        "name": "Danny Thomas",
+        "cityId": "florence",
+        "categoryId": "night_clubs",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Danny%20Thomas%2C%20Florence",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Danny_Thomas",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/97/Danny_Thomas_1957.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Danny_Thomas"
+        }
+      },
+      {
+        "id": "florence-night_clubs-17",
+        "name": "Folco Lulli",
+        "cityId": "florence",
+        "categoryId": "night_clubs",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Folco%20Lulli%2C%20Florence",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Folco_Lulli",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/Folco_Lulli_54.jpg/960px-Folco_Lulli_54.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Folco_Lulli"
+        }
+      },
+      {
+        "id": "florence-night_clubs-18",
+        "name": "Night World",
+        "cityId": "florence",
+        "categoryId": "night_clubs",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Night%20World%2C%20Florence",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Night_World_(film)",
+        "photo": null
+      }
+    ],
+    "restaurants": [
+      {
+        "id": "florence-restaurants-1",
+        "name": "Caffè Michelangiolo",
+        "cityId": "florence",
+        "categoryId": "restaurants",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Caff%C3%A8%20Michelangiolo%2C%20Florence",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Caff%C3%A8_Michelangiolo",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/Gruppo_di_macchiaioili_al_caff%C3%A8_michelangelo%2C_primi_del_%27900.JPG/960px-Gruppo_di_macchiaioili_al_caff%C3%A8_michelangelo%2C_primi_del_%27900.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Caff%C3%A8_Michelangiolo"
+        }
+      },
+      {
+        "id": "florence-restaurants-2",
+        "name": "Tyler Florence",
+        "cityId": "florence",
+        "categoryId": "restaurants",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Tyler%20Florence%2C%20Florence",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Tyler_Florence",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Tyler_Florence_Sonoma_2025.jpg/960px-Tyler_Florence_Sonoma_2025.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Tyler_Florence"
+        }
+      },
+      {
+        "id": "florence-restaurants-3",
+        "name": "Marea",
+        "cityId": "florence",
+        "categoryId": "restaurants",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Marea%2C%20Florence",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Marea_(restaurant)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Marea_interior.jpg/960px-Marea_interior.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Marea_(restaurant)"
+        }
+      },
+      {
+        "id": "florence-restaurants-4",
+        "name": "Florence Fabricant",
+        "cityId": "florence",
+        "categoryId": "restaurants",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Florence%20Fabricant%2C%20Florence",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Florence_Fabricant",
+        "photo": null
+      },
+      {
+        "id": "florence-restaurants-5",
+        "name": "Le Pavillon",
+        "cityId": "florence",
+        "categoryId": "restaurants",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Le%20Pavillon%2C%20Florence",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Le_Pavillon_(Daniel_Boulud_restaurant)",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Pavillon_logo.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Le_Pavillon_(Daniel_Boulud_restaurant)"
+        }
+      },
+      {
+        "id": "florence-restaurants-6",
+        "name": "Atera",
+        "cityId": "florence",
+        "categoryId": "restaurants",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Atera%2C%20Florence",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Atera_(restaurant)",
+        "photo": null
+      },
+      {
+        "id": "florence-restaurants-7",
+        "name": "Bâtard",
+        "cityId": "florence",
+        "categoryId": "restaurants",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=B%C3%A2tard%2C%20Florence",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/B%C3%A2tard_(restaurant)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/06_20_2022_Batard_Frenchette.jpg/960px-06_20_2022_Batard_Frenchette.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/B%C3%A2tard_(restaurant)"
+        }
+      },
+      {
+        "id": "florence-restaurants-8",
+        "name": "Le Bernardin",
+        "cityId": "florence",
+        "categoryId": "restaurants",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Le%20Bernardin%2C%20Florence",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Le_Bernardin",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/Interior_of_Le_Bernardin.jpg/960px-Interior_of_Le_Bernardin.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Le_Bernardin"
+        }
+      },
+      {
+        "id": "florence-restaurants-9",
+        "name": "Oldest McDonald's restaurant",
+        "cityId": "florence",
+        "categoryId": "restaurants",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Oldest%20McDonald's%20restaurant%2C%20Florence",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Oldest_McDonald's_restaurant",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/The_oldest_operating_McDonald%27s_restaurant_was_the_third_one_built%2C_opening_in_1953._It_is_located_at_10207_Lakewood_Blvd._at_Florence_Ave._in_Downey%2C_California_%28cropped%29.png/960px-thumbnail.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Oldest_McDonald's_restaurant"
+        }
+      },
+      {
+        "id": "florence-restaurants-10",
+        "name": "Fortezza Medicea",
+        "cityId": "florence",
+        "categoryId": "restaurants",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Fortezza%20Medicea%2C%20Florence",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Fortezza_Medicea_(Volterra)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/VolterraFortezzaMediceaPanorama.JPG/960px-VolterraFortezzaMediceaPanorama.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Fortezza_Medicea_(Volterra)"
+        }
+      },
+      {
+        "id": "florence-restaurants-11",
+        "name": "Four Seasons Restaurant",
+        "cityId": "florence",
+        "categoryId": "restaurants",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Four%20Seasons%20Restaurant%2C%20Florence",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Four_Seasons_Restaurant",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Four-seasons-ny.jpg/960px-Four-seasons-ny.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Four_Seasons_Restaurant"
+        }
+      },
+      {
+        "id": "florence-restaurants-12",
+        "name": "Superdawg",
+        "cityId": "florence",
+        "categoryId": "restaurants",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Superdawg%2C%20Florence",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Superdawg",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Superdawg_2026.jpg/960px-Superdawg_2026.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Superdawg"
+        }
+      },
+      {
+        "id": "florence-restaurants-13",
+        "name": "Florencia 13",
+        "cityId": "florence",
+        "categoryId": "restaurants",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Florencia%2013%2C%20Florence",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Florencia_13",
+        "photo": null
+      },
+      {
+        "id": "florence-restaurants-14",
+        "name": "Hot Lips Pizza",
+        "cityId": "florence",
+        "categoryId": "restaurants",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Hot%20Lips%20Pizza%2C%20Florence",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Hot_Lips_Pizza",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Hot_Lips_Pizza%2C_Pearl_District%2C_Portland%2C_Oregon.jpg/960px-Hot_Lips_Pizza%2C_Pearl_District%2C_Portland%2C_Oregon.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Hot_Lips_Pizza"
+        }
+      },
+      {
+        "id": "florence-restaurants-15",
+        "name": "Enoteca Pinchiorri",
+        "cityId": "florence",
+        "categoryId": "restaurants",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Enoteca%20Pinchiorri%2C%20Florence",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Enoteca_Pinchiorri",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Via_ghibellina_96%2C_palazzo_jacometti_ciofi%2C_insegna_enoteca_pinchiorri.JPG/960px-Via_ghibellina_96%2C_palazzo_jacometti_ciofi%2C_insegna_enoteca_pinchiorri.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Enoteca_Pinchiorri"
+        }
+      },
+      {
+        "id": "florence-restaurants-16",
+        "name": "Pancho Barnes",
+        "cityId": "florence",
+        "categoryId": "restaurants",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Pancho%20Barnes%2C%20Florence",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Pancho_Barnes",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/Pancho_Barnes%2C_1931.jpg/960px-Pancho_Barnes%2C_1931.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Pancho_Barnes"
+        }
+      },
+      {
+        "id": "florence-restaurants-17",
+        "name": "Russian Tea Room",
+        "cityId": "florence",
+        "categoryId": "restaurants",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Russian%20Tea%20Room%2C%20Florence",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Russian_Tea_Room",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Russian_Tea_Room_entrance_2025.jpg/960px-Russian_Tea_Room_entrance_2025.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Russian_Tea_Room"
+        }
+      },
+      {
+        "id": "florence-restaurants-18",
+        "name": "The Quilted Giraffe",
+        "cityId": "florence",
+        "categoryId": "restaurants",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Quilted%20Giraffe%2C%20Florence",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/The_Quilted_Giraffe",
+        "photo": null
+      }
+    ],
+    "bars": [
+      {
+        "id": "florence-bars-1",
+        "name": "Mary Florence Lathrop",
+        "cityId": "florence",
+        "categoryId": "bars",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Mary%20Florence%20Lathrop%2C%20Florence",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Mary_Florence_Lathrop",
+        "photo": null
+      },
+      {
+        "id": "florence-bars-2",
+        "name": "Royal Red Cross",
+        "cityId": "florence",
+        "categoryId": "bars",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Royal%20Red%20Cross%2C%20Florence",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Royal_Red_Cross",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Medal%2C_order_%28AM_2001.25.863-1%29.jpg/960px-Medal%2C_order_%28AM_2001.25.863-1%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Royal_Red_Cross"
+        }
+      },
+      {
+        "id": "florence-bars-3",
+        "name": "Pancho Barnes",
+        "cityId": "florence",
+        "categoryId": "bars",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Pancho%20Barnes%2C%20Florence",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Pancho_Barnes",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/Pancho_Barnes%2C_1931.jpg/960px-Pancho_Barnes%2C_1931.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Pancho_Barnes"
+        }
+      },
+      {
+        "id": "florence-bars-4",
+        "name": "Palazzo Gondi",
+        "cityId": "florence",
+        "categoryId": "bars",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Palazzo%20Gondi%2C%20Florence",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Palazzo_Gondi",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Palazzo_Gondi_facciata.jpg/960px-Palazzo_Gondi_facciata.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Palazzo_Gondi"
+        }
+      },
+      {
+        "id": "florence-bars-5",
+        "name": "Timeline of women lawyers in the United States",
+        "cityId": "florence",
+        "categoryId": "bars",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Timeline%20of%20women%20lawyers%20in%20the%20United%20States%2C%20Florence",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Timeline_of_women_lawyers_in_the_United_States",
+        "photo": null
+      },
+      {
+        "id": "florence-bars-6",
+        "name": "Myra Bradwell",
+        "cityId": "florence",
+        "categoryId": "bars",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Myra%20Bradwell%2C%20Florence",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Myra_Bradwell",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c8/MYRA_BRADWELL.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Myra_Bradwell"
+        }
+      },
+      {
+        "id": "florence-bars-7",
+        "name": "Kate Stoneman",
+        "cityId": "florence",
+        "categoryId": "bars",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Kate%20Stoneman%2C%20Florence",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Kate_Stoneman",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/05/Kate_Stoneman.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Kate_Stoneman"
+        }
+      },
+      {
+        "id": "florence-bars-8",
+        "name": "Mount Florence Station",
+        "cityId": "florence",
+        "categoryId": "bars",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Mount%20Florence%20Station%2C%20Florence",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Mount_Florence_Station",
+        "photo": null
+      },
+      {
+        "id": "florence-bars-9",
+        "name": "Helena Normanton",
+        "cityId": "florence",
+        "categoryId": "bars",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Helena%20Normanton%2C%20Florence",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Helena_Normanton",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Photograph_of_Helena_Normanton_c._1930_%2822770439042%29.jpg/960px-Photograph_of_Helena_Normanton_c._1930_%2822770439042%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Helena_Normanton"
+        }
+      },
+      {
+        "id": "florence-bars-10",
+        "name": "Florencia 13",
+        "cityId": "florence",
+        "categoryId": "bars",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Florencia%2013%2C%20Florence",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Florencia_13",
+        "photo": null
+      },
+      {
+        "id": "florence-bars-11",
+        "name": "Alessandro Benvenuti",
+        "cityId": "florence",
+        "categoryId": "bars",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Alessandro%20Benvenuti%2C%20Florence",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Alessandro_Benvenuti",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/Alessandro_Benvenuti_Emons_Edizioni.png/960px-Alessandro_Benvenuti_Emons_Edizioni.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Alessandro_Benvenuti"
+        }
+      },
+      {
+        "id": "florence-bars-12",
+        "name": "Disappearance of Brian Shaffer",
+        "cityId": "florence",
+        "categoryId": "bars",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Disappearance%20of%20Brian%20Shaffer%2C%20Florence",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Disappearance_of_Brian_Shaffer",
+        "photo": null
+      },
+      {
+        "id": "florence-bars-13",
+        "name": "Emmet O'Neal",
+        "cityId": "florence",
+        "categoryId": "bars",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Emmet%20O'Neal%2C%20Florence",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Emmet_O'Neal",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Emmet_O%27Neal_cropped.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Emmet_O'Neal"
+        }
+      },
+      {
+        "id": "florence-bars-14",
+        "name": "Books-A-Million",
+        "cityId": "florence",
+        "categoryId": "bars",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Books-A-Million%2C%20Florence",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Books-A-Million",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Books-A-Million_in_Cuyahoga_Falls%2C_Ohio.jpg/960px-Books-A-Million_in_Cuyahoga_Falls%2C_Ohio.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Books-A-Million"
+        }
+      },
+      {
+        "id": "florence-bars-15",
+        "name": "Moshi Moshi Records",
+        "cityId": "florence",
+        "categoryId": "bars",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Moshi%20Moshi%20Records%2C%20Florence",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Moshi_Moshi_Records",
+        "photo": null
+      },
+      {
+        "id": "florence-bars-16",
+        "name": "Mary Hall",
+        "cityId": "florence",
+        "categoryId": "bars",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Mary%20Hall%2C%20Florence",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Mary_Hall",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/MaryHall.jpg/960px-MaryHall.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Mary_Hall"
+        }
+      },
+      {
+        "id": "florence-bars-17",
+        "name": "My Friends",
+        "cityId": "florence",
+        "categoryId": "bars",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=My%20Friends%2C%20Florence",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/My_Friends_(film)",
+        "photo": null
+      },
+      {
+        "id": "florence-bars-18",
+        "name": "The Red Girl",
+        "cityId": "florence",
+        "categoryId": "bars",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Red%20Girl%2C%20Florence",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/The_Red_Girl",
+        "photo": null
+      }
+    ],
+    "coffee_shops": [
+      {
+        "id": "florence-coffee_shops-1",
+        "name": "Caffè Giubbe Rosse",
+        "cityId": "florence",
+        "categoryId": "coffee_shops",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Caff%C3%A8%20Giubbe%20Rosse%2C%20Florence",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Caff%C3%A8_Giubbe_Rosse",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/Caff%C3%A9_giubbe_rosse_insegna.JPG/960px-Caff%C3%A9_giubbe_rosse_insegna.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Caff%C3%A8_Giubbe_Rosse"
+        }
+      },
+      {
+        "id": "florence-coffee_shops-2",
+        "name": "Caffè Michelangiolo",
+        "cityId": "florence",
+        "categoryId": "coffee_shops",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Caff%C3%A8%20Michelangiolo%2C%20Florence",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Caff%C3%A8_Michelangiolo",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/Gruppo_di_macchiaioili_al_caff%C3%A8_michelangelo%2C_primi_del_%27900.JPG/960px-Gruppo_di_macchiaioili_al_caff%C3%A8_michelangelo%2C_primi_del_%27900.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Caff%C3%A8_Michelangiolo"
+        }
+      },
+      {
+        "id": "florence-coffee_shops-3",
+        "name": "Piazza della Repubblica, Florence",
+        "cityId": "florence",
+        "categoryId": "coffee_shops",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Piazza%20della%20Repubblica%2C%20Florence%2C%20Florence",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Piazza_della_Repubblica%2C_Florence",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/Piazza_Repubblica_Firenze_Apr_2008_%281%29-Piazza_Repubblica_Firenze_Apr_2008.jpg/960px-Piazza_Repubblica_Firenze_Apr_2008_%281%29-Piazza_Repubblica_Firenze_Apr_2008.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Piazza_della_Repubblica%2C_Florence"
+        }
+      },
+      {
+        "id": "florence-coffee_shops-4",
+        "name": "Atera",
+        "cityId": "florence",
+        "categoryId": "coffee_shops",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Atera%2C%20Florence",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Atera_(restaurant)",
+        "photo": null
+      },
+      {
+        "id": "florence-coffee_shops-5",
+        "name": "Bâtard",
+        "cityId": "florence",
+        "categoryId": "coffee_shops",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=B%C3%A2tard%2C%20Florence",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/B%C3%A2tard_(restaurant)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/06_20_2022_Batard_Frenchette.jpg/960px-06_20_2022_Batard_Frenchette.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/B%C3%A2tard_(restaurant)"
+        }
+      },
+      {
+        "id": "florence-coffee_shops-6",
+        "name": "Cowley, Oxfordshire",
+        "cityId": "florence",
+        "categoryId": "coffee_shops",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Cowley%2C%20Oxfordshire%2C%20Florence",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Cowley%2C_Oxfordshire",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Cowley_StJames_SW.jpg/960px-Cowley_StJames_SW.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Cowley%2C_Oxfordshire"
+        }
+      },
+      {
+        "id": "florence-coffee_shops-7",
+        "name": "Roberto Cavalli",
+        "cityId": "florence",
+        "categoryId": "coffee_shops",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Roberto%20Cavalli%2C%20Florence",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Roberto_Cavalli",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/00/Roberto_Cavalli_Photographed_by_Ed_Kavishe.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Roberto_Cavalli"
+        }
+      },
+      {
+        "id": "florence-coffee_shops-8",
+        "name": "Oldest McDonald's restaurant",
+        "cityId": "florence",
+        "categoryId": "coffee_shops",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Oldest%20McDonald's%20restaurant%2C%20Florence",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Oldest_McDonald's_restaurant",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/The_oldest_operating_McDonald%27s_restaurant_was_the_third_one_built%2C_opening_in_1953._It_is_located_at_10207_Lakewood_Blvd._at_Florence_Ave._in_Downey%2C_California_%28cropped%29.png/960px-thumbnail.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Oldest_McDonald's_restaurant"
+        }
+      },
+      {
+        "id": "florence-coffee_shops-9",
+        "name": "Frecciarossa",
+        "cityId": "florence",
+        "categoryId": "coffee_shops",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Frecciarossa%2C%20Florence",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Frecciarossa",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Frecciarossa_1000_nuova_livrea.jpg/960px-Frecciarossa_1000_nuova_livrea.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Frecciarossa"
+        }
+      },
+      {
+        "id": "florence-coffee_shops-10",
+        "name": "Café des Artistes",
+        "cityId": "florence",
+        "categoryId": "coffee_shops",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Caf%C3%A9%20des%20Artistes%2C%20Florence",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Caf%C3%A9_des_Artistes",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/WSTM_Team_Boerum_0072.jpg/960px-WSTM_Team_Boerum_0072.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Caf%C3%A9_des_Artistes"
+        }
+      },
+      {
+        "id": "florence-coffee_shops-11",
+        "name": "Daniel Boulud",
+        "cityId": "florence",
+        "categoryId": "coffee_shops",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Daniel%20Boulud%2C%20Florence",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Daniel_Boulud",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/dc/DanielBoulud.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Daniel_Boulud"
+        }
+      },
+      {
+        "id": "florence-coffee_shops-12",
+        "name": "Achille Lega",
+        "cityId": "florence",
+        "categoryId": "coffee_shops",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Achille%20Lega%2C%20Florence",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Achille_Lega",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Lega_Arno.jpg/960px-Lega_Arno.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Achille_Lega"
+        }
+      },
+      {
+        "id": "florence-coffee_shops-13",
+        "name": "Fashion Cafe",
+        "cityId": "florence",
+        "categoryId": "coffee_shops",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Fashion%20Cafe%2C%20Florence",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Fashion_Cafe",
+        "photo": null
+      },
+      {
+        "id": "florence-coffee_shops-14",
+        "name": "Via de' Tornabuoni",
+        "cityId": "florence",
+        "categoryId": "coffee_shops",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Via%20de'%20Tornabuoni%2C%20Florence",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Via_de'_Tornabuoni",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/Via_de_Tornabuoni.JPG/960px-Via_de_Tornabuoni.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Via_de'_Tornabuoni"
+        }
+      },
+      {
+        "id": "florence-coffee_shops-15",
+        "name": "The River Café",
+        "cityId": "florence",
+        "categoryId": "coffee_shops",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20River%20Caf%C3%A9%2C%20Florence",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/The_River_Caf%C3%A9_(Brooklyn)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/The_River_Cafe_at_night.jpg/960px-The_River_Cafe_at_night.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/The_River_Caf%C3%A9_(Brooklyn)"
+        }
+      },
+      {
+        "id": "florence-coffee_shops-16",
+        "name": "Fabio Viviani",
+        "cityId": "florence",
+        "categoryId": "coffee_shops",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Fabio%20Viviani%2C%20Florence",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Fabio_Viviani_(chef)",
+        "photo": null
+      },
+      {
+        "id": "florence-coffee_shops-17",
+        "name": "Alice",
+        "cityId": "florence",
+        "categoryId": "coffee_shops",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Alice%2C%20Florence",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Alice_(American_TV_series)",
+        "photo": null
+      },
+      {
+        "id": "florence-coffee_shops-18",
+        "name": "Florence",
+        "cityId": "florence",
+        "categoryId": "coffee_shops",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Florence%2C%20Florence",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Florence",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/Firenze_-_Piazzale_Michelangelo%2C_Firenze%2C_Italy_-_April_6%2C_2015_02.jpg/960px-Firenze_-_Piazzale_Michelangelo%2C_Firenze%2C_Italy_-_April_6%2C_2015_02.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Florence"
+        }
+      }
+    ],
+    "bookshops": [
+      {
+        "id": "florence-bookshops-1",
+        "name": "Books-A-Million",
+        "cityId": "florence",
+        "categoryId": "bookshops",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Books-A-Million%2C%20Florence",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Books-A-Million",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Books-A-Million_in_Cuyahoga_Falls%2C_Ohio.jpg/960px-Books-A-Million_in_Cuyahoga_Falls%2C_Ohio.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Books-A-Million"
+        }
+      },
+      {
+        "id": "florence-bookshops-2",
+        "name": "David Ruggles",
+        "cityId": "florence",
+        "categoryId": "bookshops",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=David%20Ruggles%2C%20Florence",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/David_Ruggles",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/The_disappointed_abolitionists_LCCN2008661783.jpg/960px-The_disappointed_abolitionists_LCCN2008661783.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/David_Ruggles"
+        }
+      },
+      {
+        "id": "florence-bookshops-3",
+        "name": "St. Anthony's Greek Orthodox Monastery",
+        "cityId": "florence",
+        "categoryId": "bookshops",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=St.%20Anthony's%20Greek%20Orthodox%20Monastery%2C%20Florence",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/St._Anthony's_Greek_Orthodox_Monastery_(Florence%2C_Arizona)",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/5c/St_Anthony_Monastery_%28Florence%2C_Arizona%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/St._Anthony's_Greek_Orthodox_Monastery_(Florence%2C_Arizona)"
+        }
+      },
+      {
+        "id": "florence-bookshops-4",
+        "name": "Carlo Collodi",
+        "cityId": "florence",
+        "categoryId": "bookshops",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Carlo%20Collodi%2C%20Florence",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Carlo_Collodi",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/60/Carlo_Collodi.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Carlo_Collodi"
+        }
+      },
+      {
+        "id": "florence-bookshops-5",
+        "name": "Florence Cestac",
+        "cityId": "florence",
+        "categoryId": "bookshops",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Florence%20Cestac%2C%20Florence",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Florence_Cestac",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Florence_Cestac_20080318_Salon_du_livre_1.jpg/960px-Florence_Cestac_20080318_Salon_du_livre_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Florence_Cestac"
+        }
+      },
+      {
+        "id": "florence-bookshops-6",
+        "name": "Romance of a Jewess",
+        "cityId": "florence",
+        "categoryId": "bookshops",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Romance%20of%20a%20Jewess%2C%20Florence",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Romance_of_a_Jewess",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Romance_of_a_Jewess_-_title_page.png/960px-Romance_of_a_Jewess_-_title_page.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Romance_of_a_Jewess"
+        }
+      },
+      {
+        "id": "florence-bookshops-7",
+        "name": "Jane Heap",
+        "cityId": "florence",
+        "categoryId": "bookshops",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Jane%20Heap%2C%20Florence",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Jane_Heap",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Jane_Heap%2C_Mina_Loy%2C_and_Ezra_Pound.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Jane_Heap"
+        }
+      },
+      {
+        "id": "florence-bookshops-8",
+        "name": "Feltrinelli",
+        "cityId": "florence",
+        "categoryId": "bookshops",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Feltrinelli%2C%20Florence",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Feltrinelli_(publisher)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/Feltrinelli_Editore_Logo.svg/960px-Feltrinelli_Editore_Logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Feltrinelli_(publisher)"
+        }
+      },
+      {
+        "id": "florence-bookshops-9",
+        "name": "Living Enrichment Center",
+        "cityId": "florence",
+        "categoryId": "bookshops",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Living%20Enrichment%20Center%2C%20Florence",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Living_Enrichment_Center",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Lecpicture.jpg/960px-Lecpicture.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Living_Enrichment_Center"
+        }
+      },
+      {
+        "id": "florence-bookshops-10",
+        "name": "Asian American Curriculum Project",
+        "cityId": "florence",
+        "categoryId": "bookshops",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Asian%20American%20Curriculum%20Project%2C%20Florence",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Asian_American_Curriculum_Project",
+        "photo": null
+      },
+      {
+        "id": "florence-bookshops-11",
+        "name": "Henry W. Howgate",
+        "cityId": "florence",
+        "categoryId": "bookshops",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Henry%20W.%20Howgate%2C%20Florence",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Henry_W._Howgate",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Henry_W._Howgate.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Henry_W._Howgate"
+        }
+      },
+      {
+        "id": "florence-bookshops-12",
+        "name": "Hércules Florence",
+        "cityId": "florence",
+        "categoryId": "bookshops",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=H%C3%A9rcules%20Florence%2C%20Florence",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/H%C3%A9rcules_Florence",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Retrato_de_H%C3%A9rcules_Florence.jpg/960px-Retrato_de_H%C3%A9rcules_Florence.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/H%C3%A9rcules_Florence"
+        }
+      },
+      {
+        "id": "florence-bookshops-13",
+        "name": "Keiko Ochiai",
+        "cityId": "florence",
+        "categoryId": "bookshops",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Keiko%20Ochiai%2C%20Florence",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Keiko_Ochiai",
+        "photo": null
+      },
+      {
+        "id": "florence-bookshops-14",
+        "name": "Mother Foucault's Bookshop",
+        "cityId": "florence",
+        "categoryId": "bookshops",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Mother%20Foucault's%20Bookshop%2C%20Florence",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Mother_Foucault's_Bookshop",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Mother_Foucault%27s_Bookshop_in_Portland%2C_Oregon_%282018%29.jpg/960px-Mother_Foucault%27s_Bookshop_in_Portland%2C_Oregon_%282018%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Mother_Foucault's_Bookshop"
+        }
+      },
+      {
+        "id": "florence-bookshops-15",
+        "name": "Florence v. Shurtleff",
+        "cityId": "florence",
+        "categoryId": "bookshops",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Florence%20v.%20Shurtleff%2C%20Florence",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Florence_v._Shurtleff",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/10/District-Utah.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Florence_v._Shurtleff"
+        }
+      },
+      {
+        "id": "florence-bookshops-16",
+        "name": "Lorraine Hansberry",
+        "cityId": "florence",
+        "categoryId": "bookshops",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Lorraine%20Hansberry%2C%20Florence",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Lorraine_Hansberry",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/%22The_Sign_in_Sidney_Brustein%27s_Window%22%2C_by_Lorraine_Hansberry_%28cropped%29.tif/lossy-page1-960px-%22The_Sign_in_Sidney_Brustein%27s_Window%22%2C_by_Lorraine_Hansberry_%28cropped%29.tif.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Lorraine_Hansberry"
+        }
+      },
+      {
+        "id": "florence-bookshops-17",
+        "name": "Gucci",
+        "cityId": "florence",
+        "categoryId": "bookshops",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Gucci%2C%20Florence",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Gucci",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Gucci_NYC_Flagship_%2848064046878%29.jpg/960px-Gucci_NYC_Flagship_%2848064046878%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Gucci"
+        }
+      },
+      {
+        "id": "florence-bookshops-18",
+        "name": "Clara Noyes",
+        "cityId": "florence",
+        "categoryId": "bookshops",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Clara%20Noyes%2C%20Florence",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Clara_Noyes",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/NOYES%2C_CLARA_D.%2C_MISS_LCCN2016859503_%28cropped%29.jpg/960px-NOYES%2C_CLARA_D.%2C_MISS_LCCN2016859503_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Clara_Noyes"
+        }
+      }
+    ],
+    "museums": [
+      {
+        "id": "florence-museums-1",
+        "name": "Uffizi",
+        "cityId": "florence",
+        "categoryId": "museums",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Uffizi%2C%20Florence",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Uffizi",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/Florence%2C_Italy_-_panoramio_%28125%29.jpg/960px-Florence%2C_Italy_-_panoramio_%28125%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Uffizi"
+        }
+      },
+      {
+        "id": "florence-museums-2",
+        "name": "Bargello",
+        "cityId": "florence",
+        "categoryId": "museums",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Bargello%2C%20Florence",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Bargello",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Florence%2C_Bargello%2C_Sala_di_Donatello_%28detail%29.jpg/960px-Florence%2C_Bargello%2C_Sala_di_Donatello_%28detail%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Bargello"
+        }
+      },
+      {
+        "id": "florence-museums-3",
+        "name": "Palazzo Pitti",
+        "cityId": "florence",
+        "categoryId": "museums",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Palazzo%20Pitti%2C%20Florence",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Palazzo_Pitti",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Palazzo_Pitti_nel_tardo_pomeriggio.jpg/960px-Palazzo_Pitti_nel_tardo_pomeriggio.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Palazzo_Pitti"
+        }
+      },
+      {
+        "id": "florence-museums-4",
+        "name": "National Archaeological Museum, Florence",
+        "cityId": "florence",
+        "categoryId": "museums",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=National%20Archaeological%20Museum%2C%20Florence%2C%20Florence",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/National_Archaeological_Museum%2C_Florence",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Museo_archeologico_nazionale%2C_ingresso_01.JPG/960px-Museo_archeologico_nazionale%2C_ingresso_01.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/National_Archaeological_Museum%2C_Florence"
+        }
+      },
+      {
+        "id": "florence-museums-5",
+        "name": "La Specola",
+        "cityId": "florence",
+        "categoryId": "museums",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=La%20Specola%2C%20Florence",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/La_Specola",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/Zoologia_La_Specola_-_wax_anatomical_models.JPG/960px-Zoologia_La_Specola_-_wax_anatomical_models.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/La_Specola"
+        }
+      },
+      {
+        "id": "florence-museums-6",
+        "name": "Bank of Florence Museum",
+        "cityId": "florence",
+        "categoryId": "museums",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Bank%20of%20Florence%20Museum%2C%20Florence",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Bank_of_Florence_Museum",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Bank_of_Florence_NE.JPG/960px-Bank_of_Florence_NE.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Bank_of_Florence_Museum"
+        }
+      },
+      {
+        "id": "florence-museums-7",
+        "name": "Museo di Storia Naturale di Firenze",
+        "cityId": "florence",
+        "categoryId": "museums",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Museo%20di%20Storia%20Naturale%20di%20Firenze%2C%20Florence",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Museo_di_Storia_Naturale_di_Firenze",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/Museo_di_Storia_Naturale_di_Firenze_-_paleontology.JPG/960px-Museo_di_Storia_Naturale_di_Firenze_-_paleontology.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Museo_di_Storia_Naturale_di_Firenze"
+        }
+      },
+      {
+        "id": "florence-museums-8",
+        "name": "Florence Nightingale Museum",
+        "cityId": "florence",
+        "categoryId": "museums",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Florence%20Nightingale%20Museum%2C%20Florence",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Florence_Nightingale_Museum",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Florence_Nightingale_Museum_-_Joy_of_Museums.jpg/960px-Florence_Nightingale_Museum_-_Joy_of_Museums.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Florence_Nightingale_Museum"
+        }
+      },
+      {
+        "id": "florence-museums-9",
+        "name": "Museo dell'Opera del Duomo",
+        "cityId": "florence",
+        "categoryId": "museums",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Museo%20dell'Opera%20del%20Duomo%2C%20Florence",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Museo_dell'Opera_del_Duomo_(Florence)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Dommuseum_Florenz_%28Museo_dell%27Opera_del_Duomo%29.jpg/960px-Dommuseum_Florenz_%28Museo_dell%27Opera_del_Duomo%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Museo_dell'Opera_del_Duomo_(Florence)"
+        }
+      },
+      {
+        "id": "florence-museums-10",
+        "name": "Florence",
+        "cityId": "florence",
+        "categoryId": "museums",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Florence%2C%20Florence",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Florence",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/Firenze_-_Piazzale_Michelangelo%2C_Firenze%2C_Italy_-_April_6%2C_2015_02.jpg/960px-Firenze_-_Piazzale_Michelangelo%2C_Firenze%2C_Italy_-_April_6%2C_2015_02.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Florence"
+        }
+      },
+      {
+        "id": "florence-museums-11",
+        "name": "Porcelain Museum",
+        "cityId": "florence",
+        "categoryId": "museums",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Porcelain%20Museum%2C%20Florence",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Porcelain_Museum_(Florence)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/Jard%C3%ADn_de_B%C3%B3boli%2C_Florencia%2C_Italia%2C_2022-09-19%2C_DD_15.jpg/960px-Jard%C3%ADn_de_B%C3%B3boli%2C_Florencia%2C_Italia%2C_2022-09-19%2C_DD_15.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Porcelain_Museum_(Florence)"
+        }
+      },
+      {
+        "id": "florence-museums-12",
+        "name": "Museo Stibbert",
+        "cityId": "florence",
+        "categoryId": "museums",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Museo%20Stibbert%2C%20Florence",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Museo_Stibbert",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/Stibbert_Museum_%2881866%29.jpg/960px-Stibbert_Museum_%2881866%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Museo_Stibbert"
+        }
+      },
+      {
+        "id": "florence-museums-13",
+        "name": "Papyrus 70",
+        "cityId": "florence",
+        "categoryId": "museums",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Papyrus%2070%2C%20Florence",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Papyrus_70",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Oxford%2C_Ashmolean_Museum_Ms_P._Oxy._2384_%28Papyrus_70%29_recto_Matt_11%2C_26-27.jpg/960px-Oxford%2C_Ashmolean_Museum_Ms_P._Oxy._2384_%28Papyrus_70%29_recto_Matt_11%2C_26-27.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Papyrus_70"
+        }
+      },
+      {
+        "id": "florence-museums-14",
+        "name": "Museo Galileo",
+        "cityId": "florence",
+        "categoryId": "museums",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Museo%20Galileo%2C%20Florence",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Museo_Galileo",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Museo_Galileo_palazzo.jpg/960px-Museo_Galileo_palazzo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Museo_Galileo"
+        }
+      },
+      {
+        "id": "florence-museums-15",
+        "name": "Museo Nazionale di San Marco",
+        "cityId": "florence",
+        "categoryId": "museums",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Museo%20Nazionale%20di%20San%20Marco%2C%20Florence",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Museo_Nazionale_di_San_Marco",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Firenze%2C_chiesa_e_convento_di_san_marco%2C_facciata_01.jpg/960px-Firenze%2C_chiesa_e_convento_di_san_marco%2C_facciata_01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Museo_Nazionale_di_San_Marco"
+        }
+      },
+      {
+        "id": "florence-museums-16",
+        "name": "Galleria dell'Accademia",
+        "cityId": "florence",
+        "categoryId": "museums",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Galleria%20dell'Accademia%2C%20Florence",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Galleria_dell'Accademia",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/David_at_the_Galleria_dell%27Accademia_%2861351%29.jpg/960px-David_at_the_Galleria_dell%27Accademia_%2861351%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Galleria_dell'Accademia"
+        }
+      },
+      {
+        "id": "florence-museums-17",
+        "name": "Pontormo",
+        "cityId": "florence",
+        "categoryId": "museums",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Pontormo%2C%20Florence",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Pontormo",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/98/138_le_vite%2C_jacopo_pontormo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Pontormo"
+        }
+      },
+      {
+        "id": "florence-museums-18",
+        "name": "Bronzino",
+        "cityId": "florence",
+        "categoryId": "museums",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Bronzino%2C%20Florence",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Bronzino",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/Alessandro_Allori%2C_santissima_trinit%C3%A0%2C_1567-1571_circa%2C_ritratto_dei_maestri%2C_bronzino_%28cropped%29.jpg/960px-Alessandro_Allori%2C_santissima_trinit%C3%A0%2C_1567-1571_circa%2C_ritratto_dei_maestri%2C_bronzino_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Bronzino"
+        }
+      }
+    ],
+    "concerts": [
+      {
+        "id": "florence-concerts-1",
+        "name": "Santo Stefano al Ponte",
+        "cityId": "florence",
+        "categoryId": "concerts",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Santo%20Stefano%20al%20Ponte%2C%20Florence",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Santo_Stefano_al_Ponte",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/Santo_stefano_al_ponte_vecchio%2C_facciata_01.JPG/960px-Santo_stefano_al_ponte_vecchio%2C_facciata_01.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Santo_Stefano_al_Ponte"
+        }
+      },
+      {
+        "id": "florence-concerts-2",
+        "name": "Harris Fine Arts Center",
+        "cityId": "florence",
+        "categoryId": "concerts",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Harris%20Fine%20Arts%20Center%2C%20Florence",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Harris_Fine_Arts_Center",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/BYU_Harris_Fine_Arts_Center.JPG/960px-BYU_Harris_Fine_Arts_Center.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Harris_Fine_Arts_Center"
+        }
+      },
+      {
+        "id": "florence-concerts-3",
+        "name": "Von Braun Center",
+        "cityId": "florence",
+        "categoryId": "concerts",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Von%20Braun%20Center%2C%20Florence",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Von_Braun_Center",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Aerial_view_of_Von_Braun_Center.jpg/960px-Aerial_view_of_Von_Braun_Center.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Von_Braun_Center"
+        }
+      },
+      {
+        "id": "florence-concerts-4",
+        "name": "Schermerhorn Symphony Center",
+        "cityId": "florence",
+        "categoryId": "concerts",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Schermerhorn%20Symphony%20Center%2C%20Florence",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Schermerhorn_Symphony_Center",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Schermerhorn.jpg/960px-Schermerhorn.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Schermerhorn_Symphony_Center"
+        }
+      },
+      {
+        "id": "florence-concerts-5",
+        "name": "The Sheldon",
+        "cityId": "florence",
+        "categoryId": "concerts",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Sheldon%2C%20Florence",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/The_Sheldon",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Sheldonconcerthall.jpg/960px-Sheldonconcerthall.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/The_Sheldon"
+        }
+      },
+      {
+        "id": "florence-concerts-6",
+        "name": "Little Serenade",
+        "cityId": "florence",
+        "categoryId": "concerts",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Little%20Serenade%2C%20Florence",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Little_Serenade_(Larsson)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/Larsson1908.jpg/960px-Larsson1908.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Little_Serenade_(Larsson)"
+        }
+      },
+      {
+        "id": "florence-concerts-7",
+        "name": "L'Alliance New York",
+        "cityId": "florence",
+        "categoryId": "concerts",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=L'Alliance%20New%20York%2C%20Florence",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/L'Alliance_New_York",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/57/L%27Alliance_New_York.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/L'Alliance_New_York"
+        }
+      },
+      {
+        "id": "florence-concerts-8",
+        "name": "Nottingham Youth Orchestra",
+        "cityId": "florence",
+        "categoryId": "concerts",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Nottingham%20Youth%20Orchestra%2C%20Florence",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Nottingham_Youth_Orchestra",
+        "photo": null
+      },
+      {
+        "id": "florence-concerts-9",
+        "name": "Go U Northwestern",
+        "cityId": "florence",
+        "categoryId": "concerts",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Go%20U%20Northwestern%2C%20Florence",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Go_U_Northwestern",
+        "photo": null
+      },
+      {
+        "id": "florence-concerts-10",
+        "name": "1862 in Ireland",
+        "cityId": "florence",
+        "categoryId": "concerts",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=1862%20in%20Ireland%2C%20Florence",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/1862_in_Ireland",
+        "photo": null
+      },
+      {
+        "id": "florence-concerts-11",
+        "name": "Love This Giant Tour",
+        "cityId": "florence",
+        "categoryId": "concerts",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Love%20This%20Giant%20Tour%2C%20Florence",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Love_This_Giant_Tour",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/David_Byrne_%26_St._Vincent_-_Gran_Teatro_Geox%2C_Padova_-_10_settembre_2013_%289737661976%29.jpg/960px-David_Byrne_%26_St._Vincent_-_Gran_Teatro_Geox%2C_Padova_-_10_settembre_2013_%289737661976%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Love_This_Giant_Tour"
+        }
+      },
+      {
+        "id": "florence-concerts-12",
+        "name": "Victoria Hall, Stoke-on-Trent",
+        "cityId": "florence",
+        "categoryId": "concerts",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Victoria%20Hall%2C%20Stoke-on-Trent%2C%20Florence",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Victoria_Hall%2C_Stoke-on-Trent",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/1c/VictoriaHall.Hanley.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Victoria_Hall%2C_Stoke-on-Trent"
+        }
+      },
+      {
+        "id": "florence-concerts-13",
+        "name": "Giovanni Vailati",
+        "cityId": "florence",
+        "categoryId": "concerts",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Giovanni%20Vailati%2C%20Florence",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Giovanni_Vailati_(musician)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Giovanni_Vailati.png/960px-Giovanni_Vailati.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Giovanni_Vailati_(musician)"
+        }
+      },
+      {
+        "id": "florence-concerts-14",
+        "name": "Zagreb Indoors",
+        "cityId": "florence",
+        "categoryId": "concerts",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Zagreb%20Indoors%2C%20Florence",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Zagreb_Indoors",
+        "photo": null
+      },
+      {
+        "id": "florence-concerts-15",
+        "name": "St. Teresa's Catholic Church, Ankara",
+        "cityId": "florence",
+        "categoryId": "concerts",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=St.%20Teresa's%20Catholic%20Church%2C%20Ankara%2C%20Florence",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/St._Teresa's_Catholic_Church%2C_Ankara",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/St._T%C3%A9r%C3%A8se_Kilisesi_08.jpg/960px-St._T%C3%A9r%C3%A8se_Kilisesi_08.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/St._Teresa's_Catholic_Church%2C_Ankara"
+        }
+      },
+      {
+        "id": "florence-concerts-16",
+        "name": "Albert Hall, Nottingham",
+        "cityId": "florence",
+        "categoryId": "concerts",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Albert%20Hall%2C%20Nottingham%2C%20Florence",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Albert_Hall%2C_Nottingham",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Albert_Hall_Nottingham_5.jpg/960px-Albert_Hall_Nottingham_5.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Albert_Hall%2C_Nottingham"
+        }
+      },
+      {
+        "id": "florence-concerts-17",
+        "name": "Arata Isozaki",
+        "cityId": "florence",
+        "categoryId": "concerts",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Arata%20Isozaki%2C%20Florence",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Arata_Isozaki",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/ARATA_ISOZAKI%2C_ARCHITECT_01.jpg/960px-ARATA_ISOZAKI%2C_ARCHITECT_01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Arata_Isozaki"
+        }
+      },
+      {
+        "id": "florence-concerts-18",
+        "name": "Olympia Theatre, Dublin",
+        "cityId": "florence",
+        "categoryId": "concerts",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Olympia%20Theatre%2C%20Dublin%2C%20Florence",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Olympia_Theatre%2C_Dublin",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Olympia_Theatre_Dublin_entrance_in_2009.JPG/960px-Olympia_Theatre_Dublin_entrance_in_2009.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Olympia_Theatre%2C_Dublin"
+        }
+      }
+    ],
+    "fashion": [
+      {
+        "id": "florence-fashion-1",
+        "name": "Lenn Redman",
+        "cityId": "florence",
+        "categoryId": "fashion",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Lenn%20Redman%2C%20Florence",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Lenn_Redman",
+        "photo": null
+      },
+      {
+        "id": "florence-fashion-2",
+        "name": "Michele Saee",
+        "cityId": "florence",
+        "categoryId": "fashion",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Michele%20Saee%2C%20Florence",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Michele_Saee",
+        "photo": null
+      },
+      {
+        "id": "florence-fashion-3",
+        "name": "Frances Wisebart Jacobs",
+        "cityId": "florence",
+        "categoryId": "fashion",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Frances%20Wisebart%20Jacobs%2C%20Florence",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Frances_Wisebart_Jacobs",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/52/Frances_Wisebart_Jacobs.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Frances_Wisebart_Jacobs"
+        }
+      },
+      {
+        "id": "florence-fashion-4",
+        "name": "Baby Doe Tabor",
+        "cityId": "florence",
+        "categoryId": "fashion",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Baby%20Doe%20Tabor%2C%20Florence",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Baby_Doe_Tabor",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Baby_Doe_Tabor.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Baby_Doe_Tabor"
+        }
+      },
+      {
+        "id": "florence-fashion-5",
+        "name": "La Yuma",
+        "cityId": "florence",
+        "categoryId": "fashion",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=La%20Yuma%2C%20Florence",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/La_Yuma",
+        "photo": null
+      },
+      {
+        "id": "florence-fashion-6",
+        "name": "Nick Wooster",
+        "cityId": "florence",
+        "categoryId": "fashion",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Nick%20Wooster%2C%20Florence",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Nick_Wooster",
+        "photo": null
+      },
+      {
+        "id": "florence-fashion-7",
+        "name": "Rose Williams",
+        "cityId": "florence",
+        "categoryId": "fashion",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Rose%20Williams%2C%20Florence",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Rose_Williams_(actress)",
+        "photo": null
+      },
+      {
+        "id": "florence-fashion-8",
+        "name": "Katherine Kitt",
+        "cityId": "florence",
+        "categoryId": "fashion",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Katherine%20Kitt%2C%20Florence",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Katherine_Kitt",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Portrait_of_Katherine_Kitt.tif/lossy-page1-960px-Portrait_of_Katherine_Kitt.tif.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Katherine_Kitt"
+        }
+      },
+      {
+        "id": "florence-fashion-9",
+        "name": "Butterflies Are Free",
+        "cityId": "florence",
+        "categoryId": "fashion",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Butterflies%20Are%20Free%2C%20Florence",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Butterflies_Are_Free",
+        "photo": null
+      },
+      {
+        "id": "florence-fashion-10",
+        "name": "Ben Novack",
+        "cityId": "florence",
+        "categoryId": "fashion",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Ben%20Novack%2C%20Florence",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Ben_Novack",
+        "photo": null
+      },
+      {
+        "id": "florence-fashion-11",
+        "name": "William Harris",
+        "cityId": "florence",
+        "categoryId": "fashion",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=William%20Harris%2C%20Florence",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/William_Harris_(theatrical_producer)",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/db/WilliamHarris_byPachBros_NY_NYPL.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/William_Harris_(theatrical_producer)"
+        }
+      },
+      {
+        "id": "florence-fashion-12",
+        "name": "Jack Sutherland",
+        "cityId": "florence",
+        "categoryId": "fashion",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Jack%20Sutherland%2C%20Florence",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Jack_Sutherland",
+        "photo": null
+      },
+      {
+        "id": "florence-fashion-13",
+        "name": "Bernice Sandler",
+        "cityId": "florence",
+        "categoryId": "fashion",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Bernice%20Sandler%2C%20Florence",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Bernice_Sandler",
+        "photo": null
+      },
+      {
+        "id": "florence-fashion-14",
+        "name": "Lillian Vernon",
+        "cityId": "florence",
+        "categoryId": "fashion",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Lillian%20Vernon%2C%20Florence",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Lillian_Vernon_(businesswoman)",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Lillian_Vernon_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Lillian_Vernon_(businesswoman)"
+        }
+      },
+      {
+        "id": "florence-fashion-15",
+        "name": "Ruth Hussey",
+        "cityId": "florence",
+        "categoryId": "fashion",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Ruth%20Hussey%2C%20Florence",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Ruth_Hussey",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/RUTHussey.jpg/960px-RUTHussey.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Ruth_Hussey"
+        }
+      },
+      {
+        "id": "florence-fashion-16",
+        "name": "Eleanor L. Makel",
+        "cityId": "florence",
+        "categoryId": "fashion",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Eleanor%20L.%20Makel%2C%20Florence",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Eleanor_L._Makel",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/69/EleanorLMakel1963.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Eleanor_L._Makel"
+        }
+      },
+      {
+        "id": "florence-fashion-17",
+        "name": "Stanley Marcus",
+        "cityId": "florence",
+        "categoryId": "fashion",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Stanley%20Marcus%2C%20Florence",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Stanley_Marcus",
+        "photo": null
+      },
+      {
+        "id": "florence-fashion-18",
+        "name": "Burt Baskin",
+        "cityId": "florence",
+        "categoryId": "fashion",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Burt%20Baskin%2C%20Florence",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Burt_Baskin",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/96/Burt_Baskin.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Burt_Baskin"
+        }
+      }
+    ],
+    "shops": [
+      {
+        "id": "florence-shops-1",
+        "name": "Buddy Killen",
+        "cityId": "florence",
+        "categoryId": "shops",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Buddy%20Killen%2C%20Florence",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Buddy_Killen",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Buddy_Killen_Guitar.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Buddy_Killen"
+        }
+      },
+      {
+        "id": "florence-shops-2",
+        "name": "H-E-B",
+        "cityId": "florence",
+        "categoryId": "shops",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=H-E-B%2C%20Florence",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/H-E-B",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/HEBHQSanAntonio.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/H-E-B"
+        }
+      },
+      {
+        "id": "florence-shops-3",
+        "name": "Loggia Rucellai",
+        "cityId": "florence",
+        "categoryId": "shops",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Loggia%20Rucellai%2C%20Florence",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Loggia_Rucellai",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Loggia_Rucellai.JPG/960px-Loggia_Rucellai.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Loggia_Rucellai"
+        }
+      },
+      {
+        "id": "florence-shops-4",
+        "name": "Florence Violet McKenzie",
+        "cityId": "florence",
+        "categoryId": "shops",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Florence%20Violet%20McKenzie%2C%20Florence",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Florence_Violet_McKenzie",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/19/Florence_Violet_McKenzie_in_WESC_uniform.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Florence_Violet_McKenzie"
+        }
+      },
+      {
+        "id": "florence-shops-5",
+        "name": "James Ford",
+        "cityId": "florence",
+        "categoryId": "shops",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=James%20Ford%2C%20Florence",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/James_Ford_(musician)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/James_Ellis_Ford%2C_2013.jpg/960px-James_Ellis_Ford%2C_2013.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/James_Ford_(musician)"
+        }
+      },
+      {
+        "id": "florence-shops-6",
+        "name": "Union shop",
+        "cityId": "florence",
+        "categoryId": "shops",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Union%20shop%2C%20Florence",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Union_shop",
+        "photo": null
+      },
+      {
+        "id": "florence-shops-7",
+        "name": "Mount Florence Station",
+        "cityId": "florence",
+        "categoryId": "shops",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Mount%20Florence%20Station%2C%20Florence",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Mount_Florence_Station",
+        "photo": null
+      },
+      {
+        "id": "florence-shops-8",
+        "name": "Palazzo Medici Riccardi",
+        "cityId": "florence",
+        "categoryId": "shops",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Palazzo%20Medici%20Riccardi%2C%20Florence",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Palazzo_Medici_Riccardi",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Palazzo_Medici_Riccardi-Florence.jpg/960px-Palazzo_Medici_Riccardi-Florence.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Palazzo_Medici_Riccardi"
+        }
+      },
+      {
+        "id": "florence-shops-9",
+        "name": "Hércules Florence",
+        "cityId": "florence",
+        "categoryId": "shops",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=H%C3%A9rcules%20Florence%2C%20Florence",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/H%C3%A9rcules_Florence",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Retrato_de_H%C3%A9rcules_Florence.jpg/960px-Retrato_de_H%C3%A9rcules_Florence.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/H%C3%A9rcules_Florence"
+        }
+      },
+      {
+        "id": "florence-shops-10",
+        "name": "Butcher",
+        "cityId": "florence",
+        "categoryId": "shops",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Butcher%2C%20Florence",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Butcher",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/Wiki_Loves_Mett_P1020898.JPG/960px-Wiki_Loves_Mett_P1020898.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Butcher"
+        }
+      },
+      {
+        "id": "florence-shops-11",
+        "name": "See's Candies",
+        "cityId": "florence",
+        "categoryId": "shops",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=See's%20Candies%2C%20Florence",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/See's_Candies",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/See%27s_Candies_logo.svg/960px-See%27s_Candies_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/See's_Candies"
+        }
+      },
+      {
+        "id": "florence-shops-12",
+        "name": "Luca Landucci",
+        "cityId": "florence",
+        "categoryId": "shops",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Luca%20Landucci%2C%20Florence",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Luca_Landucci",
+        "photo": null
+      },
+      {
+        "id": "florence-shops-13",
+        "name": "Murray's Sturgeon Shop",
+        "cityId": "florence",
+        "categoryId": "shops",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Murray's%20Sturgeon%20Shop%2C%20Florence",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Murray's_Sturgeon_Shop",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/Murray%27s_Sturgeon_Shop.jpg/960px-Murray%27s_Sturgeon_Shop.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Murray's_Sturgeon_Shop"
+        }
+      },
+      {
+        "id": "florence-shops-14",
+        "name": "Guccio Gucci",
+        "cityId": "florence",
+        "categoryId": "shops",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Guccio%20Gucci%2C%20Florence",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Guccio_Gucci",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Guccio_Gucci_c.1940.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Guccio_Gucci"
+        }
+      },
+      {
+        "id": "florence-shops-15",
+        "name": "Enoteca",
+        "cityId": "florence",
+        "categoryId": "shops",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Enoteca%2C%20Florence",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Enoteca",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/21/Enoteca.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Enoteca"
+        }
+      },
+      {
+        "id": "florence-shops-16",
+        "name": "The Italian Barber",
+        "cityId": "florence",
+        "categoryId": "shops",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Italian%20Barber%2C%20Florence",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/The_Italian_Barber",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/The_Italian_Barber_-_A_History_of_the_Movies.jpg/960px-The_Italian_Barber_-_A_History_of_the_Movies.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/The_Italian_Barber"
+        }
+      },
+      {
+        "id": "florence-shops-17",
+        "name": "Arizona Army National Guard",
+        "cityId": "florence",
+        "categoryId": "shops",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Arizona%20Army%20National%20Guard%2C%20Florence",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Arizona_Army_National_Guard",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/86/Arizona_National_Guard_seal.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Arizona_Army_National_Guard"
+        }
+      },
+      {
+        "id": "florence-shops-18",
+        "name": "Panerai",
+        "cityId": "florence",
+        "categoryId": "shops",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Panerai%2C%20Florence",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Panerai",
+        "photo": null
+      }
+    ]
+  }
+}

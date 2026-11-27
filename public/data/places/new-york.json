@@ -1,0 +1,1883 @@
+{
+  "cityId": "new-york",
+  "generatedAt": "2026-11-27T08:22:11.124Z",
+  "source": "Wikipedia API + Maps URLs (sin scraping de Google)",
+  "incomplete": [
+    "coffee_shops",
+    "bookshops"
+  ],
+  "categories": {
+    "night_clubs": [
+      {
+        "id": "new-york-night_clubs-1",
+        "name": "Latin Quarter",
+        "cityId": "new-york",
+        "categoryId": "night_clubs",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Latin%20Quarter%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Latin_Quarter_(nightclub)",
+        "photo": null
+      },
+      {
+        "id": "new-york-night_clubs-2",
+        "name": "Earl Carroll Theatre",
+        "cityId": "new-york",
+        "categoryId": "night_clubs",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Earl%20Carroll%20Theatre%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Earl_Carroll_Theatre",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Earl_Carroll_Theatre%2C_Manhattan.jpg/960px-Earl_Carroll_Theatre%2C_Manhattan.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Earl_Carroll_Theatre"
+        }
+      },
+      {
+        "id": "new-york-night_clubs-3",
+        "name": "Copacabana",
+        "cityId": "new-york",
+        "categoryId": "night_clubs",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Copacabana%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Copacabana_(nightclub)",
+        "photo": null
+      },
+      {
+        "id": "new-york-night_clubs-4",
+        "name": "Studio 54",
+        "cityId": "new-york",
+        "categoryId": "night_clubs",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Studio%2054%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Studio_54",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/Studio_54_logo.svg/960px-Studio_54_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Studio_54"
+        }
+      },
+      {
+        "id": "new-york-night_clubs-5",
+        "name": "WWF New York",
+        "cityId": "new-york",
+        "categoryId": "night_clubs",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=WWF%20New%20York%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/WWF_New_York",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/76/Paramount_Times_Square.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/WWF_New_York"
+        }
+      },
+      {
+        "id": "new-york-night_clubs-6",
+        "name": "The Embers",
+        "cityId": "new-york",
+        "categoryId": "night_clubs",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Embers%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/The_Embers_(nightclub)",
+        "photo": null
+      },
+      {
+        "id": "new-york-night_clubs-7",
+        "name": "Omar Mateen",
+        "cityId": "new-york",
+        "categoryId": "night_clubs",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Omar%20Mateen%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Omar_Mateen",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Omar_Mateen.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Omar_Mateen"
+        }
+      },
+      {
+        "id": "new-york-night_clubs-8",
+        "name": "Rebar",
+        "cityId": "new-york",
+        "categoryId": "night_clubs",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Rebar%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Rebar_(New_York_City)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Rebar%2C_NYC%2C_2020.jpg/960px-Rebar%2C_NYC%2C_2020.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Rebar_(New_York_City)"
+        }
+      },
+      {
+        "id": "new-york-night_clubs-9",
+        "name": "Club 57",
+        "cityId": "new-york",
+        "categoryId": "night_clubs",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Club%2057%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Club_57_(nightclub)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Club-57.jpg/960px-Club-57.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Club_57_(nightclub)"
+        }
+      },
+      {
+        "id": "new-york-night_clubs-10",
+        "name": "Area",
+        "cityId": "new-york",
+        "categoryId": "night_clubs",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Area%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Area_(nightclub)",
+        "photo": null
+      },
+      {
+        "id": "new-york-night_clubs-11",
+        "name": "Therapy",
+        "cityId": "new-york",
+        "categoryId": "night_clubs",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Therapy%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Therapy_(New_York_City)",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/39/Therapy_Bar_348_W52_%282%29_jeh.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Therapy_(New_York_City)"
+        }
+      },
+      {
+        "id": "new-york-night_clubs-12",
+        "name": "Hurrah",
+        "cityId": "new-york",
+        "categoryId": "night_clubs",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Hurrah%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Hurrah_(nightclub)",
+        "photo": null
+      },
+      {
+        "id": "new-york-night_clubs-13",
+        "name": "Industry Bar",
+        "cityId": "new-york",
+        "categoryId": "night_clubs",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Industry%20Bar%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Industry_Bar",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Industry_entrance.jpg/960px-Industry_entrance.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Industry_Bar"
+        }
+      },
+      {
+        "id": "new-york-night_clubs-14",
+        "name": "The Limelight",
+        "cityId": "new-york",
+        "categoryId": "night_clubs",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Limelight%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/The_Limelight",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Avalon_NYC_2007_006.jpg/960px-Avalon_NYC_2007_006.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/The_Limelight"
+        }
+      },
+      {
+        "id": "new-york-night_clubs-15",
+        "name": "Tunnel",
+        "cityId": "new-york",
+        "categoryId": "night_clubs",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Tunnel%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Tunnel_(New_York_nightclub)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/Terminal_Warehouse_Central_Stores_Building_closeup.jpg/960px-Terminal_Warehouse_Central_Stores_Building_closeup.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Tunnel_(New_York_nightclub)"
+        }
+      },
+      {
+        "id": "new-york-night_clubs-16",
+        "name": "Lena Horne",
+        "cityId": "new-york",
+        "categoryId": "night_clubs",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Lena%20Horne%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Lena_Horne",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Lena_Horne%2C_1946.jpg/960px-Lena_Horne%2C_1946.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Lena_Horne"
+        }
+      },
+      {
+        "id": "new-york-night_clubs-17",
+        "name": "Jackie 60",
+        "cityId": "new-york",
+        "categoryId": "night_clubs",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Jackie%2060%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Jackie_60",
+        "photo": null
+      },
+      {
+        "id": "new-york-night_clubs-18",
+        "name": "Bond International Casino",
+        "cityId": "new-york",
+        "categoryId": "night_clubs",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Bond%20International%20Casino%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Bond_International_Casino",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/DKbonds1982.jpg/960px-DKbonds1982.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Bond_International_Casino"
+        }
+      }
+    ],
+    "restaurants": [
+      {
+        "id": "new-york-restaurants-1",
+        "name": "La Grenouille",
+        "cityId": "new-york",
+        "categoryId": "restaurants",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=La%20Grenouille%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/La_Grenouille_(restaurant)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/La_Grenouille_NYC.jpg/960px-La_Grenouille_NYC.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/La_Grenouille_(restaurant)"
+        }
+      },
+      {
+        "id": "new-york-restaurants-2",
+        "name": "Grand Central Oyster Bar & Restaurant",
+        "cityId": "new-york",
+        "categoryId": "restaurants",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Grand%20Central%20Oyster%20Bar%20%26%20Restaurant%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Grand_Central_Oyster_Bar_%26_Restaurant",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/The_Oyster_Bar%2C_Grand_Central_Terminal%2C_New_York_City_%284057303042%29.jpg/960px-The_Oyster_Bar%2C_Grand_Central_Terminal%2C_New_York_City_%284057303042%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Grand_Central_Oyster_Bar_%26_Restaurant"
+        }
+      },
+      {
+        "id": "new-york-restaurants-3",
+        "name": "Brasserie Les Halles",
+        "cityId": "new-york",
+        "categoryId": "restaurants",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Brasserie%20Les%20Halles%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Brasserie_Les_Halles",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/WTM_tony_0009.jpg/960px-WTM_tony_0009.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Brasserie_Les_Halles"
+        }
+      },
+      {
+        "id": "new-york-restaurants-4",
+        "name": "Marea",
+        "cityId": "new-york",
+        "categoryId": "restaurants",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Marea%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Marea_(restaurant)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Marea_interior.jpg/960px-Marea_interior.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Marea_(restaurant)"
+        }
+      },
+      {
+        "id": "new-york-restaurants-5",
+        "name": "Restaurant Aquavit",
+        "cityId": "new-york",
+        "categoryId": "restaurants",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Restaurant%20Aquavit%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Restaurant_Aquavit",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/Aquavit_NYC.jpg/960px-Aquavit_NYC.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Restaurant_Aquavit"
+        }
+      },
+      {
+        "id": "new-york-restaurants-6",
+        "name": "Sardi's",
+        "cityId": "new-york",
+        "categoryId": "restaurants",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Sardi's%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Sardi's",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Sardis.jpg/960px-Sardis.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Sardi's"
+        }
+      },
+      {
+        "id": "new-york-restaurants-7",
+        "name": "Four Seasons Restaurant",
+        "cityId": "new-york",
+        "categoryId": "restaurants",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Four%20Seasons%20Restaurant%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Four_Seasons_Restaurant",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Four-seasons-ny.jpg/960px-Four-seasons-ny.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Four_Seasons_Restaurant"
+        }
+      },
+      {
+        "id": "new-york-restaurants-8",
+        "name": "Delmonico's",
+        "cityId": "new-york",
+        "categoryId": "restaurants",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Delmonico's%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Delmonico's",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Delmonico%27s_%2850056567651%29.jpg/960px-Delmonico%27s_%2850056567651%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Delmonico's"
+        }
+      },
+      {
+        "id": "new-york-restaurants-9",
+        "name": "Moosewood Restaurant",
+        "cityId": "new-york",
+        "categoryId": "restaurants",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Moosewood%20Restaurant%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Moosewood_Restaurant",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/Moosewood_Restaurant_at_DeWitt_Mall%2C_Ithaca.jpg/960px-Moosewood_Restaurant_at_DeWitt_Mall%2C_Ithaca.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Moosewood_Restaurant"
+        }
+      },
+      {
+        "id": "new-york-restaurants-10",
+        "name": "Le Pavillon",
+        "cityId": "new-york",
+        "categoryId": "restaurants",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Le%20Pavillon%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Le_Pavillon_(Daniel_Boulud_restaurant)",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Pavillon_logo.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Le_Pavillon_(Daniel_Boulud_restaurant)"
+        }
+      },
+      {
+        "id": "new-york-restaurants-11",
+        "name": "Rumpelmayer's",
+        "cityId": "new-york",
+        "categoryId": "restaurants",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Rumpelmayer's%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Rumpelmayer's_(New_York_City)",
+        "photo": null
+      },
+      {
+        "id": "new-york-restaurants-12",
+        "name": "Le Bernardin",
+        "cityId": "new-york",
+        "categoryId": "restaurants",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Le%20Bernardin%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Le_Bernardin",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/Interior_of_Le_Bernardin.jpg/960px-Interior_of_Le_Bernardin.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Le_Bernardin"
+        }
+      },
+      {
+        "id": "new-york-restaurants-13",
+        "name": "Gallagher's Steakhouse",
+        "cityId": "new-york",
+        "categoryId": "restaurants",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Gallagher's%20Steakhouse%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Gallagher's_Steakhouse",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Gallagher%27s_Steakhouse_%2854077231479%29.jpg/960px-Gallagher%27s_Steakhouse_%2854077231479%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Gallagher's_Steakhouse"
+        }
+      },
+      {
+        "id": "new-york-restaurants-14",
+        "name": "Windows on the World",
+        "cityId": "new-york",
+        "categoryId": "restaurants",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Windows%20on%20the%20World%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Windows_on_the_World",
+        "photo": null
+      },
+      {
+        "id": "new-york-restaurants-15",
+        "name": "Reuben's Restaurant",
+        "cityId": "new-york",
+        "categoryId": "restaurants",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Reuben's%20Restaurant%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Reuben's_Restaurant",
+        "photo": null
+      },
+      {
+        "id": "new-york-restaurants-16",
+        "name": "Per Se",
+        "cityId": "new-york",
+        "categoryId": "restaurants",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Per%20Se%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Per_Se_(restaurant)",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/52/PerSe.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Per_Se_(restaurant)"
+        }
+      },
+      {
+        "id": "new-york-restaurants-17",
+        "name": "Tom's Restaurant",
+        "cityId": "new-york",
+        "categoryId": "restaurants",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Tom's%20Restaurant%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Tom's_Restaurant",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Tom%27s_Restaurant_on_2880_Broadway%2C_New_York.JPG/960px-Tom%27s_Restaurant_on_2880_Broadway%2C_New_York.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Tom's_Restaurant"
+        }
+      },
+      {
+        "id": "new-york-restaurants-18",
+        "name": "Russian Tea Room",
+        "cityId": "new-york",
+        "categoryId": "restaurants",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Russian%20Tea%20Room%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Russian_Tea_Room",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Russian_Tea_Room_entrance_2025.jpg/960px-Russian_Tea_Room_entrance_2025.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Russian_Tea_Room"
+        }
+      }
+    ],
+    "bars": [
+      {
+        "id": "new-york-bars-1",
+        "name": "Grand Central Oyster Bar & Restaurant",
+        "cityId": "new-york",
+        "categoryId": "bars",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Grand%20Central%20Oyster%20Bar%20%26%20Restaurant%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Grand_Central_Oyster_Bar_%26_Restaurant",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/The_Oyster_Bar%2C_Grand_Central_Terminal%2C_New_York_City_%284057303042%29.jpg/960px-The_Oyster_Bar%2C_Grand_Central_Terminal%2C_New_York_City_%284057303042%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Grand_Central_Oyster_Bar_%26_Restaurant"
+        }
+      },
+      {
+        "id": "new-york-bars-2",
+        "name": "Stonewall Inn",
+        "cityId": "new-york",
+        "categoryId": "bars",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Stonewall%20Inn%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Stonewall_Inn",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Stonewall_Inn_5_pride_weekend_2016.jpg/960px-Stonewall_Inn_5_pride_weekend_2016.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Stonewall_Inn"
+        }
+      },
+      {
+        "id": "new-york-bars-3",
+        "name": "Milk Bar",
+        "cityId": "new-york",
+        "categoryId": "bars",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Milk%20Bar%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Milk_Bar_(bakery)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Momofuku_Milk_Bar_Nolita_sign_%2800330%29.jpg/960px-Momofuku_Milk_Bar_Nolita_sign_%2800330%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Milk_Bar_(bakery)"
+        }
+      },
+      {
+        "id": "new-york-bars-4",
+        "name": "McSorley's Old Ale House",
+        "cityId": "new-york",
+        "categoryId": "bars",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=McSorley's%20Old%20Ale%20House%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/McSorley's_Old_Ale_House",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/McSorley%27s_Old_Ale_House_001_crop.jpg/960px-McSorley%27s_Old_Ale_House_001_crop.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/McSorley's_Old_Ale_House"
+        }
+      },
+      {
+        "id": "new-york-bars-5",
+        "name": "West End Bar",
+        "cityId": "new-york",
+        "categoryId": "bars",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=West%20End%20Bar%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/West_End_Bar",
+        "photo": null
+      },
+      {
+        "id": "new-york-bars-6",
+        "name": "Whiskey Soda Lounge",
+        "cityId": "new-york",
+        "categoryId": "bars",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Whiskey%20Soda%20Lounge%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Whiskey_Soda_Lounge",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Southeast_Portland%2C_Oregon_%28February_7%2C_2021%29_-_043.jpg/960px-Southeast_Portland%2C_Oregon_%28February_7%2C_2021%29_-_043.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Whiskey_Soda_Lounge"
+        }
+      },
+      {
+        "id": "new-york-bars-7",
+        "name": "CBGB",
+        "cityId": "new-york",
+        "categoryId": "bars",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=CBGB%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/CBGB",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/CBGB_club_facade.jpg/960px-CBGB_club_facade.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/CBGB"
+        }
+      },
+      {
+        "id": "new-york-bars-8",
+        "name": "Bar and bat mitzvah",
+        "cityId": "new-york",
+        "categoryId": "bars",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Bar%20and%20bat%20mitzvah%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Bar_and_bat_mitzvah",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Jewish_boy_reads_Bar_Mitzvah.JPG/960px-Jewish_boy_reads_Bar_Mitzvah.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Bar_and_bat_mitzvah"
+        }
+      },
+      {
+        "id": "new-york-bars-9",
+        "name": "Metropolitan",
+        "cityId": "new-york",
+        "categoryId": "bars",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Metropolitan%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Metropolitan_(bar)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Metropolitan_Bar_%28cropped%29.jpg/960px-Metropolitan_Bar_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Metropolitan_(bar)"
+        }
+      },
+      {
+        "id": "new-york-bars-10",
+        "name": "Windows on the World",
+        "cityId": "new-york",
+        "categoryId": "bars",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Windows%20on%20the%20World%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Windows_on_the_World",
+        "photo": null
+      },
+      {
+        "id": "new-york-bars-11",
+        "name": "Momofuku",
+        "cityId": "new-york",
+        "categoryId": "bars",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Momofuku%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Momofuku_(restaurants)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/MomofukuRamen.jpg/960px-MomofukuRamen.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Momofuku_(restaurants)"
+        }
+      },
+      {
+        "id": "new-york-bars-12",
+        "name": "Campbell Apartment",
+        "cityId": "new-york",
+        "categoryId": "bars",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Campbell%20Apartment%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Campbell_Apartment",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/GCT_Campbell_1.jpg/960px-GCT_Campbell_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Campbell_Apartment"
+        }
+      },
+      {
+        "id": "new-york-bars-13",
+        "name": "Medals of the New York City Police Department",
+        "cityId": "new-york",
+        "categoryId": "bars",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Medals%20of%20the%20New%20York%20City%20Police%20Department%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Medals_of_the_New_York_City_Police_Department",
+        "photo": null
+      },
+      {
+        "id": "new-york-bars-14",
+        "name": "Admission to the bar in the United States",
+        "cityId": "new-york",
+        "categoryId": "bars",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Admission%20to%20the%20bar%20in%20the%20United%20States%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Admission_to_the_bar_in_the_United_States",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/Law_School_Oral_Arguments.jpg/960px-Law_School_Oral_Arguments.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Admission_to_the_bar_in_the_United_States"
+        }
+      },
+      {
+        "id": "new-york-bars-15",
+        "name": "ZZ's Clam Bar",
+        "cityId": "new-york",
+        "categoryId": "bars",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=ZZ's%20Clam%20Bar%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/ZZ's_Clam_Bar",
+        "photo": null
+      },
+      {
+        "id": "new-york-bars-16",
+        "name": "Terminal Bar",
+        "cityId": "new-york",
+        "categoryId": "bars",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Terminal%20Bar%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Terminal_Bar_(bar)",
+        "photo": null
+      },
+      {
+        "id": "new-york-bars-17",
+        "name": "Bar Next Door at La Lanterna di Vittorio",
+        "cityId": "new-york",
+        "categoryId": "bars",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Bar%20Next%20Door%20at%20La%20Lanterna%20di%20Vittorio%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Bar_Next_Door_at_La_Lanterna_di_Vittorio",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/127-131_MacDougal_Street_%281%29.JPG/960px-127-131_MacDougal_Street_%281%29.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Bar_Next_Door_at_La_Lanterna_di_Vittorio"
+        }
+      },
+      {
+        "id": "new-york-bars-18",
+        "name": "Gotham Bar and Grill",
+        "cityId": "new-york",
+        "categoryId": "bars",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Gotham%20Bar%20and%20Grill%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Gotham_Bar_and_Grill",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/GOTHAM_0721_2112.jpg/960px-GOTHAM_0721_2112.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Gotham_Bar_and_Grill"
+        }
+      }
+    ],
+    "coffee_shops": [],
+    "bookshops": [],
+    "museums": [
+      {
+        "id": "new-york-museums-1",
+        "name": "Metropolitan Museum of Art",
+        "cityId": "new-york",
+        "categoryId": "museums",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Metropolitan%20Museum%20of%20Art%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Metropolitan_Museum_of_Art",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Metropolitan_Museum_of_Art_%28The_Met%29_-_Central_Park%2C_NYC.jpg/960px-Metropolitan_Museum_of_Art_%28The_Met%29_-_Central_Park%2C_NYC.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Metropolitan_Museum_of_Art"
+        }
+      },
+      {
+        "id": "new-york-museums-2",
+        "name": "Museum of Modern Art",
+        "cityId": "new-york",
+        "categoryId": "museums",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Museum%20of%20Modern%20Art%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Museum_of_Modern_Art",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/MoMa_NY_USA_1.jpg/960px-MoMa_NY_USA_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Museum_of_Modern_Art"
+        }
+      },
+      {
+        "id": "new-york-museums-3",
+        "name": "Solomon R. Guggenheim Museum",
+        "cityId": "new-york",
+        "categoryId": "museums",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Solomon%20R.%20Guggenheim%20Museum%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Solomon_R._Guggenheim_Museum",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Solomon_R._Guggenheim_Museum_%2848059131351%29.jpg/960px-Solomon_R._Guggenheim_Museum_%2848059131351%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Solomon_R._Guggenheim_Museum"
+        }
+      },
+      {
+        "id": "new-york-museums-4",
+        "name": "Brooklyn Museum",
+        "cityId": "new-york",
+        "categoryId": "museums",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Brooklyn%20Museum%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Brooklyn_Museum",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/Brooklyn_Museum_-_Entrance_%2852302265063%29.jpg/960px-Brooklyn_Museum_-_Entrance_%2852302265063%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Brooklyn_Museum"
+        }
+      },
+      {
+        "id": "new-york-museums-5",
+        "name": "New York Historical",
+        "cityId": "new-york",
+        "categoryId": "museums",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=New%20York%20Historical%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/New_York_Historical",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/New_York_Historical_Society_%2848269593386%29.jpg/960px-New_York_Historical_Society_%2848269593386%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/New_York_Historical"
+        }
+      },
+      {
+        "id": "new-york-museums-6",
+        "name": "Whitney Museum of American Art",
+        "cityId": "new-york",
+        "categoryId": "museums",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Whitney%20Museum%20of%20American%20Art%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Whitney_Museum_of_American_Art",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/Whitney_Museum_of_American_Art_%2849051573133%29.jpg/960px-Whitney_Museum_of_American_Art_%2849051573133%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Whitney_Museum_of_American_Art"
+        }
+      },
+      {
+        "id": "new-york-museums-7",
+        "name": "Jackson Pollock",
+        "cityId": "new-york",
+        "categoryId": "museums",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Jackson%20Pollock%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Jackson_Pollock",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Jackson_Pollock_by_Hans_Namuth_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Jackson_Pollock"
+        }
+      },
+      {
+        "id": "new-york-museums-8",
+        "name": "New York Yankees",
+        "cityId": "new-york",
+        "categoryId": "museums",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=New%20York%20Yankees%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/New_York_Yankees",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/New_York_Yankees_Primary_Logo.svg/960px-New_York_Yankees_Primary_Logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/New_York_Yankees"
+        }
+      },
+      {
+        "id": "new-york-museums-9",
+        "name": "New York Transit Museum",
+        "cityId": "new-york",
+        "categoryId": "museums",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=New%20York%20Transit%20Museum%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/New_York_Transit_Museum",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/New_York_Transit_Museum_logo.svg/960px-New_York_Transit_Museum_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/New_York_Transit_Museum"
+        }
+      },
+      {
+        "id": "new-york-museums-10",
+        "name": "Queens Museum",
+        "cityId": "new-york",
+        "categoryId": "museums",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Queens%20Museum%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Queens_Museum",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Queens_Museum-1.jpg/960px-Queens_Museum-1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Queens_Museum"
+        }
+      },
+      {
+        "id": "new-york-museums-11",
+        "name": "National September 11 Memorial & Museum",
+        "cityId": "new-york",
+        "categoryId": "museums",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=National%20September%2011%20Memorial%20%26%20Museum%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/National_September_11_Memorial_%26_Museum",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/9-11_Memorial_and_Museum_%2828815276064%29.jpg/960px-9-11_Memorial_and_Museum_%2828815276064%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/National_September_11_Memorial_%26_Museum"
+        }
+      },
+      {
+        "id": "new-york-museums-12",
+        "name": "Fashion Institute of Technology",
+        "cityId": "new-york",
+        "categoryId": "museums",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Fashion%20Institute%20of%20Technology%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Fashion_Institute_of_Technology",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Fashion_Institute_of_Technology_Logo_High_Quality.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Fashion_Institute_of_Technology"
+        }
+      },
+      {
+        "id": "new-york-museums-13",
+        "name": "Morgan Library & Museum",
+        "cityId": "new-york",
+        "categoryId": "museums",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Morgan%20Library%20%26%20Museum%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Morgan_Library_%26_Museum",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Morgan_Library_%26_Museum%2C_New_York_2017_02.jpg/960px-Morgan_Library_%26_Museum%2C_New_York_2017_02.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Morgan_Library_%26_Museum"
+        }
+      },
+      {
+        "id": "new-york-museums-14",
+        "name": "National Baseball Hall of Fame and Museum",
+        "cityId": "new-york",
+        "categoryId": "museums",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=National%20Baseball%20Hall%20of%20Fame%20and%20Museum%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/National_Baseball_Hall_of_Fame_and_Museum",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/National_Baseball_Hall_of_Fame_and_Museum%2C_Cooperstown%2C_NY.jpg/960px-National_Baseball_Hall_of_Fame_and_Museum%2C_Cooperstown%2C_NY.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/National_Baseball_Hall_of_Fame_and_Museum"
+        }
+      },
+      {
+        "id": "new-york-museums-15",
+        "name": "Jewish Museum",
+        "cityId": "new-york",
+        "categoryId": "museums",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Jewish%20Museum%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Jewish_Museum_(Manhattan)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Jewish_Museum_%2848059132236%29.jpg/960px-Jewish_Museum_%2848059132236%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Jewish_Museum_(Manhattan)"
+        }
+      },
+      {
+        "id": "new-york-museums-16",
+        "name": "New Museum",
+        "cityId": "new-york",
+        "categoryId": "museums",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=New%20Museum%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/New_Museum",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/New_Museum_in_New_York_City_2015.JPG/960px-New_Museum_in_New_York_City_2015.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/New_Museum"
+        }
+      },
+      {
+        "id": "new-york-museums-17",
+        "name": "LuEsther T. Mertz Library",
+        "cityId": "new-york",
+        "categoryId": "museums",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=LuEsther%20T.%20Mertz%20Library%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/LuEsther_T._Mertz_Library",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/New_York_Botanical_Garden_April_2015_010.jpg/960px-New_York_Botanical_Garden_April_2015_010.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/LuEsther_T._Mertz_Library"
+        }
+      },
+      {
+        "id": "new-york-museums-18",
+        "name": "Museum of the City of New York",
+        "cityId": "new-york",
+        "categoryId": "museums",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Museum%20of%20the%20City%20of%20New%20York%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Museum_of_the_City_of_New_York",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Museum_of_the_City_of_New_York_logo.svg/960px-Museum_of_the_City_of_New_York_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Museum_of_the_City_of_New_York"
+        }
+      }
+    ],
+    "concerts": [
+      {
+        "id": "new-york-concerts-1",
+        "name": "Merkin Hall",
+        "cityId": "new-york",
+        "categoryId": "concerts",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Merkin%20Hall%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Merkin_Hall",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/en/thumb/e/e9/Performance_at_Merkin_Concert_Hall_7-27-2007.jpg/960px-Performance_at_Merkin_Concert_Hall_7-27-2007.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Merkin_Hall"
+        }
+      },
+      {
+        "id": "new-york-concerts-2",
+        "name": "David Geffen Hall",
+        "cityId": "new-york",
+        "categoryId": "concerts",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=David%20Geffen%20Hall%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/David_Geffen_Hall",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/David_Geffen_Hall_%2848047408511%29.jpg/960px-David_Geffen_Hall_%2848047408511%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/David_Geffen_Hall"
+        }
+      },
+      {
+        "id": "new-york-concerts-3",
+        "name": "Eastman Theatre",
+        "cityId": "new-york",
+        "categoryId": "concerts",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Eastman%20Theatre%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Eastman_Theatre",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/EastmanTheatre2021BeforeTheShow.jpg/960px-EastmanTheatre2021BeforeTheShow.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Eastman_Theatre"
+        }
+      },
+      {
+        "id": "new-york-concerts-4",
+        "name": "Calderone Concert Hall",
+        "cityId": "new-york",
+        "categoryId": "concerts",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Calderone%20Concert%20Hall%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Calderone_Concert_Hall",
+        "photo": null
+      },
+      {
+        "id": "new-york-concerts-5",
+        "name": "Sibelius Hall",
+        "cityId": "new-york",
+        "categoryId": "concerts",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Sibelius%20Hall%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Sibelius_Hall",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Sibelius_hall_Lahti.jpg/960px-Sibelius_hall_Lahti.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Sibelius_Hall"
+        }
+      },
+      {
+        "id": "new-york-concerts-6",
+        "name": "Richard B. Fisher Center for the Performing Arts",
+        "cityId": "new-york",
+        "categoryId": "concerts",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Richard%20B.%20Fisher%20Center%20for%20the%20Performing%20Arts%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Richard_B._Fisher_Center_for_the_Performing_Arts",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Richard_B._Fisher_Center_for_the_Performing_Arts_-_IMG_8015.JPG/960px-Richard_B._Fisher_Center_for_the_Performing_Arts_-_IMG_8015.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Richard_B._Fisher_Center_for_the_Performing_Arts"
+        }
+      },
+      {
+        "id": "new-york-concerts-7",
+        "name": "Maverick Concert Hall",
+        "cityId": "new-york",
+        "categoryId": "concerts",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Maverick%20Concert%20Hall%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Maverick_Concert_Hall",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Maverick_Concert_Hall_in_summer.jpg/960px-Maverick_Concert_Hall_in_summer.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Maverick_Concert_Hall"
+        }
+      },
+      {
+        "id": "new-york-concerts-8",
+        "name": "Palladium",
+        "cityId": "new-york",
+        "categoryId": "concerts",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Palladium%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Palladium_(New_York_City)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/The_Palladium_at_14th_Street_and_Third_Avenue%2C_New_York_City_in_1987.jpg/960px-The_Palladium_at_14th_Street_and_Third_Avenue%2C_New_York_City_in_1987.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Palladium_(New_York_City)"
+        }
+      },
+      {
+        "id": "new-york-concerts-9",
+        "name": "Alice Tully Hall",
+        "cityId": "new-york",
+        "categoryId": "concerts",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Alice%20Tully%20Hall%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Alice_Tully_Hall",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Alice_Tully_Hall_%2848047494177%29.jpg/960px-Alice_Tully_Hall_%2848047494177%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Alice_Tully_Hall"
+        }
+      },
+      {
+        "id": "new-york-concerts-10",
+        "name": "The Chance",
+        "cityId": "new-york",
+        "categoryId": "concerts",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Chance%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/The_Chance",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/The-chance-2.jpg/960px-The-chance-2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/The_Chance"
+        }
+      },
+      {
+        "id": "new-york-concerts-11",
+        "name": "Berliner Philharmonie",
+        "cityId": "new-york",
+        "categoryId": "concerts",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Berliner%20Philharmonie%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Berliner_Philharmonie",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Berlin_Philharmonie_asv2018-05_img2.jpg/960px-Berlin_Philharmonie_asv2018-05_img2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Berliner_Philharmonie"
+        }
+      },
+      {
+        "id": "new-york-concerts-12",
+        "name": "Hult Center for the Performing Arts",
+        "cityId": "new-york",
+        "categoryId": "concerts",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Hult%20Center%20for%20the%20Performing%20Arts%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Hult_Center_for_the_Performing_Arts",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/HultCenterPerformingArts.jpg/960px-HultCenterPerformingArts.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Hult_Center_for_the_Performing_Arts"
+        }
+      },
+      {
+        "id": "new-york-concerts-13",
+        "name": "Shanghai Concert Hall",
+        "cityId": "new-york",
+        "categoryId": "concerts",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Shanghai%20Concert%20Hall%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Shanghai_Concert_Hall",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Concert_hall_shanghai.jpg/960px-Concert_hall_shanghai.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Shanghai_Concert_Hall"
+        }
+      },
+      {
+        "id": "new-york-concerts-14",
+        "name": "Walt Disney Concert Hall",
+        "cityId": "new-york",
+        "categoryId": "concerts",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Walt%20Disney%20Concert%20Hall%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Walt_Disney_Concert_Hall",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Walt_Disney_Concert_Hall%2C_LA%2C_CA%2C_jjron_22.03.2012.jpg/960px-Walt_Disney_Concert_Hall%2C_LA%2C_CA%2C_jjron_22.03.2012.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Walt_Disney_Concert_Hall"
+        }
+      },
+      {
+        "id": "new-york-concerts-15",
+        "name": "Los Angeles Philharmonic",
+        "cityId": "new-york",
+        "categoryId": "concerts",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Los%20Angeles%20Philharmonic%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Los_Angeles_Philharmonic",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/Yunchan_Lim_with_the_Los_Angeles_Philharmonic_in_concert_at_the_Hollywood_Bowl.jpg/960px-Yunchan_Lim_with_the_Los_Angeles_Philharmonic_in_concert_at_the_Hollywood_Bowl.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Los_Angeles_Philharmonic"
+        }
+      },
+      {
+        "id": "new-york-concerts-16",
+        "name": "Olympia Theatre",
+        "cityId": "new-york",
+        "categoryId": "concerts",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Olympia%20Theatre%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Olympia_Theatre_(New_York_City)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Hammerstein%27s_Olympia%2C_Broadway_and_44th_Street%2C_Manhattan.jpg/960px-Hammerstein%27s_Olympia%2C_Broadway_and_44th_Street%2C_Manhattan.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Olympia_Theatre_(New_York_City)"
+        }
+      },
+      {
+        "id": "new-york-concerts-17",
+        "name": "Yasuhisa Toyota",
+        "cityId": "new-york",
+        "categoryId": "concerts",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Yasuhisa%20Toyota%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Yasuhisa_Toyota",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/20130118_Bing_from_the_choral_Terrace_phil_King.jpg/960px-20130118_Bing_from_the_choral_Terrace_phil_King.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Yasuhisa_Toyota"
+        }
+      },
+      {
+        "id": "new-york-concerts-18",
+        "name": "Steinway Hall",
+        "cityId": "new-york",
+        "categoryId": "concerts",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Steinway%20Hall%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Steinway_Hall",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Buying_tickets_for_a_Charles_Dickens_reading_at_Steinway_Hall%2C_New_York%2C_New_York%2C_1867.jpg/960px-Buying_tickets_for_a_Charles_Dickens_reading_at_Steinway_Hall%2C_New_York%2C_New_York%2C_1867.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Steinway_Hall"
+        }
+      }
+    ],
+    "fashion": [
+      {
+        "id": "new-york-fashion-1",
+        "name": "Limbo",
+        "cityId": "new-york",
+        "categoryId": "fashion",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Limbo%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Limbo_(boutique)",
+        "photo": null
+      },
+      {
+        "id": "new-york-fashion-2",
+        "name": "Abe Stark",
+        "cityId": "new-york",
+        "categoryId": "fashion",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Abe%20Stark%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Abe_Stark",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Abe_Stark_1949.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Abe_Stark"
+        }
+      },
+      {
+        "id": "new-york-fashion-3",
+        "name": "Charivari",
+        "cityId": "new-york",
+        "categoryId": "fashion",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Charivari%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Charivari_(store)",
+        "photo": null
+      },
+      {
+        "id": "new-york-fashion-4",
+        "name": "Ravenite Social Club",
+        "cityId": "new-york",
+        "categoryId": "fashion",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Ravenite%20Social%20Club%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Ravenite_Social_Club",
+        "photo": null
+      },
+      {
+        "id": "new-york-fashion-5",
+        "name": "Kleinhans",
+        "cityId": "new-york",
+        "categoryId": "fashion",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Kleinhans%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Kleinhans",
+        "photo": null
+      },
+      {
+        "id": "new-york-fashion-6",
+        "name": "Cohoes",
+        "cityId": "new-york",
+        "categoryId": "fashion",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Cohoes%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Cohoes",
+        "photo": null
+      },
+      {
+        "id": "new-york-fashion-7",
+        "name": "Hip Hop Shop",
+        "cityId": "new-york",
+        "categoryId": "fashion",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Hip%20Hop%20Shop%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Hip_Hop_Shop",
+        "photo": null
+      },
+      {
+        "id": "new-york-fashion-8",
+        "name": "Morris Brothers",
+        "cityId": "new-york",
+        "categoryId": "fashion",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Morris%20Brothers%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Morris_Brothers",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/2322_Bwy_84th_Game_Stop_jeh.jpg/960px-2322_Bwy_84th_Game_Stop_jeh.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Morris_Brothers"
+        }
+      },
+      {
+        "id": "new-york-fashion-9",
+        "name": "National Stores",
+        "cityId": "new-york",
+        "categoryId": "fashion",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=National%20Stores%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/National_Stores",
+        "photo": null
+      },
+      {
+        "id": "new-york-fashion-10",
+        "name": "Hackett London",
+        "cityId": "new-york",
+        "categoryId": "fashion",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Hackett%20London%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Hackett_London",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/en/d/d6/Hackett_%28clothing%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Hackett_London"
+        }
+      },
+      {
+        "id": "new-york-fashion-11",
+        "name": "Oppenheim Collins",
+        "cityId": "new-york",
+        "categoryId": "fashion",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Oppenheim%20Collins%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Oppenheim_Collins",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Fulton_St_Lawrence_St_Gallatin_Pl_td_%282022-12-02%29_06_-_Oppenheim_Collins_Building_%28485_Fulton_Street%29.jpg/960px-Fulton_St_Lawrence_St_Gallatin_Pl_td_%282022-12-02%29_06_-_Oppenheim_Collins_Building_%28485_Fulton_Street%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Oppenheim_Collins"
+        }
+      },
+      {
+        "id": "new-york-fashion-12",
+        "name": "Charlotte Russe",
+        "cityId": "new-york",
+        "categoryId": "fashion",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Charlotte%20Russe%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Charlotte_Russe_(retailer)",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/10/Charlotte_russe.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Charlotte_Russe_(retailer)"
+        }
+      },
+      {
+        "id": "new-york-fashion-13",
+        "name": "Storefront Hitchcock",
+        "cityId": "new-york",
+        "categoryId": "fashion",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Storefront%20Hitchcock%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Storefront_Hitchcock",
+        "photo": null
+      },
+      {
+        "id": "new-york-fashion-14",
+        "name": "Wallachs",
+        "cityId": "new-york",
+        "categoryId": "fashion",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Wallachs%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Wallachs_(clothiers)",
+        "photo": null
+      },
+      {
+        "id": "new-york-fashion-15",
+        "name": "Irving D. Chais",
+        "cityId": "new-york",
+        "categoryId": "fashion",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Irving%20D.%20Chais%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Irving_D._Chais",
+        "photo": null
+      },
+      {
+        "id": "new-york-fashion-16",
+        "name": "Guy Weill",
+        "cityId": "new-york",
+        "categoryId": "fashion",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Guy%20Weill%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Guy_Weill",
+        "photo": null
+      },
+      {
+        "id": "new-york-fashion-17",
+        "name": "Jenkem Magazine",
+        "cityId": "new-york",
+        "categoryId": "fashion",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Jenkem%20Magazine%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Jenkem_Magazine",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/63/Jenkem_logo_400x400.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Jenkem_Magazine"
+        }
+      },
+      {
+        "id": "new-york-fashion-18",
+        "name": "Hana Tajima",
+        "cityId": "new-york",
+        "categoryId": "fashion",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Hana%20Tajima%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Hana_Tajima",
+        "photo": null
+      }
+    ],
+    "shops": [
+      {
+        "id": "new-york-shops-1",
+        "name": "Murray's Sturgeon Shop",
+        "cityId": "new-york",
+        "categoryId": "shops",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Murray's%20Sturgeon%20Shop%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Murray's_Sturgeon_Shop",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/Murray%27s_Sturgeon_Shop.jpg/960px-Murray%27s_Sturgeon_Shop.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Murray's_Sturgeon_Shop"
+        }
+      },
+      {
+        "id": "new-york-shops-2",
+        "name": "The Meatball Shop",
+        "cityId": "new-york",
+        "categoryId": "shops",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Meatball%20Shop%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/The_Meatball_Shop",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/The_Meatball_Shop_%2814260615203%29.jpg/960px-The_Meatball_Shop_%2814260615203%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/The_Meatball_Shop"
+        }
+      },
+      {
+        "id": "new-york-shops-3",
+        "name": "The Coffee Shop",
+        "cityId": "new-york",
+        "categoryId": "shops",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Coffee%20Shop%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/The_Coffee_Shop_(New_York_City)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Coffee_Shop_Bar_-_panoramio.jpg/960px-Coffee_Shop_Bar_-_panoramio.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/The_Coffee_Shop_(New_York_City)"
+        }
+      },
+      {
+        "id": "new-york-shops-4",
+        "name": "The Hungarian Pastry Shop",
+        "cityId": "new-york",
+        "categoryId": "shops",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Hungarian%20Pastry%20Shop%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/The_Hungarian_Pastry_Shop",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/Hungarian_Pastry_Shop.jpg/960px-Hungarian_Pastry_Shop.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/The_Hungarian_Pastry_Shop"
+        }
+      },
+      {
+        "id": "new-york-shops-5",
+        "name": "Hermann 19",
+        "cityId": "new-york",
+        "categoryId": "shops",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Hermann%2019%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Hermann_19",
+        "photo": null
+      },
+      {
+        "id": "new-york-shops-6",
+        "name": "Little Shop of Horrors",
+        "cityId": "new-york",
+        "categoryId": "shops",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Little%20Shop%20of%20Horrors%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Little_Shop_of_Horrors_(musical)",
+        "photo": null
+      },
+      {
+        "id": "new-york-shops-7",
+        "name": "American Comics Group",
+        "cityId": "new-york",
+        "categoryId": "shops",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=American%20Comics%20Group%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/American_Comics_Group",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/en/5/55/American-Comics-Group-ACG-logo-sub.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/American_Comics_Group"
+        }
+      },
+      {
+        "id": "new-york-shops-8",
+        "name": "Stop & Shop",
+        "cityId": "new-york",
+        "categoryId": "shops",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Stop%20%26%20Shop%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Stop_%26_Shop",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Stop_and_Shop_%28North_Providence%2C_RI%29.jpg/960px-Stop_and_Shop_%28North_Providence%2C_RI%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Stop_%26_Shop"
+        }
+      },
+      {
+        "id": "new-york-shops-9",
+        "name": "New York Army National Guard",
+        "cityId": "new-york",
+        "categoryId": "shops",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=New%20York%20Army%20National%20Guard%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/New_York_Army_National_Guard",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/NY-Army_National_Guard_seal.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/New_York_Army_National_Guard"
+        }
+      },
+      {
+        "id": "new-york-shops-10",
+        "name": "New York City Boy",
+        "cityId": "new-york",
+        "categoryId": "shops",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=New%20York%20City%20Boy%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/New_York_City_Boy",
+        "photo": null
+      },
+      {
+        "id": "new-york-shops-11",
+        "name": "Firestarter",
+        "cityId": "new-york",
+        "categoryId": "shops",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Firestarter%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Firestarter_(novel)",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Firestarter_%281980%29_front_cover%2C_first_edition.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Firestarter_(novel)"
+        }
+      },
+      {
+        "id": "new-york-shops-12",
+        "name": "WRNN-TV",
+        "cityId": "new-york",
+        "categoryId": "shops",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=WRNN-TV%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/WRNN-TV",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/RNN_logo.svg/960px-RNN_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/WRNN-TV"
+        }
+      },
+      {
+        "id": "new-york-shops-13",
+        "name": "Pail Shop Corners, New York",
+        "cityId": "new-york",
+        "categoryId": "shops",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Pail%20Shop%20Corners%2C%20New%20York%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Pail_Shop_Corners%2C_New_York",
+        "photo": null
+      },
+      {
+        "id": "new-york-shops-14",
+        "name": "Hermann 22",
+        "cityId": "new-york",
+        "categoryId": "shops",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Hermann%2022%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Hermann_22",
+        "photo": null
+      },
+      {
+        "id": "new-york-shops-15",
+        "name": "Skate shop",
+        "cityId": "new-york",
+        "categoryId": "shops",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Skate%20shop%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Skate_shop",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/Ridin%27_High_Skate_Shop_Burlington_5.JPG/960px-Ridin%27_High_Skate_Shop_Burlington_5.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Skate_shop"
+        }
+      },
+      {
+        "id": "new-york-shops-16",
+        "name": "Stewart's Shops",
+        "cityId": "new-york",
+        "categoryId": "shops",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Stewart's%20Shops%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Stewart's_Shops",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Headquarters_of_Stewart%27s_Shops.jpg/960px-Headquarters_of_Stewart%27s_Shops.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Stewart's_Shops"
+        }
+      },
+      {
+        "id": "new-york-shops-17",
+        "name": "Submarine sandwich",
+        "cityId": "new-york",
+        "categoryId": "shops",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Submarine%20sandwich%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Submarine_sandwich",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Submarine_sandwich_with_toppings_and_dijon_mustard.jpg/960px-Submarine_sandwich_with_toppings_and_dijon_mustard.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Submarine_sandwich"
+        }
+      },
+      {
+        "id": "new-york-shops-18",
+        "name": "Newsagent's shop",
+        "cityId": "new-york",
+        "categoryId": "shops",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Newsagent's%20shop%2C%20New%20York",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Newsagent's_shop",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/Street_Scene_-_Salta_-_Argentina.jpg/960px-Street_Scene_-_Salta_-_Argentina.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Newsagent's_shop"
+        }
+      }
+    ]
+  }
+}

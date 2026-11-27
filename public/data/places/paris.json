@@ -1,0 +1,1645 @@
+{
+  "cityId": "paris",
+  "generatedAt": "2026-11-27T08:37:02.424Z",
+  "source": "Wikipedia API + Maps URLs (sin scraping de Google)",
+  "incomplete": [
+    "concerts",
+    "fashion",
+    "shops"
+  ],
+  "categories": {
+    "night_clubs": [
+      {
+        "id": "paris-night_clubs-1",
+        "name": "Paris Theatre",
+        "cityId": "paris",
+        "categoryId": "night_clubs",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Paris%20Theatre%2C%20Paris",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Paris_Theatre_(Portland%2C_Oregon)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Portland%2C_Oregon%2C_March_28%2C_2026_-_05_%28cropped%29.jpg/960px-Portland%2C_Oregon%2C_March_28%2C_2026_-_05_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Paris_Theatre_(Portland%2C_Oregon)"
+        }
+      },
+      {
+        "id": "paris-night_clubs-2",
+        "name": "Electro dance",
+        "cityId": "paris",
+        "categoryId": "night_clubs",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Electro%20dance%2C%20Paris",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Electro_dance",
+        "photo": null
+      },
+      {
+        "id": "paris-night_clubs-3",
+        "name": "Café de Paris, London",
+        "cityId": "paris",
+        "categoryId": "night_clubs",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Caf%C3%A9%20de%20Paris%2C%20London%2C%20Paris",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Caf%C3%A9_de_Paris%2C_London",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Caf%C3%A9_de_Paris_-_London_-_08.JPG/960px-Caf%C3%A9_de_Paris_-_London_-_08.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Caf%C3%A9_de_Paris%2C_London"
+        }
+      },
+      {
+        "id": "paris-night_clubs-4",
+        "name": "Aristide Bruant",
+        "cityId": "paris",
+        "categoryId": "night_clubs",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Aristide%20Bruant%2C%20Paris",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Aristide_Bruant",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/02/Aristide_Bruant_by_Nadar_ca._1898_bw_restored_cut.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Aristide_Bruant"
+        }
+      },
+      {
+        "id": "paris-night_clubs-5",
+        "name": "Barclay",
+        "cityId": "paris",
+        "categoryId": "night_clubs",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Barclay%2C%20Paris",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Barclay_(record_label)",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/en/7/7b/Barclay_%28record_label%29_logo.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Barclay_(record_label)"
+        }
+      },
+      {
+        "id": "paris-night_clubs-6",
+        "name": "Victor Drai",
+        "cityId": "paris",
+        "categoryId": "night_clubs",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Victor%20Drai%2C%20Paris",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Victor_Drai",
+        "photo": null
+      },
+      {
+        "id": "paris-night_clubs-7",
+        "name": "Régine Zylberberg",
+        "cityId": "paris",
+        "categoryId": "night_clubs",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=R%C3%A9gine%20Zylberberg%2C%20Paris",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/R%C3%A9gine_Zylberberg",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/R%C3%A9gine_Cannes.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/R%C3%A9gine_Zylberberg"
+        }
+      },
+      {
+        "id": "paris-night_clubs-8",
+        "name": "Good Time",
+        "cityId": "paris",
+        "categoryId": "night_clubs",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Good%20Time%2C%20Paris",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Good_Time_(Paris_Hilton_song)",
+        "photo": null
+      },
+      {
+        "id": "paris-night_clubs-9",
+        "name": "The Proprietor",
+        "cityId": "paris",
+        "categoryId": "night_clubs",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Proprietor%2C%20Paris",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/The_Proprietor",
+        "photo": null
+      },
+      {
+        "id": "paris-night_clubs-10",
+        "name": "Cabaret",
+        "cityId": "paris",
+        "categoryId": "night_clubs",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Cabaret%2C%20Paris",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Cabaret",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/Henri_de_Toulouse-Lautrec%2C_French_-_At_the_Moulin_Rouge-_The_Dance_-_Google_Art_Project.jpg/960px-Henri_de_Toulouse-Lautrec%2C_French_-_At_the_Moulin_Rouge-_The_Dance_-_Google_Art_Project.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Cabaret"
+        }
+      },
+      {
+        "id": "paris-night_clubs-11",
+        "name": "Nightclub Hostess",
+        "cityId": "paris",
+        "categoryId": "night_clubs",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Nightclub%20Hostess%2C%20Paris",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Nightclub_Hostess",
+        "photo": null
+      },
+      {
+        "id": "paris-night_clubs-12",
+        "name": "Warehouse",
+        "cityId": "paris",
+        "categoryId": "night_clubs",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Warehouse%2C%20Paris",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Warehouse_(nightclub)",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/The_Warehouse%3B_Chicago%2C_Il%3B_5_Oct_2024.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Warehouse_(nightclub)"
+        }
+      },
+      {
+        "id": "paris-night_clubs-13",
+        "name": "Le Chat Noir",
+        "cityId": "paris",
+        "categoryId": "night_clubs",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Le%20Chat%20Noir%2C%20Paris",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Le_Chat_Noir",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Le_Chat_noir_1929.jpg/960px-Le_Chat_noir_1929.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Le_Chat_Noir"
+        }
+      },
+      {
+        "id": "paris-night_clubs-14",
+        "name": "Lina Rafn",
+        "cityId": "paris",
+        "categoryId": "night_clubs",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Lina%20Rafn%2C%20Paris",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Lina_Rafn",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/Lina_Rafn_at_Danish_DJ_Awards_anno_2007.jpg/960px-Lina_Rafn_at_Danish_DJ_Awards_anno_2007.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Lina_Rafn"
+        }
+      },
+      {
+        "id": "paris-night_clubs-15",
+        "name": "Trocadero",
+        "cityId": "paris",
+        "categoryId": "night_clubs",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Trocadero%2C%20Paris",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Trocadero",
+        "photo": null
+      },
+      {
+        "id": "paris-night_clubs-16",
+        "name": "Studio One",
+        "cityId": "paris",
+        "categoryId": "night_clubs",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Studio%20One%2C%20Paris",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Studio_One",
+        "photo": null
+      },
+      {
+        "id": "paris-night_clubs-17",
+        "name": "Nightclub act",
+        "cityId": "paris",
+        "categoryId": "night_clubs",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Nightclub%20act%2C%20Paris",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Nightclub_act",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Frances_Langford_circa_1946.JPG/960px-Frances_Langford_circa_1946.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Nightclub_act"
+        }
+      },
+      {
+        "id": "paris-night_clubs-18",
+        "name": "Suzy Solidor",
+        "cityId": "paris",
+        "categoryId": "night_clubs",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Suzy%20Solidor%2C%20Paris",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Suzy_Solidor",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/27/Suzy_Solidor_1-K-12432-2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Suzy_Solidor"
+        }
+      }
+    ],
+    "restaurants": [
+      {
+        "id": "paris-restaurants-1",
+        "name": "Maxim's",
+        "cityId": "paris",
+        "categoryId": "restaurants",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Maxim's%2C%20Paris",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Maxim's",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/MaximsRestaurant.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Maxim's"
+        }
+      },
+      {
+        "id": "paris-restaurants-2",
+        "name": "Eiffel Tower",
+        "cityId": "paris",
+        "categoryId": "restaurants",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Eiffel%20Tower%2C%20Paris",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Eiffel_Tower",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Tour_Eiffel_Wikimedia_Commons_%28cropped%29.jpg/960px-Tour_Eiffel_Wikimedia_Commons_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Eiffel_Tower"
+        }
+      },
+      {
+        "id": "paris-restaurants-3",
+        "name": "Joe Allen",
+        "cityId": "paris",
+        "categoryId": "restaurants",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Joe%20Allen%2C%20Paris",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Joe_Allen_(restaurant)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/Joe_Allen_326_W46_jeh.jpg/960px-Joe_Allen_326_W46_jeh.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Joe_Allen_(restaurant)"
+        }
+      },
+      {
+        "id": "paris-restaurants-4",
+        "name": "Bel Canto",
+        "cityId": "paris",
+        "categoryId": "restaurants",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Bel%20Canto%2C%20Paris",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Bel_Canto_(restaurant)",
+        "photo": null
+      },
+      {
+        "id": "paris-restaurants-5",
+        "name": "Michelin Guide",
+        "cityId": "paris",
+        "categoryId": "restaurants",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Michelin%20Guide%2C%20Paris",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Michelin_Guide",
+        "photo": null
+      },
+      {
+        "id": "paris-restaurants-6",
+        "name": "Alain Ducasse",
+        "cityId": "paris",
+        "categoryId": "restaurants",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Alain%20Ducasse%2C%20Paris",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Alain_Ducasse",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Alain_Ducasse.jpg/960px-Alain_Ducasse.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Alain_Ducasse"
+        }
+      },
+      {
+        "id": "paris-restaurants-7",
+        "name": "Rue Montorgueil",
+        "cityId": "paris",
+        "categoryId": "restaurants",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Rue%20Montorgueil%2C%20Paris",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Rue_Montorgueil",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/RueMontorgueil.JPG/960px-RueMontorgueil.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Rue_Montorgueil"
+        }
+      },
+      {
+        "id": "paris-restaurants-8",
+        "name": "Adventureland Bazaar",
+        "cityId": "paris",
+        "categoryId": "restaurants",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Adventureland%20Bazaar%2C%20Paris",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Adventureland_Bazaar",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Land_Rover_-_Disneyland_Paris_2011.jpg/960px-Land_Rover_-_Disneyland_Paris_2011.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Adventureland_Bazaar"
+        }
+      },
+      {
+        "id": "paris-restaurants-9",
+        "name": "Bistro",
+        "cityId": "paris",
+        "categoryId": "restaurants",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Bistro%2C%20Paris",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Bistro",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Jean_B%C3%A9raud_Au_Bistro.jpg/960px-Jean_B%C3%A9raud_Au_Bistro.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Bistro"
+        }
+      },
+      {
+        "id": "paris-restaurants-10",
+        "name": "Latin Quarter, Paris",
+        "cityId": "paris",
+        "categoryId": "restaurants",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Latin%20Quarter%2C%20Paris%2C%20Paris",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Latin_Quarter%2C_Paris",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/P1300734_Paris_V_place_de_la_Sorbonne_rwk.jpg/960px-P1300734_Paris_V_place_de_la_Sorbonne_rwk.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Latin_Quarter%2C_Paris"
+        }
+      },
+      {
+        "id": "paris-restaurants-11",
+        "name": "Asnières",
+        "cityId": "paris",
+        "categoryId": "restaurants",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Asni%C3%A8res%2C%20Paris",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Asni%C3%A8res_(Van_Gogh_series)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Van_Gogh_-_Angler_und_Boote_an_der_Pont_de_Clichy.jpeg/960px-Van_Gogh_-_Angler_und_Boote_an_der_Pont_de_Clichy.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Asni%C3%A8res_(Van_Gogh_series)"
+        }
+      },
+      {
+        "id": "paris-restaurants-12",
+        "name": "Paris Las Vegas",
+        "cityId": "paris",
+        "categoryId": "restaurants",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Paris%20Las%20Vegas%2C%20Paris",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Paris_Las_Vegas",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/The_hotel_Paris_Las_Vegas_as_seen_from_the_hotel_The_Bellagio.jpg/960px-The_hotel_Paris_Las_Vegas_as_seen_from_the_hotel_The_Bellagio.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Paris_Las_Vegas"
+        }
+      },
+      {
+        "id": "paris-restaurants-13",
+        "name": "Floating restaurant",
+        "cityId": "paris",
+        "categoryId": "restaurants",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Floating%20restaurant%2C%20Paris",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Floating_restaurant",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Vaal_River_-_Floating_Restaurant-001.jpg/960px-Vaal_River_-_Floating_Restaurant-001.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Floating_restaurant"
+        }
+      },
+      {
+        "id": "paris-restaurants-14",
+        "name": "Hôtel Barrière Le Fouquet's",
+        "cityId": "paris",
+        "categoryId": "restaurants",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=H%C3%B4tel%20Barri%C3%A8re%20Le%20Fouquet's%2C%20Paris",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/H%C3%B4tel_Barri%C3%A8re_Le_Fouquet's",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Entr%C3%A9e_de_l%27h%C3%B4tel_Fouquet%27s.jpg/960px-Entr%C3%A9e_de_l%27h%C3%B4tel_Fouquet%27s.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/H%C3%B4tel_Barri%C3%A8re_Le_Fouquet's"
+        }
+      },
+      {
+        "id": "paris-restaurants-15",
+        "name": "Disney Village",
+        "cityId": "paris",
+        "categoryId": "restaurants",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Disney%20Village%2C%20Paris",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Disney_Village",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Parade_in_Disney_Village_2.jpg/960px-Parade_in_Disney_Village_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Disney_Village"
+        }
+      },
+      {
+        "id": "paris-restaurants-16",
+        "name": "Disney Adventure World",
+        "cityId": "paris",
+        "categoryId": "restaurants",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Disney%20Adventure%20World%2C%20Paris",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Disney_Adventure_World",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/en/thumb/1/1e/Walt_Disney_Studios_Park_001_%284480783275%29.jpg/960px-Walt_Disney_Studios_Park_001_%284480783275%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Disney_Adventure_World"
+        }
+      },
+      {
+        "id": "paris-restaurants-17",
+        "name": "Guy Savoy",
+        "cityId": "paris",
+        "categoryId": "restaurants",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Guy%20Savoy%2C%20Paris",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Guy_Savoy",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Guy_Savoy.jpg/960px-Guy_Savoy.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Guy_Savoy"
+        }
+      },
+      {
+        "id": "paris-restaurants-18",
+        "name": "Emily in Paris",
+        "cityId": "paris",
+        "categoryId": "restaurants",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Emily%20in%20Paris%2C%20Paris",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Emily_in_Paris",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Emily_in_Paris_logo.svg/960px-Emily_in_Paris_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Emily_in_Paris"
+        }
+      }
+    ],
+    "bars": [
+      {
+        "id": "paris-bars-1",
+        "name": "Hôtel Ritz Paris",
+        "cityId": "paris",
+        "categoryId": "bars",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=H%C3%B4tel%20Ritz%20Paris%2C%20Paris",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/H%C3%B4tel_Ritz_Paris",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/H%C3%B4tel_Ritz.jpg/960px-H%C3%B4tel_Ritz.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/H%C3%B4tel_Ritz_Paris"
+        }
+      },
+      {
+        "id": "paris-bars-2",
+        "name": "Battle of Bar-sur-Aube",
+        "cityId": "paris",
+        "categoryId": "bars",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Battle%20of%20Bar-sur-Aube%2C%20Paris",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Battle_of_Bar-sur-Aube",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Jahrhundertausstellung_1906_KatNr._0865.jpg/960px-Jahrhundertausstellung_1906_KatNr._0865.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Battle_of_Bar-sur-Aube"
+        }
+      },
+      {
+        "id": "paris-bars-3",
+        "name": "Rubber-tyred metro",
+        "cityId": "paris",
+        "categoryId": "bars",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Rubber-tyred%20metro%2C%20Paris",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Rubber-tyred_metro",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/ST_SN5000_20061102_001.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Rubber-tyred_metro"
+        }
+      },
+      {
+        "id": "paris-bars-4",
+        "name": "High jump",
+        "cityId": "paris",
+        "categoryId": "bars",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=High%20jump%2C%20Paris",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/High_jump",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Nicole_Forrester.JPG/960px-Nicole_Forrester.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/High_jump"
+        }
+      },
+      {
+        "id": "paris-bars-5",
+        "name": "Joan I of Navarre",
+        "cityId": "paris",
+        "categoryId": "bars",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Joan%20I%20of%20Navarre%2C%20Paris",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Joan_I_of_Navarre",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Joan_I_of_Navarre%2C_Queen_of_France_as_Benefactress%2C_from_a_portal_in_the_College_de_Navarre%2C_Paris%2C_c._1305%2C_limestone_-_Bode-Museum_-_DSC03464.JPG/960px-Joan_I_of_Navarre%2C_Queen_of_France_as_Benefactress%2C_from_a_portal_in_the_College_de_Navarre%2C_Paris%2C_c._1305%2C_limestone_-_Bode-Museum_-_DSC03464.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Joan_I_of_Navarre"
+        }
+      },
+      {
+        "id": "paris-bars-6",
+        "name": "RuPaul's Drag Race season 14",
+        "cityId": "paris",
+        "categoryId": "bars",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=RuPaul's%20Drag%20Race%20season%2014%2C%20Paris",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/RuPaul's_Drag_Race_season_14",
+        "photo": null
+      },
+      {
+        "id": "paris-bars-7",
+        "name": "1992 World Artistic Gymnastics Championships",
+        "cityId": "paris",
+        "categoryId": "bars",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=1992%20World%20Artistic%20Gymnastics%20Championships%2C%20Paris",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/1992_World_Artistic_Gymnastics_Championships",
+        "photo": null
+      },
+      {
+        "id": "paris-bars-8",
+        "name": "A Bar at the Folies-Bergère",
+        "cityId": "paris",
+        "categoryId": "bars",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=A%20Bar%20at%20the%20Folies-Berg%C3%A8re%2C%20Paris",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/A_Bar_at_the_Folies-Berg%C3%A8re",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/%22Un_Bar_aux_Folies-Berg%C3%A8re%22_by_%C3%89douard_Manet_%281882%29.jpg/960px-%22Un_Bar_aux_Folies-Berg%C3%A8re%22_by_%C3%89douard_Manet_%281882%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/A_Bar_at_the_Folies-Berg%C3%A8re"
+        }
+      },
+      {
+        "id": "paris-bars-9",
+        "name": "The Simpsons Balenciaga",
+        "cityId": "paris",
+        "categoryId": "bars",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Simpsons%20Balenciaga%2C%20Paris",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/The_Simpsons_Balenciaga",
+        "photo": null
+      },
+      {
+        "id": "paris-bars-10",
+        "name": "Gaston Bachelard",
+        "cityId": "paris",
+        "categoryId": "bars",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Gaston%20Bachelard%2C%20Paris",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Gaston_Bachelard",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/Gaston_Bachelard.jpg/960px-Gaston_Bachelard.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Gaston_Bachelard"
+        }
+      },
+      {
+        "id": "paris-bars-11",
+        "name": "Buddha Bar",
+        "cityId": "paris",
+        "categoryId": "bars",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Buddha%20Bar%2C%20Paris",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Buddha_Bar",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Buddha-bar_hotel_paris_logo.jpg/960px-Buddha-bar_hotel_paris_logo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Buddha_Bar"
+        }
+      },
+      {
+        "id": "paris-bars-12",
+        "name": "Battle of Paris",
+        "cityId": "paris",
+        "categoryId": "bars",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Battle%20of%20Paris%2C%20Paris",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Battle_of_Paris_(1814)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/La_Barri%C3%A8re_de_Clichy._D%C3%A9fense_de_Paris%2C_le_30_mars_1814_-_Horace_Vernet_-_Mus%C3%A9e_du_Louvre_Peintures_RF_126.jpg/960px-La_Barri%C3%A8re_de_Clichy._D%C3%A9fense_de_Paris%2C_le_30_mars_1814_-_Horace_Vernet_-_Mus%C3%A9e_du_Louvre_Peintures_RF_126.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Battle_of_Paris_(1814)"
+        }
+      },
+      {
+        "id": "paris-bars-13",
+        "name": "Bridge",
+        "cityId": "paris",
+        "categoryId": "bars",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Bridge%2C%20Paris",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Bridge_(music)",
+        "photo": null
+      },
+      {
+        "id": "paris-bars-14",
+        "name": "1931 World Artistic Gymnastics Championships",
+        "cityId": "paris",
+        "categoryId": "bars",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=1931%20World%20Artistic%20Gymnastics%20Championships%2C%20Paris",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/1931_World_Artistic_Gymnastics_Championships",
+        "photo": null
+      },
+      {
+        "id": "paris-bars-15",
+        "name": "Tracery",
+        "cityId": "paris",
+        "categoryId": "bars",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Tracery%2C%20Paris",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Tracery",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Fenetre.cathedraleSoissons.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Tracery"
+        }
+      },
+      {
+        "id": "paris-bars-16",
+        "name": "Paris Calling",
+        "cityId": "paris",
+        "categoryId": "bars",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Paris%20Calling%2C%20Paris",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Paris_Calling",
+        "photo": null
+      },
+      {
+        "id": "paris-bars-17",
+        "name": "Gare de l'Est",
+        "cityId": "paris",
+        "categoryId": "bars",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Gare%20de%20l'Est%2C%20Paris",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Gare_de_l'Est",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/Gare_de_lEst_%285699062644%29.jpg/960px-Gare_de_lEst_%285699062644%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Gare_de_l'Est"
+        }
+      },
+      {
+        "id": "paris-bars-18",
+        "name": "Paris Adult Theatre I v. Slaton",
+        "cityId": "paris",
+        "categoryId": "bars",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Paris%20Adult%20Theatre%20I%20v.%20Slaton%2C%20Paris",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Paris_Adult_Theatre_I_v._Slaton",
+        "photo": null
+      }
+    ],
+    "coffee_shops": [
+      {
+        "id": "paris-coffee_shops-1",
+        "name": "Café Procope",
+        "cityId": "paris",
+        "categoryId": "coffee_shops",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Caf%C3%A9%20Procope%2C%20Paris",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Caf%C3%A9_Procope",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Le_Procope_1%2C_Paris_2010.jpg/960px-Le_Procope_1%2C_Paris_2010.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Caf%C3%A9_Procope"
+        }
+      },
+      {
+        "id": "paris-coffee_shops-2",
+        "name": "Café des 2 Moulins",
+        "cityId": "paris",
+        "categoryId": "coffee_shops",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Caf%C3%A9%20des%202%20Moulins%2C%20Paris",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Caf%C3%A9_des_2_Moulins",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Cafe_des_2_Moulins%2C_Paris_24_August_2019.jpg/960px-Cafe_des_2_Moulins%2C_Paris_24_August_2019.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Caf%C3%A9_des_2_Moulins"
+        }
+      },
+      {
+        "id": "paris-coffee_shops-3",
+        "name": "Les Deux Magots",
+        "cityId": "paris",
+        "categoryId": "coffee_shops",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Les%20Deux%20Magots%2C%20Paris",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Les_Deux_Magots",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Les_Deux_Magots%2C_25_September_2019.jpg/960px-Les_Deux_Magots%2C_25_September_2019.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Les_Deux_Magots"
+        }
+      },
+      {
+        "id": "paris-coffee_shops-4",
+        "name": "Café de Paris, London",
+        "cityId": "paris",
+        "categoryId": "coffee_shops",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Caf%C3%A9%20de%20Paris%2C%20London%2C%20Paris",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Caf%C3%A9_de_Paris%2C_London",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Caf%C3%A9_de_Paris_-_London_-_08.JPG/960px-Caf%C3%A9_de_Paris_-_London_-_08.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Caf%C3%A9_de_Paris%2C_London"
+        }
+      },
+      {
+        "id": "paris-coffee_shops-5",
+        "name": "Agostina Segatori Sitting in the Café du Tambourin",
+        "cityId": "paris",
+        "categoryId": "coffee_shops",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Agostina%20Segatori%20Sitting%20in%20the%20Caf%C3%A9%20du%20Tambourin%2C%20Paris",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Agostina_Segatori_Sitting_in_the_Caf%C3%A9_du_Tambourin",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Vincent_van_Gogh_-_In_the_caf%C3%A9_-_Agostina_Segatori_in_Le_Tambourin_-_Google_Art_Project_2.jpg/960px-Vincent_van_Gogh_-_In_the_caf%C3%A9_-_Agostina_Segatori_in_Le_Tambourin_-_Google_Art_Project_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Agostina_Segatori_Sitting_in_the_Caf%C3%A9_du_Tambourin"
+        }
+      },
+      {
+        "id": "paris-coffee_shops-6",
+        "name": "Café de Paris sauce",
+        "cityId": "paris",
+        "categoryId": "coffee_shops",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Caf%C3%A9%20de%20Paris%20sauce%2C%20Paris",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Caf%C3%A9_de_Paris_sauce",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Entrec%C3%B4te.JPG/960px-Entrec%C3%B4te.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Caf%C3%A9_de_Paris_sauce"
+        }
+      },
+      {
+        "id": "paris-coffee_shops-7",
+        "name": "Maison Kitsuné",
+        "cityId": "paris",
+        "categoryId": "coffee_shops",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Maison%20Kitsun%C3%A9%2C%20Paris",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Maison_Kitsun%C3%A9",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Makati---San_Lorenzo---Ayala_Center---Greenbelt_2---Maison_Kitsun%C3%A9.jpg/960px-Makati---San_Lorenzo---Ayala_Center---Greenbelt_2---Maison_Kitsun%C3%A9.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Maison_Kitsun%C3%A9"
+        }
+      },
+      {
+        "id": "paris-coffee_shops-8",
+        "name": "Café-théâtre",
+        "cityId": "paris",
+        "categoryId": "coffee_shops",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Caf%C3%A9-th%C3%A9%C3%A2tre%2C%20Paris",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Caf%C3%A9-th%C3%A9%C3%A2tre",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Th%C3%A9%C3%A2tre_d%27Edgar.JPG/960px-Th%C3%A9%C3%A2tre_d%27Edgar.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Caf%C3%A9-th%C3%A9%C3%A2tre"
+        }
+      },
+      {
+        "id": "paris-coffee_shops-9",
+        "name": "Parisian café",
+        "cityId": "paris",
+        "categoryId": "coffee_shops",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Parisian%20caf%C3%A9%2C%20Paris",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Parisian_caf%C3%A9",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/Caf%C3%A9_de_la_Paix_Paris_France.JPG/960px-Caf%C3%A9_de_la_Paix_Paris_France.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Parisian_caf%C3%A9"
+        }
+      },
+      {
+        "id": "paris-coffee_shops-10",
+        "name": "Dancer in a Café",
+        "cityId": "paris",
+        "categoryId": "coffee_shops",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Dancer%20in%20a%20Caf%C3%A9%2C%20Paris",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Dancer_in_a_Caf%C3%A9",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/en/thumb/0/0a/Jean_Metzinger%2C_1912%2C_Danseuse_au_caf%C3%A9%2C_Dancer_in_a_caf%C3%A9%2C_oil_on_canvas%2C_146.1_x_114.3_cm%2C_Albright-Knox_Art_Gallery%2C_Buffalo%2C_New_York.jpg/960px-Jean_Metzinger%2C_1912%2C_Danseuse_au_caf%C3%A9%2C_Dancer_in_a_caf%C3%A9%2C_oil_on_canvas%2C_146.1_x_114.3_cm%2C_Albright-Knox_Art_Gallery%2C_Buffalo%2C_New_York.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Dancer_in_a_Caf%C3%A9"
+        }
+      },
+      {
+        "id": "paris-coffee_shops-11",
+        "name": "Adventureland Bazaar",
+        "cityId": "paris",
+        "categoryId": "coffee_shops",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Adventureland%20Bazaar%2C%20Paris",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Adventureland_Bazaar",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Land_Rover_-_Disneyland_Paris_2011.jpg/960px-Land_Rover_-_Disneyland_Paris_2011.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Adventureland_Bazaar"
+        }
+      },
+      {
+        "id": "paris-coffee_shops-12",
+        "name": "Café de Flore",
+        "cityId": "paris",
+        "categoryId": "coffee_shops",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Caf%C3%A9%20de%20Flore%2C%20Paris",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Caf%C3%A9_de_Flore",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Caf%C3%A9_de_Flore%2C_172_boulevard_Saint-Germain%2C_Paris_6e.jpg/960px-Caf%C3%A9_de_Flore%2C_172_boulevard_Saint-Germain%2C_Paris_6e.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Caf%C3%A9_de_Flore"
+        }
+      },
+      {
+        "id": "paris-coffee_shops-13",
+        "name": "Café philosophique",
+        "cityId": "paris",
+        "categoryId": "coffee_shops",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Caf%C3%A9%20philosophique%2C%20Paris",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Caf%C3%A9_philosophique",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/39/Marc_Sautet_at_Cafe_des_Phares_%28Paris_1994%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Caf%C3%A9_philosophique"
+        }
+      },
+      {
+        "id": "paris-coffee_shops-14",
+        "name": "Café Gerbeaud",
+        "cityId": "paris",
+        "categoryId": "coffee_shops",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Caf%C3%A9%20Gerbeaud%2C%20Paris",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Caf%C3%A9_Gerbeaud",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Cafe_Gerbeaud_01.JPG/960px-Cafe_Gerbeaud_01.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Caf%C3%A9_Gerbeaud"
+        }
+      },
+      {
+        "id": "paris-coffee_shops-15",
+        "name": "6th arrondissement of Paris",
+        "cityId": "paris",
+        "categoryId": "coffee_shops",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=6th%20arrondissement%20of%20Paris%2C%20Paris",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/6th_arrondissement_of_Paris",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Les_Deux_Magots%2C_Paris_25_May_2014.jpg/960px-Les_Deux_Magots%2C_Paris_25_May_2014.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/6th_arrondissement_of_Paris"
+        }
+      },
+      {
+        "id": "paris-coffee_shops-16",
+        "name": "Cafe Colette",
+        "cityId": "paris",
+        "categoryId": "coffee_shops",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Cafe%20Colette%2C%20Paris",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Cafe_Colette",
+        "photo": null
+      },
+      {
+        "id": "paris-coffee_shops-17",
+        "name": "Saint-Germain-des-Prés",
+        "cityId": "paris",
+        "categoryId": "coffee_shops",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Saint-Germain-des-Pr%C3%A9s%2C%20Paris",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Saint-Germain-des-Pr%C3%A9s",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Abbaye_de_Saint-Germain-des-Pr%C3%A9s_140131_1.jpg/960px-Abbaye_de_Saint-Germain-des-Pr%C3%A9s_140131_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Saint-Germain-des-Pr%C3%A9s"
+        }
+      },
+      {
+        "id": "paris-coffee_shops-18",
+        "name": "Portrait of Vincent van Gogh",
+        "cityId": "paris",
+        "categoryId": "coffee_shops",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Portrait%20of%20Vincent%20van%20Gogh%2C%20Paris",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Portrait_of_Vincent_van_Gogh_(1887)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/Toulouse-Lautrec_de_Henri_Vincent_van_Gogh_Sun.jpg/960px-Toulouse-Lautrec_de_Henri_Vincent_van_Gogh_Sun.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Portrait_of_Vincent_van_Gogh_(1887)"
+        }
+      }
+    ],
+    "bookshops": [
+      {
+        "id": "paris-bookshops-1",
+        "name": "Bookselling",
+        "cityId": "paris",
+        "categoryId": "bookshops",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Bookselling%2C%20Paris",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Bookselling",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/Libraria_Carturesti_Carusel_-_Interior_ziua.jpg/960px-Libraria_Carturesti_Carusel_-_Interior_ziua.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Bookselling"
+        }
+      },
+      {
+        "id": "paris-bookshops-2",
+        "name": "Sylvia Beach",
+        "cityId": "paris",
+        "categoryId": "bookshops",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Sylvia%20Beach%2C%20Paris",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Sylvia_Beach",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/91/Sylvia_Beach_at_Shakespeare_%26_Co_Paris_1920.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Sylvia_Beach"
+        }
+      },
+      {
+        "id": "paris-bookshops-3",
+        "name": "Brentano's",
+        "cityId": "paris",
+        "categoryId": "bookshops",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Brentano's%2C%20Paris",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Brentano's",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Brentano%27s_Booksellers_1916.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Brentano's"
+        }
+      },
+      {
+        "id": "paris-bookshops-4",
+        "name": "Censorship in the Ancien Régime",
+        "cityId": "paris",
+        "categoryId": "bookshops",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Censorship%20in%20the%20Ancien%20R%C3%A9gime%2C%20Paris",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Censorship_in_the_Ancien_R%C3%A9gime",
+        "photo": null
+      },
+      {
+        "id": "paris-bookshops-5",
+        "name": "Présence Africaine",
+        "cityId": "paris",
+        "categoryId": "bookshops",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Pr%C3%A9sence%20Africaine%2C%20Paris",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Pr%C3%A9sence_Africaine",
+        "photo": null
+      },
+      {
+        "id": "paris-bookshops-6",
+        "name": "George Whitman",
+        "cityId": "paris",
+        "categoryId": "bookshops",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=George%20Whitman%2C%20Paris",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/George_Whitman",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/George_Whitman_by_Olivier_Meyer.JPG/960px-George_Whitman_by_Olivier_Meyer.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/George_Whitman"
+        }
+      },
+      {
+        "id": "paris-bookshops-7",
+        "name": "Éditions Gründ",
+        "cityId": "paris",
+        "categoryId": "bookshops",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=%C3%89ditions%20Gr%C3%BCnd%2C%20Paris",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/%C3%89ditions_Gr%C3%BCnd",
+        "photo": null
+      },
+      {
+        "id": "paris-bookshops-8",
+        "name": "Sex shop",
+        "cityId": "paris",
+        "categoryId": "bookshops",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Sex%20shop%2C%20Paris",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Sex_shop",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Sex-shops-on-boulevard-de-clichi.jpg/960px-Sex-shops-on-boulevard-de-clichi.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Sex_shop"
+        }
+      },
+      {
+        "id": "paris-bookshops-9",
+        "name": "Independent bookstore",
+        "cityId": "paris",
+        "categoryId": "bookshops",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Independent%20bookstore%2C%20Paris",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Independent_bookstore",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Stoke_Newington_Bookshop%2C_London.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Independent_bookstore"
+        }
+      },
+      {
+        "id": "paris-bookshops-10",
+        "name": "Portrait of a Bookstore as an Old Man",
+        "cityId": "paris",
+        "categoryId": "bookshops",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Portrait%20of%20a%20Bookstore%20as%20an%20Old%20Man%2C%20Paris",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Portrait_of_a_Bookstore_as_an_Old_Man",
+        "photo": null
+      },
+      {
+        "id": "paris-bookshops-11",
+        "name": "Camas Bookstore and Infoshop",
+        "cityId": "paris",
+        "categoryId": "bookshops",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Camas%20Bookstore%20and%20Infoshop%2C%20Paris",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Camas_Bookstore_and_Infoshop",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/CamasInfoshop.jpg/960px-CamasInfoshop.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Camas_Bookstore_and_Infoshop"
+        }
+      },
+      {
+        "id": "paris-bookshops-12",
+        "name": "Octave Crémazie",
+        "cityId": "paris",
+        "categoryId": "bookshops",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Octave%20Cr%C3%A9mazie%2C%20Paris",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Octave_Cr%C3%A9mazie",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Joseph-Octave_Cr%C3%A9mazie%2C_po%C3%A8te_canadien_%28HS85-10-16598%29.jpg/960px-Joseph-Octave_Cr%C3%A9mazie%2C_po%C3%A8te_canadien_%28HS85-10-16598%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Octave_Cr%C3%A9mazie"
+        }
+      },
+      {
+        "id": "paris-bookshops-13",
+        "name": "Jean-Robert Argand",
+        "cityId": "paris",
+        "categoryId": "bookshops",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Jean-Robert%20Argand%2C%20Paris",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Jean-Robert_Argand",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Quantites_Imaginaires_Argand_1806.png/960px-Quantites_Imaginaires_Argand_1806.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Jean-Robert_Argand"
+        }
+      },
+      {
+        "id": "paris-bookshops-14",
+        "name": "Sylvia Whitman",
+        "cityId": "paris",
+        "categoryId": "bookshops",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Sylvia%20Whitman%2C%20Paris",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Sylvia_Whitman",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/Sylvia_Whitman_cropped.jpg/960px-Sylvia_Whitman_cropped.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Sylvia_Whitman"
+        }
+      },
+      {
+        "id": "paris-bookshops-15",
+        "name": "Harold Loeb",
+        "cityId": "paris",
+        "categoryId": "bookshops",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Harold%20Loeb%2C%20Paris",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Harold_Loeb",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/07/HemingwayLoeb.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Harold_Loeb"
+        }
+      },
+      {
+        "id": "paris-bookshops-16",
+        "name": "YMCA Press",
+        "cityId": "paris",
+        "categoryId": "bookshops",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=YMCA%20Press%2C%20Paris",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/YMCA_Press",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Russian_bookstore_Les_Editeurs_R%C3%A9unis_in_Paris%2C_headquarters_of_YMCA-Press_publishing_house.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/YMCA_Press"
+        }
+      },
+      {
+        "id": "paris-bookshops-17",
+        "name": "Éditions du Seuil",
+        "cityId": "paris",
+        "categoryId": "bookshops",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=%C3%89ditions%20du%20Seuil%2C%20Paris",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/%C3%89ditions_du_Seuil",
+        "photo": null
+      },
+      {
+        "id": "paris-bookshops-18",
+        "name": "Book Off",
+        "cityId": "paris",
+        "categoryId": "bookshops",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Book%20Off%2C%20Paris",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Book_Off",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Book_off.jpg/960px-Book_off.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Book_Off"
+        }
+      }
+    ],
+    "museums": [
+      {
+        "id": "paris-museums-1",
+        "name": "Louvre",
+        "cityId": "paris",
+        "categoryId": "museums",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Louvre%2C%20Paris",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Louvre",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/Louvre_Museum_Wikimedia_Commons.jpg/960px-Louvre_Museum_Wikimedia_Commons.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Louvre"
+        }
+      },
+      {
+        "id": "paris-museums-2",
+        "name": "Musée d'Orsay",
+        "cityId": "paris",
+        "categoryId": "museums",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Mus%C3%A9e%20d'Orsay%2C%20Paris",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Mus%C3%A9e_d'Orsay",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/Mus%C3%A9e_d%27Orsay%2C_North-West_view%2C_Paris_7e_140402.jpg/960px-Mus%C3%A9e_d%27Orsay%2C_North-West_view%2C_Paris_7e_140402.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Mus%C3%A9e_d'Orsay"
+        }
+      },
+      {
+        "id": "paris-museums-3",
+        "name": "Musée d'Art Moderne de Paris",
+        "cityId": "paris",
+        "categoryId": "museums",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Mus%C3%A9e%20d'Art%20Moderne%20de%20Paris%2C%20Paris",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Mus%C3%A9e_d'Art_Moderne_de_Paris",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/en/thumb/f/f0/Palais_de_Tokyo%2C_Mus%C3%A9e_d%27Art_Moderne_de_la_Ville_de_Paris.jpg/960px-Palais_de_Tokyo%2C_Mus%C3%A9e_d%27Art_Moderne_de_la_Ville_de_Paris.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Mus%C3%A9e_d'Art_Moderne_de_Paris"
+        }
+      },
+      {
+        "id": "paris-museums-4",
+        "name": "Centre Pompidou",
+        "cityId": "paris",
+        "categoryId": "museums",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Centre%20Pompidou%2C%20Paris",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Centre_Pompidou",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Le_logo_du_Centre_Pompidou_redessin%C3%A9_en_2019_%285_bandes%29.svg/960px-Le_logo_du_Centre_Pompidou_redessin%C3%A9_en_2019_%285_bandes%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Centre_Pompidou"
+        }
+      },
+      {
+        "id": "paris-museums-5",
+        "name": "Henri Matisse",
+        "cityId": "paris",
+        "categoryId": "museums",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Henri%20Matisse%2C%20Paris",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Henri_Matisse",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Henri_Matisse%2C_1913%2C_photograph_by_Alvin_Langdon_Coburn.jpg/960px-Henri_Matisse%2C_1913%2C_photograph_by_Alvin_Langdon_Coburn.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Henri_Matisse"
+        }
+      },
+      {
+        "id": "paris-museums-6",
+        "name": "Jardin des Plantes",
+        "cityId": "paris",
+        "categoryId": "museums",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Jardin%20des%20Plantes%2C%20Paris",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Jardin_des_Plantes",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Paris_75005_Grande_Galerie_de_l%27Evolution_20070804.jpg/960px-Paris_75005_Grande_Galerie_de_l%27Evolution_20070804.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Jardin_des_Plantes"
+        }
+      },
+      {
+        "id": "paris-museums-7",
+        "name": "Musée des Arts Décoratifs, Paris",
+        "cityId": "paris",
+        "categoryId": "museums",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Mus%C3%A9e%20des%20Arts%20D%C3%A9coratifs%2C%20Paris%2C%20Paris",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Mus%C3%A9e_des_Arts_D%C3%A9coratifs%2C_Paris",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Les_Arts_D%C3%A9coratifs_logo.svg/960px-Les_Arts_D%C3%A9coratifs_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Mus%C3%A9e_des_Arts_D%C3%A9coratifs%2C_Paris"
+        }
+      },
+      {
+        "id": "paris-museums-8",
+        "name": "Musée de l'Orangerie",
+        "cityId": "paris",
+        "categoryId": "museums",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Mus%C3%A9e%20de%20l'Orangerie%2C%20Paris",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Mus%C3%A9e_de_l'Orangerie",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Mus%C3%A9e_de_l%E2%80%99Orangerie_exterior.JPG/960px-Mus%C3%A9e_de_l%E2%80%99Orangerie_exterior.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Mus%C3%A9e_de_l'Orangerie"
+        }
+      },
+      {
+        "id": "paris-museums-9",
+        "name": "Guimet Museum",
+        "cityId": "paris",
+        "categoryId": "museums",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Guimet%20Museum%2C%20Paris",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Guimet_Museum",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/Musee_Guimet_en_2013_1.jpg/960px-Musee_Guimet_en_2013_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Guimet_Museum"
+        }
+      },
+      {
+        "id": "paris-museums-10",
+        "name": "Palace of Versailles",
+        "cityId": "paris",
+        "categoryId": "museums",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Palace%20of%20Versailles%2C%20Paris",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Palace_of_Versailles",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Versailles_Palace_%28FRA%29_%E2%80%93_Equestrian_Olympic_Venue.jpg/960px-Versailles_Palace_%28FRA%29_%E2%80%93_Equestrian_Olympic_Venue.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Palace_of_Versailles"
+        }
+      },
+      {
+        "id": "paris-museums-11",
+        "name": "Art Nouveau",
+        "cityId": "paris",
+        "categoryId": "museums",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Art%20Nouveau%2C%20Paris",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Art_Nouveau",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/Abbesses.JPG/960px-Abbesses.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Art_Nouveau"
+        }
+      },
+      {
+        "id": "paris-museums-12",
+        "name": "Army Museum",
+        "cityId": "paris",
+        "categoryId": "museums",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Army%20Museum%2C%20Paris",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Army_Museum_(Paris)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Mus%C3%A9e_de_l%27Arm%C3%A9e%2C_Paris_4_May_2019.jpg/960px-Mus%C3%A9e_de_l%27Arm%C3%A9e%2C_Paris_4_May_2019.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Army_Museum_(Paris)"
+        }
+      },
+      {
+        "id": "paris-museums-13",
+        "name": "Musée du Quai Branly – Jacques Chirac",
+        "cityId": "paris",
+        "categoryId": "museums",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Mus%C3%A9e%20du%20Quai%20Branly%20%E2%80%93%20Jacques%20Chirac%2C%20Paris",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Mus%C3%A9e_du_Quai_Branly_%E2%80%93_Jacques_Chirac",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/en/thumb/f/f2/Musee_du_quai_Branly_exterieur.jpg/960px-Musee_du_quai_Branly_exterieur.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Mus%C3%A9e_du_Quai_Branly_%E2%80%93_Jacques_Chirac"
+        }
+      },
+      {
+        "id": "paris-museums-14",
+        "name": "Robert Delaunay",
+        "cityId": "paris",
+        "categoryId": "museums",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Robert%20Delaunay%2C%20Paris",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Robert_Delaunay",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Robert_Delaunay_portrait_photograph.jpg/960px-Robert_Delaunay_portrait_photograph.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Robert_Delaunay"
+        }
+      },
+      {
+        "id": "paris-museums-15",
+        "name": "Musée de Cluny",
+        "cityId": "paris",
+        "categoryId": "museums",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Mus%C3%A9e%20de%20Cluny%2C%20Paris",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Mus%C3%A9e_de_Cluny",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Paris_2012-aout-0006-2-Hotel-de-Cluny.jpg/960px-Paris_2012-aout-0006-2-Hotel-de-Cluny.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Mus%C3%A9e_de_Cluny"
+        }
+      },
+      {
+        "id": "paris-museums-16",
+        "name": "Claude Monet",
+        "cityId": "paris",
+        "categoryId": "museums",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Claude%20Monet%2C%20Paris",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Claude_Monet",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Claude_Monet_1899_Nadar_crop.jpg/960px-Claude_Monet_1899_Nadar_crop.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Claude_Monet"
+        }
+      },
+      {
+        "id": "paris-museums-17",
+        "name": "Musée Marmottan Monet",
+        "cityId": "paris",
+        "categoryId": "museums",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Mus%C3%A9e%20Marmottan%20Monet%2C%20Paris",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Mus%C3%A9e_Marmottan_Monet",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/Mus%C3%A9e_Marmottan_Monet_logo.svg/960px-Mus%C3%A9e_Marmottan_Monet_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Mus%C3%A9e_Marmottan_Monet"
+        }
+      },
+      {
+        "id": "paris-museums-18",
+        "name": "Les Invalides",
+        "cityId": "paris",
+        "categoryId": "museums",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Les%20Invalides%2C%20Paris",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Les_Invalides",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/H%C3%B4tel_des_Invalides_from_the_Eiffel_Tower%2C_23_July_2009.jpg/960px-H%C3%B4tel_des_Invalides_from_the_Eiffel_Tower%2C_23_July_2009.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Les_Invalides"
+        }
+      }
+    ],
+    "concerts": [],
+    "fashion": [],
+    "shops": []
+  }
+}

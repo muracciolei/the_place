@@ -1,0 +1,2146 @@
+{
+  "cityId": "lisbon",
+  "generatedAt": "2026-11-27T08:50:45.599Z",
+  "source": "Wikipedia API + Maps URLs (sin scraping de Google)",
+  "incomplete": [
+    "fashion"
+  ],
+  "categories": {
+    "night_clubs": [
+      {
+        "id": "lisbon-night_clubs-1",
+        "name": "Storm Over Lisbon",
+        "cityId": "lisbon",
+        "categoryId": "night_clubs",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Storm%20Over%20Lisbon%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Storm_Over_Lisbon",
+        "photo": null
+      },
+      {
+        "id": "lisbon-night_clubs-2",
+        "name": "Succubus",
+        "cityId": "lisbon",
+        "categoryId": "night_clubs",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Succubus%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Succubus_(1968_film)",
+        "photo": null
+      },
+      {
+        "id": "lisbon-night_clubs-3",
+        "name": "Bristol Club",
+        "cityId": "lisbon",
+        "categoryId": "night_clubs",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Bristol%20Club%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Bristol_Club",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Bristol_Club%2C_Rua_Jardim_do_Regedor_%282020-11-12%29.png/960px-Bristol_Club%2C_Rua_Jardim_do_Regedor_%282020-11-12%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Bristol_Club"
+        }
+      },
+      {
+        "id": "lisbon-night_clubs-4",
+        "name": "Portuguese World Exhibition",
+        "cityId": "lisbon",
+        "categoryId": "night_clubs",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Portuguese%20World%20Exhibition%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Portuguese_World_Exhibition",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/Bandeira_exposi%C3%A7%C3%A3o_mundo_portugu%C3%AAs.svg/960px-Bandeira_exposi%C3%A7%C3%A3o_mundo_portugu%C3%AAs.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Portuguese_World_Exhibition"
+        }
+      },
+      {
+        "id": "lisbon-night_clubs-5",
+        "name": "Un flic",
+        "cityId": "lisbon",
+        "categoryId": "night_clubs",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Un%20flic%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Un_flic",
+        "photo": null
+      },
+      {
+        "id": "lisbon-night_clubs-6",
+        "name": "God Control",
+        "cityId": "lisbon",
+        "categoryId": "night_clubs",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=God%20Control%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/God_Control",
+        "photo": null
+      },
+      {
+        "id": "lisbon-night_clubs-7",
+        "name": "Francisco Adam",
+        "cityId": "lisbon",
+        "categoryId": "night_clubs",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Francisco%20Adam%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Francisco_Adam",
+        "photo": null
+      },
+      {
+        "id": "lisbon-night_clubs-8",
+        "name": "The Soft Skin",
+        "cityId": "lisbon",
+        "categoryId": "night_clubs",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Soft%20Skin%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/The_Soft_Skin",
+        "photo": null
+      },
+      {
+        "id": "lisbon-night_clubs-9",
+        "name": "Xutos & Pontapés",
+        "cityId": "lisbon",
+        "categoryId": "night_clubs",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Xutos%20%26%20Pontap%C3%A9s%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Xutos_%26_Pontap%C3%A9s",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Xutos_e_Pontap%C3%A9s.jpg/960px-Xutos_e_Pontap%C3%A9s.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Xutos_%26_Pontap%C3%A9s"
+        }
+      },
+      {
+        "id": "lisbon-night_clubs-10",
+        "name": "Parque Mayer, Lisbon",
+        "cityId": "lisbon",
+        "categoryId": "night_clubs",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Parque%20Mayer%2C%20Lisbon%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Parque_Mayer%2C_Lisbon",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/34/Parque_Mayer_Cristino_da_Silva_00072.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Parque_Mayer%2C_Lisbon"
+        }
+      },
+      {
+        "id": "lisbon-night_clubs-11",
+        "name": "Jack Livesey",
+        "cityId": "lisbon",
+        "categoryId": "night_clubs",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Jack%20Livesey%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Jack_Livesey",
+        "photo": null
+      },
+      {
+        "id": "lisbon-night_clubs-12",
+        "name": "2009",
+        "cityId": "lisbon",
+        "categoryId": "night_clubs",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=2009%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/2009",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/78/2009_Events_Collage_V2.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/2009"
+        }
+      },
+      {
+        "id": "lisbon-night_clubs-13",
+        "name": "2000 in Portugal",
+        "cityId": "lisbon",
+        "categoryId": "night_clubs",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=2000%20in%20Portugal%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/2000_in_Portugal",
+        "photo": null
+      },
+      {
+        "id": "lisbon-night_clubs-14",
+        "name": "Almada Negreiros",
+        "cityId": "lisbon",
+        "categoryId": "night_clubs",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Almada%20Negreiros%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Almada_Negreiros",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Almada_Negreiros_-_Vitoriano_Braga.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Almada_Negreiros"
+        }
+      },
+      {
+        "id": "lisbon-night_clubs-15",
+        "name": "Dani",
+        "cityId": "lisbon",
+        "categoryId": "night_clubs",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Dani%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Dani_(footballer%2C_born_1976)",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/19/Dani.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Dani_(footballer%2C_born_1976)"
+        }
+      },
+      {
+        "id": "lisbon-night_clubs-16",
+        "name": "ChillOut Festival",
+        "cityId": "lisbon",
+        "categoryId": "night_clubs",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=ChillOut%20Festival%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/ChillOut_Festival",
+        "photo": null
+      },
+      {
+        "id": "lisbon-night_clubs-17",
+        "name": "Live Trax",
+        "cityId": "lisbon",
+        "categoryId": "night_clubs",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Live%20Trax%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Live_Trax_(series)",
+        "photo": null
+      },
+      {
+        "id": "lisbon-night_clubs-18",
+        "name": "Helsinki Pride",
+        "cityId": "lisbon",
+        "categoryId": "night_clubs",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Helsinki%20Pride%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Helsinki_Pride",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/Helsinki_Pride_2007.jpg/960px-Helsinki_Pride_2007.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Helsinki_Pride"
+        }
+      }
+    ],
+    "restaurants": [
+      {
+        "id": "lisbon-restaurants-1",
+        "name": "Cinemateca Portuguesa",
+        "cityId": "lisbon",
+        "categoryId": "restaurants",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Cinemateca%20Portuguesa%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Cinemateca_Portuguesa",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/CinematecaPortuguesa_03.JPG/960px-CinematecaPortuguesa_03.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Cinemateca_Portuguesa"
+        }
+      },
+      {
+        "id": "lisbon-restaurants-2",
+        "name": "Tavares",
+        "cityId": "lisbon",
+        "categoryId": "restaurants",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Tavares%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Tavares_(restaurant)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Restaurant_Tavares_Lisbonne_2.jpg/960px-Restaurant_Tavares_Lisbonne_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Tavares_(restaurant)"
+        }
+      },
+      {
+        "id": "lisbon-restaurants-3",
+        "name": "Vasco da Gama Tower",
+        "cityId": "lisbon",
+        "categoryId": "restaurants",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Vasco%20da%20Gama%20Tower%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Vasco_da_Gama_Tower",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Myriad_Hotel%2C_Torre_Vasco_da_Gama%2C_Passeio_do_Tejo%2C_Lisbon%2C_Portugal_julesvernex2.jpg/960px-Myriad_Hotel%2C_Torre_Vasco_da_Gama%2C_Passeio_do_Tejo%2C_Lisbon%2C_Portugal_julesvernex2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Vasco_da_Gama_Tower"
+        }
+      },
+      {
+        "id": "lisbon-restaurants-4",
+        "name": "Fort of Cresmina",
+        "cityId": "lisbon",
+        "categoryId": "restaurants",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Fort%20of%20Cresmina%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Fort_of_Cresmina",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/CrisminaFort1.jpg/960px-CrisminaFort1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Fort_of_Cresmina"
+        }
+      },
+      {
+        "id": "lisbon-restaurants-5",
+        "name": "Praia da Adraga",
+        "cityId": "lisbon",
+        "categoryId": "restaurants",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Praia%20da%20Adraga%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Praia_da_Adraga",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/38/Praia_da_adraga_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Praia_da_Adraga"
+        }
+      },
+      {
+        "id": "lisbon-restaurants-6",
+        "name": "Pingo Doce",
+        "cityId": "lisbon",
+        "categoryId": "restaurants",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Pingo%20Doce%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Pingo_Doce",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/Pingo_Doce_Rua_Alves_Redol_Albufeira_9_September_2015_%281%29.JPG/960px-Pingo_Doce_Rua_Alves_Redol_Albufeira_9_September_2015_%281%29.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Pingo_Doce"
+        }
+      },
+      {
+        "id": "lisbon-restaurants-7",
+        "name": "Lisbon",
+        "cityId": "lisbon",
+        "categoryId": "restaurants",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Lisbon%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Lisbon",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Lisbon_%2836831596786%29_%28cropped%29.jpg/960px-Lisbon_%2836831596786%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Lisbon"
+        }
+      },
+      {
+        "id": "lisbon-restaurants-8",
+        "name": "José Avillez",
+        "cityId": "lisbon",
+        "categoryId": "restaurants",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Jos%C3%A9%20Avillez%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Jos%C3%A9_Avillez",
+        "photo": null
+      },
+      {
+        "id": "lisbon-restaurants-9",
+        "name": "Lisbon, Maine",
+        "cityId": "lisbon",
+        "categoryId": "restaurants",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Lisbon%2C%20Maine%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Lisbon%2C_Maine",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/93/Main_Street%2C_Lisbon%2C_ME.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Lisbon%2C_Maine"
+        }
+      },
+      {
+        "id": "lisbon-restaurants-10",
+        "name": "Lisbon Falls, Maine",
+        "cityId": "lisbon",
+        "categoryId": "restaurants",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Lisbon%20Falls%2C%20Maine%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Lisbon_Falls%2C_Maine",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/2d/View_of_Main_Street%2C_Lisbon_Falls%2C_ME.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Lisbon_Falls%2C_Maine"
+        }
+      },
+      {
+        "id": "lisbon-restaurants-11",
+        "name": "Coliseu dos Recreios",
+        "cityId": "lisbon",
+        "categoryId": "restaurants",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Coliseu%20dos%20Recreios%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Coliseu_dos_Recreios",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Lisboa_-_Panorama_-_06_-_Vista_desde_el_Jard%C3%ADn_de_San_Pedro_de_Alc%C3%A1ntara_%28cropped%29_Coliseu.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Coliseu_dos_Recreios"
+        }
+      },
+      {
+        "id": "lisbon-restaurants-12",
+        "name": "Mercantile Bank",
+        "cityId": "lisbon",
+        "categoryId": "restaurants",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Mercantile%20Bank%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Mercantile_Bank_(South_Africa)",
+        "photo": null
+      },
+      {
+        "id": "lisbon-restaurants-13",
+        "name": "Eurobest European Advertising Festival",
+        "cityId": "lisbon",
+        "categoryId": "restaurants",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Eurobest%20European%20Advertising%20Festival%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Eurobest_European_Advertising_Festival",
+        "photo": null
+      },
+      {
+        "id": "lisbon-restaurants-14",
+        "name": "Nuno Mendes",
+        "cityId": "lisbon",
+        "categoryId": "restaurants",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Nuno%20Mendes%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Nuno_Mendes_(chef)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/Nuno_Mendes_%28chef%29.jpg/960px-Nuno_Mendes_%28chef%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Nuno_Mendes_(chef)"
+        }
+      },
+      {
+        "id": "lisbon-restaurants-15",
+        "name": "Verride Palace",
+        "cityId": "lisbon",
+        "categoryId": "restaurants",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Verride%20Palace%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Verride_Palace",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Lisbon_%2848080376582%29.jpg/960px-Lisbon_%2848080376582%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Verride_Palace"
+        }
+      },
+      {
+        "id": "lisbon-restaurants-16",
+        "name": "Belém Cultural Center",
+        "cityId": "lisbon",
+        "categoryId": "restaurants",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Bel%C3%A9m%20Cultural%20Center%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Bel%C3%A9m_Cultural_Center",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/View_from_Padr%C3%A3o_dos_Descobrimentos_-_Centro_Cultural_de_Bel%C3%A9m_%282%29_-_Jul_2008.jpg/960px-View_from_Padr%C3%A3o_dos_Descobrimentos_-_Centro_Cultural_de_Bel%C3%A9m_%282%29_-_Jul_2008.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Bel%C3%A9m_Cultural_Center"
+        }
+      },
+      {
+        "id": "lisbon-restaurants-17",
+        "name": "Nepalis in Portugal",
+        "cityId": "lisbon",
+        "categoryId": "restaurants",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Nepalis%20in%20Portugal%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Nepalis_in_Portugal",
+        "photo": null
+      },
+      {
+        "id": "lisbon-restaurants-18",
+        "name": "One Night in Lisbon",
+        "cityId": "lisbon",
+        "categoryId": "restaurants",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=One%20Night%20in%20Lisbon%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/One_Night_in_Lisbon",
+        "photo": null
+      }
+    ],
+    "bars": [
+      {
+        "id": "lisbon-bars-1",
+        "name": "José de Sousa",
+        "cityId": "lisbon",
+        "categoryId": "bars",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Jos%C3%A9%20de%20Sousa%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Jos%C3%A9_de_Sousa",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Jos%C3%A9_de_Sousa_in_2021.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Jos%C3%A9_de_Sousa"
+        }
+      },
+      {
+        "id": "lisbon-bars-2",
+        "name": "Praia do Guincho",
+        "cityId": "lisbon",
+        "categoryId": "bars",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Praia%20do%20Guincho%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Praia_do_Guincho",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Guincho_May_2012-2.jpg/960px-Guincho_May_2012-2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Praia_do_Guincho"
+        }
+      },
+      {
+        "id": "lisbon-bars-3",
+        "name": "Adelino da Palma Carlos",
+        "cityId": "lisbon",
+        "categoryId": "bars",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Adelino%20da%20Palma%20Carlos%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Adelino_da_Palma_Carlos",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Adelino_da_Palma_Carlos_-_Ilustra%C3%A7%C3%A3o_Portugueza_%2809Fev1924%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Adelino_da_Palma_Carlos"
+        }
+      },
+      {
+        "id": "lisbon-bars-4",
+        "name": "Applegate, California",
+        "cityId": "lisbon",
+        "categoryId": "bars",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Applegate%2C%20California%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Applegate%2C_California",
+        "photo": null
+      },
+      {
+        "id": "lisbon-bars-5",
+        "name": "2015 Portuguese legislative election",
+        "cityId": "lisbon",
+        "categoryId": "bars",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=2015%20Portuguese%20legislative%20election%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/2015_Portuguese_legislative_election",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/28/Pedro_Passos_Coelho_%289298463251%29cropped.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/2015_Portuguese_legislative_election"
+        }
+      },
+      {
+        "id": "lisbon-bars-6",
+        "name": "2019 Portuguese legislative election",
+        "cityId": "lisbon",
+        "categoryId": "bars",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=2019%20Portuguese%20legislative%20election%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/2019_Portuguese_legislative_election",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/2022_-_On_the_floor_SZ9_5864_%2852472414338%29_%28cropped%29.jpg/960px-2022_-_On_the_floor_SZ9_5864_%2852472414338%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/2019_Portuguese_legislative_election"
+        }
+      },
+      {
+        "id": "lisbon-bars-7",
+        "name": "Montenegrin handball clubs in European competitions",
+        "cityId": "lisbon",
+        "categoryId": "bars",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Montenegrin%20handball%20clubs%20in%20European%20competitions%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Montenegrin_handball_clubs_in_European_competitions",
+        "photo": null
+      },
+      {
+        "id": "lisbon-bars-8",
+        "name": "Marco Fortes",
+        "cityId": "lisbon",
+        "categoryId": "bars",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Marco%20Fortes%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Marco_Fortes",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Marco_Fortes_Daegu_2011.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Marco_Fortes"
+        }
+      },
+      {
+        "id": "lisbon-bars-9",
+        "name": "2009 European Parliament election in Sweden",
+        "cityId": "lisbon",
+        "categoryId": "bars",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=2009%20European%20Parliament%20election%20in%20Sweden%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/2009_European_Parliament_election_in_Sweden",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Marita_Ulvskog_2009.jpg/960px-Marita_Ulvskog_2009.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/2009_European_Parliament_election_in_Sweden"
+        }
+      },
+      {
+        "id": "lisbon-bars-10",
+        "name": "Manuel Lima",
+        "cityId": "lisbon",
+        "categoryId": "bars",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Manuel%20Lima%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Manuel_Lima",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/Manuel_Lima.jpg/960px-Manuel_Lima.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Manuel_Lima"
+        }
+      },
+      {
+        "id": "lisbon-bars-11",
+        "name": "1975 Portuguese Constituent Assembly election",
+        "cityId": "lisbon",
+        "categoryId": "bars",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=1975%20Portuguese%20Constituent%20Assembly%20election%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/1975_Portuguese_Constituent_Assembly_election",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Francisco_S%C3%A1_Carneiro.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/1975_Portuguese_Constituent_Assembly_election"
+        }
+      },
+      {
+        "id": "lisbon-bars-12",
+        "name": "Coliseu dos Recreios",
+        "cityId": "lisbon",
+        "categoryId": "bars",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Coliseu%20dos%20Recreios%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Coliseu_dos_Recreios",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Lisboa_-_Panorama_-_06_-_Vista_desde_el_Jard%C3%ADn_de_San_Pedro_de_Alc%C3%A1ntara_%28cropped%29_Coliseu.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Coliseu_dos_Recreios"
+        }
+      },
+      {
+        "id": "lisbon-bars-13",
+        "name": "Vinicius Cantuária",
+        "cityId": "lisbon",
+        "categoryId": "bars",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Vinicius%20Cantu%C3%A1ria%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Vinicius_Cantu%C3%A1ria",
+        "photo": null
+      },
+      {
+        "id": "lisbon-bars-14",
+        "name": "Lines of Torres Vedras",
+        "cityId": "lisbon",
+        "categoryId": "bars",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Lines%20of%20Torres%20Vedras%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Lines_of_Torres_Vedras",
+        "photo": null
+      },
+      {
+        "id": "lisbon-bars-15",
+        "name": "2009 Portuguese legislative election",
+        "cityId": "lisbon",
+        "categoryId": "bars",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=2009%20Portuguese%20legislative%20election%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/2009_Portuguese_legislative_election",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Jos%C3%A9_Socrates_cropped_from_Dmitry_Medvedev_in_Portugal_20_November_2010-2_%28cropped%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/2009_Portuguese_legislative_election"
+        }
+      },
+      {
+        "id": "lisbon-bars-16",
+        "name": "Cresmina Dune",
+        "cityId": "lisbon",
+        "categoryId": "bars",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Cresmina%20Dune%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Cresmina_Dune",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/CresminaDunes1.jpg/960px-CresminaDunes1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Cresmina_Dune"
+        }
+      },
+      {
+        "id": "lisbon-bars-17",
+        "name": "Verride Palace",
+        "cityId": "lisbon",
+        "categoryId": "bars",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Verride%20Palace%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Verride_Palace",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Lisbon_%2848080376582%29.jpg/960px-Lisbon_%2848080376582%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Verride_Palace"
+        }
+      },
+      {
+        "id": "lisbon-bars-18",
+        "name": "1911 Portuguese National Constituent Assembly election",
+        "cityId": "lisbon",
+        "categoryId": "bars",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=1911%20Portuguese%20National%20Constituent%20Assembly%20election%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/1911_Portuguese_National_Constituent_Assembly_election",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/87/Te%C3%B3filo_Braga%2C_1915_-_Ant%C3%B3nio_Novais_%28cropped%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/1911_Portuguese_National_Constituent_Assembly_election"
+        }
+      }
+    ],
+    "coffee_shops": [
+      {
+        "id": "lisbon-coffee_shops-1",
+        "name": "Café A Brasileira",
+        "cityId": "lisbon",
+        "categoryId": "coffee_shops",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Caf%C3%A9%20A%20Brasileira%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Caf%C3%A9_A_Brasileira",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Cafe_Brasileira_in_Lisbon.jpg/960px-Cafe_Brasileira_in_Lisbon.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Caf%C3%A9_A_Brasileira"
+        }
+      },
+      {
+        "id": "lisbon-coffee_shops-2",
+        "name": "Miss República Portuguesa",
+        "cityId": "lisbon",
+        "categoryId": "coffee_shops",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Miss%20Rep%C3%BAblica%20Portuguesa%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Miss_Rep%C3%BAblica_Portuguesa",
+        "photo": null
+      },
+      {
+        "id": "lisbon-coffee_shops-3",
+        "name": "Bica",
+        "cityId": "lisbon",
+        "categoryId": "coffee_shops",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Bica%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Bica_(coffee)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Caf%C3%A9_Delta.jpg/960px-Caf%C3%A9_Delta.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Bica_(coffee)"
+        }
+      },
+      {
+        "id": "lisbon-coffee_shops-4",
+        "name": "Restauradores Square",
+        "cityId": "lisbon",
+        "categoryId": "coffee_shops",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Restauradores%20Square%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Restauradores_Square",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Lisboa_-_Pra%C3%A7a_dos_Restauradores_%2853868860069%29.jpg/960px-Lisboa_-_Pra%C3%A7a_dos_Restauradores_%2853868860069%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Restauradores_Square"
+        }
+      },
+      {
+        "id": "lisbon-coffee_shops-5",
+        "name": "Museum of Art, Architecture and Technology",
+        "cityId": "lisbon",
+        "categoryId": "coffee_shops",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Museum%20of%20Art%2C%20Architecture%20and%20Technology%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Museum_of_Art%2C_Architecture_and_Technology",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Exterior_of_Museu_de_Arte%2C_Arquitetura_e_Tecnologia_67.jpg/960px-Exterior_of_Museu_de_Arte%2C_Arquitetura_e_Tecnologia_67.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Museum_of_Art%2C_Architecture_and_Technology"
+        }
+      },
+      {
+        "id": "lisbon-coffee_shops-6",
+        "name": "Lisbon",
+        "cityId": "lisbon",
+        "categoryId": "coffee_shops",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Lisbon%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Lisbon",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Lisbon_%2836831596786%29_%28cropped%29.jpg/960px-Lisbon_%2836831596786%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Lisbon"
+        }
+      },
+      {
+        "id": "lisbon-coffee_shops-7",
+        "name": "Berardo Collection Museum",
+        "cityId": "lisbon",
+        "categoryId": "coffee_shops",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Berardo%20Collection%20Museum%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Berardo_Collection_Museum",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/Berardo_Collection_Museum.png/960px-Berardo_Collection_Museum.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Berardo_Collection_Museum"
+        }
+      },
+      {
+        "id": "lisbon-coffee_shops-8",
+        "name": "Braga",
+        "cityId": "lisbon",
+        "categoryId": "coffee_shops",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Braga%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Braga_(S%C3%A3o_Jos%C3%A9_de_S%C3%A3o_L%C3%A1zaro_e_S%C3%A3o_Jo%C3%A3o_do_Souto)",
+        "photo": null
+      },
+      {
+        "id": "lisbon-coffee_shops-9",
+        "name": "Avenida da Liberdade",
+        "cityId": "lisbon",
+        "categoryId": "coffee_shops",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Avenida%20da%20Liberdade%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Avenida_da_Liberdade",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Avenida_da_Liberdade_%2822344060581%29_%28cropped%29.jpg/960px-Avenida_da_Liberdade_%2822344060581%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Avenida_da_Liberdade"
+        }
+      },
+      {
+        "id": "lisbon-coffee_shops-10",
+        "name": "Teatro da Rua dos Condes",
+        "cityId": "lisbon",
+        "categoryId": "coffee_shops",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Teatro%20da%20Rua%20dos%20Condes%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Teatro_da_Rua_dos_Condes",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Teatro_da_Rua_dos_Condes_ap%C3%B3s_a_reconstru%C3%A7%C3%A3o_de_1888.png/960px-Teatro_da_Rua_dos_Condes_ap%C3%B3s_a_reconstru%C3%A7%C3%A3o_de_1888.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Teatro_da_Rua_dos_Condes"
+        }
+      },
+      {
+        "id": "lisbon-coffee_shops-11",
+        "name": "Casa das Histórias Paula Rego",
+        "cityId": "lisbon",
+        "categoryId": "coffee_shops",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Casa%20das%20Hist%C3%B3rias%20Paula%20Rego%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Casa_das_Hist%C3%B3rias_Paula_Rego",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Exterior_of_Casa_das_Hist%C3%B3rias_Paula_Rego_38.jpg/960px-Exterior_of_Casa_das_Hist%C3%B3rias_Paula_Rego_38.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Casa_das_Hist%C3%B3rias_Paula_Rego"
+        }
+      },
+      {
+        "id": "lisbon-coffee_shops-12",
+        "name": "Praça do Comércio",
+        "cityId": "lisbon",
+        "categoryId": "coffee_shops",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Pra%C3%A7a%20do%20Com%C3%A9rcio%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Pra%C3%A7a_do_Com%C3%A9rcio",
+        "photo": null
+      },
+      {
+        "id": "lisbon-coffee_shops-13",
+        "name": "Benfica, Lisbon",
+        "cityId": "lisbon",
+        "categoryId": "coffee_shops",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Benfica%2C%20Lisbon%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Benfica%2C_Lisbon",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/Igreja_Paroquial_de_Benfica.jpg/960px-Igreja_Paroquial_de_Benfica.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Benfica%2C_Lisbon"
+        }
+      },
+      {
+        "id": "lisbon-coffee_shops-14",
+        "name": "Estrela, Lisbon",
+        "cityId": "lisbon",
+        "categoryId": "coffee_shops",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Estrela%2C%20Lisbon%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Estrela%2C_Lisbon",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/Pal%C3%A1cio_de_S%C3%A3o_Bento_%28Assembl%C3%A9e_nationale%29_%289307363528%29_%28cropped%29.jpg/960px-Pal%C3%A1cio_de_S%C3%A3o_Bento_%28Assembl%C3%A9e_nationale%29_%289307363528%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Estrela%2C_Lisbon"
+        }
+      },
+      {
+        "id": "lisbon-coffee_shops-15",
+        "name": "Rossio",
+        "cityId": "lisbon",
+        "categoryId": "coffee_shops",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Rossio%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Rossio",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/52/Pra%C3%A7a_de_D._Pedro_IV.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Rossio"
+        }
+      },
+      {
+        "id": "lisbon-coffee_shops-16",
+        "name": "Chiado",
+        "cityId": "lisbon",
+        "categoryId": "coffee_shops",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Chiado%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Chiado",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Lisbon_10064_Lisboa_Pra%C3%A7a_Lu%C3%ADs_de_Cam%C3%B5es_2006_Luca_Galuzzi_%28cropped%29.jpg/960px-Lisbon_10064_Lisboa_Pra%C3%A7a_Lu%C3%ADs_de_Cam%C3%B5es_2006_Luca_Galuzzi_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Chiado"
+        }
+      },
+      {
+        "id": "lisbon-coffee_shops-17",
+        "name": "Misericórdia",
+        "cityId": "lisbon",
+        "categoryId": "coffee_shops",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Miseric%C3%B3rdia%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Miseric%C3%B3rdia",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Miradouro_de_S%C3%A3o_Pedro_de_Alc%C3%A2ntara_-_Lisboa_-_Portugal_%2826851722910%29_%28cropped%29.jpg/960px-Miradouro_de_S%C3%A3o_Pedro_de_Alc%C3%A2ntara_-_Lisboa_-_Portugal_%2826851722910%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Miseric%C3%B3rdia"
+        }
+      },
+      {
+        "id": "lisbon-coffee_shops-18",
+        "name": "Pestana Palace",
+        "cityId": "lisbon",
+        "categoryId": "coffee_shops",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Pestana%20Palace%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Pestana_Palace",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Pestana_Palace_Hotel_IMG_2004_%28cropped%29.jpg/960px-Pestana_Palace_Hotel_IMG_2004_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Pestana_Palace"
+        }
+      }
+    ],
+    "bookshops": [
+      {
+        "id": "lisbon-bookshops-1",
+        "name": "Livraria Bertrand",
+        "cityId": "lisbon",
+        "categoryId": "bookshops",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Livraria%20Bertrand%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Livraria_Bertrand",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/LivrariaBertrand2.JPG/960px-LivrariaBertrand2.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Livraria_Bertrand"
+        }
+      },
+      {
+        "id": "lisbon-bookshops-2",
+        "name": "Livraria Lello",
+        "cityId": "lisbon",
+        "categoryId": "bookshops",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Livraria%20Lello%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Livraria_Lello",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Livraria_Lello%2C_Porto.jpg/960px-Livraria_Lello%2C_Porto.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Livraria_Lello"
+        }
+      },
+      {
+        "id": "lisbon-bookshops-3",
+        "name": "Moravian Book Shop",
+        "cityId": "lisbon",
+        "categoryId": "bookshops",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Moravian%20Book%20Shop%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Moravian_Book_Shop",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/Moravian_Book_Shop.jpg/960px-Moravian_Book_Shop.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Moravian_Book_Shop"
+        }
+      },
+      {
+        "id": "lisbon-bookshops-4",
+        "name": "Night Train to Lisbon",
+        "cityId": "lisbon",
+        "categoryId": "bookshops",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Night%20Train%20to%20Lisbon%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Night_Train_to_Lisbon_(film)",
+        "photo": null
+      },
+      {
+        "id": "lisbon-bookshops-5",
+        "name": "Portuguese architecture",
+        "cityId": "lisbon",
+        "categoryId": "bookshops",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Portuguese%20architecture%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Portuguese_architecture",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Sintra_-_Palacio_da_Pena_%2820332995770%29_%28cropped%29_%28cropped%29.jpg/960px-Sintra_-_Palacio_da_Pena_%2820332995770%29_%28cropped%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Portuguese_architecture"
+        }
+      },
+      {
+        "id": "lisbon-bookshops-6",
+        "name": "Independentes",
+        "cityId": "lisbon",
+        "categoryId": "bookshops",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Independentes%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Independentes",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/1944_Os_Independentes.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Independentes"
+        }
+      },
+      {
+        "id": "lisbon-bookshops-7",
+        "name": "Maria Adelaide Aboim Inglez",
+        "cityId": "lisbon",
+        "categoryId": "bookshops",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Maria%20Adelaide%20Aboim%20Inglez%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Maria_Adelaide_Aboim_Inglez",
+        "photo": null
+      },
+      {
+        "id": "lisbon-bookshops-8",
+        "name": "Teófilo Braga",
+        "cityId": "lisbon",
+        "categoryId": "bookshops",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Te%C3%B3filo%20Braga%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Te%C3%B3filo_Braga",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Te%C3%B3filo_Braga_%281915%29_-_Fotografia_Vasques%2C_Lisboa_%28Museu_da_Presid%C3%AAncia_da_Rep%C3%BAblica%29.png/960px-Te%C3%B3filo_Braga_%281915%29_-_Fotografia_Vasques%2C_Lisboa_%28Museu_da_Presid%C3%AAncia_da_Rep%C3%BAblica%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Te%C3%B3filo_Braga"
+        }
+      },
+      {
+        "id": "lisbon-bookshops-9",
+        "name": "Karl Buchholz",
+        "cityId": "lisbon",
+        "categoryId": "bookshops",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Karl%20Buchholz%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Karl_Buchholz_(art_dealer)",
+        "photo": null
+      },
+      {
+        "id": "lisbon-bookshops-10",
+        "name": "Alfredo Luís da Costa",
+        "cityId": "lisbon",
+        "categoryId": "bookshops",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Alfredo%20Lu%C3%ADs%20da%20Costa%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Alfredo_Lu%C3%ADs_da_Costa",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Alfredo-luiz-costa-vivo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Alfredo_Lu%C3%ADs_da_Costa"
+        }
+      },
+      {
+        "id": "lisbon-bookshops-11",
+        "name": "Juan Pujol García",
+        "cityId": "lisbon",
+        "categoryId": "bookshops",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Juan%20Pujol%20Garc%C3%ADa%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Juan_Pujol_Garc%C3%ADa",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/57/Joan_pujol_garcia.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Juan_Pujol_Garc%C3%ADa"
+        }
+      },
+      {
+        "id": "lisbon-bookshops-12",
+        "name": "Francisco Seixas da Costa",
+        "cityId": "lisbon",
+        "categoryId": "bookshops",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Francisco%20Seixas%20da%20Costa%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Francisco_Seixas_da_Costa",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/Francisco_Seixas_da_Costa_2026.jpg/960px-Francisco_Seixas_da_Costa_2026.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Francisco_Seixas_da_Costa"
+        }
+      },
+      {
+        "id": "lisbon-bookshops-13",
+        "name": "Mika Kaurismäki",
+        "cityId": "lisbon",
+        "categoryId": "bookshops",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Mika%20Kaurism%C3%A4ki%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Mika_Kaurism%C3%A4ki",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Mika_Kaurism%C3%A4ki.jpg/960px-Mika_Kaurism%C3%A4ki.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Mika_Kaurism%C3%A4ki"
+        }
+      },
+      {
+        "id": "lisbon-bookshops-14",
+        "name": "Maria Leal da Costa",
+        "cityId": "lisbon",
+        "categoryId": "bookshops",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Maria%20Leal%20da%20Costa%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Maria_Leal_da_Costa",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/Maria_Leal_da_Costa.jpg/960px-Maria_Leal_da_Costa.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Maria_Leal_da_Costa"
+        }
+      },
+      {
+        "id": "lisbon-bookshops-15",
+        "name": "Ramiro",
+        "cityId": "lisbon",
+        "categoryId": "bookshops",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Ramiro%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Ramiro_(film)",
+        "photo": null
+      },
+      {
+        "id": "lisbon-bookshops-16",
+        "name": "CambridgeSeven",
+        "cityId": "lisbon",
+        "categoryId": "bookshops",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=CambridgeSeven%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/CambridgeSeven",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Boston_Childrens_Museum.jpg/960px-Boston_Childrens_Museum.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/CambridgeSeven"
+        }
+      },
+      {
+        "id": "lisbon-bookshops-17",
+        "name": "The Amazing Race Australia 3",
+        "cityId": "lisbon",
+        "categoryId": "bookshops",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Amazing%20Race%20Australia%203%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/The_Amazing_Race_Australia_3",
+        "photo": null
+      },
+      {
+        "id": "lisbon-bookshops-18",
+        "name": "Alice Moderno",
+        "cityId": "lisbon",
+        "categoryId": "bookshops",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Alice%20Moderno%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Alice_Moderno",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Alice_Moderno.jpg/960px-Alice_Moderno.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Alice_Moderno"
+        }
+      }
+    ],
+    "museums": [
+      {
+        "id": "lisbon-museums-1",
+        "name": "Lisbon",
+        "cityId": "lisbon",
+        "categoryId": "museums",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Lisbon%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Lisbon",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Lisbon_%2836831596786%29_%28cropped%29.jpg/960px-Lisbon_%2836831596786%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Lisbon"
+        }
+      },
+      {
+        "id": "lisbon-museums-2",
+        "name": "Vasco da Gama Bridge",
+        "cityId": "lisbon",
+        "categoryId": "museums",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Vasco%20da%20Gama%20Bridge%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Vasco_da_Gama_Bridge",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Vasco_da_Gama_Bridge_aerial_view.jpg/960px-Vasco_da_Gama_Bridge_aerial_view.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Vasco_da_Gama_Bridge"
+        }
+      },
+      {
+        "id": "lisbon-museums-3",
+        "name": "São Jorge Castle",
+        "cityId": "lisbon",
+        "categoryId": "museums",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=S%C3%A3o%20Jorge%20Castle%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/S%C3%A3o_Jorge_Castle",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/37/Castelo_Sao_Jorge_Lisboa_1.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/S%C3%A3o_Jorge_Castle"
+        }
+      },
+      {
+        "id": "lisbon-museums-4",
+        "name": "Calouste Gulbenkian Museum",
+        "cityId": "lisbon",
+        "categoryId": "museums",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Calouste%20Gulbenkian%20Museum%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Calouste_Gulbenkian_Museum",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f1/FCG_Calouste_Gulbenkian_Logo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Calouste_Gulbenkian_Museum"
+        }
+      },
+      {
+        "id": "lisbon-museums-5",
+        "name": "Carmo Convent",
+        "cityId": "lisbon",
+        "categoryId": "museums",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Carmo%20Convent%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Carmo_Convent",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/Nave_of_Igreja_do_Convento_do_Carmo_%28Lisbon%29_81.jpg/960px-Nave_of_Igreja_do_Convento_do_Carmo_%28Lisbon%29_81.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Carmo_Convent"
+        }
+      },
+      {
+        "id": "lisbon-museums-6",
+        "name": "Belém, Lisbon",
+        "cityId": "lisbon",
+        "categoryId": "museums",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Bel%C3%A9m%2C%20Lisbon%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Bel%C3%A9m%2C_Lisbon",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Santa_Maria_de_Bel%C3%A9m_sul_Tago_-_panoramio_%28cropped%29.jpg/960px-Santa_Maria_de_Bel%C3%A9m_sul_Tago_-_panoramio_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Bel%C3%A9m%2C_Lisbon"
+        }
+      },
+      {
+        "id": "lisbon-museums-7",
+        "name": "Lisbon Baixa",
+        "cityId": "lisbon",
+        "categoryId": "museums",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Lisbon%20Baixa%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Lisbon_Baixa",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/Equestrian_statue_of_King_Jos%C3%A9_I_with_Arco_Triunfal_da_Rua_Augusta_45.jpg/960px-Equestrian_statue_of_King_Jos%C3%A9_I_with_Arco_Triunfal_da_Rua_Augusta_45.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Lisbon_Baixa"
+        }
+      },
+      {
+        "id": "lisbon-museums-8",
+        "name": "Pena Palace",
+        "cityId": "lisbon",
+        "categoryId": "museums",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Pena%20Palace%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Pena_Palace",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Sintra_-_Palacio_da_Pena_%2820332995770%29.jpg/960px-Sintra_-_Palacio_da_Pena_%2820332995770%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Pena_Palace"
+        }
+      },
+      {
+        "id": "lisbon-museums-9",
+        "name": "Benfica, Lisbon",
+        "cityId": "lisbon",
+        "categoryId": "museums",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Benfica%2C%20Lisbon%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Benfica%2C_Lisbon",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/Igreja_Paroquial_de_Benfica.jpg/960px-Igreja_Paroquial_de_Benfica.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Benfica%2C_Lisbon"
+        }
+      },
+      {
+        "id": "lisbon-museums-10",
+        "name": "Jerónimos Monastery",
+        "cityId": "lisbon",
+        "categoryId": "museums",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Jer%C3%B3nimos%20Monastery%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Jer%C3%B3nimos_Monastery",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/1502_legte_K%C3%B6nig_Manuel_I._den_Grundstein_f%C3%BCr_das_Hieronymus_Kloster_in_Lissabon._06.jpg/960px-1502_legte_K%C3%B6nig_Manuel_I._den_Grundstein_f%C3%BCr_das_Hieronymus_Kloster_in_Lissabon._06.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Jer%C3%B3nimos_Monastery"
+        }
+      },
+      {
+        "id": "lisbon-museums-11",
+        "name": "Estrela, Lisbon",
+        "cityId": "lisbon",
+        "categoryId": "museums",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Estrela%2C%20Lisbon%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Estrela%2C_Lisbon",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/Pal%C3%A1cio_de_S%C3%A3o_Bento_%28Assembl%C3%A9e_nationale%29_%289307363528%29_%28cropped%29.jpg/960px-Pal%C3%A1cio_de_S%C3%A3o_Bento_%28Assembl%C3%A9e_nationale%29_%289307363528%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Estrela%2C_Lisbon"
+        }
+      },
+      {
+        "id": "lisbon-museums-12",
+        "name": "National Museum of Archaeology, Lisbon",
+        "cityId": "lisbon",
+        "categoryId": "museums",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=National%20Museum%20of%20Archaeology%2C%20Lisbon%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/National_Museum_of_Archaeology%2C_Lisbon",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/CCFL906%40Jer%C3%B3nimos1962.jpg/960px-CCFL906%40Jer%C3%B3nimos1962.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/National_Museum_of_Archaeology%2C_Lisbon"
+        }
+      },
+      {
+        "id": "lisbon-museums-13",
+        "name": "Santo António, Lisbon",
+        "cityId": "lisbon",
+        "categoryId": "museums",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Santo%20Ant%C3%B3nio%2C%20Lisbon%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Santo_Ant%C3%B3nio%2C_Lisbon",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Edif%C3%ADcio_Av_Liberdade_206-218_Lisboa_Arq_Norte_J%C3%BAnior_%282cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Santo_Ant%C3%B3nio%2C_Lisbon"
+        }
+      },
+      {
+        "id": "lisbon-museums-14",
+        "name": "Lisbon Cathedral",
+        "cityId": "lisbon",
+        "categoryId": "museums",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Lisbon%20Cathedral%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Lisbon_Cathedral",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/West_facade_of_Lisbon_Cathedral_%28retouched%29.jpg/960px-West_facade_of_Lisbon_Cathedral_%28retouched%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Lisbon_Cathedral"
+        }
+      },
+      {
+        "id": "lisbon-museums-15",
+        "name": "Navy Museum",
+        "cityId": "lisbon",
+        "categoryId": "museums",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Navy%20Museum%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Navy_Museum_(Portugal)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Museu_de_Marinha_Lissabon_Eingang_September_2014.jpg/960px-Museu_de_Marinha_Lissabon_Eingang_September_2014.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Navy_Museum_(Portugal)"
+        }
+      },
+      {
+        "id": "lisbon-museums-16",
+        "name": "Santa Justa Lift",
+        "cityId": "lisbon",
+        "categoryId": "museums",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Santa%20Justa%20Lift%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Santa_Justa_Lift",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Elevador_de_Santa_Justa_from_Rua_de_Santa_Justa.jpg/960px-Elevador_de_Santa_Justa_from_Rua_de_Santa_Justa.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Santa_Justa_Lift"
+        }
+      },
+      {
+        "id": "lisbon-museums-17",
+        "name": "Christ the King",
+        "cityId": "lisbon",
+        "categoryId": "museums",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Christ%20the%20King%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Christ_the_King_(Almada)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Cristo_Rei_%2836211699613%29_%28cropped%29.jpg/960px-Cristo_Rei_%2836211699613%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Christ_the_King_(Almada)"
+        }
+      },
+      {
+        "id": "lisbon-museums-18",
+        "name": "Pestana Palace",
+        "cityId": "lisbon",
+        "categoryId": "museums",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Pestana%20Palace%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Pestana_Palace",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Pestana_Palace_Hotel_IMG_2004_%28cropped%29.jpg/960px-Pestana_Palace_Hotel_IMG_2004_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Pestana_Palace"
+        }
+      }
+    ],
+    "concerts": [
+      {
+        "id": "lisbon-concerts-1",
+        "name": "Theatre Camões",
+        "cityId": "lisbon",
+        "categoryId": "concerts",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Theatre%20Cam%C3%B5es%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Theatre_Cam%C3%B5es",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Teatro_Camoes_Lisboa.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Theatre_Cam%C3%B5es"
+        }
+      },
+      {
+        "id": "lisbon-concerts-2",
+        "name": "Aarhus Pride",
+        "cityId": "lisbon",
+        "categoryId": "concerts",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Aarhus%20Pride%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Aarhus_Pride",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Aarhus_Pride%2C_2012%2C_start_of_day.jpg/960px-Aarhus_Pride%2C_2012%2C_start_of_day.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Aarhus_Pride"
+        }
+      },
+      {
+        "id": "lisbon-concerts-3",
+        "name": "Siow Lee Chin",
+        "cityId": "lisbon",
+        "categoryId": "concerts",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Siow%20Lee%20Chin%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Siow_Lee_Chin",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Siowleechin-wong.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Siow_Lee_Chin"
+        }
+      },
+      {
+        "id": "lisbon-concerts-4",
+        "name": "Belém Cultural Center",
+        "cityId": "lisbon",
+        "categoryId": "concerts",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Bel%C3%A9m%20Cultural%20Center%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Bel%C3%A9m_Cultural_Center",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/View_from_Padr%C3%A3o_dos_Descobrimentos_-_Centro_Cultural_de_Bel%C3%A9m_%282%29_-_Jul_2008.jpg/960px-View_from_Padr%C3%A3o_dos_Descobrimentos_-_Centro_Cultural_de_Bel%C3%A9m_%282%29_-_Jul_2008.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Bel%C3%A9m_Cultural_Center"
+        }
+      },
+      {
+        "id": "lisbon-concerts-5",
+        "name": "European Concert Hall Organisation",
+        "cityId": "lisbon",
+        "categoryId": "concerts",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=European%20Concert%20Hall%20Organisation%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/European_Concert_Hall_Organisation",
+        "photo": null
+      },
+      {
+        "id": "lisbon-concerts-6",
+        "name": "Mariza",
+        "cityId": "lisbon",
+        "categoryId": "concerts",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Mariza%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Mariza",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/Mariza%2C_Fado_singer_%28November_2022%29_%28cropped%29.jpg/960px-Mariza%2C_Fado_singer_%28November_2022%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Mariza"
+        }
+      },
+      {
+        "id": "lisbon-concerts-7",
+        "name": "Wallflower World Tour",
+        "cityId": "lisbon",
+        "categoryId": "concerts",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Wallflower%20World%20Tour%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Wallflower_World_Tour",
+        "photo": null
+      },
+      {
+        "id": "lisbon-concerts-8",
+        "name": "Cinema Império",
+        "cityId": "lisbon",
+        "categoryId": "concerts",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Cinema%20Imp%C3%A9rio%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Cinema_Imp%C3%A9rio",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Cinema_Imp%C3%A9rio.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Cinema_Imp%C3%A9rio"
+        }
+      },
+      {
+        "id": "lisbon-concerts-9",
+        "name": "Casa da Música",
+        "cityId": "lisbon",
+        "categoryId": "concerts",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Casa%20da%20M%C3%BAsica%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Casa_da_M%C3%BAsica",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Casa_Da_Musica_%283190746009%29.jpg/960px-Casa_Da_Musica_%283190746009%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Casa_da_M%C3%BAsica"
+        }
+      },
+      {
+        "id": "lisbon-concerts-10",
+        "name": "University of Limerick",
+        "cityId": "lisbon",
+        "categoryId": "concerts",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=University%20of%20Limerick%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/University_of_Limerick",
+        "photo": null
+      },
+      {
+        "id": "lisbon-concerts-11",
+        "name": "António Chagas Rosa",
+        "cityId": "lisbon",
+        "categoryId": "concerts",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Ant%C3%B3nio%20Chagas%20Rosa%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Ant%C3%B3nio_Chagas_Rosa",
+        "photo": null
+      },
+      {
+        "id": "lisbon-concerts-12",
+        "name": "Eugenia León",
+        "cityId": "lisbon",
+        "categoryId": "concerts",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Eugenia%20Le%C3%B3n%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Eugenia_Le%C3%B3n",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/EugeniaLeon.jpg/960px-EugeniaLeon.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Eugenia_Le%C3%B3n"
+        }
+      },
+      {
+        "id": "lisbon-concerts-13",
+        "name": "Cascais",
+        "cityId": "lisbon",
+        "categoryId": "concerts",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Cascais%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Cascais",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Cascais_-_Santa_Marta_%2853854018150%29.jpg/960px-Cascais_-_Santa_Marta_%2853854018150%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Cascais"
+        }
+      },
+      {
+        "id": "lisbon-concerts-14",
+        "name": "Portuguese Chamber Orchestra",
+        "cityId": "lisbon",
+        "categoryId": "concerts",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Portuguese%20Chamber%20Orchestra%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Portuguese_Chamber_Orchestra",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/9f/OCP_A_RGB.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Portuguese_Chamber_Orchestra"
+        }
+      },
+      {
+        "id": "lisbon-concerts-15",
+        "name": "Joshua Rosenblum",
+        "cityId": "lisbon",
+        "categoryId": "concerts",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Joshua%20Rosenblum%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Joshua_Rosenblum",
+        "photo": null
+      },
+      {
+        "id": "lisbon-concerts-16",
+        "name": "Zagreb Open",
+        "cityId": "lisbon",
+        "categoryId": "concerts",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Zagreb%20Open%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Zagreb_Open",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/ChristopheRochusStuttgart06.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Zagreb_Open"
+        }
+      },
+      {
+        "id": "lisbon-concerts-17",
+        "name": "Love This Giant Tour",
+        "cityId": "lisbon",
+        "categoryId": "concerts",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Love%20This%20Giant%20Tour%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Love_This_Giant_Tour",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/David_Byrne_%26_St._Vincent_-_Gran_Teatro_Geox%2C_Padova_-_10_settembre_2013_%289737661976%29.jpg/960px-David_Byrne_%26_St._Vincent_-_Gran_Teatro_Geox%2C_Padova_-_10_settembre_2013_%289737661976%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Love_This_Giant_Tour"
+        }
+      },
+      {
+        "id": "lisbon-concerts-18",
+        "name": "Alicia Vikander",
+        "cityId": "lisbon",
+        "categoryId": "concerts",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Alicia%20Vikander%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Alicia_Vikander",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/Alicia_Vikander_at_the_83rd_Venice_International_Film_Festival_%E2%80%9CThe_Echo_Chamber%E2%80%9D_premiere.jpg/960px-Alicia_Vikander_at_the_83rd_Venice_International_Film_Festival_%E2%80%9CThe_Echo_Chamber%E2%80%9D_premiere.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Alicia_Vikander"
+        }
+      }
+    ],
+    "fashion": [],
+    "shops": [
+      {
+        "id": "lisbon-shops-1",
+        "name": "Café A Brasileira",
+        "cityId": "lisbon",
+        "categoryId": "shops",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Caf%C3%A9%20A%20Brasileira%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Caf%C3%A9_A_Brasileira",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Cafe_Brasileira_in_Lisbon.jpg/960px-Cafe_Brasileira_in_Lisbon.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Caf%C3%A9_A_Brasileira"
+        }
+      },
+      {
+        "id": "lisbon-shops-2",
+        "name": "Museu das Comunicações",
+        "cityId": "lisbon",
+        "categoryId": "shops",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Museu%20das%20Comunica%C3%A7%C3%B5es%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Museu_das_Comunica%C3%A7%C3%B5es",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/Museu_das_Comunica%C3%A7%C3%B5es_%28Lisboa%29_01.jpg/960px-Museu_das_Comunica%C3%A7%C3%B5es_%28Lisboa%29_01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Museu_das_Comunica%C3%A7%C3%B5es"
+        }
+      },
+      {
+        "id": "lisbon-shops-3",
+        "name": "Mercantile Bank",
+        "cityId": "lisbon",
+        "categoryId": "shops",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Mercantile%20Bank%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Mercantile_Bank_(South_Africa)",
+        "photo": null
+      },
+      {
+        "id": "lisbon-shops-4",
+        "name": "New Lisbon, New York",
+        "cityId": "lisbon",
+        "categoryId": "shops",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=New%20Lisbon%2C%20New%20York%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/New_Lisbon%2C_New_York",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/34/Otsego_County_outline_map_New_Lisbon_red.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/New_Lisbon%2C_New_York"
+        }
+      },
+      {
+        "id": "lisbon-shops-5",
+        "name": "Clube Oriental de Lisboa",
+        "cityId": "lisbon",
+        "categoryId": "shops",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Clube%20Oriental%20de%20Lisboa%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Clube_Oriental_de_Lisboa",
+        "photo": null
+      },
+      {
+        "id": "lisbon-shops-6",
+        "name": "Álvaro de Campos",
+        "cityId": "lisbon",
+        "categoryId": "shops",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=%C3%81lvaro%20de%20Campos%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/%C3%81lvaro_de_Campos",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/32/Pessoa4.b.gif?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/%C3%81lvaro_de_Campos"
+        }
+      },
+      {
+        "id": "lisbon-shops-7",
+        "name": "The Tour Guide of Lisbon",
+        "cityId": "lisbon",
+        "categoryId": "shops",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Tour%20Guide%20of%20Lisbon%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/The_Tour_Guide_of_Lisbon",
+        "photo": null
+      },
+      {
+        "id": "lisbon-shops-8",
+        "name": "Carris Museum",
+        "cityId": "lisbon",
+        "categoryId": "shops",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Carris%20Museum%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Carris_Museum",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/81/Museucarris001.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Carris_Museum"
+        }
+      },
+      {
+        "id": "lisbon-shops-9",
+        "name": "The Mentalist season 3",
+        "cityId": "lisbon",
+        "categoryId": "shops",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Mentalist%20season%203%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/The_Mentalist_season_3",
+        "photo": null
+      },
+      {
+        "id": "lisbon-shops-10",
+        "name": "Malcolm",
+        "cityId": "lisbon",
+        "categoryId": "shops",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Malcolm%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Malcolm_(film)",
+        "photo": null
+      },
+      {
+        "id": "lisbon-shops-11",
+        "name": "John Paul II Ponta Delgada Airport",
+        "cityId": "lisbon",
+        "categoryId": "shops",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=John%20Paul%20II%20Ponta%20Delgada%20Airport%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/John_Paul_II_Ponta_Delgada_Airport",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/SMG_PDL_Relva_JPaulo2_terminal.jpg/960px-SMG_PDL_Relva_JPaulo2_terminal.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/John_Paul_II_Ponta_Delgada_Airport"
+        }
+      },
+      {
+        "id": "lisbon-shops-12",
+        "name": "Carmo Convent",
+        "cityId": "lisbon",
+        "categoryId": "shops",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Carmo%20Convent%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Carmo_Convent",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/Nave_of_Igreja_do_Convento_do_Carmo_%28Lisbon%29_81.jpg/960px-Nave_of_Igreja_do_Convento_do_Carmo_%28Lisbon%29_81.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Carmo_Convent"
+        }
+      },
+      {
+        "id": "lisbon-shops-13",
+        "name": "Belém, Lisbon",
+        "cityId": "lisbon",
+        "categoryId": "shops",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Bel%C3%A9m%2C%20Lisbon%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Bel%C3%A9m%2C_Lisbon",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Santa_Maria_de_Bel%C3%A9m_sul_Tago_-_panoramio_%28cropped%29.jpg/960px-Santa_Maria_de_Bel%C3%A9m_sul_Tago_-_panoramio_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Bel%C3%A9m%2C_Lisbon"
+        }
+      },
+      {
+        "id": "lisbon-shops-14",
+        "name": "Anthony of Padua",
+        "cityId": "lisbon",
+        "categoryId": "shops",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Anthony%20of%20Padua%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Anthony_of_Padua",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/Francisco_de_Zurbar%C3%A1n_-_Sto_Antonio_de_Padua.jpg/960px-Francisco_de_Zurbar%C3%A1n_-_Sto_Antonio_de_Padua.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Anthony_of_Padua"
+        }
+      },
+      {
+        "id": "lisbon-shops-15",
+        "name": "Super Bock Super Rock",
+        "cityId": "lisbon",
+        "categoryId": "shops",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Super%20Bock%20Super%20Rock%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Super_Bock_Super_Rock",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/SBSR.jpg/960px-SBSR.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Super_Bock_Super_Rock"
+        }
+      },
+      {
+        "id": "lisbon-shops-16",
+        "name": "National Coach Museum",
+        "cityId": "lisbon",
+        "categoryId": "shops",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=National%20Coach%20Museum%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/National_Coach_Museum",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Antigo_Picadeiro_Real.jpg/960px-Antigo_Picadeiro_Real.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/National_Coach_Museum"
+        }
+      },
+      {
+        "id": "lisbon-shops-17",
+        "name": "Ceramics Museum of Sacavém",
+        "cityId": "lisbon",
+        "categoryId": "shops",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Ceramics%20Museum%20of%20Sacav%C3%A9m%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Ceramics_Museum_of_Sacav%C3%A9m",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Museu_da_Cer%C3%A2mica_-_Forno_18_-_I.jpg/960px-Museu_da_Cer%C3%A2mica_-_Forno_18_-_I.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Ceramics_Museum_of_Sacav%C3%A9m"
+        }
+      },
+      {
+        "id": "lisbon-shops-18",
+        "name": "Chiado",
+        "cityId": "lisbon",
+        "categoryId": "shops",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Chiado%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Chiado",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Lisbon_10064_Lisboa_Pra%C3%A7a_Lu%C3%ADs_de_Cam%C3%B5es_2006_Luca_Galuzzi_%28cropped%29.jpg/960px-Lisbon_10064_Lisboa_Pra%C3%A7a_Lu%C3%ADs_de_Cam%C3%B5es_2006_Luca_Galuzzi_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Chiado"
+        }
+      }
+    ]
+  }
+}

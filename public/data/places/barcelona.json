@@ -1,0 +1,2363 @@
+{
+  "cityId": "barcelona",
+  "generatedAt": "2026-11-27T08:42:14.845Z",
+  "source": "Wikipedia API + Maps URLs (sin scraping de Google)",
+  "incomplete": [],
+  "categories": {
+    "night_clubs": [
+      {
+        "id": "barcelona-night_clubs-1",
+        "name": "Razzmatazz",
+        "cityId": "barcelona",
+        "categoryId": "night_clubs",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Razzmatazz%2C%20Barcelona",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Razzmatazz_(club)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Salida_de_Razzmatazz.JPG/960px-Salida_de_Razzmatazz.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Razzmatazz_(club)"
+        }
+      },
+      {
+        "id": "barcelona-night_clubs-2",
+        "name": "Angels & Kings",
+        "cityId": "barcelona",
+        "categoryId": "night_clubs",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Angels%20%26%20Kings%2C%20Barcelona",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Angels_%26_Kings",
+        "photo": null
+      },
+      {
+        "id": "barcelona-night_clubs-3",
+        "name": "Om Records",
+        "cityId": "barcelona",
+        "categoryId": "night_clubs",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Om%20Records%2C%20Barcelona",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Om_Records",
+        "photo": null
+      },
+      {
+        "id": "barcelona-night_clubs-4",
+        "name": "Baja Beach Club",
+        "cityId": "barcelona",
+        "categoryId": "night_clubs",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Baja%20Beach%20Club%2C%20Barcelona",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Baja_Beach_Club",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/Barcelona_2006_%282843574237%29.jpg/960px-Barcelona_2006_%282843574237%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Baja_Beach_Club"
+        }
+      },
+      {
+        "id": "barcelona-night_clubs-5",
+        "name": "Le Chat Noir",
+        "cityId": "barcelona",
+        "categoryId": "night_clubs",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Le%20Chat%20Noir%2C%20Barcelona",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Le_Chat_Noir",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Le_Chat_noir_1929.jpg/960px-Le_Chat_noir_1929.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Le_Chat_Noir"
+        }
+      },
+      {
+        "id": "barcelona-night_clubs-6",
+        "name": "Arata Isozaki",
+        "cityId": "barcelona",
+        "categoryId": "night_clubs",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Arata%20Isozaki%2C%20Barcelona",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Arata_Isozaki",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/ARATA_ISOZAKI%2C_ARCHITECT_01.jpg/960px-ARATA_ISOZAKI%2C_ARCHITECT_01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Arata_Isozaki"
+        }
+      },
+      {
+        "id": "barcelona-night_clubs-7",
+        "name": "Dani Alves",
+        "cityId": "barcelona",
+        "categoryId": "night_clubs",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Dani%20Alves%2C%20Barcelona",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Dani_Alves",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/dd/07_07_2019_Final_da_Copa_Am%C3%A9rica_2019_%2848226649586%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Dani_Alves"
+        }
+      },
+      {
+        "id": "barcelona-night_clubs-8",
+        "name": "Afterhours club",
+        "cityId": "barcelona",
+        "categoryId": "night_clubs",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Afterhours%20club%2C%20Barcelona",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Afterhours_club",
+        "photo": null
+      },
+      {
+        "id": "barcelona-night_clubs-9",
+        "name": "Digital Mystikz",
+        "cityId": "barcelona",
+        "categoryId": "night_clubs",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Digital%20Mystikz%2C%20Barcelona",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Digital_Mystikz",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/DMZ_%28Record_Label%29_Logo.svg/960px-DMZ_%28Record_Label%29_Logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Digital_Mystikz"
+        }
+      },
+      {
+        "id": "barcelona-night_clubs-10",
+        "name": "Ronaldinho",
+        "cityId": "barcelona",
+        "categoryId": "night_clubs",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Ronaldinho%2C%20Barcelona",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Ronaldinho",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/2019_-_Press_conferences_-_Day_1_ENX_6950_%2849019873887%29_%28cropped%29.jpg/960px-2019_-_Press_conferences_-_Day_1_ENX_6950_%2849019873887%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Ronaldinho"
+        }
+      },
+      {
+        "id": "barcelona-night_clubs-11",
+        "name": "Barcelona",
+        "cityId": "barcelona",
+        "categoryId": "night_clubs",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Barcelona%2C%20Barcelona",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Barcelona_(Freddie_Mercury_and_Montserrat_Caball%C3%A9_song)",
+        "photo": null
+      },
+      {
+        "id": "barcelona-night_clubs-12",
+        "name": "Tech house",
+        "cityId": "barcelona",
+        "categoryId": "night_clubs",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Tech%20house%2C%20Barcelona",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Tech_house",
+        "photo": null
+      },
+      {
+        "id": "barcelona-night_clubs-13",
+        "name": "2017 Barcelona attacks",
+        "cityId": "barcelona",
+        "categoryId": "night_clubs",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=2017%20Barcelona%20attacks%2C%20Barcelona",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/2017_Barcelona_attacks",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/Barcelona_La_Rambla_-_2011-04-23_05_-_JTCurses.jpg/960px-Barcelona_La_Rambla_-_2011-04-23_05_-_JTCurses.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/2017_Barcelona_attacks"
+        }
+      },
+      {
+        "id": "barcelona-night_clubs-14",
+        "name": "Silvia Reyes",
+        "cityId": "barcelona",
+        "categoryId": "night_clubs",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Silvia%20Reyes%2C%20Barcelona",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Silvia_Reyes",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/95/Silvia_Reyes.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Silvia_Reyes"
+        }
+      },
+      {
+        "id": "barcelona-night_clubs-15",
+        "name": "Gay bar",
+        "cityId": "barcelona",
+        "categoryId": "night_clubs",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Gay%20bar%2C%20Barcelona",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Gay_bar",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/09/Comptons-Of-Soho.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Gay_bar"
+        }
+      },
+      {
+        "id": "barcelona-night_clubs-16",
+        "name": "Carles Puyol",
+        "cityId": "barcelona",
+        "categoryId": "night_clubs",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Carles%20Puyol%2C%20Barcelona",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Carles_Puyol",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Premios_Goya_2020_-_Carles_Pujol.jpg/960px-Premios_Goya_2020_-_Carles_Pujol.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Carles_Puyol"
+        }
+      },
+      {
+        "id": "barcelona-night_clubs-17",
+        "name": "Happy Mondays",
+        "cityId": "barcelona",
+        "categoryId": "night_clubs",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Happy%20Mondays%2C%20Barcelona",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Happy_Mondays",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Happy_Mondays_June_30_2006_%28cropped%29.jpg/960px-Happy_Mondays_June_30_2006_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Happy_Mondays"
+        }
+      },
+      {
+        "id": "barcelona-night_clubs-18",
+        "name": "Planning permission",
+        "cityId": "barcelona",
+        "categoryId": "night_clubs",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Planning%20permission%2C%20Barcelona",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Planning_permission",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/One57_under_construction_3_November_2012.jpeg/960px-One57_under_construction_3_November_2012.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Planning_permission"
+        }
+      }
+    ],
+    "restaurants": [
+      {
+        "id": "barcelona-restaurants-1",
+        "name": "Calldetenes",
+        "cityId": "barcelona",
+        "categoryId": "restaurants",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Calldetenes%2C%20Barcelona",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Calldetenes",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Calldetenes_des_de_la_pla%C3%A7a_de_Llu%C3%ADs_Companys.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Calldetenes"
+        }
+      },
+      {
+        "id": "barcelona-restaurants-2",
+        "name": "Lasarte",
+        "cityId": "barcelona",
+        "categoryId": "restaurants",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Lasarte%2C%20Barcelona",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Lasarte",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/Lasarte.jpg/960px-Lasarte.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Lasarte"
+        }
+      },
+      {
+        "id": "barcelona-restaurants-3",
+        "name": "El Raval",
+        "cityId": "barcelona",
+        "categoryId": "restaurants",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=El%20Raval%2C%20Barcelona",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/El_Raval",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/El_Raval_%2836518643791%29.jpg/960px-El_Raval_%2836518643791%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/El_Raval"
+        }
+      },
+      {
+        "id": "barcelona-restaurants-4",
+        "name": "Castle of the Three Dragons",
+        "cityId": "barcelona",
+        "categoryId": "restaurants",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Castle%20of%20the%20Three%20Dragons%2C%20Barcelona",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Castle_of_the_Three_Dragons",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Barcelona_-_Castell_dels_Tres_Dragons_%281%29.JPG/960px-Barcelona_-_Castell_dels_Tres_Dragons_%281%29.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Castle_of_the_Three_Dragons"
+        }
+      },
+      {
+        "id": "barcelona-restaurants-5",
+        "name": "Carme Ruscalleda",
+        "cityId": "barcelona",
+        "categoryId": "restaurants",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Carme%20Ruscalleda%2C%20Barcelona",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Carme_Ruscalleda",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Carme_Ruscalleda_by_foto-di-matti_2905.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Carme_Ruscalleda"
+        }
+      },
+      {
+        "id": "barcelona-restaurants-6",
+        "name": "Floating restaurant",
+        "cityId": "barcelona",
+        "categoryId": "restaurants",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Floating%20restaurant%2C%20Barcelona",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Floating_restaurant",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Vaal_River_-_Floating_Restaurant-001.jpg/960px-Vaal_River_-_Floating_Restaurant-001.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Floating_restaurant"
+        }
+      },
+      {
+        "id": "barcelona-restaurants-7",
+        "name": "Royal Barcelona Maritime Club",
+        "cityId": "barcelona",
+        "categoryId": "restaurants",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Royal%20Barcelona%20Maritime%20Club%2C%20Barcelona",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Royal_Barcelona_Maritime_Club",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/Rcm_barcelona.svg/960px-Rcm_barcelona.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Royal_Barcelona_Maritime_Club"
+        }
+      },
+      {
+        "id": "barcelona-restaurants-8",
+        "name": "Masia",
+        "cityId": "barcelona",
+        "categoryId": "restaurants",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Masia%2C%20Barcelona",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Masia_(restaurant)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Masia%2C_PDX_4.jpg/960px-Masia%2C_PDX_4.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Masia_(restaurant)"
+        }
+      },
+      {
+        "id": "barcelona-restaurants-9",
+        "name": "Albert Adrià",
+        "cityId": "barcelona",
+        "categoryId": "restaurants",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Albert%20Adri%C3%A0%2C%20Barcelona",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Albert_Adri%C3%A0",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Albert_Adri%C3%A0.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Albert_Adri%C3%A0"
+        }
+      },
+      {
+        "id": "barcelona-restaurants-10",
+        "name": "Sant Pau",
+        "cityId": "barcelona",
+        "categoryId": "restaurants",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Sant%20Pau%2C%20Barcelona",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Sant_Pau_(restaurant)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Sant_Pol_de_Mar_-_Restaurant_Sant_Pau_02.jpg/960px-Sant_Pol_de_Mar_-_Restaurant_Sant_Pau_02.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Sant_Pau_(restaurant)"
+        }
+      },
+      {
+        "id": "barcelona-restaurants-11",
+        "name": "Martín Berasategui",
+        "cityId": "barcelona",
+        "categoryId": "restaurants",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Mart%C3%ADn%20Berasategui%2C%20Barcelona",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Mart%C3%ADn_Berasategui",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Mart%C3%ADn_Berasategui_%282010%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Mart%C3%ADn_Berasategui"
+        }
+      },
+      {
+        "id": "barcelona-restaurants-12",
+        "name": "Ferran Adrià",
+        "cityId": "barcelona",
+        "categoryId": "restaurants",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Ferran%20Adri%C3%A0%2C%20Barcelona",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Ferran_Adri%C3%A0",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/Ferran_Adri%C3%A0_en_la_presentaci%C3%B3n_de_%27Un_proyecte_per_compartir%27.jpg/960px-Ferran_Adri%C3%A0_en_la_presentaci%C3%B3n_de_%27Un_proyecte_per_compartir%27.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Ferran_Adri%C3%A0"
+        }
+      },
+      {
+        "id": "barcelona-restaurants-13",
+        "name": "Persecution of Jews during the Black Death",
+        "cityId": "barcelona",
+        "categoryId": "restaurants",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Persecution%20of%20Jews%20during%20the%20Black%20Death%2C%20Barcelona",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Persecution_of_Jews_during_the_Black_Death",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Doutielt1.jpg/960px-Doutielt1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Persecution_of_Jews_during_the_Black_Death"
+        }
+      },
+      {
+        "id": "barcelona-restaurants-14",
+        "name": "Keith English",
+        "cityId": "barcelona",
+        "categoryId": "restaurants",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Keith%20English%2C%20Barcelona",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Keith_English_(punter)",
+        "photo": null
+      },
+      {
+        "id": "barcelona-restaurants-15",
+        "name": "Cinc Sentits",
+        "cityId": "barcelona",
+        "categoryId": "restaurants",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Cinc%20Sentits%2C%20Barcelona",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Cinc_Sentits",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Cinc_Sentits.jpg/960px-Cinc_Sentits.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Cinc_Sentits"
+        }
+      },
+      {
+        "id": "barcelona-restaurants-16",
+        "name": "Can Fabes",
+        "cityId": "barcelona",
+        "categoryId": "restaurants",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Can%20Fabes%2C%20Barcelona",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Can_Fabes",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/054_Can_Fabes.jpg/960px-054_Can_Fabes.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Can_Fabes"
+        }
+      },
+      {
+        "id": "barcelona-restaurants-17",
+        "name": "Bellaterra",
+        "cityId": "barcelona",
+        "categoryId": "restaurants",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Bellaterra%2C%20Barcelona",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Bellaterra",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Bellaterra_FGC.JPG/960px-Bellaterra_FGC.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Bellaterra"
+        }
+      },
+      {
+        "id": "barcelona-restaurants-18",
+        "name": "Hofmann",
+        "cityId": "barcelona",
+        "categoryId": "restaurants",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Hofmann%2C%20Barcelona",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Hofmann_(restaurant)",
+        "photo": null
+      }
+    ],
+    "bars": [
+      {
+        "id": "barcelona-bars-1",
+        "name": "Vitaly Scherbo",
+        "cityId": "barcelona",
+        "categoryId": "bars",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Vitaly%20Scherbo%2C%20Barcelona",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Vitaly_Scherbo",
+        "photo": null
+      },
+      {
+        "id": "barcelona-bars-2",
+        "name": "Abraham bar Hiyya",
+        "cityId": "barcelona",
+        "categoryId": "bars",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Abraham%20bar%20Hiyya%2C%20Barcelona",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Abraham_bar_Hiyya",
+        "photo": null
+      },
+      {
+        "id": "barcelona-bars-3",
+        "name": "Els Quatre Gats",
+        "cityId": "barcelona",
+        "categoryId": "bars",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Els%20Quatre%20Gats%2C%20Barcelona",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Els_Quatre_Gats",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/15-10-27-Els_Quatre_Gats-RalfR-WMA_2729.jpg/960px-15-10-27-Els_Quatre_Gats-RalfR-WMA_2729.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Els_Quatre_Gats"
+        }
+      },
+      {
+        "id": "barcelona-bars-4",
+        "name": "Royal Square",
+        "cityId": "barcelona",
+        "categoryId": "bars",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Royal%20Square%2C%20Barcelona",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Royal_Square_(Barcelona)",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Barcellona_Pla%C3%A7a_Reial.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Royal_Square_(Barcelona)"
+        }
+      },
+      {
+        "id": "barcelona-bars-5",
+        "name": "Hrihoriy Misyutin",
+        "cityId": "barcelona",
+        "categoryId": "bars",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Hrihoriy%20Misyutin%2C%20Barcelona",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Hrihoriy_Misyutin",
+        "photo": null
+      },
+      {
+        "id": "barcelona-bars-6",
+        "name": ".bcn",
+        "cityId": "barcelona",
+        "categoryId": "bars",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=.bcn%2C%20Barcelona",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/.bcn",
+        "photo": null
+      },
+      {
+        "id": "barcelona-bars-7",
+        "name": "Montenegrin basketball clubs in European competitions",
+        "cityId": "barcelona",
+        "categoryId": "bars",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Montenegrin%20basketball%20clubs%20in%20European%20competitions%2C%20Barcelona",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Montenegrin_basketball_clubs_in_European_competitions",
+        "photo": null
+      },
+      {
+        "id": "barcelona-bars-8",
+        "name": "El Maresme/Fòrum station",
+        "cityId": "barcelona",
+        "categoryId": "bars",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=El%20Maresme%2FF%C3%B2rum%20station%2C%20Barcelona",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/El_Maresme%2FF%C3%B2rum_station",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/75/Metroelmaresmeforuml4.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/El_Maresme%2FF%C3%B2rum_station"
+        }
+      },
+      {
+        "id": "barcelona-bars-9",
+        "name": "World Bowl IX",
+        "cityId": "barcelona",
+        "categoryId": "bars",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=World%20Bowl%20IX%2C%20Barcelona",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/World_Bowl_IX",
+        "photo": null
+      },
+      {
+        "id": "barcelona-bars-10",
+        "name": "Sant Antoni, Barcelona",
+        "cityId": "barcelona",
+        "categoryId": "bars",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Sant%20Antoni%2C%20Barcelona%2C%20Barcelona",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Sant_Antoni%2C_Barcelona",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/06/Avinguda_Mistral.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Sant_Antoni%2C_Barcelona"
+        }
+      },
+      {
+        "id": "barcelona-bars-11",
+        "name": ".bar",
+        "cityId": "barcelona",
+        "categoryId": "bars",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=.bar%2C%20Barcelona",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/.bar",
+        "photo": null
+      },
+      {
+        "id": "barcelona-bars-12",
+        "name": "Luis Pérez-Sala",
+        "cityId": "barcelona",
+        "categoryId": "bars",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Luis%20P%C3%A9rez-Sala%2C%20Barcelona",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Luis_P%C3%A9rez-Sala",
+        "photo": null
+      },
+      {
+        "id": "barcelona-bars-13",
+        "name": "Casa Martí",
+        "cityId": "barcelona",
+        "categoryId": "bars",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Casa%20Mart%C3%AD%2C%20Barcelona",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Casa_Mart%C3%AD",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/Puig.i.Cadafalch.Casa.Mart%C3%AD.4Gats.Barcelona.Entrada2.JPG/960px-Puig.i.Cadafalch.Casa.Mart%C3%AD.4Gats.Barcelona.Entrada2.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Casa_Mart%C3%AD"
+        }
+      },
+      {
+        "id": "barcelona-bars-14",
+        "name": "1917 Barcelona City Council election",
+        "cityId": "barcelona",
+        "categoryId": "bars",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=1917%20Barcelona%20City%20Council%20election%2C%20Barcelona",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/1917_Barcelona_City_Council_election",
+        "photo": null
+      },
+      {
+        "id": "barcelona-bars-15",
+        "name": "1911 Barcelona City Council election",
+        "cityId": "barcelona",
+        "categoryId": "bars",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=1911%20Barcelona%20City%20Council%20election%2C%20Barcelona",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/1911_Barcelona_City_Council_election",
+        "photo": null
+      },
+      {
+        "id": "barcelona-bars-16",
+        "name": "May 1909 Barcelona City Council election",
+        "cityId": "barcelona",
+        "categoryId": "bars",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=May%201909%20Barcelona%20City%20Council%20election%2C%20Barcelona",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/May_1909_Barcelona_City_Council_election",
+        "photo": null
+      },
+      {
+        "id": "barcelona-bars-17",
+        "name": "Iceland at the Paralympics",
+        "cityId": "barcelona",
+        "categoryId": "bars",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Iceland%20at%20the%20Paralympics%2C%20Barcelona",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Iceland_at_the_Paralympics",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Iceland.svg/960px-Flag_of_Iceland.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Iceland_at_the_Paralympics"
+        }
+      },
+      {
+        "id": "barcelona-bars-18",
+        "name": "1913 Barcelona City Council election",
+        "cityId": "barcelona",
+        "categoryId": "bars",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=1913%20Barcelona%20City%20Council%20election%2C%20Barcelona",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/1913_Barcelona_City_Council_election",
+        "photo": null
+      }
+    ],
+    "coffee_shops": [
+      {
+        "id": "barcelona-coffee_shops-1",
+        "name": "Els Quatre Gats",
+        "cityId": "barcelona",
+        "categoryId": "coffee_shops",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Els%20Quatre%20Gats%2C%20Barcelona",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Els_Quatre_Gats",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/15-10-27-Els_Quatre_Gats-RalfR-WMA_2729.jpg/960px-15-10-27-Els_Quatre_Gats-RalfR-WMA_2729.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Els_Quatre_Gats"
+        }
+      },
+      {
+        "id": "barcelona-coffee_shops-2",
+        "name": "José Padilla",
+        "cityId": "barcelona",
+        "categoryId": "coffee_shops",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Jos%C3%A9%20Padilla%2C%20Barcelona",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Jos%C3%A9_Padilla_(DJ)",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c0/JosePadillaHostalLaTorre07-crop.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Jos%C3%A9_Padilla_(DJ)"
+        }
+      },
+      {
+        "id": "barcelona-coffee_shops-3",
+        "name": "Casa Amatller",
+        "cityId": "barcelona",
+        "categoryId": "coffee_shops",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Casa%20Amatller%2C%20Barcelona",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Casa_Amatller",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Casa_Amatller%2C_2013.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Casa_Amatller"
+        }
+      },
+      {
+        "id": "barcelona-coffee_shops-4",
+        "name": "CosmoCaixa Barcelona",
+        "cityId": "barcelona",
+        "categoryId": "coffee_shops",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=CosmoCaixa%20Barcelona%2C%20Barcelona",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/CosmoCaixa_Barcelona",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/CosmoCaixa_building.jpg/960px-CosmoCaixa_building.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/CosmoCaixa_Barcelona"
+        }
+      },
+      {
+        "id": "barcelona-coffee_shops-5",
+        "name": "Castle of the Three Dragons",
+        "cityId": "barcelona",
+        "categoryId": "coffee_shops",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Castle%20of%20the%20Three%20Dragons%2C%20Barcelona",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Castle_of_the_Three_Dragons",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Barcelona_-_Castell_dels_Tres_Dragons_%281%29.JPG/960px-Barcelona_-_Castell_dels_Tres_Dragons_%281%29.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Castle_of_the_Three_Dragons"
+        }
+      },
+      {
+        "id": "barcelona-coffee_shops-6",
+        "name": "Cafe Bazaar",
+        "cityId": "barcelona",
+        "categoryId": "coffee_shops",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Cafe%20Bazaar%2C%20Barcelona",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Cafe_Bazaar",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/en/thumb/7/70/Cafe_Bazaar_logo.svg/960px-Cafe_Bazaar_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Cafe_Bazaar"
+        }
+      },
+      {
+        "id": "barcelona-coffee_shops-7",
+        "name": "Plaça de Catalunya",
+        "cityId": "barcelona",
+        "categoryId": "coffee_shops",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Pla%C3%A7a%20de%20Catalunya%2C%20Barcelona",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Pla%C3%A7a_de_Catalunya",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Catalunya_Barcelona1_tango7174.jpg/960px-Catalunya_Barcelona1_tango7174.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Pla%C3%A7a_de_Catalunya"
+        }
+      },
+      {
+        "id": "barcelona-coffee_shops-8",
+        "name": "Joan Carreras i Goicoechea",
+        "cityId": "barcelona",
+        "categoryId": "coffee_shops",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Joan%20Carreras%20i%20Goicoechea%2C%20Barcelona",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Joan_Carreras_i_Goicoechea",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Joan_Carreras.JPG/960px-Joan_Carreras.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Joan_Carreras_i_Goicoechea"
+        }
+      },
+      {
+        "id": "barcelona-coffee_shops-9",
+        "name": "Carles Casagemas",
+        "cityId": "barcelona",
+        "categoryId": "coffee_shops",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Carles%20Casagemas%2C%20Barcelona",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Carles_Casagemas",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/Picasso%2C_Angel_Fern%C3%A1ndez_de_Soto_y_Casagemas.jpg/960px-Picasso%2C_Angel_Fern%C3%A1ndez_de_Soto_y_Casagemas.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Carles_Casagemas"
+        }
+      },
+      {
+        "id": "barcelona-coffee_shops-10",
+        "name": "Andrija Žižić",
+        "cityId": "barcelona",
+        "categoryId": "coffee_shops",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Andrija%20%C5%BDi%C5%BEi%C4%87%2C%20Barcelona",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Andrija_%C5%BDi%C5%BEi%C4%87",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Andrija_%C5%BDi%C5%BEi%C4%87.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Andrija_%C5%BDi%C5%BEi%C4%87"
+        }
+      },
+      {
+        "id": "barcelona-coffee_shops-11",
+        "name": "1990 Volta a Catalunya",
+        "cityId": "barcelona",
+        "categoryId": "coffee_shops",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=1990%20Volta%20a%20Catalunya%2C%20Barcelona",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/1990_Volta_a_Catalunya",
+        "photo": null
+      },
+      {
+        "id": "barcelona-coffee_shops-12",
+        "name": "1888 Barcelona Universal Exposition",
+        "cityId": "barcelona",
+        "categoryId": "coffee_shops",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=1888%20Barcelona%20Universal%20Exposition%2C%20Barcelona",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/1888_Barcelona_Universal_Exposition",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/38/DiariOficialExpo-1053r.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/1888_Barcelona_Universal_Exposition"
+        }
+      },
+      {
+        "id": "barcelona-coffee_shops-13",
+        "name": "Cortado",
+        "cityId": "barcelona",
+        "categoryId": "coffee_shops",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Cortado%2C%20Barcelona",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Cortado",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Caf%C3%A9Cortado%28Tallat%29.jpg/960px-Caf%C3%A9Cortado%28Tallat%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Cortado"
+        }
+      },
+      {
+        "id": "barcelona-coffee_shops-14",
+        "name": "Josep Maria de Sagarra",
+        "cityId": "barcelona",
+        "categoryId": "coffee_shops",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Josep%20Maria%20de%20Sagarra%2C%20Barcelona",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Josep_Maria_de_Sagarra",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Retrat_josep_maria_sagarra_ricard_canals-MAE-35811.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Josep_Maria_de_Sagarra"
+        }
+      },
+      {
+        "id": "barcelona-coffee_shops-15",
+        "name": "2002 MTV Europe Music Awards",
+        "cityId": "barcelona",
+        "categoryId": "coffee_shops",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=2002%20MTV%20Europe%20Music%20Awards%2C%20Barcelona",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/2002_MTV_Europe_Music_Awards",
+        "photo": null
+      },
+      {
+        "id": "barcelona-coffee_shops-16",
+        "name": "Montaña Rusa",
+        "cityId": "barcelona",
+        "categoryId": "coffee_shops",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Monta%C3%B1a%20Rusa%2C%20Barcelona",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Monta%C3%B1a_Rusa",
+        "photo": null
+      },
+      {
+        "id": "barcelona-coffee_shops-17",
+        "name": "Café Coffee Day",
+        "cityId": "barcelona",
+        "categoryId": "coffee_shops",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Caf%C3%A9%20Coffee%20Day%2C%20Barcelona",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Caf%C3%A9_Coffee_Day",
+        "photo": null
+      },
+      {
+        "id": "barcelona-coffee_shops-18",
+        "name": "Ace Cafe",
+        "cityId": "barcelona",
+        "categoryId": "coffee_shops",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Ace%20Cafe%2C%20Barcelona",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Ace_Cafe",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/BSA_riders_at_2007_Ace_Cafe_reunion.jpg/960px-BSA_riders_at_2007_Ace_Cafe_reunion.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Ace_Cafe"
+        }
+      }
+    ],
+    "bookshops": [
+      {
+        "id": "barcelona-bookshops-1",
+        "name": "CosmoCaixa Barcelona",
+        "cityId": "barcelona",
+        "categoryId": "bookshops",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=CosmoCaixa%20Barcelona%2C%20Barcelona",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/CosmoCaixa_Barcelona",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/CosmoCaixa_building.jpg/960px-CosmoCaixa_building.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/CosmoCaixa_Barcelona"
+        }
+      },
+      {
+        "id": "barcelona-bookshops-2",
+        "name": "Pedro Varela Geiss",
+        "cityId": "barcelona",
+        "categoryId": "bookshops",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Pedro%20Varela%20Geiss%2C%20Barcelona",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Pedro_Varela_Geiss",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Pedro_Varela_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Pedro_Varela_Geiss"
+        }
+      },
+      {
+        "id": "barcelona-bookshops-3",
+        "name": "Cáñamo",
+        "cityId": "barcelona",
+        "categoryId": "bookshops",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=C%C3%A1%C3%B1amo%2C%20Barcelona",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/C%C3%A1%C3%B1amo",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/Logo_C%C3%A1%C3%B1amo_magazine.jpg/960px-Logo_C%C3%A1%C3%B1amo_magazine.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/C%C3%A1%C3%B1amo"
+        }
+      },
+      {
+        "id": "barcelona-bookshops-4",
+        "name": "Camas Bookstore and Infoshop",
+        "cityId": "barcelona",
+        "categoryId": "bookshops",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Camas%20Bookstore%20and%20Infoshop%2C%20Barcelona",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Camas_Bookstore_and_Infoshop",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/CamasInfoshop.jpg/960px-CamasInfoshop.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Camas_Bookstore_and_Infoshop"
+        }
+      },
+      {
+        "id": "barcelona-bookshops-5",
+        "name": "Self-managed social center",
+        "cityId": "barcelona",
+        "categoryId": "bookshops",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Self-managed%20social%20center%2C%20Barcelona",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Self-managed_social_center",
+        "photo": null
+      },
+      {
+        "id": "barcelona-bookshops-6",
+        "name": "Red Emma's",
+        "cityId": "barcelona",
+        "categoryId": "bookshops",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Red%20Emma's%2C%20Barcelona",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Red_Emma's",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Red_Emma%27s_Cathedral_Street_location.jpg/960px-Red_Emma%27s_Cathedral_Street_location.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Red_Emma's"
+        }
+      },
+      {
+        "id": "barcelona-bookshops-7",
+        "name": "Centre de Cultura Contemporània de Barcelona",
+        "cityId": "barcelona",
+        "categoryId": "bookshops",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Centre%20de%20Cultura%20Contempor%C3%A0nia%20de%20Barcelona%2C%20Barcelona",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Centre_de_Cultura_Contempor%C3%A0nia_de_Barcelona",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/CCCB_20070408.jpg/960px-CCCB_20070408.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Centre_de_Cultura_Contempor%C3%A0nia_de_Barcelona"
+        }
+      },
+      {
+        "id": "barcelona-bookshops-8",
+        "name": "Sex shop",
+        "cityId": "barcelona",
+        "categoryId": "bookshops",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Sex%20shop%2C%20Barcelona",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Sex_shop",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Sex-shops-on-boulevard-de-clichi.jpg/960px-Sex-shops-on-boulevard-de-clichi.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Sex_shop"
+        }
+      },
+      {
+        "id": "barcelona-bookshops-9",
+        "name": "Verlag Herder",
+        "cityId": "barcelona",
+        "categoryId": "bookshops",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Verlag%20Herder%2C%20Barcelona",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Verlag_Herder",
+        "photo": null
+      },
+      {
+        "id": "barcelona-bookshops-10",
+        "name": "Antoni Muntadas",
+        "cityId": "barcelona",
+        "categoryId": "bookshops",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Antoni%20Muntadas%2C%20Barcelona",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Antoni_Muntadas",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Antoni_Muntadas_i_Enric_Franch_durant_el_muntatge_de_Between_the_Frames_The_Forum_al_MACBA%2C_2011.jpg/960px-Antoni_Muntadas_i_Enric_Franch_durant_el_muntatge_de_Between_the_Frames_The_Forum_al_MACBA%2C_2011.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Antoni_Muntadas"
+        }
+      },
+      {
+        "id": "barcelona-bookshops-11",
+        "name": "Infoshop",
+        "cityId": "barcelona",
+        "categoryId": "bookshops",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Infoshop%2C%20Barcelona",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Infoshop",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/L%27Insoumise_Montreal.jpg/960px-L%27Insoumise_Montreal.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Infoshop"
+        }
+      },
+      {
+        "id": "barcelona-bookshops-12",
+        "name": "Bad Girls",
+        "cityId": "barcelona",
+        "categoryId": "bookshops",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Bad%20Girls%2C%20Barcelona",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Bad_Girls_(Sosa_Villada_novel)",
+        "photo": null
+      },
+      {
+        "id": "barcelona-bookshops-13",
+        "name": "The Wine of Summer",
+        "cityId": "barcelona",
+        "categoryId": "bookshops",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Wine%20of%20Summer%2C%20Barcelona",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/The_Wine_of_Summer",
+        "photo": null
+      },
+      {
+        "id": "barcelona-bookshops-14",
+        "name": "Josep Espar i Ticó",
+        "cityId": "barcelona",
+        "categoryId": "bookshops",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Josep%20Espar%20i%20Tic%C3%B3%2C%20Barcelona",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Josep_Espar_i_Tic%C3%B3",
+        "photo": null
+      },
+      {
+        "id": "barcelona-bookshops-15",
+        "name": "Fontfroide Abbey",
+        "cityId": "barcelona",
+        "categoryId": "bookshops",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Fontfroide%20Abbey%2C%20Barcelona",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Fontfroide_Abbey",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/Fontfroide_034.jpg/960px-Fontfroide_034.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Fontfroide_Abbey"
+        }
+      },
+      {
+        "id": "barcelona-bookshops-16",
+        "name": "Wooden Shoe Books and Records",
+        "cityId": "barcelona",
+        "categoryId": "bookshops",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Wooden%20Shoe%20Books%20and%20Records%2C%20Barcelona",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Wooden_Shoe_Books_and_Records",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Wooden_Shoe_Books_sign.jpg/960px-Wooden_Shoe_Books_sign.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Wooden_Shoe_Books_and_Records"
+        }
+      },
+      {
+        "id": "barcelona-bookshops-17",
+        "name": "Nicolae Simatoc",
+        "cityId": "barcelona",
+        "categoryId": "bookshops",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Nicolae%20Simatoc%2C%20Barcelona",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Nicolae_Simatoc",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Nicolae_Simatoc_1950.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Nicolae_Simatoc"
+        }
+      },
+      {
+        "id": "barcelona-bookshops-18",
+        "name": "Colita",
+        "cityId": "barcelona",
+        "categoryId": "bookshops",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Colita%2C%20Barcelona",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Colita",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/Colita_en_el_archivo.jpg/960px-Colita_en_el_archivo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Colita"
+        }
+      }
+    ],
+    "museums": [
+      {
+        "id": "barcelona-museums-1",
+        "name": "Barcelona",
+        "cityId": "barcelona",
+        "categoryId": "museums",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Barcelona%2C%20Barcelona",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Barcelona",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Evening_light_over_Barcelona.jpg/960px-Evening_light_over_Barcelona.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Barcelona"
+        }
+      },
+      {
+        "id": "barcelona-museums-2",
+        "name": "Barcelona Museum of Contemporary Art",
+        "cityId": "barcelona",
+        "categoryId": "museums",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Barcelona%20Museum%20of%20Contemporary%20Art%2C%20Barcelona",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Barcelona_Museum_of_Contemporary_Art",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Barcelona_-_Museu_d%27Art_Contemporani_de_Barcelona_%28MACBA%29.jpg/960px-Barcelona_-_Museu_d%27Art_Contemporani_de_Barcelona_%28MACBA%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Barcelona_Museum_of_Contemporary_Art"
+        }
+      },
+      {
+        "id": "barcelona-museums-3",
+        "name": "Palau Sant Jordi",
+        "cityId": "barcelona",
+        "categoryId": "museums",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Palau%20Sant%20Jordi%2C%20Barcelona",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Palau_Sant_Jordi",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/Concert_Volem_Acollir_al_Palau_Sant_Jordi.jpg/960px-Concert_Volem_Acollir_al_Palau_Sant_Jordi.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Palau_Sant_Jordi"
+        }
+      },
+      {
+        "id": "barcelona-museums-4",
+        "name": "Camp Nou",
+        "cityId": "barcelona",
+        "categoryId": "museums",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Camp%20Nou%2C%20Barcelona",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Camp_Nou",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/Camp_Nou_aerial.jpg/960px-Camp_Nou_aerial.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Camp_Nou"
+        }
+      },
+      {
+        "id": "barcelona-museums-5",
+        "name": "FC Barcelona Museum",
+        "cityId": "barcelona",
+        "categoryId": "museums",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=FC%20Barcelona%20Museum%2C%20Barcelona",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/FC_Barcelona_Museum",
+        "photo": null
+      },
+      {
+        "id": "barcelona-museums-6",
+        "name": "Museu Picasso",
+        "cityId": "barcelona",
+        "categoryId": "museums",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Museu%20Picasso%2C%20Barcelona",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Museu_Picasso",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/48/Museu_Picasso_Barcelona.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Museu_Picasso"
+        }
+      },
+      {
+        "id": "barcelona-museums-7",
+        "name": "Palau Blaugrana",
+        "cityId": "barcelona",
+        "categoryId": "museums",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Palau%20Blaugrana%2C%20Barcelona",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Palau_Blaugrana",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Palau_Blaugrana_03.jpg/960px-Palau_Blaugrana_03.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Palau_Blaugrana"
+        }
+      },
+      {
+        "id": "barcelona-museums-8",
+        "name": "Museu de la Música de Barcelona",
+        "cityId": "barcelona",
+        "categoryId": "museums",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Museu%20de%20la%20M%C3%BAsica%20de%20Barcelona%2C%20Barcelona",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Museu_de_la_M%C3%BAsica_de_Barcelona",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Fa%C3%A7ana_del_Museu_de_la_M%C3%BAsica_de_Barcelona.JPG/960px-Fa%C3%A7ana_del_Museu_de_la_M%C3%BAsica_de_Barcelona.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Museu_de_la_M%C3%BAsica_de_Barcelona"
+        }
+      },
+      {
+        "id": "barcelona-museums-9",
+        "name": "Museu Nacional d'Art de Catalunya",
+        "cityId": "barcelona",
+        "categoryId": "museums",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Museu%20Nacional%20d'Art%20de%20Catalunya%2C%20Barcelona",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Museu_Nacional_d'Art_de_Catalunya",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/Museu_nacional_d%27art_de_catalunya_2.jpg/960px-Museu_nacional_d%27art_de_catalunya_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Museu_Nacional_d'Art_de_Catalunya"
+        }
+      },
+      {
+        "id": "barcelona-museums-10",
+        "name": "Maritime Museum of Barcelona",
+        "cityId": "barcelona",
+        "categoryId": "museums",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Maritime%20Museum%20of%20Barcelona%2C%20Barcelona",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Maritime_Museum_of_Barcelona",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/Drassanes_de_Barcelona.jpg/960px-Drassanes_de_Barcelona.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Maritime_Museum_of_Barcelona"
+        }
+      },
+      {
+        "id": "barcelona-museums-11",
+        "name": "Park Güell",
+        "cityId": "barcelona",
+        "categoryId": "museums",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Park%20G%C3%BCell%2C%20Barcelona",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Park_G%C3%BCell",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Parc_guell_-_panoramio.jpg/960px-Parc_guell_-_panoramio.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Park_G%C3%BCell"
+        }
+      },
+      {
+        "id": "barcelona-museums-12",
+        "name": "Archaeology Museum of Catalonia",
+        "cityId": "barcelona",
+        "categoryId": "museums",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Archaeology%20Museum%20of%20Catalonia%2C%20Barcelona",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Archaeology_Museum_of_Catalonia",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/%28Barcelona%29_Museu_d%27Arqueologia_de_Catalunya_-_Entrance.jpg/960px-%28Barcelona%29_Museu_d%27Arqueologia_de_Catalunya_-_Entrance.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Archaeology_Museum_of_Catalonia"
+        }
+      },
+      {
+        "id": "barcelona-museums-13",
+        "name": "Mini Estadi",
+        "cityId": "barcelona",
+        "categoryId": "museums",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Mini%20Estadi%2C%20Barcelona",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Mini_Estadi",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/Mini_Estadi_FCB.jpg/960px-Mini_Estadi_FCB.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Mini_Estadi"
+        }
+      },
+      {
+        "id": "barcelona-museums-14",
+        "name": "CosmoCaixa Barcelona",
+        "cityId": "barcelona",
+        "categoryId": "museums",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=CosmoCaixa%20Barcelona%2C%20Barcelona",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/CosmoCaixa_Barcelona",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/CosmoCaixa_building.jpg/960px-CosmoCaixa_building.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/CosmoCaixa_Barcelona"
+        }
+      },
+      {
+        "id": "barcelona-museums-15",
+        "name": "Palau dels Esports de Barcelona",
+        "cityId": "barcelona",
+        "categoryId": "museums",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Palau%20dels%20Esports%20de%20Barcelona%2C%20Barcelona",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Palau_dels_Esports_de_Barcelona",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/Barcelona_Teatre_Musical_-_%28Catalonia%29.jpg/960px-Barcelona_Teatre_Musical_-_%28Catalonia%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Palau_dels_Esports_de_Barcelona"
+        }
+      },
+      {
+        "id": "barcelona-museums-16",
+        "name": "La Barceloneta, Barcelona",
+        "cityId": "barcelona",
+        "categoryId": "museums",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=La%20Barceloneta%2C%20Barcelona%2C%20Barcelona",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/La_Barceloneta%2C_Barcelona",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/Barcelona_Barceloneta.svg/960px-Barcelona_Barceloneta.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/La_Barceloneta%2C_Barcelona"
+        }
+      },
+      {
+        "id": "barcelona-museums-17",
+        "name": "Montjuïc Castle",
+        "cityId": "barcelona",
+        "categoryId": "museums",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Montju%C3%AFc%20Castle%2C%20Barcelona",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Montju%C3%AFc_Castle",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Castell_de_Montjuic_-_Fossat_entrada_-_Barcelona_%28Catalonia%29.jpg/960px-Castell_de_Montjuic_-_Fossat_entrada_-_Barcelona_%28Catalonia%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Montju%C3%AFc_Castle"
+        }
+      },
+      {
+        "id": "barcelona-museums-18",
+        "name": "Museu Barbier-Mueller d'Art Precolombí",
+        "cityId": "barcelona",
+        "categoryId": "museums",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Museu%20Barbier-Mueller%20d'Art%20Precolomb%C3%AD%2C%20Barcelona",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Museu_Barbier-Mueller_d'Art_Precolomb%C3%AD",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Museu_Barbier_Mueller-_carrer_montcada.JPG/960px-Museu_Barbier_Mueller-_carrer_montcada.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Museu_Barbier-Mueller_d'Art_Precolomb%C3%AD"
+        }
+      }
+    ],
+    "concerts": [
+      {
+        "id": "barcelona-concerts-1",
+        "name": "Palau de la Música Catalana",
+        "cityId": "barcelona",
+        "categoryId": "concerts",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Palau%20de%20la%20M%C3%BAsica%20Catalana%2C%20Barcelona",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Palau_de_la_M%C3%BAsica_Catalana",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/22_11_01_Palau_DSCF2611_52502512616_cc1e7db845_k.jpg/960px-22_11_01_Palau_DSCF2611_52502512616_cc1e7db845_k.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Palau_de_la_M%C3%BAsica_Catalana"
+        }
+      },
+      {
+        "id": "barcelona-concerts-2",
+        "name": "Fort Pienc",
+        "cityId": "barcelona",
+        "categoryId": "concerts",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Fort%20Pienc%2C%20Barcelona",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Fort_Pienc",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Pla%C3%A7a_del_Fort_Pienc.jpg/960px-Pla%C3%A7a_del_Fort_Pienc.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Fort_Pienc"
+        }
+      },
+      {
+        "id": "barcelona-concerts-3",
+        "name": "Palau Robert",
+        "cityId": "barcelona",
+        "categoryId": "concerts",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Palau%20Robert%2C%20Barcelona",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Palau_Robert",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Barcelona_Palau_Robert.JPG/960px-Barcelona_Palau_Robert.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Palau_Robert"
+        }
+      },
+      {
+        "id": "barcelona-concerts-4",
+        "name": "Razzmatazz",
+        "cityId": "barcelona",
+        "categoryId": "concerts",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Razzmatazz%2C%20Barcelona",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Razzmatazz_(club)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Salida_de_Razzmatazz.JPG/960px-Salida_de_Razzmatazz.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Razzmatazz_(club)"
+        }
+      },
+      {
+        "id": "barcelona-concerts-5",
+        "name": "Mishima",
+        "cityId": "barcelona",
+        "categoryId": "concerts",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Mishima%2C%20Barcelona",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Mishima_(band)",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/db/Mishima_Mercat_Musica_Viva_de_Vic_2009.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Mishima_(band)"
+        }
+      },
+      {
+        "id": "barcelona-concerts-6",
+        "name": "Arata Isozaki",
+        "cityId": "barcelona",
+        "categoryId": "concerts",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Arata%20Isozaki%2C%20Barcelona",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Arata_Isozaki",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/ARATA_ISOZAKI%2C_ARCHITECT_01.jpg/960px-ARATA_ISOZAKI%2C_ARCHITECT_01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Arata_Isozaki"
+        }
+      },
+      {
+        "id": "barcelona-concerts-7",
+        "name": "European Concert Hall Organisation",
+        "cityId": "barcelona",
+        "categoryId": "concerts",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=European%20Concert%20Hall%20Organisation%2C%20Barcelona",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/European_Concert_Hall_Organisation",
+        "photo": null
+      },
+      {
+        "id": "barcelona-concerts-8",
+        "name": "Pascal Quartet",
+        "cityId": "barcelona",
+        "categoryId": "concerts",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Pascal%20Quartet%2C%20Barcelona",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Pascal_Quartet",
+        "photo": null
+      },
+      {
+        "id": "barcelona-concerts-9",
+        "name": "European Union Prize for Contemporary Architecture",
+        "cityId": "barcelona",
+        "categoryId": "concerts",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=European%20Union%20Prize%20for%20Contemporary%20Architecture%2C%20Barcelona",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/European_Union_Prize_for_Contemporary_Architecture",
+        "photo": null
+      },
+      {
+        "id": "barcelona-concerts-10",
+        "name": "L'Auditori",
+        "cityId": "barcelona",
+        "categoryId": "concerts",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=L'Auditori%2C%20Barcelona",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/L'Auditori",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/L%27Auditori_050529_Barcelona_031.jpg/960px-L%27Auditori_050529_Barcelona_031.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/L'Auditori"
+        }
+      },
+      {
+        "id": "barcelona-concerts-11",
+        "name": "Juan París",
+        "cityId": "barcelona",
+        "categoryId": "concerts",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Juan%20Par%C3%ADs%2C%20Barcelona",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Juan_Par%C3%ADs",
+        "photo": null
+      },
+      {
+        "id": "barcelona-concerts-12",
+        "name": "Ciutat Vella",
+        "cityId": "barcelona",
+        "categoryId": "concerts",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Ciutat%20Vella%2C%20Barcelona",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Ciutat_Vella",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Catedral_de_la_Santa_Cruz_y_Santa_Eulalia_--_2019_--_Barcelona%2C_Espa%C3%B1a.jpg/960px-Catedral_de_la_Santa_Cruz_y_Santa_Eulalia_--_2019_--_Barcelona%2C_Espa%C3%B1a.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Ciutat_Vella"
+        }
+      },
+      {
+        "id": "barcelona-concerts-13",
+        "name": "Jean Nouvel",
+        "cityId": "barcelona",
+        "categoryId": "concerts",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Jean%20Nouvel%2C%20Barcelona",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Jean_Nouvel",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/Jean_Nouvel_2009_Vienna_frontal.jpg/960px-Jean_Nouvel_2009_Vienna_frontal.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Jean_Nouvel"
+        }
+      },
+      {
+        "id": "barcelona-concerts-14",
+        "name": "Otros Aires",
+        "cityId": "barcelona",
+        "categoryId": "concerts",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Otros%20Aires%2C%20Barcelona",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Otros_Aires",
+        "photo": null
+      },
+      {
+        "id": "barcelona-concerts-15",
+        "name": "Iberdrola Tower",
+        "cityId": "barcelona",
+        "categoryId": "concerts",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Iberdrola%20Tower%2C%20Barcelona",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Iberdrola_Tower",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Iberdrola_Tower_2019.jpg/960px-Iberdrola_Tower_2019.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Iberdrola_Tower"
+        }
+      },
+      {
+        "id": "barcelona-concerts-16",
+        "name": "Lleida",
+        "cityId": "barcelona",
+        "categoryId": "concerts",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Lleida%2C%20Barcelona",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Lleida",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/Lleida_-_panoramio_-_Jorge_Franganillo.jpg/960px-Lleida_-_panoramio_-_Jorge_Franganillo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Lleida"
+        }
+      },
+      {
+        "id": "barcelona-concerts-17",
+        "name": "Irina Iordachescu",
+        "cityId": "barcelona",
+        "categoryId": "concerts",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Irina%20Iordachescu%2C%20Barcelona",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Irina_Iordachescu",
+        "photo": null
+      },
+      {
+        "id": "barcelona-concerts-18",
+        "name": "Nottingham Youth Orchestra",
+        "cityId": "barcelona",
+        "categoryId": "concerts",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Nottingham%20Youth%20Orchestra%2C%20Barcelona",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Nottingham_Youth_Orchestra",
+        "photo": null
+      }
+    ],
+    "fashion": [
+      {
+        "id": "barcelona-fashion-1",
+        "name": "Emanuela de Paula",
+        "cityId": "barcelona",
+        "categoryId": "fashion",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Emanuela%20de%20Paula%2C%20Barcelona",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Emanuela_de_Paula",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Emanuelee.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Emanuela_de_Paula"
+        }
+      },
+      {
+        "id": "barcelona-fashion-2",
+        "name": "Stradivarius",
+        "cityId": "barcelona",
+        "categoryId": "fashion",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Stradivarius%2C%20Barcelona",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Stradivarius_(fashion_retailer)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/Stradivarius_in_SM_Aura%2C_BGC.jpg/960px-Stradivarius_in_SM_Aura%2C_BGC.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Stradivarius_(fashion_retailer)"
+        }
+      },
+      {
+        "id": "barcelona-fashion-3",
+        "name": "Alba Vergés",
+        "cityId": "barcelona",
+        "categoryId": "fashion",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Alba%20Verg%C3%A9s%2C%20Barcelona",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Alba_Verg%C3%A9s",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Alba_Verg%C3%A9s_retrat_oficial_2018.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Alba_Verg%C3%A9s"
+        }
+      },
+      {
+        "id": "barcelona-fashion-4",
+        "name": "Tobias Sorensen",
+        "cityId": "barcelona",
+        "categoryId": "fashion",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Tobias%20Sorensen%2C%20Barcelona",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Tobias_Sorensen",
+        "photo": null
+      },
+      {
+        "id": "barcelona-fashion-5",
+        "name": "Sindicato Popular de Vendedores Ambulantes",
+        "cityId": "barcelona",
+        "categoryId": "fashion",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Sindicato%20Popular%20de%20Vendedores%20Ambulantes%2C%20Barcelona",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Sindicato_Popular_de_Vendedores_Ambulantes",
+        "photo": null
+      },
+      {
+        "id": "barcelona-fashion-6",
+        "name": "Francisco Cruzate",
+        "cityId": "barcelona",
+        "categoryId": "fashion",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Francisco%20Cruzate%2C%20Barcelona",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Francisco_Cruzate",
+        "photo": null
+      },
+      {
+        "id": "barcelona-fashion-7",
+        "name": "Hedley Fowler",
+        "cityId": "barcelona",
+        "categoryId": "fashion",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Hedley%20Fowler%2C%20Barcelona",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Hedley_Fowler",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Hedley_Fowler.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Hedley_Fowler"
+        }
+      },
+      {
+        "id": "barcelona-fashion-8",
+        "name": "Mathilda Gvarliani",
+        "cityId": "barcelona",
+        "categoryId": "fashion",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Mathilda%20Gvarliani%2C%20Barcelona",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Mathilda_Gvarliani",
+        "photo": null
+      },
+      {
+        "id": "barcelona-fashion-9",
+        "name": "Henry Grethel",
+        "cityId": "barcelona",
+        "categoryId": "fashion",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Henry%20Grethel%2C%20Barcelona",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Henry_Grethel",
+        "photo": null
+      },
+      {
+        "id": "barcelona-fashion-10",
+        "name": "Penélope Cruz",
+        "cityId": "barcelona",
+        "categoryId": "fashion",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Pen%C3%A9lope%20Cruz%2C%20Barcelona",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Pen%C3%A9lope_Cruz",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Pen%C3%A9lope_Cruz_%40_2010_Academy_Awards_%28cropped%29.jpg/960px-Pen%C3%A9lope_Cruz_%40_2010_Academy_Awards_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Pen%C3%A9lope_Cruz"
+        }
+      },
+      {
+        "id": "barcelona-fashion-11",
+        "name": "David Goldblatt",
+        "cityId": "barcelona",
+        "categoryId": "fashion",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=David%20Goldblatt%2C%20Barcelona",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/David_Goldblatt",
+        "photo": null
+      },
+      {
+        "id": "barcelona-fashion-12",
+        "name": "Lily Collins",
+        "cityId": "barcelona",
+        "categoryId": "fashion",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Lily%20Collins%2C%20Barcelona",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Lily_Collins",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Lily_Collins_May_2019.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Lily_Collins"
+        }
+      },
+      {
+        "id": "barcelona-fashion-13",
+        "name": "BWO",
+        "cityId": "barcelona",
+        "categoryId": "fashion",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=BWO%2C%20Barcelona",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/BWO_(band)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/BodiesWithoutOrgans.jpg/960px-BodiesWithoutOrgans.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/BWO_(band)"
+        }
+      },
+      {
+        "id": "barcelona-fashion-14",
+        "name": "Roberto Bautista Agut",
+        "cityId": "barcelona",
+        "categoryId": "fashion",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Roberto%20Bautista%20Agut%2C%20Barcelona",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Roberto_Bautista_Agut",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Bautista_Agut_MCM23_%2814%29_%2852883313449%29.jpg/960px-Bautista_Agut_MCM23_%2814%29_%2852883313449%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Roberto_Bautista_Agut"
+        }
+      },
+      {
+        "id": "barcelona-fashion-15",
+        "name": "El Dorado World Tour",
+        "cityId": "barcelona",
+        "categoryId": "fashion",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=El%20Dorado%20World%20Tour%2C%20Barcelona",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/El_Dorado_World_Tour",
+        "photo": null
+      },
+      {
+        "id": "barcelona-fashion-16",
+        "name": "Royston Drenthe",
+        "cityId": "barcelona",
+        "categoryId": "fashion",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Royston%20Drenthe%2C%20Barcelona",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Royston_Drenthe",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Royston_Drenthe_-_H%C3%A8rcules.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Royston_Drenthe"
+        }
+      },
+      {
+        "id": "barcelona-fashion-17",
+        "name": "Josemaría Escrivá",
+        "cityId": "barcelona",
+        "categoryId": "fashion",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Josemar%C3%ADa%20Escriv%C3%A1%2C%20Barcelona",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Josemar%C3%ADa_Escriv%C3%A1",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/Josemaria_Escriva.jpg/960px-Josemaria_Escriva.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Josemar%C3%ADa_Escriv%C3%A1"
+        }
+      },
+      {
+        "id": "barcelona-fashion-18",
+        "name": "The Forum Shops at Caesars",
+        "cityId": "barcelona",
+        "categoryId": "fashion",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Forum%20Shops%20at%20Caesars%2C%20Barcelona",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/The_Forum_Shops_at_Caesars",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Caesars_Palace%2C_Las_Vegas_%285527011351%29.jpg/960px-Caesars_Palace%2C_Las_Vegas_%285527011351%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/The_Forum_Shops_at_Caesars"
+        }
+      }
+    ],
+    "shops": [
+      {
+        "id": "barcelona-shops-1",
+        "name": ".bcn",
+        "cityId": "barcelona",
+        "categoryId": "shops",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=.bcn%2C%20Barcelona",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/.bcn",
+        "photo": null
+      },
+      {
+        "id": "barcelona-shops-2",
+        "name": "CosmoCaixa Barcelona",
+        "cityId": "barcelona",
+        "categoryId": "shops",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=CosmoCaixa%20Barcelona%2C%20Barcelona",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/CosmoCaixa_Barcelona",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/CosmoCaixa_building.jpg/960px-CosmoCaixa_building.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/CosmoCaixa_Barcelona"
+        }
+      },
+      {
+        "id": "barcelona-shops-3",
+        "name": "Fotogramas",
+        "cityId": "barcelona",
+        "categoryId": "shops",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Fotogramas%2C%20Barcelona",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Fotogramas",
+        "photo": null
+      },
+      {
+        "id": "barcelona-shops-4",
+        "name": "Carlos Padrós",
+        "cityId": "barcelona",
+        "categoryId": "shops",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Carlos%20Padr%C3%B3s%2C%20Barcelona",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Carlos_Padr%C3%B3s",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/56/Carlos_Padr%C3%B3s.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Carlos_Padr%C3%B3s"
+        }
+      },
+      {
+        "id": "barcelona-shops-5",
+        "name": ".shop",
+        "cityId": "barcelona",
+        "categoryId": "shops",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=.shop%2C%20Barcelona",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/.shop",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/DotShop_gTLD_logo.svg/960px-DotShop_gTLD_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/.shop"
+        }
+      },
+      {
+        "id": "barcelona-shops-6",
+        "name": "Rabasa Cycles",
+        "cityId": "barcelona",
+        "categoryId": "shops",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Rabasa%20Cycles%2C%20Barcelona",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Rabasa_Cycles",
+        "photo": null
+      },
+      {
+        "id": "barcelona-shops-7",
+        "name": ".xyz",
+        "cityId": "barcelona",
+        "categoryId": "shops",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=.xyz%2C%20Barcelona",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/.xyz",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/.xyz_logo.svg/960px-.xyz_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/.xyz"
+        }
+      },
+      {
+        "id": "barcelona-shops-8",
+        "name": "24th Independent Spirit Awards",
+        "cityId": "barcelona",
+        "categoryId": "shops",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=24th%20Independent%20Spirit%20Awards%2C%20Barcelona",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/24th_Independent_Spirit_Awards",
+        "photo": null
+      },
+      {
+        "id": "barcelona-shops-9",
+        "name": ".bible",
+        "cityId": "barcelona",
+        "categoryId": "shops",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=.bible%2C%20Barcelona",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/.bible",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/8f/DotBible_gTLD_logo.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/.bible"
+        }
+      },
+      {
+        "id": "barcelona-shops-10",
+        "name": ".invalid",
+        "cityId": "barcelona",
+        "categoryId": "shops",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=.invalid%2C%20Barcelona",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/.invalid",
+        "photo": null
+      },
+      {
+        "id": "barcelona-shops-11",
+        "name": ".localhost",
+        "cityId": "barcelona",
+        "categoryId": "shops",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=.localhost%2C%20Barcelona",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/.localhost",
+        "photo": null
+      },
+      {
+        "id": "barcelona-shops-12",
+        "name": "Give-away shop",
+        "cityId": "barcelona",
+        "categoryId": "shops",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Give-away%20shop%2C%20Barcelona",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Give-away_shop",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Umsonstladen_Freiburg.jpg/960px-Umsonstladen_Freiburg.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Give-away_shop"
+        }
+      },
+      {
+        "id": "barcelona-shops-13",
+        "name": ".geo",
+        "cityId": "barcelona",
+        "categoryId": "shops",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=.geo%2C%20Barcelona",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/.geo",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/51/Dotgeo.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/.geo"
+        }
+      },
+      {
+        "id": "barcelona-shops-14",
+        "name": ".example",
+        "cityId": "barcelona",
+        "categoryId": "shops",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=.example%2C%20Barcelona",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/.example",
+        "photo": null
+      },
+      {
+        "id": "barcelona-shops-15",
+        "name": ".nato",
+        "cityId": "barcelona",
+        "categoryId": "shops",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=.nato%2C%20Barcelona",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/.nato",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/NATO_OTAN_landscape_logo.svg/960px-NATO_OTAN_landscape_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/.nato"
+        }
+      },
+      {
+        "id": "barcelona-shops-16",
+        "name": ".site",
+        "cityId": "barcelona",
+        "categoryId": "shops",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=.site%2C%20Barcelona",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/.site",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/DotSite_domain_logo_2021.svg/960px-DotSite_domain_logo_2021.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/.site"
+        }
+      },
+      {
+        "id": "barcelona-shops-17",
+        "name": "Gabinet de les Arts Gràfiques",
+        "cityId": "barcelona",
+        "categoryId": "shops",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Gabinet%20de%20les%20Arts%20Gr%C3%A0fiques%2C%20Barcelona",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Gabinet_de_les_Arts_Gr%C3%A0fiques",
+        "photo": null
+      },
+      {
+        "id": "barcelona-shops-18",
+        "name": ".realtor",
+        "cityId": "barcelona",
+        "categoryId": "shops",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=.realtor%2C%20Barcelona",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/.realtor",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Logo_DotRealtor_DotRealEstate.svg/960px-Logo_DotRealtor_DotRealEstate.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/.realtor"
+        }
+      }
+    ]
+  }
+}

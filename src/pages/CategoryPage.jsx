@@ -1,13 +1,15 @@
-import { useState } from 'react'
+import { useEffect, useMemo, useState } from 'react'
 import { useParams } from 'react-router-dom'
 import { useTranslation } from 'react-i18next'
 import { getCity } from '../data/cities'
 import { getCategory, localizedCategoryLabel } from '../data/categories'
 import { localizedName } from '../i18n'
-import { DEBOUNCE_MS } from '../config'
+import { DEBOUNCE_MS, HAS_GOOGLE_KEY } from '../config'
 import { useDebouncedValue } from '../hooks/useDebouncedValue'
 import { usePlaceResults } from '../hooks/usePlaceResults'
 import { useFavorites } from '../hooks/useFavorites'
+import { useLocalDataPreference } from '../hooks/useLocalDataPreference'
+import { getHardcodedPlaces } from '../services/hardcodedPlaces'
 import PlaceCard from '../components/PlaceCard'
 import { LoadingGrid, ErrorState, EmptyState } from '../components/StateViews'
 
@@ -20,13 +22,51 @@ export default function CategoryPage() {
   const city = getCity(cityId)
   const category = getCategory(categoryId)
   const { favorites, toggle } = useFavorites()
+  const [useLocalPreference] = useLocalDataPreference()
 
-  const results = usePlaceResults({
+  // Sin clave siempre usamos los datos locales; con clave, el usuario puede forzarlos.
+  const localMode = !HAS_GOOGLE_KEY || useLocalPreference
+
+  const apiResults = usePlaceResults({
     cityId: city.id,
     categoryId: category.id,
     query,
+    enabled: !localMode,
     refreshKey: String(retry),
   })
+
+  const [local, setLocal] = useState({ places: [], loading: true, error: null })
+  useEffect(() => {
+    if (!localMode) return undefined
+    const controller = new AbortController()
+    setLocal({ places: [], loading: true, error: null })
+    getHardcodedPlaces(city.id, category.id, controller.signal)
+      .then((places) => {
+        if (!controller.signal.aborted) setLocal({ places, loading: false, error: null })
+      })
+      .catch((error) => {
+        if (error.name === 'AbortError' || controller.signal.aborted) return
+        setLocal({ places: [], loading: false, error: error.message })
+      })
+    return () => controller.abort()
+  }, [localMode, city.id, category.id])
+
+  const results = localMode
+    ? {
+        ...local,
+        loaded: !local.loading && !local.error,
+        nextPageToken: null,
+        loadMore: () => {},
+      }
+    : apiResults
+
+  const places = useMemo(() => {
+    const term = query.trim().toLowerCase()
+    if (!term) return results.places
+    return results.places.filter((place) =>
+      place.name.toLowerCase().includes(term) || (place.address || '').toLowerCase().includes(term)
+    )
+  }, [results.places, query])
 
   const cityName = localizedName(city.names, city.name, i18n.language)
   const categoryName = localizedCategoryLabel(category, i18n.language)
@@ -50,13 +90,13 @@ export default function CategoryPage() {
       {results.error && (
         <ErrorState message={results.error} onRetry={() => setRetry((n) => n + 1)} />
       )}
-      {!results.error && results.loaded && results.places.length === 0 && (
+      {!results.error && results.loaded && places.length === 0 && (
         <EmptyState message={t('common.noResults')} />
       )}
-      {!results.error && results.places.length > 0 && (
+      {!results.error && places.length > 0 && (
         <>
           <div className="vgrid">
-            {results.places.map((place) => (
+            {places.map((place) => (
               <PlaceCard
                 key={place.id}
                 place={place}

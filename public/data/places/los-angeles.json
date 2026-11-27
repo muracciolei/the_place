@@ -1,0 +1,2313 @@
+{
+  "cityId": "los-angeles",
+  "generatedAt": "2026-11-27T08:26:26.263Z",
+  "source": "Wikipedia API + Maps URLs (sin scraping de Google)",
+  "incomplete": [],
+  "categories": {
+    "night_clubs": [
+      {
+        "id": "los-angeles-night_clubs-1",
+        "name": "Troubadour",
+        "cityId": "los-angeles",
+        "categoryId": "night_clubs",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Troubadour%2C%20Los%20Angeles",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Troubadour_(West_Hollywood%2C_California)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/2026-5-7_VENUE_JR_004.jpg/960px-2026-5-7_VENUE_JR_004.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Troubadour_(West_Hollywood%2C_California)"
+        }
+      },
+      {
+        "id": "los-angeles-night_clubs-2",
+        "name": "Mocambo",
+        "cityId": "los-angeles",
+        "categoryId": "night_clubs",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Mocambo%2C%20Los%20Angeles",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Mocambo_(nightclub)",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/11/Mocambo_Neon_Sign_1955.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Mocambo_(nightclub)"
+        }
+      },
+      {
+        "id": "los-angeles-night_clubs-3",
+        "name": "The Viper Room",
+        "cityId": "los-angeles",
+        "categoryId": "night_clubs",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Viper%20Room%2C%20Los%20Angeles",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/The_Viper_Room",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/Viper_Room.jpg/960px-Viper_Room.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/The_Viper_Room"
+        }
+      },
+      {
+        "id": "los-angeles-night_clubs-4",
+        "name": "Starwood",
+        "cityId": "los-angeles",
+        "categoryId": "night_clubs",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Starwood%2C%20Los%20Angeles",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Starwood_(nightclub)",
+        "photo": null
+      },
+      {
+        "id": "los-angeles-night_clubs-5",
+        "name": "Largo",
+        "cityId": "los-angeles",
+        "categoryId": "night_clubs",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Largo%2C%20Los%20Angeles",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Largo_(nightclub)",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/LargoLA.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Largo_(nightclub)"
+        }
+      },
+      {
+        "id": "los-angeles-night_clubs-6",
+        "name": "Sam Nazarian",
+        "cityId": "los-angeles",
+        "categoryId": "night_clubs",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Sam%20Nazarian%2C%20Los%20Angeles",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Sam_Nazarian",
+        "photo": null
+      },
+      {
+        "id": "los-angeles-night_clubs-7",
+        "name": "Studio One",
+        "cityId": "los-angeles",
+        "categoryId": "night_clubs",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Studio%20One%2C%20Los%20Angeles",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Studio_One_(nightclub)",
+        "photo": null
+      },
+      {
+        "id": "los-angeles-night_clubs-8",
+        "name": "London Fog",
+        "cityId": "los-angeles",
+        "categoryId": "night_clubs",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=London%20Fog%2C%20Los%20Angeles",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/London_Fog_(nightclub)",
+        "photo": null
+      },
+      {
+        "id": "los-angeles-night_clubs-9",
+        "name": "Fisherman's Village",
+        "cityId": "los-angeles",
+        "categoryId": "night_clubs",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Fisherman's%20Village%2C%20Los%20Angeles",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Fisherman's_Village",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/92/Fishermen%27s_Village_Lighthouse.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Fisherman's_Village"
+        }
+      },
+      {
+        "id": "los-angeles-night_clubs-10",
+        "name": "Redd Foxx",
+        "cityId": "los-angeles",
+        "categoryId": "night_clubs",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Redd%20Foxx%2C%20Los%20Angeles",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Redd_Foxx",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Redd_Foxx_1966.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Redd_Foxx"
+        }
+      },
+      {
+        "id": "los-angeles-night_clubs-11",
+        "name": "Whisky a Go Go",
+        "cityId": "los-angeles",
+        "categoryId": "night_clubs",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Whisky%20a%20Go%20Go%2C%20Los%20Angeles",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Whisky_a_Go_Go",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/Whisky_a_Go-Go.jpg/960px-Whisky_a_Go-Go.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Whisky_a_Go_Go"
+        }
+      },
+      {
+        "id": "los-angeles-night_clubs-12",
+        "name": "Gazzarri's",
+        "cityId": "los-angeles",
+        "categoryId": "night_clubs",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Gazzarri's%2C%20Los%20Angeles",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Gazzarri's",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Antix_Gazzarris.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Gazzarri's"
+        }
+      },
+      {
+        "id": "los-angeles-night_clubs-13",
+        "name": "The Echo",
+        "cityId": "los-angeles",
+        "categoryId": "night_clubs",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Echo%2C%20Los%20Angeles",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/The_Echo_(venue)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Hotel_Cinema_4_05_2014_-11_%2813678729843%29.jpg/960px-Hotel_Cinema_4_05_2014_-11_%2813678729843%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/The_Echo_(venue)"
+        }
+      },
+      {
+        "id": "los-angeles-night_clubs-14",
+        "name": "Mohamed Hadid",
+        "cityId": "los-angeles",
+        "categoryId": "night_clubs",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Mohamed%20Hadid%2C%20Los%20Angeles",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Mohamed_Hadid",
+        "photo": null
+      },
+      {
+        "id": "los-angeles-night_clubs-15",
+        "name": "Pandora's Box",
+        "cityId": "los-angeles",
+        "categoryId": "night_clubs",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Pandora's%20Box%2C%20Los%20Angeles",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Pandora's_Box_(nightclub)",
+        "photo": null
+      },
+      {
+        "id": "los-angeles-night_clubs-16",
+        "name": "Wonderland murders",
+        "cityId": "los-angeles",
+        "categoryId": "night_clubs",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Wonderland%20murders%2C%20Los%20Angeles",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Wonderland_murders",
+        "photo": null
+      },
+      {
+        "id": "los-angeles-night_clubs-17",
+        "name": "Victor Drai",
+        "cityId": "los-angeles",
+        "categoryId": "night_clubs",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Victor%20Drai%2C%20Los%20Angeles",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Victor_Drai",
+        "photo": null
+      },
+      {
+        "id": "los-angeles-night_clubs-18",
+        "name": "Hollywood Masonic Temple",
+        "cityId": "los-angeles",
+        "categoryId": "night_clubs",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Hollywood%20Masonic%20Temple%2C%20Los%20Angeles",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Hollywood_Masonic_Temple",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/Hollywood_Masonic_Temple.JPG/960px-Hollywood_Masonic_Temple.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Hollywood_Masonic_Temple"
+        }
+      }
+    ],
+    "restaurants": [
+      {
+        "id": "los-angeles-restaurants-1",
+        "name": "Philippe the Original",
+        "cityId": "los-angeles",
+        "categoryId": "restaurants",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Philippe%20the%20Original%2C%20Los%20Angeles",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Philippe_the_Original",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/120207-LA-Philippes.jpg/960px-120207-LA-Philippes.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Philippe_the_Original"
+        }
+      },
+      {
+        "id": "los-angeles-restaurants-2",
+        "name": "La Cienega Boulevard",
+        "cityId": "los-angeles",
+        "categoryId": "restaurants",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=La%20Cienega%20Boulevard%2C%20Los%20Angeles",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/La_Cienega_Boulevard",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/La_Cienega_map.jpg/960px-La_Cienega_map.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/La_Cienega_Boulevard"
+        }
+      },
+      {
+        "id": "los-angeles-restaurants-3",
+        "name": "Château Élysée",
+        "cityId": "los-angeles",
+        "categoryId": "restaurants",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Ch%C3%A2teau%20%C3%89lys%C3%A9e%2C%20Los%20Angeles",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Ch%C3%A2teau_%C3%89lys%C3%A9e",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/CelebrityCentre.jpg/960px-CelebrityCentre.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Ch%C3%A2teau_%C3%89lys%C3%A9e"
+        }
+      },
+      {
+        "id": "los-angeles-restaurants-4",
+        "name": "El Mercado de Los Ángeles",
+        "cityId": "los-angeles",
+        "categoryId": "restaurants",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=El%20Mercado%20de%20Los%20%C3%81ngeles%2C%20Los%20Angeles",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/El_Mercado_de_Los_%C3%81ngeles",
+        "photo": null
+      },
+      {
+        "id": "los-angeles-restaurants-5",
+        "name": "Zankou Chicken",
+        "cityId": "los-angeles",
+        "categoryId": "restaurants",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Zankou%20Chicken%2C%20Los%20Angeles",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Zankou_Chicken",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/en/thumb/e/ef/Zankou_Chicken_Order.jpg/960px-Zankou_Chicken_Order.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Zankou_Chicken"
+        }
+      },
+      {
+        "id": "los-angeles-restaurants-6",
+        "name": "IHOP",
+        "cityId": "los-angeles",
+        "categoryId": "restaurants",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=IHOP%2C%20Los%20Angeles",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/IHOP",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/IHOP_logo.svg/960px-IHOP_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/IHOP"
+        }
+      },
+      {
+        "id": "los-angeles-restaurants-7",
+        "name": "Louisiana Famous Fried Chicken",
+        "cityId": "los-angeles",
+        "categoryId": "restaurants",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Louisiana%20Famous%20Fried%20Chicken%2C%20Los%20Angeles",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Louisiana_Famous_Fried_Chicken",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Louisianafamousfriedchicken.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Louisiana_Famous_Fried_Chicken"
+        }
+      },
+      {
+        "id": "los-angeles-restaurants-8",
+        "name": "Pok Pok",
+        "cityId": "los-angeles",
+        "categoryId": "restaurants",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Pok%20Pok%2C%20Los%20Angeles",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Pok_Pok",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Pok_Pok_Restaurant_%26_Whiskey_Soda_Lounge.jpg/960px-Pok_Pok_Restaurant_%26_Whiskey_Soda_Lounge.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Pok_Pok"
+        }
+      },
+      {
+        "id": "los-angeles-restaurants-9",
+        "name": "Panda Express",
+        "cityId": "los-angeles",
+        "categoryId": "restaurants",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Panda%20Express%2C%20Los%20Angeles",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Panda_Express",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Panda_Express_Storefront_%2848128044623%29.jpg/960px-Panda_Express_Storefront_%2848128044623%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Panda_Express"
+        }
+      },
+      {
+        "id": "los-angeles-restaurants-10",
+        "name": "Wolfgang Puck",
+        "cityId": "los-angeles",
+        "categoryId": "restaurants",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Wolfgang%20Puck%2C%20Los%20Angeles",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Wolfgang_Puck",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Wolfgang_Puck_2012.jpg/960px-Wolfgang_Puck_2012.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Wolfgang_Puck"
+        }
+      },
+      {
+        "id": "los-angeles-restaurants-11",
+        "name": "Michael's",
+        "cityId": "los-angeles",
+        "categoryId": "restaurants",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Michael's%2C%20Los%20Angeles",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Michael's_(restaurant)",
+        "photo": null
+      },
+      {
+        "id": "los-angeles-restaurants-12",
+        "name": "General Porpoise",
+        "cityId": "los-angeles",
+        "categoryId": "restaurants",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=General%20Porpoise%2C%20Los%20Angeles",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/General_Porpoise",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Seattle_%28December_1%2C_2022%29_-_02.jpg/960px-Seattle_%28December_1%2C_2022%29_-_02.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/General_Porpoise"
+        }
+      },
+      {
+        "id": "los-angeles-restaurants-13",
+        "name": "Robeks",
+        "cityId": "los-angeles",
+        "categoryId": "restaurants",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Robeks%2C%20Los%20Angeles",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Robeks",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Robeks_Juice_%28Encino%2C_Los_Angeles%2C_California%29.jpg/960px-Robeks_Juice_%28Encino%2C_Los_Angeles%2C_California%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Robeks"
+        }
+      },
+      {
+        "id": "los-angeles-restaurants-14",
+        "name": "Cornell, Los Angeles County, California",
+        "cityId": "los-angeles",
+        "categoryId": "restaurants",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Cornell%2C%20Los%20Angeles%20County%2C%20California%2C%20Los%20Angeles",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Cornell%2C_Los_Angeles_County%2C_California",
+        "photo": null
+      },
+      {
+        "id": "los-angeles-restaurants-15",
+        "name": "Bavel",
+        "cityId": "los-angeles",
+        "categoryId": "restaurants",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Bavel%2C%20Los%20Angeles",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Bavel_(restaurant)",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Bavel_hummus.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Bavel_(restaurant)"
+        }
+      },
+      {
+        "id": "los-angeles-restaurants-16",
+        "name": "Roscoe's House of Chicken 'N Waffles",
+        "cityId": "los-angeles",
+        "categoryId": "restaurants",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Roscoe's%20House%20of%20Chicken%20'N%20Waffles%2C%20Los%20Angeles",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Roscoe's_House_of_Chicken_'N_Waffles",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Roscoe%27s_Waffles_and_Chicken.JPG/960px-Roscoe%27s_Waffles_and_Chicken.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Roscoe's_House_of_Chicken_'N_Waffles"
+        }
+      },
+      {
+        "id": "los-angeles-restaurants-17",
+        "name": "Little Pine",
+        "cityId": "los-angeles",
+        "categoryId": "restaurants",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Little%20Pine%2C%20Los%20Angeles",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Little_Pine_(restaurant)",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Little_Pine_restaurant.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Little_Pine_(restaurant)"
+        }
+      },
+      {
+        "id": "los-angeles-restaurants-18",
+        "name": "Little Ethiopia, Los Angeles",
+        "cityId": "los-angeles",
+        "categoryId": "restaurants",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Little%20Ethiopia%2C%20Los%20Angeles%2C%20Los%20Angeles",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Little_Ethiopia%2C_Los_Angeles",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/LittleEthiopia_sign.jpg/960px-LittleEthiopia_sign.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Little_Ethiopia%2C_Los_Angeles"
+        }
+      }
+    ],
+    "bars": [
+      {
+        "id": "los-angeles-bars-1",
+        "name": "Walnut Valley Unified School District",
+        "cityId": "los-angeles",
+        "categoryId": "bars",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Walnut%20Valley%20Unified%20School%20District%2C%20Los%20Angeles",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Walnut_Valley_Unified_School_District",
+        "photo": null
+      },
+      {
+        "id": "los-angeles-bars-2",
+        "name": "Loyola Law School",
+        "cityId": "los-angeles",
+        "categoryId": "bars",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Loyola%20Law%20School%2C%20Los%20Angeles",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Loyola_Law_School",
+        "photo": null
+      },
+      {
+        "id": "los-angeles-bars-3",
+        "name": "2008 Los Angeles County Measure R",
+        "cityId": "los-angeles",
+        "categoryId": "bars",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=2008%20Los%20Angeles%20County%20Measure%20R%2C%20Los%20Angeles",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/2008_Los_Angeles_County_Measure_R",
+        "photo": null
+      },
+      {
+        "id": "los-angeles-bars-4",
+        "name": "Diamond Bar, California",
+        "cityId": "los-angeles",
+        "categoryId": "bars",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Diamond%20Bar%2C%20California%2C%20Los%20Angeles",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Diamond_Bar%2C_California",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Diamond_Bar_City_Hills.jpg/960px-Diamond_Bar_City_Hills.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Diamond_Bar%2C_California"
+        }
+      },
+      {
+        "id": "los-angeles-bars-5",
+        "name": "Pomona Unified School District",
+        "cityId": "los-angeles",
+        "categoryId": "bars",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Pomona%20Unified%20School%20District%2C%20Los%20Angeles",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Pomona_Unified_School_District",
+        "photo": null
+      },
+      {
+        "id": "los-angeles-bars-6",
+        "name": "Philippe the Original",
+        "cityId": "los-angeles",
+        "categoryId": "bars",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Philippe%20the%20Original%2C%20Los%20Angeles",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Philippe_the_Original",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/120207-LA-Philippes.jpg/960px-120207-LA-Philippes.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Philippe_the_Original"
+        }
+      },
+      {
+        "id": "los-angeles-bars-7",
+        "name": "The Patch",
+        "cityId": "los-angeles",
+        "categoryId": "bars",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Patch%2C%20Los%20Angeles",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/The_Patch_(bar)",
+        "photo": null
+      },
+      {
+        "id": "los-angeles-bars-8",
+        "name": "Louisiana Famous Fried Chicken",
+        "cityId": "los-angeles",
+        "categoryId": "bars",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Louisiana%20Famous%20Fried%20Chicken%2C%20Los%20Angeles",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Louisiana_Famous_Fried_Chicken",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Louisianafamousfriedchicken.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Louisiana_Famous_Fried_Chicken"
+        }
+      },
+      {
+        "id": "los-angeles-bars-9",
+        "name": "Ryan Wendell",
+        "cityId": "los-angeles",
+        "categoryId": "bars",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Ryan%20Wendell%2C%20Los%20Angeles",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Ryan_Wendell",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Ryan_Wendell.JPG/960px-Ryan_Wendell.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Ryan_Wendell"
+        }
+      },
+      {
+        "id": "los-angeles-bars-10",
+        "name": "Southwestern Law School",
+        "cityId": "los-angeles",
+        "categoryId": "bars",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Southwestern%20Law%20School%2C%20Los%20Angeles",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Southwestern_Law_School",
+        "photo": null
+      },
+      {
+        "id": "los-angeles-bars-11",
+        "name": "Westinghouse Electronics",
+        "cityId": "los-angeles",
+        "categoryId": "bars",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Westinghouse%20Electronics%2C%20Los%20Angeles",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Westinghouse_Electronics",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/Westinghouse_Design_Mark.svg/960px-Westinghouse_Design_Mark.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Westinghouse_Electronics"
+        }
+      },
+      {
+        "id": "los-angeles-bars-12",
+        "name": "University of West Los Angeles",
+        "cityId": "los-angeles",
+        "categoryId": "bars",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=University%20of%20West%20Los%20Angeles%2C%20Los%20Angeles",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/University_of_West_Los_Angeles",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/en/thumb/e/e1/University_of_West_Los_Angeles_%28UWLA%29_logo.jpg/960px-University_of_West_Los_Angeles_%28UWLA%29_logo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/University_of_West_Los_Angeles"
+        }
+      },
+      {
+        "id": "los-angeles-bars-13",
+        "name": "Zankou Chicken",
+        "cityId": "los-angeles",
+        "categoryId": "bars",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Zankou%20Chicken%2C%20Los%20Angeles",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Zankou_Chicken",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/en/thumb/e/ef/Zankou_Chicken_Order.jpg/960px-Zankou_Chicken_Order.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Zankou_Chicken"
+        }
+      },
+      {
+        "id": "los-angeles-bars-14",
+        "name": "USC Gould School of Law",
+        "cityId": "los-angeles",
+        "categoryId": "bars",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=USC%20Gould%20School%20of%20Law%2C%20Los%20Angeles",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/USC_Gould_School_of_Law",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/USC_Law.jpg/960px-USC_Law.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/USC_Gould_School_of_Law"
+        }
+      },
+      {
+        "id": "los-angeles-bars-15",
+        "name": "Catalina Bar & Grill",
+        "cityId": "los-angeles",
+        "categoryId": "bars",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Catalina%20Bar%20%26%20Grill%2C%20Los%20Angeles",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Catalina_Bar_%26_Grill",
+        "photo": null
+      },
+      {
+        "id": "los-angeles-bars-16",
+        "name": "Abraham Lincoln University",
+        "cityId": "los-angeles",
+        "categoryId": "bars",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Abraham%20Lincoln%20University%2C%20Los%20Angeles",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Abraham_Lincoln_University",
+        "photo": null
+      },
+      {
+        "id": "los-angeles-bars-17",
+        "name": "Roscoe's House of Chicken 'N Waffles",
+        "cityId": "los-angeles",
+        "categoryId": "bars",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Roscoe's%20House%20of%20Chicken%20'N%20Waffles%2C%20Los%20Angeles",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Roscoe's_House_of_Chicken_'N_Waffles",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Roscoe%27s_Waffles_and_Chicken.JPG/960px-Roscoe%27s_Waffles_and_Chicken.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Roscoe's_House_of_Chicken_'N_Waffles"
+        }
+      },
+      {
+        "id": "los-angeles-bars-18",
+        "name": "The Hollywood Vampires",
+        "cityId": "los-angeles",
+        "categoryId": "bars",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Hollywood%20Vampires%2C%20Los%20Angeles",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/The_Hollywood_Vampires",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/85/Lair_Of_The_Hollywood_Vampires.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/The_Hollywood_Vampires"
+        }
+      }
+    ],
+    "coffee_shops": [
+      {
+        "id": "los-angeles-coffee_shops-1",
+        "name": "Philippe the Original",
+        "cityId": "los-angeles",
+        "categoryId": "coffee_shops",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Philippe%20the%20Original%2C%20Los%20Angeles",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Philippe_the_Original",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/120207-LA-Philippes.jpg/960px-120207-LA-Philippes.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Philippe_the_Original"
+        }
+      },
+      {
+        "id": "los-angeles-coffee_shops-2",
+        "name": "Daphne's Greek Cafe",
+        "cityId": "los-angeles",
+        "categoryId": "coffee_shops",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Daphne's%20Greek%20Cafe%2C%20Los%20Angeles",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Daphne's_Greek_Cafe",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/Daphne%27s_Greek_Cafe_logo.svg/960px-Daphne%27s_Greek_Cafe_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Daphne's_Greek_Cafe"
+        }
+      },
+      {
+        "id": "los-angeles-coffee_shops-3",
+        "name": "Zankou Chicken",
+        "cityId": "los-angeles",
+        "categoryId": "coffee_shops",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Zankou%20Chicken%2C%20Los%20Angeles",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Zankou_Chicken",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/en/thumb/e/ef/Zankou_Chicken_Order.jpg/960px-Zankou_Chicken_Order.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Zankou_Chicken"
+        }
+      },
+      {
+        "id": "los-angeles-coffee_shops-4",
+        "name": "Louisiana Famous Fried Chicken",
+        "cityId": "los-angeles",
+        "categoryId": "coffee_shops",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Louisiana%20Famous%20Fried%20Chicken%2C%20Los%20Angeles",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Louisiana_Famous_Fried_Chicken",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Louisianafamousfriedchicken.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Louisiana_Famous_Fried_Chicken"
+        }
+      },
+      {
+        "id": "los-angeles-coffee_shops-5",
+        "name": "Crumbs and Whiskers",
+        "cityId": "los-angeles",
+        "categoryId": "coffee_shops",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Crumbs%20and%20Whiskers%2C%20Los%20Angeles",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Crumbs_and_Whiskers",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Crumbs_and_Whiskers.jpg/960px-Crumbs_and_Whiskers.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Crumbs_and_Whiskers"
+        }
+      },
+      {
+        "id": "los-angeles-coffee_shops-6",
+        "name": "99 Oaks, California",
+        "cityId": "los-angeles",
+        "categoryId": "coffee_shops",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=99%20Oaks%2C%20California%2C%20Los%20Angeles",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/99_Oaks%2C_California",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/73/99_oaks_cafe_near_Castaic_california_date_unknown.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/99_Oaks%2C_California"
+        }
+      },
+      {
+        "id": "los-angeles-coffee_shops-7",
+        "name": "Roscoe's House of Chicken 'N Waffles",
+        "cityId": "los-angeles",
+        "categoryId": "coffee_shops",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Roscoe's%20House%20of%20Chicken%20'N%20Waffles%2C%20Los%20Angeles",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Roscoe's_House_of_Chicken_'N_Waffles",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Roscoe%27s_Waffles_and_Chicken.JPG/960px-Roscoe%27s_Waffles_and_Chicken.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Roscoe's_House_of_Chicken_'N_Waffles"
+        }
+      },
+      {
+        "id": "los-angeles-coffee_shops-8",
+        "name": "El Cholo Spanish Cafe",
+        "cityId": "los-angeles",
+        "categoryId": "coffee_shops",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=El%20Cholo%20Spanish%20Cafe%2C%20Los%20Angeles",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/El_Cholo_Spanish_Cafe",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/30/El_Cholo_Spanish_Cafe_sign.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/El_Cholo_Spanish_Cafe"
+        }
+      },
+      {
+        "id": "los-angeles-coffee_shops-9",
+        "name": "Michael's",
+        "cityId": "los-angeles",
+        "categoryId": "coffee_shops",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Michael's%2C%20Los%20Angeles",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Michael's_(restaurant)",
+        "photo": null
+      },
+      {
+        "id": "los-angeles-coffee_shops-10",
+        "name": "Largo",
+        "cityId": "los-angeles",
+        "categoryId": "coffee_shops",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Largo%2C%20Los%20Angeles",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Largo_(nightclub)",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/LargoLA.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Largo_(nightclub)"
+        }
+      },
+      {
+        "id": "los-angeles-coffee_shops-11",
+        "name": "Lighthouse Café",
+        "cityId": "los-angeles",
+        "categoryId": "coffee_shops",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Lighthouse%20Caf%C3%A9%2C%20Los%20Angeles",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Lighthouse_Caf%C3%A9",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Thelighthousecafebackside.jpg/960px-Thelighthousecafebackside.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Lighthouse_Caf%C3%A9"
+        }
+      },
+      {
+        "id": "los-angeles-coffee_shops-12",
+        "name": "Pioneer Chicken",
+        "cityId": "los-angeles",
+        "categoryId": "coffee_shops",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Pioneer%20Chicken%2C%20Los%20Angeles",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Pioneer_Chicken",
+        "photo": null
+      },
+      {
+        "id": "los-angeles-coffee_shops-13",
+        "name": "Bavel",
+        "cityId": "los-angeles",
+        "categoryId": "coffee_shops",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Bavel%2C%20Los%20Angeles",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Bavel_(restaurant)",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Bavel_hummus.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Bavel_(restaurant)"
+        }
+      },
+      {
+        "id": "los-angeles-coffee_shops-14",
+        "name": "Catalina Bar & Grill",
+        "cityId": "los-angeles",
+        "categoryId": "coffee_shops",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Catalina%20Bar%20%26%20Grill%2C%20Los%20Angeles",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Catalina_Bar_%26_Grill",
+        "photo": null
+      },
+      {
+        "id": "los-angeles-coffee_shops-15",
+        "name": "Little Pine",
+        "cityId": "los-angeles",
+        "categoryId": "coffee_shops",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Little%20Pine%2C%20Los%20Angeles",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Little_Pine_(restaurant)",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Little_Pine_restaurant.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Little_Pine_(restaurant)"
+        }
+      },
+      {
+        "id": "los-angeles-coffee_shops-16",
+        "name": "Three Points, California",
+        "cityId": "los-angeles",
+        "categoryId": "coffee_shops",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Three%20Points%2C%20California%2C%20Los%20Angeles",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Three_Points%2C_California",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/12/Three-Points-Welcome.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Three_Points%2C_California"
+        }
+      },
+      {
+        "id": "los-angeles-coffee_shops-17",
+        "name": "Cole's Pacific Electric Buffet",
+        "cityId": "los-angeles",
+        "categoryId": "coffee_shops",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Cole's%20Pacific%20Electric%20Buffet%2C%20Los%20Angeles",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Cole's_Pacific_Electric_Buffet",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Cole%27s_Pacific_Electric_Buffet_-_March_29%2C_2026_closing_day_exterior.jpg/960px-Cole%27s_Pacific_Electric_Buffet_-_March_29%2C_2026_closing_day_exterior.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Cole's_Pacific_Electric_Buffet"
+        }
+      },
+      {
+        "id": "los-angeles-coffee_shops-18",
+        "name": "Original Tommy's",
+        "cityId": "los-angeles",
+        "categoryId": "coffee_shops",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Original%20Tommy's%2C%20Los%20Angeles",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Original_Tommy's",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/052607-004-TommysChiliFries.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Original_Tommy's"
+        }
+      }
+    ],
+    "bookshops": [
+      {
+        "id": "los-angeles-bookshops-1",
+        "name": "Vroman's Bookstore",
+        "cityId": "los-angeles",
+        "categoryId": "bookshops",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Vroman's%20Bookstore%2C%20Los%20Angeles",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Vroman's_Bookstore",
+        "photo": null
+      },
+      {
+        "id": "los-angeles-bookshops-2",
+        "name": "A Different Light",
+        "cityId": "los-angeles",
+        "categoryId": "bookshops",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=A%20Different%20Light%2C%20Los%20Angeles",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/A_Different_Light_(bookstore)",
+        "photo": null
+      },
+      {
+        "id": "los-angeles-bookshops-3",
+        "name": "The Last Bookstore",
+        "cityId": "los-angeles",
+        "categoryId": "bookshops",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Last%20Bookstore%2C%20Los%20Angeles",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/The_Last_Bookstore",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/The_Last_Bookstore_%2819270292680%29.jpg/960px-The_Last_Bookstore_%2819270292680%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/The_Last_Bookstore"
+        }
+      },
+      {
+        "id": "los-angeles-bookshops-4",
+        "name": "Bodhi Tree Bookstore",
+        "cityId": "los-angeles",
+        "categoryId": "bookshops",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Bodhi%20Tree%20Bookstore%2C%20Los%20Angeles",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Bodhi_Tree_Bookstore",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/07/Bodhi_Tree_Bookstore_-_1970s_front_of_old_bldg.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Bodhi_Tree_Bookstore"
+        }
+      },
+      {
+        "id": "los-angeles-bookshops-5",
+        "name": "Book Soup",
+        "cityId": "los-angeles",
+        "categoryId": "bookshops",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Book%20Soup%2C%20Los%20Angeles",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Book_Soup",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/BookSoup02.jpg/960px-BookSoup02.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Book_Soup"
+        }
+      },
+      {
+        "id": "los-angeles-bookshops-6",
+        "name": "Tia Chucha's Centro Cultural",
+        "cityId": "los-angeles",
+        "categoryId": "bookshops",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Tia%20Chucha's%20Centro%20Cultural%2C%20Los%20Angeles",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Tia_Chucha's_Centro_Cultural",
+        "photo": null
+      },
+      {
+        "id": "los-angeles-bookshops-7",
+        "name": "The Writer's Block",
+        "cityId": "los-angeles",
+        "categoryId": "bookshops",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Writer's%20Block%2C%20Los%20Angeles",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/The_Writer's_Block",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/The_Writer%27s_Block_bookstore_in_downtown_Las_Vegas.jpg/960px-The_Writer%27s_Block_bookstore_in_downtown_Las_Vegas.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/The_Writer's_Block"
+        }
+      },
+      {
+        "id": "los-angeles-bookshops-8",
+        "name": "Sammy Harkham",
+        "cityId": "los-angeles",
+        "categoryId": "bookshops",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Sammy%20Harkham%2C%20Los%20Angeles",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Sammy_Harkham",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Sammy_Harkham_by_Gage_Skidmore.jpg/960px-Sammy_Harkham_by_Gage_Skidmore.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Sammy_Harkham"
+        }
+      },
+      {
+        "id": "los-angeles-bookshops-9",
+        "name": "Independent bookstore",
+        "cityId": "los-angeles",
+        "categoryId": "bookshops",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Independent%20bookstore%2C%20Los%20Angeles",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Independent_bookstore",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Stoke_Newington_Bookshop%2C_London.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Independent_bookstore"
+        }
+      },
+      {
+        "id": "los-angeles-bookshops-10",
+        "name": "Midnight Special Bookstore",
+        "cityId": "los-angeles",
+        "categoryId": "bookshops",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Midnight%20Special%20Bookstore%2C%20Los%20Angeles",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Midnight_Special_Bookstore",
+        "photo": null
+      },
+      {
+        "id": "los-angeles-bookshops-11",
+        "name": "Ellen",
+        "cityId": "los-angeles",
+        "categoryId": "bookshops",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Ellen%2C%20Los%20Angeles",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Ellen_(TV_series)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Ellen_%28ABC_network_sitcom%29_logo.svg/960px-Ellen_%28ABC_network_sitcom%29_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Ellen_(TV_series)"
+        }
+      },
+      {
+        "id": "los-angeles-bookshops-12",
+        "name": "Eso Won Books",
+        "cityId": "los-angeles",
+        "categoryId": "bookshops",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Eso%20Won%20Books%2C%20Los%20Angeles",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Eso_Won_Books",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Eso_Won_Books_Los_Angeles_2021.jpg/960px-Eso_Won_Books_Los_Angeles_2021.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Eso_Won_Books"
+        }
+      },
+      {
+        "id": "los-angeles-bookshops-13",
+        "name": "Dawson's Book Shop",
+        "cityId": "los-angeles",
+        "categoryId": "bookshops",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Dawson's%20Book%20Shop%2C%20Los%20Angeles",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Dawson's_Book_Shop",
+        "photo": null
+      },
+      {
+        "id": "los-angeles-bookshops-14",
+        "name": "Dutton's Books",
+        "cityId": "los-angeles",
+        "categoryId": "bookshops",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Dutton's%20Books%2C%20Los%20Angeles",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Dutton's_Books",
+        "photo": null
+      },
+      {
+        "id": "los-angeles-bookshops-15",
+        "name": "Beyond Baroque Literary Arts Center",
+        "cityId": "los-angeles",
+        "categoryId": "bookshops",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Beyond%20Baroque%20Literary%20Arts%20Center%2C%20Los%20Angeles",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Beyond_Baroque_Literary_Arts_Center",
+        "photo": null
+      },
+      {
+        "id": "los-angeles-bookshops-16",
+        "name": "Fahrenheit 451 Books",
+        "cityId": "los-angeles",
+        "categoryId": "bookshops",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Fahrenheit%20451%20Books%2C%20Los%20Angeles",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Fahrenheit_451_Books",
+        "photo": null
+      },
+      {
+        "id": "los-angeles-bookshops-17",
+        "name": "I, Madman",
+        "cityId": "los-angeles",
+        "categoryId": "bookshops",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=I%2C%20Madman%2C%20Los%20Angeles",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/I%2C_Madman",
+        "photo": null
+      },
+      {
+        "id": "los-angeles-bookshops-18",
+        "name": "A Change of Hobbit",
+        "cityId": "los-angeles",
+        "categoryId": "bookshops",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=A%20Change%20of%20Hobbit%2C%20Los%20Angeles",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/A_Change_of_Hobbit",
+        "photo": null
+      }
+    ],
+    "museums": [
+      {
+        "id": "los-angeles-museums-1",
+        "name": "Los Angeles County Museum of Art",
+        "cityId": "los-angeles",
+        "categoryId": "museums",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Los%20Angeles%20County%20Museum%20of%20Art%2C%20Los%20Angeles",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Los_Angeles_County_Museum_of_Art",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/LACMA-Los-Angeles-County-Museum-of-Art-04-2014.jpg/960px-LACMA-Los-Angeles-County-Museum-of-Art-04-2014.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Los_Angeles_County_Museum_of_Art"
+        }
+      },
+      {
+        "id": "los-angeles-museums-2",
+        "name": "Los Angeles County, California",
+        "cityId": "los-angeles",
+        "categoryId": "museums",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Los%20Angeles%20County%2C%20California%2C%20Los%20Angeles",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Los_Angeles_County%2C_California",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Good_morning_LA_%28cropped%29.jpg/960px-Good_morning_LA_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Los_Angeles_County%2C_California"
+        }
+      },
+      {
+        "id": "los-angeles-museums-3",
+        "name": "Museum of Contemporary Art, Los Angeles",
+        "cityId": "los-angeles",
+        "categoryId": "museums",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Museum%20of%20Contemporary%20Art%2C%20Los%20Angeles%2C%20Los%20Angeles",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Museum_of_Contemporary_Art%2C_Los_Angeles",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/Moca-exterior.jpg/960px-Moca-exterior.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Museum_of_Contemporary_Art%2C_Los_Angeles"
+        }
+      },
+      {
+        "id": "los-angeles-museums-4",
+        "name": "La Brea Tar Pits",
+        "cityId": "los-angeles",
+        "categoryId": "museums",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=La%20Brea%20Tar%20Pits%2C%20Los%20Angeles",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/La_Brea_Tar_Pits",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/La_Brea_Tar_Pits_logo.svg/960px-La_Brea_Tar_Pits_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/La_Brea_Tar_Pits"
+        }
+      },
+      {
+        "id": "los-angeles-museums-5",
+        "name": "J. Paul Getty Museum",
+        "cityId": "los-angeles",
+        "categoryId": "museums",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=J.%20Paul%20Getty%20Museum%2C%20Los%20Angeles",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/J._Paul_Getty_Museum",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Aerial_view_of_the_J._Paul_Getty_Museum_of_Art_in_Los_Angeles%2C_California_LCCN2013632733.tif/lossy-page1-960px-Aerial_view_of_the_J._Paul_Getty_Museum_of_Art_in_Los_Angeles%2C_California_LCCN2013632733.tif.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/J._Paul_Getty_Museum"
+        }
+      },
+      {
+        "id": "los-angeles-museums-6",
+        "name": "Hammer Museum",
+        "cityId": "los-angeles",
+        "categoryId": "museums",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Hammer%20Museum%2C%20Los%20Angeles",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Hammer_Museum",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/Wdmk_HammerBox_Black.jpg/960px-Wdmk_HammerBox_Black.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Hammer_Museum"
+        }
+      },
+      {
+        "id": "los-angeles-museums-7",
+        "name": "Getty Center",
+        "cityId": "los-angeles",
+        "categoryId": "museums",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Getty%20Center%2C%20Los%20Angeles",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Getty_Center",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Getty_new_logo.png/960px-Getty_new_logo.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Getty_Center"
+        }
+      },
+      {
+        "id": "los-angeles-museums-8",
+        "name": "California African American Museum",
+        "cityId": "los-angeles",
+        "categoryId": "museums",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=California%20African%20American%20Museum%2C%20Los%20Angeles",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/California_African_American_Museum",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/California_African_American_Museum_exterior.jpg/960px-California_African_American_Museum_exterior.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/California_African_American_Museum"
+        }
+      },
+      {
+        "id": "los-angeles-museums-9",
+        "name": "California Science Center",
+        "cityId": "los-angeles",
+        "categoryId": "museums",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=California%20Science%20Center%2C%20Los%20Angeles",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/California_Science_Center",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/California_Science_Center.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/California_Science_Center"
+        }
+      },
+      {
+        "id": "los-angeles-museums-10",
+        "name": "The Broad",
+        "cityId": "los-angeles",
+        "categoryId": "museums",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Broad%2C%20Los%20Angeles",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/The_Broad",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/Nighttime_view_of_the_Broad_in_LA%2C_corner_dllu.jpg/960px-Nighttime_view_of_the_Broad_in_LA%2C_corner_dllu.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/The_Broad"
+        }
+      },
+      {
+        "id": "los-angeles-museums-11",
+        "name": "Miracle Mile, Los Angeles",
+        "cityId": "los-angeles",
+        "categoryId": "museums",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Miracle%20Mile%2C%20Los%20Angeles%2C%20Los%20Angeles",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Miracle_Mile%2C_Los_Angeles",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/MiracleMileSignage.jpg/960px-MiracleMileSignage.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Miracle_Mile%2C_Los_Angeles"
+        }
+      },
+      {
+        "id": "los-angeles-museums-12",
+        "name": "Hollywood Bowl",
+        "cityId": "los-angeles",
+        "categoryId": "museums",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Hollywood%20Bowl%2C%20Los%20Angeles",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Hollywood_Bowl",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/Hollywood_Bowl_2024.jpg/960px-Hollywood_Bowl_2024.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Hollywood_Bowl"
+        }
+      },
+      {
+        "id": "los-angeles-museums-13",
+        "name": "Mid-Wilshire, Los Angeles",
+        "cityId": "los-angeles",
+        "categoryId": "museums",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Mid-Wilshire%2C%20Los%20Angeles%2C%20Los%20Angeles",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Mid-Wilshire%2C_Los_Angeles",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/Fairfax_and_Wilshire%2C_LA_2021.jpg/960px-Fairfax_and_Wilshire%2C_LA_2021.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Mid-Wilshire%2C_Los_Angeles"
+        }
+      },
+      {
+        "id": "los-angeles-museums-14",
+        "name": "Lucas Museum of Narrative Art",
+        "cityId": "los-angeles",
+        "categoryId": "museums",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Lucas%20Museum%20of%20Narrative%20Art%2C%20Los%20Angeles",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Lucas_Museum_of_Narrative_Art",
+        "photo": null
+      },
+      {
+        "id": "los-angeles-museums-15",
+        "name": "Los Angeles",
+        "cityId": "los-angeles",
+        "categoryId": "museums",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Los%20Angeles%2C%20Los%20Angeles",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Los_Angeles",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Hollywood_sign_%288485145044%29.jpg/960px-Hollywood_sign_%288485145044%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Los_Angeles"
+        }
+      },
+      {
+        "id": "los-angeles-museums-16",
+        "name": "Japanese American National Museum",
+        "cityId": "los-angeles",
+        "categoryId": "museums",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Japanese%20American%20National%20Museum%2C%20Los%20Angeles",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Japanese_American_National_Museum",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Japanese_American_National_Museum_%28Los_Angeles%29_August_2024.JPG/960px-Japanese_American_National_Museum_%28Los_Angeles%29_August_2024.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Japanese_American_National_Museum"
+        }
+      },
+      {
+        "id": "los-angeles-museums-17",
+        "name": "Los Angeles International Airport",
+        "cityId": "los-angeles",
+        "categoryId": "museums",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Los%20Angeles%20International%20Airport%2C%20Los%20Angeles",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Los_Angeles_International_Airport",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/LAX_blue_logo.svg/960px-LAX_blue_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Los_Angeles_International_Airport"
+        }
+      },
+      {
+        "id": "los-angeles-museums-18",
+        "name": "Rembrandt in Southern California",
+        "cityId": "los-angeles",
+        "categoryId": "museums",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Rembrandt%20in%20Southern%20California%2C%20Los%20Angeles",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Rembrandt_in_Southern_California",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Rembrandt_Harmensz._van_Rijn_%28Dutch_-_St._Bartholomew%29_-_Google_Art_Project.jpg/960px-Rembrandt_Harmensz._van_Rijn_%28Dutch_-_St._Bartholomew%29_-_Google_Art_Project.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Rembrandt_in_Southern_California"
+        }
+      }
+    ],
+    "concerts": [
+      {
+        "id": "los-angeles-concerts-1",
+        "name": "Walt Disney Concert Hall",
+        "cityId": "los-angeles",
+        "categoryId": "concerts",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Walt%20Disney%20Concert%20Hall%2C%20Los%20Angeles",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Walt_Disney_Concert_Hall",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Walt_Disney_Concert_Hall%2C_LA%2C_CA%2C_jjron_22.03.2012.jpg/960px-Walt_Disney_Concert_Hall%2C_LA%2C_CA%2C_jjron_22.03.2012.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Walt_Disney_Concert_Hall"
+        }
+      },
+      {
+        "id": "los-angeles-concerts-2",
+        "name": "Los Angeles Music Center",
+        "cityId": "los-angeles",
+        "categoryId": "concerts",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Los%20Angeles%20Music%20Center%2C%20Los%20Angeles",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Los_Angeles_Music_Center",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Walt_Disney_Concert_Hall%2C_LA%2C_CA%2C_jjron_22.03.2012.jpg/960px-Walt_Disney_Concert_Hall%2C_LA%2C_CA%2C_jjron_22.03.2012.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Los_Angeles_Music_Center"
+        }
+      },
+      {
+        "id": "los-angeles-concerts-3",
+        "name": "Los Angeles Philharmonic",
+        "cityId": "los-angeles",
+        "categoryId": "concerts",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Los%20Angeles%20Philharmonic%2C%20Los%20Angeles",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Los_Angeles_Philharmonic",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/Yunchan_Lim_with_the_Los_Angeles_Philharmonic_in_concert_at_the_Hollywood_Bowl.jpg/960px-Yunchan_Lim_with_the_Los_Angeles_Philharmonic_in_concert_at_the_Hollywood_Bowl.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Los_Angeles_Philharmonic"
+        }
+      },
+      {
+        "id": "los-angeles-concerts-4",
+        "name": "REDCAT",
+        "cityId": "los-angeles",
+        "categoryId": "concerts",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=REDCAT%2C%20Los%20Angeles",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/REDCAT",
+        "photo": null
+      },
+      {
+        "id": "los-angeles-concerts-5",
+        "name": "Los Angeles Master Chorale",
+        "cityId": "los-angeles",
+        "categoryId": "concerts",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Los%20Angeles%20Master%20Chorale%2C%20Los%20Angeles",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Los_Angeles_Master_Chorale",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Roger_Wagner_leading_the_Los_Angeles_Master_Chorale%2C_1973.jpg/960px-Roger_Wagner_leading_the_Los_Angeles_Master_Chorale%2C_1973.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Los_Angeles_Master_Chorale"
+        }
+      },
+      {
+        "id": "los-angeles-concerts-6",
+        "name": "East of Borneo",
+        "cityId": "los-angeles",
+        "categoryId": "concerts",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=East%20of%20Borneo%2C%20Los%20Angeles",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/East_of_Borneo_(magazine)",
+        "photo": null
+      },
+      {
+        "id": "los-angeles-concerts-7",
+        "name": "Symphony No. 12",
+        "cityId": "los-angeles",
+        "categoryId": "concerts",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Symphony%20No.%2012%2C%20Los%20Angeles",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Symphony_No._12_(Glass)",
+        "photo": null
+      },
+      {
+        "id": "los-angeles-concerts-8",
+        "name": "Soundings",
+        "cityId": "los-angeles",
+        "categoryId": "concerts",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Soundings%2C%20Los%20Angeles",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Soundings_(Williams)",
+        "photo": null
+      },
+      {
+        "id": "los-angeles-concerts-9",
+        "name": "Kristin Chenoweth Live at Walt Disney Concert Hall",
+        "cityId": "los-angeles",
+        "categoryId": "concerts",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Kristin%20Chenoweth%20Live%20at%20Walt%20Disney%20Concert%20Hall%2C%20Los%20Angeles",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Kristin_Chenoweth_Live_at_Walt_Disney_Concert_Hall",
+        "photo": null
+      },
+      {
+        "id": "los-angeles-concerts-10",
+        "name": "Ramón C. Cortines School of Visual and Performing Arts",
+        "cityId": "los-angeles",
+        "categoryId": "concerts",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Ram%C3%B3n%20C.%20Cortines%20School%20of%20Visual%20and%20Performing%20Arts%2C%20Los%20Angeles",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Ram%C3%B3n_C._Cortines_School_of_Visual_and_Performing_Arts",
+        "photo": null
+      },
+      {
+        "id": "los-angeles-concerts-11",
+        "name": "Angel City Chorale",
+        "cityId": "los-angeles",
+        "categoryId": "concerts",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Angel%20City%20Chorale%2C%20Los%20Angeles",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Angel_City_Chorale",
+        "photo": null
+      },
+      {
+        "id": "los-angeles-concerts-12",
+        "name": "Dan Dworsky",
+        "cityId": "los-angeles",
+        "categoryId": "concerts",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Dan%20Dworsky%2C%20Los%20Angeles",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Dan_Dworsky",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Dan_Dworsky_1947.jpg/960px-Dan_Dworsky_1947.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Dan_Dworsky"
+        }
+      },
+      {
+        "id": "los-angeles-concerts-13",
+        "name": "Sculpture",
+        "cityId": "los-angeles",
+        "categoryId": "concerts",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Sculpture%2C%20Los%20Angeles",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Sculpture_(Lindberg)",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/98/Magnuslindberg.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Sculpture_(Lindberg)"
+        }
+      },
+      {
+        "id": "los-angeles-concerts-14",
+        "name": "Zipper Hall",
+        "cityId": "los-angeles",
+        "categoryId": "concerts",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Zipper%20Hall%2C%20Los%20Angeles",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Zipper_Hall",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/Zipper_Hall.jpg/960px-Zipper_Hall.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Zipper_Hall"
+        }
+      },
+      {
+        "id": "los-angeles-concerts-15",
+        "name": "Dorothy Chandler Pavilion",
+        "cityId": "los-angeles",
+        "categoryId": "concerts",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Dorothy%20Chandler%20Pavilion%2C%20Los%20Angeles",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Dorothy_Chandler_Pavilion",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Dorothy_Chandler_Pavilion%2C_LA%2C_CA%2C_jjron_22.03.2012.jpg/960px-Dorothy_Chandler_Pavilion%2C_LA%2C_CA%2C_jjron_22.03.2012.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Dorothy_Chandler_Pavilion"
+        }
+      },
+      {
+        "id": "los-angeles-concerts-16",
+        "name": "Bing Concert Hall",
+        "cityId": "los-angeles",
+        "categoryId": "concerts",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Bing%20Concert%20Hall%2C%20Los%20Angeles",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Bing_Concert_Hall",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Bing_concert_hall_at_Stanford_University.JPG/960px-Bing_concert_hall_at_Stanford_University.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Bing_Concert_Hall"
+        }
+      },
+      {
+        "id": "los-angeles-concerts-17",
+        "name": "Wing on Wing",
+        "cityId": "los-angeles",
+        "categoryId": "concerts",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Wing%20on%20Wing%2C%20Los%20Angeles",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Wing_on_Wing",
+        "photo": null
+      },
+      {
+        "id": "los-angeles-concerts-18",
+        "name": "Los Angeles Philharmonic discography",
+        "cityId": "los-angeles",
+        "categoryId": "concerts",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Los%20Angeles%20Philharmonic%20discography%2C%20Los%20Angeles",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Los_Angeles_Philharmonic_discography",
+        "photo": null
+      }
+    ],
+    "fashion": [
+      {
+        "id": "los-angeles-fashion-1",
+        "name": "National Stores",
+        "cityId": "los-angeles",
+        "categoryId": "fashion",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=National%20Stores%2C%20Los%20Angeles",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/National_Stores",
+        "photo": null
+      },
+      {
+        "id": "los-angeles-fashion-2",
+        "name": "Victor Clothing",
+        "cityId": "los-angeles",
+        "categoryId": "fashion",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Victor%20Clothing%2C%20Los%20Angeles",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Victor_Clothing",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/Los_Angeles_Victor_Clothing_Company_Building.jpg/960px-Los_Angeles_Victor_Clothing_Company_Building.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Victor_Clothing"
+        }
+      },
+      {
+        "id": "los-angeles-fashion-3",
+        "name": "El Monte Shopping Center",
+        "cityId": "los-angeles",
+        "categoryId": "fashion",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=El%20Monte%20Shopping%20Center%2C%20Los%20Angeles",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/El_Monte_Shopping_Center",
+        "photo": null
+      },
+      {
+        "id": "los-angeles-fashion-4",
+        "name": "Swelldom",
+        "cityId": "los-angeles",
+        "categoryId": "fashion",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Swelldom%2C%20Los%20Angeles",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Swelldom",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Swelldom_1924.png/960px-Swelldom_1924.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Swelldom"
+        }
+      },
+      {
+        "id": "los-angeles-fashion-5",
+        "name": "Silverwoods",
+        "cityId": "los-angeles",
+        "categoryId": "fashion",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Silverwoods%2C%20Los%20Angeles",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Silverwoods",
+        "photo": null
+      },
+      {
+        "id": "los-angeles-fashion-6",
+        "name": "Joseph P. Newmark",
+        "cityId": "los-angeles",
+        "categoryId": "fashion",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Joseph%20P.%20Newmark%2C%20Los%20Angeles",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Joseph_P._Newmark",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/df/RichNewmarkLazardKremer18540921.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Joseph_P._Newmark"
+        }
+      },
+      {
+        "id": "los-angeles-fashion-7",
+        "name": "Harris & Frank",
+        "cityId": "los-angeles",
+        "categoryId": "fashion",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Harris%20%26%20Frank%2C%20Los%20Angeles",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Harris_%26_Frank",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Harris_%26_Frank_store_1924.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Harris_%26_Frank"
+        }
+      },
+      {
+        "id": "los-angeles-fashion-8",
+        "name": "Retail Slut",
+        "cityId": "los-angeles",
+        "categoryId": "fashion",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Retail%20Slut%2C%20Los%20Angeles",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Retail_Slut",
+        "photo": null
+      },
+      {
+        "id": "los-angeles-fashion-9",
+        "name": "Corky Hale",
+        "cityId": "los-angeles",
+        "categoryId": "fashion",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Corky%20Hale%2C%20Los%20Angeles",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Corky_Hale",
+        "photo": null
+      },
+      {
+        "id": "los-angeles-fashion-10",
+        "name": "Ah Men",
+        "cityId": "los-angeles",
+        "categoryId": "fashion",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Ah%20Men%2C%20Los%20Angeles",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Ah_Men",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Go_Guys_1964_Ah_Men_ad.png/960px-Go_Guys_1964_Ah_Men_ad.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Ah_Men"
+        }
+      },
+      {
+        "id": "los-angeles-fashion-11",
+        "name": "Newmark family of Southern California",
+        "cityId": "los-angeles",
+        "categoryId": "fashion",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Newmark%20family%20of%20Southern%20California%2C%20Los%20Angeles",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Newmark_family_of_Southern_California",
+        "photo": null
+      },
+      {
+        "id": "los-angeles-fashion-12",
+        "name": "X-Large",
+        "cityId": "los-angeles",
+        "categoryId": "fashion",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=X-Large%2C%20Los%20Angeles",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/X-Large_(clothing_brand)",
+        "photo": null
+      },
+      {
+        "id": "los-angeles-fashion-13",
+        "name": "Do Won and Jin Sook Chang",
+        "cityId": "los-angeles",
+        "categoryId": "fashion",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Do%20Won%20and%20Jin%20Sook%20Chang%2C%20Los%20Angeles",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Do_Won_and_Jin_Sook_Chang",
+        "photo": null
+      },
+      {
+        "id": "los-angeles-fashion-14",
+        "name": "Michele Saee",
+        "cityId": "los-angeles",
+        "categoryId": "fashion",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Michele%20Saee%2C%20Los%20Angeles",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Michele_Saee",
+        "photo": null
+      },
+      {
+        "id": "los-angeles-fashion-15",
+        "name": "Nipsey Hussle",
+        "cityId": "los-angeles",
+        "categoryId": "fashion",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Nipsey%20Hussle%2C%20Los%20Angeles",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Nipsey_Hussle",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Soundtrack_Beat_Battle_Judging_Panel_March2011_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Nipsey_Hussle"
+        }
+      },
+      {
+        "id": "los-angeles-fashion-16",
+        "name": "My First Mister",
+        "cityId": "los-angeles",
+        "categoryId": "fashion",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=My%20First%20Mister%2C%20Los%20Angeles",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/My_First_Mister",
+        "photo": null
+      },
+      {
+        "id": "los-angeles-fashion-17",
+        "name": "Heidi Fleiss",
+        "cityId": "los-angeles",
+        "categoryId": "fashion",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Heidi%20Fleiss%2C%20Los%20Angeles",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Heidi_Fleiss",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/23/Heidifleiss.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Heidi_Fleiss"
+        }
+      },
+      {
+        "id": "los-angeles-fashion-18",
+        "name": "Lenn Redman",
+        "cityId": "los-angeles",
+        "categoryId": "fashion",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Lenn%20Redman%2C%20Los%20Angeles",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Lenn_Redman",
+        "photo": null
+      }
+    ],
+    "shops": [
+      {
+        "id": "los-angeles-shops-1",
+        "name": "Hollywood Boulevard",
+        "cityId": "los-angeles",
+        "categoryId": "shops",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Hollywood%20Boulevard%2C%20Los%20Angeles",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Hollywood_Boulevard",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/Hollywood_boulevard_from_kodak_theatre.jpg/960px-Hollywood_boulevard_from_kodak_theatre.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Hollywood_Boulevard"
+        }
+      },
+      {
+        "id": "los-angeles-shops-2",
+        "name": "Jim Henson's Creature Shop",
+        "cityId": "los-angeles",
+        "categoryId": "shops",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Jim%20Henson's%20Creature%20Shop%2C%20Los%20Angeles",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Jim_Henson's_Creature_Shop",
+        "photo": null
+      },
+      {
+        "id": "los-angeles-shops-3",
+        "name": "Chop Shop Records",
+        "cityId": "los-angeles",
+        "categoryId": "shops",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Chop%20Shop%20Records%2C%20Los%20Angeles",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Chop_Shop_Records",
+        "photo": null
+      },
+      {
+        "id": "los-angeles-shops-4",
+        "name": "Googie architecture",
+        "cityId": "los-angeles",
+        "categoryId": "shops",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Googie%20architecture%2C%20Los%20Angeles",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Googie_architecture",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/NormsRestaurant_LaCienega.JPG/960px-NormsRestaurant_LaCienega.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Googie_architecture"
+        }
+      },
+      {
+        "id": "los-angeles-shops-5",
+        "name": "Hayvenhurst",
+        "cityId": "los-angeles",
+        "categoryId": "shops",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Hayvenhurst%2C%20Los%20Angeles",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Hayvenhurst",
+        "photo": null
+      },
+      {
+        "id": "los-angeles-shops-6",
+        "name": "The Shop",
+        "cityId": "los-angeles",
+        "categoryId": "shops",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Shop%2C%20Los%20Angeles",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/The_Shop",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/Gavin_Newsom_signs_SB206_on_The_Shop_03.jpg/960px-Gavin_Newsom_signs_SB206_on_The_Shop_03.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/The_Shop"
+        }
+      },
+      {
+        "id": "los-angeles-shops-7",
+        "name": "Henry Wartenberg",
+        "cityId": "los-angeles",
+        "categoryId": "shops",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Henry%20Wartenberg%2C%20Los%20Angeles",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Henry_Wartenberg",
+        "photo": null
+      },
+      {
+        "id": "los-angeles-shops-8",
+        "name": "Randy's Donuts",
+        "cityId": "los-angeles",
+        "categoryId": "shops",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Randy's%20Donuts%2C%20Los%20Angeles",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Randy's_Donuts",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/Randy%27s_donuts1_edit1.jpg/960px-Randy%27s_donuts1_edit1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Randy's_Donuts"
+        }
+      },
+      {
+        "id": "los-angeles-shops-9",
+        "name": "Louis Lichtenberger",
+        "cityId": "los-angeles",
+        "categoryId": "shops",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Louis%20Lichtenberger%2C%20Los%20Angeles",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Louis_Lichtenberger",
+        "photo": null
+      },
+      {
+        "id": "los-angeles-shops-10",
+        "name": "Model Shop",
+        "cityId": "los-angeles",
+        "categoryId": "shops",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Model%20Shop%2C%20Los%20Angeles",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Model_Shop_(film)",
+        "photo": null
+      },
+      {
+        "id": "los-angeles-shops-11",
+        "name": "Los Angeles streetcar strike of 1919",
+        "cityId": "los-angeles",
+        "categoryId": "shops",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Los%20Angeles%20streetcar%20strike%20of%201919%2C%20Los%20Angeles",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Los_Angeles_streetcar_strike_of_1919",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/en/8/8f/Turned_over_trolly.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Los_Angeles_streetcar_strike_of_1919"
+        }
+      },
+      {
+        "id": "los-angeles-shops-12",
+        "name": "Corky's",
+        "cityId": "los-angeles",
+        "categoryId": "shops",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Corky's%2C%20Los%20Angeles",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Corky's",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Corkys_sherman_oaks_from_southeast.jpg/960px-Corkys_sherman_oaks_from_southeast.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Corky's"
+        }
+      },
+      {
+        "id": "los-angeles-shops-13",
+        "name": "KSCI",
+        "cityId": "los-angeles",
+        "categoryId": "shops",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=KSCI%2C%20Los%20Angeles",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/KSCI",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/KSCI_LA_18_%282005%2C_with_call_letters%29.svg/960px-KSCI_LA_18_%282005%2C_with_call_letters%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/KSCI"
+        }
+      },
+      {
+        "id": "los-angeles-shops-14",
+        "name": "Shop 'til You Drop",
+        "cityId": "los-angeles",
+        "categoryId": "shops",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Shop%20'til%20You%20Drop%2C%20Los%20Angeles",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Shop_'til_You_Drop",
+        "photo": null
+      },
+      {
+        "id": "los-angeles-shops-15",
+        "name": "Pann's",
+        "cityId": "los-angeles",
+        "categoryId": "shops",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Pann's%2C%20Los%20Angeles",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Pann's",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Pann%27s_sign.jpg/960px-Pann%27s_sign.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Pann's"
+        }
+      },
+      {
+        "id": "los-angeles-shops-16",
+        "name": "Pop-up retail",
+        "cityId": "los-angeles",
+        "categoryId": "shops",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Pop-up%20retail%2C%20Los%20Angeles",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Pop-up_retail",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Marmite_pop-up_shop_in_2009.jpg/960px-Marmite_pop-up_shop_in_2009.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Pop-up_retail"
+        }
+      },
+      {
+        "id": "los-angeles-shops-17",
+        "name": "McCabe's Guitar Shop",
+        "cityId": "los-angeles",
+        "categoryId": "shops",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=McCabe's%20Guitar%20Shop%2C%20Los%20Angeles",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/McCabe's_Guitar_Shop",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/McCabe%27s_Guitar_Shop%2C_Santa_Monica.JPG/960px-McCabe%27s_Guitar_Shop%2C_Santa_Monica.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/McCabe's_Guitar_Shop"
+        }
+      },
+      {
+        "id": "los-angeles-shops-18",
+        "name": "Escondido Village Mall",
+        "cityId": "los-angeles",
+        "categoryId": "shops",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Escondido%20Village%20Mall%2C%20Los%20Angeles",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Escondido_Village_Mall",
+        "photo": null
+      }
+    ]
+  }
+}

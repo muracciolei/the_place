@@ -4,7 +4,9 @@
 
 - Idioma del dispositivo por defecto: español, inglés, francés, italiano, alemán y portugués; si el idioma no está soportado, inglés. Se puede cambiar en **Ajustes**.
 - Tres modos: **Local — My Town**, **Country — My Country**, **World — Worldwide**.
-- 41 ciudades y 9 categorías con fotos; las fotos de lugares y todas sus imágenes vienen de Google Places.
+- 41 ciudades con fotos; **9 categorías principales** en este orden: Night Club, Restaurantes, Bares, Coffee Shop, Bookshop, Museo, Conciertos, Fashion y Shops, seguidas de categorías complementarias.
+- Feed de **3 tarjetas verticales por fila en móvil** (4 en tablet, 5 en escritorio).
+- Sin clave: **18 lugares reales por categoría y ciudad** hardcodeados en JSON, generados desde Wikipedia y enlazados a Google Maps. Con clave: datos en vivo de Google Places.
 
 > El repositorio estaba vacío al iniciar. El diagnóstico original está en [ARCHITECTURE.md](ARCHITECTURE.md) y el rediseño al feed vertical en [Refactoring.md](Refactoring.md).
 
@@ -50,7 +52,8 @@ Puedes pasar otra URL de remote si tu HTTPS no tiene credenciales: `npm run depl
 
 ## Estructura
 
-- `src/data/` — 41 ciudades (incluidas las 9 pedidas), países, 9 categorías y datos de ejemplo.
+- `src/data/` — 41 ciudades (incluidas las 9 pedidas), países, 9 categorías principales + complementarias y datos de ejemplo.
+- `public/data/places/*.json` — lugares reales hardcodeados (18 por categoría y ciudad), generados con `npm run generate:places`; validados con `npm run validate:places`. Fuentes: Wikipedia y Maps URLs; **sin scraping de Google Maps**.
 - `src/services/places.js` — Places API (New): Text Search paginada, Place Details con **todas** las fotos, caché en memoria y errores.
 - `src/services/commons.js` — fotos de ciudades y categorías desde Wikimedia Commons con autor y licencia.
 - `src/services/wiki.js` — resúmenes de ciudades en el idioma activo (CC BY-SA).

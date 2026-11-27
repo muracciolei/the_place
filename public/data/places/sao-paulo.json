@@ -1,0 +1,2398 @@
+{
+  "cityId": "sao-paulo",
+  "generatedAt": "2026-11-27T08:31:49.159Z",
+  "source": "Wikipedia API + Maps URLs (sin scraping de Google)",
+  "incomplete": [],
+  "categories": {
+    "night_clubs": [
+      {
+        "id": "sao-paulo-night_clubs-1",
+        "name": "Trio Mocotó",
+        "cityId": "sao-paulo",
+        "categoryId": "night_clubs",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Trio%20Mocot%C3%B3%2C%20S%C3%A3o%20Paulo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Trio_Mocot%C3%B3",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Jorge_Ben_e_o_Trio_Mocot%C3%B3_no_Teatro_da_Lagoa%2C_1971.jpg/960px-Jorge_Ben_e_o_Trio_Mocot%C3%B3_no_Teatro_da_Lagoa%2C_1971.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Trio_Mocot%C3%B3"
+        }
+      },
+      {
+        "id": "sao-paulo-night_clubs-2",
+        "name": "The Week International",
+        "cityId": "sao-paulo",
+        "categoryId": "night_clubs",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Week%20International%2C%20S%C3%A3o%20Paulo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/The_Week_International",
+        "photo": null
+      },
+      {
+        "id": "sao-paulo-night_clubs-3",
+        "name": "Muti Randolph",
+        "cityId": "sao-paulo",
+        "categoryId": "night_clubs",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Muti%20Randolph%2C%20S%C3%A3o%20Paulo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Muti_Randolph",
+        "photo": null
+      },
+      {
+        "id": "sao-paulo-night_clubs-4",
+        "name": "Mario Caldato Jr.",
+        "cityId": "sao-paulo",
+        "categoryId": "night_clubs",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Mario%20Caldato%20Jr.%2C%20S%C3%A3o%20Paulo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Mario_Caldato_Jr.",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/Mario_Caldato_Jr.jpg/960px-Mario_Caldato_Jr.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Mario_Caldato_Jr."
+        }
+      },
+      {
+        "id": "sao-paulo-night_clubs-5",
+        "name": "Rua Augusta",
+        "cityId": "sao-paulo",
+        "categoryId": "night_clubs",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Rua%20Augusta%2C%20S%C3%A3o%20Paulo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Rua_Augusta_(TV_series)",
+        "photo": null
+      },
+      {
+        "id": "sao-paulo-night_clubs-6",
+        "name": "Live!!",
+        "cityId": "sao-paulo",
+        "categoryId": "night_clubs",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Live!!%2C%20S%C3%A3o%20Paulo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Live!!_(Yngwie_Malmsteen_album)",
+        "photo": null
+      },
+      {
+        "id": "sao-paulo-night_clubs-7",
+        "name": "Guto Requena",
+        "cityId": "sao-paulo",
+        "categoryId": "night_clubs",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Guto%20Requena%2C%20S%C3%A3o%20Paulo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Guto_Requena",
+        "photo": null
+      },
+      {
+        "id": "sao-paulo-night_clubs-8",
+        "name": "Johnny Alf",
+        "cityId": "sao-paulo",
+        "categoryId": "night_clubs",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Johnny%20Alf%2C%20S%C3%A3o%20Paulo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Johnny_Alf",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/Johnny_Alf%2C_sem_data.tif/lossy-page1-960px-Johnny_Alf%2C_sem_data.tif.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Johnny_Alf"
+        }
+      },
+      {
+        "id": "sao-paulo-night_clubs-9",
+        "name": "2001 in Brazil",
+        "cityId": "sao-paulo",
+        "categoryId": "night_clubs",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=2001%20in%20Brazil%2C%20S%C3%A3o%20Paulo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/2001_in_Brazil",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/960px-Flag_of_Brazil.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/2001_in_Brazil"
+        }
+      },
+      {
+        "id": "sao-paulo-night_clubs-10",
+        "name": "Barra Funda",
+        "cityId": "sao-paulo",
+        "categoryId": "night_clubs",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Barra%20Funda%2C%20S%C3%A3o%20Paulo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Barra_Funda_(district_of_S%C3%A3o_Paulo)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Passeio_de_Helic%C3%B3ptero_em_S%C3%A3o_Paulo.jpg/960px-Passeio_de_Helic%C3%B3ptero_em_S%C3%A3o_Paulo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Barra_Funda_(district_of_S%C3%A3o_Paulo)"
+        }
+      },
+      {
+        "id": "sao-paulo-night_clubs-11",
+        "name": "Dani Alves",
+        "cityId": "sao-paulo",
+        "categoryId": "night_clubs",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Dani%20Alves%2C%20S%C3%A3o%20Paulo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Dani_Alves",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/dd/07_07_2019_Final_da_Copa_Am%C3%A9rica_2019_%2848226649586%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Dani_Alves"
+        }
+      },
+      {
+        "id": "sao-paulo-night_clubs-12",
+        "name": "Linda Batista",
+        "cityId": "sao-paulo",
+        "categoryId": "night_clubs",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Linda%20Batista%2C%20S%C3%A3o%20Paulo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Linda_Batista",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Linda_Batista%2C_1952.tif/lossy-page1-960px-Linda_Batista%2C_1952.tif.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Linda_Batista"
+        }
+      },
+      {
+        "id": "sao-paulo-night_clubs-13",
+        "name": "Luciano Huck",
+        "cityId": "sao-paulo",
+        "categoryId": "night_clubs",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Luciano%20Huck%2C%20S%C3%A3o%20Paulo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Luciano_Huck",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/Luciano_Huck%2C_2023.jpg/960px-Luciano_Huck%2C_2023.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Luciano_Huck"
+        }
+      },
+      {
+        "id": "sao-paulo-night_clubs-14",
+        "name": "Mauro Refosco",
+        "cityId": "sao-paulo",
+        "categoryId": "night_clubs",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Mauro%20Refosco%2C%20S%C3%A3o%20Paulo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Mauro_Refosco",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Melt_Festival_2013_-_Atoms_For_Peace-13_cropped.jpg/960px-Melt_Festival_2013_-_Atoms_For_Peace-13_cropped.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Mauro_Refosco"
+        }
+      },
+      {
+        "id": "sao-paulo-night_clubs-15",
+        "name": "Robinho",
+        "cityId": "sao-paulo",
+        "categoryId": "night_clubs",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Robinho%2C%20S%C3%A3o%20Paulo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Robinho",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/78/Robinho061115-2_%28cropped_2%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Robinho"
+        }
+      },
+      {
+        "id": "sao-paulo-night_clubs-16",
+        "name": "Trocabrahma",
+        "cityId": "sao-paulo",
+        "categoryId": "night_clubs",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Trocabrahma%2C%20S%C3%A3o%20Paulo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Trocabrahma",
+        "photo": null
+      },
+      {
+        "id": "sao-paulo-night_clubs-17",
+        "name": "2013 in Brazil",
+        "cityId": "sao-paulo",
+        "categoryId": "night_clubs",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=2013%20in%20Brazil%2C%20S%C3%A3o%20Paulo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/2013_in_Brazil",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/960px-Flag_of_Brazil.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/2013_in_Brazil"
+        }
+      },
+      {
+        "id": "sao-paulo-night_clubs-18",
+        "name": "Arnaldo Antunes",
+        "cityId": "sao-paulo",
+        "categoryId": "night_clubs",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Arnaldo%20Antunes%2C%20S%C3%A3o%20Paulo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Arnaldo_Antunes",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/Arnaldo_Antunes_-_AA.jpg/960px-Arnaldo_Antunes_-_AA.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Arnaldo_Antunes"
+        }
+      }
+    ],
+    "restaurants": [
+      {
+        "id": "sao-paulo-restaurants-1",
+        "name": "Vila Madalena",
+        "cityId": "sao-paulo",
+        "categoryId": "restaurants",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Vila%20Madalena%2C%20S%C3%A3o%20Paulo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Vila_Madalena",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/Por-do-Sol_%28P%C3%B3s-Chuva%29_-_Vila_Madalena_S%C3%A3o_Paulo_-_SP_-_Flickr_-_Rodrigo_Paoletti.jpg/960px-Por-do-Sol_%28P%C3%B3s-Chuva%29_-_Vila_Madalena_S%C3%A3o_Paulo_-_SP_-_Flickr_-_Rodrigo_Paoletti.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Vila_Madalena"
+        }
+      },
+      {
+        "id": "sao-paulo-restaurants-2",
+        "name": "Edifício Itália",
+        "cityId": "sao-paulo",
+        "categoryId": "restaurants",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Edif%C3%ADcio%20It%C3%A1lia%2C%20S%C3%A3o%20Paulo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Edif%C3%ADcio_It%C3%A1lia",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Edif%C3%ADcio_It%C3%A1lia-12151.jpg/960px-Edif%C3%ADcio_It%C3%A1lia-12151.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Edif%C3%ADcio_It%C3%A1lia"
+        }
+      },
+      {
+        "id": "sao-paulo-restaurants-3",
+        "name": "Mortadella sandwich",
+        "cityId": "sao-paulo",
+        "categoryId": "restaurants",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Mortadella%20sandwich%2C%20S%C3%A3o%20Paulo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Mortadella_sandwich",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/Mercado_Central_-_SP_%283177933088%29.jpg/960px-Mercado_Central_-_SP_%283177933088%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Mortadella_sandwich"
+        }
+      },
+      {
+        "id": "sao-paulo-restaurants-4",
+        "name": "Conjunto Nacional",
+        "cityId": "sao-paulo",
+        "categoryId": "restaurants",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Conjunto%20Nacional%2C%20S%C3%A3o%20Paulo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Conjunto_Nacional_(S%C3%A3o_Paulo)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/At_Avenida_Paulista%2C_S%C3%A3o_Paulo_2019_24.jpg/960px-At_Avenida_Paulista%2C_S%C3%A3o_Paulo_2019_24.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Conjunto_Nacional_(S%C3%A3o_Paulo)"
+        }
+      },
+      {
+        "id": "sao-paulo-restaurants-5",
+        "name": "D.O.M.",
+        "cityId": "sao-paulo",
+        "categoryId": "restaurants",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=D.O.M.%2C%20S%C3%A3o%20Paulo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/D.O.M._(restaurant)",
+        "photo": null
+      },
+      {
+        "id": "sao-paulo-restaurants-6",
+        "name": "SP-79",
+        "cityId": "sao-paulo",
+        "categoryId": "restaurants",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=SP-79%2C%20S%C3%A3o%20Paulo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/SP-79_(S%C3%A3o_Paulo_highway)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Rodovia_Contorno_de_Itu_vista_do_viaduto_da_Via_Expressa_Itu-Salto_-_panoramio.jpg/960px-Rodovia_Contorno_de_Itu_vista_do_viaduto_da_Via_Expressa_Itu-Salto_-_panoramio.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/SP-79_(S%C3%A3o_Paulo_highway)"
+        }
+      },
+      {
+        "id": "sao-paulo-restaurants-7",
+        "name": "Federal University of São Carlos",
+        "cityId": "sao-paulo",
+        "categoryId": "restaurants",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Federal%20University%20of%20S%C3%A3o%20Carlos%2C%20S%C3%A3o%20Paulo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Federal_University_of_S%C3%A3o_Carlos",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/Ufscar-logo.png/960px-Ufscar-logo.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Federal_University_of_S%C3%A3o_Carlos"
+        }
+      },
+      {
+        "id": "sao-paulo-restaurants-8",
+        "name": "Estádio do Canindé",
+        "cityId": "sao-paulo",
+        "categoryId": "restaurants",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Est%C3%A1dio%20do%20Canind%C3%A9%2C%20S%C3%A3o%20Paulo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Est%C3%A1dio_do_Canind%C3%A9",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/Est%C3%A1dio_do_Caninde.jpg/960px-Est%C3%A1dio_do_Caninde.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Est%C3%A1dio_do_Canind%C3%A9"
+        }
+      },
+      {
+        "id": "sao-paulo-restaurants-9",
+        "name": "Helena Rizzo",
+        "cityId": "sao-paulo",
+        "categoryId": "restaurants",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Helena%20Rizzo%2C%20S%C3%A3o%20Paulo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Helena_Rizzo",
+        "photo": null
+      },
+      {
+        "id": "sao-paulo-restaurants-10",
+        "name": "Habib's",
+        "cityId": "sao-paulo",
+        "categoryId": "restaurants",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Habib's%2C%20S%C3%A3o%20Paulo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Habib's",
+        "photo": null
+      },
+      {
+        "id": "sao-paulo-restaurants-11",
+        "name": "Bela Vista",
+        "cityId": "sao-paulo",
+        "categoryId": "restaurants",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Bela%20Vista%2C%20S%C3%A3o%20Paulo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Bela_Vista",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Bela_Vista.png/960px-Bela_Vista.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Bela_Vista"
+        }
+      },
+      {
+        "id": "sao-paulo-restaurants-12",
+        "name": "Josimar Melo",
+        "cityId": "sao-paulo",
+        "categoryId": "restaurants",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Josimar%20Melo%2C%20S%C3%A3o%20Paulo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Josimar_Melo",
+        "photo": null
+      },
+      {
+        "id": "sao-paulo-restaurants-13",
+        "name": "IFood",
+        "cityId": "sao-paulo",
+        "categoryId": "restaurants",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=IFood%2C%20S%C3%A3o%20Paulo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/IFood",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/IFood_logo.svg/960px-IFood_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/IFood"
+        }
+      },
+      {
+        "id": "sao-paulo-restaurants-14",
+        "name": "Japanese cuisine in São Paulo",
+        "cityId": "sao-paulo",
+        "categoryId": "restaurants",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Japanese%20cuisine%20in%20S%C3%A3o%20Paulo%2C%20S%C3%A3o%20Paulo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Japanese_cuisine_in_S%C3%A3o_Paulo",
+        "photo": null
+      },
+      {
+        "id": "sao-paulo-restaurants-15",
+        "name": "Paulo Lauro",
+        "cityId": "sao-paulo",
+        "categoryId": "restaurants",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Paulo%20Lauro%2C%20S%C3%A3o%20Paulo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Paulo_Lauro",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/44/Paulo_Lauro_Deputado_e_Prefeito.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Paulo_Lauro"
+        }
+      },
+      {
+        "id": "sao-paulo-restaurants-16",
+        "name": "Municipal Market of São Paulo",
+        "cityId": "sao-paulo",
+        "categoryId": "restaurants",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Municipal%20Market%20of%20S%C3%A3o%20Paulo%2C%20S%C3%A3o%20Paulo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Municipal_Market_of_S%C3%A3o_Paulo",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Webysther_20190304135214_-_Mercado_Municipal_de_S%C3%A3o_Paulo.jpg/960px-Webysther_20190304135214_-_Mercado_Municipal_de_S%C3%A3o_Paulo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Municipal_Market_of_S%C3%A3o_Paulo"
+        }
+      },
+      {
+        "id": "sao-paulo-restaurants-17",
+        "name": "Liberdade",
+        "cityId": "sao-paulo",
+        "categoryId": "restaurants",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Liberdade%2C%20S%C3%A3o%20Paulo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Liberdade_(district_of_S%C3%A3o_Paulo)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/Liberdade%2C_S%C3%A3o_Paulo%2C_Brasil_-_panoramio.jpg/960px-Liberdade%2C_S%C3%A3o_Paulo%2C_Brasil_-_panoramio.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Liberdade_(district_of_S%C3%A3o_Paulo)"
+        }
+      },
+      {
+        "id": "sao-paulo-restaurants-18",
+        "name": "Brazilian cuisine",
+        "cityId": "sao-paulo",
+        "categoryId": "restaurants",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Brazilian%20cuisine%2C%20S%C3%A3o%20Paulo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Brazilian_cuisine",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/Feijoada_%C3%A0_brasileira_-02.jpg/960px-Feijoada_%C3%A0_brasileira_-02.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Brazilian_cuisine"
+        }
+      }
+    ],
+    "bars": [
+      {
+        "id": "sao-paulo-bars-1",
+        "name": "Mortadella sandwich",
+        "cityId": "sao-paulo",
+        "categoryId": "bars",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Mortadella%20sandwich%2C%20S%C3%A3o%20Paulo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Mortadella_sandwich",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/Mercado_Central_-_SP_%283177933088%29.jpg/960px-Mercado_Central_-_SP_%283177933088%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Mortadella_sandwich"
+        }
+      },
+      {
+        "id": "sao-paulo-bars-2",
+        "name": "Lacta",
+        "cityId": "sao-paulo",
+        "categoryId": "bars",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Lacta%2C%20S%C3%A3o%20Paulo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Lacta_(Brazilian_company)",
+        "photo": null
+      },
+      {
+        "id": "sao-paulo-bars-3",
+        "name": "Edifício Itália",
+        "cityId": "sao-paulo",
+        "categoryId": "bars",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Edif%C3%ADcio%20It%C3%A1lia%2C%20S%C3%A3o%20Paulo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Edif%C3%ADcio_It%C3%A1lia",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Edif%C3%ADcio_It%C3%A1lia-12151.jpg/960px-Edif%C3%ADcio_It%C3%A1lia-12151.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Edif%C3%ADcio_It%C3%A1lia"
+        }
+      },
+      {
+        "id": "sao-paulo-bars-4",
+        "name": "2016 São Paulo mayoral election",
+        "cityId": "sao-paulo",
+        "categoryId": "bars",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=2016%20S%C3%A3o%20Paulo%20mayoral%20election%2C%20S%C3%A3o%20Paulo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/2016_S%C3%A3o_Paulo_mayoral_election",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/S%C3%A3o_Paulo_2016.svg/960px-S%C3%A3o_Paulo_2016.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/2016_S%C3%A3o_Paulo_mayoral_election"
+        }
+      },
+      {
+        "id": "sao-paulo-bars-5",
+        "name": "SS Edvard Grieg",
+        "cityId": "sao-paulo",
+        "categoryId": "bars",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=SS%20Edvard%20Grieg%2C%20S%C3%A3o%20Paulo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/SS_Edvard_Grieg",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/Edvard_Grieg._Liberty_-_schip%2C_asset_UZHFWPaYLNWAZYkdFKVhaupf.tif/lossy-page1-960px-Edvard_Grieg._Liberty_-_schip%2C_asset_UZHFWPaYLNWAZYkdFKVhaupf.tif.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/SS_Edvard_Grieg"
+        }
+      },
+      {
+        "id": "sao-paulo-bars-6",
+        "name": "2008 São Paulo mayoral election",
+        "cityId": "sao-paulo",
+        "categoryId": "bars",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=2008%20S%C3%A3o%20Paulo%20mayoral%20election%2C%20S%C3%A3o%20Paulo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/2008_S%C3%A3o_Paulo_mayoral_election",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/Mapa_das_zonas_eleitorais_de_SP_%282008%29.svg/960px-Mapa_das_zonas_eleitorais_de_SP_%282008%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/2008_S%C3%A3o_Paulo_mayoral_election"
+        }
+      },
+      {
+        "id": "sao-paulo-bars-7",
+        "name": "Racionais MC's",
+        "cityId": "sao-paulo",
+        "categoryId": "bars",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Racionais%20MC's%2C%20S%C3%A3o%20Paulo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Racionais_MC's",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/Racionais_MCs_na_Virada_Cultural.jpg/960px-Racionais_MCs_na_Virada_Cultural.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Racionais_MC's"
+        }
+      },
+      {
+        "id": "sao-paulo-bars-8",
+        "name": "2006 São Paulo gubernatorial election",
+        "cityId": "sao-paulo",
+        "categoryId": "bars",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=2006%20S%C3%A3o%20Paulo%20gubernatorial%20election%2C%20S%C3%A3o%20Paulo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/2006_S%C3%A3o_Paulo_gubernatorial_election",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Jos%C3%A9_Serra_no_Rio.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/2006_S%C3%A3o_Paulo_gubernatorial_election"
+        }
+      },
+      {
+        "id": "sao-paulo-bars-9",
+        "name": "Federal University of São Carlos",
+        "cityId": "sao-paulo",
+        "categoryId": "bars",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Federal%20University%20of%20S%C3%A3o%20Carlos%2C%20S%C3%A3o%20Paulo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Federal_University_of_S%C3%A3o_Carlos",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/Ufscar-logo.png/960px-Ufscar-logo.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Federal_University_of_S%C3%A3o_Carlos"
+        }
+      },
+      {
+        "id": "sao-paulo-bars-10",
+        "name": "2010 São Paulo gubernatorial election",
+        "cityId": "sao-paulo",
+        "categoryId": "bars",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=2010%20S%C3%A3o%20Paulo%20gubernatorial%20election%2C%20S%C3%A3o%20Paulo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/2010_S%C3%A3o_Paulo_gubernatorial_election",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Mapa_do_1%C2%BA_turno_da_elei%C3%A7%C3%A3o_para_governador_em_S%C3%A3o_Paulo_em_2010.svg/960px-Mapa_do_1%C2%BA_turno_da_elei%C3%A7%C3%A3o_para_governador_em_S%C3%A3o_Paulo_em_2010.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/2010_S%C3%A3o_Paulo_gubernatorial_election"
+        }
+      },
+      {
+        "id": "sao-paulo-bars-11",
+        "name": "2000 São Paulo mayoral election",
+        "cityId": "sao-paulo",
+        "categoryId": "bars",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=2000%20S%C3%A3o%20Paulo%20mayoral%20election%2C%20S%C3%A3o%20Paulo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/2000_S%C3%A3o_Paulo_mayoral_election",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Foto_oficial_de_Marta_Suplicy_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/2000_S%C3%A3o_Paulo_mayoral_election"
+        }
+      },
+      {
+        "id": "sao-paulo-bars-12",
+        "name": "Football Museum",
+        "cityId": "sao-paulo",
+        "categoryId": "bars",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Football%20Museum%2C%20S%C3%A3o%20Paulo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Football_Museum_(S%C3%A3o_Paulo)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Est%C3%A1dio_do_Pacaembu_entrance-2007-10-02.jpg/960px-Est%C3%A1dio_do_Pacaembu_entrance-2007-10-02.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Football_Museum_(S%C3%A3o_Paulo)"
+        }
+      },
+      {
+        "id": "sao-paulo-bars-13",
+        "name": "Rosely Roth",
+        "cityId": "sao-paulo",
+        "categoryId": "bars",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Rosely%20Roth%2C%20S%C3%A3o%20Paulo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Rosely_Roth",
+        "photo": null
+      },
+      {
+        "id": "sao-paulo-bars-14",
+        "name": "2004 São Paulo mayoral election",
+        "cityId": "sao-paulo",
+        "categoryId": "bars",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=2004%20S%C3%A3o%20Paulo%20mayoral%20election%2C%20S%C3%A3o%20Paulo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/2004_S%C3%A3o_Paulo_mayoral_election",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Mapa_das_zonas_eleitorais_de_SP_%282004%29.svg/960px-Mapa_das_zonas_eleitorais_de_SP_%282004%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/2004_S%C3%A3o_Paulo_mayoral_election"
+        }
+      },
+      {
+        "id": "sao-paulo-bars-15",
+        "name": "2012 São Paulo mayoral election",
+        "cityId": "sao-paulo",
+        "categoryId": "bars",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=2012%20S%C3%A3o%20Paulo%20mayoral%20election%2C%20S%C3%A3o%20Paulo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/2012_S%C3%A3o_Paulo_mayoral_election",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/Fernando_Haddad_na_CMSP.JPG/960px-Fernando_Haddad_na_CMSP.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/2012_S%C3%A3o_Paulo_mayoral_election"
+        }
+      },
+      {
+        "id": "sao-paulo-bars-16",
+        "name": "Instituto Mauá de Tecnologia",
+        "cityId": "sao-paulo",
+        "categoryId": "bars",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Instituto%20Mau%C3%A1%20de%20Tecnologia%2C%20S%C3%A3o%20Paulo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Instituto_Mau%C3%A1_de_Tecnologia",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Sacadas_Blocos_P_e_Q.JPG/960px-Sacadas_Blocos_P_e_Q.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Instituto_Mau%C3%A1_de_Tecnologia"
+        }
+      },
+      {
+        "id": "sao-paulo-bars-17",
+        "name": "2014 São Paulo gubernatorial election",
+        "cityId": "sao-paulo",
+        "categoryId": "bars",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=2014%20S%C3%A3o%20Paulo%20gubernatorial%20election%2C%20S%C3%A3o%20Paulo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/2014_S%C3%A3o_Paulo_gubernatorial_election",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Resultados_da_elei%C3%A7%C3%A3o_para_governador_de_S%C3%A3o_Paulo_em_2014_por_cidades.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/2014_S%C3%A3o_Paulo_gubernatorial_election"
+        }
+      },
+      {
+        "id": "sao-paulo-bars-18",
+        "name": "2015 FIG Artistic Gymnastics World Cup series",
+        "cityId": "sao-paulo",
+        "categoryId": "bars",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=2015%20FIG%20Artistic%20Gymnastics%20World%20Cup%20series%2C%20S%C3%A3o%20Paulo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/2015_FIG_Artistic_Gymnastics_World_Cup_series",
+        "photo": null
+      }
+    ],
+    "coffee_shops": [
+      {
+        "id": "sao-paulo-coffee_shops-1",
+        "name": "Milk coffee politics",
+        "cityId": "sao-paulo",
+        "categoryId": "coffee_shops",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Milk%20coffee%20politics%2C%20S%C3%A3o%20Paulo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Milk_coffee_politics",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Pol%C3%ADtica_do_caf%C3%A9_com_leite_%28Minas_e_S%C3%A3o_Paulo%29_at%C3%A9_1930.jpg/960px-Pol%C3%ADtica_do_caf%C3%A9_com_leite_%28Minas_e_S%C3%A3o_Paulo%29_at%C3%A9_1930.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Milk_coffee_politics"
+        }
+      },
+      {
+        "id": "sao-paulo-coffee_shops-2",
+        "name": "1984 São Paulo FC season",
+        "cityId": "sao-paulo",
+        "categoryId": "coffee_shops",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=1984%20S%C3%A3o%20Paulo%20FC%20season%2C%20S%C3%A3o%20Paulo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/1984_S%C3%A3o_Paulo_FC_season",
+        "photo": null
+      },
+      {
+        "id": "sao-paulo-coffee_shops-3",
+        "name": "Guy Ecker",
+        "cityId": "sao-paulo",
+        "categoryId": "coffee_shops",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Guy%20Ecker%2C%20S%C3%A3o%20Paulo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Guy_Ecker",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/73/Guy_Ecker_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Guy_Ecker"
+        }
+      },
+      {
+        "id": "sao-paulo-coffee_shops-4",
+        "name": "Café",
+        "cityId": "sao-paulo",
+        "categoryId": "coffee_shops",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Caf%C3%A9%2C%20S%C3%A3o%20Paulo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Caf%C3%A9_(musician)",
+        "photo": null
+      },
+      {
+        "id": "sao-paulo-coffee_shops-5",
+        "name": "Miss Brazil World",
+        "cityId": "sao-paulo",
+        "categoryId": "coffee_shops",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Miss%20Brazil%20World%2C%20S%C3%A3o%20Paulo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Miss_Brazil_World",
+        "photo": null
+      },
+      {
+        "id": "sao-paulo-coffee_shops-6",
+        "name": "Nereu Ramos",
+        "cityId": "sao-paulo",
+        "categoryId": "coffee_shops",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Nereu%20Ramos%2C%20S%C3%A3o%20Paulo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Nereu_Ramos",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Presidente_Nereu_Ramos.jpg/960px-Presidente_Nereu_Ramos.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Nereu_Ramos"
+        }
+      },
+      {
+        "id": "sao-paulo-coffee_shops-7",
+        "name": "São Paulo das Missões",
+        "cityId": "sao-paulo",
+        "categoryId": "coffee_shops",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=S%C3%A3o%20Paulo%20das%20Miss%C3%B5es%2C%20S%C3%A3o%20Paulo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/S%C3%A3o_Paulo_das_Miss%C3%B5es",
+        "photo": null
+      },
+      {
+        "id": "sao-paulo-coffee_shops-8",
+        "name": "Line 18",
+        "cityId": "sao-paulo",
+        "categoryId": "coffee_shops",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Line%2018%2C%20S%C3%A3o%20Paulo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Line_18_(S%C3%A3o_Paulo_Metro)",
+        "photo": null
+      },
+      {
+        "id": "sao-paulo-coffee_shops-9",
+        "name": "Dom Salvador",
+        "cityId": "sao-paulo",
+        "categoryId": "coffee_shops",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Dom%20Salvador%2C%20S%C3%A3o%20Paulo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Dom_Salvador",
+        "photo": null
+      },
+      {
+        "id": "sao-paulo-coffee_shops-10",
+        "name": "University of São Paulo",
+        "cityId": "sao-paulo",
+        "categoryId": "coffee_shops",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=University%20of%20S%C3%A3o%20Paulo%2C%20S%C3%A3o%20Paulo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/University_of_S%C3%A3o_Paulo",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Webysther_20170627_-_Bras%C3%A3o_USP.svg/960px-Webysther_20170627_-_Bras%C3%A3o_USP.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/University_of_S%C3%A3o_Paulo"
+        }
+      },
+      {
+        "id": "sao-paulo-coffee_shops-11",
+        "name": "Brazilian coffee cycle",
+        "cityId": "sao-paulo",
+        "categoryId": "coffee_shops",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Brazilian%20coffee%20cycle%2C%20S%C3%A3o%20Paulo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Brazilian_coffee_cycle",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Antonio_Ferrigno_-_A_Florada%2C_Acervo_do_Museu_Paulista_da_USP_%28sem_assinatura%29.jpg/960px-Antonio_Ferrigno_-_A_Florada%2C_Acervo_do_Museu_Paulista_da_USP_%28sem_assinatura%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Brazilian_coffee_cycle"
+        }
+      },
+      {
+        "id": "sao-paulo-coffee_shops-12",
+        "name": "1936 São Paulo FC season",
+        "cityId": "sao-paulo",
+        "categoryId": "coffee_shops",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=1936%20S%C3%A3o%20Paulo%20FC%20season%2C%20S%C3%A3o%20Paulo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/1936_S%C3%A3o_Paulo_FC_season",
+        "photo": null
+      },
+      {
+        "id": "sao-paulo-coffee_shops-13",
+        "name": "Santos, São Paulo",
+        "cityId": "sao-paulo",
+        "categoryId": "coffee_shops",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Santos%2C%20S%C3%A3o%20Paulo%2C%20S%C3%A3o%20Paulo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Santos%2C_S%C3%A3o_Paulo",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/At_Santos%2C_Brazil_2018_480_%28cropped%29.jpg/960px-At_Santos%2C_Brazil_2018_480_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Santos%2C_S%C3%A3o_Paulo"
+        }
+      },
+      {
+        "id": "sao-paulo-coffee_shops-14",
+        "name": "Imperatriz Leopoldina",
+        "cityId": "sao-paulo",
+        "categoryId": "coffee_shops",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Imperatriz%20Leopoldina%2C%20S%C3%A3o%20Paulo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Imperatriz_Leopoldina_(CPTM)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/Esta%C3%A7%C3%A3o_Imperatriz_Leopoldina_01.jpg/960px-Esta%C3%A7%C3%A3o_Imperatriz_Leopoldina_01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Imperatriz_Leopoldina_(CPTM)"
+        }
+      },
+      {
+        "id": "sao-paulo-coffee_shops-15",
+        "name": "Coronelism",
+        "cityId": "sao-paulo",
+        "categoryId": "coffee_shops",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Coronelism%2C%20S%C3%A3o%20Paulo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Coronelism",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Brazil_16thc_map.jpg/960px-Brazil_16thc_map.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Coronelism"
+        }
+      },
+      {
+        "id": "sao-paulo-coffee_shops-16",
+        "name": "São Paulo",
+        "cityId": "sao-paulo",
+        "categoryId": "coffee_shops",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=S%C3%A3o%20Paulo%2C%20S%C3%A3o%20Paulo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/S%C3%A3o_Paulo_(state)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/Bandeira_do_estado_de_S%C3%A3o_Paulo.svg/960px-Bandeira_do_estado_de_S%C3%A3o_Paulo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/S%C3%A3o_Paulo_(state)"
+        }
+      },
+      {
+        "id": "sao-paulo-coffee_shops-17",
+        "name": "Pão na chapa",
+        "cityId": "sao-paulo",
+        "categoryId": "coffee_shops",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=P%C3%A3o%20na%20chapa%2C%20S%C3%A3o%20Paulo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/P%C3%A3o_na_chapa",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e9/P%C3%A3o_na_chapa.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/P%C3%A3o_na_chapa"
+        }
+      },
+      {
+        "id": "sao-paulo-coffee_shops-18",
+        "name": "Estádio Santa Cruz",
+        "cityId": "sao-paulo",
+        "categoryId": "coffee_shops",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Est%C3%A1dio%20Santa%20Cruz%2C%20S%C3%A3o%20Paulo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Est%C3%A1dio_Santa_Cruz",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Estadio_santacruz.JPG/960px-Estadio_santacruz.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Est%C3%A1dio_Santa_Cruz"
+        }
+      }
+    ],
+    "bookshops": [
+      {
+        "id": "sao-paulo-bookshops-1",
+        "name": "Conjunto Nacional",
+        "cityId": "sao-paulo",
+        "categoryId": "bookshops",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Conjunto%20Nacional%2C%20S%C3%A3o%20Paulo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Conjunto_Nacional_(S%C3%A3o_Paulo)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/At_Avenida_Paulista%2C_S%C3%A3o_Paulo_2019_24.jpg/960px-At_Avenida_Paulista%2C_S%C3%A3o_Paulo_2019_24.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Conjunto_Nacional_(S%C3%A3o_Paulo)"
+        }
+      },
+      {
+        "id": "sao-paulo-bookshops-2",
+        "name": "Editora Globo",
+        "cityId": "sao-paulo",
+        "categoryId": "bookshops",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Editora%20Globo%2C%20S%C3%A3o%20Paulo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Editora_Globo",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/Jaguar%C3%A9_-_M%C3%ADdia_Center_%28Ed._Globo%29.JPG/960px-Jaguar%C3%A9_-_M%C3%ADdia_Center_%28Ed._Globo%29.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Editora_Globo"
+        }
+      },
+      {
+        "id": "sao-paulo-bookshops-3",
+        "name": "Livraria Cultura",
+        "cityId": "sao-paulo",
+        "categoryId": "bookshops",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Livraria%20Cultura%2C%20S%C3%A3o%20Paulo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Livraria_Cultura",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Livraria_Cultura%2C_Avenida_Paulista%2C_S%C3%A3o_Paulo%2C_Brazil.jpg/960px-Livraria_Cultura%2C_Avenida_Paulista%2C_S%C3%A3o_Paulo%2C_Brazil.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Livraria_Cultura"
+        }
+      },
+      {
+        "id": "sao-paulo-bookshops-4",
+        "name": "Biblioteca Brasiliana Guita e José Mindlin",
+        "cityId": "sao-paulo",
+        "categoryId": "bookshops",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Biblioteca%20Brasiliana%20Guita%20e%20Jos%C3%A9%20Mindlin%2C%20S%C3%A3o%20Paulo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Biblioteca_Brasiliana_Guita_e_Jos%C3%A9_Mindlin",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/BBM_20141014_072219.jpg/960px-BBM_20141014_072219.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Biblioteca_Brasiliana_Guita_e_Jos%C3%A9_Mindlin"
+        }
+      },
+      {
+        "id": "sao-paulo-bookshops-5",
+        "name": "Liberdade",
+        "cityId": "sao-paulo",
+        "categoryId": "bookshops",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Liberdade%2C%20S%C3%A3o%20Paulo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Liberdade_(district_of_S%C3%A3o_Paulo)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/Liberdade%2C_S%C3%A3o_Paulo%2C_Brasil_-_panoramio.jpg/960px-Liberdade%2C_S%C3%A3o_Paulo%2C_Brasil_-_panoramio.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Liberdade_(district_of_S%C3%A3o_Paulo)"
+        }
+      },
+      {
+        "id": "sao-paulo-bookshops-6",
+        "name": "Centro Cultural e de Estudos Superiores Aúthos Pagano",
+        "cityId": "sao-paulo",
+        "categoryId": "bookshops",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Centro%20Cultural%20e%20de%20Estudos%20Superiores%20A%C3%BAthos%20Pagano%2C%20S%C3%A3o%20Paulo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Centro_Cultural_e_de_Estudos_Superiores_A%C3%BAthos_Pagano",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Centro_Cultural_e_de_Estudos_Superiores_A%C3%BAthos_Pagano_02.jpg/960px-Centro_Cultural_e_de_Estudos_Superiores_A%C3%BAthos_Pagano_02.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Centro_Cultural_e_de_Estudos_Superiores_A%C3%BAthos_Pagano"
+        }
+      },
+      {
+        "id": "sao-paulo-bookshops-7",
+        "name": "Edifício Copan",
+        "cityId": "sao-paulo",
+        "categoryId": "bookshops",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Edif%C3%ADcio%20Copan%2C%20S%C3%A3o%20Paulo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Edif%C3%ADcio_Copan",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/Edif%C3%ADcio_Copan_-_frente.jpg/960px-Edif%C3%ADcio_Copan_-_frente.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Edif%C3%ADcio_Copan"
+        }
+      },
+      {
+        "id": "sao-paulo-bookshops-8",
+        "name": "Universidade do Vale do Paraíba",
+        "cityId": "sao-paulo",
+        "categoryId": "bookshops",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Universidade%20do%20Vale%20do%20Para%C3%ADba%2C%20S%C3%A3o%20Paulo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Universidade_do_Vale_do_Para%C3%ADba",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/Universidade_do_Vale_do_Para%C3%ADba_logo.png/960px-Universidade_do_Vale_do_Para%C3%ADba_logo.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Universidade_do_Vale_do_Para%C3%ADba"
+        }
+      },
+      {
+        "id": "sao-paulo-bookshops-9",
+        "name": "Câmara Brasileira do Livro",
+        "cityId": "sao-paulo",
+        "categoryId": "bookshops",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=C%C3%A2mara%20Brasileira%20do%20Livro%2C%20S%C3%A3o%20Paulo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/C%C3%A2mara_Brasileira_do_Livro",
+        "photo": null
+      },
+      {
+        "id": "sao-paulo-bookshops-10",
+        "name": "Companhia das Letras",
+        "cityId": "sao-paulo",
+        "categoryId": "bookshops",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Companhia%20das%20Letras%2C%20S%C3%A3o%20Paulo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Companhia_das_Letras",
+        "photo": null
+      },
+      {
+        "id": "sao-paulo-bookshops-11",
+        "name": "Emiliano Di Cavalcanti",
+        "cityId": "sao-paulo",
+        "categoryId": "bookshops",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Emiliano%20Di%20Cavalcanti%2C%20S%C3%A3o%20Paulo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Emiliano_Di_Cavalcanti",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/Di_Cavalcanti%2C_1964_-_restored_%28cropped%29.tif/lossy-page1-960px-Di_Cavalcanti%2C_1964_-_restored_%28cropped%29.tif.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Emiliano_Di_Cavalcanti"
+        }
+      },
+      {
+        "id": "sao-paulo-bookshops-12",
+        "name": "Pessoa",
+        "cityId": "sao-paulo",
+        "categoryId": "bookshops",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Pessoa%2C%20S%C3%A3o%20Paulo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Pessoa_(magazine)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Logo-Pessoa.jpg/960px-Logo-Pessoa.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Pessoa_(magazine)"
+        }
+      },
+      {
+        "id": "sao-paulo-bookshops-13",
+        "name": "Inês Bonduki",
+        "cityId": "sao-paulo",
+        "categoryId": "bookshops",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=In%C3%AAs%20Bonduki%2C%20S%C3%A3o%20Paulo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/In%C3%AAs_Bonduki",
+        "photo": null
+      },
+      {
+        "id": "sao-paulo-bookshops-14",
+        "name": "Companhia Zaffari",
+        "cityId": "sao-paulo",
+        "categoryId": "bookshops",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Companhia%20Zaffari%2C%20S%C3%A3o%20Paulo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Companhia_Zaffari",
+        "photo": null
+      },
+      {
+        "id": "sao-paulo-bookshops-15",
+        "name": "Folha da Manhã",
+        "cityId": "sao-paulo",
+        "categoryId": "bookshops",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Folha%20da%20Manh%C3%A3%2C%20S%C3%A3o%20Paulo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Folha_da_Manh%C3%A3",
+        "photo": null
+      },
+      {
+        "id": "sao-paulo-bookshops-16",
+        "name": "Braga",
+        "cityId": "sao-paulo",
+        "categoryId": "bookshops",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Braga%2C%20S%C3%A3o%20Paulo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Braga_(Maximinos%2C_S%C3%A9_e_Cividade)",
+        "photo": null
+      },
+      {
+        "id": "sao-paulo-bookshops-17",
+        "name": "Evandro Affonso Ferreira",
+        "cityId": "sao-paulo",
+        "categoryId": "bookshops",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Evandro%20Affonso%20Ferreira%2C%20S%C3%A3o%20Paulo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Evandro_Affonso_Ferreira",
+        "photo": null
+      },
+      {
+        "id": "sao-paulo-bookshops-18",
+        "name": "The Amazing Race 3",
+        "cityId": "sao-paulo",
+        "categoryId": "bookshops",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Amazing%20Race%203%2C%20S%C3%A3o%20Paulo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/The_Amazing_Race_3_(Latin_American_season)",
+        "photo": null
+      }
+    ],
+    "museums": [
+      {
+        "id": "sao-paulo-museums-1",
+        "name": "São Paulo",
+        "cityId": "sao-paulo",
+        "categoryId": "museums",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=S%C3%A3o%20Paulo%2C%20S%C3%A3o%20Paulo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/S%C3%A3o_Paulo",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/Marginal_Pinheiros_e_Jockey_Club.jpg/960px-Marginal_Pinheiros_e_Jockey_Club.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/S%C3%A3o_Paulo"
+        }
+      },
+      {
+        "id": "sao-paulo-museums-2",
+        "name": "São Paulo Museum of Modern Art",
+        "cityId": "sao-paulo",
+        "categoryId": "museums",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=S%C3%A3o%20Paulo%20Museum%20of%20Modern%20Art%2C%20S%C3%A3o%20Paulo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/S%C3%A3o_Paulo_Museum_of_Modern_Art",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Museu_de_Arte_Moderna%2C_S%C3%A3o_Paulo_-_Fachada.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/S%C3%A3o_Paulo_Museum_of_Modern_Art"
+        }
+      },
+      {
+        "id": "sao-paulo-museums-3",
+        "name": "São Paulo Museum of Art",
+        "cityId": "sao-paulo",
+        "categoryId": "museums",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=S%C3%A3o%20Paulo%20Museum%20of%20Art%2C%20S%C3%A3o%20Paulo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/S%C3%A3o_Paulo_Museum_of_Art",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Vista_a%C3%A9rea_de_la_Avenida_Paulista_de_S%C3%A3o_Paulo_05.jpg/960px-Vista_a%C3%A9rea_de_la_Avenida_Paulista_de_S%C3%A3o_Paulo_05.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/S%C3%A3o_Paulo_Museum_of_Art"
+        }
+      },
+      {
+        "id": "sao-paulo-museums-4",
+        "name": "Museum of Contemporary Art, University of São Paulo",
+        "cityId": "sao-paulo",
+        "categoryId": "museums",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Museum%20of%20Contemporary%20Art%2C%20University%20of%20S%C3%A3o%20Paulo%2C%20S%C3%A3o%20Paulo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Museum_of_Contemporary_Art%2C_University_of_S%C3%A3o_Paulo",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/2d/MAC-USP%2C_fachada_6.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Museum_of_Contemporary_Art%2C_University_of_S%C3%A3o_Paulo"
+        }
+      },
+      {
+        "id": "sao-paulo-museums-5",
+        "name": "Pacaembu Stadium",
+        "cityId": "sao-paulo",
+        "categoryId": "museums",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Pacaembu%20Stadium%2C%20S%C3%A3o%20Paulo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Pacaembu_Stadium",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Pacaembu.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Pacaembu_Stadium"
+        }
+      },
+      {
+        "id": "sao-paulo-museums-6",
+        "name": "University of São Paulo",
+        "cityId": "sao-paulo",
+        "categoryId": "museums",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=University%20of%20S%C3%A3o%20Paulo%2C%20S%C3%A3o%20Paulo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/University_of_S%C3%A3o_Paulo",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Webysther_20170627_-_Bras%C3%A3o_USP.svg/960px-Webysther_20170627_-_Bras%C3%A3o_USP.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/University_of_S%C3%A3o_Paulo"
+        }
+      },
+      {
+        "id": "sao-paulo-museums-7",
+        "name": "São Paulo Museum of Image and Sound",
+        "cityId": "sao-paulo",
+        "categoryId": "museums",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=S%C3%A3o%20Paulo%20Museum%20of%20Image%20and%20Sound%2C%20S%C3%A3o%20Paulo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/S%C3%A3o_Paulo_Museum_of_Image_and_Sound",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/88/MIS%2C_SP%2C_6_%28entrada%29.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/S%C3%A3o_Paulo_Museum_of_Image_and_Sound"
+        }
+      },
+      {
+        "id": "sao-paulo-museums-8",
+        "name": "São Paulo International Film Festival",
+        "cityId": "sao-paulo",
+        "categoryId": "museums",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=S%C3%A3o%20Paulo%20International%20Film%20Festival%2C%20S%C3%A3o%20Paulo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/S%C3%A3o_Paulo_International_Film_Festival",
+        "photo": null
+      },
+      {
+        "id": "sao-paulo-museums-9",
+        "name": "Museu do Ipiranga",
+        "cityId": "sao-paulo",
+        "categoryId": "museums",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Museu%20do%20Ipiranga%2C%20S%C3%A3o%20Paulo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Museu_do_Ipiranga",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Logo_Museu_do_Ipiranga_%E2%80%93_USP.svg/960px-Logo_Museu_do_Ipiranga_%E2%80%93_USP.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Museu_do_Ipiranga"
+        }
+      },
+      {
+        "id": "sao-paulo-museums-10",
+        "name": "Pinacoteca do Estado de São Paulo",
+        "cityId": "sao-paulo",
+        "categoryId": "museums",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Pinacoteca%20do%20Estado%20de%20S%C3%A3o%20Paulo%2C%20S%C3%A3o%20Paulo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Pinacoteca_do_Estado_de_S%C3%A3o_Paulo",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Pinacoteca_de_S%C3%A3o_Paulo%2C_Brazil.jpg/960px-Pinacoteca_de_S%C3%A3o_Paulo%2C_Brazil.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Pinacoteca_do_Estado_de_S%C3%A3o_Paulo"
+        }
+      },
+      {
+        "id": "sao-paulo-museums-11",
+        "name": "Bom Retiro",
+        "cityId": "sao-paulo",
+        "categoryId": "museums",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Bom%20Retiro%2C%20S%C3%A3o%20Paulo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Bom_Retiro_(district_of_S%C3%A3o_Paulo)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Bom_Retiro.png/960px-Bom_Retiro.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Bom_Retiro_(district_of_S%C3%A3o_Paulo)"
+        }
+      },
+      {
+        "id": "sao-paulo-museums-12",
+        "name": "Museum of Sacred Art of São Paulo",
+        "cityId": "sao-paulo",
+        "categoryId": "museums",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Museum%20of%20Sacred%20Art%20of%20S%C3%A3o%20Paulo%2C%20S%C3%A3o%20Paulo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Museum_of_Sacred_Art_of_S%C3%A3o_Paulo",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Museu_de_Arte_Sacra_de_S%C3%A3o_Paulo.jpg/960px-Museu_de_Arte_Sacra_de_S%C3%A3o_Paulo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Museum_of_Sacred_Art_of_S%C3%A3o_Paulo"
+        }
+      },
+      {
+        "id": "sao-paulo-museums-13",
+        "name": "Museum of Art of the Parliament of São Paulo",
+        "cityId": "sao-paulo",
+        "categoryId": "museums",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Museum%20of%20Art%20of%20the%20Parliament%20of%20S%C3%A3o%20Paulo%2C%20S%C3%A3o%20Paulo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Museum_of_Art_of_the_Parliament_of_S%C3%A3o_Paulo",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Assembleia_Legislativa_e_Parque.jpg/960px-Assembleia_Legislativa_e_Parque.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Museum_of_Art_of_the_Parliament_of_S%C3%A3o_Paulo"
+        }
+      },
+      {
+        "id": "sao-paulo-museums-14",
+        "name": "Immigration Museum of the State of São Paulo",
+        "cityId": "sao-paulo",
+        "categoryId": "museums",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Immigration%20Museum%20of%20the%20State%20of%20S%C3%A3o%20Paulo%2C%20S%C3%A3o%20Paulo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Immigration_Museum_of_the_State_of_S%C3%A3o_Paulo",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Immigration_Museum_of_the_State_of_S%C3%A3o_Paulo_2017_032.jpg/960px-Immigration_Museum_of_the_State_of_S%C3%A3o_Paulo_2017_032.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Immigration_Museum_of_the_State_of_S%C3%A3o_Paulo"
+        }
+      },
+      {
+        "id": "sao-paulo-museums-15",
+        "name": "São Paulo Fashion Week",
+        "cityId": "sao-paulo",
+        "categoryId": "museums",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=S%C3%A3o%20Paulo%20Fashion%20Week%2C%20S%C3%A3o%20Paulo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/S%C3%A3o_Paulo_Fashion_Week",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Osklen%2C_SPFW_N43.jpg/960px-Osklen%2C_SPFW_N43.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/S%C3%A3o_Paulo_Fashion_Week"
+        }
+      },
+      {
+        "id": "sao-paulo-museums-16",
+        "name": "Jardins",
+        "cityId": "sao-paulo",
+        "categoryId": "museums",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Jardins%2C%20S%C3%A3o%20Paulo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Jardins",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Bairro_dos_jardins_em_s%C3%A3o_paulo.jpg/960px-Bairro_dos_jardins_em_s%C3%A3o_paulo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Jardins"
+        }
+      },
+      {
+        "id": "sao-paulo-museums-17",
+        "name": "São Paulo Indy 300",
+        "cityId": "sao-paulo",
+        "categoryId": "museums",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=S%C3%A3o%20Paulo%20Indy%20300%2C%20S%C3%A3o%20Paulo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/S%C3%A3o_Paulo_Indy_300",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/Anhembi.svg/960px-Anhembi.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/S%C3%A3o_Paulo_Indy_300"
+        }
+      },
+      {
+        "id": "sao-paulo-museums-18",
+        "name": "Beco do Batman",
+        "cityId": "sao-paulo",
+        "categoryId": "museums",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Beco%20do%20Batman%2C%20S%C3%A3o%20Paulo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Beco_do_Batman",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/Beco_do_Batman_-_Vila-Madalena%2C_S%C3%A3o_Paulo_-_SP_07.jpg/960px-Beco_do_Batman_-_Vila-Madalena%2C_S%C3%A3o_Paulo_-_SP_07.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Beco_do_Batman"
+        }
+      }
+    ],
+    "concerts": [
+      {
+        "id": "sao-paulo-concerts-1",
+        "name": "Sala São Paulo",
+        "cityId": "sao-paulo",
+        "categoryId": "concerts",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Sala%20S%C3%A3o%20Paulo%2C%20S%C3%A3o%20Paulo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Sala_S%C3%A3o_Paulo",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Webysther_20150501201754_-_Interior_Sala_S%C3%A3o_Paulo.jpg/960px-Webysther_20150501201754_-_Interior_Sala_S%C3%A3o_Paulo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Sala_S%C3%A3o_Paulo"
+        }
+      },
+      {
+        "id": "sao-paulo-concerts-2",
+        "name": "Ibirapuera Auditorium",
+        "cityId": "sao-paulo",
+        "categoryId": "concerts",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Ibirapuera%20Auditorium%2C%20S%C3%A3o%20Paulo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Ibirapuera_Auditorium",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/Parque_Ibirapuera%2C_Oscar_Niemeyer_%285877297727%29.jpg/960px-Parque_Ibirapuera%2C_Oscar_Niemeyer_%285877297727%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Ibirapuera_Auditorium"
+        }
+      },
+      {
+        "id": "sao-paulo-concerts-3",
+        "name": "Ronaldo Miranda",
+        "cityId": "sao-paulo",
+        "categoryId": "concerts",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Ronaldo%20Miranda%2C%20S%C3%A3o%20Paulo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Ronaldo_Miranda",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Ronaldo_Miranda_%282014%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Ronaldo_Miranda"
+        }
+      },
+      {
+        "id": "sao-paulo-concerts-4",
+        "name": "Conservatório Dramático e Musical de São Paulo",
+        "cityId": "sao-paulo",
+        "categoryId": "concerts",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Conservat%C3%B3rio%20Dram%C3%A1tico%20e%20Musical%20de%20S%C3%A3o%20Paulo%2C%20S%C3%A3o%20Paulo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Conservat%C3%B3rio_Dram%C3%A1tico_e_Musical_de_S%C3%A3o_Paulo",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Conservat%C3%B3rio_Dram%C3%A1tico_e_Musical_de_S%C3%A3o_Paulo_01.jpg/960px-Conservat%C3%B3rio_Dram%C3%A1tico_e_Musical_de_S%C3%A3o_Paulo_01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Conservat%C3%B3rio_Dram%C3%A1tico_e_Musical_de_S%C3%A3o_Paulo"
+        }
+      },
+      {
+        "id": "sao-paulo-concerts-5",
+        "name": "Bom Retiro",
+        "cityId": "sao-paulo",
+        "categoryId": "concerts",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Bom%20Retiro%2C%20S%C3%A3o%20Paulo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Bom_Retiro_(district_of_S%C3%A3o_Paulo)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Bom_Retiro.png/960px-Bom_Retiro.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Bom_Retiro_(district_of_S%C3%A3o_Paulo)"
+        }
+      },
+      {
+        "id": "sao-paulo-concerts-6",
+        "name": "Hillsong Church São Paulo",
+        "cityId": "sao-paulo",
+        "categoryId": "concerts",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Hillsong%20Church%20S%C3%A3o%20Paulo%2C%20S%C3%A3o%20Paulo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Hillsong_Church_S%C3%A3o_Paulo",
+        "photo": null
+      },
+      {
+        "id": "sao-paulo-concerts-7",
+        "name": "Aarhus Pride",
+        "cityId": "sao-paulo",
+        "categoryId": "concerts",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Aarhus%20Pride%2C%20S%C3%A3o%20Paulo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Aarhus_Pride",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Aarhus_Pride%2C_2012%2C_start_of_day.jpg/960px-Aarhus_Pride%2C_2012%2C_start_of_day.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Aarhus_Pride"
+        }
+      },
+      {
+        "id": "sao-paulo-concerts-8",
+        "name": "Russell Johnson",
+        "cityId": "sao-paulo",
+        "categoryId": "concerts",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Russell%20Johnson%2C%20S%C3%A3o%20Paulo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Russell_Johnson_(acoustician)",
+        "photo": null
+      },
+      {
+        "id": "sao-paulo-concerts-9",
+        "name": "Teatro Cultura Artística",
+        "cityId": "sao-paulo",
+        "categoryId": "concerts",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Teatro%20Cultura%20Art%C3%ADstica%2C%20S%C3%A3o%20Paulo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Teatro_Cultura_Art%C3%ADstica",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Teatro_Cultura_Art%C3%ADstica_01.jpg/960px-Teatro_Cultura_Art%C3%ADstica_01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Teatro_Cultura_Art%C3%ADstica"
+        }
+      },
+      {
+        "id": "sao-paulo-concerts-10",
+        "name": "Roman Zaslavsky",
+        "cityId": "sao-paulo",
+        "categoryId": "concerts",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Roman%20Zaslavsky%2C%20S%C3%A3o%20Paulo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Roman_Zaslavsky",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/Roman_Zaslavsky_in_recital.jpg/960px-Roman_Zaslavsky_in_recital.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Roman_Zaslavsky"
+        }
+      },
+      {
+        "id": "sao-paulo-concerts-11",
+        "name": "Campos Elíseos",
+        "cityId": "sao-paulo",
+        "categoryId": "concerts",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Campos%20El%C3%ADseos%2C%20S%C3%A3o%20Paulo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Campos_El%C3%ADseos_(S%C3%A3o_Paulo)",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Santa_cec%C3%ADlia.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Campos_El%C3%ADseos_(S%C3%A3o_Paulo)"
+        }
+      },
+      {
+        "id": "sao-paulo-concerts-12",
+        "name": "In the Name of Love Tour",
+        "cityId": "sao-paulo",
+        "categoryId": "concerts",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=In%20the%20Name%20of%20Love%20Tour%2C%20S%C3%A3o%20Paulo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/In_the_Name_of_Love_Tour",
+        "photo": null
+      },
+      {
+        "id": "sao-paulo-concerts-13",
+        "name": "Zagreb Open",
+        "cityId": "sao-paulo",
+        "categoryId": "concerts",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Zagreb%20Open%2C%20S%C3%A3o%20Paulo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Zagreb_Open",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/ChristopheRochusStuttgart06.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Zagreb_Open"
+        }
+      },
+      {
+        "id": "sao-paulo-concerts-14",
+        "name": "Timeline of São Paulo",
+        "cityId": "sao-paulo",
+        "categoryId": "concerts",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Timeline%20of%20S%C3%A3o%20Paulo%2C%20S%C3%A3o%20Paulo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Timeline_of_S%C3%A3o_Paulo",
+        "photo": null
+      },
+      {
+        "id": "sao-paulo-concerts-15",
+        "name": "Björk Orkestral",
+        "cityId": "sao-paulo",
+        "categoryId": "concerts",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Bj%C3%B6rk%20Orkestral%2C%20S%C3%A3o%20Paulo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Bj%C3%B6rk_Orkestral",
+        "photo": null
+      },
+      {
+        "id": "sao-paulo-concerts-16",
+        "name": "Teatro Maria Della Costa",
+        "cityId": "sao-paulo",
+        "categoryId": "concerts",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Teatro%20Maria%20Della%20Costa%2C%20S%C3%A3o%20Paulo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Teatro_Maria_Della_Costa",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/S%C3%A3o_Paulo_-_Teatro_Maria_della_Costa_02.jpg/960px-S%C3%A3o_Paulo_-_Teatro_Maria_della_Costa_02.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Teatro_Maria_Della_Costa"
+        }
+      },
+      {
+        "id": "sao-paulo-concerts-17",
+        "name": "Waltz Suite",
+        "cityId": "sao-paulo",
+        "categoryId": "concerts",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Waltz%20Suite%2C%20S%C3%A3o%20Paulo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Waltz_Suite_(Prokofiev)",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/65/Prokofiev_familly_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Waltz_Suite_(Prokofiev)"
+        }
+      },
+      {
+        "id": "sao-paulo-concerts-18",
+        "name": "Teatro Paramount",
+        "cityId": "sao-paulo",
+        "categoryId": "concerts",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Teatro%20Paramount%2C%20S%C3%A3o%20Paulo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Teatro_Paramount",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/Teatro_Abril_%28Paramount%29_01.JPG/960px-Teatro_Abril_%28Paramount%29_01.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Teatro_Paramount"
+        }
+      }
+    ],
+    "fashion": [
+      {
+        "id": "sao-paulo-fashion-1",
+        "name": "Barra Funda",
+        "cityId": "sao-paulo",
+        "categoryId": "fashion",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Barra%20Funda%2C%20S%C3%A3o%20Paulo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Barra_Funda_(district_of_S%C3%A3o_Paulo)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Passeio_de_Helic%C3%B3ptero_em_S%C3%A3o_Paulo.jpg/960px-Passeio_de_Helic%C3%B3ptero_em_S%C3%A3o_Paulo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Barra_Funda_(district_of_S%C3%A3o_Paulo)"
+        }
+      },
+      {
+        "id": "sao-paulo-fashion-2",
+        "name": "Terri Stickles",
+        "cityId": "sao-paulo",
+        "categoryId": "fashion",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Terri%20Stickles%2C%20S%C3%A3o%20Paulo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Terri_Stickles",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/en/7/7d/SticklesTerri1964SwimOlympian.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Terri_Stickles"
+        }
+      },
+      {
+        "id": "sao-paulo-fashion-3",
+        "name": "Sharon Stouder",
+        "cityId": "sao-paulo",
+        "categoryId": "fashion",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Sharon%20Stouder%2C%20S%C3%A3o%20Paulo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Sharon_Stouder",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/17/Sharon_Stouder_1965.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Sharon_Stouder"
+        }
+      },
+      {
+        "id": "sao-paulo-fashion-4",
+        "name": "Lívia Andrade",
+        "cityId": "sao-paulo",
+        "categoryId": "fashion",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=L%C3%ADvia%20Andrade%2C%20S%C3%A3o%20Paulo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/L%C3%ADvia_Andrade",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Live_Casa_Mimosa_-_Participa%C3%A7%C3%A3o_Livia_Andrade_%28cropped%29.jpg/960px-Live_Casa_Mimosa_-_Participa%C3%A7%C3%A3o_Livia_Andrade_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/L%C3%ADvia_Andrade"
+        }
+      },
+      {
+        "id": "sao-paulo-fashion-5",
+        "name": "Mila Zeiger",
+        "cityId": "sao-paulo",
+        "categoryId": "fashion",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Mila%20Zeiger%2C%20S%C3%A3o%20Paulo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Mila_Zeiger",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/MilaZeiger_Bio.jpg/960px-MilaZeiger_Bio.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Mila_Zeiger"
+        }
+      },
+      {
+        "id": "sao-paulo-fashion-6",
+        "name": "Emanuela de Paula",
+        "cityId": "sao-paulo",
+        "categoryId": "fashion",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Emanuela%20de%20Paula%2C%20S%C3%A3o%20Paulo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Emanuela_de_Paula",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Emanuelee.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Emanuela_de_Paula"
+        }
+      },
+      {
+        "id": "sao-paulo-fashion-7",
+        "name": "Zezeh Barbosa",
+        "cityId": "sao-paulo",
+        "categoryId": "fashion",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Zezeh%20Barbosa%2C%20S%C3%A3o%20Paulo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Zezeh_Barbosa",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/93/Zezeh_Barbosa_%281%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Zezeh_Barbosa"
+        }
+      },
+      {
+        "id": "sao-paulo-fashion-8",
+        "name": "Ana Hickmann",
+        "cityId": "sao-paulo",
+        "categoryId": "fashion",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Ana%20Hickmann%2C%20S%C3%A3o%20Paulo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Ana_Hickmann",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Senado_Federal_65_anos_TV_Record_15_Ana_Hickmann.jpg/960px-Senado_Federal_65_anos_TV_Record_15_Ana_Hickmann.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Ana_Hickmann"
+        }
+      },
+      {
+        "id": "sao-paulo-fashion-9",
+        "name": "Leandro e Leonardo",
+        "cityId": "sao-paulo",
+        "categoryId": "fashion",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Leandro%20e%20Leonardo%2C%20S%C3%A3o%20Paulo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Leandro_e_Leonardo",
+        "photo": null
+      },
+      {
+        "id": "sao-paulo-fashion-10",
+        "name": "Jackeline Olivier",
+        "cityId": "sao-paulo",
+        "categoryId": "fashion",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Jackeline%20Olivier%2C%20S%C3%A3o%20Paulo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Jackeline_Olivier",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Jackeline_Olivier_on_RealTVfilms.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Jackeline_Olivier"
+        }
+      },
+      {
+        "id": "sao-paulo-fashion-11",
+        "name": "RBD",
+        "cityId": "sao-paulo",
+        "categoryId": "fashion",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=RBD%2C%20S%C3%A3o%20Paulo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/RBD",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Soy_Rebelde_Tour_-_Rio_de_Janeiro_-_Nov_10%2C_2023_-_53332493867.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/RBD"
+        }
+      },
+      {
+        "id": "sao-paulo-fashion-12",
+        "name": "El Dorado World Tour",
+        "cityId": "sao-paulo",
+        "categoryId": "fashion",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=El%20Dorado%20World%20Tour%2C%20S%C3%A3o%20Paulo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/El_Dorado_World_Tour",
+        "photo": null
+      },
+      {
+        "id": "sao-paulo-fashion-13",
+        "name": "Chrissie Hynde",
+        "cityId": "sao-paulo",
+        "categoryId": "fashion",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Chrissie%20Hynde%2C%20S%C3%A3o%20Paulo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Chrissie_Hynde",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/79/Chrissie_Hynde_2013.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Chrissie_Hynde"
+        }
+      },
+      {
+        "id": "sao-paulo-fashion-14",
+        "name": "Requiem for a Dream",
+        "cityId": "sao-paulo",
+        "categoryId": "fashion",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Requiem%20for%20a%20Dream%2C%20S%C3%A3o%20Paulo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Requiem_for_a_Dream",
+        "photo": null
+      },
+      {
+        "id": "sao-paulo-fashion-15",
+        "name": "David Goldblatt",
+        "cityId": "sao-paulo",
+        "categoryId": "fashion",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=David%20Goldblatt%2C%20S%C3%A3o%20Paulo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/David_Goldblatt",
+        "photo": null
+      },
+      {
+        "id": "sao-paulo-fashion-16",
+        "name": "Double-decker bus",
+        "cityId": "sao-paulo",
+        "categoryId": "fashion",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Double-decker%20bus%2C%20S%C3%A3o%20Paulo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Double-decker_bus",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/Abellio_LT157_%28LTZ1157%29_Holborn_Viaduct_20.01.2024.jpg/960px-Abellio_LT157_%28LTZ1157%29_Holborn_Viaduct_20.01.2024.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Double-decker_bus"
+        }
+      },
+      {
+        "id": "sao-paulo-fashion-17",
+        "name": "The Nine Lives of Chloe King",
+        "cityId": "sao-paulo",
+        "categoryId": "fashion",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Nine%20Lives%20of%20Chloe%20King%2C%20S%C3%A3o%20Paulo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/The_Nine_Lives_of_Chloe_King",
+        "photo": null
+      },
+      {
+        "id": "sao-paulo-fashion-18",
+        "name": "Grande Torino",
+        "cityId": "sao-paulo",
+        "categoryId": "fashion",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Grande%20Torino%2C%20S%C3%A3o%20Paulo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Grande_Torino",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Grande_Torino_1948_49.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Grande_Torino"
+        }
+      }
+    ],
+    "shops": [
+      {
+        "id": "sao-paulo-shops-1",
+        "name": "Vila Madalena",
+        "cityId": "sao-paulo",
+        "categoryId": "shops",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Vila%20Madalena%2C%20S%C3%A3o%20Paulo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Vila_Madalena",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/Por-do-Sol_%28P%C3%B3s-Chuva%29_-_Vila_Madalena_S%C3%A3o_Paulo_-_SP_-_Flickr_-_Rodrigo_Paoletti.jpg/960px-Por-do-Sol_%28P%C3%B3s-Chuva%29_-_Vila_Madalena_S%C3%A3o_Paulo_-_SP_-_Flickr_-_Rodrigo_Paoletti.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Vila_Madalena"
+        }
+      },
+      {
+        "id": "sao-paulo-shops-2",
+        "name": "Vibra São Paulo",
+        "cityId": "sao-paulo",
+        "categoryId": "shops",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Vibra%20S%C3%A3o%20Paulo%2C%20S%C3%A3o%20Paulo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Vibra_S%C3%A3o_Paulo",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/CAM_PR%C3%89DIO_GERAL_NOITE.jpg/960px-CAM_PR%C3%89DIO_GERAL_NOITE.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Vibra_S%C3%A3o_Paulo"
+        }
+      },
+      {
+        "id": "sao-paulo-shops-3",
+        "name": "Punk in Brazil",
+        "cityId": "sao-paulo",
+        "categoryId": "shops",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Punk%20in%20Brazil%2C%20S%C3%A3o%20Paulo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Punk_in_Brazil",
+        "photo": null
+      },
+      {
+        "id": "sao-paulo-shops-4",
+        "name": "Lacta",
+        "cityId": "sao-paulo",
+        "categoryId": "shops",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Lacta%2C%20S%C3%A3o%20Paulo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Lacta_(Brazilian_company)",
+        "photo": null
+      },
+      {
+        "id": "sao-paulo-shops-5",
+        "name": "Conceição",
+        "cityId": "sao-paulo",
+        "categoryId": "shops",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Concei%C3%A7%C3%A3o%2C%20S%C3%A3o%20Paulo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Concei%C3%A7%C3%A3o_(S%C3%A3o_Paulo_Metro)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Concei%C3%A7%C3%A3o_metro_station_%28Linha_1-Azul%29%2C_SP%2C_2025-05-30_%283%29.jpg/960px-Concei%C3%A7%C3%A3o_metro_station_%28Linha_1-Azul%29%2C_SP%2C_2025-05-30_%283%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Concei%C3%A7%C3%A3o_(S%C3%A3o_Paulo_Metro)"
+        }
+      },
+      {
+        "id": "sao-paulo-shops-6",
+        "name": "Rei do Mate",
+        "cityId": "sao-paulo",
+        "categoryId": "shops",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Rei%20do%20Mate%2C%20S%C3%A3o%20Paulo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Rei_do_Mate",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/Logotipo_da_Rei_do_Mate.svg/960px-Logotipo_da_Rei_do_Mate.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Rei_do_Mate"
+        }
+      },
+      {
+        "id": "sao-paulo-shops-7",
+        "name": "Football Museum",
+        "cityId": "sao-paulo",
+        "categoryId": "shops",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Football%20Museum%2C%20S%C3%A3o%20Paulo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Football_Museum_(S%C3%A3o_Paulo)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Est%C3%A1dio_do_Pacaembu_entrance-2007-10-02.jpg/960px-Est%C3%A1dio_do_Pacaembu_entrance-2007-10-02.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Football_Museum_(S%C3%A3o_Paulo)"
+        }
+      },
+      {
+        "id": "sao-paulo-shops-8",
+        "name": "Charles William Miller",
+        "cityId": "sao-paulo",
+        "categoryId": "shops",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Charles%20William%20Miller%2C%20S%C3%A3o%20Paulo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Charles_William_Miller",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/59/Charle_w_miller.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Charles_William_Miller"
+        }
+      },
+      {
+        "id": "sao-paulo-shops-9",
+        "name": "Associação Atlética Portuguesa",
+        "cityId": "sao-paulo",
+        "categoryId": "shops",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Associa%C3%A7%C3%A3o%20Atl%C3%A9tica%20Portuguesa%2C%20S%C3%A3o%20Paulo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Associa%C3%A7%C3%A3o_Atl%C3%A9tica_Portuguesa_(Santos)",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/56/Escudo_da_Portuguesa_Santista.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Associa%C3%A7%C3%A3o_Atl%C3%A9tica_Portuguesa_(Santos)"
+        }
+      },
+      {
+        "id": "sao-paulo-shops-10",
+        "name": "Vila Prudente",
+        "cityId": "sao-paulo",
+        "categoryId": "shops",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Vila%20Prudente%2C%20S%C3%A3o%20Paulo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Vila_Prudente_(S%C3%A3o_Paulo_Metro)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Vila_Prudente_%285312449577%29.jpg/960px-Vila_Prudente_%285312449577%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Vila_Prudente_(S%C3%A3o_Paulo_Metro)"
+        }
+      },
+      {
+        "id": "sao-paulo-shops-11",
+        "name": "Daslu",
+        "cityId": "sao-paulo",
+        "categoryId": "shops",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Daslu%2C%20S%C3%A3o%20Paulo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Daslu",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Daslu.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Daslu"
+        }
+      },
+      {
+        "id": "sao-paulo-shops-12",
+        "name": "Engenho dos Erasmos",
+        "cityId": "sao-paulo",
+        "categoryId": "shops",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Engenho%20dos%20Erasmos%2C%20S%C3%A3o%20Paulo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Engenho_dos_Erasmos",
+        "photo": null
+      },
+      {
+        "id": "sao-paulo-shops-13",
+        "name": "Jaraguá",
+        "cityId": "sao-paulo",
+        "categoryId": "shops",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Jaragu%C3%A1%2C%20S%C3%A3o%20Paulo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Jaragu%C3%A1_(district_of_S%C3%A3o_Paulo)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Jaragu%C3%A1.png/960px-Jaragu%C3%A1.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Jaragu%C3%A1_(district_of_S%C3%A3o_Paulo)"
+        }
+      },
+      {
+        "id": "sao-paulo-shops-14",
+        "name": "Natura",
+        "cityId": "sao-paulo",
+        "categoryId": "shops",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Natura%2C%20S%C3%A3o%20Paulo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Natura",
+        "photo": null
+      },
+      {
+        "id": "sao-paulo-shops-15",
+        "name": "Roberto Freire",
+        "cityId": "sao-paulo",
+        "categoryId": "shops",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Roberto%20Freire%2C%20S%C3%A3o%20Paulo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Roberto_Freire_(psychiatrist)",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/77/ROBERTO_-1982618057.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Roberto_Freire_(psychiatrist)"
+        }
+      },
+      {
+        "id": "sao-paulo-shops-16",
+        "name": "Chavantes",
+        "cityId": "sao-paulo",
+        "categoryId": "shops",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Chavantes%2C%20S%C3%A3o%20Paulo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Chavantes",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/SaoPaulo_Municip_Chavantes.svg/960px-SaoPaulo_Municip_Chavantes.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Chavantes"
+        }
+      },
+      {
+        "id": "sao-paulo-shops-17",
+        "name": "Pouso Alegre",
+        "cityId": "sao-paulo",
+        "categoryId": "shops",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Pouso%20Alegre%2C%20S%C3%A3o%20Paulo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Pouso_Alegre",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/70/Doutor_Lisboa_Avenue.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Pouso_Alegre"
+        }
+      },
+      {
+        "id": "sao-paulo-shops-18",
+        "name": "TV Cultura",
+        "cityId": "sao-paulo",
+        "categoryId": "shops",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=TV%20Cultura%2C%20S%C3%A3o%20Paulo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/TV_Cultura",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Cultura_logo_2013.svg/960px-Cultura_logo_2013.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/TV_Cultura"
+        }
+      }
+    ]
+  }
+}

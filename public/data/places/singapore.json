@@ -1,0 +1,2318 @@
+{
+  "cityId": "singapore",
+  "generatedAt": "2026-11-27T08:51:11.964Z",
+  "source": "Wikipedia API + Maps URLs (sin scraping de Google)",
+  "incomplete": [],
+  "categories": {
+    "night_clubs": [
+      {
+        "id": "singapore-night_clubs-1",
+        "name": "Justin Berkmann",
+        "cityId": "singapore",
+        "categoryId": "night_clubs",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Justin%20Berkmann%2C%20Singapore",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Justin_Berkmann",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/20/Justin_Berkmann_%28around_2009%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Justin_Berkmann"
+        }
+      },
+      {
+        "id": "singapore-night_clubs-2",
+        "name": "Zouk",
+        "cityId": "singapore",
+        "categoryId": "night_clubs",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Zouk%2C%20Singapore",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Zouk_(club)",
+        "photo": null
+      },
+      {
+        "id": "singapore-night_clubs-3",
+        "name": "2002 Bali bombings",
+        "cityId": "singapore",
+        "categoryId": "night_clubs",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=2002%20Bali%20bombings%2C%20Singapore",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/2002_Bali_bombings",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/Bali_memorial.jpg/960px-Bali_memorial.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/2002_Bali_bombings"
+        }
+      },
+      {
+        "id": "singapore-night_clubs-4",
+        "name": "Chen Jin Lang",
+        "cityId": "singapore",
+        "categoryId": "night_clubs",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Chen%20Jin%20Lang%2C%20Singapore",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Chen_Jin_Lang",
+        "photo": null
+      },
+      {
+        "id": "singapore-night_clubs-5",
+        "name": "The Garage",
+        "cityId": "singapore",
+        "categoryId": "night_clubs",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Garage%2C%20Singapore",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/The_Garage",
+        "photo": null
+      },
+      {
+        "id": "singapore-night_clubs-6",
+        "name": "Gay bar",
+        "cityId": "singapore",
+        "categoryId": "night_clubs",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Gay%20bar%2C%20Singapore",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Gay_bar",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/09/Comptons-Of-Soho.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Gay_bar"
+        }
+      },
+      {
+        "id": "singapore-night_clubs-7",
+        "name": "Jack Pepper",
+        "cityId": "singapore",
+        "categoryId": "night_clubs",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Jack%20Pepper%2C%20Singapore",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Jack_Pepper",
+        "photo": null
+      },
+      {
+        "id": "singapore-night_clubs-8",
+        "name": "C.L.I.F. 3",
+        "cityId": "singapore",
+        "categoryId": "night_clubs",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=C.L.I.F.%203%2C%20Singapore",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/C.L.I.F._3",
+        "photo": null
+      },
+      {
+        "id": "singapore-night_clubs-9",
+        "name": "Superclub",
+        "cityId": "singapore",
+        "categoryId": "night_clubs",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Superclub%2C%20Singapore",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Superclub",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Wikipedia_space_ibiza%2809%29.jpg/960px-Wikipedia_space_ibiza%2809%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Superclub"
+        }
+      },
+      {
+        "id": "singapore-night_clubs-10",
+        "name": "Bouncer",
+        "cityId": "singapore",
+        "categoryId": "night_clubs",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Bouncer%2C%20Singapore",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Bouncer",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/Modern_Bouncers.jpg/960px-Modern_Bouncers.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Bouncer"
+        }
+      },
+      {
+        "id": "singapore-night_clubs-11",
+        "name": "Number 1",
+        "cityId": "singapore",
+        "categoryId": "night_clubs",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Number%201%2C%20Singapore",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Number_1_(2020_film)",
+        "photo": null
+      },
+      {
+        "id": "singapore-night_clubs-12",
+        "name": "Arms Offences Act",
+        "cityId": "singapore",
+        "categoryId": "night_clubs",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Arms%20Offences%20Act%2C%20Singapore",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Arms_Offences_Act",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/Old_Parliament_House_4%2C_Singapore%2C_Jan_06.JPG/960px-Old_Parliament_House_4%2C_Singapore%2C_Jan_06.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Arms_Offences_Act"
+        }
+      },
+      {
+        "id": "singapore-night_clubs-13",
+        "name": "Ang Totoong Buhay ni Pacita M.",
+        "cityId": "singapore",
+        "categoryId": "night_clubs",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Ang%20Totoong%20Buhay%20ni%20Pacita%20M.%2C%20Singapore",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Ang_Totoong_Buhay_ni_Pacita_M.",
+        "photo": null
+      },
+      {
+        "id": "singapore-night_clubs-14",
+        "name": "Sex.Violence.FamilyValues",
+        "cityId": "singapore",
+        "categoryId": "night_clubs",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Sex.Violence.FamilyValues%2C%20Singapore",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Sex.Violence.FamilyValues",
+        "photo": null
+      },
+      {
+        "id": "singapore-night_clubs-15",
+        "name": "Malay Nights",
+        "cityId": "singapore",
+        "categoryId": "night_clubs",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Malay%20Nights%2C%20Singapore",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Malay_Nights",
+        "photo": null
+      },
+      {
+        "id": "singapore-night_clubs-16",
+        "name": "E Ipo",
+        "cityId": "singapore",
+        "categoryId": "night_clubs",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=E%20Ipo%2C%20Singapore",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/E_Ipo",
+        "photo": null
+      },
+      {
+        "id": "singapore-night_clubs-17",
+        "name": "Nation",
+        "cityId": "singapore",
+        "categoryId": "night_clubs",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Nation%2C%20Singapore",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Nation_(disambiguation)",
+        "photo": null
+      },
+      {
+        "id": "singapore-night_clubs-18",
+        "name": "2006 in Singapore",
+        "cityId": "singapore",
+        "categoryId": "night_clubs",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=2006%20in%20Singapore%2C%20Singapore",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/2006_in_Singapore",
+        "photo": null
+      }
+    ],
+    "restaurants": [
+      {
+        "id": "singapore-restaurants-1",
+        "name": "Slappy Cakes",
+        "cityId": "singapore",
+        "categoryId": "restaurants",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Slappy%20Cakes%2C%20Singapore",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Slappy_Cakes",
+        "photo": null
+      },
+      {
+        "id": "singapore-restaurants-2",
+        "name": "Clifford Pier",
+        "cityId": "singapore",
+        "categoryId": "restaurants",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Clifford%20Pier%2C%20Singapore",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Clifford_Pier",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/Clifford_Pier%2C_Dec_05.JPG/960px-Clifford_Pier%2C_Dec_05.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Clifford_Pier"
+        }
+      },
+      {
+        "id": "singapore-restaurants-3",
+        "name": "Din Tai Fung",
+        "cityId": "singapore",
+        "categoryId": "restaurants",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Din%20Tai%20Fung%2C%20Singapore",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Din_Tai_Fung",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/Taiwan_2009_Taipei_DinTaiFung_Dumpling_House_at_Pacific_Sogo_ZhongXiao_Store_FRD_9000.jpg/960px-Taiwan_2009_Taipei_DinTaiFung_Dumpling_House_at_Pacific_Sogo_ZhongXiao_Store_FRD_9000.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Din_Tai_Fung"
+        }
+      },
+      {
+        "id": "singapore-restaurants-4",
+        "name": "Afuri",
+        "cityId": "singapore",
+        "categoryId": "restaurants",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Afuri%2C%20Singapore",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Afuri",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Afuri_logo.webp/960px-Afuri_logo.webp?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Afuri"
+        }
+      },
+      {
+        "id": "singapore-restaurants-5",
+        "name": "Hard Rock Cafe",
+        "cityId": "singapore",
+        "categoryId": "restaurants",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Hard%20Rock%20Cafe%2C%20Singapore",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Hard_Rock_Cafe",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Hard_Rock_Cafe_Logo.svg/960px-Hard_Rock_Cafe_Logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Hard_Rock_Cafe"
+        }
+      },
+      {
+        "id": "singapore-restaurants-6",
+        "name": "Swissôtel The Stamford",
+        "cityId": "singapore",
+        "categoryId": "restaurants",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Swiss%C3%B4tel%20The%20Stamford%2C%20Singapore",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Swiss%C3%B4tel_The_Stamford",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Swiss%C3%B4tel_The_Stamford%2C_Singapur%2C_2023-08-18%2C_DD_18_%28cropped%29.jpg/960px-Swiss%C3%B4tel_The_Stamford%2C_Singapur%2C_2023-08-18%2C_DD_18_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Swiss%C3%B4tel_The_Stamford"
+        }
+      },
+      {
+        "id": "singapore-restaurants-7",
+        "name": "Genki Sushi",
+        "cityId": "singapore",
+        "categoryId": "restaurants",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Genki%20Sushi%2C%20Singapore",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Genki_Sushi",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Genki_Sushi_in_Shibuya_201506.jpg/960px-Genki_Sushi_in_Shibuya_201506.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Genki_Sushi"
+        }
+      },
+      {
+        "id": "singapore-restaurants-8",
+        "name": "Boat Quay",
+        "cityId": "singapore",
+        "categoryId": "restaurants",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Boat%20Quay%2C%20Singapore",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Boat_Quay",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/Boat_quay_sct.JPG/960px-Boat_quay_sct.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Boat_Quay"
+        }
+      },
+      {
+        "id": "singapore-restaurants-9",
+        "name": "Sarpino's Pizzeria",
+        "cityId": "singapore",
+        "categoryId": "restaurants",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Sarpino's%20Pizzeria%2C%20Singapore",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Sarpino's_Pizzeria",
+        "photo": null
+      },
+      {
+        "id": "singapore-restaurants-10",
+        "name": "André Chiang",
+        "cityId": "singapore",
+        "categoryId": "restaurants",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Andr%C3%A9%20Chiang%2C%20Singapore",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Andr%C3%A9_Chiang",
+        "photo": null
+      },
+      {
+        "id": "singapore-restaurants-11",
+        "name": "Botak Jones",
+        "cityId": "singapore",
+        "categoryId": "restaurants",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Botak%20Jones%2C%20Singapore",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Botak_Jones",
+        "photo": null
+      },
+      {
+        "id": "singapore-restaurants-12",
+        "name": "The Culinary Institute of America",
+        "cityId": "singapore",
+        "categoryId": "restaurants",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Culinary%20Institute%20of%20America%2C%20Singapore",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/The_Culinary_Institute_of_America",
+        "photo": null
+      },
+      {
+        "id": "singapore-restaurants-13",
+        "name": "Subway",
+        "cityId": "singapore",
+        "categoryId": "restaurants",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Subway%2C%20Singapore",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Subway_(restaurant)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/A_Subway_restaurant_in_a_strip_mall_in_Franklin%2C_North_Carolina%2C_United_States.jpg/960px-A_Subway_restaurant_in_a_strip_mall_in_Franklin%2C_North_Carolina%2C_United_States.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Subway_(restaurant)"
+        }
+      },
+      {
+        "id": "singapore-restaurants-14",
+        "name": "Yoshinoya",
+        "cityId": "singapore",
+        "categoryId": "restaurants",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Yoshinoya%2C%20Singapore",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Yoshinoya",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Yoshinoya_Logo.svg/960px-Yoshinoya_Logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Yoshinoya"
+        }
+      },
+      {
+        "id": "singapore-restaurants-15",
+        "name": "Holland Village, Singapore",
+        "cityId": "singapore",
+        "categoryId": "restaurants",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Holland%20Village%2C%20Singapore%2C%20Singapore",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Holland_Village%2C_Singapore",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/Holland_village_-_panoramio.jpg/960px-Holland_village_-_panoramio.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Holland_Village%2C_Singapore"
+        }
+      },
+      {
+        "id": "singapore-restaurants-16",
+        "name": "Carl's Jr.",
+        "cityId": "singapore",
+        "categoryId": "restaurants",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Carl's%20Jr.%2C%20Singapore",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Carl's_Jr.",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Carls_Jr_Rancho_Cordova.jpg/960px-Carls_Jr_Rancho_Cordova.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Carl's_Jr."
+        }
+      },
+      {
+        "id": "singapore-restaurants-17",
+        "name": "Chick-fil-A",
+        "cityId": "singapore",
+        "categoryId": "restaurants",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Chick-fil-A%2C%20Singapore",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Chick-fil-A",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Chick-fil-A_fast_food_chain_restaurant_exterior_in_Cleveland%2C_Tennessee_05.jpg/960px-Chick-fil-A_fast_food_chain_restaurant_exterior_in_Cleveland%2C_Tennessee_05.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Chick-fil-A"
+        }
+      },
+      {
+        "id": "singapore-restaurants-18",
+        "name": "Swensen's",
+        "cityId": "singapore",
+        "categoryId": "restaurants",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Swensen's%2C%20Singapore",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Swensen's",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Logo_swensen.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Swensen's"
+        }
+      }
+    ],
+    "bars": [
+      {
+        "id": "singapore-bars-1",
+        "name": "Bar examination",
+        "cityId": "singapore",
+        "categoryId": "bars",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Bar%20examination%2C%20Singapore",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Bar_examination",
+        "photo": null
+      },
+      {
+        "id": "singapore-bars-2",
+        "name": "Singapore sling",
+        "cityId": "singapore",
+        "categoryId": "bars",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Singapore%20sling%2C%20Singapore",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Singapore_sling",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/Singapore_Sling_and_peanuts_at_the_Raffles_Hotel_Long_Bar_in_Singapore.jpg/960px-Singapore_Sling_and_peanuts_at_the_Raffles_Hotel_Long_Bar_in_Singapore.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Singapore_sling"
+        }
+      },
+      {
+        "id": "singapore-bars-3",
+        "name": "Paya Lebar",
+        "cityId": "singapore",
+        "categoryId": "bars",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Paya%20Lebar%2C%20Singapore",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Paya_Lebar",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/Paya_Lebar_location.svg/960px-Paya_Lebar_location.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Paya_Lebar"
+        }
+      },
+      {
+        "id": "singapore-bars-4",
+        "name": "Senior counsel",
+        "cityId": "singapore",
+        "categoryId": "bars",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Senior%20counsel%2C%20Singapore",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Senior_counsel",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Advokat%2C_Engelsk_advokatdr%C3%A4kt%2C_Nordisk_familjebok.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Senior_counsel"
+        }
+      },
+      {
+        "id": "singapore-bars-5",
+        "name": "Singapore math",
+        "cityId": "singapore",
+        "categoryId": "bars",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Singapore%20math%2C%20Singapore",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Singapore_math",
+        "photo": null
+      },
+      {
+        "id": "singapore-bars-6",
+        "name": "Madripoor",
+        "cityId": "singapore",
+        "categoryId": "bars",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Madripoor%2C%20Singapore",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Madripoor",
+        "photo": null
+      },
+      {
+        "id": "singapore-bars-7",
+        "name": "Milo",
+        "cityId": "singapore",
+        "categoryId": "bars",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Milo%2C%20Singapore",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Milo_(drink)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Australian_milo.jpg/960px-Australian_milo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Milo_(drink)"
+        }
+      },
+      {
+        "id": "singapore-bars-8",
+        "name": "Training contract",
+        "cityId": "singapore",
+        "categoryId": "bars",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Training%20contract%2C%20Singapore",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Training_contract",
+        "photo": null
+      },
+      {
+        "id": "singapore-bars-9",
+        "name": "Bachelor of Laws",
+        "cityId": "singapore",
+        "categoryId": "bars",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Bachelor%20of%20Laws%2C%20Singapore",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Bachelor_of_Laws",
+        "photo": null
+      },
+      {
+        "id": "singapore-bars-10",
+        "name": "Teo Soon Kim",
+        "cityId": "singapore",
+        "categoryId": "bars",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Teo%20Soon%20Kim%2C%20Singapore",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Teo_Soon_Kim",
+        "photo": null
+      },
+      {
+        "id": "singapore-bars-11",
+        "name": "Lawyers in Singapore",
+        "cityId": "singapore",
+        "categoryId": "bars",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Lawyers%20in%20Singapore%2C%20Singapore",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Lawyers_in_Singapore",
+        "photo": null
+      },
+      {
+        "id": "singapore-bars-12",
+        "name": "Karaoke box",
+        "cityId": "singapore",
+        "categoryId": "bars",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Karaoke%20box%2C%20Singapore",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Karaoke_box",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Karaoke_in_Nha_Trang.jpg/960px-Karaoke_in_Nha_Trang.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Karaoke_box"
+        }
+      },
+      {
+        "id": "singapore-bars-13",
+        "name": "Hard Rock Cafe",
+        "cityId": "singapore",
+        "categoryId": "bars",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Hard%20Rock%20Cafe%2C%20Singapore",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Hard_Rock_Cafe",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Hard_Rock_Cafe_Logo.svg/960px-Hard_Rock_Cafe_Logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Hard_Rock_Cafe"
+        }
+      },
+      {
+        "id": "singapore-bars-14",
+        "name": "Roger Tan",
+        "cityId": "singapore",
+        "categoryId": "bars",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Roger%20Tan%2C%20Singapore",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Roger_Tan",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/en/2/28/Rogertan.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Roger_Tan"
+        }
+      },
+      {
+        "id": "singapore-bars-15",
+        "name": "Law school",
+        "cityId": "singapore",
+        "categoryId": "bars",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Law%20school%2C%20Singapore",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Law_school",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/Juris_Doctor_diploma.jpg/960px-Juris_Doctor_diploma.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Law_school"
+        }
+      },
+      {
+        "id": "singapore-bars-16",
+        "name": "1951 Singaporean general election",
+        "cityId": "singapore",
+        "categoryId": "bars",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=1951%20Singaporean%20general%20election%2C%20Singapore",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/1951_Singaporean_general_election",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/44/Singaporean_election_1951_map.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/1951_Singaporean_general_election"
+        }
+      },
+      {
+        "id": "singapore-bars-17",
+        "name": "Singapore Cricket Club",
+        "cityId": "singapore",
+        "categoryId": "bars",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Singapore%20Cricket%20Club%2C%20Singapore",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Singapore_Cricket_Club",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/%28Gold%29SCCLionSCCEst1852.jpg/960px-%28Gold%29SCCLionSCCEst1852.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Singapore_Cricket_Club"
+        }
+      },
+      {
+        "id": "singapore-bars-18",
+        "name": "T. S. Sinnathuray",
+        "cityId": "singapore",
+        "categoryId": "bars",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=T.%20S.%20Sinnathuray%2C%20Singapore",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/T._S._Sinnathuray",
+        "photo": null
+      }
+    ],
+    "coffee_shops": [
+      {
+        "id": "singapore-coffee_shops-1",
+        "name": "Hard Rock Cafe",
+        "cityId": "singapore",
+        "categoryId": "coffee_shops",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Hard%20Rock%20Cafe%2C%20Singapore",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Hard_Rock_Cafe",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Hard_Rock_Cafe_Logo.svg/960px-Hard_Rock_Cafe_Logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Hard_Rock_Cafe"
+        }
+      },
+      {
+        "id": "singapore-coffee_shops-2",
+        "name": "Tous les Jours",
+        "cityId": "singapore",
+        "categoryId": "coffee_shops",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Tous%20les%20Jours%2C%20Singapore",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Tous_les_Jours",
+        "photo": null
+      },
+      {
+        "id": "singapore-coffee_shops-3",
+        "name": "CityLink Mall",
+        "cityId": "singapore",
+        "categoryId": "coffee_shops",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=CityLink%20Mall%2C%20Singapore",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/CityLink_Mall",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/CityLink_Mall_3.JPG/960px-CityLink_Mall_3.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/CityLink_Mall"
+        }
+      },
+      {
+        "id": "singapore-coffee_shops-4",
+        "name": "Aniplus",
+        "cityId": "singapore",
+        "categoryId": "coffee_shops",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Aniplus%2C%20Singapore",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Aniplus",
+        "photo": null
+      },
+      {
+        "id": "singapore-coffee_shops-5",
+        "name": "96°C Café",
+        "cityId": "singapore",
+        "categoryId": "coffee_shops",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=96%C2%B0C%20Caf%C3%A9%2C%20Singapore",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/96%C2%B0C_Caf%C3%A9",
+        "photo": null
+      },
+      {
+        "id": "singapore-coffee_shops-6",
+        "name": "Kaya toast",
+        "cityId": "singapore",
+        "categoryId": "coffee_shops",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Kaya%20toast%2C%20Singapore",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Kaya_toast",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Kaya_toast_on_a_plate.jpg/960px-Kaya_toast_on_a_plate.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Kaya_toast"
+        }
+      },
+      {
+        "id": "singapore-coffee_shops-7",
+        "name": "The Coffee Club",
+        "cityId": "singapore",
+        "categoryId": "coffee_shops",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Coffee%20Club%2C%20Singapore",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/The_Coffee_Club",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Mascot_NSW_2020%2C_Australia_-_panoramio_%2899%29.jpg/960px-Mascot_NSW_2020%2C_Australia_-_panoramio_%2899%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/The_Coffee_Club"
+        }
+      },
+      {
+        "id": "singapore-coffee_shops-8",
+        "name": "Cosplay restaurant",
+        "cityId": "singapore",
+        "categoryId": "coffee_shops",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Cosplay%20restaurant%2C%20Singapore",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Cosplay_restaurant",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Akihabara_Maids2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Cosplay_restaurant"
+        }
+      },
+      {
+        "id": "singapore-coffee_shops-9",
+        "name": "Daniel Boulud",
+        "cityId": "singapore",
+        "categoryId": "coffee_shops",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Daniel%20Boulud%2C%20Singapore",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Daniel_Boulud",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/dc/DanielBoulud.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Daniel_Boulud"
+        }
+      },
+      {
+        "id": "singapore-coffee_shops-10",
+        "name": "Coffeehouse",
+        "cityId": "singapore",
+        "categoryId": "coffee_shops",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Coffeehouse%2C%20Singapore",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Coffeehouse",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/Caf%C3%A9_de_Flore.jpg/960px-Caf%C3%A9_de_Flore.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Coffeehouse"
+        }
+      },
+      {
+        "id": "singapore-coffee_shops-11",
+        "name": "OldTown White Coffee",
+        "cityId": "singapore",
+        "categoryId": "coffee_shops",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=OldTown%20White%20Coffee%2C%20Singapore",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/OldTown_White_Coffee",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/OldTown_White_Coffee_Outlet.jpg/960px-OldTown_White_Coffee_Outlet.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/OldTown_White_Coffee"
+        }
+      },
+      {
+        "id": "singapore-coffee_shops-12",
+        "name": "Hainan Kopi Tales",
+        "cityId": "singapore",
+        "categoryId": "coffee_shops",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Hainan%20Kopi%20Tales%2C%20Singapore",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Hainan_Kopi_Tales",
+        "photo": null
+      },
+      {
+        "id": "singapore-coffee_shops-13",
+        "name": "Hands",
+        "cityId": "singapore",
+        "categoryId": "coffee_shops",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Hands%2C%20Singapore",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Hands_(store)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/Hands%28CAINZ%29.svg/960px-Hands%28CAINZ%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Hands_(store)"
+        }
+      },
+      {
+        "id": "singapore-coffee_shops-14",
+        "name": "EOY Cosplay Festival",
+        "cityId": "singapore",
+        "categoryId": "coffee_shops",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=EOY%20Cosplay%20Festival%2C%20Singapore",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/EOY_Cosplay_Festival",
+        "photo": null
+      },
+      {
+        "id": "singapore-coffee_shops-15",
+        "name": "Osteria Mozza",
+        "cityId": "singapore",
+        "categoryId": "coffee_shops",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Osteria%20Mozza%2C%20Singapore",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Osteria_Mozza",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Osteria_Mozza_exterior.jpg/960px-Osteria_Mozza_exterior.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Osteria_Mozza"
+        }
+      },
+      {
+        "id": "singapore-coffee_shops-16",
+        "name": "John C. Baez",
+        "cityId": "singapore",
+        "categoryId": "coffee_shops",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=John%20C.%20Baez%2C%20Singapore",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/John_C._Baez",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/John_Baez%2C_physicist_%282009%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/John_C._Baez"
+        }
+      },
+      {
+        "id": "singapore-coffee_shops-17",
+        "name": "Baskin-Robbins",
+        "cityId": "singapore",
+        "categoryId": "coffee_shops",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Baskin-Robbins%2C%20Singapore",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Baskin-Robbins",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Baskin-Robbins_logo_2022.svg/960px-Baskin-Robbins_logo_2022.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Baskin-Robbins"
+        }
+      },
+      {
+        "id": "singapore-coffee_shops-18",
+        "name": "Eggslut",
+        "cityId": "singapore",
+        "categoryId": "coffee_shops",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Eggslut%2C%20Singapore",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Eggslut",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/Eggslut%2C_Suntec_City_Mall%2C_Singapore.jpg/960px-Eggslut%2C_Suntec_City_Mall%2C_Singapore.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Eggslut"
+        }
+      }
+    ],
+    "bookshops": [
+      {
+        "id": "singapore-bookshops-1",
+        "name": "Page One",
+        "cityId": "singapore",
+        "categoryId": "bookshops",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Page%20One%2C%20Singapore",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Page_One_(bookstore)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/TimeSquarePageOne_20070824.jpg/960px-TimeSquarePageOne_20070824.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Page_One_(bookstore)"
+        }
+      },
+      {
+        "id": "singapore-bookshops-2",
+        "name": "Times Bookstores",
+        "cityId": "singapore",
+        "categoryId": "bookshops",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Times%20Bookstores%2C%20Singapore",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Times_Bookstores",
+        "photo": null
+      },
+      {
+        "id": "singapore-bookshops-3",
+        "name": "Borders",
+        "cityId": "singapore",
+        "categoryId": "bookshops",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Borders%2C%20Singapore",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Borders_(retailer)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Borders_The_Curve_%28211029%29.jpg/960px-Borders_The_Curve_%28211029%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Borders_(retailer)"
+        }
+      },
+      {
+        "id": "singapore-bookshops-4",
+        "name": "Popular Holdings",
+        "cityId": "singapore",
+        "categoryId": "bookshops",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Popular%20Holdings%2C%20Singapore",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Popular_Holdings",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/700_Nathan_Road_Popular_Book_Store_2018.jpg/960px-700_Nathan_Road_Popular_Book_Store_2018.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Popular_Holdings"
+        }
+      },
+      {
+        "id": "singapore-bookshops-5",
+        "name": "MPH Group",
+        "cityId": "singapore",
+        "categoryId": "bookshops",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=MPH%20Group%2C%20Singapore",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/MPH_Group",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/MPH_The_Exchange_TRX%2C_Kuala_Lumpur_20240519_120025.jpg/960px-MPH_The_Exchange_TRX%2C_Kuala_Lumpur_20240519_120025.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/MPH_Group"
+        }
+      },
+      {
+        "id": "singapore-bookshops-6",
+        "name": "Books Kinokuniya",
+        "cityId": "singapore",
+        "categoryId": "bookshops",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Books%20Kinokuniya%2C%20Singapore",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Books_Kinokuniya",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/en/thumb/0/02/Books_Kinokuniya_logo_%282026%29.svg/960px-Books_Kinokuniya_logo_%282026%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Books_Kinokuniya"
+        }
+      },
+      {
+        "id": "singapore-bookshops-7",
+        "name": "Religious goods store",
+        "cityId": "singapore",
+        "categoryId": "bookshops",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Religious%20goods%20store%2C%20Singapore",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Religious_goods_store",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/GOdsMaterialShop001.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Religious_goods_store"
+        }
+      },
+      {
+        "id": "singapore-bookshops-8",
+        "name": "Bedok Point",
+        "cityId": "singapore",
+        "categoryId": "bookshops",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Bedok%20Point%2C%20Singapore",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Bedok_Point",
+        "photo": null
+      },
+      {
+        "id": "singapore-bookshops-9",
+        "name": "BooksActually",
+        "cityId": "singapore",
+        "categoryId": "bookshops",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=BooksActually%2C%20Singapore",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/BooksActually",
+        "photo": null
+      },
+      {
+        "id": "singapore-bookshops-10",
+        "name": "Sex shop",
+        "cityId": "singapore",
+        "categoryId": "bookshops",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Sex%20shop%2C%20Singapore",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Sex_shop",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Sex-shops-on-boulevard-de-clichi.jpg/960px-Sex-shops-on-boulevard-de-clichi.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Sex_shop"
+        }
+      },
+      {
+        "id": "singapore-bookshops-11",
+        "name": "Landmark Orchard",
+        "cityId": "singapore",
+        "categoryId": "bookshops",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Landmark%20Orchard%2C%20Singapore",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Landmark_Orchard",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Wheelock_Place.jpg/960px-Wheelock_Place.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Landmark_Orchard"
+        }
+      },
+      {
+        "id": "singapore-bookshops-12",
+        "name": "White Sands Shopping Mall",
+        "cityId": "singapore",
+        "categoryId": "bookshops",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=White%20Sands%20Shopping%20Mall%2C%20Singapore",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/White_Sands_Shopping_Mall",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/White_Sands_Shopping_Centre%2C_Sep_06.JPG/960px-White_Sands_Shopping_Centre%2C_Sep_06.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/White_Sands_Shopping_Mall"
+        }
+      },
+      {
+        "id": "singapore-bookshops-13",
+        "name": "National Book Store",
+        "cityId": "singapore",
+        "categoryId": "bookshops",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=National%20Book%20Store%2C%20Singapore",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/National_Book_Store",
+        "photo": null
+      },
+      {
+        "id": "singapore-bookshops-14",
+        "name": "Ana Book Store",
+        "cityId": "singapore",
+        "categoryId": "bookshops",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Ana%20Book%20Store%2C%20Singapore",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Ana_Book_Store",
+        "photo": null
+      },
+      {
+        "id": "singapore-bookshops-15",
+        "name": "Ngee Ann City",
+        "cityId": "singapore",
+        "categoryId": "bookshops",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Ngee%20Ann%20City%2C%20Singapore",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Ngee_Ann_City",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/Ngee_Ann_City%2C_2009.jpg/960px-Ngee_Ann_City%2C_2009.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Ngee_Ann_City"
+        }
+      },
+      {
+        "id": "singapore-bookshops-16",
+        "name": "Parkway Parade",
+        "cityId": "singapore",
+        "categoryId": "bookshops",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Parkway%20Parade%2C%20Singapore",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Parkway_Parade",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/%28SGP-Singapore%29_Parkway_Parade_2026-03-20.jpg/960px-%28SGP-Singapore%29_Parkway_Parade_2026-03-20.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Parkway_Parade"
+        }
+      },
+      {
+        "id": "singapore-bookshops-17",
+        "name": "Sun Plaza, Singapore",
+        "cityId": "singapore",
+        "categoryId": "bookshops",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Sun%20Plaza%2C%20Singapore%2C%20Singapore",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Sun_Plaza%2C_Singapore",
+        "photo": null
+      },
+      {
+        "id": "singapore-bookshops-18",
+        "name": "1986 in Singapore",
+        "cityId": "singapore",
+        "categoryId": "bookshops",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=1986%20in%20Singapore%2C%20Singapore",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/1986_in_Singapore",
+        "photo": null
+      }
+    ],
+    "museums": [
+      {
+        "id": "singapore-museums-1",
+        "name": "National Museum of Singapore",
+        "cityId": "singapore",
+        "categoryId": "museums",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=National%20Museum%20of%20Singapore%2C%20Singapore",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/National_Museum_of_Singapore",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/dd/NSMLogo.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/National_Museum_of_Singapore"
+        }
+      },
+      {
+        "id": "singapore-museums-2",
+        "name": "The Raffles Bulletin of Zoology",
+        "cityId": "singapore",
+        "categoryId": "museums",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Raffles%20Bulletin%20of%20Zoology%2C%20Singapore",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/The_Raffles_Bulletin_of_Zoology",
+        "photo": null
+      },
+      {
+        "id": "singapore-museums-3",
+        "name": "Singapore Art Museum",
+        "cityId": "singapore",
+        "categoryId": "museums",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Singapore%20Art%20Museum%2C%20Singapore",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Singapore_Art_Museum",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Singapore_Art_Museum_-_20131211.jpg/960px-Singapore_Art_Museum_-_20131211.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Singapore_Art_Museum"
+        }
+      },
+      {
+        "id": "singapore-museums-4",
+        "name": "National Heritage Board",
+        "cityId": "singapore",
+        "categoryId": "museums",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=National%20Heritage%20Board%2C%20Singapore",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/National_Heritage_Board_(Singapore)",
+        "photo": null
+      },
+      {
+        "id": "singapore-museums-5",
+        "name": "Asian Civilisations Museum",
+        "cityId": "singapore",
+        "categoryId": "museums",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Asian%20Civilisations%20Museum%2C%20Singapore",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Asian_Civilisations_Museum",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Empress_Place_Building_2023-03-22.jpg/960px-Empress_Place_Building_2023-03-22.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Asian_Civilisations_Museum"
+        }
+      },
+      {
+        "id": "singapore-museums-6",
+        "name": "Singapore Pinacothèque de Paris",
+        "cityId": "singapore",
+        "categoryId": "museums",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Singapore%20Pinacoth%C3%A8que%20de%20Paris%2C%20Singapore",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Singapore_Pinacoth%C3%A8que_de_Paris",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Fort_Canning_Centre%2C_Singapore_-_20160410-03.jpg/960px-Fort_Canning_Centre%2C_Singapore_-_20160410-03.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Singapore_Pinacoth%C3%A8que_de_Paris"
+        }
+      },
+      {
+        "id": "singapore-museums-7",
+        "name": "ArtScience Museum",
+        "cityId": "singapore",
+        "categoryId": "museums",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=ArtScience%20Museum%2C%20Singapore",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/ArtScience_Museum",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/ArtScience_Museum%2C_Marina_Bay_Sands%2C_Singapore.jpg/960px-ArtScience_Museum%2C_Marina_Bay_Sands%2C_Singapore.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/ArtScience_Museum"
+        }
+      },
+      {
+        "id": "singapore-museums-8",
+        "name": "Dhoby Ghaut",
+        "cityId": "singapore",
+        "categoryId": "museums",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Dhoby%20Ghaut%2C%20Singapore",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Dhoby_Ghaut",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Plaza_Singapura%2C_Dec_05.JPG/960px-Plaza_Singapura%2C_Dec_05.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Dhoby_Ghaut"
+        }
+      },
+      {
+        "id": "singapore-museums-9",
+        "name": "National Gallery Singapore",
+        "cityId": "singapore",
+        "categoryId": "museums",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=National%20Gallery%20Singapore%2C%20Singapore",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/National_Gallery_Singapore",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/Interior_of_the_National_Gallery_Singapore.jpg/960px-Interior_of_the_National_Gallery_Singapore.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/National_Gallery_Singapore"
+        }
+      },
+      {
+        "id": "singapore-museums-10",
+        "name": "Peranakan Museum",
+        "cityId": "singapore",
+        "categoryId": "museums",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Peranakan%20Museum%2C%20Singapore",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Peranakan_Museum",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Peranakan_Museum_%28Old_Tao_Nan_School%29%2C_August_2024.jpg/960px-Peranakan_Museum_%28Old_Tao_Nan_School%29%2C_August_2024.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Peranakan_Museum"
+        }
+      },
+      {
+        "id": "singapore-museums-11",
+        "name": "Madame Tussauds Singapore",
+        "cityId": "singapore",
+        "categoryId": "museums",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Madame%20Tussauds%20Singapore%2C%20Singapore",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Madame_Tussauds_Singapore",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Madame_Tussauds_Singapore_facade_12.29.15.JPG/960px-Madame_Tussauds_Singapore_facade_12.29.15.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Madame_Tussauds_Singapore"
+        }
+      },
+      {
+        "id": "singapore-museums-12",
+        "name": "Singapore Biennale",
+        "cityId": "singapore",
+        "categoryId": "museums",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Singapore%20Biennale%2C%20Singapore",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Singapore_Biennale",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/City_Hall_2%2C_Singapore_Biennale_2006%2C_Oct_06.JPG/960px-City_Hall_2%2C_Singapore_Biennale_2006%2C_Oct_06.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Singapore_Biennale"
+        }
+      },
+      {
+        "id": "singapore-museums-13",
+        "name": "The Maritime Experiential Museum",
+        "cityId": "singapore",
+        "categoryId": "museums",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Maritime%20Experiential%20Museum%2C%20Singapore",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/The_Maritime_Experiential_Museum",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/Maritime_Experiential_Museum_%26_Aquarium%2C_Resorts_World_Sentosa%2C_Singapore_-_20120102.jpg/960px-Maritime_Experiential_Museum_%26_Aquarium%2C_Resorts_World_Sentosa%2C_Singapore_-_20120102.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/The_Maritime_Experiential_Museum"
+        }
+      },
+      {
+        "id": "singapore-museums-14",
+        "name": "Children's Museum Singapore",
+        "cityId": "singapore",
+        "categoryId": "museums",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Children's%20Museum%20Singapore%2C%20Singapore",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Children's_Museum_Singapore",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Singapore_Philatelic_Museum%2C_2012.jpg/960px-Singapore_Philatelic_Museum%2C_2012.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Children's_Museum_Singapore"
+        }
+      },
+      {
+        "id": "singapore-museums-15",
+        "name": "Buddha Tooth Relic Temple and Museum",
+        "cityId": "singapore",
+        "categoryId": "museums",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Buddha%20Tooth%20Relic%20Temple%20and%20Museum%2C%20Singapore",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Buddha_Tooth_Relic_Temple_and_Museum",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/BTRTM_as_seen_from_Maxwell_MRT_entrance_%282025%29_-_img_05.jpg/960px-BTRTM_as_seen_from_Maxwell_MRT_entrance_%282025%29_-_img_05.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Buddha_Tooth_Relic_Temple_and_Museum"
+        }
+      },
+      {
+        "id": "singapore-museums-16",
+        "name": "Marina Bay Sands",
+        "cityId": "singapore",
+        "categoryId": "museums",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Marina%20Bay%20Sands%2C%20Singapore",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Marina_Bay_Sands",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/Marina_Bay_Sands_%28I%29.jpg/960px-Marina_Bay_Sands_%28I%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Marina_Bay_Sands"
+        }
+      },
+      {
+        "id": "singapore-museums-17",
+        "name": "Fort Canning Hill",
+        "cityId": "singapore",
+        "categoryId": "museums",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Fort%20Canning%20Hill%2C%20Singapore",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Fort_Canning_Hill",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Fort_Canning_Park_09-11-2023%281%29.jpg/960px-Fort_Canning_Park_09-11-2023%281%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Fort_Canning_Hill"
+        }
+      },
+      {
+        "id": "singapore-museums-18",
+        "name": "The Arts House",
+        "cityId": "singapore",
+        "categoryId": "museums",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Arts%20House%2C%20Singapore",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/The_Arts_House",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/20190819_The_Arts_House-1.jpg/960px-20190819_The_Arts_House-1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/The_Arts_House"
+        }
+      }
+    ],
+    "concerts": [
+      {
+        "id": "singapore-concerts-1",
+        "name": "Esplanade – Theatres on the Bay",
+        "cityId": "singapore",
+        "categoryId": "concerts",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Esplanade%20%E2%80%93%20Theatres%20on%20the%20Bay%2C%20Singapore",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Esplanade_%E2%80%93_Theatres_on_the_Bay",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/The_Esplanade_%E2%80%93_Theatres_on_the_Bay.jpg/960px-The_Esplanade_%E2%80%93_Theatres_on_the_Bay.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Esplanade_%E2%80%93_Theatres_on_the_Bay"
+        }
+      },
+      {
+        "id": "singapore-concerts-2",
+        "name": "Victoria Theatre and Concert Hall",
+        "cityId": "singapore",
+        "categoryId": "concerts",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Victoria%20Theatre%20and%20Concert%20Hall%2C%20Singapore",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Victoria_Theatre_and_Concert_Hall",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Victoria_Theatre_and_Victoria_Concert_Hall%2C_with_54m_high_Clock_Tower.jpg/960px-Victoria_Theatre_and_Victoria_Concert_Hall%2C_with_54m_high_Clock_Tower.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Victoria_Theatre_and_Concert_Hall"
+        }
+      },
+      {
+        "id": "singapore-concerts-3",
+        "name": "Suntec City",
+        "cityId": "singapore",
+        "categoryId": "concerts",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Suntec%20City%2C%20Singapore",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Suntec_City",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Suntec_city.JPG/960px-Suntec_city.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Suntec_City"
+        }
+      },
+      {
+        "id": "singapore-concerts-4",
+        "name": "Singapore Symphony Orchestra",
+        "cityId": "singapore",
+        "categoryId": "concerts",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Singapore%20Symphony%20Orchestra%2C%20Singapore",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Singapore_Symphony_Orchestra",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Esplanade_Concert_Hall_Interior.jpg/960px-Esplanade_Concert_Hall_Interior.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Singapore_Symphony_Orchestra"
+        }
+      },
+      {
+        "id": "singapore-concerts-5",
+        "name": "Singapore Conference Hall",
+        "cityId": "singapore",
+        "categoryId": "concerts",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Singapore%20Conference%20Hall%2C%20Singapore",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Singapore_Conference_Hall",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Singapore_Conference_Hall_exterior_20240727_171001.jpg/960px-Singapore_Conference_Hall_exterior_20240727_171001.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Singapore_Conference_Hall"
+        }
+      },
+      {
+        "id": "singapore-concerts-6",
+        "name": "Singapore Symphony Chorus",
+        "cityId": "singapore",
+        "categoryId": "concerts",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Singapore%20Symphony%20Chorus%2C%20Singapore",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Singapore_Symphony_Chorus",
+        "photo": null
+      },
+      {
+        "id": "singapore-concerts-7",
+        "name": "Singapore International Violin Competition",
+        "cityId": "singapore",
+        "categoryId": "concerts",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Singapore%20International%20Violin%20Competition%2C%20Singapore",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Singapore_International_Violin_Competition",
+        "photo": null
+      },
+      {
+        "id": "singapore-concerts-8",
+        "name": "Regent Alfred John Bidwell",
+        "cityId": "singapore",
+        "categoryId": "concerts",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Regent%20Alfred%20John%20Bidwell%2C%20Singapore",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Regent_Alfred_John_Bidwell",
+        "photo": null
+      },
+      {
+        "id": "singapore-concerts-9",
+        "name": "Siow Lee Chin",
+        "cityId": "singapore",
+        "categoryId": "concerts",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Siow%20Lee%20Chin%2C%20Singapore",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Siow_Lee_Chin",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Siowleechin-wong.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Siow_Lee_Chin"
+        }
+      },
+      {
+        "id": "singapore-concerts-10",
+        "name": "13th IIFA Awards",
+        "cityId": "singapore",
+        "categoryId": "concerts",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=13th%20IIFA%20Awards%2C%20Singapore",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/13th_IIFA_Awards",
+        "photo": null
+      },
+      {
+        "id": "singapore-concerts-11",
+        "name": "Music of Singapore",
+        "cityId": "singapore",
+        "categoryId": "concerts",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Music%20of%20Singapore%2C%20Singapore",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Music_of_Singapore",
+        "photo": null
+      },
+      {
+        "id": "singapore-concerts-12",
+        "name": "5th IIFA Awards",
+        "cityId": "singapore",
+        "categoryId": "concerts",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=5th%20IIFA%20Awards%2C%20Singapore",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/5th_IIFA_Awards",
+        "photo": null
+      },
+      {
+        "id": "singapore-concerts-13",
+        "name": "Dalhousie Obelisk",
+        "cityId": "singapore",
+        "categoryId": "concerts",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Dalhousie%20Obelisk%2C%20Singapore",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Dalhousie_Obelisk",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Dalhousie_Obelisk_2%2C_Jan_06.JPG/960px-Dalhousie_Obelisk_2%2C_Jan_06.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Dalhousie_Obelisk"
+        }
+      },
+      {
+        "id": "singapore-concerts-14",
+        "name": "National Theater and Concert Hall",
+        "cityId": "singapore",
+        "categoryId": "concerts",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=National%20Theater%20and%20Concert%20Hall%2C%20Singapore",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/National_Theater_and_Concert_Hall",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/DSCN7120P_%288149622548%29.jpg/960px-DSCN7120P_%288149622548%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/National_Theater_and_Concert_Hall"
+        }
+      },
+      {
+        "id": "singapore-concerts-15",
+        "name": "Singapore Chinese Orchestra",
+        "cityId": "singapore",
+        "categoryId": "concerts",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Singapore%20Chinese%20Orchestra%2C%20Singapore",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Singapore_Chinese_Orchestra",
+        "photo": null
+      },
+      {
+        "id": "singapore-concerts-16",
+        "name": "Kelly Tang",
+        "cityId": "singapore",
+        "categoryId": "concerts",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Kelly%20Tang%2C%20Singapore",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Kelly_Tang",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/52/Kelly_Tang.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Kelly_Tang"
+        }
+      },
+      {
+        "id": "singapore-concerts-17",
+        "name": "Aarhus Pride",
+        "cityId": "singapore",
+        "categoryId": "concerts",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Aarhus%20Pride%2C%20Singapore",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Aarhus_Pride",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Aarhus_Pride%2C_2012%2C_start_of_day.jpg/960px-Aarhus_Pride%2C_2012%2C_start_of_day.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Aarhus_Pride"
+        }
+      },
+      {
+        "id": "singapore-concerts-18",
+        "name": "ABU TV Song Festival 2012",
+        "cityId": "singapore",
+        "categoryId": "concerts",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=ABU%20TV%20Song%20Festival%202012%2C%20Singapore",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/ABU_TV_Song_Festival_2012",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/ABU_TV_Song_Festival_2012_map.svg/960px-ABU_TV_Song_Festival_2012_map.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/ABU_TV_Song_Festival_2012"
+        }
+      }
+    ],
+    "fashion": [
+      {
+        "id": "singapore-fashion-1",
+        "name": "Hana Tajima",
+        "cityId": "singapore",
+        "categoryId": "fashion",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Hana%20Tajima%2C%20Singapore",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Hana_Tajima",
+        "photo": null
+      },
+      {
+        "id": "singapore-fashion-2",
+        "name": "Christina Ong",
+        "cityId": "singapore",
+        "categoryId": "fashion",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Christina%20Ong%2C%20Singapore",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Christina_Ong",
+        "photo": null
+      },
+      {
+        "id": "singapore-fashion-3",
+        "name": "Nelson's Dockyard",
+        "cityId": "singapore",
+        "categoryId": "fashion",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Nelson's%20Dockyard%2C%20Singapore",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Nelson's_Dockyard",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/Nelson%27s_Dockyard.jpg/960px-Nelson%27s_Dockyard.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Nelson's_Dockyard"
+        }
+      },
+      {
+        "id": "singapore-fashion-4",
+        "name": "New Zealand Advanced Ordnance Depot",
+        "cityId": "singapore",
+        "categoryId": "fashion",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=New%20Zealand%20Advanced%20Ordnance%20Depot%2C%20Singapore",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/New_Zealand_Advanced_Ordnance_Depot",
+        "photo": null
+      },
+      {
+        "id": "singapore-fashion-5",
+        "name": "Borders",
+        "cityId": "singapore",
+        "categoryId": "fashion",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Borders%2C%20Singapore",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Borders_(retailer)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Borders_The_Curve_%28211029%29.jpg/960px-Borders_The_Curve_%28211029%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Borders_(retailer)"
+        }
+      },
+      {
+        "id": "singapore-fashion-6",
+        "name": "Sogo",
+        "cityId": "singapore",
+        "categoryId": "fashion",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Sogo%2C%20Singapore",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Sogo",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/SOGO_Yokohama_001.JPG/960px-SOGO_Yokohama_001.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Sogo"
+        }
+      },
+      {
+        "id": "singapore-fashion-7",
+        "name": "Miss India Worldwide",
+        "cityId": "singapore",
+        "categoryId": "fashion",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Miss%20India%20Worldwide%2C%20Singapore",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Miss_India_Worldwide",
+        "photo": null
+      },
+      {
+        "id": "singapore-fashion-8",
+        "name": "Music FM Radio Guangdong",
+        "cityId": "singapore",
+        "categoryId": "fashion",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Music%20FM%20Radio%20Guangdong%2C%20Singapore",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Music_FM_Radio_Guangdong",
+        "photo": null
+      },
+      {
+        "id": "singapore-fashion-9",
+        "name": "Death of Annie Ee",
+        "cityId": "singapore",
+        "categoryId": "fashion",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Death%20of%20Annie%20Ee%2C%20Singapore",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Death_of_Annie_Ee",
+        "photo": null
+      },
+      {
+        "id": "singapore-fashion-10",
+        "name": "Batik",
+        "cityId": "singapore",
+        "categoryId": "fashion",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Batik%2C%20Singapore",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Batik",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Batik_Trusmi_Cirebon_%2823%29.jpg/960px-Batik_Trusmi_Cirebon_%2823%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Batik"
+        }
+      },
+      {
+        "id": "singapore-fashion-11",
+        "name": "Double-decker bus",
+        "cityId": "singapore",
+        "categoryId": "fashion",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Double-decker%20bus%2C%20Singapore",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Double-decker_bus",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/Abellio_LT157_%28LTZ1157%29_Holborn_Viaduct_20.01.2024.jpg/960px-Abellio_LT157_%28LTZ1157%29_Holborn_Viaduct_20.01.2024.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Double-decker_bus"
+        }
+      },
+      {
+        "id": "singapore-fashion-12",
+        "name": "Chain store",
+        "cityId": "singapore",
+        "categoryId": "fashion",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Chain%20store%2C%20Singapore",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Chain_store",
+        "photo": null
+      },
+      {
+        "id": "singapore-fashion-13",
+        "name": "Anthony Warde",
+        "cityId": "singapore",
+        "categoryId": "fashion",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Anthony%20Warde%2C%20Singapore",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Anthony_Warde",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/52/Anthony_Warde_in_Escape_by_Night_%281937%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Anthony_Warde"
+        }
+      },
+      {
+        "id": "singapore-fashion-14",
+        "name": "Simon Lian",
+        "cityId": "singapore",
+        "categoryId": "fashion",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Simon%20Lian%2C%20Singapore",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Simon_Lian",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Simon_Lien_Chen-hsiang_%28%E9%80%A3%E6%99%A8%E7%BF%94%29_attended_the_press_conference_of_TV_series_%22Happy_Enemy_%28%E9%96%80%E7%95%B6%E4%BA%92%E6%87%9F%E6%84%9B%E4%B8%8A%E4%BD%A0%29%22_on_July_12%2C_2022.png/960px-Simon_Lien_Chen-hsiang_%28%E9%80%A3%E6%99%A8%E7%BF%94%29_attended_the_press_conference_of_TV_series_%22Happy_Enemy_%28%E9%96%80%E7%95%B6%E4%BA%92%E6%87%9F%E6%84%9B%E4%B8%8A%E4%BD%A0%29%22_on_July_12%2C_2022.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Simon_Lian"
+        }
+      },
+      {
+        "id": "singapore-fashion-15",
+        "name": "Kmart",
+        "cityId": "singapore",
+        "categoryId": "fashion",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Kmart%2C%20Singapore",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Kmart",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/Kmart_logo.svg/960px-Kmart_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Kmart"
+        }
+      },
+      {
+        "id": "singapore-fashion-16",
+        "name": "Holland & Barrett",
+        "cityId": "singapore",
+        "categoryId": "fashion",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Holland%20%26%20Barrett%2C%20Singapore",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Holland_%26_Barrett",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Holland_%26_Barrett%2C_King_Street%2C_Hammersmith.jpg/960px-Holland_%26_Barrett%2C_King_Street%2C_Hammersmith.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Holland_%26_Barrett"
+        }
+      },
+      {
+        "id": "singapore-fashion-17",
+        "name": "Philippe Brenninkmeyer",
+        "cityId": "singapore",
+        "categoryId": "fashion",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Philippe%20Brenninkmeyer%2C%20Singapore",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Philippe_Brenninkmeyer",
+        "photo": null
+      },
+      {
+        "id": "singapore-fashion-18",
+        "name": "Great Famine",
+        "cityId": "singapore",
+        "categoryId": "fashion",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Great%20Famine%2C%20Singapore",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Great_Famine_(Greece)",
+        "photo": null
+      }
+    ],
+    "shops": [
+      {
+        "id": "singapore-shops-1",
+        "name": "Shophouse",
+        "cityId": "singapore",
+        "categoryId": "shops",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Shophouse%2C%20Singapore",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Shophouse",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Circular_Road_3.JPG/960px-Circular_Road_3.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Shophouse"
+        }
+      },
+      {
+        "id": "singapore-shops-2",
+        "name": "Convenience store",
+        "cityId": "singapore",
+        "categoryId": "shops",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Convenience%20store%2C%20Singapore",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Convenience_store",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Convenience_store_interior.jpg/960px-Convenience_store_interior.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Convenience_store"
+        }
+      },
+      {
+        "id": "singapore-shops-3",
+        "name": "Kopitiam",
+        "cityId": "singapore",
+        "categoryId": "shops",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Kopitiam%2C%20Singapore",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Kopitiam",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/CoffeeShopSG.JPG/960px-CoffeeShopSG.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Kopitiam"
+        }
+      },
+      {
+        "id": "singapore-shops-4",
+        "name": "Baskin-Robbins",
+        "cityId": "singapore",
+        "categoryId": "shops",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Baskin-Robbins%2C%20Singapore",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Baskin-Robbins",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Baskin-Robbins_logo_2022.svg/960px-Baskin-Robbins_logo_2022.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Baskin-Robbins"
+        }
+      },
+      {
+        "id": "singapore-shops-5",
+        "name": "Sungei Road",
+        "cityId": "singapore",
+        "categoryId": "shops",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Sungei%20Road%2C%20Singapore",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Sungei_Road",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d2/SungeiRoadThievesMarket-20070609.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Sungei_Road"
+        }
+      },
+      {
+        "id": "singapore-shops-6",
+        "name": "Kampong Glam",
+        "cityId": "singapore",
+        "categoryId": "shops",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Kampong%20Glam%2C%20Singapore",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Kampong_Glam",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/Kampong_Glam_aerial_shot_-_20250628_-_RSKY.jpg/960px-Kampong_Glam_aerial_shot_-_20250628_-_RSKY.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Kampong_Glam"
+        }
+      },
+      {
+        "id": "singapore-shops-7",
+        "name": "Sim Lim Square",
+        "cityId": "singapore",
+        "categoryId": "shops",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Sim%20Lim%20Square%2C%20Singapore",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Sim_Lim_Square",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/Sim_Lim_Square_-_20230829_-_RSKY.jpg/960px-Sim_Lim_Square_-_20230829_-_RSKY.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Sim_Lim_Square"
+        }
+      },
+      {
+        "id": "singapore-shops-8",
+        "name": "HMV",
+        "cityId": "singapore",
+        "categoryId": "shops",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=HMV%2C%20Singapore",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/HMV",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/The_HMV_Shop%2C_Trinity_Walk%2C_Wakefield%2C_West_Yorkshire_%283rd_December_2022%29.jpg/960px-The_HMV_Shop%2C_Trinity_Walk%2C_Wakefield%2C_West_Yorkshire_%283rd_December_2022%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/HMV"
+        }
+      },
+      {
+        "id": "singapore-shops-9",
+        "name": "Sex shop",
+        "cityId": "singapore",
+        "categoryId": "shops",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Sex%20shop%2C%20Singapore",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Sex_shop",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Sex-shops-on-boulevard-de-clichi.jpg/960px-Sex-shops-on-boulevard-de-clichi.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Sex_shop"
+        }
+      },
+      {
+        "id": "singapore-shops-10",
+        "name": "Cold Storage",
+        "cityId": "singapore",
+        "categoryId": "shops",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Cold%20Storage%2C%20Singapore",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Cold_Storage_(supermarket)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Anchorpoint_Queenstown_Singapore_%282025%29_-_img_03.jpg/960px-Anchorpoint_Queenstown_Singapore_%282025%29_-_img_03.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Cold_Storage_(supermarket)"
+        }
+      },
+      {
+        "id": "singapore-shops-11",
+        "name": "Eastpoint Mall, Singapore",
+        "cityId": "singapore",
+        "categoryId": "shops",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Eastpoint%20Mall%2C%20Singapore%2C%20Singapore",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Eastpoint_Mall%2C_Singapore",
+        "photo": null
+      },
+      {
+        "id": "singapore-shops-12",
+        "name": "Electric Tour",
+        "cityId": "singapore",
+        "categoryId": "shops",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Electric%20Tour%2C%20Singapore",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Electric_Tour",
+        "photo": null
+      },
+      {
+        "id": "singapore-shops-13",
+        "name": "Aniplus",
+        "cityId": "singapore",
+        "categoryId": "shops",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Aniplus%2C%20Singapore",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Aniplus",
+        "photo": null
+      },
+      {
+        "id": "singapore-shops-14",
+        "name": "Mama shop",
+        "cityId": "singapore",
+        "categoryId": "shops",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Mama%20shop%2C%20Singapore",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Mama_shop",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Mama_shop_at_Buffalo_Road%2C_Singapore_-_20111113-03.jpg/960px-Mama_shop_at_Buffalo_Road%2C_Singapore_-_20111113-03.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Mama_shop"
+        }
+      },
+      {
+        "id": "singapore-shops-15",
+        "name": "Red Earth",
+        "cityId": "singapore",
+        "categoryId": "shops",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Red%20Earth%2C%20Singapore",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Red_Earth_(company)",
+        "photo": null
+      },
+      {
+        "id": "singapore-shops-16",
+        "name": "Always on My Mind",
+        "cityId": "singapore",
+        "categoryId": "shops",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Always%20on%20My%20Mind%2C%20Singapore",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Always_on_My_Mind",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/You_were_always_on_my_mind_gwen_mccrae_US_vinyl_side-B.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Always_on_My_Mind"
+        }
+      },
+      {
+        "id": "singapore-shops-17",
+        "name": "Murugan Idli Shop",
+        "cityId": "singapore",
+        "categoryId": "shops",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Murugan%20Idli%20Shop%2C%20Singapore",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Murugan_Idli_Shop",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Murugan_Idly_kadai.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Murugan_Idli_Shop"
+        }
+      },
+      {
+        "id": "singapore-shops-18",
+        "name": "Super Tour",
+        "cityId": "singapore",
+        "categoryId": "shops",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Super%20Tour%2C%20Singapore",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Super_Tour",
+        "photo": null
+      }
+    ]
+  }
+}

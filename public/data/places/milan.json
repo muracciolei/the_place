@@ -1,0 +1,2278 @@
+{
+  "cityId": "milan",
+  "generatedAt": "2026-11-27T08:33:20.660Z",
+  "source": "Wikipedia API + Maps URLs (sin scraping de Google)",
+  "incomplete": [],
+  "categories": {
+    "night_clubs": [
+      {
+        "id": "milan-night_clubs-1",
+        "name": "Anna",
+        "cityId": "milan",
+        "categoryId": "night_clubs",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Anna%2C%20Milan",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Anna_(1951_film)",
+        "photo": null
+      },
+      {
+        "id": "milan-night_clubs-2",
+        "name": "Robinho",
+        "cityId": "milan",
+        "categoryId": "night_clubs",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Robinho%2C%20Milan",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Robinho",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/78/Robinho061115-2_%28cropped_2%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Robinho"
+        }
+      },
+      {
+        "id": "milan-night_clubs-3",
+        "name": "El Morocco",
+        "cityId": "milan",
+        "categoryId": "night_clubs",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=El%20Morocco%2C%20Milan",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/El_Morocco",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/El_Morocco_nightclub_New_York_City_1965.jpg/960px-El_Morocco_nightclub_New_York_City_1965.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/El_Morocco"
+        }
+      },
+      {
+        "id": "milan-night_clubs-4",
+        "name": "Richard Cheese",
+        "cityId": "milan",
+        "categoryId": "night_clubs",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Richard%20Cheese%2C%20Milan",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Richard_Cheese",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Richard_Cheese_and_Lounge_Against_the_Machine_at_Bimbo%27s_San_Francisco.jpg/960px-Richard_Cheese_and_Lounge_Against_the_Machine_at_Bimbo%27s_San_Francisco.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Richard_Cheese"
+        }
+      },
+      {
+        "id": "milan-night_clubs-5",
+        "name": "Andrea Lo Vecchio",
+        "cityId": "milan",
+        "categoryId": "night_clubs",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Andrea%20Lo%20Vecchio%2C%20Milan",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Andrea_Lo_Vecchio",
+        "photo": null
+      },
+      {
+        "id": "milan-night_clubs-6",
+        "name": "Power",
+        "cityId": "milan",
+        "categoryId": "night_clubs",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Power%2C%20Milan",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Power_(TV_series)",
+        "photo": null
+      },
+      {
+        "id": "milan-night_clubs-7",
+        "name": "DC10",
+        "cityId": "milan",
+        "categoryId": "night_clubs",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=DC10%2C%20Milan",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/DC10_(nightclub)",
+        "photo": null
+      },
+      {
+        "id": "milan-night_clubs-8",
+        "name": "Jazz club",
+        "cityId": "milan",
+        "categoryId": "night_clubs",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Jazz%20club%2C%20Milan",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Jazz_club",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/Louis_Moholo_Quintet.jpg/960px-Louis_Moholo_Quintet.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Jazz_club"
+        }
+      },
+      {
+        "id": "milan-night_clubs-9",
+        "name": "The Prelude to A Tell Tale Heart",
+        "cityId": "milan",
+        "categoryId": "night_clubs",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Prelude%20to%20A%20Tell%20Tale%20Heart%2C%20Milan",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/The_Prelude_to_A_Tell_Tale_Heart",
+        "photo": null
+      },
+      {
+        "id": "milan-night_clubs-10",
+        "name": "Romeo Gigli",
+        "cityId": "milan",
+        "categoryId": "night_clubs",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Romeo%20Gigli%2C%20Milan",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Romeo_Gigli",
+        "photo": null
+      },
+      {
+        "id": "milan-night_clubs-11",
+        "name": "Ronaldinho",
+        "cityId": "milan",
+        "categoryId": "night_clubs",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Ronaldinho%2C%20Milan",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Ronaldinho",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/2019_-_Press_conferences_-_Day_1_ENX_6950_%2849019873887%29_%28cropped%29.jpg/960px-2019_-_Press_conferences_-_Day_1_ENX_6950_%2849019873887%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Ronaldinho"
+        }
+      },
+      {
+        "id": "milan-night_clubs-12",
+        "name": "Sfera Ebbasta",
+        "cityId": "milan",
+        "categoryId": "night_clubs",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Sfera%20Ebbasta%2C%20Milan",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Sfera_Ebbasta",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Sfera_Lloret.jpg/960px-Sfera_Lloret.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Sfera_Ebbasta"
+        }
+      },
+      {
+        "id": "milan-night_clubs-13",
+        "name": "Kamikazen: Last Night in Milan",
+        "cityId": "milan",
+        "categoryId": "night_clubs",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Kamikazen%3A%20Last%20Night%20in%20Milan%2C%20Milan",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Kamikazen%3A_Last_Night_in_Milan",
+        "photo": null
+      },
+      {
+        "id": "milan-night_clubs-14",
+        "name": "Oceana",
+        "cityId": "milan",
+        "categoryId": "night_clubs",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Oceana%2C%20Milan",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Oceana_(nightclub)",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Oceana_%28Ex_Palais_de_Danse%29_-_geograph.org.uk_-_249159.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Oceana_(nightclub)"
+        }
+      },
+      {
+        "id": "milan-night_clubs-15",
+        "name": "Mauro Di Francesco",
+        "cityId": "milan",
+        "categoryId": "night_clubs",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Mauro%20Di%20Francesco%2C%20Milan",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Mauro_Di_Francesco",
+        "photo": null
+      },
+      {
+        "id": "milan-night_clubs-16",
+        "name": "Music venue",
+        "cityId": "milan",
+        "categoryId": "night_clubs",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Music%20venue%2C%20Milan",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Music_venue",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Sydney_Opera_House_Concert_Theatre.JPG/960px-Sydney_Opera_House_Concert_Theatre.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Music_venue"
+        }
+      },
+      {
+        "id": "milan-night_clubs-17",
+        "name": "Claudio Antonioli",
+        "cityId": "milan",
+        "categoryId": "night_clubs",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Claudio%20Antonioli%2C%20Milan",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Claudio_Antonioli",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Claudio-antonioli.jpg/960px-Claudio-antonioli.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Claudio_Antonioli"
+        }
+      },
+      {
+        "id": "milan-night_clubs-18",
+        "name": "God Control",
+        "cityId": "milan",
+        "categoryId": "night_clubs",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=God%20Control%2C%20Milan",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/God_Control",
+        "photo": null
+      }
+    ],
+    "restaurants": [
+      {
+        "id": "milan-restaurants-1",
+        "name": "Little Italy, Melbourne",
+        "cityId": "milan",
+        "categoryId": "restaurants",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Little%20Italy%2C%20Melbourne%2C%20Milan",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Little_Italy%2C_Melbourne",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Little_Italy_2.jpg/960px-Little_Italy_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Little_Italy%2C_Melbourne"
+        }
+      },
+      {
+        "id": "milan-restaurants-2",
+        "name": "The Cube",
+        "cityId": "milan",
+        "categoryId": "restaurants",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Cube%2C%20Milan",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/The_Cube_(restaurant)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/The_Cube_at_Milan_2.jpg/960px-The_Cube_at_Milan_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/The_Cube_(restaurant)"
+        }
+      },
+      {
+        "id": "milan-restaurants-3",
+        "name": "Ponte Lambro",
+        "cityId": "milan",
+        "categoryId": "restaurants",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Ponte%20Lambro%2C%20Milan",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Ponte_Lambro_(district_of_Milan)",
+        "photo": null
+      },
+      {
+        "id": "milan-restaurants-4",
+        "name": "Gianni Mascolo",
+        "cityId": "milan",
+        "categoryId": "restaurants",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Gianni%20Mascolo%2C%20Milan",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Gianni_Mascolo",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Mascolo2012.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Gianni_Mascolo"
+        }
+      },
+      {
+        "id": "milan-restaurants-5",
+        "name": "Carlo Cracco",
+        "cityId": "milan",
+        "categoryId": "restaurants",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Carlo%20Cracco%2C%20Milan",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Carlo_Cracco",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Carlo_Cracco.JPG/960px-Carlo_Cracco.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Carlo_Cracco"
+        }
+      },
+      {
+        "id": "milan-restaurants-6",
+        "name": "Adam Tihany",
+        "cityId": "milan",
+        "categoryId": "restaurants",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Adam%20Tihany%2C%20Milan",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Adam_Tihany",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Adam_1_012716.jpg/960px-Adam_1_012716.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Adam_Tihany"
+        }
+      },
+      {
+        "id": "milan-restaurants-7",
+        "name": "Montalto Pavese",
+        "cityId": "milan",
+        "categoryId": "restaurants",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Montalto%20Pavese%2C%20Milan",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Montalto_Pavese",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/be/Montalto_Pavese.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Montalto_Pavese"
+        }
+      },
+      {
+        "id": "milan-restaurants-8",
+        "name": "Frecciarossa",
+        "cityId": "milan",
+        "categoryId": "restaurants",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Frecciarossa%2C%20Milan",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Frecciarossa",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Frecciarossa_1000_nuova_livrea.jpg/960px-Frecciarossa_1000_nuova_livrea.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Frecciarossa"
+        }
+      },
+      {
+        "id": "milan-restaurants-9",
+        "name": "BiCE Ristorante",
+        "cityId": "milan",
+        "categoryId": "restaurants",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=BiCE%20Ristorante%2C%20Milan",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/BiCE_Ristorante",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/fe/BiCE_Ristorante_Matchbook.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/BiCE_Ristorante"
+        }
+      },
+      {
+        "id": "milan-restaurants-10",
+        "name": "1980 Totonero",
+        "cityId": "milan",
+        "categoryId": "restaurants",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=1980%20Totonero%2C%20Milan",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/1980_Totonero",
+        "photo": null
+      },
+      {
+        "id": "milan-restaurants-11",
+        "name": "Artesia",
+        "cityId": "milan",
+        "categoryId": "restaurants",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Artesia%2C%20Milan",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Artesia_(railways)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/TGV_Art%C3%A9sia_%C3%A0_Modane.JPG/960px-TGV_Art%C3%A9sia_%C3%A0_Modane.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Artesia_(railways)"
+        }
+      },
+      {
+        "id": "milan-restaurants-12",
+        "name": "Ranco, Lombardy",
+        "cityId": "milan",
+        "categoryId": "restaurants",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Ranco%2C%20Lombardy%2C%20Milan",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Ranco%2C_Lombardy",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/60/Ranco_veduta.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Ranco%2C_Lombardy"
+        }
+      },
+      {
+        "id": "milan-restaurants-13",
+        "name": "Patricia Urquiola",
+        "cityId": "milan",
+        "categoryId": "restaurants",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Patricia%20Urquiola%2C%20Milan",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Patricia_Urquiola",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/PATRICIA_URQUIOLA_05_040_%28cropped%29.tif/lossy-page1-960px-PATRICIA_URQUIOLA_05_040_%28cropped%29.tif.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Patricia_Urquiola"
+        }
+      },
+      {
+        "id": "milan-restaurants-14",
+        "name": "Giada",
+        "cityId": "milan",
+        "categoryId": "restaurants",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Giada%2C%20Milan",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Giada_(brand)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Gabriele_Colangelo.jpg/960px-Gabriele_Colangelo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Giada_(brand)"
+        }
+      },
+      {
+        "id": "milan-restaurants-15",
+        "name": "Antisemitism in 21st-century Italy",
+        "cityId": "milan",
+        "categoryId": "restaurants",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Antisemitism%20in%2021st-century%20Italy%2C%20Milan",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Antisemitism_in_21st-century_Italy",
+        "photo": null
+      },
+      {
+        "id": "milan-restaurants-16",
+        "name": "Milan",
+        "cityId": "milan",
+        "categoryId": "restaurants",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Milan%2C%20Milan",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Milan",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/Milan_Cathedral_from_Piazza_del_Duomo.jpg/960px-Milan_Cathedral_from_Piazza_del_Duomo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Milan"
+        }
+      },
+      {
+        "id": "milan-restaurants-17",
+        "name": "Monte Generoso",
+        "cityId": "milan",
+        "categoryId": "restaurants",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Monte%20Generoso%2C%20Milan",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Monte_Generoso",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Montegeneroso.JPG/960px-Montegeneroso.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Monte_Generoso"
+        }
+      },
+      {
+        "id": "milan-restaurants-18",
+        "name": "I Am Love",
+        "cityId": "milan",
+        "categoryId": "restaurants",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=I%20Am%20Love%2C%20Milan",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/I_Am_Love_(film)",
+        "photo": null
+      }
+    ],
+    "bars": [
+      {
+        "id": "milan-bars-1",
+        "name": "Milan-e Baba Ahmadi",
+        "cityId": "milan",
+        "categoryId": "bars",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Milan-e%20Baba%20Ahmadi%2C%20Milan",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Milan-e_Baba_Ahmadi",
+        "photo": null
+      },
+      {
+        "id": "milan-bars-2",
+        "name": "Khalifeh Hesar",
+        "cityId": "milan",
+        "categoryId": "bars",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Khalifeh%20Hesar%2C%20Milan",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Khalifeh_Hesar",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Persian_people.jpg/960px-Persian_people.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Khalifeh_Hesar"
+        }
+      },
+      {
+        "id": "milan-bars-3",
+        "name": "1998–99 Serie A",
+        "cityId": "milan",
+        "categoryId": "bars",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=1998%E2%80%9399%20Serie%20A%2C%20Milan",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/1998%E2%80%9399_Serie_A",
+        "photo": null
+      },
+      {
+        "id": "milan-bars-4",
+        "name": "2009 European Artistic Gymnastics Championships",
+        "cityId": "milan",
+        "categoryId": "bars",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=2009%20European%20Artistic%20Gymnastics%20Championships%2C%20Milan",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/2009_European_Artistic_Gymnastics_Championships",
+        "photo": null
+      },
+      {
+        "id": "milan-bars-5",
+        "name": "Starbucks Reserve",
+        "cityId": "milan",
+        "categoryId": "bars",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Starbucks%20Reserve%2C%20Milan",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Starbucks_Reserve",
+        "photo": null
+      },
+      {
+        "id": "milan-bars-6",
+        "name": "Bar Aftab-e Shidan",
+        "cityId": "milan",
+        "categoryId": "bars",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Bar%20Aftab-e%20Shidan%2C%20Milan",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Bar_Aftab-e_Shidan",
+        "photo": null
+      },
+      {
+        "id": "milan-bars-7",
+        "name": "Bard-e Karkhaneh",
+        "cityId": "milan",
+        "categoryId": "bars",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Bard-e%20Karkhaneh%2C%20Milan",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Bard-e_Karkhaneh",
+        "photo": null
+      },
+      {
+        "id": "milan-bars-8",
+        "name": "Bar Aftab-e Milas",
+        "cityId": "milan",
+        "categoryId": "bars",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Bar%20Aftab-e%20Milas%2C%20Milan",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Bar_Aftab-e_Milas",
+        "photo": null
+      },
+      {
+        "id": "milan-bars-9",
+        "name": "Bar Aftab-e Shirani",
+        "cityId": "milan",
+        "categoryId": "bars",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Bar%20Aftab-e%20Shirani%2C%20Milan",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Bar_Aftab-e_Shirani",
+        "photo": null
+      },
+      {
+        "id": "milan-bars-10",
+        "name": "Fabian Hambüchen",
+        "cityId": "milan",
+        "categoryId": "bars",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Fabian%20Hamb%C3%BCchen%2C%20Milan",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Fabian_Hamb%C3%BCchen",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Fabian_Hamb%C3%BCchen_-_2019202181155_2019-07-21_Champions_for_Charity_-_1786_-_B70I1821_%28cropped%29.jpg/960px-Fabian_Hamb%C3%BCchen_-_2019202181155_2019-07-21_Champions_for_Charity_-_1786_-_B70I1821_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Fabian_Hamb%C3%BCchen"
+        }
+      },
+      {
+        "id": "milan-bars-11",
+        "name": "Fajr-e Bar Aftab",
+        "cityId": "milan",
+        "categoryId": "bars",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Fajr-e%20Bar%20Aftab%2C%20Milan",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Fajr-e_Bar_Aftab",
+        "photo": null
+      },
+      {
+        "id": "milan-bars-12",
+        "name": "Yann Cucherat",
+        "cityId": "milan",
+        "categoryId": "bars",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Yann%20Cucherat%2C%20Milan",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Yann_Cucherat",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Yann_Cucherat.jpg/960px-Yann_Cucherat.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Yann_Cucherat"
+        }
+      },
+      {
+        "id": "milan-bars-13",
+        "name": "Mihailo Pavićević",
+        "cityId": "milan",
+        "categoryId": "bars",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Mihailo%20Pavi%C4%87evi%C4%87%2C%20Milan",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Mihailo_Pavi%C4%87evi%C4%87",
+        "photo": null
+      },
+      {
+        "id": "milan-bars-14",
+        "name": "Esselunga",
+        "cityId": "milan",
+        "categoryId": "bars",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Esselunga%2C%20Milan",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Esselunga",
+        "photo": null
+      },
+      {
+        "id": "milan-bars-15",
+        "name": "Ford CD3 platform",
+        "cityId": "milan",
+        "categoryId": "bars",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Ford%20CD3%20platform%2C%20Milan",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Ford_CD3_platform",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/2010_Ford_Fusion_SE_1_--_03-13-2010.jpg/960px-2010_Ford_Fusion_SE_1_--_03-13-2010.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Ford_CD3_platform"
+        }
+      },
+      {
+        "id": "milan-bars-16",
+        "name": "Bar Aftab-e Sardasht",
+        "cityId": "milan",
+        "categoryId": "bars",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Bar%20Aftab-e%20Sardasht%2C%20Milan",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Bar_Aftab-e_Sardasht",
+        "photo": null
+      },
+      {
+        "id": "milan-bars-17",
+        "name": "Dehnow-e Alibaba",
+        "cityId": "milan",
+        "categoryId": "bars",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Dehnow-e%20Alibaba%2C%20Milan",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Dehnow-e_Alibaba",
+        "photo": null
+      },
+      {
+        "id": "milan-bars-18",
+        "name": "Zeyti-ye Do",
+        "cityId": "milan",
+        "categoryId": "bars",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Zeyti-ye%20Do%2C%20Milan",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Zeyti-ye_Do",
+        "photo": null
+      }
+    ],
+    "coffee_shops": [
+      {
+        "id": "milan-coffee_shops-1",
+        "name": "Moleskine",
+        "cityId": "milan",
+        "categoryId": "coffee_shops",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Moleskine%2C%20Milan",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Moleskine",
+        "photo": null
+      },
+      {
+        "id": "milan-coffee_shops-2",
+        "name": "Palazzo Carminati, Milan",
+        "cityId": "milan",
+        "categoryId": "coffee_shops",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Palazzo%20Carminati%2C%20Milan%2C%20Milan",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Palazzo_Carminati%2C_Milan",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/PiazzaDelDuomoMilanoDaSopraIlDuomo.jpg/960px-PiazzaDelDuomoMilanoDaSopraIlDuomo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Palazzo_Carminati%2C_Milan"
+        }
+      },
+      {
+        "id": "milan-coffee_shops-3",
+        "name": "Little Italy, Melbourne",
+        "cityId": "milan",
+        "categoryId": "coffee_shops",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Little%20Italy%2C%20Melbourne%2C%20Milan",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Little_Italy%2C_Melbourne",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Little_Italy_2.jpg/960px-Little_Italy_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Little_Italy%2C_Melbourne"
+        }
+      },
+      {
+        "id": "milan-coffee_shops-4",
+        "name": "Ana Milán",
+        "cityId": "milan",
+        "categoryId": "coffee_shops",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Ana%20Mil%C3%A1n%2C%20Milan",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Ana_Mil%C3%A1n",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/9b/%28Ana_Mil%C3%A1n%29_Ana_Mil%C3%A1n_en_La_Jungla_4.0.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Ana_Mil%C3%A1n"
+        }
+      },
+      {
+        "id": "milan-coffee_shops-5",
+        "name": "Cotti e mangiati",
+        "cityId": "milan",
+        "categoryId": "coffee_shops",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Cotti%20e%20mangiati%2C%20Milan",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Cotti_e_mangiati",
+        "photo": null
+      },
+      {
+        "id": "milan-coffee_shops-6",
+        "name": "Frecciarossa",
+        "cityId": "milan",
+        "categoryId": "coffee_shops",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Frecciarossa%2C%20Milan",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Frecciarossa",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Frecciarossa_1000_nuova_livrea.jpg/960px-Frecciarossa_1000_nuova_livrea.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Frecciarossa"
+        }
+      },
+      {
+        "id": "milan-coffee_shops-7",
+        "name": "Jože Pogačnik",
+        "cityId": "milan",
+        "categoryId": "coffee_shops",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Jo%C5%BEe%20Poga%C4%8Dnik%2C%20Milan",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Jo%C5%BEe_Poga%C4%8Dnik",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Jo%C5%BEe_Poga%C4%8Dnik_portret.jpg/960px-Jo%C5%BEe_Poga%C4%8Dnik_portret.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Jo%C5%BEe_Poga%C4%8Dnik"
+        }
+      },
+      {
+        "id": "milan-coffee_shops-8",
+        "name": "Rufo Emiliano Verga",
+        "cityId": "milan",
+        "categoryId": "coffee_shops",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Rufo%20Emiliano%20Verga%2C%20Milan",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Rufo_Emiliano_Verga",
+        "photo": null
+      },
+      {
+        "id": "milan-coffee_shops-9",
+        "name": "Fashion Cafe",
+        "cityId": "milan",
+        "categoryId": "coffee_shops",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Fashion%20Cafe%2C%20Milan",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Fashion_Cafe",
+        "photo": null
+      },
+      {
+        "id": "milan-coffee_shops-10",
+        "name": "Caffè corretto",
+        "cityId": "milan",
+        "categoryId": "coffee_shops",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Caff%C3%A8%20corretto%2C%20Milan",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Caff%C3%A8_corretto",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Caff%C3%A8_corretto.jpg/960px-Caff%C3%A8_corretto.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Caff%C3%A8_corretto"
+        }
+      },
+      {
+        "id": "milan-coffee_shops-11",
+        "name": "Blue Note Jazz Club",
+        "cityId": "milan",
+        "categoryId": "coffee_shops",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Blue%20Note%20Jazz%20Club%2C%20Milan",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Blue_Note_Jazz_Club",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Blue_Note_Jazz_Club%2C_New_York_City.jpg/960px-Blue_Note_Jazz_Club%2C_New_York_City.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Blue_Note_Jazz_Club"
+        }
+      },
+      {
+        "id": "milan-coffee_shops-12",
+        "name": "10 Corso Como",
+        "cityId": "milan",
+        "categoryId": "coffee_shops",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=10%20Corso%20Como%2C%20Milan",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/10_Corso_Como",
+        "photo": null
+      },
+      {
+        "id": "milan-coffee_shops-13",
+        "name": "La Bionda",
+        "cityId": "milan",
+        "categoryId": "coffee_shops",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=La%20Bionda%2C%20Milan",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/La_Bionda",
+        "photo": null
+      },
+      {
+        "id": "milan-coffee_shops-14",
+        "name": "Caffè-Pasticceria Cova",
+        "cityId": "milan",
+        "categoryId": "coffee_shops",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Caff%C3%A8-Pasticceria%20Cova%2C%20Milan",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Caff%C3%A8-Pasticceria_Cova",
+        "photo": null
+      },
+      {
+        "id": "milan-coffee_shops-15",
+        "name": "IK Virgo",
+        "cityId": "milan",
+        "categoryId": "coffee_shops",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=IK%20Virgo%2C%20Milan",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/IK_Virgo",
+        "photo": null
+      },
+      {
+        "id": "milan-coffee_shops-16",
+        "name": "Achille Lega",
+        "cityId": "milan",
+        "categoryId": "coffee_shops",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Achille%20Lega%2C%20Milan",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Achille_Lega",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Lega_Arno.jpg/960px-Lega_Arno.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Achille_Lega"
+        }
+      },
+      {
+        "id": "milan-coffee_shops-17",
+        "name": "Barbajada",
+        "cityId": "milan",
+        "categoryId": "coffee_shops",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Barbajada%2C%20Milan",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Barbajada",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/Barbajada.jpg/960px-Barbajada.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Barbajada"
+        }
+      },
+      {
+        "id": "milan-coffee_shops-18",
+        "name": "Palazzo della Banca Commerciale Italiana",
+        "cityId": "milan",
+        "categoryId": "coffee_shops",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Palazzo%20della%20Banca%20Commerciale%20Italiana%2C%20Milan",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Palazzo_della_Banca_Commerciale_Italiana",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Milano_Banca_Commerciale.JPG/960px-Milano_Banca_Commerciale.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Palazzo_della_Banca_Commerciale_Italiana"
+        }
+      }
+    ],
+    "bookshops": [
+      {
+        "id": "milan-bookshops-1",
+        "name": "Hoepli Editore",
+        "cityId": "milan",
+        "categoryId": "bookshops",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Hoepli%20Editore%2C%20Milan",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Hoepli_Editore",
+        "photo": null
+      },
+      {
+        "id": "milan-bookshops-2",
+        "name": "Edoardo Sonzogno",
+        "cityId": "milan",
+        "categoryId": "bookshops",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Edoardo%20Sonzogno%2C%20Milan",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Edoardo_Sonzogno",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/Karikatuur_getekend_door_Enrico_Caruso%2C_Enrico_Caruso%2C_1906_%26_1909%2C_Universiteitsbibliotheek_Gent%2C910000094265_2018_0014_AC_%28cropped%29.jpg/960px-Karikatuur_getekend_door_Enrico_Caruso%2C_Enrico_Caruso%2C_1906_%26_1909%2C_Universiteitsbibliotheek_Gent%2C910000094265_2018_0014_AC_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Edoardo_Sonzogno"
+        }
+      },
+      {
+        "id": "milan-bookshops-3",
+        "name": "Feltrinelli",
+        "cityId": "milan",
+        "categoryId": "bookshops",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Feltrinelli%2C%20Milan",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Feltrinelli_(publisher)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/Feltrinelli_Editore_Logo.svg/960px-Feltrinelli_Editore_Logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Feltrinelli_(publisher)"
+        }
+      },
+      {
+        "id": "milan-bookshops-4",
+        "name": "Mondadori",
+        "cityId": "milan",
+        "categoryId": "bookshops",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Mondadori%2C%20Milan",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Mondadori",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/Mondadori_headquarters_by_Oscar_Niemeyer%2C_Segrate_%28Milano%29_07.jpg/960px-Mondadori_headquarters_by_Oscar_Niemeyer%2C_Segrate_%28Milano%29_07.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Mondadori"
+        }
+      },
+      {
+        "id": "milan-bookshops-5",
+        "name": "Rizzoli Libri",
+        "cityId": "milan",
+        "categoryId": "bookshops",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Rizzoli%20Libri%2C%20Milan",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Rizzoli_Libri",
+        "photo": null
+      },
+      {
+        "id": "milan-bookshops-6",
+        "name": "Sex shop",
+        "cityId": "milan",
+        "categoryId": "bookshops",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Sex%20shop%2C%20Milan",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Sex_shop",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Sex-shops-on-boulevard-de-clichi.jpg/960px-Sex-shops-on-boulevard-de-clichi.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Sex_shop"
+        }
+      },
+      {
+        "id": "milan-bookshops-7",
+        "name": "Rafiq Abdus Sabir",
+        "cityId": "milan",
+        "categoryId": "bookshops",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Rafiq%20Abdus%20Sabir%2C%20Milan",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Rafiq_Abdus_Sabir",
+        "photo": null
+      },
+      {
+        "id": "milan-bookshops-8",
+        "name": "Centro Sociale Leoncavallo",
+        "cityId": "milan",
+        "categoryId": "bookshops",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Centro%20Sociale%20Leoncavallo%2C%20Milan",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Centro_Sociale_Leoncavallo",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Leoncavallo.jpg/960px-Leoncavallo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Centro_Sociale_Leoncavallo"
+        }
+      },
+      {
+        "id": "milan-bookshops-9",
+        "name": "The Ripped Bodice",
+        "cityId": "milan",
+        "categoryId": "bookshops",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Ripped%20Bodice%2C%20Milan",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/The_Ripped_Bodice",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/The_Ripped_Bodice_08.jpg/960px-The_Ripped_Bodice_08.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/The_Ripped_Bodice"
+        }
+      },
+      {
+        "id": "milan-bookshops-10",
+        "name": "Jason Fulford",
+        "cityId": "milan",
+        "categoryId": "bookshops",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Jason%20Fulford%2C%20Milan",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Jason_Fulford",
+        "photo": null
+      },
+      {
+        "id": "milan-bookshops-11",
+        "name": "Milan Asadurov",
+        "cityId": "milan",
+        "categoryId": "bookshops",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Milan%20Asadurov%2C%20Milan",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Milan_Asadurov",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Asadurov_portrait2006.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Milan_Asadurov"
+        }
+      },
+      {
+        "id": "milan-bookshops-12",
+        "name": "Luigi Molinari",
+        "cityId": "milan",
+        "categoryId": "bookshops",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Luigi%20Molinari%2C%20Milan",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Luigi_Molinari",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Luigi-molinari-1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Luigi_Molinari"
+        }
+      },
+      {
+        "id": "milan-bookshops-13",
+        "name": "RCS MediaGroup",
+        "cityId": "milan",
+        "categoryId": "bookshops",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=RCS%20MediaGroup%2C%20Milan",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/RCS_MediaGroup",
+        "photo": null
+      },
+      {
+        "id": "milan-bookshops-14",
+        "name": "Ulrico Hoepli",
+        "cityId": "milan",
+        "categoryId": "bookshops",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Ulrico%20Hoepli%2C%20Milan",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Ulrico_Hoepli",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Ulrico_Hoepli_%281847%E2%80%931935%29_Buchh%C3%A4ndler_und_Verleger.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Ulrico_Hoepli"
+        }
+      },
+      {
+        "id": "milan-bookshops-15",
+        "name": "Angelo Rizzoli",
+        "cityId": "milan",
+        "categoryId": "bookshops",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Angelo%20Rizzoli%2C%20Milan",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Angelo_Rizzoli_(publisher%2C_born_1889)",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/92/Angelo_Rizzoli.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Angelo_Rizzoli_(publisher%2C_born_1889)"
+        }
+      },
+      {
+        "id": "milan-bookshops-16",
+        "name": "Piazza Fontana bombing",
+        "cityId": "milan",
+        "categoryId": "bookshops",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Piazza%20Fontana%20bombing%2C%20Milan",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Piazza_Fontana_bombing",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Strage_di_piazza_Fontana.jpg/960px-Strage_di_piazza_Fontana.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Piazza_Fontana_bombing"
+        }
+      },
+      {
+        "id": "milan-bookshops-17",
+        "name": "Homeland",
+        "cityId": "milan",
+        "categoryId": "bookshops",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Homeland%2C%20Milan",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Homeland_(Doctorow_novel)",
+        "photo": null
+      },
+      {
+        "id": "milan-bookshops-18",
+        "name": "Alviero Martini",
+        "cityId": "milan",
+        "categoryId": "bookshops",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Alviero%20Martini%2C%20Milan",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Alviero_Martini",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Alviero_Martini.jpg/960px-Alviero_Martini.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Alviero_Martini"
+        }
+      }
+    ],
+    "museums": [
+      {
+        "id": "milan-museums-1",
+        "name": "Museo Civico di Storia Naturale di Milano",
+        "cityId": "milan",
+        "categoryId": "museums",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Museo%20Civico%20di%20Storia%20Naturale%20di%20Milano%2C%20Milan",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Museo_Civico_di_Storia_Naturale_di_Milano",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/Museo_scienze_naturali_milano_improved_version.jpg/960px-Museo_scienze_naturali_milano_improved_version.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Museo_Civico_di_Storia_Naturale_di_Milano"
+        }
+      },
+      {
+        "id": "milan-museums-2",
+        "name": "Museo Poldi Pezzoli",
+        "cityId": "milan",
+        "categoryId": "museums",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Museo%20Poldi%20Pezzoli%2C%20Milan",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Museo_Poldi_Pezzoli",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/DSC02794_-_Milano_-_Via_Manzoni_-_Foto_Giovanni_Dall%27Orto_-_20-Jan-2007.jpg/960px-DSC02794_-_Milano_-_Via_Manzoni_-_Foto_Giovanni_Dall%27Orto_-_20-Jan-2007.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Museo_Poldi_Pezzoli"
+        }
+      },
+      {
+        "id": "milan-museums-3",
+        "name": "Archaeological Museum, Milan",
+        "cityId": "milan",
+        "categoryId": "museums",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Archaeological%20Museum%2C%20Milan%2C%20Milan",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Archaeological_Museum%2C_Milan",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Museo_archeologico_milano_1.JPG/960px-Museo_archeologico_milano_1.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Archaeological_Museum%2C_Milan"
+        }
+      },
+      {
+        "id": "milan-museums-4",
+        "name": "Museo Nazionale Scienza e Tecnologia Leonardo da Vinci",
+        "cityId": "milan",
+        "categoryId": "museums",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Museo%20Nazionale%20Scienza%20e%20Tecnologia%20Leonardo%20da%20Vinci%2C%20Milan",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Museo_Nazionale_Scienza_e_Tecnologia_Leonardo_da_Vinci",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Chiostri_del_Museo_Nazionale_Scienza_e_Tecnologia_Leonardo_da_Vinci.jpg/960px-Chiostri_del_Museo_Nazionale_Scienza_e_Tecnologia_Leonardo_da_Vinci.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Museo_Nazionale_Scienza_e_Tecnologia_Leonardo_da_Vinci"
+        }
+      },
+      {
+        "id": "milan-museums-5",
+        "name": "Bagatti Valsecchi Museum",
+        "cityId": "milan",
+        "categoryId": "museums",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Bagatti%20Valsecchi%20Museum%2C%20Milan",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Bagatti_Valsecchi_Museum",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/20161101_Palazzo_Bagatti_Valsecchi%2C_Facciata_via_Santo_Spirito.jpg/960px-20161101_Palazzo_Bagatti_Valsecchi%2C_Facciata_via_Santo_Spirito.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Bagatti_Valsecchi_Museum"
+        }
+      },
+      {
+        "id": "milan-museums-6",
+        "name": "Triennale di Milano",
+        "cityId": "milan",
+        "categoryId": "museums",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Triennale%20di%20Milano%2C%20Milan",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Triennale_di_Milano",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Parco_Sempione_%28Milan%29%2C_Wikimania_2016%2C_MP_003.jpg/960px-Parco_Sempione_%28Milan%29%2C_Wikimania_2016%2C_MP_003.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Triennale_di_Milano"
+        }
+      },
+      {
+        "id": "milan-museums-7",
+        "name": "Diocesan Museum of Milan",
+        "cityId": "milan",
+        "categoryId": "museums",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Diocesan%20Museum%20of%20Milan%2C%20Milan",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Diocesan_Museum_of_Milan",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Marco_d%27_Oggiono_-_Virgin_and_Child_Enthroned_with_Saints_-_WGA16635.jpg/960px-Marco_d%27_Oggiono_-_Virgin_and_Child_Enthroned_with_Saints_-_WGA16635.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Diocesan_Museum_of_Milan"
+        }
+      },
+      {
+        "id": "milan-museums-8",
+        "name": "Museum of the Risorgimento",
+        "cityId": "milan",
+        "categoryId": "museums",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Museum%20of%20the%20Risorgimento%2C%20Milan",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Museum_of_the_Risorgimento_(Milan)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/DSC02741_Milano_-_Palazzo_Moriggia_-1775-_%28Museo_del_Risorgimento%29_-_Foto_Giovanni_Dall%27Orto_-_20_jan_2007.jpg/960px-DSC02741_Milano_-_Palazzo_Moriggia_-1775-_%28Museo_del_Risorgimento%29_-_Foto_Giovanni_Dall%27Orto_-_20_jan_2007.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Museum_of_the_Risorgimento_(Milan)"
+        }
+      },
+      {
+        "id": "milan-museums-9",
+        "name": "Mario Bezzi",
+        "cityId": "milan",
+        "categoryId": "museums",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Mario%20Bezzi%2C%20Milan",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Mario_Bezzi",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/8a/MarioBezzi.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Mario_Bezzi"
+        }
+      },
+      {
+        "id": "milan-museums-10",
+        "name": "Egyptian Museum",
+        "cityId": "milan",
+        "categoryId": "museums",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Egyptian%20Museum%2C%20Milan",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Egyptian_Museum_(Milan)",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Milano_Castello_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Egyptian_Museum_(Milan)"
+        }
+      },
+      {
+        "id": "milan-museums-11",
+        "name": "Galleria d'Arte Moderna, Milan",
+        "cityId": "milan",
+        "categoryId": "museums",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Galleria%20d'Arte%20Moderna%2C%20Milan%2C%20Milan",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Galleria_d'Arte_Moderna%2C_Milan",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Galleria_d%27arte_moderna_%28Milano%29.JPG/960px-Galleria_d%27arte_moderna_%28Milano%29.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Galleria_d'Arte_Moderna%2C_Milan"
+        }
+      },
+      {
+        "id": "milan-museums-12",
+        "name": "Museum of Musical Instruments",
+        "cityId": "milan",
+        "categoryId": "museums",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Museum%20of%20Musical%20Instruments%2C%20Milan",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Museum_of_Musical_Instruments_(Milan)",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Milanocastello0001.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Museum_of_Musical_Instruments_(Milan)"
+        }
+      },
+      {
+        "id": "milan-museums-13",
+        "name": "Antique Furniture & Wooden Sculpture Museum",
+        "cityId": "milan",
+        "categoryId": "museums",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Antique%20Furniture%20%26%20Wooden%20Sculpture%20Museum%2C%20Milan",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Antique_Furniture_%26_Wooden_Sculpture_Museum",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Giardino_castello_sforzesco.JPG/960px-Giardino_castello_sforzesco.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Antique_Furniture_%26_Wooden_Sculpture_Museum"
+        }
+      },
+      {
+        "id": "milan-museums-14",
+        "name": "Museo d'Arte Antica",
+        "cityId": "milan",
+        "categoryId": "museums",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Museo%20d'Arte%20Antica%2C%20Milan",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Museo_d'Arte_Antica",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Museo_d%27arte_antica%2C_sala_02.JPG/960px-Museo_d%27arte_antica%2C_sala_02.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Museo_d'Arte_Antica"
+        }
+      },
+      {
+        "id": "milan-museums-15",
+        "name": "Milan Kašanin",
+        "cityId": "milan",
+        "categoryId": "museums",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Milan%20Ka%C5%A1anin%2C%20Milan",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Milan_Ka%C5%A1anin",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Ka%C5%A1anin-ispred-Muzeja-Istorije-Umetnosti-u-Be%C4%8Du.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Milan_Ka%C5%A1anin"
+        }
+      },
+      {
+        "id": "milan-museums-16",
+        "name": "Museo del Novecento",
+        "cityId": "milan",
+        "categoryId": "museums",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Museo%20del%20Novecento%2C%20Milan",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Museo_del_Novecento",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/Arengario_Milano_Museo_900.jpg/960px-Arengario_Milano_Museo_900.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Museo_del_Novecento"
+        }
+      },
+      {
+        "id": "milan-museums-17",
+        "name": "Milan",
+        "cityId": "milan",
+        "categoryId": "museums",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Milan%2C%20Milan",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Milan",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/Milan_Cathedral_from_Piazza_del_Duomo.jpg/960px-Milan_Cathedral_from_Piazza_del_Duomo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Milan"
+        }
+      },
+      {
+        "id": "milan-museums-18",
+        "name": "Leonardo3 Museum",
+        "cityId": "milan",
+        "categoryId": "museums",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Leonardo3%20Museum%2C%20Milan",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Leonardo3_Museum",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/Leonardo3_Museum.jpg/960px-Leonardo3_Museum.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Leonardo3_Museum"
+        }
+      }
+    ],
+    "concerts": [
+      {
+        "id": "milan-concerts-1",
+        "name": "San Maurizio al Monastero Maggiore",
+        "cityId": "milan",
+        "categoryId": "concerts",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=San%20Maurizio%20al%20Monastero%20Maggiore%2C%20Milan",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/San_Maurizio_al_Monastero_Maggiore",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/9e/095MilanoSMaurizio.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/San_Maurizio_al_Monastero_Maggiore"
+        }
+      },
+      {
+        "id": "milan-concerts-2",
+        "name": "Aarhus Pride",
+        "cityId": "milan",
+        "categoryId": "concerts",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Aarhus%20Pride%2C%20Milan",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Aarhus_Pride",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Aarhus_Pride%2C_2012%2C_start_of_day.jpg/960px-Aarhus_Pride%2C_2012%2C_start_of_day.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Aarhus_Pride"
+        }
+      },
+      {
+        "id": "milan-concerts-3",
+        "name": "Vatroslav Lisinski Concert Hall",
+        "cityId": "milan",
+        "categoryId": "concerts",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Vatroslav%20Lisinski%20Concert%20Hall%2C%20Milan",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Vatroslav_Lisinski_Concert_Hall",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Vatroslav_Lisinski_Concert_Hall.jpg/960px-Vatroslav_Lisinski_Concert_Hall.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Vatroslav_Lisinski_Concert_Hall"
+        }
+      },
+      {
+        "id": "milan-concerts-4",
+        "name": "Milan Sachs",
+        "cityId": "milan",
+        "categoryId": "concerts",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Milan%20Sachs%2C%20Milan",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Milan_Sachs",
+        "photo": null
+      },
+      {
+        "id": "milan-concerts-5",
+        "name": "Franco Leoni",
+        "cityId": "milan",
+        "categoryId": "concerts",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Franco%20Leoni%2C%20Milan",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Franco_Leoni",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/49/Franco-Leoni.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Franco_Leoni"
+        }
+      },
+      {
+        "id": "milan-concerts-6",
+        "name": "Zagreb Philharmonic Orchestra",
+        "cityId": "milan",
+        "categoryId": "concerts",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Zagreb%20Philharmonic%20Orchestra%2C%20Milan",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Zagreb_Philharmonic_Orchestra",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Zagreba%C4%8Dka_filharmonija_Novi_dvori.jpg/960px-Zagreba%C4%8Dka_filharmonija_Novi_dvori.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Zagreb_Philharmonic_Orchestra"
+        }
+      },
+      {
+        "id": "milan-concerts-7",
+        "name": "2nd OTO Awards",
+        "cityId": "milan",
+        "categoryId": "concerts",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=2nd%20OTO%20Awards%2C%20Milan",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/2nd_OTO_Awards",
+        "photo": null
+      },
+      {
+        "id": "milan-concerts-8",
+        "name": "Arnaldo Conti",
+        "cityId": "milan",
+        "categoryId": "concerts",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Arnaldo%20Conti%2C%20Milan",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Arnaldo_Conti",
+        "photo": null
+      },
+      {
+        "id": "milan-concerts-9",
+        "name": "Irina Iordachescu",
+        "cityId": "milan",
+        "categoryId": "concerts",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Irina%20Iordachescu%2C%20Milan",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Irina_Iordachescu",
+        "photo": null
+      },
+      {
+        "id": "milan-concerts-10",
+        "name": "Zagreb rocket attacks",
+        "cityId": "milan",
+        "categoryId": "concerts",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Zagreb%20rocket%20attacks%2C%20Milan",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Zagreb_rocket_attacks",
+        "photo": null
+      },
+      {
+        "id": "milan-concerts-11",
+        "name": "Arata Isozaki",
+        "cityId": "milan",
+        "categoryId": "concerts",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Arata%20Isozaki%2C%20Milan",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Arata_Isozaki",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/ARATA_ISOZAKI%2C_ARCHITECT_01.jpg/960px-ARATA_ISOZAKI%2C_ARCHITECT_01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Arata_Isozaki"
+        }
+      },
+      {
+        "id": "milan-concerts-12",
+        "name": "National Symphony Orchestra",
+        "cityId": "milan",
+        "categoryId": "concerts",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=National%20Symphony%20Orchestra%2C%20Milan",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/National_Symphony_Orchestra_(Ireland)",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/2a/RT%C3%89_National_Symphony_Orchestra_Image.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/National_Symphony_Orchestra_(Ireland)"
+        }
+      },
+      {
+        "id": "milan-concerts-13",
+        "name": "Orchestra Sinfonica di Milano Giuseppe Verdi",
+        "cityId": "milan",
+        "categoryId": "concerts",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Orchestra%20Sinfonica%20di%20Milano%20Giuseppe%20Verdi%2C%20Milan",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Orchestra_Sinfonica_di_Milano_Giuseppe_Verdi",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Orchestra_Sinfonica_di_Milano_nella_Nona_Sinfonia_di_Gustav_Mahler_%2C_2023%2C_%C2%A9_Orchestra_Sinfonica_di_Milano.jpg/960px-Orchestra_Sinfonica_di_Milano_nella_Nona_Sinfonia_di_Gustav_Mahler_%2C_2023%2C_%C2%A9_Orchestra_Sinfonica_di_Milano.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Orchestra_Sinfonica_di_Milano_Giuseppe_Verdi"
+        }
+      },
+      {
+        "id": "milan-concerts-14",
+        "name": "Croatian Music Institute",
+        "cityId": "milan",
+        "categoryId": "concerts",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Croatian%20Music%20Institute%2C%20Milan",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Croatian_Music_Institute",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Hrvatski_glazbeni_zavod_-_Muzi%C4%8Dka_akademija_Zagreb.jpg/960px-Hrvatski_glazbeni_zavod_-_Muzi%C4%8Dka_akademija_Zagreb.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Croatian_Music_Institute"
+        }
+      },
+      {
+        "id": "milan-concerts-15",
+        "name": "Visor och oförskämdheter",
+        "cityId": "milan",
+        "categoryId": "concerts",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Visor%20och%20of%C3%B6rsk%C3%A4mdheter%2C%20Milan",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Visor_och_of%C3%B6rsk%C3%A4mdheter",
+        "photo": null
+      },
+      {
+        "id": "milan-concerts-16",
+        "name": "Orchestra i Pomeriggi Musicali",
+        "cityId": "milan",
+        "categoryId": "concerts",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Orchestra%20i%20Pomeriggi%20Musicali%2C%20Milan",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Orchestra_i_Pomeriggi_Musicali",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/05/5299MilanoTeatroDalVerme.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Orchestra_i_Pomeriggi_Musicali"
+        }
+      },
+      {
+        "id": "milan-concerts-17",
+        "name": "Music venue",
+        "cityId": "milan",
+        "categoryId": "concerts",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Music%20venue%2C%20Milan",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Music_venue",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Sydney_Opera_House_Concert_Theatre.JPG/960px-Sydney_Opera_House_Concert_Theatre.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Music_venue"
+        }
+      },
+      {
+        "id": "milan-concerts-18",
+        "name": "Chen Shi-Zheng",
+        "cityId": "milan",
+        "categoryId": "concerts",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Chen%20Shi-Zheng%2C%20Milan",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Chen_Shi-Zheng",
+        "photo": null
+      }
+    ],
+    "fashion": [
+      {
+        "id": "milan-fashion-1",
+        "name": "Emanuela de Paula",
+        "cityId": "milan",
+        "categoryId": "fashion",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Emanuela%20de%20Paula%2C%20Milan",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Emanuela_de_Paula",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Emanuelee.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Emanuela_de_Paula"
+        }
+      },
+      {
+        "id": "milan-fashion-2",
+        "name": "Amy Wesson",
+        "cityId": "milan",
+        "categoryId": "fashion",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Amy%20Wesson%2C%20Milan",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Amy_Wesson",
+        "photo": null
+      },
+      {
+        "id": "milan-fashion-3",
+        "name": "Vicenza railway station",
+        "cityId": "milan",
+        "categoryId": "fashion",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Vicenza%20railway%20station%2C%20Milan",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Vicenza_railway_station",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/Stazione_Vicenza4.JPG/960px-Stazione_Vicenza4.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Vicenza_railway_station"
+        }
+      },
+      {
+        "id": "milan-fashion-4",
+        "name": "Beams",
+        "cityId": "milan",
+        "categoryId": "fashion",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Beams%2C%20Milan",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Beams_(brand)",
+        "photo": null
+      },
+      {
+        "id": "milan-fashion-5",
+        "name": "Michele Saee",
+        "cityId": "milan",
+        "categoryId": "fashion",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Michele%20Saee%2C%20Milan",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Michele_Saee",
+        "photo": null
+      },
+      {
+        "id": "milan-fashion-6",
+        "name": "Grandi Magazzini Mele",
+        "cityId": "milan",
+        "categoryId": "fashion",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Grandi%20Magazzini%20Mele%2C%20Milan",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Grandi_Magazzini_Mele",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Headquarters_Mele_Naples.jpg/960px-Headquarters_Mele_Naples.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Grandi_Magazzini_Mele"
+        }
+      },
+      {
+        "id": "milan-fashion-7",
+        "name": "Tobias Sorensen",
+        "cityId": "milan",
+        "categoryId": "fashion",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Tobias%20Sorensen%2C%20Milan",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Tobias_Sorensen",
+        "photo": null
+      },
+      {
+        "id": "milan-fashion-8",
+        "name": "Renato Vallanzasca",
+        "cityId": "milan",
+        "categoryId": "fashion",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Renato%20Vallanzasca%2C%20Milan",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Renato_Vallanzasca",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/en/f/f5/Renato_Vallanzasca_ca_1970s.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Renato_Vallanzasca"
+        }
+      },
+      {
+        "id": "milan-fashion-9",
+        "name": "Barbara Bonney",
+        "cityId": "milan",
+        "categoryId": "fashion",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Barbara%20Bonney%2C%20Milan",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Barbara_Bonney",
+        "photo": null
+      },
+      {
+        "id": "milan-fashion-10",
+        "name": "Sybil Danning",
+        "cityId": "milan",
+        "categoryId": "fashion",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Sybil%20Danning%2C%20Milan",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Sybil_Danning",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/04/Sybil_Danning_%282018%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Sybil_Danning"
+        }
+      },
+      {
+        "id": "milan-fashion-11",
+        "name": "James Jebbia",
+        "cityId": "milan",
+        "categoryId": "fashion",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=James%20Jebbia%2C%20Milan",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/James_Jebbia",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/31/James_Jebbia.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/James_Jebbia"
+        }
+      },
+      {
+        "id": "milan-fashion-12",
+        "name": "Grande Torino",
+        "cityId": "milan",
+        "categoryId": "fashion",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Grande%20Torino%2C%20Milan",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Grande_Torino",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Grande_Torino_1948_49.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Grande_Torino"
+        }
+      },
+      {
+        "id": "milan-fashion-13",
+        "name": "Ópera do Malandro",
+        "cityId": "milan",
+        "categoryId": "fashion",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=%C3%93pera%20do%20Malandro%2C%20Milan",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/%C3%93pera_do_Malandro",
+        "photo": null
+      },
+      {
+        "id": "milan-fashion-14",
+        "name": "Tom Fears",
+        "cityId": "milan",
+        "categoryId": "fashion",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Tom%20Fears%2C%20Milan",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Tom_Fears",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Fears_1955_Bowman.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Tom_Fears"
+        }
+      },
+      {
+        "id": "milan-fashion-15",
+        "name": "Buildering",
+        "cityId": "milan",
+        "categoryId": "fashion",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Buildering%2C%20Milan",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Buildering",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/86/Buildering_On_Doran_Bridge.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Buildering"
+        }
+      },
+      {
+        "id": "milan-fashion-16",
+        "name": "Points classification in the Tour de France",
+        "cityId": "milan",
+        "categoryId": "fashion",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Points%20classification%20in%20the%20Tour%20de%20France%2C%20Milan",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Points_classification_in_the_Tour_de_France",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Mads_Pedersen_on_the_podium_at_the_presentation_ceremony_for_Stage_5_of_the_2026_Tour_de_France.jpg/960px-Mads_Pedersen_on_the_podium_at_the_presentation_ceremony_for_Stage_5_of_the_2026_Tour_de_France.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Points_classification_in_the_Tour_de_France"
+        }
+      },
+      {
+        "id": "milan-fashion-17",
+        "name": "Sacha Baron Cohen",
+        "cityId": "milan",
+        "categoryId": "fashion",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Sacha%20Baron%20Cohen%2C%20Milan",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Sacha_Baron_Cohen",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Sacha_Baron_Cohen_%282024%29_%283x4_cropped%29.jpg/960px-Sacha_Baron_Cohen_%282024%29_%283x4_cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Sacha_Baron_Cohen"
+        }
+      },
+      {
+        "id": "milan-fashion-18",
+        "name": "Widows",
+        "cityId": "milan",
+        "categoryId": "fashion",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Widows%2C%20Milan",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Widows_(2018_film)",
+        "photo": null
+      }
+    ],
+    "shops": [
+      {
+        "id": "milan-shops-1",
+        "name": "Via Monte Napoleone",
+        "cityId": "milan",
+        "categoryId": "shops",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Via%20Monte%20Napoleone%2C%20Milan",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Via_Monte_Napoleone",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Via_Monte_Napoleone_%28Milan%29.jpg/960px-Via_Monte_Napoleone_%28Milan%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Via_Monte_Napoleone"
+        }
+      },
+      {
+        "id": "milan-shops-2",
+        "name": "Fedez",
+        "cityId": "milan",
+        "categoryId": "shops",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Fedez%2C%20Milan",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Fedez",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Fedez_%28Feb_2025%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Fedez"
+        }
+      },
+      {
+        "id": "milan-shops-3",
+        "name": "Shop Talk",
+        "cityId": "milan",
+        "categoryId": "shops",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Shop%20Talk%2C%20Milan",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Shop_Talk",
+        "photo": null
+      },
+      {
+        "id": "milan-shops-4",
+        "name": "The Head Shop",
+        "cityId": "milan",
+        "categoryId": "shops",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Head%20Shop%2C%20Milan",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/The_Head_Shop",
+        "photo": null
+      },
+      {
+        "id": "milan-shops-5",
+        "name": "Pogliaghi",
+        "cityId": "milan",
+        "categoryId": "shops",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Pogliaghi%2C%20Milan",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Pogliaghi",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Pogliaghi_%28logo%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Pogliaghi"
+        }
+      },
+      {
+        "id": "milan-shops-6",
+        "name": "Fiorucci",
+        "cityId": "milan",
+        "categoryId": "shops",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Fiorucci%2C%20Milan",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Fiorucci",
+        "photo": null
+      },
+      {
+        "id": "milan-shops-7",
+        "name": "Stradivarius",
+        "cityId": "milan",
+        "categoryId": "shops",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Stradivarius%2C%20Milan",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Stradivarius_(record_label)",
+        "photo": null
+      },
+      {
+        "id": "milan-shops-8",
+        "name": "Off-White",
+        "cityId": "milan",
+        "categoryId": "shops",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Off-White%2C%20Milan",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Off-White_(company)",
+        "photo": null
+      },
+      {
+        "id": "milan-shops-9",
+        "name": "Sergio Coggiola",
+        "cityId": "milan",
+        "categoryId": "shops",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Sergio%20Coggiola%2C%20Milan",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Sergio_Coggiola",
+        "photo": null
+      },
+      {
+        "id": "milan-shops-10",
+        "name": "The Gladiator",
+        "cityId": "milan",
+        "categoryId": "shops",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Gladiator%2C%20Milan",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/The_Gladiator_(Turtledove_novel)",
+        "photo": null
+      },
+      {
+        "id": "milan-shops-11",
+        "name": "Illinois Army National Guard",
+        "cityId": "milan",
+        "categoryId": "shops",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Illinois%20Army%20National%20Guard%2C%20Milan",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Illinois_Army_National_Guard",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Ilarnghq.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Illinois_Army_National_Guard"
+        }
+      },
+      {
+        "id": "milan-shops-12",
+        "name": "Celeste Farotti",
+        "cityId": "milan",
+        "categoryId": "shops",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Celeste%20Farotti%2C%20Milan",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Celeste_Farotti",
+        "photo": null
+      },
+      {
+        "id": "milan-shops-13",
+        "name": "Caffè-Pasticceria Cova",
+        "cityId": "milan",
+        "categoryId": "shops",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Caff%C3%A8-Pasticceria%20Cova%2C%20Milan",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Caff%C3%A8-Pasticceria_Cova",
+        "photo": null
+      },
+      {
+        "id": "milan-shops-14",
+        "name": "Gioia",
+        "cityId": "milan",
+        "categoryId": "shops",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Gioia%2C%20Milan",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Gioia_(magazine)",
+        "photo": null
+      },
+      {
+        "id": "milan-shops-15",
+        "name": "The Duke of Milan",
+        "cityId": "milan",
+        "categoryId": "shops",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Duke%20of%20Milan%2C%20Milan",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/The_Duke_of_Milan",
+        "photo": null
+      },
+      {
+        "id": "milan-shops-16",
+        "name": "Domenico Barbaia",
+        "cityId": "milan",
+        "categoryId": "shops",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Domenico%20Barbaia%2C%20Milan",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Domenico_Barbaia",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/Domenico_Barbaja-1820s.jpg/960px-Domenico_Barbaja-1820s.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Domenico_Barbaia"
+        }
+      },
+      {
+        "id": "milan-shops-17",
+        "name": "Once Upon a Time in Mumbaai",
+        "cityId": "milan",
+        "categoryId": "shops",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Once%20Upon%20a%20Time%20in%20Mumbaai%2C%20Milan",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Once_Upon_a_Time_in_Mumbaai",
+        "photo": null
+      },
+      {
+        "id": "milan-shops-18",
+        "name": "10 Corso Como",
+        "cityId": "milan",
+        "categoryId": "shops",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=10%20Corso%20Como%2C%20Milan",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/10_Corso_Como",
+        "photo": null
+      }
+    ]
+  }
+}

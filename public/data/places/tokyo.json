@@ -1,0 +1,2141 @@
+{
+  "cityId": "tokyo",
+  "generatedAt": "2026-11-27T08:24:24.619Z",
+  "source": "Wikipedia API + Maps URLs (sin scraping de Google)",
+  "incomplete": [
+    "bars"
+  ],
+  "categories": {
+    "night_clubs": [
+      {
+        "id": "tokyo-night_clubs-1",
+        "name": "Womb",
+        "cityId": "tokyo",
+        "categoryId": "night_clubs",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Womb%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Womb_(nightclub)",
+        "photo": null
+      },
+      {
+        "id": "tokyo-night_clubs-2",
+        "name": "Maruyamachō, Shibuya",
+        "cityId": "tokyo",
+        "categoryId": "night_clubs",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Maruyamach%C5%8D%2C%20Shibuya%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Maruyamach%C5%8D%2C_Shibuya",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Wiki_jizo_pano.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Maruyamach%C5%8D%2C_Shibuya"
+        }
+      },
+      {
+        "id": "tokyo-night_clubs-3",
+        "name": "Zouk",
+        "cityId": "tokyo",
+        "categoryId": "night_clubs",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Zouk%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Zouk_(club)",
+        "photo": null
+      },
+      {
+        "id": "tokyo-night_clubs-4",
+        "name": "Live 1964",
+        "cityId": "tokyo",
+        "categoryId": "night_clubs",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Live%201964%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Live_1964",
+        "photo": null
+      },
+      {
+        "id": "tokyo-night_clubs-5",
+        "name": "Doin' the Thing",
+        "cityId": "tokyo",
+        "categoryId": "night_clubs",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Doin'%20the%20Thing%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Doin'_the_Thing",
+        "photo": null
+      },
+      {
+        "id": "tokyo-night_clubs-6",
+        "name": "Arata Isozaki",
+        "cityId": "tokyo",
+        "categoryId": "night_clubs",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Arata%20Isozaki%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Arata_Isozaki",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/ARATA_ISOZAKI%2C_ARCHITECT_01.jpg/960px-ARATA_ISOZAKI%2C_ARCHITECT_01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Arata_Isozaki"
+        }
+      },
+      {
+        "id": "tokyo-night_clubs-7",
+        "name": "Blues Alley",
+        "cityId": "tokyo",
+        "categoryId": "night_clubs",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Blues%20Alley%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Blues_Alley",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Blues_Alley_side.jpg/960px-Blues_Alley_side.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Blues_Alley"
+        }
+      },
+      {
+        "id": "tokyo-night_clubs-8",
+        "name": "Yoko Tani",
+        "cityId": "tokyo",
+        "categoryId": "night_clubs",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Yoko%20Tani%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Yoko_Tani",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/55/Tani_Yoko._Ombre_bianche.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Yoko_Tani"
+        }
+      },
+      {
+        "id": "tokyo-night_clubs-9",
+        "name": "Gay bar",
+        "cityId": "tokyo",
+        "categoryId": "night_clubs",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Gay%20bar%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Gay_bar",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/09/Comptons-Of-Soho.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Gay_bar"
+        }
+      },
+      {
+        "id": "tokyo-night_clubs-10",
+        "name": "Mogra",
+        "cityId": "tokyo",
+        "categoryId": "night_clubs",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Mogra%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Mogra_(nightclub)",
+        "photo": null
+      },
+      {
+        "id": "tokyo-night_clubs-11",
+        "name": "Walt Disney's Enchanted Tiki Room",
+        "cityId": "tokyo",
+        "categoryId": "night_clubs",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Walt%20Disney's%20Enchanted%20Tiki%20Room%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Walt_Disney's_Enchanted_Tiki_Room",
+        "photo": null
+      },
+      {
+        "id": "tokyo-night_clubs-12",
+        "name": "Shibaura",
+        "cityId": "tokyo",
+        "categoryId": "night_clubs",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Shibaura%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Shibaura",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Shibaura_island_overview_minato_tokyo_2009-2.JPG/960px-Shibaura_island_overview_minato_tokyo_2009-2.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Shibaura"
+        }
+      },
+      {
+        "id": "tokyo-night_clubs-13",
+        "name": "Rikidōzan",
+        "cityId": "tokyo",
+        "categoryId": "night_clubs",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Rikid%C5%8Dzan%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Rikid%C5%8Dzan",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Rikid%C5%8Dzan.jpg/960px-Rikid%C5%8Dzan.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Rikid%C5%8Dzan"
+        }
+      },
+      {
+        "id": "tokyo-night_clubs-14",
+        "name": "Tokyo Vice",
+        "cityId": "tokyo",
+        "categoryId": "night_clubs",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Tokyo%20Vice%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Tokyo_Vice_(TV_series)",
+        "photo": null
+      },
+      {
+        "id": "tokyo-night_clubs-15",
+        "name": "Superclub",
+        "cityId": "tokyo",
+        "categoryId": "night_clubs",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Superclub%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Superclub",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Wikipedia_space_ibiza%2809%29.jpg/960px-Wikipedia_space_ibiza%2809%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Superclub"
+        }
+      },
+      {
+        "id": "tokyo-night_clubs-16",
+        "name": "Lexington Queen",
+        "cityId": "tokyo",
+        "categoryId": "night_clubs",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Lexington%20Queen%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Lexington_Queen",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/LexingtonqueenroppongiInside.jpg/960px-LexingtonqueenroppongiInside.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Lexington_Queen"
+        }
+      },
+      {
+        "id": "tokyo-night_clubs-17",
+        "name": "Sankeys",
+        "cityId": "tokyo",
+        "categoryId": "night_clubs",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Sankeys%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Sankeys",
+        "photo": null
+      },
+      {
+        "id": "tokyo-night_clubs-18",
+        "name": "DC10",
+        "cityId": "tokyo",
+        "categoryId": "night_clubs",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=DC10%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/DC10_(nightclub)",
+        "photo": null
+      }
+    ],
+    "restaurants": [
+      {
+        "id": "tokyo-restaurants-1",
+        "name": "Afuri",
+        "cityId": "tokyo",
+        "categoryId": "restaurants",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Afuri%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Afuri",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Afuri_logo.webp/960px-Afuri_logo.webp?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Afuri"
+        }
+      },
+      {
+        "id": "tokyo-restaurants-2",
+        "name": "Grand Central Oyster Bar & Restaurant",
+        "cityId": "tokyo",
+        "categoryId": "restaurants",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Grand%20Central%20Oyster%20Bar%20%26%20Restaurant%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Grand_Central_Oyster_Bar_%26_Restaurant",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/The_Oyster_Bar%2C_Grand_Central_Terminal%2C_New_York_City_%284057303042%29.jpg/960px-The_Oyster_Bar%2C_Grand_Central_Terminal%2C_New_York_City_%284057303042%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Grand_Central_Oyster_Bar_%26_Restaurant"
+        }
+      },
+      {
+        "id": "tokyo-restaurants-3",
+        "name": "Tokyo Diner",
+        "cityId": "tokyo",
+        "categoryId": "restaurants",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Tokyo%20Diner%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Tokyo_Diner",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/Tokyo_Diner_Streetscene.jpg/960px-Tokyo_Diner_Streetscene.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Tokyo_Diner"
+        }
+      },
+      {
+        "id": "tokyo-restaurants-4",
+        "name": "Genki Sushi",
+        "cityId": "tokyo",
+        "categoryId": "restaurants",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Genki%20Sushi%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Genki_Sushi",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Genki_Sushi_in_Shibuya_201506.jpg/960px-Genki_Sushi_in_Shibuya_201506.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Genki_Sushi"
+        }
+      },
+      {
+        "id": "tokyo-restaurants-5",
+        "name": "Blue Star Donuts",
+        "cityId": "tokyo",
+        "categoryId": "restaurants",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Blue%20Star%20Donuts%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Blue_Star_Donuts",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/Blue_Star_Donuts_logo.svg/960px-Blue_Star_Donuts_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Blue_Star_Donuts"
+        }
+      },
+      {
+        "id": "tokyo-restaurants-6",
+        "name": "Ginza",
+        "cityId": "tokyo",
+        "categoryId": "restaurants",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Ginza%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Ginza",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Ginza-WAKO_at_night.jpg/960px-Ginza-WAKO_at_night.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Ginza"
+        }
+      },
+      {
+        "id": "tokyo-restaurants-7",
+        "name": "Benihana",
+        "cityId": "tokyo",
+        "categoryId": "restaurants",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Benihana%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Benihana",
+        "photo": null
+      },
+      {
+        "id": "tokyo-restaurants-8",
+        "name": "Matsugen",
+        "cityId": "tokyo",
+        "categoryId": "restaurants",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Matsugen%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Matsugen",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Matsushitabrothers.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Matsugen"
+        }
+      },
+      {
+        "id": "tokyo-restaurants-9",
+        "name": "Zuma",
+        "cityId": "tokyo",
+        "categoryId": "restaurants",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Zuma%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Zuma_(restaurant)",
+        "photo": null
+      },
+      {
+        "id": "tokyo-restaurants-10",
+        "name": "Brasserie Les Halles",
+        "cityId": "tokyo",
+        "categoryId": "restaurants",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Brasserie%20Les%20Halles%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Brasserie_Les_Halles",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/WTM_tony_0009.jpg/960px-WTM_tony_0009.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Brasserie_Les_Halles"
+        }
+      },
+      {
+        "id": "tokyo-restaurants-11",
+        "name": "Italian Tomato",
+        "cityId": "tokyo",
+        "categoryId": "restaurants",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Italian%20Tomato%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Italian_Tomato",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Shinagawa_seaside_overview_2009.JPG/960px-Shinagawa_seaside_overview_2009.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Italian_Tomato"
+        }
+      },
+      {
+        "id": "tokyo-restaurants-12",
+        "name": "Sukiya",
+        "cityId": "tokyo",
+        "categoryId": "restaurants",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Sukiya%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Sukiya_(restaurant_chain)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Sukiya_logo.svg/960px-Sukiya_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Sukiya_(restaurant_chain)"
+        }
+      },
+      {
+        "id": "tokyo-restaurants-13",
+        "name": "Marukin Ramen",
+        "cityId": "tokyo",
+        "categoryId": "restaurants",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Marukin%20Ramen%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Marukin_Ramen",
+        "photo": null
+      },
+      {
+        "id": "tokyo-restaurants-14",
+        "name": "Ramen shop",
+        "cityId": "tokyo",
+        "categoryId": "restaurants",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Ramen%20shop%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Ramen_shop",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/%E6%9D%B1%E6%AD%A6%E3%82%89%E3%83%BC%E3%82%81%E3%82%9320240512-P1042538.jpg/960px-%E6%9D%B1%E6%AD%A6%E3%82%89%E3%83%BC%E3%82%81%E3%82%9320240512-P1042538.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Ramen_shop"
+        }
+      },
+      {
+        "id": "tokyo-restaurants-15",
+        "name": "Freshness Burger",
+        "cityId": "tokyo",
+        "categoryId": "restaurants",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Freshness%20Burger%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Freshness_Burger",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Freshness_Burger_Jingumae.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Freshness_Burger"
+        }
+      },
+      {
+        "id": "tokyo-restaurants-16",
+        "name": "SM F&B Development",
+        "cityId": "tokyo",
+        "categoryId": "restaurants",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=SM%20F%26B%20Development%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/SM_F%26B_Development",
+        "photo": null
+      },
+      {
+        "id": "tokyo-restaurants-17",
+        "name": "MOS Burger",
+        "cityId": "tokyo",
+        "categoryId": "restaurants",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=MOS%20Burger%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/MOS_Burger",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/MOS-Burger-Logo.svg/960px-MOS-Burger-Logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/MOS_Burger"
+        }
+      },
+      {
+        "id": "tokyo-restaurants-18",
+        "name": "Butler café",
+        "cityId": "tokyo",
+        "categoryId": "restaurants",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Butler%20caf%C3%A9%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Butler_caf%C3%A9",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Chitty_Mood_Butlers_Cafe_20130913.jpg/960px-Chitty_Mood_Butlers_Cafe_20130913.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Butler_caf%C3%A9"
+        }
+      }
+    ],
+    "bars": [],
+    "coffee_shops": [
+      {
+        "id": "tokyo-coffee_shops-1",
+        "name": "Butler café",
+        "cityId": "tokyo",
+        "categoryId": "coffee_shops",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Butler%20caf%C3%A9%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Butler_caf%C3%A9",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Chitty_Mood_Butlers_Cafe_20130913.jpg/960px-Chitty_Mood_Butlers_Cafe_20130913.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Butler_caf%C3%A9"
+        }
+      },
+      {
+        "id": "tokyo-coffee_shops-2",
+        "name": "Kirby Café",
+        "cityId": "tokyo",
+        "categoryId": "coffee_shops",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Kirby%20Caf%C3%A9%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Kirby_Caf%C3%A9",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Kirby_Cafe.png/960px-Kirby_Cafe.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Kirby_Caf%C3%A9"
+        }
+      },
+      {
+        "id": "tokyo-coffee_shops-3",
+        "name": "Café Lumière",
+        "cityId": "tokyo",
+        "categoryId": "coffee_shops",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Caf%C3%A9%20Lumi%C3%A8re%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Caf%C3%A9_Lumi%C3%A8re",
+        "photo": null
+      },
+      {
+        "id": "tokyo-coffee_shops-4",
+        "name": "Frontierland",
+        "cityId": "tokyo",
+        "categoryId": "coffee_shops",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Frontierland%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Frontierland",
+        "photo": null
+      },
+      {
+        "id": "tokyo-coffee_shops-5",
+        "name": "Tokyo One Piece Tower",
+        "cityId": "tokyo",
+        "categoryId": "coffee_shops",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Tokyo%20One%20Piece%20Tower%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Tokyo_One_Piece_Tower",
+        "photo": null
+      },
+      {
+        "id": "tokyo-coffee_shops-6",
+        "name": "Maid café",
+        "cityId": "tokyo",
+        "categoryId": "coffee_shops",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Maid%20caf%C3%A9%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Maid_caf%C3%A9",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Maid_cafe_4.jpg/960px-Maid_cafe_4.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Maid_caf%C3%A9"
+        }
+      },
+      {
+        "id": "tokyo-coffee_shops-7",
+        "name": "Café Gerbeaud",
+        "cityId": "tokyo",
+        "categoryId": "coffee_shops",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Caf%C3%A9%20Gerbeaud%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Caf%C3%A9_Gerbeaud",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Cafe_Gerbeaud_01.JPG/960px-Cafe_Gerbeaud_01.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Caf%C3%A9_Gerbeaud"
+        }
+      },
+      {
+        "id": "tokyo-coffee_shops-8",
+        "name": "Ghibli Museum",
+        "cityId": "tokyo",
+        "categoryId": "coffee_shops",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Ghibli%20Museum%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Ghibli_Museum",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Ghibli_Museum_2024.JPG/960px-Ghibli_Museum_2024.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Ghibli_Museum"
+        }
+      },
+      {
+        "id": "tokyo-coffee_shops-9",
+        "name": "Cosplay restaurant",
+        "cityId": "tokyo",
+        "categoryId": "coffee_shops",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Cosplay%20restaurant%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Cosplay_restaurant",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Akihabara_Maids2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Cosplay_restaurant"
+        }
+      },
+      {
+        "id": "tokyo-coffee_shops-10",
+        "name": "Misato Watanabe",
+        "cityId": "tokyo",
+        "categoryId": "coffee_shops",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Misato%20Watanabe%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Misato_Watanabe",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/Misato_Watanabe_%2816702129459%29.jpg/960px-Misato_Watanabe_%2816702129459%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Misato_Watanabe"
+        }
+      },
+      {
+        "id": "tokyo-coffee_shops-11",
+        "name": "Italian Tomato",
+        "cityId": "tokyo",
+        "categoryId": "coffee_shops",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Italian%20Tomato%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Italian_Tomato",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Shinagawa_seaside_overview_2009.JPG/960px-Shinagawa_seaside_overview_2009.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Italian_Tomato"
+        }
+      },
+      {
+        "id": "tokyo-coffee_shops-12",
+        "name": "Net café refugee",
+        "cityId": "tokyo",
+        "categoryId": "coffee_shops",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Net%20caf%C3%A9%20refugee%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Net_caf%C3%A9_refugee",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/02/Internet_cafe_in_Japan_3.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Net_caf%C3%A9_refugee"
+        }
+      },
+      {
+        "id": "tokyo-coffee_shops-13",
+        "name": "Manga cafe",
+        "cityId": "tokyo",
+        "categoryId": "coffee_shops",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Manga%20cafe%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Manga_cafe",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/Manga_Kissa_5_%286021168063%29.jpg/960px-Manga_Kissa_5_%286021168063%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Manga_cafe"
+        }
+      },
+      {
+        "id": "tokyo-coffee_shops-14",
+        "name": "Pretty Maid Café",
+        "cityId": "tokyo",
+        "categoryId": "coffee_shops",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Pretty%20Maid%20Caf%C3%A9%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Pretty_Maid_Caf%C3%A9",
+        "photo": null
+      },
+      {
+        "id": "tokyo-coffee_shops-15",
+        "name": "Polar Bear Café",
+        "cityId": "tokyo",
+        "categoryId": "coffee_shops",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Polar%20Bear%20Caf%C3%A9%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Polar_Bear_Caf%C3%A9",
+        "photo": null
+      },
+      {
+        "id": "tokyo-coffee_shops-16",
+        "name": "Heaven & Earth",
+        "cityId": "tokyo",
+        "categoryId": "coffee_shops",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Heaven%20%26%20Earth%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Heaven_%26_Earth_(box_set)",
+        "photo": null
+      },
+      {
+        "id": "tokyo-coffee_shops-17",
+        "name": "Tokyo Disney Resort",
+        "cityId": "tokyo",
+        "categoryId": "coffee_shops",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Tokyo%20Disney%20Resort%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Tokyo_Disney_Resort",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Tokyo_Disneyland_%281-1_crop%29.jpg/960px-Tokyo_Disneyland_%281-1_crop%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Tokyo_Disney_Resort"
+        }
+      },
+      {
+        "id": "tokyo-coffee_shops-18",
+        "name": "The Penguin Cafe Orchestra Mini Album",
+        "cityId": "tokyo",
+        "categoryId": "coffee_shops",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Penguin%20Cafe%20Orchestra%20Mini%20Album%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/The_Penguin_Cafe_Orchestra_Mini_Album",
+        "photo": null
+      }
+    ],
+    "bookshops": [
+      {
+        "id": "tokyo-bookshops-1",
+        "name": "Books Kinokuniya",
+        "cityId": "tokyo",
+        "categoryId": "bookshops",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Books%20Kinokuniya%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Books_Kinokuniya",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/en/thumb/0/02/Books_Kinokuniya_logo_%282026%29.svg/960px-Books_Kinokuniya_logo_%282026%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Books_Kinokuniya"
+        }
+      },
+      {
+        "id": "tokyo-bookshops-2",
+        "name": "Culture Convenience Club",
+        "cityId": "tokyo",
+        "categoryId": "bookshops",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Culture%20Convenience%20Club%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Culture_Convenience_Club",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/TSUTAYA_Ibaraki.JPG/960px-TSUTAYA_Ibaraki.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Culture_Convenience_Club"
+        }
+      },
+      {
+        "id": "tokyo-bookshops-3",
+        "name": "Jimbōchō Book Town",
+        "cityId": "tokyo",
+        "categoryId": "bookshops",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Jimb%C5%8Dch%C5%8D%20Book%20Town%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Jimb%C5%8Dch%C5%8D_Book_Town",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Yaguchi_Book_Store_and_Koga_Book_Store.jpg/960px-Yaguchi_Book_Store_and_Koga_Book_Store.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Jimb%C5%8Dch%C5%8D_Book_Town"
+        }
+      },
+      {
+        "id": "tokyo-bookshops-4",
+        "name": "Comic Takaoka",
+        "cityId": "tokyo",
+        "categoryId": "bookshops",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Comic%20Takaoka%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Comic_Takaoka",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/%E9%AB%98%E5%B2%A1%E6%9B%B8%E5%BA%97%E7%A5%9E%E4%BF%9D%E7%94%BA%E5%BA%97_-_panoramio_%28cropped%29.jpg/960px-%E9%AB%98%E5%B2%A1%E6%9B%B8%E5%BA%97%E7%A5%9E%E4%BF%9D%E7%94%BA%E5%BA%97_-_panoramio_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Comic_Takaoka"
+        }
+      },
+      {
+        "id": "tokyo-bookshops-5",
+        "name": "Libro",
+        "cityId": "tokyo",
+        "categoryId": "bookshops",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Libro%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Libro",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Meiko_Building_2012-01-26.JPG/960px-Meiko_Building_2012-01-26.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Libro"
+        }
+      },
+      {
+        "id": "tokyo-bookshops-6",
+        "name": "Dai Nippon Printing",
+        "cityId": "tokyo",
+        "categoryId": "bookshops",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Dai%20Nippon%20Printing%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Dai_Nippon_Printing",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Headquarters_building_of_Dai_Nippon_Printing_Co.jpg/960px-Headquarters_building_of_Dai_Nippon_Printing_Co.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Dai_Nippon_Printing"
+        }
+      },
+      {
+        "id": "tokyo-bookshops-7",
+        "name": "Tokuma Shoten",
+        "cityId": "tokyo",
+        "categoryId": "bookshops",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Tokuma%20Shoten%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Tokuma_Shoten",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Meguro.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Tokuma_Shoten"
+        }
+      },
+      {
+        "id": "tokyo-bookshops-8",
+        "name": "Ghibli Museum",
+        "cityId": "tokyo",
+        "categoryId": "bookshops",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Ghibli%20Museum%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Ghibli_Museum",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Ghibli_Museum_2024.JPG/960px-Ghibli_Museum_2024.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Ghibli_Museum"
+        }
+      },
+      {
+        "id": "tokyo-bookshops-9",
+        "name": "Altima Ace",
+        "cityId": "tokyo",
+        "categoryId": "bookshops",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Altima%20Ace%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Altima_Ace",
+        "photo": null
+      },
+      {
+        "id": "tokyo-bookshops-10",
+        "name": "Independent bookstore",
+        "cityId": "tokyo",
+        "categoryId": "bookshops",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Independent%20bookstore%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Independent_bookstore",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Stoke_Newington_Bookshop%2C_London.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Independent_bookstore"
+        }
+      },
+      {
+        "id": "tokyo-bookshops-11",
+        "name": "Core Magazine",
+        "cityId": "tokyo",
+        "categoryId": "bookshops",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Core%20Magazine%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Core_Magazine",
+        "photo": null
+      },
+      {
+        "id": "tokyo-bookshops-12",
+        "name": "Planet News",
+        "cityId": "tokyo",
+        "categoryId": "bookshops",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Planet%20News%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Planet_News",
+        "photo": null
+      },
+      {
+        "id": "tokyo-bookshops-13",
+        "name": "Japan Booksellers' Award",
+        "cityId": "tokyo",
+        "categoryId": "bookshops",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Japan%20Booksellers'%20Award%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Japan_Booksellers'_Award",
+        "photo": null
+      },
+      {
+        "id": "tokyo-bookshops-14",
+        "name": "Mandarake",
+        "cityId": "tokyo",
+        "categoryId": "bookshops",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Mandarake%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Mandarake",
+        "photo": null
+      },
+      {
+        "id": "tokyo-bookshops-15",
+        "name": "Denkigai no Honya-san",
+        "cityId": "tokyo",
+        "categoryId": "bookshops",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Denkigai%20no%20Honya-san%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Denkigai_no_Honya-san",
+        "photo": null
+      },
+      {
+        "id": "tokyo-bookshops-16",
+        "name": "Like Someone in Love",
+        "cityId": "tokyo",
+        "categoryId": "bookshops",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Like%20Someone%20in%20Love%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Like_Someone_in_Love_(film)",
+        "photo": null
+      },
+      {
+        "id": "tokyo-bookshops-17",
+        "name": "Kunio Maekawa",
+        "cityId": "tokyo",
+        "categoryId": "bookshops",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Kunio%20Maekawa%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Kunio_Maekawa",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/House-Kunio-Maekawa-03.jpg/960px-House-Kunio-Maekawa-03.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Kunio_Maekawa"
+        }
+      },
+      {
+        "id": "tokyo-bookshops-18",
+        "name": "Koishikawa",
+        "cityId": "tokyo",
+        "categoryId": "bookshops",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Koishikawa%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Koishikawa",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/%E6%9D%B1%E4%BA%AC%E5%B0%8F%E7%9F%B3%E5%B7%9D%E9%81%A0%E6%99%AF.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Koishikawa"
+        }
+      }
+    ],
+    "museums": [
+      {
+        "id": "tokyo-museums-1",
+        "name": "Tokyo National Museum",
+        "cityId": "tokyo",
+        "categoryId": "museums",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Tokyo%20National%20Museum%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Tokyo_National_Museum",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/Tokyo_National_Museum%2C_Honkan_2010.jpg/960px-Tokyo_National_Museum%2C_Honkan_2010.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Tokyo_National_Museum"
+        }
+      },
+      {
+        "id": "tokyo-museums-2",
+        "name": "Tokyo",
+        "cityId": "tokyo",
+        "categoryId": "museums",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Tokyo%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Tokyo",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Skyscrapers_of_Shinjuku_2009_January.jpg/960px-Skyscrapers_of_Shinjuku_2009_January.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Tokyo"
+        }
+      },
+      {
+        "id": "tokyo-museums-3",
+        "name": "National Museum of Modern Art, Tokyo",
+        "cityId": "tokyo",
+        "categoryId": "museums",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=National%20Museum%20of%20Modern%20Art%2C%20Tokyo%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/National_Museum_of_Modern_Art%2C_Tokyo",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/National_Museum_of_Modern_Art_Tokyo.jpg/960px-National_Museum_of_Modern_Art_Tokyo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/National_Museum_of_Modern_Art%2C_Tokyo"
+        }
+      },
+      {
+        "id": "tokyo-museums-4",
+        "name": "National Museum of Western Art",
+        "cityId": "tokyo",
+        "categoryId": "museums",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=National%20Museum%20of%20Western%20Art%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/National_Museum_of_Western_Art",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/National_museum_of_western_art05s3200.jpg/960px-National_museum_of_western_art05s3200.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/National_Museum_of_Western_Art"
+        }
+      },
+      {
+        "id": "tokyo-museums-5",
+        "name": "National Museum of Nature and Science",
+        "cityId": "tokyo",
+        "categoryId": "museums",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=National%20Museum%20of%20Nature%20and%20Science%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/National_Museum_of_Nature_and_Science",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/NMNC01s3200.jpg/960px-NMNC01s3200.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/National_Museum_of_Nature_and_Science"
+        }
+      },
+      {
+        "id": "tokyo-museums-6",
+        "name": "Tokyo Photographic Art Museum",
+        "cityId": "tokyo",
+        "categoryId": "museums",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Tokyo%20Photographic%20Art%20Museum%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Tokyo_Photographic_Art_Museum",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Tokyo_Metropolitan_Museum_of_Photography_entrance_2011_January.jpg/960px-Tokyo_Metropolitan_Museum_of_Photography_entrance_2011_January.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Tokyo_Photographic_Art_Museum"
+        }
+      },
+      {
+        "id": "tokyo-museums-7",
+        "name": "Shinagawa",
+        "cityId": "tokyo",
+        "categoryId": "museums",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Shinagawa%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Shinagawa",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/Meguro-gawa%2C_%C5%8Csaki_01.jpg/960px-Meguro-gawa%2C_%C5%8Csaki_01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Shinagawa"
+        }
+      },
+      {
+        "id": "tokyo-museums-8",
+        "name": "Bunkyō",
+        "cityId": "tokyo",
+        "categoryId": "museums",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Bunky%C5%8D%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Bunky%C5%8D",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Tokyo_Dome_2007-12.jpg/960px-Tokyo_Dome_2007-12.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Bunky%C5%8D"
+        }
+      },
+      {
+        "id": "tokyo-museums-9",
+        "name": "Natsume Sōseki",
+        "cityId": "tokyo",
+        "categoryId": "museums",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Natsume%20S%C5%8Dseki%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Natsume_S%C5%8Dseki",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Natsume_Soseki_photo.jpg/960px-Natsume_Soseki_photo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Natsume_S%C5%8Dseki"
+        }
+      },
+      {
+        "id": "tokyo-museums-10",
+        "name": "Shibuya",
+        "cityId": "tokyo",
+        "categoryId": "museums",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Shibuya%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Shibuya",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/Shibuya_skyline_from_Tokyu_Plaza_in_Omotesando%2C_Harajuku%2C_Tokyo%2C_2024_May.jpg/960px-Shibuya_skyline_from_Tokyu_Plaza_in_Omotesando%2C_Harajuku%2C_Tokyo%2C_2024_May.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Shibuya"
+        }
+      },
+      {
+        "id": "tokyo-museums-11",
+        "name": "Ghibli Museum",
+        "cityId": "tokyo",
+        "categoryId": "museums",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Ghibli%20Museum%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Ghibli_Museum",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Ghibli_Museum_2024.JPG/960px-Ghibli_Museum_2024.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Ghibli_Museum"
+        }
+      },
+      {
+        "id": "tokyo-museums-12",
+        "name": "Palais de Tokyo",
+        "cityId": "tokyo",
+        "categoryId": "museums",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Palais%20de%20Tokyo%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Palais_de_Tokyo",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Palais_de_Tokyo_%40_Paris_%2831028565970%29.jpg/960px-Palais_de_Tokyo_%40_Paris_%2831028565970%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Palais_de_Tokyo"
+        }
+      },
+      {
+        "id": "tokyo-museums-13",
+        "name": "Kōtō",
+        "cityId": "tokyo",
+        "categoryId": "museums",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=K%C5%8Dt%C5%8D%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/K%C5%8Dt%C5%8D",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Great_Harumi_Bridge.jpg/960px-Great_Harumi_Bridge.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/K%C5%8Dt%C5%8D"
+        }
+      },
+      {
+        "id": "tokyo-museums-14",
+        "name": "Toko Shinoda",
+        "cityId": "tokyo",
+        "categoryId": "museums",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Toko%20Shinoda%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Toko_Shinoda",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4b/T%C5%8Dk%C5%8D_Shinoda.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Toko_Shinoda"
+        }
+      },
+      {
+        "id": "tokyo-museums-15",
+        "name": "Ueno",
+        "cityId": "tokyo",
+        "categoryId": "museums",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Ueno%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Ueno",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Ueno_park.jpg/960px-Ueno_park.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Ueno"
+        }
+      },
+      {
+        "id": "tokyo-museums-16",
+        "name": "Tokyo Disneyland",
+        "cityId": "tokyo",
+        "categoryId": "museums",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Tokyo%20Disneyland%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Tokyo_Disneyland",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Tokyo_Disneyland_Cinderella_Castle_2023-07-02.jpg/960px-Tokyo_Disneyland_Cinderella_Castle_2023-07-02.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Tokyo_Disneyland"
+        }
+      },
+      {
+        "id": "tokyo-museums-17",
+        "name": "Museum of Contemporary Art Tokyo",
+        "cityId": "tokyo",
+        "categoryId": "museums",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Museum%20of%20Contemporary%20Art%20Tokyo%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Museum_of_Contemporary_Art_Tokyo",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Museum_of_Contemporary_Art_Tokyo_2009.jpg/960px-Museum_of_Contemporary_Art_Tokyo_2009.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Museum_of_Contemporary_Art_Tokyo"
+        }
+      },
+      {
+        "id": "tokyo-museums-18",
+        "name": "Taitō",
+        "cityId": "tokyo",
+        "categoryId": "museums",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Tait%C5%8D%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Tait%C5%8D",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Honkan%2C_Tokyo_National_Museum_%E2%80%93_Tokyo%2C_Japan_%E2%80%93_%282019-12-30%29.jpg/960px-Honkan%2C_Tokyo_National_Museum_%E2%80%93_Tokyo%2C_Japan_%E2%80%93_%282019-12-30%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Tait%C5%8D"
+        }
+      }
+    ],
+    "concerts": [
+      {
+        "id": "tokyo-concerts-1",
+        "name": "Sōgakudō Concert Hall",
+        "cityId": "tokyo",
+        "categoryId": "concerts",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=S%C5%8Dgakud%C5%8D%20Concert%20Hall%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/S%C5%8Dgakud%C5%8D_Concert_Hall",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/The_oldest_Tokyo_National_University_of_Fine_Arts_and_Music_Concert_Hall.jpg/960px-The_oldest_Tokyo_National_University_of_Fine_Arts_and_Music_Concert_Hall.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/S%C5%8Dgakud%C5%8D_Concert_Hall"
+        }
+      },
+      {
+        "id": "tokyo-concerts-2",
+        "name": "Nagata Acoustics",
+        "cityId": "tokyo",
+        "categoryId": "concerts",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Nagata%20Acoustics%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Nagata_Acoustics",
+        "photo": null
+      },
+      {
+        "id": "tokyo-concerts-3",
+        "name": "Hibiya Open-Air Concert Hall",
+        "cityId": "tokyo",
+        "categoryId": "concerts",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Hibiya%20Open-Air%20Concert%20Hall%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Hibiya_Open-Air_Concert_Hall",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Hibiya_park_-_rainy_day_-_2023_April_16_various.jpeg/960px-Hibiya_park_-_rainy_day_-_2023_April_16_various.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Hibiya_Open-Air_Concert_Hall"
+        }
+      },
+      {
+        "id": "tokyo-concerts-4",
+        "name": "Tokyo Bunka Kaikan",
+        "cityId": "tokyo",
+        "categoryId": "concerts",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Tokyo%20Bunka%20Kaikan%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Tokyo_Bunka_Kaikan",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/Tokyo_bunka_kaikan01s3200.jpg/960px-Tokyo_bunka_kaikan01s3200.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Tokyo_Bunka_Kaikan"
+        }
+      },
+      {
+        "id": "tokyo-concerts-5",
+        "name": "Shibuya-AX",
+        "cityId": "tokyo",
+        "categoryId": "concerts",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Shibuya-AX%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Shibuya-AX",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Shibuya-AX-01.jpg/960px-Shibuya-AX-01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Shibuya-AX"
+        }
+      },
+      {
+        "id": "tokyo-concerts-6",
+        "name": "NHK Hall",
+        "cityId": "tokyo",
+        "categoryId": "concerts",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=NHK%20Hall%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/NHK_Hall",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/NHK-Hall_2016.jpg/960px-NHK-Hall_2016.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/NHK_Hall"
+        }
+      },
+      {
+        "id": "tokyo-concerts-7",
+        "name": "NHK Symphony Orchestra",
+        "cityId": "tokyo",
+        "categoryId": "concerts",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=NHK%20Symphony%20Orchestra%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/NHK_Symphony_Orchestra",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/NHK_Symphony_Orchestra%2C_Takanawa_-_Jan_25%2C_2018.jpg/960px-NHK_Symphony_Orchestra%2C_Takanawa_-_Jan_25%2C_2018.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/NHK_Symphony_Orchestra"
+        }
+      },
+      {
+        "id": "tokyo-concerts-8",
+        "name": "Nakano Sunplaza",
+        "cityId": "tokyo",
+        "categoryId": "concerts",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Nakano%20Sunplaza%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Nakano_Sunplaza",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/Nakano_Sunplaza_23.jpg/960px-Nakano_Sunplaza_23.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Nakano_Sunplaza"
+        }
+      },
+      {
+        "id": "tokyo-concerts-9",
+        "name": "Suntory Hall",
+        "cityId": "tokyo",
+        "categoryId": "concerts",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Suntory%20Hall%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Suntory_Hall",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Suntory_Hall_2018.jpg/960px-Suntory_Hall_2018.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Suntory_Hall"
+        }
+      },
+      {
+        "id": "tokyo-concerts-10",
+        "name": "Tokyo Symphony Orchestra",
+        "cityId": "tokyo",
+        "categoryId": "concerts",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Tokyo%20Symphony%20Orchestra%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Tokyo_Symphony_Orchestra",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Muza-May.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Tokyo_Symphony_Orchestra"
+        }
+      },
+      {
+        "id": "tokyo-concerts-11",
+        "name": "Yomiuri Nippon Symphony Orchestra",
+        "cityId": "tokyo",
+        "categoryId": "concerts",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Yomiuri%20Nippon%20Symphony%20Orchestra%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Yomiuri_Nippon_Symphony_Orchestra",
+        "photo": null
+      },
+      {
+        "id": "tokyo-concerts-12",
+        "name": "Casals Hall",
+        "cityId": "tokyo",
+        "categoryId": "concerts",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Casals%20Hall%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Casals_Hall",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/170312_Nihon_University_Ochanomizu_Square_Building_Tokyo_Japan01s3.jpg/960px-170312_Nihon_University_Ochanomizu_Square_Building_Tokyo_Japan01s3.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Casals_Hall"
+        }
+      },
+      {
+        "id": "tokyo-concerts-13",
+        "name": "Yasuhisa Toyota",
+        "cityId": "tokyo",
+        "categoryId": "concerts",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Yasuhisa%20Toyota%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Yasuhisa_Toyota",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/20130118_Bing_from_the_choral_Terrace_phil_King.jpg/960px-20130118_Bing_from_the_choral_Terrace_phil_King.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Yasuhisa_Toyota"
+        }
+      },
+      {
+        "id": "tokyo-concerts-14",
+        "name": "Tokyo Kōsei Nenkin Kaikan",
+        "cityId": "tokyo",
+        "categoryId": "concerts",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Tokyo%20K%C5%8Dsei%20Nenkin%20Kaikan%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Tokyo_K%C5%8Dsei_Nenkin_Kaikan",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Tokyo_kosei_nenkin_kaikan_shinjuku_tokyo_2009.JPG/960px-Tokyo_kosei_nenkin_kaikan_shinjuku_tokyo_2009.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Tokyo_K%C5%8Dsei_Nenkin_Kaikan"
+        }
+      },
+      {
+        "id": "tokyo-concerts-15",
+        "name": "Bunkamura",
+        "cityId": "tokyo",
+        "categoryId": "concerts",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Bunkamura%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Bunkamura",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/Bunkamura.JPG/960px-Bunkamura.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Bunkamura"
+        }
+      },
+      {
+        "id": "tokyo-concerts-16",
+        "name": "Ueno",
+        "cityId": "tokyo",
+        "categoryId": "concerts",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Ueno%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Ueno",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Ueno_park.jpg/960px-Ueno_park.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Ueno"
+        }
+      },
+      {
+        "id": "tokyo-concerts-17",
+        "name": "Mickey's PhilharMagic",
+        "cityId": "tokyo",
+        "categoryId": "concerts",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Mickey's%20PhilharMagic%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Mickey's_PhilharMagic",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/en/c/c5/Tokyo_Disneyland_Mickeys_Philhar_Magic.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Mickey's_PhilharMagic"
+        }
+      },
+      {
+        "id": "tokyo-concerts-18",
+        "name": "Arata Isozaki",
+        "cityId": "tokyo",
+        "categoryId": "concerts",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Arata%20Isozaki%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Arata_Isozaki",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/ARATA_ISOZAKI%2C_ARCHITECT_01.jpg/960px-ARATA_ISOZAKI%2C_ARCHITECT_01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Arata_Isozaki"
+        }
+      }
+    ],
+    "fashion": [
+      {
+        "id": "tokyo-fashion-1",
+        "name": "Death of Akiyo Asaki",
+        "cityId": "tokyo",
+        "categoryId": "fashion",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Death%20of%20Akiyo%20Asaki%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Death_of_Akiyo_Asaki",
+        "photo": null
+      },
+      {
+        "id": "tokyo-fashion-2",
+        "name": "X-Large",
+        "cityId": "tokyo",
+        "categoryId": "fashion",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=X-Large%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/X-Large_(clothing_brand)",
+        "photo": null
+      },
+      {
+        "id": "tokyo-fashion-3",
+        "name": "Terri Stickles",
+        "cityId": "tokyo",
+        "categoryId": "fashion",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Terri%20Stickles%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Terri_Stickles",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/en/7/7d/SticklesTerri1964SwimOlympian.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Terri_Stickles"
+        }
+      },
+      {
+        "id": "tokyo-fashion-4",
+        "name": "Yohji Yamamoto",
+        "cityId": "tokyo",
+        "categoryId": "fashion",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Yohji%20Yamamoto%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Yohji_Yamamoto",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Yohji_Yamamoto%2C_New_York_Fashion_Week%2C_February_2010.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Yohji_Yamamoto"
+        }
+      },
+      {
+        "id": "tokyo-fashion-5",
+        "name": "Paul Stuart",
+        "cityId": "tokyo",
+        "categoryId": "fashion",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Paul%20Stuart%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Paul_Stuart",
+        "photo": null
+      },
+      {
+        "id": "tokyo-fashion-6",
+        "name": "Sharon Stouder",
+        "cityId": "tokyo",
+        "categoryId": "fashion",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Sharon%20Stouder%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Sharon_Stouder",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/17/Sharon_Stouder_1965.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Sharon_Stouder"
+        }
+      },
+      {
+        "id": "tokyo-fashion-7",
+        "name": "Beams",
+        "cityId": "tokyo",
+        "categoryId": "fashion",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Beams%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Beams_(brand)",
+        "photo": null
+      },
+      {
+        "id": "tokyo-fashion-8",
+        "name": "Takadanobaba Station",
+        "cityId": "tokyo",
+        "categoryId": "fashion",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Takadanobaba%20Station%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Takadanobaba_Station",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Takadanobaba_Station_Waseda_entrance_2026-07-20.jpg/960px-Takadanobaba_Station_Waseda_entrance_2026-07-20.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Takadanobaba_Station"
+        }
+      },
+      {
+        "id": "tokyo-fashion-9",
+        "name": "Noriko Hidaka",
+        "cityId": "tokyo",
+        "categoryId": "fashion",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Noriko%20Hidaka%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Noriko_Hidaka",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/36/%E6%97%A5%E3%81%AE%E3%82%8A%E5%AD%90.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Noriko_Hidaka"
+        }
+      },
+      {
+        "id": "tokyo-fashion-10",
+        "name": "Akinoumi Setsuo",
+        "cityId": "tokyo",
+        "categoryId": "fashion",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Akinoumi%20Setsuo%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Akinoumi_Setsuo",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Akinoumi.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Akinoumi_Setsuo"
+        }
+      },
+      {
+        "id": "tokyo-fashion-11",
+        "name": "Sogo",
+        "cityId": "tokyo",
+        "categoryId": "fashion",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Sogo%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Sogo",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/SOGO_Yokohama_001.JPG/960px-SOGO_Yokohama_001.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Sogo"
+        }
+      },
+      {
+        "id": "tokyo-fashion-12",
+        "name": "Okoge",
+        "cityId": "tokyo",
+        "categoryId": "fashion",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Okoge%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Okoge_(film)",
+        "photo": null
+      },
+      {
+        "id": "tokyo-fashion-13",
+        "name": "Lightning",
+        "cityId": "tokyo",
+        "categoryId": "fashion",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Lightning%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Lightning_(1952_film)",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/11/Inazuma_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Lightning_(1952_film)"
+        }
+      },
+      {
+        "id": "tokyo-fashion-14",
+        "name": "Hozunyam",
+        "cityId": "tokyo",
+        "categoryId": "fashion",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Hozunyam%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Hozunyam",
+        "photo": null
+      },
+      {
+        "id": "tokyo-fashion-15",
+        "name": "Nana",
+        "cityId": "tokyo",
+        "categoryId": "fashion",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Nana%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Nana_(manga)",
+        "photo": null
+      },
+      {
+        "id": "tokyo-fashion-16",
+        "name": "Nagaru Tanigawa",
+        "cityId": "tokyo",
+        "categoryId": "fashion",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Nagaru%20Tanigawa%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Nagaru_Tanigawa",
+        "photo": null
+      },
+      {
+        "id": "tokyo-fashion-17",
+        "name": "The 5.6.7.8's",
+        "cityId": "tokyo",
+        "categoryId": "fashion",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=The%205.6.7.8's%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/The_5.6.7.8's",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/The_5.6.7.8%27s_1994.jpg/960px-The_5.6.7.8%27s_1994.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/The_5.6.7.8's"
+        }
+      },
+      {
+        "id": "tokyo-fashion-18",
+        "name": "Sway",
+        "cityId": "tokyo",
+        "categoryId": "fashion",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Sway%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Sway_(Japanese_rapper)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Nogae_Shunhei_from_%22jam%22_at_Opening_Ceremony_of_the_Tokyo_International_Film_Festival_2018_%2831746963768%29.jpg/960px-Nogae_Shunhei_from_%22jam%22_at_Opening_Ceremony_of_the_Tokyo_International_Film_Festival_2018_%2831746963768%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Sway_(Japanese_rapper)"
+        }
+      }
+    ],
+    "shops": [
+      {
+        "id": "tokyo-shops-1",
+        "name": "Tokyo Disney Resort",
+        "cityId": "tokyo",
+        "categoryId": "shops",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Tokyo%20Disney%20Resort%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Tokyo_Disney_Resort",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Tokyo_Disneyland_%281-1_crop%29.jpg/960px-Tokyo_Disneyland_%281-1_crop%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Tokyo_Disney_Resort"
+        }
+      },
+      {
+        "id": "tokyo-shops-2",
+        "name": "American Hi-Fi",
+        "cityId": "tokyo",
+        "categoryId": "shops",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=American%20Hi-Fi%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/American_Hi-Fi",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/21/Arentzen.Johnson.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/American_Hi-Fi"
+        }
+      },
+      {
+        "id": "tokyo-shops-3",
+        "name": "Tomy",
+        "cityId": "tokyo",
+        "categoryId": "shops",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Tomy%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Tomy",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/TAKARA_TOMY_logo.svg/960px-TAKARA_TOMY_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Tomy"
+        }
+      },
+      {
+        "id": "tokyo-shops-4",
+        "name": "Ramen shop",
+        "cityId": "tokyo",
+        "categoryId": "shops",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Ramen%20shop%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Ramen_shop",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/%E6%9D%B1%E6%AD%A6%E3%82%89%E3%83%BC%E3%82%81%E3%82%9320240512-P1042538.jpg/960px-%E6%9D%B1%E6%AD%A6%E3%82%89%E3%83%BC%E3%82%81%E3%82%9320240512-P1042538.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Ramen_shop"
+        }
+      },
+      {
+        "id": "tokyo-shops-5",
+        "name": "Pet Shop of Horrors",
+        "cityId": "tokyo",
+        "categoryId": "shops",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Pet%20Shop%20of%20Horrors%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Pet_Shop_of_Horrors",
+        "photo": null
+      },
+      {
+        "id": "tokyo-shops-6",
+        "name": "Tokyo Philharmonic Orchestra",
+        "cityId": "tokyo",
+        "categoryId": "shops",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Tokyo%20Philharmonic%20Orchestra%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Tokyo_Philharmonic_Orchestra",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/%E6%9D%B1%E4%BA%AC%E3%83%95%E3%82%A3%E3%83%AB%E3%83%8F%E3%83%BC%E3%83%A2%E3%83%8B%E3%83%BC%E4%BA%A4%E9%9F%BF%E6%A5%BD%E5%9B%A3201001.jpg/960px-%E6%9D%B1%E4%BA%AC%E3%83%95%E3%82%A3%E3%83%AB%E3%83%8F%E3%83%BC%E3%83%A2%E3%83%8B%E3%83%BC%E4%BA%A4%E9%9F%BF%E6%A5%BD%E5%9B%A3201001.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Tokyo_Philharmonic_Orchestra"
+        }
+      },
+      {
+        "id": "tokyo-shops-7",
+        "name": "Animate",
+        "cityId": "tokyo",
+        "categoryId": "shops",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Animate%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Animate_(retailer)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Animate_head_office.jpg/960px-Animate_head_office.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Animate_(retailer)"
+        }
+      },
+      {
+        "id": "tokyo-shops-8",
+        "name": "Pinocchio's Daring Journey",
+        "cityId": "tokyo",
+        "categoryId": "shops",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Pinocchio's%20Daring%20Journey%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Pinocchio's_Daring_Journey",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/31/Pinocchio%27s_Daring_Journey.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Pinocchio's_Daring_Journey"
+        }
+      },
+      {
+        "id": "tokyo-shops-9",
+        "name": "ESP Guitars",
+        "cityId": "tokyo",
+        "categoryId": "shops",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=ESP%20Guitars%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/ESP_Guitars",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/ESP_Logo.svg/960px-ESP_Logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/ESP_Guitars"
+        }
+      },
+      {
+        "id": "tokyo-shops-10",
+        "name": "Doutor Coffee",
+        "cityId": "tokyo",
+        "categoryId": "shops",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Doutor%20Coffee%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Doutor_Coffee",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Doutor_Coffee_Shop_Kita-Shinsaibashi%2C_Osaka_in_201509.JPG/960px-Doutor_Coffee_Shop_Kita-Shinsaibashi%2C_Osaka_in_201509.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Doutor_Coffee"
+        }
+      },
+      {
+        "id": "tokyo-shops-11",
+        "name": "Mitsui",
+        "cityId": "tokyo",
+        "categoryId": "shops",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Mitsui%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Mitsui",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/MITSUI2.png/960px-MITSUI2.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Mitsui"
+        }
+      },
+      {
+        "id": "tokyo-shops-12",
+        "name": "Fujiya",
+        "cityId": "tokyo",
+        "categoryId": "shops",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Fujiya%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Fujiya",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Ginza_FUJIYA_2006.jpg/960px-Ginza_FUJIYA_2006.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Fujiya"
+        }
+      },
+      {
+        "id": "tokyo-shops-13",
+        "name": "Ramen Jiro",
+        "cityId": "tokyo",
+        "categoryId": "shops",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Ramen%20Jiro%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Ramen_Jiro",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/%E3%83%A9%E3%83%BC%E3%83%A1%E3%83%B3%E4%BA%8C%E9%83%8E_%E4%B8%89%E7%94%B0%E6%9C%AC%E5%BA%97_2015_%2824631072969%29.jpg/960px-%E3%83%A9%E3%83%BC%E3%83%A1%E3%83%B3%E4%BA%8C%E9%83%8E_%E4%B8%89%E7%94%B0%E6%9C%AC%E5%BA%97_2015_%2824631072969%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Ramen_Jiro"
+        }
+      },
+      {
+        "id": "tokyo-shops-14",
+        "name": "Yatai",
+        "cityId": "tokyo",
+        "categoryId": "shops",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Yatai%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Yatai_(food_cart)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Yomise%28Yatai%29.JPG/960px-Yomise%28Yatai%29.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Yatai_(food_cart)"
+        }
+      },
+      {
+        "id": "tokyo-shops-15",
+        "name": "Sanrio Puroland",
+        "cityId": "tokyo",
+        "categoryId": "shops",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Sanrio%20Puroland%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Sanrio_Puroland",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Sanriopuroland-outside-summer2007.jpg/960px-Sanriopuroland-outside-summer2007.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Sanrio_Puroland"
+        }
+      },
+      {
+        "id": "tokyo-shops-16",
+        "name": "Culture Convenience Club",
+        "cityId": "tokyo",
+        "categoryId": "shops",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Culture%20Convenience%20Club%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Culture_Convenience_Club",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/TSUTAYA_Ibaraki.JPG/960px-TSUTAYA_Ibaraki.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Culture_Convenience_Club"
+        }
+      },
+      {
+        "id": "tokyo-shops-17",
+        "name": ".tokyo",
+        "cityId": "tokyo",
+        "categoryId": "shops",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=.tokyo%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/.tokyo",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/.tokyo_TLD_logo.svg/960px-.tokyo_TLD_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/.tokyo"
+        }
+      },
+      {
+        "id": "tokyo-shops-18",
+        "name": "Legoland Japan Resort",
+        "cityId": "tokyo",
+        "categoryId": "shops",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Legoland%20Japan%20Resort%2C%20Tokyo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Legoland_Japan_Resort",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/LEGOLAND_JAPAN_Entrance%2C_Kinjofuto_Minato_Ward_Nagoya_2022.jpg/960px-LEGOLAND_JAPAN_Entrance%2C_Kinjofuto_Minato_Ward_Nagoya_2022.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Legoland_Japan_Resort"
+        }
+      }
+    ]
+  }
+}

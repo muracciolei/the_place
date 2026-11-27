@@ -1,0 +1,2433 @@
+{
+  "cityId": "mexico-city",
+  "generatedAt": "2026-11-27T08:28:15.171Z",
+  "source": "Wikipedia API + Maps URLs (sin scraping de Google)",
+  "incomplete": [],
+  "categories": {
+    "night_clubs": [
+      {
+        "id": "mexico-city-night_clubs-1",
+        "name": "Olga Breeskin",
+        "cityId": "mexico-city",
+        "categoryId": "night_clubs",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Olga%20Breeskin%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Olga_Breeskin",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/05/Olgabreeskin.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Olga_Breeskin"
+        }
+      },
+      {
+        "id": "mexico-city-night_clubs-2",
+        "name": "Colegio Guadalupe",
+        "cityId": "mexico-city",
+        "categoryId": "night_clubs",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Colegio%20Guadalupe%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Colegio_Guadalupe_(Mexico_City)",
+        "photo": null
+      },
+      {
+        "id": "mexico-city-night_clubs-3",
+        "name": "Museo del Estanquillo",
+        "cityId": "mexico-city",
+        "categoryId": "night_clubs",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Museo%20del%20Estanquillo%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Museo_del_Estanquillo",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Fachada_del_Museo_El_Estanquillo.JPG/960px-Fachada_del_Museo_El_Estanquillo.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Museo_del_Estanquillo"
+        }
+      },
+      {
+        "id": "mexico-city-night_clubs-4",
+        "name": "Elvira Ríos",
+        "cityId": "mexico-city",
+        "categoryId": "night_clubs",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Elvira%20R%C3%ADos%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Elvira_R%C3%ADos",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Photograph_of_Elvira_R%C3%ADos_as_Yakima.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Elvira_R%C3%ADos"
+        }
+      },
+      {
+        "id": "mexico-city-night_clubs-5",
+        "name": "Verónica Castro, Mexico City",
+        "cityId": "mexico-city",
+        "categoryId": "night_clubs",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Ver%C3%B3nica%20Castro%2C%20Mexico%20City%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Ver%C3%B3nica_Castro%2C_Mexico_City",
+        "photo": null
+      },
+      {
+        "id": "mexico-city-night_clubs-6",
+        "name": "Lindavista",
+        "cityId": "mexico-city",
+        "categoryId": "night_clubs",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Lindavista%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Lindavista",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Riobamba_y_Sierravista%2C_Lindavista%2C_Ciudad_de_M%C3%A9xico_2017.jpg/960px-Riobamba_y_Sierravista%2C_Lindavista%2C_Ciudad_de_M%C3%A9xico_2017.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Lindavista"
+        }
+      },
+      {
+        "id": "mexico-city-night_clubs-7",
+        "name": "New's Divine nightclub tragedy",
+        "cityId": "mexico-city",
+        "categoryId": "night_clubs",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=New's%20Divine%20nightclub%20tragedy%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/New's_Divine_nightclub_tragedy",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/20_de_junio_2008._Casi_3_a%C3%B1os_despu%C3%A9s.jpg/960px-20_de_junio_2008._Casi_3_a%C3%B1os_despu%C3%A9s.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/New's_Divine_nightclub_tragedy"
+        }
+      },
+      {
+        "id": "mexico-city-night_clubs-8",
+        "name": "Mystery in Mexico",
+        "cityId": "mexico-city",
+        "categoryId": "night_clubs",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Mystery%20in%20Mexico%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Mystery_in_Mexico",
+        "photo": null
+      },
+      {
+        "id": "mexico-city-night_clubs-9",
+        "name": "Sistema Educativo Justo Sierra",
+        "cityId": "mexico-city",
+        "categoryId": "night_clubs",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Sistema%20Educativo%20Justo%20Sierra%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Sistema_Educativo_Justo_Sierra",
+        "photo": null
+      },
+      {
+        "id": "mexico-city-night_clubs-10",
+        "name": "Lindavista metro station",
+        "cityId": "mexico-city",
+        "categoryId": "night_clubs",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Lindavista%20metro%20station%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Lindavista_metro_station",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/Metro_Lindavista_%282025%29_5.jpg/960px-Metro_Lindavista_%282025%29_5.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Lindavista_metro_station"
+        }
+      },
+      {
+        "id": "mexico-city-night_clubs-11",
+        "name": "Villa de Guadalupe, Mexico City",
+        "cityId": "mexico-city",
+        "categoryId": "night_clubs",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Villa%20de%20Guadalupe%2C%20Mexico%20City%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Villa_de_Guadalupe%2C_Mexico_City",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Panorama_de_la_Ville_de_Guadalupe%2C_Mexico._%2825171491216%29.jpg/960px-Panorama_de_la_Ville_de_Guadalupe%2C_Mexico._%2825171491216%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Villa_de_Guadalupe%2C_Mexico_City"
+        }
+      },
+      {
+        "id": "mexico-city-night_clubs-12",
+        "name": "Bondojito metro station",
+        "cityId": "mexico-city",
+        "categoryId": "night_clubs",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Bondojito%20metro%20station%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Bondojito_metro_station",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/Metro_Bondojito_04.jpg/960px-Metro_Bondojito_04.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Bondojito_metro_station"
+        }
+      },
+      {
+        "id": "mexico-city-night_clubs-13",
+        "name": "Talismán metro station",
+        "cityId": "mexico-city",
+        "categoryId": "night_clubs",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Talism%C3%A1n%20metro%20station%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Talism%C3%A1n_metro_station",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/Metro_Talisman_05.jpg/960px-Metro_Talisman_05.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Talism%C3%A1n_metro_station"
+        }
+      },
+      {
+        "id": "mexico-city-night_clubs-14",
+        "name": "Villa de Aragón metro station",
+        "cityId": "mexico-city",
+        "categoryId": "night_clubs",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Villa%20de%20Arag%C3%B3n%20metro%20station%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Villa_de_Arag%C3%B3n_metro_station",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/Metro_Villa_de_Arag%C3%B3n_02.jpg/960px-Metro_Villa_de_Arag%C3%B3n_02.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Villa_de_Arag%C3%B3n_metro_station"
+        }
+      },
+      {
+        "id": "mexico-city-night_clubs-15",
+        "name": "Bosque de Aragón metro station",
+        "cityId": "mexico-city",
+        "categoryId": "night_clubs",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Bosque%20de%20Arag%C3%B3n%20metro%20station%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Bosque_de_Arag%C3%B3n_metro_station",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Metro_Bosque_de_Aragon_06.jpg/960px-Metro_Bosque_de_Aragon_06.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Bosque_de_Arag%C3%B3n_metro_station"
+        }
+      },
+      {
+        "id": "mexico-city-night_clubs-16",
+        "name": "La Villa-Basílica metro station",
+        "cityId": "mexico-city",
+        "categoryId": "night_clubs",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=La%20Villa-Bas%C3%ADlica%20metro%20station%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/La_Villa-Bas%C3%ADlica_metro_station",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/La_Villa_Basilica_platforms_01.jpg/960px-La_Villa_Basilica_platforms_01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/La_Villa-Bas%C3%ADlica_metro_station"
+        }
+      },
+      {
+        "id": "mexico-city-night_clubs-17",
+        "name": "Malacates",
+        "cityId": "mexico-city",
+        "categoryId": "night_clubs",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Malacates%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Malacates",
+        "photo": null
+      },
+      {
+        "id": "mexico-city-night_clubs-18",
+        "name": "Gay bar",
+        "cityId": "mexico-city",
+        "categoryId": "night_clubs",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Gay%20bar%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Gay_bar",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/09/Comptons-Of-Soho.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Gay_bar"
+        }
+      }
+    ],
+    "restaurants": [
+      {
+        "id": "mexico-city-restaurants-1",
+        "name": "Benedetti's Pizza",
+        "cityId": "mexico-city",
+        "categoryId": "restaurants",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Benedetti's%20Pizza%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Benedetti's_Pizza",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/88/Benedetti%27s_Pizza_%28logo%29.webp?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Benedetti's_Pizza"
+        }
+      },
+      {
+        "id": "mexico-city-restaurants-2",
+        "name": "Alsea",
+        "cityId": "mexico-city",
+        "categoryId": "restaurants",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Alsea%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Alsea_(company)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Logo_de_Alsea.svg/960px-Logo_de_Alsea.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Alsea_(company)"
+        }
+      },
+      {
+        "id": "mexico-city-restaurants-3",
+        "name": "Biko",
+        "cityId": "mexico-city",
+        "categoryId": "restaurants",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Biko%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Biko_(restaurant)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/Inside_Biko_%2811397876993%29.jpg/960px-Inside_Biko_%2811397876993%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Biko_(restaurant)"
+        }
+      },
+      {
+        "id": "mexico-city-restaurants-4",
+        "name": "Barrio Chino",
+        "cityId": "mexico-city",
+        "categoryId": "restaurants",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Barrio%20Chino%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Barrio_Chino_(Mexico_City)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Vistas_del_Barrio_chino_de_la_Ciudad_de_M%C3%A9xico_04.jpg/960px-Vistas_del_Barrio_chino_de_la_Ciudad_de_M%C3%A9xico_04.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Barrio_Chino_(Mexico_City)"
+        }
+      },
+      {
+        "id": "mexico-city-restaurants-5",
+        "name": "Casa de los Azulejos",
+        "cityId": "mexico-city",
+        "categoryId": "restaurants",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Casa%20de%20los%20Azulejos%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Casa_de_los_Azulejos",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Casa_de_Azulejos_3.jpg/960px-Casa_de_Azulejos_3.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Casa_de_los_Azulejos"
+        }
+      },
+      {
+        "id": "mexico-city-restaurants-6",
+        "name": "O Ya",
+        "cityId": "mexico-city",
+        "categoryId": "restaurants",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=O%20Ya%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/O_Ya_(restaurant)",
+        "photo": null
+      },
+      {
+        "id": "mexico-city-restaurants-7",
+        "name": "Colonia Roma",
+        "cityId": "mexico-city",
+        "categoryId": "restaurants",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Colonia%20Roma%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Colonia_Roma",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/Plaza_R%C3%ADo_de_Janeiro_Colonia_Roma.JPG/960px-Plaza_R%C3%ADo_de_Janeiro_Colonia_Roma.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Colonia_Roma"
+        }
+      },
+      {
+        "id": "mexico-city-restaurants-8",
+        "name": "Pujol",
+        "cityId": "mexico-city",
+        "categoryId": "restaurants",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Pujol%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Pujol_(restaurant)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Pujol_Restaurant_%2840553682022%29.jpg/960px-Pujol_Restaurant_%2840553682022%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Pujol_(restaurant)"
+        }
+      },
+      {
+        "id": "mexico-city-restaurants-9",
+        "name": "Grupo Sanborns",
+        "cityId": "mexico-city",
+        "categoryId": "restaurants",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Grupo%20Sanborns%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Grupo_Sanborns",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/Logo_de_Grupo_Sanborns.svg/960px-Logo_de_Grupo_Sanborns.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Grupo_Sanborns"
+        }
+      },
+      {
+        "id": "mexico-city-restaurants-10",
+        "name": "Fountain of Neptune, Mexico City",
+        "cityId": "mexico-city",
+        "categoryId": "restaurants",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Fountain%20of%20Neptune%2C%20Mexico%20City%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Fountain_of_Neptune%2C_Mexico_City",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Mexico_City_%282018%29_-_108.jpg/960px-Mexico_City_%282018%29_-_108.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Fountain_of_Neptune%2C_Mexico_City"
+        }
+      },
+      {
+        "id": "mexico-city-restaurants-11",
+        "name": "Carne a la tampiqueña",
+        "cityId": "mexico-city",
+        "categoryId": "restaurants",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Carne%20a%20la%20tampique%C3%B1a%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Carne_a_la_tampique%C3%B1a",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Carne_a_la_tampique%C3%B1a.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Carne_a_la_tampique%C3%B1a"
+        }
+      },
+      {
+        "id": "mexico-city-restaurants-12",
+        "name": "Torre Bicentenario II",
+        "cityId": "mexico-city",
+        "categoryId": "restaurants",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Torre%20Bicentenario%20II%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Torre_Bicentenario_II",
+        "photo": null
+      },
+      {
+        "id": "mexico-city-restaurants-13",
+        "name": "Vips",
+        "cityId": "mexico-city",
+        "categoryId": "restaurants",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Vips%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Vips_(Mexican_restaurant)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/VIPS_Logo_Mexico_01.2024.svg/960px-VIPS_Logo_Mexico_01.2024.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Vips_(Mexican_restaurant)"
+        }
+      },
+      {
+        "id": "mexico-city-restaurants-14",
+        "name": "Miyana",
+        "cityId": "mexico-city",
+        "categoryId": "restaurants",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Miyana%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Miyana_(Mexico_City)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/Miyana_%282022%29_3.jpg/960px-Miyana_%282022%29_3.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Miyana_(Mexico_City)"
+        }
+      },
+      {
+        "id": "mexico-city-restaurants-15",
+        "name": "Plaza Uruguay",
+        "cityId": "mexico-city",
+        "categoryId": "restaurants",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Plaza%20Uruguay%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Plaza_Uruguay",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/Mexico_City_%282018%29_-_437.jpg/960px-Mexico_City_%282018%29_-_437.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Plaza_Uruguay"
+        }
+      },
+      {
+        "id": "mexico-city-restaurants-16",
+        "name": "Restaurante Arroyo",
+        "cityId": "mexico-city",
+        "categoryId": "restaurants",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Restaurante%20Arroyo%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Restaurante_Arroyo",
+        "photo": null
+      },
+      {
+        "id": "mexico-city-restaurants-17",
+        "name": "Avenida Álvaro Obregón",
+        "cityId": "mexico-city",
+        "categoryId": "restaurants",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Avenida%20%C3%81lvaro%20Obreg%C3%B3n%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Avenida_%C3%81lvaro_Obreg%C3%B3n",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/97/Coloniaroma8.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Avenida_%C3%81lvaro_Obreg%C3%B3n"
+        }
+      },
+      {
+        "id": "mexico-city-restaurants-18",
+        "name": "Mexico City",
+        "cityId": "mexico-city",
+        "categoryId": "restaurants",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Mexico%20City%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Mexico_City",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Sobrevuelos_CDMX_HJ2A4913_%2825514321687%29_%28cropped%29.jpg/960px-Sobrevuelos_CDMX_HJ2A4913_%2825514321687%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Mexico_City"
+        }
+      }
+    ],
+    "bars": [
+      {
+        "id": "mexico-city-bars-1",
+        "name": "Nicho Bears and Bar",
+        "cityId": "mexico-city",
+        "categoryId": "bars",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Nicho%20Bears%20and%20Bar%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Nicho_Bears_and_Bar",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Nicho%2C_CDMX.jpg/960px-Nicho%2C_CDMX.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Nicho_Bears_and_Bar"
+        }
+      },
+      {
+        "id": "mexico-city-bars-2",
+        "name": "Constituent Assembly of Mexico City",
+        "cityId": "mexico-city",
+        "categoryId": "bars",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Constituent%20Assembly%20of%20Mexico%20City%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Constituent_Assembly_of_Mexico_City",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Constituyente_cdmx_logo.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Constituent_Assembly_of_Mexico_City"
+        }
+      },
+      {
+        "id": "mexico-city-bars-3",
+        "name": "Akinori Nakayama",
+        "cityId": "mexico-city",
+        "categoryId": "bars",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Akinori%20Nakayama%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Akinori_Nakayama",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Akinori_Nakayama_1966d.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Akinori_Nakayama"
+        }
+      },
+      {
+        "id": "mexico-city-bars-4",
+        "name": ".bar",
+        "cityId": "mexico-city",
+        "categoryId": "bars",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=.bar%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/.bar",
+        "photo": null
+      },
+      {
+        "id": "mexico-city-bars-5",
+        "name": "Eizo Kenmotsu",
+        "cityId": "mexico-city",
+        "categoryId": "bars",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Eizo%20Kenmotsu%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Eizo_Kenmotsu",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/87/Eizo_Kenmotsu.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Eizo_Kenmotsu"
+        }
+      },
+      {
+        "id": "mexico-city-bars-6",
+        "name": "Artz Pedregal",
+        "cityId": "mexico-city",
+        "categoryId": "bars",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Artz%20Pedregal%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Artz_Pedregal",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/Artz_Pedegral5.jpg/960px-Artz_Pedegral5.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Artz_Pedregal"
+        }
+      },
+      {
+        "id": "mexico-city-bars-7",
+        "name": "Mikhail Voronin",
+        "cityId": "mexico-city",
+        "categoryId": "bars",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Mikhail%20Voronin%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Mikhail_Voronin",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Mikhail_Voronin_1966.jpg/960px-Mikhail_Voronin_1966.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Mikhail_Voronin"
+        }
+      },
+      {
+        "id": "mexico-city-bars-8",
+        "name": "Zona Rosa, Mexico City",
+        "cityId": "mexico-city",
+        "categoryId": "bars",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Zona%20Rosa%2C%20Mexico%20City%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Zona_Rosa%2C_Mexico_City",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Copenhague_Zona_Rosa_May2015.JPG/960px-Copenhague_Zona_Rosa_May2015.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Zona_Rosa%2C_Mexico_City"
+        }
+      },
+      {
+        "id": "mexico-city-bars-9",
+        "name": "Japan at the 1968 Summer Olympics",
+        "cityId": "mexico-city",
+        "categoryId": "bars",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Japan%20at%20the%201968%20Summer%20Olympics%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Japan_at_the_1968_Summer_Olympics",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_Japan_%281870%E2%80%931999%29.svg/960px-Flag_of_Japan_%281870%E2%80%931999%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Japan_at_the_1968_Summer_Olympics"
+        }
+      },
+      {
+        "id": "mexico-city-bars-10",
+        "name": "Joe Kotys",
+        "cityId": "mexico-city",
+        "categoryId": "bars",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Joe%20Kotys%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Joe_Kotys",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Joe_Kotys_1949.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Joe_Kotys"
+        }
+      },
+      {
+        "id": "mexico-city-bars-11",
+        "name": "Rubber-tyred metro",
+        "cityId": "mexico-city",
+        "categoryId": "bars",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Rubber-tyred%20metro%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Rubber-tyred_metro",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/ST_SN5000_20061102_001.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Rubber-tyred_metro"
+        }
+      },
+      {
+        "id": "mexico-city-bars-12",
+        "name": "Cantina",
+        "cityId": "mexico-city",
+        "categoryId": "bars",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Cantina%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Cantina",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Joaqu%C3%ADn_Agrasot_-_Mosqueteros_sentados_fuera_de_una_cantina.jpg/960px-Joaqu%C3%ADn_Agrasot_-_Mosqueteros_sentados_fuera_de_una_cantina.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Cantina"
+        }
+      },
+      {
+        "id": "mexico-city-bars-13",
+        "name": "Fosbury flop",
+        "cityId": "mexico-city",
+        "categoryId": "bars",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Fosbury%20flop%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Fosbury_flop",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/33/Fosbury_Flop_English.gif?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Fosbury_flop"
+        }
+      },
+      {
+        "id": "mexico-city-bars-14",
+        "name": "Mongolia at the 1968 Summer Olympics",
+        "cityId": "mexico-city",
+        "categoryId": "bars",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Mongolia%20at%20the%201968%20Summer%20Olympics%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Mongolia_at_the_1968_Summer_Olympics",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Flag_of_the_Mongolian_People%27s_Republic_%281945%E2%80%931992%29.svg/960px-Flag_of_the_Mongolian_People%27s_Republic_%281945%E2%80%931992%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Mongolia_at_the_1968_Summer_Olympics"
+        }
+      },
+      {
+        "id": "mexico-city-bars-15",
+        "name": "Gymnastics at the 1968 Summer Olympics",
+        "cityId": "mexico-city",
+        "categoryId": "bars",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Gymnastics%20at%20the%201968%20Summer%20Olympics%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Gymnastics_at_the_1968_Summer_Olympics",
+        "photo": null
+      },
+      {
+        "id": "mexico-city-bars-16",
+        "name": "Israel at the 1968 Summer Olympics",
+        "cityId": "mexico-city",
+        "categoryId": "bars",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Israel%20at%20the%201968%20Summer%20Olympics%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Israel_at_the_1968_Summer_Olympics",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_Israel.svg/960px-Flag_of_Israel.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Israel_at_the_1968_Summer_Olympics"
+        }
+      },
+      {
+        "id": "mexico-city-bars-17",
+        "name": "Mexico City",
+        "cityId": "mexico-city",
+        "categoryId": "bars",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Mexico%20City%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Mexico_City_(film)",
+        "photo": null
+      },
+      {
+        "id": "mexico-city-bars-18",
+        "name": "1968 Summer Olympics",
+        "cityId": "mexico-city",
+        "categoryId": "bars",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=1968%20Summer%20Olympics%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/1968_Summer_Olympics",
+        "photo": null
+      }
+    ],
+    "coffee_shops": [
+      {
+        "id": "mexico-city-coffee_shops-1",
+        "name": "'Round About Midnight at the Cafe Bohemia",
+        "cityId": "mexico-city",
+        "categoryId": "coffee_shops",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query='Round%20About%20Midnight%20at%20the%20Cafe%20Bohemia%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/'Round_About_Midnight_at_the_Cafe_Bohemia",
+        "photo": null
+      },
+      {
+        "id": "mexico-city-coffee_shops-2",
+        "name": "Tenoch Huerta",
+        "cityId": "mexico-city",
+        "categoryId": "coffee_shops",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Tenoch%20Huerta%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Tenoch_Huerta",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Tenoch_Huerta_2024.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Tenoch_Huerta"
+        }
+      },
+      {
+        "id": "mexico-city-coffee_shops-3",
+        "name": "Valle Gómez metro station",
+        "cityId": "mexico-city",
+        "categoryId": "coffee_shops",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Valle%20G%C3%B3mez%20metro%20station%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Valle_G%C3%B3mez_metro_station",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/Metro_Valle_Gomez_01.jpg/960px-Metro_Valle_Gomez_01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Valle_G%C3%B3mez_metro_station"
+        }
+      },
+      {
+        "id": "mexico-city-coffee_shops-4",
+        "name": "Zaragoza metro station",
+        "cityId": "mexico-city",
+        "categoryId": "coffee_shops",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Zaragoza%20metro%20station%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Zaragoza_metro_station_(Mexico_City)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Metro_Zaragoza_%282026%29_10.jpg/960px-Metro_Zaragoza_%282026%29_10.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Zaragoza_metro_station_(Mexico_City)"
+        }
+      },
+      {
+        "id": "mexico-city-coffee_shops-5",
+        "name": "Okupa Che",
+        "cityId": "mexico-city",
+        "categoryId": "coffee_shops",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Okupa%20Che%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Okupa_Che",
+        "photo": null
+      },
+      {
+        "id": "mexico-city-coffee_shops-6",
+        "name": "Café Tacuba",
+        "cityId": "mexico-city",
+        "categoryId": "coffee_shops",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Caf%C3%A9%20Tacuba%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Caf%C3%A9_Tacuba",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/Cafe_Tacuba_1.jpg/960px-Cafe_Tacuba_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Caf%C3%A9_Tacuba"
+        }
+      },
+      {
+        "id": "mexico-city-coffee_shops-7",
+        "name": "Café de olla",
+        "cityId": "mexico-city",
+        "categoryId": "coffee_shops",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Caf%C3%A9%20de%20olla%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Caf%C3%A9_de_olla",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Caf%C3%A9_de_olla.jpg/960px-Caf%C3%A9_de_olla.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Caf%C3%A9_de_olla"
+        }
+      },
+      {
+        "id": "mexico-city-coffee_shops-8",
+        "name": "Centro Cultural de España, Mexico City",
+        "cityId": "mexico-city",
+        "categoryId": "coffee_shops",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Centro%20Cultural%20de%20Espa%C3%B1a%2C%20Mexico%20City%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Centro_Cultural_de_Espa%C3%B1a%2C_Mexico_City",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Spanish_Cultural_Center%2C_Mexico_City%2C_Donceles_entrance.jpg/960px-Spanish_Cultural_Center%2C_Mexico_City%2C_Donceles_entrance.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Centro_Cultural_de_Espa%C3%B1a%2C_Mexico_City"
+        }
+      },
+      {
+        "id": "mexico-city-coffee_shops-9",
+        "name": "Tasqueña metro station",
+        "cityId": "mexico-city",
+        "categoryId": "coffee_shops",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Tasque%C3%B1a%20metro%20station%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Tasque%C3%B1a_metro_station",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/Metro_Tasquena_Platforms.jpg/960px-Metro_Tasquena_Platforms.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Tasque%C3%B1a_metro_station"
+        }
+      },
+      {
+        "id": "mexico-city-coffee_shops-10",
+        "name": "Tláhuac metro station",
+        "cityId": "mexico-city",
+        "categoryId": "coffee_shops",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Tl%C3%A1huac%20metro%20station%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Tl%C3%A1huac_metro_station",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Estaci%C3%B3n_del_STC_Metro.jpg/960px-Estaci%C3%B3n_del_STC_Metro.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Tl%C3%A1huac_metro_station"
+        }
+      },
+      {
+        "id": "mexico-city-coffee_shops-11",
+        "name": "Rubén Albarrán",
+        "cityId": "mexico-city",
+        "categoryId": "coffee_shops",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Rub%C3%A9n%20Albarr%C3%A1n%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Rub%C3%A9n_Albarr%C3%A1n",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Rub%C3%A9n_Albarr%C3%A1n.jpg/960px-Rub%C3%A9n_Albarr%C3%A1n.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Rub%C3%A9n_Albarr%C3%A1n"
+        }
+      },
+      {
+        "id": "mexico-city-coffee_shops-12",
+        "name": "Vive Latino",
+        "cityId": "mexico-city",
+        "categoryId": "coffee_shops",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Vive%20Latino%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Vive_Latino",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e5/VicenticoVL05.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Vive_Latino"
+        }
+      },
+      {
+        "id": "mexico-city-coffee_shops-13",
+        "name": "Como dice el dicho",
+        "cityId": "mexico-city",
+        "categoryId": "coffee_shops",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Como%20dice%20el%20dicho%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Como_dice_el_dicho",
+        "photo": null
+      },
+      {
+        "id": "mexico-city-coffee_shops-14",
+        "name": "Franz Mayer Museum",
+        "cityId": "mexico-city",
+        "categoryId": "coffee_shops",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Franz%20Mayer%20Museum%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Franz_Mayer_Museum",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/CourtyardFranzMayer.JPG/960px-CourtyardFranzMayer.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Franz_Mayer_Museum"
+        }
+      },
+      {
+        "id": "mexico-city-coffee_shops-15",
+        "name": "Zócalo/Tenochtitlan metro station",
+        "cityId": "mexico-city",
+        "categoryId": "coffee_shops",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Z%C3%B3calo%2FTenochtitlan%20metro%20station%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Z%C3%B3calo%2FTenochtitlan_metro_station",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/Metro_Z%C3%B3calo_Tenochtitlan_-_02_-_Torniquetes.jpg/960px-Metro_Z%C3%B3calo_Tenochtitlan_-_02_-_Torniquetes.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Z%C3%B3calo%2FTenochtitlan_metro_station"
+        }
+      },
+      {
+        "id": "mexico-city-coffee_shops-16",
+        "name": "Chabacano metro station",
+        "cityId": "mexico-city",
+        "categoryId": "coffee_shops",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Chabacano%20metro%20station%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Chabacano_metro_station",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Estaci%C3%B3n_Chabacano_L%C3%ADnea_2_02.jpg/960px-Estaci%C3%B3n_Chabacano_L%C3%ADnea_2_02.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Chabacano_metro_station"
+        }
+      },
+      {
+        "id": "mexico-city-coffee_shops-17",
+        "name": "Miss México Organization",
+        "cityId": "mexico-city",
+        "categoryId": "coffee_shops",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Miss%20M%C3%A9xico%20Organization%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Miss_M%C3%A9xico_Organization",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Miss_Mexico%2C_Vanessa_Ponce_in_2018.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Miss_M%C3%A9xico_Organization"
+        }
+      },
+      {
+        "id": "mexico-city-coffee_shops-18",
+        "name": "Cuatro Caminos metro station",
+        "cityId": "mexico-city",
+        "categoryId": "coffee_shops",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Cuatro%20Caminos%20metro%20station%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Cuatro_Caminos_metro_station_(Naucalpan)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/Andenes_de_la_estaci%C3%B3n_Cuatro_Caminos_del_Metro_de_la_Ciudad_de_M%C3%A9xico_-_panoramio.jpg/960px-Andenes_de_la_estaci%C3%B3n_Cuatro_Caminos_del_Metro_de_la_Ciudad_de_M%C3%A9xico_-_panoramio.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Cuatro_Caminos_metro_station_(Naucalpan)"
+        }
+      }
+    ],
+    "bookshops": [
+      {
+        "id": "mexico-city-bookshops-1",
+        "name": "Gandhi",
+        "cityId": "mexico-city",
+        "categoryId": "bookshops",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Gandhi%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Gandhi_(bookstore)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Wikimania_Mexico_City_20.07.2015_12-00-53.JPG/960px-Wikimania_Mexico_City_20.07.2015_12-00-53.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Gandhi_(bookstore)"
+        }
+      },
+      {
+        "id": "mexico-city-bookshops-2",
+        "name": "Librería Porrúa",
+        "cityId": "mexico-city",
+        "categoryId": "bookshops",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Librer%C3%ADa%20Porr%C3%BAa%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Librer%C3%ADa_Porr%C3%BAa",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/PorruaBookstoreRepArgJusSierra.JPG/960px-PorruaBookstoreRepArgJusSierra.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Librer%C3%ADa_Porr%C3%BAa"
+        }
+      },
+      {
+        "id": "mexico-city-bookshops-3",
+        "name": "Casa Lamm",
+        "cityId": "mexico-city",
+        "categoryId": "bookshops",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Casa%20Lamm%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Casa_Lamm",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/ArtGalleryRomaDF.JPG/960px-ArtGalleryRomaDF.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Casa_Lamm"
+        }
+      },
+      {
+        "id": "mexico-city-bookshops-4",
+        "name": "Fondo de Cultura Económica",
+        "cityId": "mexico-city",
+        "categoryId": "bookshops",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Fondo%20de%20Cultura%20Econ%C3%B3mica%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Fondo_de_Cultura_Econ%C3%B3mica",
+        "photo": null
+      },
+      {
+        "id": "mexico-city-bookshops-5",
+        "name": "Salvador Borrego",
+        "cityId": "mexico-city",
+        "categoryId": "bookshops",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Salvador%20Borrego%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Salvador_Borrego",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/81/Salvador_Borrego.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Salvador_Borrego"
+        }
+      },
+      {
+        "id": "mexico-city-bookshops-6",
+        "name": "House of the First Print Shop in the Americas",
+        "cityId": "mexico-city",
+        "categoryId": "bookshops",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=House%20of%20the%20First%20Print%20Shop%20in%20the%20Americas%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/House_of_the_First_Print_Shop_in_the_Americas",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/CasaImprentaDF.JPG/960px-CasaImprentaDF.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/House_of_the_First_Print_Shop_in_the_Americas"
+        }
+      },
+      {
+        "id": "mexico-city-bookshops-7",
+        "name": "Colonia Roma",
+        "cityId": "mexico-city",
+        "categoryId": "bookshops",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Colonia%20Roma%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Colonia_Roma",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/Plaza_R%C3%ADo_de_Janeiro_Colonia_Roma.JPG/960px-Plaza_R%C3%ADo_de_Janeiro_Colonia_Roma.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Colonia_Roma"
+        }
+      },
+      {
+        "id": "mexico-city-bookshops-8",
+        "name": "Víctor Celorio",
+        "cityId": "mexico-city",
+        "categoryId": "bookshops",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=V%C3%ADctor%20Celorio%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/V%C3%ADctor_Celorio",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Inventor_Victor_Celorio_in_Gainesville_2009.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/V%C3%ADctor_Celorio"
+        }
+      },
+      {
+        "id": "mexico-city-bookshops-9",
+        "name": "Universidad Iberoamericana",
+        "cityId": "mexico-city",
+        "categoryId": "bookshops",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Universidad%20Iberoamericana%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Universidad_Iberoamericana",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Logo_Universidad_Iberoamericana.svg/960px-Logo_Universidad_Iberoamericana.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Universidad_Iberoamericana"
+        }
+      },
+      {
+        "id": "mexico-city-bookshops-10",
+        "name": "Coyoacán",
+        "cityId": "mexico-city",
+        "categoryId": "bookshops",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Coyoac%C3%A1n%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Coyoac%C3%A1n",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Puerta_a_Coyoac%C3%A1n.JPG/960px-Puerta_a_Coyoac%C3%A1n.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Coyoac%C3%A1n"
+        }
+      },
+      {
+        "id": "mexico-city-bookshops-11",
+        "name": "Tecnológico de Monterrey, Campus Santa Fe",
+        "cityId": "mexico-city",
+        "categoryId": "bookshops",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Tecnol%C3%B3gico%20de%20Monterrey%2C%20Campus%20Santa%20Fe%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Tecnol%C3%B3gico_de_Monterrey%2C_Campus_Santa_Fe",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/CampusSantaFe021.JPG/960px-CampusSantaFe021.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Tecnol%C3%B3gico_de_Monterrey%2C_Campus_Santa_Fe"
+        }
+      },
+      {
+        "id": "mexico-city-bookshops-12",
+        "name": "Luis Abadiano",
+        "cityId": "mexico-city",
+        "categoryId": "bookshops",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Luis%20Abadiano%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Luis_Abadiano",
+        "photo": null
+      },
+      {
+        "id": "mexico-city-bookshops-13",
+        "name": "Zócalo/Tenochtitlan metro station",
+        "cityId": "mexico-city",
+        "categoryId": "bookshops",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Z%C3%B3calo%2FTenochtitlan%20metro%20station%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Z%C3%B3calo%2FTenochtitlan_metro_station",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/Metro_Z%C3%B3calo_Tenochtitlan_-_02_-_Torniquetes.jpg/960px-Metro_Z%C3%B3calo_Tenochtitlan_-_02_-_Torniquetes.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Z%C3%B3calo%2FTenochtitlan_metro_station"
+        }
+      },
+      {
+        "id": "mexico-city-bookshops-14",
+        "name": "Museum of Mexico City",
+        "cityId": "mexico-city",
+        "categoryId": "bookshops",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Museum%20of%20Mexico%20City%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Museum_of_Mexico_City",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/Museo_de_la_Ciudad_de_M%C3%A9xico._Fotograf%C3%ADa_Viviana_Mart%C3%ADnez_2017.jpg/960px-Museo_de_la_Ciudad_de_M%C3%A9xico._Fotograf%C3%ADa_Viviana_Mart%C3%ADnez_2017.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Museum_of_Mexico_City"
+        }
+      },
+      {
+        "id": "mexico-city-bookshops-15",
+        "name": "Pablo Helguera",
+        "cityId": "mexico-city",
+        "categoryId": "bookshops",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Pablo%20Helguera%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Pablo_Helguera",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Pablo_Helguera_Nuevo_Romancero_at_Kent_Fine_Art_March_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Pablo_Helguera"
+        }
+      },
+      {
+        "id": "mexico-city-bookshops-16",
+        "name": "Ciudad Nezahualcóyotl",
+        "cityId": "mexico-city",
+        "categoryId": "bookshops",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Ciudad%20Nezahualc%C3%B3yotl%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Ciudad_Nezahualc%C3%B3yotl",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/PalacioMunicipalCdNeza.JPG/960px-PalacioMunicipalCdNeza.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Ciudad_Nezahualc%C3%B3yotl"
+        }
+      },
+      {
+        "id": "mexico-city-bookshops-17",
+        "name": "Condesa",
+        "cityId": "mexico-city",
+        "categoryId": "bookshops",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Condesa%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Condesa",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/Fountain_at_Plaza_Popcat%C3%A9petl%2C_col._Hip%C3%B3dromo%2C_Condesa%2C_Mexico_City.JPG/960px-Fountain_at_Plaza_Popcat%C3%A9petl%2C_col._Hip%C3%B3dromo%2C_Condesa%2C_Mexico_City.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Condesa"
+        }
+      },
+      {
+        "id": "mexico-city-bookshops-18",
+        "name": "Josefina Zoraida Vázquez",
+        "cityId": "mexico-city",
+        "categoryId": "bookshops",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Josefina%20Zoraida%20V%C3%A1zquez%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Josefina_Zoraida_V%C3%A1zquez",
+        "photo": null
+      }
+    ],
+    "museums": [
+      {
+        "id": "mexico-city-museums-1",
+        "name": "Mexico City",
+        "cityId": "mexico-city",
+        "categoryId": "museums",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Mexico%20City%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Mexico_City",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Sobrevuelos_CDMX_HJ2A4913_%2825514321687%29_%28cropped%29.jpg/960px-Sobrevuelos_CDMX_HJ2A4913_%2825514321687%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Mexico_City"
+        }
+      },
+      {
+        "id": "mexico-city-museums-2",
+        "name": "Museo Nacional de Arte",
+        "cityId": "mexico-city",
+        "categoryId": "museums",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Museo%20Nacional%20de%20Arte%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Museo_Nacional_de_Arte",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/MUNAL.jpg/960px-MUNAL.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Museo_Nacional_de_Arte"
+        }
+      },
+      {
+        "id": "mexico-city-museums-3",
+        "name": "Museo de Arte Popular",
+        "cityId": "mexico-city",
+        "categoryId": "museums",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Museo%20de%20Arte%20Popular%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Museo_de_Arte_Popular",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/BuildingMAPDF02.jpg/960px-BuildingMAPDF02.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Museo_de_Arte_Popular"
+        }
+      },
+      {
+        "id": "mexico-city-museums-4",
+        "name": "Museo de Arte Moderno",
+        "cityId": "mexico-city",
+        "categoryId": "museums",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Museo%20de%20Arte%20Moderno%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Museo_de_Arte_Moderno",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Museo_de_Arte_Moderno_DSC0023_%2835557149325%29.jpg/960px-Museo_de_Arte_Moderno_DSC0023_%2835557149325%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Museo_de_Arte_Moderno"
+        }
+      },
+      {
+        "id": "mexico-city-museums-5",
+        "name": "Museum of Mexico City",
+        "cityId": "mexico-city",
+        "categoryId": "museums",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Museum%20of%20Mexico%20City%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Museum_of_Mexico_City",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/Museo_de_la_Ciudad_de_M%C3%A9xico._Fotograf%C3%ADa_Viviana_Mart%C3%ADnez_2017.jpg/960px-Museo_de_la_Ciudad_de_M%C3%A9xico._Fotograf%C3%ADa_Viviana_Mart%C3%ADnez_2017.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Museum_of_Mexico_City"
+        }
+      },
+      {
+        "id": "mexico-city-museums-6",
+        "name": "Diego Rivera",
+        "cityId": "mexico-city",
+        "categoryId": "museums",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Diego%20Rivera%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Diego_Rivera",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Diego_Rivera_-_Google_Art_Project_%28cropped%29.jpg/960px-Diego_Rivera_-_Google_Art_Project_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Diego_Rivera"
+        }
+      },
+      {
+        "id": "mexico-city-museums-7",
+        "name": "Chapultepec Castle",
+        "cityId": "mexico-city",
+        "categoryId": "museums",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Chapultepec%20Castle%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Chapultepec_Castle",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Chapultepec_Castle_Mexico_City.webp/960px-Chapultepec_Castle_Mexico_City.webp?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Chapultepec_Castle"
+        }
+      },
+      {
+        "id": "mexico-city-museums-8",
+        "name": "San Pedro y San Pablo College, Mexico City",
+        "cityId": "mexico-city",
+        "categoryId": "museums",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=San%20Pedro%20y%20San%20Pablo%20College%2C%20Mexico%20City%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/San_Pedro_y_San_Pablo_College%2C_Mexico_City",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/FacadeMuseoLuzDF.JPG/960px-FacadeMuseoLuzDF.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/San_Pedro_y_San_Pablo_College%2C_Mexico_City"
+        }
+      },
+      {
+        "id": "mexico-city-museums-9",
+        "name": "Museo Soumaya",
+        "cityId": "mexico-city",
+        "categoryId": "museums",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Museo%20Soumaya%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Museo_Soumaya",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Museo_Soumaya%2C_Ciudad_de_M%C3%A9xico%2C_M%C3%A9xico%2C_2015-07-18%2C_DD_12.JPG/960px-Museo_Soumaya%2C_Ciudad_de_M%C3%A9xico%2C_M%C3%A9xico%2C_2015-07-18%2C_DD_12.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Museo_Soumaya"
+        }
+      },
+      {
+        "id": "mexico-city-museums-10",
+        "name": "Historic center of Mexico City",
+        "cityId": "mexico-city",
+        "categoryId": "museums",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Historic%20center%20of%20Mexico%20City%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Historic_center_of_Mexico_City",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Z%C3%B3calo_cdmx.jpg/960px-Z%C3%B3calo_cdmx.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Historic_center_of_Mexico_City"
+        }
+      },
+      {
+        "id": "mexico-city-museums-11",
+        "name": "Museo Rufino Tamayo, Mexico City",
+        "cityId": "mexico-city",
+        "categoryId": "museums",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Museo%20Rufino%20Tamayo%2C%20Mexico%20City%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Museo_Rufino_Tamayo%2C_Mexico_City",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Museo_Rufino_Tamayo_-_Mexico_2024.jpg/960px-Museo_Rufino_Tamayo_-_Mexico_2024.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Museo_Rufino_Tamayo%2C_Mexico_City"
+        }
+      },
+      {
+        "id": "mexico-city-museums-12",
+        "name": "Caricature Museum, Mexico City",
+        "cityId": "mexico-city",
+        "categoryId": "museums",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Caricature%20Museum%2C%20Mexico%20City%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Caricature_Museum%2C_Mexico_City",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/Museo_de_la_Caricatura_-_Ex-Colegio_de_Cristo_-_Mexico_2024.jpg/960px-Museo_de_la_Caricatura_-_Ex-Colegio_de_Cristo_-_Mexico_2024.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Caricature_Museum%2C_Mexico_City"
+        }
+      },
+      {
+        "id": "mexico-city-museums-13",
+        "name": "Franz Mayer Museum",
+        "cityId": "mexico-city",
+        "categoryId": "museums",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Franz%20Mayer%20Museum%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Franz_Mayer_Museum",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/CourtyardFranzMayer.JPG/960px-CourtyardFranzMayer.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Franz_Mayer_Museum"
+        }
+      },
+      {
+        "id": "mexico-city-museums-14",
+        "name": "Museo Nacional de las Culturas",
+        "cityId": "mexico-city",
+        "categoryId": "museums",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Museo%20Nacional%20de%20las%20Culturas%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Museo_Nacional_de_las_Culturas",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Museo_Nacional_de_las_Culturas.JPG/960px-Museo_Nacional_de_las_Culturas.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Museo_Nacional_de_las_Culturas"
+        }
+      },
+      {
+        "id": "mexico-city-museums-15",
+        "name": "José Luis Cuevas Museum",
+        "cityId": "mexico-city",
+        "categoryId": "museums",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Jos%C3%A9%20Luis%20Cuevas%20Museum%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Jos%C3%A9_Luis_Cuevas_Museum",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/JLCMuseumDF.JPG/960px-JLCMuseumDF.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Jos%C3%A9_Luis_Cuevas_Museum"
+        }
+      },
+      {
+        "id": "mexico-city-museums-16",
+        "name": "National Museum of Anthropology",
+        "cityId": "mexico-city",
+        "categoryId": "museums",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=National%20Museum%20of%20Anthropology%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/National_Museum_of_Anthropology_(Mexico)",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/94/Musee_National_Anthropologie-Entree.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/National_Museum_of_Anthropology_(Mexico)"
+        }
+      },
+      {
+        "id": "mexico-city-museums-17",
+        "name": "Frida Kahlo Museum",
+        "cityId": "mexico-city",
+        "categoryId": "museums",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Frida%20Kahlo%20Museum%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Frida_Kahlo_Museum",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Museo_Frida_Kahlo.JPG/960px-Museo_Frida_Kahlo.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Frida_Kahlo_Museum"
+        }
+      },
+      {
+        "id": "mexico-city-museums-18",
+        "name": "Chapultepec",
+        "cityId": "mexico-city",
+        "categoryId": "museums",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Chapultepec%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Chapultepec",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/Puerta_de_los_leones_en_Chapultepec_2.jpg/960px-Puerta_de_los_leones_en_Chapultepec_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Chapultepec"
+        }
+      }
+    ],
+    "concerts": [
+      {
+        "id": "mexico-city-concerts-1",
+        "name": "Xoco",
+        "cityId": "mexico-city",
+        "categoryId": "concerts",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Xoco%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Xoco",
+        "photo": null
+      },
+      {
+        "id": "mexico-city-concerts-2",
+        "name": "Aarhus Pride",
+        "cityId": "mexico-city",
+        "categoryId": "concerts",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Aarhus%20Pride%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Aarhus_Pride",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Aarhus_Pride%2C_2012%2C_start_of_day.jpg/960px-Aarhus_Pride%2C_2012%2C_start_of_day.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Aarhus_Pride"
+        }
+      },
+      {
+        "id": "mexico-city-concerts-3",
+        "name": "Mexico City Philharmonic Orchestra",
+        "cityId": "mexico-city",
+        "categoryId": "concerts",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Mexico%20City%20Philharmonic%20Orchestra%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Mexico_City_Philharmonic_Orchestra",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/MX_AG_COLEGIO_NACIONAL_75_ANIV_%2828436706179%29.jpg/960px-MX_AG_COLEGIO_NACIONAL_75_ANIV_%2828436706179%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Mexico_City_Philharmonic_Orchestra"
+        }
+      },
+      {
+        "id": "mexico-city-concerts-4",
+        "name": "Michael Tsalka",
+        "cityId": "mexico-city",
+        "categoryId": "concerts",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Michael%20Tsalka%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Michael_Tsalka",
+        "photo": null
+      },
+      {
+        "id": "mexico-city-concerts-5",
+        "name": "Pokémon: Symphonic Evolutions",
+        "cityId": "mexico-city",
+        "categoryId": "concerts",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Pok%C3%A9mon%3A%20Symphonic%20Evolutions%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Pok%C3%A9mon%3A_Symphonic_Evolutions",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/de/Pokemon_Symphonic.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Pok%C3%A9mon%3A_Symphonic_Evolutions"
+        }
+      },
+      {
+        "id": "mexico-city-concerts-6",
+        "name": "Mexico City",
+        "cityId": "mexico-city",
+        "categoryId": "concerts",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Mexico%20City%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Mexico_City",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Sobrevuelos_CDMX_HJ2A4913_%2825514321687%29_%28cropped%29.jpg/960px-Sobrevuelos_CDMX_HJ2A4913_%2825514321687%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Mexico_City"
+        }
+      },
+      {
+        "id": "mexico-city-concerts-7",
+        "name": "Vineyard style",
+        "cityId": "mexico-city",
+        "categoryId": "concerts",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Vineyard%20style%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Vineyard_style",
+        "photo": null
+      },
+      {
+        "id": "mexico-city-concerts-8",
+        "name": "Eugenia León",
+        "cityId": "mexico-city",
+        "categoryId": "concerts",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Eugenia%20Le%C3%B3n%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Eugenia_Le%C3%B3n",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/EugeniaLeon.jpg/960px-EugeniaLeon.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Eugenia_Le%C3%B3n"
+        }
+      },
+      {
+        "id": "mexico-city-concerts-9",
+        "name": "Joseph Schwantner: New Morning for the World; Nicolas Flagello: The Passion of Martin Luther King",
+        "cityId": "mexico-city",
+        "categoryId": "concerts",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Joseph%20Schwantner%3A%20New%20Morning%20for%20the%20World%3B%20Nicolas%20Flagello%3A%20The%20Passion%20of%20Martin%20Luther%20King%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Joseph_Schwantner%3A_New_Morning_for_the_World%3B_Nicolas_Flagello%3A_The_Passion_of_Martin_Luther_King",
+        "photo": null
+      },
+      {
+        "id": "mexico-city-concerts-10",
+        "name": "Palacio de los Deportes",
+        "cityId": "mexico-city",
+        "categoryId": "concerts",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Palacio%20de%20los%20Deportes%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Palacio_de_los_Deportes",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Vista_a%C3%A9rea_del_Palacio_de_los_Deportes_06.jpg/960px-Vista_a%C3%A9rea_del_Palacio_de_los_Deportes_06.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Palacio_de_los_Deportes"
+        }
+      },
+      {
+        "id": "mexico-city-concerts-11",
+        "name": "Palacio de Bellas Artes",
+        "cityId": "mexico-city",
+        "categoryId": "concerts",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Palacio%20de%20Bellas%20Artes%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Palacio_de_Bellas_Artes",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Bellas_Artes_01.jpg/960px-Bellas_Artes_01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Palacio_de_Bellas_Artes"
+        }
+      },
+      {
+        "id": "mexico-city-concerts-12",
+        "name": "Gerardo Broissin",
+        "cityId": "mexico-city",
+        "categoryId": "concerts",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Gerardo%20Broissin%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Gerardo_Broissin",
+        "photo": null
+      },
+      {
+        "id": "mexico-city-concerts-13",
+        "name": "The Legend of Zelda: Symphony of the Goddesses",
+        "cityId": "mexico-city",
+        "categoryId": "concerts",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Legend%20of%20Zelda%3A%20Symphony%20of%20the%20Goddesses%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/The_Legend_of_Zelda%3A_Symphony_of_the_Goddesses",
+        "photo": null
+      },
+      {
+        "id": "mexico-city-concerts-14",
+        "name": "Roberto Molinelli",
+        "cityId": "mexico-city",
+        "categoryId": "concerts",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Roberto%20Molinelli%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Roberto_Molinelli",
+        "photo": null
+      },
+      {
+        "id": "mexico-city-concerts-15",
+        "name": "Björk Digital",
+        "cityId": "mexico-city",
+        "categoryId": "concerts",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Bj%C3%B6rk%20Digital%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Bj%C3%B6rk_Digital",
+        "photo": null
+      },
+      {
+        "id": "mexico-city-concerts-16",
+        "name": "La noche de los mayas",
+        "cityId": "mexico-city",
+        "categoryId": "concerts",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=La%20noche%20de%20los%20mayas%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/La_noche_de_los_mayas_(Revueltas)",
+        "photo": null
+      },
+      {
+        "id": "mexico-city-concerts-17",
+        "name": "Naucalpan",
+        "cityId": "mexico-city",
+        "categoryId": "concerts",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Naucalpan%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Naucalpan",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/Corona_%28126231953%29.jpeg/960px-Corona_%28126231953%29.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Naucalpan"
+        }
+      },
+      {
+        "id": "mexico-city-concerts-18",
+        "name": "Rosalinda",
+        "cityId": "mexico-city",
+        "categoryId": "concerts",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Rosalinda%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Rosalinda_(Mexican_TV_series)",
+        "photo": null
+      }
+    ],
+    "fashion": [
+      {
+        "id": "mexico-city-fashion-1",
+        "name": "El barchante Neguib",
+        "cityId": "mexico-city",
+        "categoryId": "fashion",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=El%20barchante%20Neguib%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/El_barchante_Neguib",
+        "photo": null
+      },
+      {
+        "id": "mexico-city-fashion-2",
+        "name": "Guillermo Prieto",
+        "cityId": "mexico-city",
+        "categoryId": "fashion",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Guillermo%20Prieto%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Guillermo_Prieto",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/70/Guillermo_Prieto.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Guillermo_Prieto"
+        }
+      },
+      {
+        "id": "mexico-city-fashion-3",
+        "name": "Casa de los Azulejos",
+        "cityId": "mexico-city",
+        "categoryId": "fashion",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Casa%20de%20los%20Azulejos%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Casa_de_los_Azulejos",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Casa_de_Azulejos_3.jpg/960px-Casa_de_Azulejos_3.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Casa_de_los_Azulejos"
+        }
+      },
+      {
+        "id": "mexico-city-fashion-4",
+        "name": "Fábricas Universales",
+        "cityId": "mexico-city",
+        "categoryId": "fashion",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=F%C3%A1bricas%20Universales%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/F%C3%A1bricas_Universales",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Fabricas_Universales_-_panoramio.jpg/960px-Fabricas_Universales_-_panoramio.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/F%C3%A1bricas_Universales"
+        }
+      },
+      {
+        "id": "mexico-city-fashion-5",
+        "name": "Josefina Vázquez Mota",
+        "cityId": "mexico-city",
+        "categoryId": "fashion",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Josefina%20V%C3%A1zquez%20Mota%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Josefina_V%C3%A1zquez_Mota",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Josefina_V%C3%A1zquez_Mota.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Josefina_V%C3%A1zquez_Mota"
+        }
+      },
+      {
+        "id": "mexico-city-fashion-6",
+        "name": "María Antonieta de las Nieves",
+        "cityId": "mexico-city",
+        "categoryId": "fashion",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Mar%C3%ADa%20Antonieta%20de%20las%20Nieves%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Mar%C3%ADa_Antonieta_de_las_Nieves",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/39/Mar%C3%ADaAntonietaDeLasNieves2024.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Mar%C3%ADa_Antonieta_de_las_Nieves"
+        }
+      },
+      {
+        "id": "mexico-city-fashion-7",
+        "name": "Suburbia",
+        "cityId": "mexico-city",
+        "categoryId": "fashion",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Suburbia%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Suburbia_(department_store)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/Suburbia%2C_Chetumal%2C_Q._Roo_-_panoramio.jpg/960px-Suburbia%2C_Chetumal%2C_Q._Roo_-_panoramio.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Suburbia_(department_store)"
+        }
+      },
+      {
+        "id": "mexico-city-fashion-8",
+        "name": "Laura Mantecón Arteaga",
+        "cityId": "mexico-city",
+        "categoryId": "fashion",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Laura%20Mantec%C3%B3n%20Arteaga%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Laura_Mantec%C3%B3n_Arteaga",
+        "photo": null
+      },
+      {
+        "id": "mexico-city-fashion-9",
+        "name": "El Palacio de Hierro",
+        "cityId": "mexico-city",
+        "categoryId": "fashion",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=El%20Palacio%20de%20Hierro%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/El_Palacio_de_Hierro",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Palacio_de_Hierro_Centro.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/El_Palacio_de_Hierro"
+        }
+      },
+      {
+        "id": "mexico-city-fashion-10",
+        "name": "RBD",
+        "cityId": "mexico-city",
+        "categoryId": "fashion",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=RBD%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/RBD",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Soy_Rebelde_Tour_-_Rio_de_Janeiro_-_Nov_10%2C_2023_-_53332493867.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/RBD"
+        }
+      },
+      {
+        "id": "mexico-city-fashion-11",
+        "name": "Pepe Soho",
+        "cityId": "mexico-city",
+        "categoryId": "fashion",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Pepe%20Soho%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Pepe_Soho",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Pepe_Soho_at_work.png/960px-Pepe_Soho_at_work.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Pepe_Soho"
+        }
+      },
+      {
+        "id": "mexico-city-fashion-12",
+        "name": "Leon Major",
+        "cityId": "mexico-city",
+        "categoryId": "fashion",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Leon%20Major%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Leon_Major",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/af/Leon_Major_CTM_Interview_2013.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Leon_Major"
+        }
+      },
+      {
+        "id": "mexico-city-fashion-13",
+        "name": "Barcelonnette department stores of Mexico",
+        "cityId": "mexico-city",
+        "categoryId": "fashion",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Barcelonnette%20department%20stores%20of%20Mexico%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Barcelonnette_department_stores_of_Mexico",
+        "photo": null
+      },
+      {
+        "id": "mexico-city-fashion-14",
+        "name": "Interpol",
+        "cityId": "mexico-city",
+        "categoryId": "fashion",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Interpol%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Interpol_(band)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/MX_TV_INTERPOL_CDMX_%2830164465558%29.jpg/960px-MX_TV_INTERPOL_CDMX_%2830164465558%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Interpol_(band)"
+        }
+      },
+      {
+        "id": "mexico-city-fashion-15",
+        "name": "La Ciudad de Londres",
+        "cityId": "mexico-city",
+        "categoryId": "fashion",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=La%20Ciudad%20de%20Londres%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/La_Ciudad_de_Londres",
+        "photo": null
+      },
+      {
+        "id": "mexico-city-fashion-16",
+        "name": "Eric N. Mack",
+        "cityId": "mexico-city",
+        "categoryId": "fashion",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Eric%20N.%20Mack%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Eric_N._Mack",
+        "photo": null
+      },
+      {
+        "id": "mexico-city-fashion-17",
+        "name": "Claudia Mijangos",
+        "cityId": "mexico-city",
+        "categoryId": "fashion",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Claudia%20Mijangos%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Claudia_Mijangos",
+        "photo": null
+      },
+      {
+        "id": "mexico-city-fashion-18",
+        "name": "Katherine Kitt",
+        "cityId": "mexico-city",
+        "categoryId": "fashion",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Katherine%20Kitt%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Katherine_Kitt",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Portrait_of_Katherine_Kitt.tif/lossy-page1-960px-Portrait_of_Katherine_Kitt.tif.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Katherine_Kitt"
+        }
+      }
+    ],
+    "shops": [
+      {
+        "id": "mexico-city-shops-1",
+        "name": "House of the First Print Shop in the Americas",
+        "cityId": "mexico-city",
+        "categoryId": "shops",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=House%20of%20the%20First%20Print%20Shop%20in%20the%20Americas%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/House_of_the_First_Print_Shop_in_the_Americas",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/CasaImprentaDF.JPG/960px-CasaImprentaDF.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/House_of_the_First_Print_Shop_in_the_Americas"
+        }
+      },
+      {
+        "id": "mexico-city-shops-2",
+        "name": "Museo del Estanquillo",
+        "cityId": "mexico-city",
+        "categoryId": "shops",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Museo%20del%20Estanquillo%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Museo_del_Estanquillo",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Fachada_del_Museo_El_Estanquillo.JPG/960px-Fachada_del_Museo_El_Estanquillo.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Museo_del_Estanquillo"
+        }
+      },
+      {
+        "id": "mexico-city-shops-3",
+        "name": "Como dice el dicho",
+        "cityId": "mexico-city",
+        "categoryId": "shops",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Como%20dice%20el%20dicho%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Como_dice_el_dicho",
+        "photo": null
+      },
+      {
+        "id": "mexico-city-shops-4",
+        "name": "Centro Cultural de España, Mexico City",
+        "cityId": "mexico-city",
+        "categoryId": "shops",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Centro%20Cultural%20de%20Espa%C3%B1a%2C%20Mexico%20City%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Centro_Cultural_de_Espa%C3%B1a%2C_Mexico_City",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Spanish_Cultural_Center%2C_Mexico_City%2C_Donceles_entrance.jpg/960px-Spanish_Cultural_Center%2C_Mexico_City%2C_Donceles_entrance.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Centro_Cultural_de_Espa%C3%B1a%2C_Mexico_City"
+        }
+      },
+      {
+        "id": "mexico-city-shops-5",
+        "name": "Churrería El Moro",
+        "cityId": "mexico-city",
+        "categoryId": "shops",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Churrer%C3%ADa%20El%20Moro%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Churrer%C3%ADa_El_Moro",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/Churrer%C3%ADa_El_Moro_entrance%2C_Centro%2C_Eje_Central%2C_December_2025.jpg/960px-Churrer%C3%ADa_El_Moro_entrance%2C_Centro%2C_Eje_Central%2C_December_2025.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Churrer%C3%ADa_El_Moro"
+        }
+      },
+      {
+        "id": "mexico-city-shops-6",
+        "name": "2021 NACAM Formula 4 Championship",
+        "cityId": "mexico-city",
+        "categoryId": "shops",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=2021%20NACAM%20Formula%204%20Championship%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/2021_NACAM_Formula_4_Championship",
+        "photo": null
+      },
+      {
+        "id": "mexico-city-shops-7",
+        "name": "H-E-B",
+        "cityId": "mexico-city",
+        "categoryId": "shops",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=H-E-B%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/H-E-B",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/HEBHQSanAntonio.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/H-E-B"
+        }
+      },
+      {
+        "id": "mexico-city-shops-8",
+        "name": "Mexico City",
+        "cityId": "mexico-city",
+        "categoryId": "shops",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Mexico%20City%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Mexico_City",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Sobrevuelos_CDMX_HJ2A4913_%2825514321687%29_%28cropped%29.jpg/960px-Sobrevuelos_CDMX_HJ2A4913_%2825514321687%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Mexico_City"
+        }
+      },
+      {
+        "id": "mexico-city-shops-9",
+        "name": "Historic center of Mexico City",
+        "cityId": "mexico-city",
+        "categoryId": "shops",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Historic%20center%20of%20Mexico%20City%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Historic_center_of_Mexico_City",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Z%C3%B3calo_cdmx.jpg/960px-Z%C3%B3calo_cdmx.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Historic_center_of_Mexico_City"
+        }
+      },
+      {
+        "id": "mexico-city-shops-10",
+        "name": "Cuauhtémoc, Mexico City",
+        "cityId": "mexico-city",
+        "categoryId": "shops",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Cuauht%C3%A9moc%2C%20Mexico%20City%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Cuauht%C3%A9moc%2C_Mexico_City",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Sobrevuelos_CDMX_HJ2A3600_%2839489715275%29.jpg/960px-Sobrevuelos_CDMX_HJ2A3600_%2839489715275%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Cuauht%C3%A9moc%2C_Mexico_City"
+        }
+      },
+      {
+        "id": "mexico-city-shops-11",
+        "name": "Santa Teresa la Antigua",
+        "cityId": "mexico-city",
+        "categoryId": "shops",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Santa%20Teresa%20la%20Antigua%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Santa_Teresa_la_Antigua",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/ExTeresaArteActualDF.JPG/960px-ExTeresaArteActualDF.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Santa_Teresa_la_Antigua"
+        }
+      },
+      {
+        "id": "mexico-city-shops-12",
+        "name": "Cantina",
+        "cityId": "mexico-city",
+        "categoryId": "shops",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Cantina%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Cantina",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Joaqu%C3%ADn_Agrasot_-_Mosqueteros_sentados_fuera_de_una_cantina.jpg/960px-Joaqu%C3%ADn_Agrasot_-_Mosqueteros_sentados_fuera_de_una_cantina.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Cantina"
+        }
+      },
+      {
+        "id": "mexico-city-shops-13",
+        "name": "Statue of Pope John Paul II",
+        "cityId": "mexico-city",
+        "categoryId": "shops",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Statue%20of%20Pope%20John%20Paul%20II%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Statue_of_Pope_John_Paul_II_(Mexico_City_Metropolitan_Cathedral)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/JPIIGuadalupeDF.JPG/960px-JPIIGuadalupeDF.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Statue_of_Pope_John_Paul_II_(Mexico_City_Metropolitan_Cathedral)"
+        }
+      },
+      {
+        "id": "mexico-city-shops-14",
+        "name": ".bar",
+        "cityId": "mexico-city",
+        "categoryId": "shops",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=.bar%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/.bar",
+        "photo": null
+      },
+      {
+        "id": "mexico-city-shops-15",
+        "name": "How Doth the Little Crocodile",
+        "cityId": "mexico-city",
+        "categoryId": "shops",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=How%20Doth%20the%20Little%20Crocodile%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/How_Doth_the_Little_Crocodile_(Carrington)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/Cocodrilo_LeonoraCarrington.jpg/960px-Cocodrilo_LeonoraCarrington.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/How_Doth_the_Little_Crocodile_(Carrington)"
+        }
+      },
+      {
+        "id": "mexico-city-shops-16",
+        "name": "Vips",
+        "cityId": "mexico-city",
+        "categoryId": "shops",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Vips%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Vips_(Mexican_restaurant)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/VIPS_Logo_Mexico_01.2024.svg/960px-VIPS_Logo_Mexico_01.2024.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Vips_(Mexican_restaurant)"
+        }
+      },
+      {
+        "id": "mexico-city-shops-17",
+        "name": "Centro Cultural Bella Época",
+        "cityId": "mexico-city",
+        "categoryId": "shops",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Centro%20Cultural%20Bella%20%C3%89poca%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Centro_Cultural_Bella_%C3%89poca",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Centro_Cultural_Bella_%C3%89poca.jpg/960px-Centro_Cultural_Bella_%C3%89poca.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Centro_Cultural_Bella_%C3%89poca"
+        }
+      },
+      {
+        "id": "mexico-city-shops-18",
+        "name": "Museo de Arte Popular",
+        "cityId": "mexico-city",
+        "categoryId": "shops",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Museo%20de%20Arte%20Popular%2C%20Mexico%20City",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Museo_de_Arte_Popular",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/BuildingMAPDF02.jpg/960px-BuildingMAPDF02.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Museo_de_Arte_Popular"
+        }
+      }
+    ]
+  }
+}
