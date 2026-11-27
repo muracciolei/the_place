@@ -30,6 +30,7 @@ code { font-family: ui-monospace, Menlo, monospace; font-size: .85em; word-break
 .page__head { margin-bottom: 16px; }
 .section { margin-top: 28px; }
 .section__head { display: flex; align-items: baseline; justify-content: space-between; gap: 12px; }
+.home-page .section { margin-top: 4px; }
 .muted { color: var(--muted); font-size: .88rem; }
 .eyebrow { text-transform: uppercase; letter-spacing: .14em; font-size: .7rem; font-weight: 700; color: var(--mint); }
 .lead { color: var(--muted); font-size: 1rem; }
