@@ -48,7 +48,10 @@ function normalize(text) {
 
 async function enrichPlace(place, city) {
   const result = await nominatim(place.name, city)
-  if (!result) return false
+  if (!result) {
+    place.osmChecked = true
+    return false
+  }
   const tags = result.extratags || {}
   const address = result.address || {}
   const candidate = result.name || address[result.type] || ''
@@ -58,13 +61,17 @@ async function enrichPlace(place, city) {
   const email = tags.email || tags['contact:email'] || null
   const website = tags.website || tags['contact:website'] || null
   const hours = tags.opening_hours || null
-  if (!similar && !phone && !email && !website && !hours) return false
+  if (!similar && !phone && !email && !website && !hours) {
+    place.osmChecked = true
+    return false
+  }
 
   const street = [address.house_number, address.road].filter(Boolean).join(' ')
   const osmAddress = street
     ? `${street}, ${[address.suburb, address.city || address.town || address.village, address.postcode, address.country].filter(Boolean).join(', ')}`
     : null
 
+  place.osmChecked = true
   place.osm = {
     phone, email, website, hours,
     address: osmAddress || null,
@@ -79,7 +86,12 @@ async function enrichPlace(place, city) {
 }
 
 const files = (await readdir(DIR)).filter((file) => file.endsWith('.json')).sort()
-const selected = process.env.CITY_ID ? files.filter((file) => file === `${process.env.CITY_ID}.json`) : files
+const DONE = (process.env.DONE_CITIES || '').split(',').filter(Boolean)
+const selected = process.env.CITY_ID
+  ? files.filter((file) => file === `${process.env.CITY_ID}.json`)
+  : DONE.length
+    ? files.filter((file) => DONE.includes(file.replace('.json', '')))
+    : files
 let total = 0
 let enriched = 0
 
@@ -88,16 +100,30 @@ for (const file of selected) {
   const data = JSON.parse(await readFile(filePath, 'utf8'))
   const city = cityById.get(data.cityId)
   const places = Object.values(data.categories || {}).flat()
-  let cityEnriched = 0
-  const testLimit = Number(process.env.LIMIT || 0)
-  const targets = testLimit ? places.slice(0, testLimit) : places
-  for (const place of targets) {
-    if (await enrichPlace(place, city)) cityEnriched += 1
-    await delay(1100)
+  const doneCities = new Set((process.env.DONE_CITIES || '').split(',').filter(Boolean))
+  if (doneCities.has(data.cityId)) {
+    for (const place of places) place.osmChecked = true
+    await writeFile(filePath, JSON.stringify(data, null, 2), 'utf8')
+    console.log(`${data.cityId}: ya procesada, marcada para omitir`)
+  } else {
+    let cityEnriched = 0
+    const testLimit = Number(process.env.LIMIT || 0)
+    const targets = testLimit ? places.slice(0, testLimit) : places
+    let skipped = 0
+    for (const place of targets) {
+      // Reanudación: si ya se intentó, no se repite (los sin datos son misses reales).
+      if ((place.osmChecked || place.osm) && !process.env.FORCE) {
+        skipped += 1
+        continue
+      }
+      if (await enrichPlace(place, city)) cityEnriched += 1
+      await delay(1100)
+    }
+    if (skipped) console.log(`  (${skipped} ya procesados, omitidos)`)
+    await writeFile(filePath, JSON.stringify(data, null, 2), 'utf8')
+    total += places.length
+    enriched += cityEnriched
+    console.log(`${data.cityId}: ${cityEnriched}/${targets.length} con datos OSM`)
   }
-  await writeFile(filePath, JSON.stringify(data, null, 2), 'utf8')
-  total += places.length
-  enriched += cityEnriched
-  console.log(`${data.cityId}: ${cityEnriched}/${targets.length} con datos OSM`)
 }
 console.log(`Fin: ${enriched}/${total} lugares enriquecidos`)

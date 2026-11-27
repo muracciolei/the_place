@@ -117,8 +117,6 @@ export default function PlacePage() {
         </button>
       </header>
 
-      {!place.fromGoogle && <p className="notice notice--demo">{t('place.localNote')}</p>}
-
       <section className="detail-section">
         <h2>{t('place.allPhotos')}</h2>
         <PhotoGallery photos={photos} />
