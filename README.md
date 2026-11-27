@@ -23,7 +23,7 @@ Sin clave la aplicación entra en **modo demo**: usa datos de ejemplo creados a 
    - **Restricción de API**: solo *Places API (New)*.
    - **Cuota diaria** baja y alertas de facturación.
 4. Pon la clave en `.env.local` como `VITE_GOOGLE_MAPS_API_KEY=...` para desarrollo local.
-5. Para producción, añade el secreto `VITE_GOOGLE_MAPS_API_KEY` en *Settings → Secrets and variables → Actions* del repositorio. **Nunca la commitees.**
+5. Para producción, publica con `VITE_GOOGLE_MAPS_API_KEY=tu_clave npm run deploy`. La clave queda compilada en los assets de `gh-pages`, **nunca en el código fuente de `main`**. Si usas un ordenador compartido, pasa la clave por variable de entorno y no la escribas en archivos versionados.
 
 La clave es visible en el navegador: es inevitable en un frontend estático. Las restricciones anteriores son la protección real.
 
@@ -34,7 +34,15 @@ npm run build     # genera dist/ con base /the_place/
 npm run preview
 ```
 
-El workflow [`.github/workflows/deploy.yml`](.github/workflows/deploy.yml) compila y publica en GitHub Pages en cada push a `main`. Hay que activar *Settings → Pages → Source: GitHub Actions*. `public/404.html` y `public/.nojekyll` se copian al build: el primero restauran las rutas de React Router; el segundo evita que Jekyll ignore archivos.
+El sitio está publicado en **https://muracciolei.github.io/the_place/** desde la rama `gh-pages` (GitHub Pages la activó automáticamente al crearla). Para actualizar la versión publicada:
+
+```bash
+npm run deploy          # compila y hace push de dist/ a gh-pages
+```
+
+Puedes pasar otra URL de remote si tu HTTPS no tiene credenciales: `npm run deploy -- git@github.com:muracciolei/the_place.git`.
+
+`public/404.html` y `public/.nojekyll` se copian al build: el primero restaura las rutas de React Router cuando GitHub Pages sirve una ruta desconocida; el segundo evita que Jekyll ignore archivos. Si más adelante quieres publicar con GitHub Actions en vez de la rama, activa *Settings → Pages → Source: GitHub Actions* y reañade un workflow con `actions/upload-pages-artifact` + `actions/deploy-pages`; hasta entonces no hay workflow para evitar checks fallidos.
 
 ## Estructura
 

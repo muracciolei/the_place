@@ -20,7 +20,7 @@ Navegador (React 18 + React Router)
  ├── localStorage                  → solo place IDs + preferencias
  └── Enlaces a redes sociales      → búsquedas legales, sin APIs ni scraping
 
-GitHub Pages  ←  GitHub Actions (npm ci && npm run build, inyecta VITE_GOOGLE_MAPS_API_KEY)
+GitHub Pages  ←  rama gh-pages (`npm run deploy` compila con VITE_GOOGLE_MAPS_API_KEY local y publica dist/)
 ```
 
 No hay Firebase, Supabase, servidor Node, funciones serverless ni base de datos. No se han añadido dependencias innecesarias: React, React DOM, React Router y Vite.
@@ -53,7 +53,7 @@ No hay Firebase, Supabase, servidor Node, funciones serverless ni base de datos.
 - Cada foto enlaza a `photos.googleMapsUri`, nombra al autor (`authorAttributions`) y ofrece `flagContentUri` para reportarla.
 - No se usan datos de Places sobre un mapa de otro proveedor: este proyecto **no renderiza mapas**, solo enlaces a Google Maps.
 - Términos de uso y privacidad públicos (`/terms`, `/privacy`) con referencia explícita a los términos de Google Maps Platform.
-- Sin secretos en el repositorio: la clave se inyecta desde un secret de GitHub Actions. En un frontend es pública por definición; se protege con restricción de **sitios web** (`https://muracciolei.github.io/the_place/*`), restricción de **API** (solo Places API (New)), cuota diaria baja y alertas de facturación.
+- Sin secretos en el repositorio: la clave se inyecta en tiempo de build con `VITE_GOOGLE_MAPS_API_KEY=... npm run deploy` desde el entorno local del dueño del repo. En un frontend es pública por definición; se protege con restricción de **sitios web** (`https://muracciolei.github.io/the_place/*`), restricción de **API** (solo Places API (New)), cuota diaria baja y alertas de facturación.
 
 ### Almacenamiento
 
@@ -96,7 +96,7 @@ Coste orientativo (verificar en la web oficial): Google factura Places por SKU s
 | `src/hooks/*` | Resultados con cancelación, favoritos, preferencias, debounce |
 | `src/components/*` | Header, modos, filtros, tarjetas, atribución, estados |
 | `src/pages/*` | Inicio, explorador, ficha, favoritos, legales y 404 |
-| `.github/workflows/deploy.yml`, `public/404.html`, `vite.config.js` | GitHub Pages |
+| `scripts/deploy.sh`, `public/404.html`, `public/.nojekyll`, `vite.config.js` | Publicación en la rama `gh-pages` de GitHub Pages |
 
 ## 6. Qué funciona y qué no sin backend
 
@@ -114,4 +114,4 @@ Coste orientativo (verificar en la web oficial): Google factura Places por SKU s
 
 ## 8. Verificación
 
-`npm install && npm run build` → `dist/` con `index.html`, `404.html`, `.nojekyll` y assets con la base `/the_place/`. Rutas comprobadas: `/`, `/explore?mode=local|country|world`, `/place/:id`, `/favorites`, `/about`, `/terms`, `/privacy` y 404.
+`npm install && npm run build` → `dist/` con `index.html`, `404.html`, `.nojekyll` y assets con la base `/the_place/`. `npm run deploy` publica ese `dist/` en `gh-pages`. Sitio verificado en `https://muracciolei.github.io/the_place/` (HTTP 200 en índice y assets). Rutas comprobadas por render SSR: `/`, `/explore?mode=local|country|world`, `/place/:id`, `/favorites`, `/about`, `/terms`, `/privacy` y 404. Las rutas profundas en GitHub Pages las atiende `404.html`, que restaura la URL original en el navegador.
