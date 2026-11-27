@@ -86,6 +86,8 @@ code { font-family: ui-monospace, Menlo, monospace; font-size: .85em; word-break
 .vcard__action { position: absolute; top: 9px; right: 9px; }
 .vcard__fav { display: inline-flex; align-items: center; justify-content: center; width: 36px; height: 36px; border-radius: 50%; background: rgba(4,8,11,.55); color: #fff; font-size: 1.3rem; cursor: pointer; }
 .vcard__fav.is-favorite { color: #ff6b81; }
+.vcard__star { display: inline-flex; align-items: center; justify-content: center; width: 36px; height: 36px; border-radius: 50%; background: rgba(4,8,11,.45); color: rgba(255,255,255,.45); font-size: 1.4rem; line-height: 1; cursor: pointer; }
+.vcard__star.is-starred { color: #ffffff; }
 .image-credit { font-size: .55rem; color: #c3d1d6; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
 .image-credit a { color: inherit; }
 
