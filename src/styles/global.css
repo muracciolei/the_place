@@ -110,6 +110,12 @@ code { font-family: ui-monospace, Menlo, monospace; font-size: .85em; word-break
 
 /* Buscador y modos */
 .search-input { width: 100%; min-height: 46px; border-radius: 10px; border: 1px solid var(--line); background: var(--surface); color: var(--text); padding: .7rem .9rem; font: inherit; }
+.search-bar { display: flex; align-items: center; gap: 6px; width: 100%; background: var(--surface); border: 1px solid var(--line); border-radius: 12px; padding: 4px 6px; }
+.search-bar__icon { font-size: 1.3rem; color: var(--muted); padding-left: 6px; }
+.search-bar input { flex: 1; min-width: 0; min-height: 40px; border: 0; background: transparent; color: var(--text); font: inherit; padding: 0 .4rem; outline: none; }
+.search-bar__clear { border: 0; background: transparent; color: var(--muted); font-size: 1.4rem; cursor: pointer; }
+.search-bar__submit { min-height: 40px; padding: .4rem .8rem; }
+.home-page .search-bar { margin-bottom: 12px; }
 .mode-switcher { display: flex; gap: 6px; overflow-x: auto; padding: 6px 0; }
 .mode-switcher__button { flex: 0 0 auto; border: 1px solid var(--line); background: var(--surface); color: var(--muted); border-radius: 999px; padding: .5rem .9rem; font: inherit; font-size: .8rem; cursor: pointer; min-height: 40px; }
 .mode-switcher__button.is-active { background: var(--mint); border-color: var(--mint); color: #08231b; font-weight: 700; }

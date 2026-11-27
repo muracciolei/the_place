@@ -110,5 +110,8 @@
   "settings.report": "Reporte de lugares",
   "place.descriptionSource": "Descripción de Wikipedia (CC BY-SA)",
   "place.coordinates": "Coordenadas",
-  "place.osmCredit": "Datos de contacto: © OpenStreetMap contributors (ODbL)"
+  "place.osmCredit": "Datos de contacto: © OpenStreetMap contributors (ODbL)",
+  "search.placeholder": "Buscar lugares, ciudades o categorías…",
+  "search.results": "Resultados para «{query}»",
+  "search.empty": "No se encontraron lugares con «{query}»"
 }
