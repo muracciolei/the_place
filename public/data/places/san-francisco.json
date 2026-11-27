@@ -14,7 +14,10 @@
         "mapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Boarding%20House%2C%20San%20Francisco",
         "source": "wikipedia",
         "sourceUrl": "https://en.wikipedia.org/wiki/The_Boarding_House_(nightclub)",
-        "photo": null
+        "photo": null,
+        "description": "The Boarding House was a music and comedy nightclub, located at 960 Bush Street in San Francisco, California, opened by David Allen in 1971 and closed in the early 1980s. Many comedians launched their career at The Boarding House, including Robin Williams. Steve Martin's first three albums were recorded there, Let's Get Small, A Wild and Crazy Guy, and Comedy Is Not Pretty!, in whole or in part. Ellen DeGeneres and J",
+        "lat": null,
+        "lng": null
       },
       {
         "id": "san-francisco-night_clubs-2",
@@ -30,7 +33,10 @@
           "author": "Wikipedia",
           "license": "CC BY-SA",
           "source": "https://en.wikipedia.org/wiki/Forbidden_City_(nightclub)"
-        }
+        },
+        "description": "Forbidden City was a nightclub and cabaret in San Francisco, which was in business from 1938 to 1970, and operated on the second floor of 363 Sutter Street, between Chinatown and Union Square. Although Forbidden City was not the first Chinese American nightclub, it was the most famous nightlife venue to feature Asian American singers, dancers, chorus lines, magicians, strippers, and musicians, and was entirely manage",
+        "lat": 37.7893,
+        "lng": -122.4063
       },
       {
         "id": "san-francisco-night_clubs-3",
@@ -41,7 +47,10 @@
         "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Hungry%20I%2C%20San%20Francisco",
         "source": "wikipedia",
         "sourceUrl": "https://en.wikipedia.org/wiki/Hungry_I",
-        "photo": null
+        "photo": null,
+        "description": "The Hungry I (stylized as hungry i) was a nightclub in San Francisco, California, originally located in the North Beach neighborhood. It played a major role in the history of stand-up comedy in the United States. It was launched by Eric \"Big Daddy\" Nord, who sold it to Enrico Banducci in 1951. The club moved to Ghirardelli Square in 1967 and operated mostly as a rock music venue until it closed in 1970. The name of t",
+        "lat": 37.796242,
+        "lng": -122.405133
       },
       {
         "id": "san-francisco-night_clubs-4",
@@ -52,7 +61,10 @@
         "mapsUrl": "https://www.google.com/maps/search/?api=1&query=In%20Person%20Friday%20and%20Saturday%20Nights%20at%20the%20Blackhawk%2C%20Complete%2C%20San%20Francisco",
         "source": "wikipedia",
         "sourceUrl": "https://en.wikipedia.org/wiki/In_Person_Friday_and_Saturday_Nights_at_the_Blackhawk%2C_Complete",
-        "photo": null
+        "photo": null,
+        "description": "In Person Friday and Saturday Nights at the Blackhawk, Complete, also called The Complete Blackhawk, is a 2003 four-CD boxset of the 1961 live performances of the Miles Davis Quintet at the Black Hawk nightclub in San Francisco.",
+        "lat": null,
+        "lng": null
       },
       {
         "id": "san-francisco-night_clubs-5",
@@ -68,7 +80,10 @@
           "author": "Wikipedia",
           "license": "CC BY-SA",
           "source": "https://en.wikipedia.org/wiki/Mabuhay_Gardens"
-        }
+        },
+        "description": "The Mabuhay Gardens, also known as The Fab Mab or The Mab, was a former San Francisco nightclub, located at 443 Broadway, in the Broadway strip club area of North Beach. It closed in 1987. The building housed other nightclub and event venues in subsequent years. In 2025, a new operator reopened the venue under the name Mabuhay Gardens.",
+        "lat": 37.79788889,
+        "lng": -122.40452778
       },
       {
         "id": "san-francisco-night_clubs-6",
@@ -79,7 +94,10 @@
         "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Black%20Hawk%2C%20San%20Francisco",
         "source": "wikipedia",
         "sourceUrl": "https://en.wikipedia.org/wiki/Black_Hawk_(nightclub)",
-        "photo": null
+        "photo": null,
+        "description": "The Black Hawk was a San Francisco nightclub that featured live jazz performances during its period of operation from 1949 to 1963. It was located on the corner of Turk Street and Hyde Street in San Francisco's Tenderloin District. Guido Cacianti owned the club along with Johnny and Helen Noga.",
+        "lat": 37.7828,
+        "lng": -122.4154
       },
       {
         "id": "san-francisco-night_clubs-7",
@@ -95,7 +113,10 @@
           "author": "Wikipedia",
           "license": "CC BY-SA",
           "source": "https://en.wikipedia.org/wiki/Condor_Club"
-        }
+        },
+        "description": "The Condor Club nightclub is a striptease bar or topless bar in the North Beach section of San Francisco, California The club became famous in 1964 as the first fully topless nightclub in the United States, featuring the dancer Carol Doda wearing a monokini.",
+        "lat": 37.79805556,
+        "lng": -122.40666667
       },
       {
         "id": "san-francisco-night_clubs-8",
@@ -111,7 +132,10 @@
           "author": "Wikipedia",
           "license": "CC BY-SA",
           "source": "https://en.wikipedia.org/wiki/Yoshi's"
-        }
+        },
+        "description": "Yoshi's (also known as Yoshi's Jazz Club and Yoshi's Oakland) is a nightclub located in Jack London Square in Oakland, California, United States. The venue originally opened in 1972 as a restaurant in Berkeley, later moving to Claremont Avenue in Oakland. In 1979, the restaurant expanded into a lounge and nightclub hosting local and national jazz musicians. In 1985, the venue was rebranded as Yoshi's Nitespot until 1",
+        "lat": 37.7961,
+        "lng": -122.2782
       },
       {
         "id": "san-francisco-night_clubs-9",
@@ -127,7 +151,10 @@
           "author": "Wikipedia",
           "license": "CC BY-SA",
           "source": "https://en.wikipedia.org/wiki/Slim's"
-        }
+        },
+        "description": "Slim's was a nightclub and music venue in San Francisco, California, which was opened by Boz Scaggs in 1988. Scaggs and his partners acquired a vacant restaurant called the Warehouse and threw a party in it on December 31, 1987 to celebrate the purchase, before closing it to be remodeled. The venue opened on September 16, 1988. The club closed permanently on March 18, 2020, a decision made unrelated to the COVID-19 p",
+        "lat": 37.771483,
+        "lng": -122.413339
       },
       {
         "id": "san-francisco-night_clubs-10",
@@ -143,7 +170,10 @@
           "author": "Wikipedia",
           "license": "CC BY-SA",
           "source": "https://en.wikipedia.org/wiki/Bimbo's_365_Club"
-        }
+        },
+        "description": "Bimbo's 365 Club, also known as Bimbo's 365, is an entertainment club located at 1025 Columbus Avenue in San Francisco. It specializes in live rock and jazz shows. The location is one of San Francisco's oldest nightclub sites, and has operated under two names with a series of owners. The building started as Bal Tabarin in 1931, the same year that the 365 Club started at 365 Market Street. The two locations under sepa",
+        "lat": 37.803727,
+        "lng": -122.415591
       },
       {
         "id": "san-francisco-night_clubs-11",
@@ -159,7 +189,10 @@
           "author": "Wikipedia",
           "license": "CC BY-SA",
           "source": "https://en.wikipedia.org/wiki/Club_Fugazi"
-        }
+        },
+        "description": "The Club Fugazi is a small theater and nightclub located in the North Beach district at 678 Green Street, San Francisco, California.",
+        "lat": 37.79916667,
+        "lng": -122.41
       },
       {
         "id": "san-francisco-night_clubs-12",
@@ -175,7 +208,10 @@
           "author": "Wikipedia",
           "license": "CC BY-SA",
           "source": "https://en.wikipedia.org/wiki/AMC_Kabuki_8"
-        }
+        },
+        "description": "AMC Kabuki 8 is a movie theater in the Japan Center complex in San Francisco's Japantown neighborhood.",
+        "lat": 37.785,
+        "lng": -122.433
       },
       {
         "id": "san-francisco-night_clubs-13",
@@ -186,7 +222,10 @@
         "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Showgirl%20Magic%20Museum%2C%20San%20Francisco",
         "source": "wikipedia",
         "sourceUrl": "https://en.wikipedia.org/wiki/Showgirl_Magic_Museum",
-        "photo": null
+        "photo": null,
+        "description": "The Showgirl Magic Museum is a history and culture museum in the Chinatown neighborhood of San Francisco, California in the United States. The museum showcases on the 20th-century nightclub scene in Chinatown.",
+        "lat": 37.79342778,
+        "lng": -122.4066
       },
       {
         "id": "san-francisco-night_clubs-14",
@@ -202,7 +241,10 @@
           "author": "Wikipedia",
           "license": "CC BY-SA",
           "source": "https://en.wikipedia.org/wiki/The_EndUp"
-        }
+        },
+        "description": "The EndUp is a nightclub in San Francisco, California. Opened in 1973, the club is located at 6th Street and Harrison in the South of Market district. Known for its status as an afterhours club, the venue has hosted a variety of benefits and events during its time as part of San Francisco's nightlife community. The EndUp's location is part of San Francisco's Leather and LGBTQ Cultural District.",
+        "lat": 37.77727778,
+        "lng": -122.40377778
       },
       {
         "id": "san-francisco-night_clubs-15",
@@ -213,7 +255,10 @@
         "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Maritime%20Hall%2C%20San%20Francisco",
         "source": "wikipedia",
         "sourceUrl": "https://en.wikipedia.org/wiki/Maritime_Hall",
-        "photo": null
+        "photo": null,
+        "description": "The Maritime Hall is a historic 3,000-capacity concert hall in San Francisco's South of Market neighborhood that operated from 1995 through 2001 as a popular music venue and nightclub. It was located at 450 Harrison Street (at First Street) at the Sailors Union of the Pacific building.",
+        "lat": 37.78638889,
+        "lng": -122.39277778
       },
       {
         "id": "san-francisco-night_clubs-16",
@@ -229,7 +274,10 @@
           "author": "Wikipedia",
           "license": "CC BY-SA",
           "source": "https://en.wikipedia.org/wiki/Badlands_(San_Francisco)"
-        }
+        },
+        "description": "Badlands (sometimes Badlands San Francisco, Badlands SF, or San Francisco Badlands) is a gay bar and nightclub in San Francisco's Castro District, in the U.S. state of California. The bar opened in 1975 and closed in July 2020. It reopened in October 2023.",
+        "lat": 37.76074,
+        "lng": -122.435477
       },
       {
         "id": "san-francisco-night_clubs-17",
@@ -240,7 +288,10 @@
         "mapsUrl": "https://www.google.com/maps/search/?api=1&query=I-Beam%2C%20San%20Francisco",
         "source": "wikipedia",
         "sourceUrl": "https://en.wikipedia.org/wiki/I-Beam_(nightclub)",
-        "photo": null
+        "photo": null,
+        "description": "The I-Beam was a former popular nightclub and live music venue active from 1977 to 1994, and located in the Park Masonic Hall building on the second floor at 1748 Haight Street in the Haight-Ashbury neighborhood of San Francisco. The I-Beam served as one of San Francisco's earliest disco clubs, as well as serving as a \"gay refuge\".",
+        "lat": 37.76944444,
+        "lng": -122.45111111
       },
       {
         "id": "san-francisco-night_clubs-18",
@@ -256,7 +307,10 @@
           "author": "Wikipedia",
           "license": "CC BY-SA",
           "source": "https://en.wikipedia.org/wiki/Punch_Line_San_Francisco"
-        }
+        },
+        "description": "Punch Line San Francisco is a comedy club located at 444 Battery St in San Francisco's Financial District. It has a sister club in Sacramento, California, and is also associated with Cobb's Comedy Club, now in the North Beach neighborhood of San Francisco. It is San Francisco's oldest running comedy club. The club was originally a restaurant during the day and the backstage hangout for The Old Waldorf nightclub next ",
+        "lat": 37.795539,
+        "lng": -122.399965
       }
     ],
     "restaurants": [
@@ -269,7 +323,10 @@
         "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Paragon%2C%20San%20Francisco",
         "source": "wikipedia",
         "sourceUrl": "https://en.wikipedia.org/wiki/Paragon_(restaurant)",
-        "photo": null
+        "photo": null,
+        "description": "Paragon Restaurant & Bar, or simply Paragon, was a restaurant with two locations in the United States. The San Francisco restaurant closed in 2017, while the Portland, Oregon, location closed in 2018. The restaurants were owned by Moana Restaurant Group.",
+        "lat": null,
+        "lng": null
       },
       {
         "id": "san-francisco-restaurants-2",
@@ -285,7 +342,10 @@
           "author": "Wikipedia",
           "license": "CC BY-SA",
           "source": "https://en.wikipedia.org/wiki/Tadich_Grill"
-        }
+        },
+        "description": "The Tadich Grill is an American seafood restaurant located in San Francisco, California. Founded in 1849, it is the oldest running restaurant in California. Based in the Financial District, the restaurant is located at 240 California Street. The dining experience features Croatian-style cooking techniques that include grilling seafood over mesquite and charcoal broilers for varying flavor profiles and uniform broilin",
+        "lat": 37.7934,
+        "lng": -122.3993
       },
       {
         "id": "san-francisco-restaurants-3",
@@ -301,7 +361,10 @@
           "author": "Wikipedia",
           "license": "CC BY-SA",
           "source": "https://en.wikipedia.org/wiki/Tonga_Room"
-        }
+        },
+        "description": "The Tonga Room & Hurricane Bar is a restaurant and tiki bar in the Fairmont San Francisco hotel in Nob Hill, San Francisco, California. Named after the South Pacific nation of Tonga, this dining and entertainment venue opened in 1945. The Tonga Room replaced the Terrace Plunge, an indoor swimming pool that was installed in the Fairmont in 1929. The pool was transformed into the Tonga Room's lagoon. The restaurant was",
+        "lat": 37.79214,
+        "lng": -122.41
       },
       {
         "id": "san-francisco-restaurants-4",
@@ -312,7 +375,10 @@
         "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Kimpton%20Hotels%20%26%20Restaurants%2C%20San%20Francisco",
         "source": "wikipedia",
         "sourceUrl": "https://en.wikipedia.org/wiki/Kimpton_Hotels_%26_Restaurants",
-        "photo": null
+        "photo": null,
+        "description": "The Kimpton Hotel & Restaurant Group is a San Francisco-based hotel and restaurant brand owned by IHG Hotels & Resorts (IHG) since 2015. It was founded in 1981.",
+        "lat": null,
+        "lng": null
       },
       {
         "id": "san-francisco-restaurants-5",
@@ -328,7 +394,10 @@
           "author": "Wikipedia",
           "license": "CC BY-SA",
           "source": "https://en.wikipedia.org/wiki/Buena_Vista_Cafe"
-        }
+        },
+        "description": "The Buena Vista is a café in San Francisco, California, credited with introducing Irish coffee to the United States in 1952. The Buena Vista Café originally opened in 1916 when the first floor of a boardinghouse was converted into a saloon. The current owners also operated the Trident in Sausalito, which closed on December 31, 2025.",
+        "lat": 37.8065,
+        "lng": -122.4207
       },
       {
         "id": "san-francisco-restaurants-6",
@@ -344,7 +413,10 @@
           "author": "Wikipedia",
           "license": "CC BY-SA",
           "source": "https://en.wikipedia.org/wiki/Sam_Wo"
-        }
+        },
+        "description": "Sam Wo (traditional Chinese: 三和粥粉麵; simplified Chinese: 三和粥粉面; Jyutping: Saam1wo4 zuk1 fan2min6; pinyin: Sānhé zhōu fěnmiàn, literally \"Three Harmonies Porridge and Noodles\") is a Chinese restaurant located in San Francisco, California. The restaurant's first location on 813 Washington Street was famous for being a venerable mainstay in the local Chinatown area, having been in the same location since 1912. Sam Wo gai",
+        "lat": 37.795034,
+        "lng": -122.406729
       },
       {
         "id": "san-francisco-restaurants-7",
@@ -360,7 +432,10 @@
           "author": "Wikipedia",
           "license": "CC BY-SA",
           "source": "https://en.wikipedia.org/wiki/Greens_Restaurant"
-        }
+        },
+        "description": "Greens Restaurant is a landmark vegetarian restaurant in the Fort Mason Center in the Marina District, San Francisco, California, overlooking the Golden Gate Bridge.",
+        "lat": 37.80645,
+        "lng": -122.43212
       },
       {
         "id": "san-francisco-restaurants-8",
@@ -376,7 +451,10 @@
           "author": "Wikipedia",
           "license": "CC BY-SA",
           "source": "https://en.wikipedia.org/wiki/Jack's_Restaurant"
-        }
+        },
+        "description": "Jack's Restaurant is a historic building and a former restaurant in the Financial District of San Francisco, California. Opened in 1864, Jack’s was the second oldest restaurant in the city for many years, following Tadich Grill. After being closed for many years, it was reopened in November 2025 as a private events space. The building has been listed as a San Francisco Designated Landmark since 1981.",
+        "lat": 37.79355556,
+        "lng": -122.4035
       },
       {
         "id": "san-francisco-restaurants-9",
@@ -387,7 +465,10 @@
         "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Stars%2C%20San%20Francisco",
         "source": "wikipedia",
         "sourceUrl": "https://en.wikipedia.org/wiki/Stars_(restaurant)",
-        "photo": null
+        "photo": null,
+        "description": "Stars was a landmark restaurant in San Francisco, California, from 1984 through 1999. Along with Spago, Michael's and Chez Panisse, it is considered one of the birthplaces of California cuisine, New American cuisine and the institution of the celebrity chef.",
+        "lat": null,
+        "lng": null
       },
       {
         "id": "san-francisco-restaurants-10",
@@ -403,7 +484,10 @@
           "author": "Wikipedia",
           "license": "CC BY-SA",
           "source": "https://en.wikipedia.org/wiki/Forbes_Island"
-        }
+        },
+        "description": "Forbes Island is a floating island and event space near Bradford Island, California, United States. It was formerly a restaurant, located between Pier 39 and Pier 41 in Fisherman's Wharf, San Francisco. It was the only \"floating island\" restaurant in the Bay Area. The restaurant was inspired by Captain Nemo's marine dwelling. The restaurant closed in 2017, and the floating platform was moved to the Holland Riverside ",
+        "lat": null,
+        "lng": null
       },
       {
         "id": "san-francisco-restaurants-11",
@@ -419,7 +503,10 @@
           "author": "Wikipedia",
           "license": "CC BY-SA",
           "source": "https://en.wikipedia.org/wiki/The_Stinking_Rose"
-        }
+        },
+        "description": "The Stinking Rose is a Californian restaurant known for including garlic in all its dishes, including its garlic ice cream. The first location opened in San Francisco in 1991, followed by a second location in Beverly Hills in 1996. The Beverly Hills restaurant announced its permanent closure in October 2021. The San Francisco location was originally located at 325 Columbus Ave, and moved in 2021 to its current addres",
+        "lat": 37.7997,
+        "lng": -122.4095
       },
       {
         "id": "san-francisco-restaurants-12",
@@ -430,7 +517,10 @@
         "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Quince%2C%20San%20Francisco",
         "source": "wikipedia",
         "sourceUrl": "https://en.wikipedia.org/wiki/Quince_(restaurant)",
-        "photo": null
+        "photo": null,
+        "description": "Quince is a restaurant in the Jackson Square neighborhood in San Francisco, California. Opened in 2003 by chef Michael Tusk and his wife, Lindsay Tusk, in Pacific Heights, the restaurant has been located in Jackson Square since 2009. A sister restaurant, Cotogna, opened next door in 2011. The couple opened a third establishment, Verjus, a wine bar and restaurant in the same neighborhood, in 2019. In 2017, Quince beca",
+        "lat": null,
+        "lng": null
       },
       {
         "id": "san-francisco-restaurants-13",
@@ -441,7 +531,10 @@
         "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Californios%2C%20San%20Francisco",
         "source": "wikipedia",
         "sourceUrl": "https://en.wikipedia.org/wiki/Californios_(restaurant)",
-        "photo": null
+        "photo": null,
+        "description": "Californios is a Michelin-starred restaurant in San Francisco, California, serving Mexican cuisine. Its head chef is Val M. Cantú, one of the restaurant's co-owners. Californios earned its first Michelin star in 2015 and its second in 2017, becoming the first US restaurant serving Mexican cuisine to earn two Michelin stars. In 2026 it was awarded a third star, becoming the first Mexican restaurant in the world with t",
+        "lat": 37.77141,
+        "lng": -122.41296
       },
       {
         "id": "san-francisco-restaurants-14",
@@ -457,7 +550,10 @@
           "author": "Wikipedia",
           "license": "CC BY-SA",
           "source": "https://en.wikipedia.org/wiki/Saison_(restaurant)"
-        }
+        },
+        "description": "Saison is a San Francisco restaurant that earned the highest rating of three stars from the Michelin Guide in 2014. It is located in the SoMa district. The founder is Beverage Director and Winemaker for Saison Winery, Mark Bright. The Executive Chef is Richard Lee.",
+        "lat": 37.77952,
+        "lng": -122.39225
       },
       {
         "id": "san-francisco-restaurants-15",
@@ -468,7 +564,10 @@
         "mapsUrl": "https://www.google.com/maps/search/?api=1&query=OpenTable%2C%20San%20Francisco",
         "source": "wikipedia",
         "sourceUrl": "https://en.wikipedia.org/wiki/OpenTable",
-        "photo": null
+        "photo": null,
+        "description": "OpenTable is an online restaurant-reservation service company founded by Sid Gorham, Eric Moe and Chuck Templeton on July 2, 1998, and based in San Francisco, California. In 1998, operations began with a limited selection of restaurants in San Francisco. Restaurants used the company's back-end software to process the reservations made on the website, resulting in a real-time reservation system for both diners and res",
+        "lat": null,
+        "lng": null
       },
       {
         "id": "san-francisco-restaurants-16",
@@ -479,7 +578,10 @@
         "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Benu%2C%20San%20Francisco",
         "source": "wikipedia",
         "sourceUrl": "https://en.wikipedia.org/wiki/Benu_(restaurant)",
-        "photo": null
+        "photo": null,
+        "description": "Benu is the first restaurant in San Francisco to have received three Michelin stars. Located in the SoMa district, Benu was opened in 2010 by chef Corey Lee, the former Chef de Cuisine at the French Laundry. In 2019, Benu made its debut on The World's 50 Best Restaurants, and in 2024 celebrated ten consecutive years of three stars.",
+        "lat": 37.785407,
+        "lng": -122.399112
       },
       {
         "id": "san-francisco-restaurants-17",
@@ -495,7 +597,10 @@
           "author": "Wikipedia",
           "license": "CC BY-SA",
           "source": "https://en.wikipedia.org/wiki/Sons_%26_Daughters_(restaurant)"
-        }
+        },
+        "description": "Sons & Daughters is a New Nordic restaurant in San Francisco, California, United States. It opened in 2010 and has two Michelin stars.",
+        "lat": 37.76166667,
+        "lng": -122.41083333
       },
       {
         "id": "san-francisco-restaurants-18",
@@ -511,7 +616,10 @@
           "author": "Wikipedia",
           "license": "CC BY-SA",
           "source": "https://en.wikipedia.org/wiki/Thomas_Keller"
-        }
+        },
+        "description": "Thomas Aloysius Keller (born October 14, 1955) is an American chef, restaurateur and cookbook author. He and his Napa Valley restaurant, the French Laundry in Yountville, California, have won multiple awards from the James Beard Foundation, including Best California Chef in 1996 and Best Chef in America in 1997. The restaurant was a perennial winner in the annual Restaurant list of the Top 50 Restaurants of the World",
+        "lat": null,
+        "lng": null
       }
     ],
     "bars": [
@@ -529,7 +637,10 @@
           "author": "Wikipedia",
           "license": "CC BY-SA",
           "source": "https://en.wikipedia.org/wiki/Tonga_Room"
-        }
+        },
+        "description": "The Tonga Room & Hurricane Bar is a restaurant and tiki bar in the Fairmont San Francisco hotel in Nob Hill, San Francisco, California. Named after the South Pacific nation of Tonga, this dining and entertainment venue opened in 1945. The Tonga Room replaced the Terrace Plunge, an indoor swimming pool that was installed in the Fairmont in 1929. The pool was transformed into the Tonga Room's lagoon. The restaurant was",
+        "lat": 37.79214,
+        "lng": -122.41
       },
       {
         "id": "san-francisco-bars-2",
@@ -540,7 +651,10 @@
         "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Paragon%2C%20San%20Francisco",
         "source": "wikipedia",
         "sourceUrl": "https://en.wikipedia.org/wiki/Paragon_(restaurant)",
-        "photo": null
+        "photo": null,
+        "description": "Paragon Restaurant & Bar, or simply Paragon, was a restaurant with two locations in the United States. The San Francisco restaurant closed in 2017, while the Portland, Oregon, location closed in 2018. The restaurants were owned by Moana Restaurant Group.",
+        "lat": null,
+        "lng": null
       },
       {
         "id": "san-francisco-bars-3",
@@ -556,7 +670,10 @@
           "author": "Wikipedia",
           "license": "CC BY-SA",
           "source": "https://en.wikipedia.org/wiki/The_Stud_(bar)"
-        }
+        },
+        "description": "The Stud is a gay bar currently located on 1123 Folsom Street in San Francisco. It was started by associates George Matson and Alexis Muir (Muir was a transgender woman then known as Richard Conroy) on May 27, 1966. According to George Matson, it was a \"bar for people, not just pretty bodies\". Originally, the Stud was located at 1535 Folsom Street; in 1987, it moved to Ninth and Harrison Streets. The Stud closed in M",
+        "lat": 37.77613,
+        "lng": -122.40843
       },
       {
         "id": "san-francisco-bars-4",
@@ -567,7 +684,10 @@
         "mapsUrl": "https://www.google.com/maps/search/?api=1&query=San%20Francisco%20Law%20School%2C%20San%20Francisco",
         "source": "wikipedia",
         "sourceUrl": "https://en.wikipedia.org/wiki/San_Francisco_Law_School",
-        "photo": null
+        "photo": null,
+        "description": "San Francisco Law School is a private, for-profit law school in San Francisco, California. Founded in 1909, it is the oldest evening law school in the Western United States. It is not accredited by the ABA, nor is it accredited or registered with the State Bar of California.",
+        "lat": 37.77277778,
+        "lng": -122.4225
       },
       {
         "id": "san-francisco-bars-5",
@@ -583,7 +703,10 @@
           "author": "Wikipedia",
           "license": "CC BY-SA",
           "source": "https://en.wikipedia.org/wiki/San_Francisco_Eagle"
-        }
+        },
+        "description": "San Francisco Eagle (also SF Eagle, or simply The Eagle; formerly Eagle Tavern) is a gay bar founded in 1981 in San Francisco's South of Market neighborhood, in the U.S. state of California. It is part of the informal, global network of \"Eagle\" bars that typically cater to leather and kink communities. The bar also caters to the bear community.",
+        "lat": 37.77,
+        "lng": -122.4134
       },
       {
         "id": "san-francisco-bars-6",
@@ -599,7 +722,10 @@
           "author": "Wikipedia",
           "license": "CC BY-SA",
           "source": "https://en.wikipedia.org/wiki/Masa's_Wine_Bar_%26_Kitchen"
-        }
+        },
+        "description": "Masa's Wine Bar & Kitchen (also known as Masa's Restaurant or Masa's) was a new French restaurant located in San Francisco, California, in the United States.",
+        "lat": 37.79042,
+        "lng": -122.40805
       },
       {
         "id": "san-francisco-bars-7",
@@ -615,7 +741,10 @@
           "author": "Wikipedia",
           "license": "CC BY-SA",
           "source": "https://en.wikipedia.org/wiki/Top_of_the_Mark"
-        }
+        },
+        "description": "The Top of the Mark is a penthouse level bar located on the nineteenth floor of the Mark Hopkins Hotel on Nob Hill at California and Mason Streets in San Francisco, California. Located at the highest point of downtown San Francisco, on fog-free days the Top of the Mark has views of the financial district, Chinatown, North Beach, The San Francisco Bay, and of Grace Cathedral and Huntington Park.",
+        "lat": 37.791558,
+        "lng": -122.410364
       },
       {
         "id": "san-francisco-bars-8",
@@ -631,7 +760,10 @@
           "author": "Wikipedia",
           "license": "CC BY-SA",
           "source": "https://en.wikipedia.org/wiki/Vesuvio_Cafe"
-        }
+        },
+        "description": "Vesuvio Cafe is a historic bar in San Francisco, California, United States. Located at 255 Columbus Avenue, across an alley from City Lights Bookstore, the building was designed and built in 1913 by Italian architect Italo Zanolini, and remodeled in 1918.",
+        "lat": 37.797535,
+        "lng": -122.406407
       },
       {
         "id": "san-francisco-bars-9",
@@ -642,7 +774,10 @@
         "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Peg's%20Place%2C%20San%20Francisco",
         "source": "wikipedia",
         "sourceUrl": "https://en.wikipedia.org/wiki/Peg's_Place_(bar)",
-        "photo": null
+        "photo": null,
+        "description": "Peg's Place was a San Francisco lesbian bar (1950s–1988) and the site of an assault in 1979 by off-duty members of the San Francisco vice squad, an event which drew national attention to other incidents of anti-gay violence and police harassment of the LGBTQ community and helped propel an unsuccessful citywide proposition to ban the city's vice squad altogether. Historians have written about the incident when describ",
+        "lat": null,
+        "lng": null
       },
       {
         "id": "san-francisco-bars-10",
@@ -653,7 +788,10 @@
         "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Dino%20and%20Carlo's%2C%20San%20Francisco",
         "source": "wikipedia",
         "sourceUrl": "https://en.wikipedia.org/wiki/Dino_and_Carlo's",
-        "photo": null
+        "photo": null,
+        "description": "Dino and Carlo's, also known as Dino—Carlo, and Deno and Carlo's, was an American bar and music venue active from 1965 until 1968, and located at 728 Vallejo Street in the North Beach neighborhood of San Francisco, California.",
+        "lat": 37.798586,
+        "lng": -122.409374
       },
       {
         "id": "san-francisco-bars-11",
@@ -669,7 +807,10 @@
           "author": "Wikipedia",
           "license": "CC BY-SA",
           "source": "https://en.wikipedia.org/wiki/University_of_San_Francisco_School_of_Law"
-        }
+        },
+        "description": "The University of San Francisco School of Law (USF Law) is the law school of the private University of San Francisco. It was established in 1912, received American Bar Association accreditation in 1935, and joined the Association of American Law Schools (AALS) in 1937.",
+        "lat": 37.77472222,
+        "lng": -122.4525
       },
       {
         "id": "san-francisco-bars-12",
@@ -685,7 +826,10 @@
           "author": "Wikipedia",
           "license": "CC BY-SA",
           "source": "https://en.wikipedia.org/wiki/Washington_Square_Bar_and_Grill"
-        }
+        },
+        "description": "The Washington Square Bar & Grill was a landmark restaurant adjoining Washington Square in San Francisco's North Beach neighborhood (Powell at Union streets). Known widely as the Washbag, so named by columnist Herb Caen as a play on words, it was a favorite gathering place for writers, politicians, musicians, and social elite.",
+        "lat": 37.80045,
+        "lng": -122.41096111
       },
       {
         "id": "san-francisco-bars-13",
@@ -701,7 +845,10 @@
           "author": "Wikipedia",
           "license": "CC BY-SA",
           "source": "https://en.wikipedia.org/wiki/Gary_Brown_(baseball)"
-        }
+        },
+        "description": "Gary Allen Brown (born September 28, 1988) is an American former professional baseball outfielder. He played in Major League Baseball (MLB) for the San Francisco Giants.",
+        "lat": null,
+        "lng": null
       },
       {
         "id": "san-francisco-bars-14",
@@ -712,7 +859,10 @@
         "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Maud's%2C%20San%20Francisco",
         "source": "wikipedia",
         "sourceUrl": "https://en.wikipedia.org/wiki/Maud's_(bar)",
-        "photo": null
+        "photo": null,
+        "description": "Maud's was a lesbian bar at 937 Cole Street in San Francisco's Cole Valley neighborhood which opened in 1966 and closed in 1989. At the time of its closing, which was captured in the film, Last Call at Maud's, it was claimed to be the oldest lesbian bar in the United States. Its history, documented in the film and other media, spanned almost a quarter-century of LGBTQ events.",
+        "lat": null,
+        "lng": null
       },
       {
         "id": "san-francisco-bars-15",
@@ -728,7 +878,10 @@
           "author": "Wikipedia",
           "license": "CC BY-SA",
           "source": "https://en.wikipedia.org/wiki/Comstock_Saloon"
-        }
+        },
+        "description": "Comstock Saloon is a historic saloon in San Francisco, California, located in San Francisco's North Beach. The building, since 1907, housed several different bars and owners. The predecessor being the San Francisco Brewing Company (1985–2012), which is the oldest microbrewery in San Francisco. The bar is named after Henry Comstock and for his Comstock Lode, and is currently owned by Jeff Hollinger and Jonny Raglin, b",
+        "lat": 37.79696,
+        "lng": -122.40559
       },
       {
         "id": "san-francisco-bars-16",
@@ -744,7 +897,10 @@
           "author": "Wikipedia",
           "license": "CC BY-SA",
           "source": "https://en.wikipedia.org/wiki/LGBTQ_culture_in_San_Francisco"
-        }
+        },
+        "description": "The lesbian, gay, bisexual, and transgender (LGBT) community in San Francisco is one of the largest and most prominent LGBT communities in the United States, and is one of the most important in the history of American LGBTQ rights and activism alongside New York City. The city itself has been described as \"the original 'gay-friendly city'\". LGBTQ culture is also active within companies that are based in Silicon Valle",
+        "lat": null,
+        "lng": null
       },
       {
         "id": "san-francisco-bars-17",
@@ -760,7 +916,10 @@
           "author": "Wikipedia",
           "license": "CC BY-SA",
           "source": "https://en.wikipedia.org/wiki/Leather_subculture"
-        }
+        },
+        "description": "Leather subculture denotes practices and styles of dress organized around sexual activities that involve leather garments, such as leather jackets, vests, boots, chaps, harnesses, or other items. Wearing leather garments is one way that participants in this culture self-consciously distinguish themselves from mainstream sexual cultures. Many participants associate leather culture with BDSM practices and its many subc",
+        "lat": null,
+        "lng": null
       },
       {
         "id": "san-francisco-bars-18",
@@ -771,7 +930,10 @@
         "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Bay%20Area%20Reporter%2C%20San%20Francisco",
         "source": "wikipedia",
         "sourceUrl": "https://en.wikipedia.org/wiki/Bay_Area_Reporter",
-        "photo": null
+        "photo": null,
+        "description": "The Bay Area Reporter is a free weekly LGBT newspaper serving the LGBT communities in the San Francisco Bay Area. It is one of the largest-circulation LGBT newspapers in the United States, and the country's oldest continuously published newspaper of its kind. The Reporter is a founding member of the National Gay Newspaper Guild. In 2009, the Reporter had an audited weekly circulation of 29,000, making it the fourth-l",
+        "lat": null,
+        "lng": null
       }
     ],
     "coffee_shops": [
@@ -789,7 +951,10 @@
           "author": "Wikipedia",
           "license": "CC BY-SA",
           "source": "https://en.wikipedia.org/wiki/Buena_Vista_Cafe"
-        }
+        },
+        "description": "The Buena Vista is a café in San Francisco, California, credited with introducing Irish coffee to the United States in 1952. The Buena Vista Café originally opened in 1916 when the first floor of a boardinghouse was converted into a saloon. The current owners also operated the Trident in Sausalito, which closed on December 31, 2025.",
+        "lat": 37.8065,
+        "lng": -122.4207
       },
       {
         "id": "san-francisco-coffee_shops-2",
@@ -805,7 +970,10 @@
           "author": "Wikipedia",
           "license": "CC BY-SA",
           "source": "https://en.wikipedia.org/wiki/Vesuvio_Cafe"
-        }
+        },
+        "description": "Vesuvio Cafe is a historic bar in San Francisco, California, United States. Located at 255 Columbus Avenue, across an alley from City Lights Bookstore, the building was designed and built in 1913 by Italian architect Italo Zanolini, and remodeled in 1918.",
+        "lat": 37.797535,
+        "lng": -122.406407
       },
       {
         "id": "san-francisco-coffee_shops-3",
@@ -821,7 +989,10 @@
           "author": "Wikipedia",
           "license": "CC BY-SA",
           "source": "https://en.wikipedia.org/wiki/Cafe_Du_Nord"
-        }
+        },
+        "description": "Cafe Du Nord is a 320-person capacity music venue in the basement level of the historic Swedish American Hall in the Upper Market neighborhood of San Francisco, California, U.S.",
+        "lat": 37.76669444,
+        "lng": -122.43038889
       },
       {
         "id": "san-francisco-coffee_shops-4",
@@ -837,7 +1008,10 @@
           "author": "Wikipedia",
           "license": "CC BY-SA",
           "source": "https://en.wikipedia.org/wiki/Zuni_Caf%C3%A9"
-        }
+        },
+        "description": "Zuni Café is a restaurant in San Francisco, California, named after the Zuni tribe of indigenous Pueblo peoples of Arizona and New Mexico. It occupies a triangular building on Market Street at the corner of Rose Street.",
+        "lat": null,
+        "lng": null
       },
       {
         "id": "san-francisco-coffee_shops-5",
@@ -853,7 +1027,10 @@
           "author": "Wikipedia",
           "license": "CC BY-SA",
           "source": "https://en.wikipedia.org/wiki/American_Zoetrope"
-        }
+        },
+        "description": "American Zoetrope (also known as Omni Zoetrope from 1977 to 1980 and Zoetrope Studios from 1980 until 1991) is a privately run American film production company, centered in San Francisco, California, and founded by Francis Ford Coppola and George Lucas. Opened on December 12, 1969, the studio has produced not only the films of Coppola (including Apocalypse Now, Bram Stoker's Dracula and Tetro), but also George Lucas'",
+        "lat": null,
+        "lng": null
       },
       {
         "id": "san-francisco-coffee_shops-6",
@@ -869,7 +1046,10 @@
           "author": "Wikipedia",
           "license": "CC BY-SA",
           "source": "https://en.wikipedia.org/wiki/Caffe_Trieste"
-        }
+        },
+        "description": "Caffè Trieste is an internationally known coffeehouse, retail store, and former franchise in San Francisco. The original cafe, opened in 1956, was the first espresso-based coffeehouse on the West Coast of the United States. Caffe Trieste is considered a San Francisco institution and a local hub for poets, writers, and beat culture.",
+        "lat": 37.79872,
+        "lng": -122.40727
       },
       {
         "id": "san-francisco-coffee_shops-7",
@@ -885,7 +1065,10 @@
           "author": "Wikipedia",
           "license": "CC BY-SA",
           "source": "https://en.wikipedia.org/wiki/John_C._Baez"
-        }
+        },
+        "description": "John Carlos Baez ( BY-ez; born June 12, 1961) is an American mathematical physicist and a professor of mathematics at the University of California, Riverside (UCR) in Riverside, California. He has worked on spin foams in loop quantum gravity, applications of higher categories to physics, and applied category theory. Additionally, Baez is known on the World Wide Web as the author of the crackpot index.",
+        "lat": null,
+        "lng": null
       },
       {
         "id": "san-francisco-coffee_shops-8",
@@ -901,7 +1084,10 @@
           "author": "Wikipedia",
           "license": "CC BY-SA",
           "source": "https://en.wikipedia.org/wiki/Sweetwater_Saloon"
-        }
+        },
+        "description": "Sweetwater Saloon was a bar and music venue located at 153 Throckmorton Avenue Mill Valley, California, with a 30-year history of live musical performances by the likes of Bonnie Raitt, Elvis Costello, Jerry Garcia, The String Cheese Incident, John Lee Hooker and Carlos Santana. There were typically at least 4 to 5 musical acts booked per week making it a popular local hangout. Sweetwater Saloon also featured an open",
+        "lat": 37.90555556,
+        "lng": -122.54888889
       },
       {
         "id": "san-francisco-coffee_shops-9",
@@ -917,7 +1103,10 @@
           "author": "Wikipedia",
           "license": "CC BY-SA",
           "source": "https://en.wikipedia.org/wiki/Mel's_Drive-In"
-        }
+        },
+        "description": "Mel's Drive-In refers to two American restaurant chains, the successors of a chain founded in 1947 by Mel Weiss and Harold Dobbs in San Francisco, California, United States. The original chain operated until the 1970s. A new generation of Mel's Drive-In restaurants then began opening in the 1980s, with the business split into two separate groups: one doing business under the original Mel's Drive-In name and the other",
+        "lat": null,
+        "lng": null
       },
       {
         "id": "san-francisco-coffee_shops-10",
@@ -928,7 +1117,10 @@
         "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Enrico%20Banducci%2C%20San%20Francisco",
         "source": "wikipedia",
         "sourceUrl": "https://en.wikipedia.org/wiki/Enrico_Banducci",
-        "photo": null
+        "photo": null,
+        "description": "Enrico Banducci (born Harry Charles Banducci; February 17, 1922 – October 9, 2007) was an American impresario. Banducci operated the Hungry I nightclub in San Francisco's North Beach neighborhood after purchasing the club from its founder, Eric \"Big Daddy\" Nord, in 1950. During Banducci's ownership, the Hungry I helped launch the careers of numerous acts, including The Kingston Trio, Lenny Bruce, Mort Sahl, Bill Cosb",
+        "lat": null,
+        "lng": null
       },
       {
         "id": "san-francisco-coffee_shops-11",
@@ -939,7 +1131,10 @@
         "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Stars%2C%20San%20Francisco",
         "source": "wikipedia",
         "sourceUrl": "https://en.wikipedia.org/wiki/Stars_(restaurant)",
-        "photo": null
+        "photo": null,
+        "description": "Stars was a landmark restaurant in San Francisco, California, from 1984 through 1999. Along with Spago, Michael's and Chez Panisse, it is considered one of the birthplaces of California cuisine, New American cuisine and the institution of the celebrity chef.",
+        "lat": null,
+        "lng": null
       },
       {
         "id": "san-francisco-coffee_shops-12",
@@ -955,7 +1150,10 @@
           "author": "Wikipedia",
           "license": "CC BY-SA",
           "source": "https://en.wikipedia.org/wiki/DNA_Lounge"
-        }
+        },
+        "description": "DNA Lounge is an all-ages nightclub, restaurant and cafe in the SoMa district of San Francisco owned by Jamie Zawinski, a former Netscape programmer and open-source software hacker. The club features DJ dancing, live music, burlesque performances, and occasionally conferences, private parties, and film premieres. DNA Lounge has seven full bars, two stages, four dance floors, and a full service pizza restaurant and ca",
+        "lat": 37.77100833,
+        "lng": -122.41269444
       },
       {
         "id": "san-francisco-coffee_shops-13",
@@ -966,7 +1164,10 @@
         "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Bob%20Ayres%2C%20San%20Francisco",
         "source": "wikipedia",
         "sourceUrl": "https://en.wikipedia.org/wiki/Bob_Ayres",
-        "photo": null
+        "photo": null,
+        "description": "Bob Ayres is an American entertainment industry executive, known among other things, as the Founder of the renowned San Francisco comedy club The Other Café, and for his involvement in San Francisco Bay Area projects such as The Other Cafe Comedy Showcase, The TED conference, \"The Next Twenty Years series\", and Comedic Ventures. Bob is the Licensee/Executive Producer of TEDxMarin, one of the longest-running TEDx's in",
+        "lat": null,
+        "lng": null
       },
       {
         "id": "san-francisco-coffee_shops-14",
@@ -982,7 +1183,10 @@
           "author": "Wikipedia",
           "license": "CC BY-SA",
           "source": "https://en.wikipedia.org/wiki/Belden_Place"
-        }
+        },
+        "description": "Belden Place is a narrow alley in the Financial District of San Francisco, California that serves as the hub of the city's small French American community.",
+        "lat": 37.79125,
+        "lng": -122.40376
       },
       {
         "id": "san-francisco-coffee_shops-15",
@@ -998,7 +1202,10 @@
           "author": "Wikipedia",
           "license": "CC BY-SA",
           "source": "https://en.wikipedia.org/wiki/Columbus_Tower_(San_Francisco)"
-        }
+        },
+        "description": "The Sentinel Building, also briefly known as Columbus Tower between 1958-1972, is a mixed-use building in San Francisco, California, completed in 1907. The distinctive copper-green Flatiron style structure is bounded by Columbus Avenue, Kearny Street, and Jackson Street; straddling the North Beach, Chinatown, and Financial District neighborhoods of the city. Much of the building is occupied by film studio American Zo",
+        "lat": 37.7964,
+        "lng": -122.4049
       },
       {
         "id": "san-francisco-coffee_shops-16",
@@ -1014,7 +1221,10 @@
           "author": "Wikipedia",
           "license": "CC BY-SA",
           "source": "https://en.wikipedia.org/wiki/San_Francisco_crime_family"
-        }
+        },
+        "description": "The San Francisco crime family, also known as the Lanza crime family or the San Francisco Mafia, was an Italian American Mafia crime family based in San Francisco, California. The syndicate was organized in the early 1930s by Francesco \"Frank\" Lanza and mainly originated in the Little Italy neighborhood of North Beach. The membership of the San Francisco family peaked at around 15 or 20 \"made men\" under the leadershi",
+        "lat": null,
+        "lng": null
       },
       {
         "id": "san-francisco-coffee_shops-17",
@@ -1030,7 +1240,10 @@
           "author": "Wikipedia",
           "license": "CC BY-SA",
           "source": "https://en.wikipedia.org/wiki/Ruth_Asawa_San_Francisco_School_of_the_Arts"
-        }
+        },
+        "description": "The Ruth Asawa San Francisco School of the Arts, colloquially referred to as SOTA, is a public alternative high school in San Francisco, California, United States. It was established in 1982 and is part of the San Francisco Unified School District. It is currently located at 555 Portola Drive, San Francisco CA 94131.",
+        "lat": 37.7454,
+        "lng": -122.4486
       },
       {
         "id": "san-francisco-coffee_shops-18",
@@ -1046,7 +1259,10 @@
           "author": "Wikipedia",
           "license": "CC BY-SA",
           "source": "https://en.wikipedia.org/wiki/Docks_of_San_Francisco"
-        }
+        },
+        "description": "Docks of San Francisco is a 1932 American pre-Code crime film directed by George B. Seitz and starring Mary Nolan, Jason Robards Sr. and Marjorie Beebe. It was originally released by Mayfair Pictures, and later re-released by Commonwealth Pictures in 1948. The film was long considered to be a lost film but is now on YouTube.",
+        "lat": null,
+        "lng": null
       }
     ],
     "bookshops": [
@@ -1064,7 +1280,10 @@
           "author": "Wikipedia",
           "license": "CC BY-SA",
           "source": "https://en.wikipedia.org/wiki/City_Lights_Bookstore"
-        }
+        },
+        "description": "City Lights is an independent bookstore-publisher combination in San Francisco, California, that specializes in world literature, the arts, and progressive politics. It also houses the nonprofit City Lights Foundation, which publishes selected titles related to San Francisco culture. It was founded in 1953 by poet Lawrence Ferlinghetti and Peter D. Martin (who left two years later). Both the store and the publishers ",
+        "lat": 37.797628,
+        "lng": -122.406575
       },
       {
         "id": "san-francisco-bookshops-2",
@@ -1080,7 +1299,10 @@
           "author": "Wikipedia",
           "license": "CC BY-SA",
           "source": "https://en.wikipedia.org/wiki/Bound_Together"
-        }
+        },
+        "description": "Bound Together is an anarchist bookstore and visitor attraction on Haight Street in the Haight-Ashbury neighborhood of San Francisco. Its Lonely Planet review in 2016, commenting on its multiple activities, states that it \"makes us tools of the state look like slackers\". The bookstore carries new and used books as well as local authors. The bookstore is run by a volunteer collective that includes \"lifers\" who have he",
+        "lat": 37.7702,
+        "lng": -122.4447
       },
       {
         "id": "san-francisco-bookshops-3",
@@ -1096,7 +1318,10 @@
           "author": "Wikipedia",
           "license": "CC BY-SA",
           "source": "https://en.wikipedia.org/wiki/Jack_Kerouac_Alley"
-        }
+        },
+        "description": "Jack Kerouac Alley, formerly Adler Alley or Adler Place, is a one-way alleyway in San Francisco, California, that connects Grant Avenue in Chinatown, and Columbus Avenue in North Beach. The alley is named after Jack Kerouac, a Beat Generation writer who used to frequent the pub and bookstore adjacent to the alley. The alley continues across Columbus Ave, but the name changes to William Saroyan Alley there, named afte",
+        "lat": 37.7975,
+        "lng": -122.4067
       },
       {
         "id": "san-francisco-bookshops-4",
@@ -1112,7 +1337,10 @@
           "author": "Wikipedia",
           "license": "CC BY-SA",
           "source": "https://en.wikipedia.org/wiki/Vesuvio_Cafe"
-        }
+        },
+        "description": "Vesuvio Cafe is a historic bar in San Francisco, California, United States. Located at 255 Columbus Avenue, across an alley from City Lights Bookstore, the building was designed and built in 1913 by Italian architect Italo Zanolini, and remodeled in 1918.",
+        "lat": 37.797535,
+        "lng": -122.406407
       },
       {
         "id": "san-francisco-bookshops-5",
@@ -1123,7 +1351,10 @@
         "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Feminist%20Bookstore%20News%2C%20San%20Francisco",
         "source": "wikipedia",
         "sourceUrl": "https://en.wikipedia.org/wiki/Feminist_Bookstore_News",
-        "photo": null
+        "photo": null,
+        "description": "Feminist Bookstore News (FBN) was a trade publication for feminist bookstores. It was active from 1976 until 2000, and issues were published sometimes bimonthly and sometimes quarterly. The publication was described by Tee Corinne as \"the glue that kept women booksellers around the world together\", acting as a network for feminist booksellers and publishers across the United States and transnationally.",
+        "lat": null,
+        "lng": null
       },
       {
         "id": "san-francisco-bookshops-6",
@@ -1139,7 +1370,10 @@
           "author": "Wikipedia",
           "license": "CC BY-SA",
           "source": "https://en.wikipedia.org/wiki/Daliel's_Gallery"
-        }
+        },
+        "description": "Daliel's Gallery (stylized in all lowercase, and sometimes just 'daliel') was a display and performance space in the San Francisco Bay Area in California in the 1940s and 1950s; the building also contained Daliel's Bookstore. George Leite opened Daliel's at 2466 Telegraph Avenue between Dwight and Haste Streets in Berkeley, as a combination bookstore and art gallery in 1945, naming both after a half-brother in Portug",
+        "lat": null,
+        "lng": null
       },
       {
         "id": "san-francisco-bookshops-7",
@@ -1155,7 +1389,10 @@
           "author": "Wikipedia",
           "license": "CC BY-SA",
           "source": "https://en.wikipedia.org/wiki/Booksmith"
-        }
+        },
+        "description": "The Booksmith is an independent bookstore located in the Haight Ashbury neighborhood of San Francisco. When first opened in October 1976, the store was located at 1746 Haight Street, below the former I-Beam nightclub. In 1985, the store moved to 1644 Haight Street at Belvedere, about a block and a half from the intersection of Haight and Ashbury. In 2021 the store moved down the street to 1727 Haight, the former site",
+        "lat": 37.76972222,
+        "lng": -122.44944444
       },
       {
         "id": "san-francisco-bookshops-8",
@@ -1171,7 +1408,10 @@
           "author": "Wikipedia",
           "license": "CC BY-SA",
           "source": "https://en.wikipedia.org/wiki/Old_Wives_Tales_(bookstore)"
-        }
+        },
+        "description": "Old Wives Tales (also Old Wives' Tales) was a feminist bookstore in the Mission Dolores neighborhood of San Francisco. It was founded on October 31, 1976, by Carol Seajay and Paula Wallace, a lesbian couple. It closed permanently in October 1995.",
+        "lat": null,
+        "lng": null
       },
       {
         "id": "san-francisco-bookshops-9",
@@ -1182,7 +1422,10 @@
         "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Mr.%20Penumbra's%2024-Hour%20Bookstore%2C%20San%20Francisco",
         "source": "wikipedia",
         "sourceUrl": "https://en.wikipedia.org/wiki/Mr._Penumbra's_24-Hour_Bookstore",
-        "photo": null
+        "photo": null,
+        "description": "Mr. Penumbra's 24-Hour Bookstore is a 2012 novel by American writer Robin Sloan. It was chosen as one of the best 100 books of 2012 by the San Francisco Chronicle, was a New York Times Editor's Choice, and was on the New York Times Hardcover Fiction Best Seller list as well as the NPR Hardcover Fiction Bestseller List. The US book cover, which glows in the dark, was done by Rodrigo Corral and chosen as one of the 25 ",
+        "lat": null,
+        "lng": null
       },
       {
         "id": "san-francisco-bookshops-10",
@@ -1193,7 +1436,10 @@
         "mapsUrl": "https://www.google.com/maps/search/?api=1&query=A%20Different%20Light%2C%20San%20Francisco",
         "source": "wikipedia",
         "sourceUrl": "https://en.wikipedia.org/wiki/A_Different_Light_(bookstore)",
-        "photo": null
+        "photo": null,
+        "description": "A Different Light was a chain of four LGBT bookstores in the United States, active from 1979 to 2011.",
+        "lat": null,
+        "lng": null
       },
       {
         "id": "san-francisco-bookshops-11",
@@ -1209,7 +1455,10 @@
           "author": "Wikipedia",
           "license": "CC BY-SA",
           "source": "https://en.wikipedia.org/wiki/Cody's_Books"
-        }
+        },
+        "description": "Cody's Books (1956–2008) was an independent bookstore based in Berkeley, California. It \"was a pioneer in bookselling, bringing the paperback revolution to Berkeley, fighting censorship, and providing a safe harbor from tear gas directed at anti-Vietnam War protesters throughout the 1960s and 1970s.\"",
+        "lat": 37.8658,
+        "lng": -122.2589
       },
       {
         "id": "san-francisco-bookshops-12",
@@ -1225,7 +1474,10 @@
           "author": "Wikipedia",
           "license": "CC BY-SA",
           "source": "https://en.wikipedia.org/wiki/Broadway_(San_Francisco)"
-        }
+        },
+        "description": "Broadway is an east–west street in San Francisco that runs from The Embarcadero to the Pacific Heights neighborhood. The neon-lined stretch of Broadway through North Beach was historically the city's red-light district, home to strip clubs and other adult businesses, as well as many nightclubs and bars, and has been featured in several films and television shows. The street is home to several notable venues, such as ",
+        "lat": null,
+        "lng": null
       },
       {
         "id": "san-francisco-bookshops-13",
@@ -1241,7 +1493,10 @@
           "author": "Wikipedia",
           "license": "CC BY-SA",
           "source": "https://en.wikipedia.org/wiki/Green_Apple_Books_%26_Music"
-        }
+        },
+        "description": "Green Apple Books is an independent bookstore in the Richmond District of San Francisco, California.",
+        "lat": 37.7831,
+        "lng": -122.4647
       },
       {
         "id": "san-francisco-bookshops-14",
@@ -1252,7 +1507,10 @@
         "mapsUrl": "https://www.google.com/maps/search/?api=1&query=A%20Woman's%20Place%2C%20San%20Francisco",
         "source": "wikipedia",
         "sourceUrl": "https://en.wikipedia.org/wiki/A_Woman's_Place_(bookstore)",
-        "photo": null
+        "photo": null,
+        "description": "A Woman's Place (fully ICI, Information Center Incorporate: A Woman's Place) was a feminist bookstore in Oakland, California. Opened in 1970, it was one of the first two feminist bookstores in the United States.",
+        "lat": 37.83688889,
+        "lng": -122.25108333
       },
       {
         "id": "san-francisco-bookshops-15",
@@ -1263,7 +1521,10 @@
         "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Computer%20Literacy%20Bookshops%2C%20San%20Francisco",
         "source": "wikipedia",
         "sourceUrl": "https://en.wikipedia.org/wiki/Computer_Literacy_Bookshops",
-        "photo": null
+        "photo": null,
+        "description": "Computer Literacy Bookshops was a local chain of bookstores selling primarily technical-oriented books in Northern California. It was founded in 1983 in Sunnyvale, California, where its concentration in technical books fit well with its Silicon Valley customer base. Computer Literacy was acquired by CBooks Express in 1997, and after going public traded as fatbrain.com, selling books both online and in brick-and-morta",
+        "lat": null,
+        "lng": null
       },
       {
         "id": "san-francisco-bookshops-16",
@@ -1274,7 +1535,10 @@
         "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Carol%20Seajay%2C%20San%20Francisco",
         "source": "wikipedia",
         "sourceUrl": "https://en.wikipedia.org/wiki/Carol_Seajay",
-        "photo": null
+        "photo": null,
+        "description": "Carol Seajay is an American activist and former bookseller. She cofounded the Old Wives Tales bookstore in San Francisco as well as the Feminist Bookstore News, which she edited and published for more than 20 years before ceasing publication in 2000. Her work was part of the women in print movement. In 2008, Seajay received the Michele Karlsberg Leadership Award from the Publishing Triangle.",
+        "lat": null,
+        "lng": null
       },
       {
         "id": "san-francisco-bookshops-17",
@@ -1285,7 +1549,10 @@
         "mapsUrl": "https://www.google.com/maps/search/?api=1&query=George%20Leite%2C%20San%20Francisco",
         "source": "wikipedia",
         "sourceUrl": "https://en.wikipedia.org/wiki/George_Leite",
-        "photo": null
+        "photo": null,
+        "description": "George Thurston Leite (December 20, 1920 – August 6, 1985) was an American author, poet, publisher, bookstore, gallery, and native plants nursery owner active in California's San Francisco Bay Area starting in the 1940s. Born to a Portuguese-American family in Providence, Rhode Island in 1920, he was raised in San Leandro, California, a Bay Area city which was then a Portuguese enclave. His last name is the Portugues",
+        "lat": null,
+        "lng": null
       },
       {
         "id": "san-francisco-bookshops-18",
@@ -1301,7 +1568,10 @@
           "author": "Wikipedia",
           "license": "CC BY-SA",
           "source": "https://en.wikipedia.org/wiki/Peter_D._Martin"
-        }
+        },
+        "description": "Peter Dean Martin (1923 – March 3, 1988) was an American college professor and bookstore owner, known for his founding of the City Lights Bookstore. He was the son of Carlo Tresca and Sabina 'Bina' Flynn, and the nephew of Elizabeth Gurley Flynn.",
+        "lat": null,
+        "lng": null
       }
     ],
     "museums": [
@@ -1319,7 +1589,10 @@
           "author": "Wikipedia",
           "license": "CC BY-SA",
           "source": "https://en.wikipedia.org/wiki/San_Francisco_Museum_of_Modern_Art"
-        }
+        },
+        "description": "The San Francisco Museum of Modern Art (SFMOMA) is a modern and contemporary art museum and nonprofit organization located in San Francisco, California. SFMOMA was the first museum on the West Coast devoted solely to 20th-century art, and has built an internationally recognized collection with over 33,000 works of painting, sculpture, photography, architecture, design, and media arts. The collection is displayed in 1",
+        "lat": 37.78571806,
+        "lng": -122.40105111
       },
       {
         "id": "san-francisco-museums-2",
@@ -1335,7 +1608,10 @@
           "author": "Wikipedia",
           "license": "CC BY-SA",
           "source": "https://en.wikipedia.org/wiki/Fine_Arts_Museums_of_San_Francisco"
-        }
+        },
+        "description": "The Fine Arts Museums of San Francisco (FAMSF), comprising the de Young Museum in Golden Gate Park and the Legion of Honor in Lincoln Park, is the largest public arts institution in the city of San Francisco. FAMSF's combined attendance was 1,158,264 visitors in 2022, making it the fifth most attended art institution in the United States. In 2024, the two combined museums were ranked 15th in The Washington Post's lis",
+        "lat": 37.7715,
+        "lng": -122.46869444
       },
       {
         "id": "san-francisco-museums-3",
@@ -1351,7 +1627,10 @@
           "author": "Wikipedia",
           "license": "CC BY-SA",
           "source": "https://en.wikipedia.org/wiki/Asian_Art_Museum_(San_Francisco)"
-        }
+        },
+        "description": "The Asian Art Museum of San Francisco – Chong-Moon Lee Center for Asian Art and Culture is a museum in San Francisco, California, that specializes in Asian art. The museum building and its permanent collection are owned by the City of San Francisco.",
+        "lat": 37.780276,
+        "lng": -122.416577
       },
       {
         "id": "san-francisco-museums-4",
@@ -1367,7 +1646,10 @@
           "author": "Wikipedia",
           "license": "CC BY-SA",
           "source": "https://en.wikipedia.org/wiki/San_Francisco_Cable_Car_Museum"
-        }
+        },
+        "description": "The Cable Car Museum is a free museum in the Nob Hill neighborhood of San Francisco, California. Located at 1201 Mason Street, it contains historical and explanatory exhibits on the San Francisco cable car system, which can itself be regarded as a working museum.",
+        "lat": 37.794675,
+        "lng": -122.411396
       },
       {
         "id": "san-francisco-museums-5",
@@ -1383,7 +1665,10 @@
           "author": "Wikipedia",
           "license": "CC BY-SA",
           "source": "https://en.wikipedia.org/wiki/St._Louis%E2%80%93San_Francisco_Railway"
-        }
+        },
+        "description": "The St. Louis–San Francisco Railway (reporting mark SLSF), commonly known as the \"Frisco\", was a railroad that operated in the Midwest and South Central United States from 1876 to November 21, 1980. At the end of 1970, it operated 4,547 miles (7,318 km) of road on 6,574 miles (10,580 km) of track, not including subsidiaries Quanah, Acme and Pacific Railway and the Alabama, Tennessee and Northern Railroad. That year, ",
+        "lat": null,
+        "lng": null
       },
       {
         "id": "san-francisco-museums-6",
@@ -1399,7 +1684,10 @@
           "author": "Wikipedia",
           "license": "CC BY-SA",
           "source": "https://en.wikipedia.org/wiki/Legion_of_Honor_(museum)"
-        }
+        },
+        "description": "The Legion of Honor, formally known as the California Palace of the Legion of Honor, is an art museum located in San Francisco, on the West Side of the city. Located in Lincoln Park, the Legion of Honor is a component of the Fine Arts Museums of San Francisco (FAMSF), which also administers the de Young Museum. In 2024, the two combined museums were ranked 15th in The Washington Post list of the best art museums in t",
+        "lat": null,
+        "lng": null
       },
       {
         "id": "san-francisco-museums-7",
@@ -1415,7 +1703,10 @@
           "author": "Wikipedia",
           "license": "CC BY-SA",
           "source": "https://en.wikipedia.org/wiki/San_Francisco_Railway_Museum"
-        }
+        },
+        "description": "The San Francisco Railway Museum is a local railway museum located in the South of Market area of San Francisco. This small museum features exhibits on the antique streetcars of the F Market & Wharves and national landmark cable cars that continue to run along the city's major arteries. The museum is located at the Don Chee Way and Steuart Station, across the street from the Ferry Building. Admission to the museum is",
+        "lat": 37.793791,
+        "lng": -122.393683
       },
       {
         "id": "san-francisco-museums-8",
@@ -1426,7 +1717,10 @@
         "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Cartoon%20Art%20Museum%2C%20San%20Francisco",
         "source": "wikipedia",
         "sourceUrl": "https://en.wikipedia.org/wiki/Cartoon_Art_Museum",
-        "photo": null
+        "photo": null,
+        "description": "The Cartoon Art Museum (CAM) was a California art museum that specialized in the art of comics and cartoons. It was the only museum in the Western United States dedicated to the preservation and exhibition of all forms of cartoon art. The permanent collection featured some 7,000 pieces as of 2015, including original animation cels, comic book pages and sculptures. Until September 2015, the museum was located in the Y",
+        "lat": 37.787088,
+        "lng": -122.40094
       },
       {
         "id": "san-francisco-museums-9",
@@ -1442,7 +1736,10 @@
           "author": "Wikipedia",
           "license": "CC BY-SA",
           "source": "https://en.wikipedia.org/wiki/De_Young_Museum"
-        }
+        },
+        "description": "The de Young Museum, formally the M. H. de Young Memorial Museum, is a fine arts museum located in San Francisco, California, United States, named for early San Francisco newspaperman M. H. de Young. Located on the West Side of the city in Golden Gate Park, it is a component of the Fine Arts Museums of San Francisco, along with the Legion of Honor. The museum received 999,645 visitors in 2023, ranking as the 22nd mos",
+        "lat": 37.77146889,
+        "lng": -122.46867611
       },
       {
         "id": "san-francisco-museums-10",
@@ -1458,7 +1755,10 @@
           "author": "Wikipedia",
           "license": "CC BY-SA",
           "source": "https://en.wikipedia.org/wiki/San_Francisco_Maritime_National_Historical_Park"
-        }
+        },
+        "description": "The San Francisco Maritime National Historical Park is located in San Francisco, California, United States. The park includes a fleet of historic vessels, a visitor center, a maritime museum, and a library/research facility. Formerly referred to as the San Francisco Maritime Museum, the collections were acquired by the National Park Service in 1978. The San Francisco Maritime National Historical Park was authorized i",
+        "lat": 37.80638889,
+        "lng": -122.42361111
       },
       {
         "id": "san-francisco-museums-11",
@@ -1474,7 +1774,10 @@
           "author": "Wikipedia",
           "license": "CC BY-SA",
           "source": "https://en.wikipedia.org/wiki/Contemporary_Jewish_Museum"
-        }
+        },
+        "description": "The Contemporary Jewish Museum (CJM) is a non-collecting museum at 736 Mission Street at Yerba Buena Lane in the South of Market (SoMa) neighborhood of San Francisco, California. The museum, which was founded in 1984, is located in the historic Jessie Street Substation, which was gutted and its interior redesigned by Daniel Libeskind, along with a new addition; the new museum opened in 2008. The museum's mission is t",
+        "lat": 37.78577,
+        "lng": -122.40394
       },
       {
         "id": "san-francisco-museums-12",
@@ -1490,7 +1793,10 @@
           "author": "Wikipedia",
           "license": "CC BY-SA",
           "source": "https://en.wikipedia.org/wiki/San_Francisco_International_Airport"
-        }
+        },
+        "description": "San Francisco International Airport (IATA: SFO, ICAO: KSFO, FAA LID: SFO) is the primary international airport serving the San Francisco Bay Area in the U.S. state of California. Owned and operated by the City and County of San Francisco, the airport's primary address is 780 South Airport Boulevard, San Francisco, though it is located in an unincorporated area of neighboring San Mateo County, approximately 12 miles (",
+        "lat": 37.61888889,
+        "lng": -122.375
       },
       {
         "id": "san-francisco-museums-13",
@@ -1506,7 +1812,10 @@
           "author": "Wikipedia",
           "license": "CC BY-SA",
           "source": "https://en.wikipedia.org/wiki/San_Francisco_cable_car_system"
-        }
+        },
+        "description": "The San Francisco cable car system is the world's last manually operated cable car system and an icon of the city of San Francisco, California. The system forms part of the intermodal urban transport network operated by the San Francisco Municipal Railway, which also includes the separate E Embarcadero and F Market & Wharves heritage streetcar lines, the Muni Metro modern light rail system, and bus routes operated by",
+        "lat": null,
+        "lng": null
       },
       {
         "id": "san-francisco-museums-14",
@@ -1522,7 +1831,10 @@
           "author": "Wikipedia",
           "license": "CC BY-SA",
           "source": "https://en.wikipedia.org/wiki/San_Francisco"
-        }
+        },
+        "description": "San Francisco, officially the City and County of San Francisco, is the 17th-largest city and second-densest major city in the United States, with a 2025 population of 826,079. It is the fourth-most populous city in California and the second most-populous in the Bay Area. Some 4.6 million residents live in the city's metropolitan statistical area. Around 9.2 million live in the San Jose–San Francisco–Oakland combined ",
+        "lat": 37.7775,
+        "lng": -122.41638889
       },
       {
         "id": "san-francisco-museums-15",
@@ -1538,7 +1850,10 @@
           "author": "Wikipedia",
           "license": "CC BY-SA",
           "source": "https://en.wikipedia.org/wiki/Lafayette_Park_(San_Francisco)"
-        }
+        },
+        "description": "Lafayette Park is an 12.5 acres (5.1 ha) park in San Francisco, California, United States.",
+        "lat": 37.7913179,
+        "lng": -122.4280268
       },
       {
         "id": "san-francisco-museums-16",
@@ -1554,7 +1869,10 @@
           "author": "Wikipedia",
           "license": "CC BY-SA",
           "source": "https://en.wikipedia.org/wiki/Randall_Museum"
-        }
+        },
+        "description": "The Randall Museum is a museum in central San Francisco, California, owned and operated by the San Francisco Recreation & Parks Department with the support of the Randall Friends. The museum focuses on science, nature and the arts. On exhibit are live native animals and interactive displays about nature. Other facilities include a theater, a wood shop, and art and ceramics studios. Its permanent location is in Corona",
+        "lat": 37.764387,
+        "lng": -122.43813
       },
       {
         "id": "san-francisco-museums-17",
@@ -1570,7 +1888,10 @@
           "author": "Wikipedia",
           "license": "CC BY-SA",
           "source": "https://en.wikipedia.org/wiki/Ansel_Adams"
-        }
+        },
+        "description": "Ansel Easton Adams ( AN-səl; February 20, 1902 – April 22, 1984) was an American landscape photographer and environmentalist who was known for his black-and-white photographs of the American West. He helped found Group f/64, an association of photographers advocating \"pure\" photography which favored sharp focus and the use of the full tonal range of a photograph. He and Fred Archer developed a system of image-making ",
+        "lat": null,
+        "lng": null
       },
       {
         "id": "san-francisco-museums-18",
@@ -1586,7 +1907,10 @@
           "author": "Wikipedia",
           "license": "CC BY-SA",
           "source": "https://en.wikipedia.org/wiki/Walt_Disney_Family_Museum"
-        }
+        },
+        "description": "The Walt Disney Family Museum (WDFM) is an American museum that features the life and legacy of Walt Disney, founded by Diane Disney Miller and Walt E. Disney Miller. The museum is located in the Presidio of San Francisco, part of the Golden Gate National Recreation Area in San Francisco. The museum retrofitted and expanded three existing historic buildings on the Presidio's Main Post. The principal building, at 104 ",
+        "lat": 37.801095,
+        "lng": -122.458487
       }
     ],
     "concerts": [
@@ -1604,7 +1928,10 @@
           "author": "Wikipedia",
           "license": "CC BY-SA",
           "source": "https://en.wikipedia.org/wiki/Bing_Concert_Hall"
-        }
+        },
+        "description": "Bing Concert Hall is a performing arts facility at Stanford University that opened in January 2013. The heart of the building is the oval-shaped concert hall, which has 842 seats arranged in a vineyard style surrounding the stage in terraces. All the seats are within 75 feet of the conductor, and the seats in the center section begin at the stage level. On the north side of the central concert hall is the smaller Bin",
+        "lat": 37.43194444,
+        "lng": -122.16611111
       },
       {
         "id": "san-francisco-concerts-2",
@@ -1620,7 +1947,10 @@
           "author": "Wikipedia",
           "license": "CC BY-SA",
           "source": "https://en.wikipedia.org/wiki/Louise_M._Davies_Symphony_Hall"
-        }
+        },
+        "description": "Louise M. Davies Symphony Hall is the concert hall component of the San Francisco War Memorial and Performing Arts Center in San Francisco, California. The 2,743-seat hall was completed in 1980 at a cost of US$28 million to give the San Francisco Symphony a permanent home. Previously, the symphony shared the neighboring War Memorial Opera House with the San Francisco Opera and San Francisco Ballet. The construction o",
+        "lat": 37.77797,
+        "lng": -122.420646
       },
       {
         "id": "san-francisco-concerts-3",
@@ -1631,7 +1961,10 @@
         "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Maritime%20Hall%2C%20San%20Francisco",
         "source": "wikipedia",
         "sourceUrl": "https://en.wikipedia.org/wiki/Maritime_Hall",
-        "photo": null
+        "photo": null,
+        "description": "The Maritime Hall is a historic 3,000-capacity concert hall in San Francisco's South of Market neighborhood that operated from 1995 through 2001 as a popular music venue and nightclub. It was located at 450 Harrison Street (at First Street) at the Sailors Union of the Pacific building.",
+        "lat": 37.78638889,
+        "lng": -122.39277778
       },
       {
         "id": "san-francisco-concerts-4",
@@ -1642,7 +1975,10 @@
         "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Philharmonia%20Baroque%20Orchestra%2C%20San%20Francisco",
         "source": "wikipedia",
         "sourceUrl": "https://en.wikipedia.org/wiki/Philharmonia_Baroque_Orchestra",
-        "photo": null
+        "photo": null,
+        "description": "The Philharmonia Baroque Orchestra (PBO) is an American orchestra based in San Francisco. It is dedicated to the historically informed performance of Baroque, classical, and Romantic music on original instruments. The orchestra performs its subscription series in the following cities and venues: San Francisco: Herbst Theatre Berkeley: First Congregational Church of Berkeley Stanford University: Bing Concert Hall Palo",
+        "lat": null,
+        "lng": null
       },
       {
         "id": "san-francisco-concerts-5",
@@ -1658,7 +1994,10 @@
           "author": "Wikipedia",
           "license": "CC BY-SA",
           "source": "https://en.wikipedia.org/wiki/Great_American_Music_Hall"
-        }
+        },
+        "description": "The Great American Music Hall is a concert hall in San Francisco, California. It is located on O'Farrell Street in the Tenderloin neighborhood on the same block as the Mitchell Brothers O'Farrell Theatre. It is known for its decorative balconies, columns, and frescoes and for its history of unique entertainment, which has included burlesque dancing as well as jazz, folk music, and rock and roll concerts. The capacity",
+        "lat": 37.785048,
+        "lng": -122.418835
       },
       {
         "id": "san-francisco-concerts-6",
@@ -1674,7 +2013,10 @@
           "author": "Wikipedia",
           "license": "CC BY-SA",
           "source": "https://en.wikipedia.org/wiki/Curved_Form_(Bryher)"
-        }
+        },
+        "description": "Curved Form (Bryher) is a bronze sculpture by Barbara Hepworth, modeled in 1961. The work was cast in an edition of seven. Examples are located at the Annmarie Sculpture Garden, Solomons, Maryland, on loan from the Hirshhorn Museum and Sculpture Garden, at the San Francisco Museum of Modern Art, and at the De Doelen concert hall, Rotterdam. It is one of three works modeled in 1961, after discussion with Dag Hammarskj",
+        "lat": null,
+        "lng": null
       },
       {
         "id": "san-francisco-concerts-7",
@@ -1690,7 +2032,10 @@
           "author": "Wikipedia",
           "license": "CC BY-SA",
           "source": "https://en.wikipedia.org/wiki/California_Hall_(San_Francisco)"
-        }
+        },
+        "description": "California Hall, originally named Das Deutsche Haus (English: The German House, sometimes also referred to in incorrect German as Das Deutsches Haus), is a historic commercial building and event venue built in 1912, located in the Polk Gulch/Tenderloin neighborhood in San Francisco, California. It started as a German social meeting hall. In 1965, it was the location of a fundraiser event for gay charities that brough",
+        "lat": 37.782455,
+        "lng": -122.41922
       },
       {
         "id": "san-francisco-concerts-8",
@@ -1706,7 +2051,10 @@
           "author": "Wikipedia",
           "license": "CC BY-SA",
           "source": "https://en.wikipedia.org/wiki/Fox_Oakland_Theatre"
-        }
+        },
+        "description": "The Fox Oakland Theatre is a 2,800-seat concert hall, a former movie theater, located at 1807 Telegraph Avenue in Downtown Oakland It originally opened in 1928, running films until 1970. Designed by Weeks and Day, the theatre is listed on the National Register of Historic Places. It was refurbished in the 2000s and reopened as a concert venue on February 5, 2009.",
+        "lat": 37.80888889,
+        "lng": -122.26916667
       },
       {
         "id": "san-francisco-concerts-9",
@@ -1717,7 +2065,10 @@
         "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Trocadero%2C%20San%20Francisco",
         "source": "wikipedia",
         "sourceUrl": "https://en.wikipedia.org/wiki/Trocadero",
-        "photo": null
+        "photo": null,
+        "description": "Trocadero may refer to: Battle of Trocadero, an 1823 battle in southern Spain between the French army and Spanish revolutionaries Trocadéro, Paris, an area of Paris, France Jardins du Trocadéro Palais du Trocadéro, built for the 1878 World's Fair in Paris, France Trocadero, Birmingham, a pub in England Trocadero (Los Angeles), a 1930s ballroom and a modern nightclub in California, U.S. Trocadero, Newtown, a heritage-",
+        "lat": null,
+        "lng": null
       },
       {
         "id": "san-francisco-concerts-10",
@@ -1728,7 +2079,10 @@
         "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Family%20Dog%20at%20the%20Great%20Highway%2C%20San%20Francisco%2C%20CA%204%2F18%2F70%2C%20San%20Francisco",
         "source": "wikipedia",
         "sourceUrl": "https://en.wikipedia.org/wiki/Family_Dog_at_the_Great_Highway%2C_San_Francisco%2C_CA_4%2F18%2F70",
-        "photo": null
+        "photo": null,
+        "description": "Family Dog at the Great Highway, San Francisco, CA 4/18/70 is a live album by the rock band the Grateful Dead. It was recorded at the Family Dog concert hall in San Francisco on April 18, 1970. It was released by Rhino Records on November 29, 2013. The album was produced as a single-disc CD, and also as a two-disc vinyl LP, the latter in a limited audiophile edition of 7,500 copies. The concert was a \"stealth\" perfor",
+        "lat": null,
+        "lng": null
       },
       {
         "id": "san-francisco-concerts-11",
@@ -1739,7 +2093,10 @@
         "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Mendocino%20Music%20Festival%2C%20San%20Francisco",
         "source": "wikipedia",
         "sourceUrl": "https://en.wikipedia.org/wiki/Mendocino_Music_Festival",
-        "photo": null
+        "photo": null,
+        "description": "The Mendocino Music Festival is an eclectic concert series held each July since 1986 on the Pacific bluffs in the small coastal Northern California town of Mendocino. Evening concerts feature a full symphony orchestra, a big band, an opera, guest singers and bands, chamber music ensembles, dance, blues, jazz, world, folk, and popular contemporary music. Daytime performances include a piano series, chamber concerts, a",
+        "lat": null,
+        "lng": null
       },
       {
         "id": "san-francisco-concerts-12",
@@ -1750,7 +2107,10 @@
         "mapsUrl": "https://www.google.com/maps/search/?api=1&query=UC%20Berkeley%20Symphony%20Orchestra%2C%20San%20Francisco",
         "source": "wikipedia",
         "sourceUrl": "https://en.wikipedia.org/wiki/UC_Berkeley_Symphony_Orchestra",
-        "photo": null
+        "photo": null,
+        "description": "The UC Berkeley Symphony Orchestra is a symphony orchestra of the University of California, Berkeley, located in Berkeley, California, United States.",
+        "lat": null,
+        "lng": null
       },
       {
         "id": "san-francisco-concerts-13",
@@ -1766,7 +2126,10 @@
           "author": "Wikipedia",
           "license": "CC BY-SA",
           "source": "https://en.wikipedia.org/wiki/Alfred_Hertz"
-        }
+        },
+        "description": "Alfred Hertz (15 July 1872 – 17 April 1942) was a Prussian-born conductor.",
+        "lat": null,
+        "lng": null
       },
       {
         "id": "san-francisco-concerts-14",
@@ -1777,7 +2140,10 @@
         "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Symphony%20No.%2012%2C%20San%20Francisco",
         "source": "wikipedia",
         "sourceUrl": "https://en.wikipedia.org/wiki/Symphony_No._12_(Glass)",
-        "photo": null
+        "photo": null,
+        "description": "Symphony No. 12 (Lodger) is the twelfth symphony by the American composer Philip Glass. The work was commissioned by the Los Angeles Philharmonic and premiered January 10, 2019, with John Adams conducting the LA Phil at the Walt Disney Concert Hall in Los Angeles. The European premiere followed on May 9, 2019, with a performance by the London Contemporary Orchestra at Southbank Centre. Based on David Bowie's 1979 alb",
+        "lat": null,
+        "lng": null
       },
       {
         "id": "san-francisco-concerts-15",
@@ -1788,7 +2154,10 @@
         "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Mary%20Chun%2C%20San%20Francisco",
         "source": "wikipedia",
         "sourceUrl": "https://en.wikipedia.org/wiki/Mary_Chun",
-        "photo": null
+        "photo": null,
+        "description": "Mary Chun is an American conductor based in the San Francisco Bay Area. She is music director of the Mercury Theater and has been the conductor of Earplay since 2000. Chun earned her master's degree from San Francisco State University where she studied piano with Carlo Bussotti and conducting with Lászlo Varga. She served as Director of Musical Studies to Kent Nagano at the Opéra National de Lyon, assisting on his re",
+        "lat": null,
+        "lng": null
       },
       {
         "id": "san-francisco-concerts-16",
@@ -1799,7 +2168,10 @@
         "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Where%20in%20the%20World%20of%20Music%20Is%20Carmen%20Sandiego%3F%2C%20San%20Francisco",
         "source": "wikipedia",
         "sourceUrl": "https://en.wikipedia.org/wiki/Where_in_the_World_of_Music_Is_Carmen_Sandiego%3F",
-        "photo": null
+        "photo": null,
+        "description": "Where in the World of Music Is Carmen Sandiego? is a concert series developed by Gary Sheldon. It consists of three concerts: The Case of the Missing Concert Hall, The Case of the Missing Bells, and The Case of the Missing Pyramids. The annual family concerts are based on the popular Carmen Sandiego video game Where In The World, and the subsequent franchise. Sheldon has \"taken [the show] to orchestras throughout Ame",
+        "lat": null,
+        "lng": null
       },
       {
         "id": "san-francisco-concerts-17",
@@ -1810,7 +2182,10 @@
         "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Radical%20Light%2C%20San%20Francisco",
         "source": "wikipedia",
         "sourceUrl": "https://en.wikipedia.org/wiki/Radical_Light",
-        "photo": null
+        "photo": null,
+        "description": "Radical Light is a single-movement orchestral composition by the American composer Steven Stucky. The work was commissioned by the Los Angeles Philharmonic with contributions from Lenore and Bernard Greenberg. It was premiered October 18, 2007, at the Walt Disney Concert Hall in Los Angeles, with conductor Esa-Pekka Salonen leading the Los Angeles Philharmonic. The title of the piece comes from the poem \"He Held Radi",
+        "lat": null,
+        "lng": null
       },
       {
         "id": "san-francisco-concerts-18",
@@ -1826,7 +2201,10 @@
           "author": "Wikipedia",
           "license": "CC BY-SA",
           "source": "https://en.wikipedia.org/wiki/Aarhus_Pride"
-        }
+        },
+        "description": "Aarhus Pride is a pride parade in Aarhus, Denmark and the largest Danish event focused on LGBT issues outside Copenhagen. The first event was held in 2012 and has been repeated every year since. It is managed and controlled by private individuals from the LGBT community and supported with funds from the city of Aarhus. In 2017, about 6,000 people took part in the 3.5-kilometre-long (2.2 mi) parade with floats and fla",
+        "lat": null,
+        "lng": null
       }
     ],
     "fashion": [
@@ -1839,7 +2217,10 @@
         "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Magnin%2C%20San%20Francisco",
         "source": "wikipedia",
         "sourceUrl": "https://en.wikipedia.org/wiki/Magnin",
-        "photo": null
+        "photo": null,
+        "description": "Magnin is a surname. Notable people with the surname include: Albert Magnin (1846–1906), American politician Antoine Magnin (1848–1926), French botanist Charles Magnin (1793–1862), French writer Cyril Magnin (1899–1988), American businessman Edgar Magnin (1890–1984), American Reform rabbi Eduardo Magnin (born 1969), Argentine footballer Gérard Magnin (born 1951), French businessman Isaac Magnin (1842–1907), American ",
+        "lat": null,
+        "lng": null
       },
       {
         "id": "san-francisco-fashion-2",
@@ -1855,7 +2236,10 @@
           "author": "Wikipedia",
           "license": "CC BY-SA",
           "source": "https://en.wikipedia.org/wiki/Charlotte_Russe_(retailer)"
-        }
+        },
+        "description": "Charlotte Russe Inc. is an American clothing retail chain store that operates in the United States, headquartered in San Francisco, California. Fashions in the stores are targeted at women in their teens and twenties. As of July 2026, Charlotte Russe operates 223 stores, mostly in malls and shopping centers.",
+        "lat": null,
+        "lng": null
       },
       {
         "id": "san-francisco-fashion-3",
@@ -1866,7 +2250,10 @@
         "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Isaac%20Magnin%2C%20San%20Francisco",
         "source": "wikipedia",
         "sourceUrl": "https://en.wikipedia.org/wiki/Isaac_Magnin",
-        "photo": null
+        "photo": null,
+        "description": "Isaac Magnin (1842–1907) was a Dutch-born American businessperson, carver and gilder. He was the co-founder of I. Magnin, an upscale women's clothing store in San Francisco, California.",
+        "lat": null,
+        "lng": null
       },
       {
         "id": "san-francisco-fashion-4",
@@ -1882,7 +2269,10 @@
           "author": "Wikipedia",
           "license": "CC BY-SA",
           "source": "https://en.wikipedia.org/wiki/Margaret_Mary_Morgan"
-        }
+        },
+        "description": "Margaret Mary Morgan (May 1, 1866 – May 27, 1946) was a U.S. suffragist, printing business owner, politician, child welfare advocate and, in 1921, the first woman ever elected to the San Francisco Board of Supervisors. Originally of Portland, Maine, she first obtained work with her sister in a children’s clothing store at Monument Square in Portland. After moving to San Francisco in 1903 she obtained a position with ",
+        "lat": null,
+        "lng": null
       },
       {
         "id": "san-francisco-fashion-5",
@@ -1898,7 +2288,10 @@
           "author": "Wikipedia",
           "license": "CC BY-SA",
           "source": "https://en.wikipedia.org/wiki/Joseph_P._Newmark"
-        }
+        },
+        "description": "Joseph P. Newmark (born c. 1827) was a Prussian-American businessman who helped develop the Los Angeles, California, area and a member of the Newmark family. There he founded the Rich & Newmark clothing store with Jacob Rich. He later founded Newmark, Kremer & Co., a wholesale-retail dry goods store, with other family members. He was born in Löbau, West Prussia, Prussia (now Lubawa, Poland). He immigrated to the Unit",
+        "lat": null,
+        "lng": null
       },
       {
         "id": "san-francisco-fashion-6",
@@ -1914,7 +2307,10 @@
           "author": "Wikipedia",
           "license": "CC BY-SA",
           "source": "https://en.wikipedia.org/wiki/Swelldom"
-        }
+        },
+        "description": "Swelldom was a large women's clothing store, variously described as a \"cloak and suit house\" and a \"department store\", that operated in California from 1906 until the 1970s. It had locations on Broadway in downtown Los Angeles, on Wilshire Boulevard at Camden in Beverly Hills, and near Union Square in San Francisco.",
+        "lat": null,
+        "lng": null
       },
       {
         "id": "san-francisco-fashion-7",
@@ -1930,7 +2326,10 @@
           "author": "Wikipedia",
           "license": "CC BY-SA",
           "source": "https://en.wikipedia.org/wiki/BeGood_Clothing"
-        }
+        },
+        "description": "BeGood Clothing is a retailer of clothing and accessories, selling its products online and its business is focused on socially responsible clothing. The company is based in San Francisco, California. BeGood Clothing has stated that its social responsibility initiatives include the selling clothing and gifts described by the company as sustainable or eco-friendly, and making donations to environmental or humanitarian ",
+        "lat": null,
+        "lng": null
       },
       {
         "id": "san-francisco-fashion-8",
@@ -1946,7 +2345,10 @@
           "author": "Wikipedia",
           "license": "CC BY-SA",
           "source": "https://en.wikipedia.org/wiki/Berner_(rapper)"
-        }
+        },
+        "description": "Gilbert Anthony Milam Jr. (born October 27, 1983), known professionally as Berner, is an American rapper and cannabis entrepreneur. As of 2025, he has released 22 solo albums — beginning with Dirty Sneakers... Plenty Ways to Get It (2007) — and 29 collaborative projects — beginning with Track Money & Pack Money (2007) with fellow California rapper Equipto. He signed with Wiz Khalifa's Taylor Gang Entertainment in Mar",
+        "lat": null,
+        "lng": null
       },
       {
         "id": "san-francisco-fashion-9",
@@ -1962,7 +2364,10 @@
           "author": "Wikipedia",
           "license": "CC BY-SA",
           "source": "https://en.wikipedia.org/wiki/Claudia_Wells"
-        }
+        },
+        "description": "Claudia Wells (born July 5, 1966) is an American actress, best known for playing Jennifer Parker in the 1985 film Back to the Future.",
+        "lat": null,
+        "lng": null
       },
       {
         "id": "san-francisco-fashion-10",
@@ -1973,7 +2378,10 @@
         "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Samuel%20Altshuler%2C%20San%20Francisco",
         "source": "wikipedia",
         "sourceUrl": "https://en.wikipedia.org/wiki/Samuel_Altshuler",
-        "photo": null
+        "photo": null,
+        "description": "Samuel Altshuler (September 16, 1864 – January 13, 1956) was a clothing merchant, mine owner, and industrial developer in the states of Washington and California. He opened and owned clothing stores in Whatcom, Washington (later Bellingham), and his native San Francisco, California, and built several business buildings in both cities. In Whatcom, Altshuler took an active role in development of industrial companies in",
+        "lat": null,
+        "lng": null
       },
       {
         "id": "san-francisco-fashion-11",
@@ -1984,7 +2392,10 @@
         "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Just%20Group%2C%20San%20Francisco",
         "source": "wikipedia",
         "sourceUrl": "https://en.wikipedia.org/wiki/Just_Group",
-        "photo": null
+        "photo": null,
+        "description": "The Just Group, also known as Apparel Brands, is an Australian and New Zealand company, comprising five fashion retail brands: Just Jeans, Jay Jays, Jacqui E, Portmans and Dotti. The group is owned by parent firm Myer.",
+        "lat": null,
+        "lng": null
       },
       {
         "id": "san-francisco-fashion-12",
@@ -1995,7 +2406,10 @@
         "mapsUrl": "https://www.google.com/maps/search/?api=1&query=San%20Francisco%20Centre%2C%20San%20Francisco",
         "source": "wikipedia",
         "sourceUrl": "https://en.wikipedia.org/wiki/San_Francisco_Centre",
-        "photo": null
+        "photo": null,
+        "description": "San Francisco Centre is a defunct enclosed shopping mall located in San Francisco, California, United States. The mall opened in 1988, was significantly expanded in 2006, and closed in 2026. There are two vacant anchors, formerly occupied by Nordstrom and Bloomingdale's. The mall formerly connected directly to the Powell Street station via an underground entrance on the concourse floor.",
+        "lat": 37.78388889,
+        "lng": -122.40722222
       },
       {
         "id": "san-francisco-fashion-13",
@@ -2011,7 +2425,10 @@
           "author": "Wikipedia",
           "license": "CC BY-SA",
           "source": "https://en.wikipedia.org/wiki/Joplin_Downtown_Historic_District"
-        }
+        },
+        "description": "Joplin Downtown Historic District is a national historic district located at Joplin, Jasper County, Missouri. The district encompasses 48 contributing buildings in the central business district of Joplin. It developed between about 1883 and 1958 and includes representative examples of Mission Revival, Art Deco, and Modern Movement style architecture. The district includes the previously listed Fifth and Main Historic",
+        "lat": 37.08666667,
+        "lng": -94.51333333
       },
       {
         "id": "san-francisco-fashion-14",
@@ -2022,7 +2439,10 @@
         "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Clennon%20Washington%20King%20Sr.%2C%20San%20Francisco",
         "source": "wikipedia",
         "sourceUrl": "https://en.wikipedia.org/wiki/Clennon_Washington_King_Sr.",
-        "photo": null
+        "photo": null,
+        "description": "Clennon Washington King Sr. (July 1, 1891 – March 20, 1975) was a political activist, Tuskegee Institute student and chauffeur of Booker T. Washington. On August 18, 1918, in Milledgeville, Georgia, King married Margaret Allegra Slater, with whom he had seven sons, four of whom would earn both national and international recognition. He ran two local grocery stores and was a notable figure in Albany, Georgia. He helpe",
+        "lat": null,
+        "lng": null
       },
       {
         "id": "san-francisco-fashion-15",
@@ -2033,7 +2453,10 @@
         "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Wilkes%20Bashford%2C%20San%20Francisco",
         "source": "wikipedia",
         "sourceUrl": "https://en.wikipedia.org/wiki/Wilkes_Bashford",
-        "photo": null
+        "photo": null,
+        "description": "Wilkes Bashford is a luxury clothing retailer in San Francisco, California, United States. In November 2009, it was acquired by Mitchells Stores.",
+        "lat": null,
+        "lng": null
       },
       {
         "id": "san-francisco-fashion-16",
@@ -2049,7 +2472,10 @@
           "author": "Wikipedia",
           "license": "CC BY-SA",
           "source": "https://en.wikipedia.org/wiki/Terri_Stickles"
-        }
+        },
+        "description": "Terri Lee Stickles (born May 11, 1946) is an American former competition swimmer, Olympic medalist, and former world record-holder. Terri Stickles was born May 11, 1946 in San Mateo, California, to Edward A. Stickles, a West Coast credit manager for a large clothing store, and Olive W. Stickles, a physical education teacher and former coach. By the age of ten, Terri began her competitive training with the San Mateo M",
+        "lat": null,
+        "lng": null
       },
       {
         "id": "san-francisco-fashion-17",
@@ -2065,7 +2491,10 @@
           "author": "Wikipedia",
           "license": "CC BY-SA",
           "source": "https://en.wikipedia.org/wiki/James_A._Johnston"
-        }
+        },
+        "description": "James Aloysius Johnston (September 15, 1874 – September 7, 1954) was an American politician and prison warden who served as the first and longest-serving warden of Alcatraz Federal Penitentiary, serving from 1934 to 1948. He had earlier served as warden of California state prisons at Folsom (1912-1913) and San Quentin (1914-1924).",
+        "lat": null,
+        "lng": null
       },
       {
         "id": "san-francisco-fashion-18",
@@ -2076,7 +2505,10 @@
         "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Newmark%20family%20of%20Southern%20California%2C%20San%20Francisco",
         "source": "wikipedia",
         "sourceUrl": "https://en.wikipedia.org/wiki/Newmark_family_of_Southern_California",
-        "photo": null
+        "photo": null,
+        "description": "The Newmark family of Southern California was a Jewish-American family of West Prussian heritage which engaged in commerce, land ownership and land development in Los Angeles County, California, during the 19th Century. Family members included: Joseph Newmark (1799–1881), who was born in Neumark, West Prussia. He moved to New York in 1823 and there helped found B'nai Jeshurun. He lived in St. Louis, Missouri, from 18",
+        "lat": null,
+        "lng": null
       }
     ],
     "shops": [
@@ -2094,7 +2526,10 @@
           "author": "Wikipedia",
           "license": "CC BY-SA",
           "source": "https://en.wikipedia.org/wiki/V._C._Morris_Gift_Shop"
-        }
+        },
+        "description": "The V. C. Morris Gift Shop is located at 140 Maiden Lane in downtown San Francisco, California, United States, and was designed by Frank Lloyd Wright in 1948. The store was used by Wright as a physical prototype, or proof of concept for the circular ramp at the Solomon R. Guggenheim Museum in New York City. All of the built-in furniture is constructed out of black walnut, is original to the renovation, and was design",
+        "lat": 37.788315,
+        "lng": -122.405889
       },
       {
         "id": "san-francisco-shops-2",
@@ -2110,7 +2545,10 @@
           "author": "Wikipedia",
           "license": "CC BY-SA",
           "source": "https://en.wikipedia.org/wiki/Rockridge_Market_Hall"
-        }
+        },
+        "description": "Rockridge Market Hall is a market hall opened in 1987 in Rockridge, a neighborhood of Oakland, California. It contains nine stores, including a caterer, a specialty foods shop, a flower shop, a wine shop, a produce shop, a coffee roaster, a fish shop, a butcher shop and a bakery. The food hall is across from the Rockridge BART station. The neighborhood is noted for its concentration of upscale retail and food establi",
+        "lat": 37.84378611,
+        "lng": -122.25185
       },
       {
         "id": "san-francisco-shops-3",
@@ -2121,7 +2559,10 @@
         "mapsUrl": "https://www.google.com/maps/search/?api=1&query=KYY%2C%20San%20Francisco",
         "source": "wikipedia",
         "sourceUrl": "https://en.wikipedia.org/wiki/KYY",
-        "photo": null
+        "photo": null,
+        "description": "KYY was a short-lived broadcasting station in San Francisco, California, licensed to The Radio Telephone Shop. It was issued its first license in December 1921, and deleted just over a year later.",
+        "lat": null,
+        "lng": null
       },
       {
         "id": "san-francisco-shops-4",
@@ -2132,7 +2573,10 @@
         "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Petrini's%2C%20San%20Francisco",
         "source": "wikipedia",
         "sourceUrl": "https://en.wikipedia.org/wiki/Petrini's",
-        "photo": null
+        "photo": null,
+        "description": "Petrini's Marketplace was an Italian-American restaurant and grocery chain founded in San Francisco in 1935.",
+        "lat": null,
+        "lng": null
       },
       {
         "id": "san-francisco-shops-5",
@@ -2148,7 +2592,10 @@
           "author": "Wikipedia",
           "license": "CC BY-SA",
           "source": "https://en.wikipedia.org/wiki/Pedro_Joseph_de_Lemos"
-        }
+        },
+        "description": "Pedro Joseph de Lemos (25 May 1882 – 5 December 1954) was an American painter, printmaker, architect, illustrator, writer, lecturer, museum director and art educator in the San Francisco Bay Area. Prior to about 1930 he used the simpler name Pedro Lemos or Pedro J. Lemos; between 1931 and 1933 he changed the family name to de Lemos, believing that he was related to the Count de Lemos (1576–1622), patron of Miguel de ",
+        "lat": null,
+        "lng": null
       },
       {
         "id": "san-francisco-shops-6",
@@ -2164,7 +2611,10 @@
           "author": "Wikipedia",
           "license": "CC BY-SA",
           "source": "https://en.wikipedia.org/wiki/Newsagent's_shop"
-        }
+        },
+        "description": "A newsagent's shop is a small business that sells newspapers, magazines, cigarettes, snacks and often items of local appeal. Newsagents typically operate in busy public places like city streets, railway stations and airports. Racks for newspapers and magazines can also be found within convenience stores, bookstores and supermarkets. The physical establishment can be either freestanding or part of a larger structure (",
+        "lat": null,
+        "lng": null
       },
       {
         "id": "san-francisco-shops-7",
@@ -2180,7 +2630,10 @@
           "author": "Wikipedia",
           "license": "CC BY-SA",
           "source": "https://en.wikipedia.org/wiki/Union_Square%2C_San_Francisco"
-        }
+        },
+        "description": "Union Square is a 2.6-acre (1.1-hectare) public plaza bordered by Geary, Powell, Post, and Stockton Streets in downtown San Francisco, California. \"Union Square\" also refers to the central shopping, hotel, and theater district surrounding the plaza for several blocks. The area got its name because it was once used for Thomas Starr King rallies and support for the Union army during the American Civil War, earning its ",
+        "lat": 37.78805556,
+        "lng": -122.4075
       },
       {
         "id": "san-francisco-shops-8",
@@ -2196,7 +2649,10 @@
           "author": "Wikipedia",
           "license": "CC BY-SA",
           "source": "https://en.wikipedia.org/wiki/KCNS"
-        }
+        },
+        "description": "KCNS (channel 38) is a television station licensed to San Francisco, California, United States, serving the San Francisco Bay Area. Owned by WRNN-TV Associates, the station airs programming from Shop LC. KCNS shares its digital channel with KMTP-TV (channel 32), KTNC-TV (channel 42), and KEMO-TV (channel 50). Their transmitter is located atop Sutro Tower in San Francisco.",
+        "lat": null,
+        "lng": null
       },
       {
         "id": "san-francisco-shops-9",
@@ -2212,7 +2668,10 @@
           "author": "Wikipedia",
           "license": "CC BY-SA",
           "source": "https://en.wikipedia.org/wiki/Randall_Museum"
-        }
+        },
+        "description": "The Randall Museum is a museum in central San Francisco, California, owned and operated by the San Francisco Recreation & Parks Department with the support of the Randall Friends. The museum focuses on science, nature and the arts. On exhibit are live native animals and interactive displays about nature. Other facilities include a theater, a wood shop, and art and ceramics studios. Its permanent location is in Corona",
+        "lat": 37.764387,
+        "lng": -122.43813
       },
       {
         "id": "san-francisco-shops-10",
@@ -2223,7 +2682,10 @@
         "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Broderbund%2C%20San%20Francisco",
         "source": "wikipedia",
         "sourceUrl": "https://en.wikipedia.org/wiki/Broderbund",
-        "photo": null
+        "photo": null,
+        "description": "Broderbund Software, Inc. (formerly stylized as Brøderbund) was an American maker of video games, educational software, and productivity tools. Broderbund is best known for the 8-bit video game hits Choplifter, Lode Runner, Karateka, and Prince of Persia (all of which originated on the Apple II), as well as The Print Shop—originally for printing signs and banners on dot matrix printers—and the Myst and Carmen Sandieg",
+        "lat": null,
+        "lng": null
       },
       {
         "id": "san-francisco-shops-11",
@@ -2239,7 +2701,10 @@
           "author": "Wikipedia",
           "license": "CC BY-SA",
           "source": "https://en.wikipedia.org/wiki/Swan_Oyster_Depot"
-        }
+        },
+        "description": "Swan Oyster Depot is a seafood eatery and cultural landmark located in the Polk Gulch neighborhood of San Francisco, California. It opened there in 1903 and except for a brief hiatus and rebuilding period following the 1906 San Francisco earthquake, it has been running continuously in the same venue since that time. This makes it one of the longest continuous businesses and dining establishments in the United States.",
+        "lat": 37.79094,
+        "lng": -122.42091
       },
       {
         "id": "san-francisco-shops-12",
@@ -2255,7 +2720,10 @@
           "author": "Wikipedia",
           "license": "CC BY-SA",
           "source": "https://en.wikipedia.org/wiki/Good_Vibrations_(sex_shop)"
-        }
+        },
+        "description": "Good Vibrations is a sex-positive San Francisco–based corporation selling sex toys and other erotic products. It operates nine retail stores: seven in the San Francisco Bay Area, one in Brookline, Massachusetts, and one in Harvard Square; a mail-order business; an e-commerce website; a wholesale arm; and an erotic-video production company, Good Releasing. Formerly, it operated three publishing companies: Down There P",
+        "lat": null,
+        "lng": null
       },
       {
         "id": "san-francisco-shops-13",
@@ -2271,7 +2739,10 @@
           "author": "Wikipedia",
           "license": "CC BY-SA",
           "source": "https://en.wikipedia.org/wiki/SFGate"
-        }
+        },
+        "description": "SFGate is a news website based in San Francisco covering news, culture, travel, food, politics and sports in the San Francisco Bay Area, Hawaii, and California.",
+        "lat": null,
+        "lng": null
       },
       {
         "id": "san-francisco-shops-14",
@@ -2282,7 +2753,10 @@
         "mapsUrl": "https://www.google.com/maps/search/?api=1&query=QFI%2C%20San%20Francisco",
         "source": "wikipedia",
         "sourceUrl": "https://en.wikipedia.org/wiki/QFI_(supermarket)",
-        "photo": null
+        "photo": null,
+        "description": "QFI was a San Francisco supermarket chain founded in the late 1940s by John Musso. Originally, some QFI locations were leased, resulting in some stores being co-named with others (such as Lick Super Market). By the 1970s, when Musso's son Leo took over, all QFI stores were wholly owned and operated. QFI peaked as the number three grocery chain in the region, behind Safeway and Lucky, and had about 14 locations rangin",
+        "lat": null,
+        "lng": null
       },
       {
         "id": "san-francisco-shops-15",
@@ -2293,7 +2767,10 @@
         "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Soma%20Fabrications%2C%20San%20Francisco",
         "source": "wikipedia",
         "sourceUrl": "https://en.wikipedia.org/wiki/Soma_Fabrications",
-        "photo": null
+        "photo": null,
+        "description": "SOMA Fabrications is a designer and importer of bicycles, frames, parts and accessories based in the San Francisco Bay Area. It was established in 2001 and owned by bicycle parts wholesaler The Merry Sales Co. The SOMA Fabrications brand came about when Bradley Woehl, owner of American Cyclery bicycle shop asked Jim Porter, President of The Merry Sales Co. if he could uses his sources in Taiwan to produce a line of c",
+        "lat": null,
+        "lng": null
       },
       {
         "id": "san-francisco-shops-16",
@@ -2309,7 +2786,10 @@
           "author": "Wikipedia",
           "license": "CC BY-SA",
           "source": "https://en.wikipedia.org/wiki/Haight-Ashbury"
-        }
+        },
+        "description": "Haight-Ashbury () is a district of San Francisco, California, named for the intersection of Haight and Ashbury streets. It is also called the Haight and the Upper Haight. The neighborhood is known as one of the main centers of the counterculture of the 1960s.",
+        "lat": 37.77,
+        "lng": -122.4469
       },
       {
         "id": "san-francisco-shops-17",
@@ -2320,7 +2800,10 @@
         "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Mollie%20Stone's%20Markets%2C%20San%20Francisco",
         "source": "wikipedia",
         "sourceUrl": "https://en.wikipedia.org/wiki/Mollie_Stone's_Markets",
-        "photo": null
+        "photo": null,
+        "description": "Albeco, Inc., doing business as Mollie Stone's Markets, operates a small chain of nine supermarkets, located in the San Francisco Bay Area. Established in 1986 by Mike Stone and Dave Bennett (now retired), it has stores in the cities of Burlingame, Greenbrae, Palo Alto, San Bruno, Sausalito, and the Castro, Pacific Heights, and Twin Peaks neighborhoods of San Francisco.",
+        "lat": null,
+        "lng": null
       },
       {
         "id": "san-francisco-shops-18",
@@ -2336,7 +2819,10 @@
           "author": "Wikipedia",
           "license": "CC BY-SA",
           "source": "https://en.wikipedia.org/wiki/See's_Candies"
-        }
+        },
+        "description": "See's Candy Shops, Inc., doing business as See's Candies, is an American manufacturer and distributor of candy, particularly chocolates. It was founded by Charles See, his wife Florence, and his mother Mary in Los Angeles in 1921. The company is headquartered in South San Francisco, California. See's kitchens are located at its headquarters and are also maintained at its original factory in Los Angeles, where there a",
+        "lat": null,
+        "lng": null
       }
     ]
   }

@@ -1,13 +1,13 @@
 # Reporte de lugares — THE PLACE
 
-Generado: 2026-11-27T14:25:35.448Z
+Generado: 2026-11-27T14:42:35.381Z
 
 - **Lugares totales:** 6642
 - **Ciudades:** 41
 - **Categorías por ciudad:** 9
 - **Fotos disponibles:** 4444 (67% de los lugares)
-- **Descripciones (Wikipedia):** 3724
-- **Con coordenadas:** 1486
+- **Descripciones (Wikipedia):** 6155
+- **Con coordenadas:** 2295
 - **Archivo de datos:** `places.csv`
 
 ## Qué contiene cada fila
