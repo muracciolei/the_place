@@ -9,6 +9,7 @@
 - Sin clave: **18 lugares reales por categoría y ciudad** (6.642 en total) hardcodeados en JSON, generados desde Wikipedia. Al tocarlos se abre una **ficha interna** con sus fotos y datos; un botón abre Google Maps.
 - Con clave: esa misma ficha busca el lugar en Google Places y muestra sus datos y fotos reales antes del enlace a Google Maps.
 - El tab **Explorar** es un feed de lugares **al azar**, sin orden por ciudad ni categoría, con los mismos lugares de la app y "Cargar más" por lotes.
+- La página de ciudad muestra el nombre arriba (clicable → perfil con la presentación grande) y debajo las categorías y un feed aleatorio de lugares de esa ciudad.
 
 > El repositorio estaba vacío al iniciar. El diagnóstico original está en [ARCHITECTURE.md](ARCHITECTURE.md) y el rediseño al feed vertical en [Refactoring.md](Refactoring.md).
 

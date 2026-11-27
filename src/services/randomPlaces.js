@@ -18,6 +18,14 @@ function shuffle(items) {
  * Carga unas pocas ciudades al azar (ya cacheadas por hardcodedPlaces), mezcla
  * sus lugares y devuelve una muestra. Sin orden por ciudad ni categoría.
  */
+export async function getRandomPlacesForCity(cityId, { count = 30, signal } = {}) {
+  const all = []
+  for (const categoryId of shuffle(CATEGORY_IDS)) {
+    all.push(...await getHardcodedPlaces(cityId, categoryId, signal))
+  }
+  return shuffle(all).slice(0, count)
+}
+
 export async function getRandomPlaces({ count = 45, signal } = {}) {
   const picked = []
   for (const city of shuffle(CITIES)) {

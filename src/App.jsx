@@ -7,6 +7,7 @@ import BottomNav from './components/BottomNav'
 import HomePage from './pages/HomePage'
 import ExplorePage from './pages/ExplorePage'
 import CityPage from './pages/CityPage'
+import CityProfilePage from './pages/CityProfilePage'
 import CategoryPage from './pages/CategoryPage'
 import PlacePage from './pages/PlacePage'
 import FavoritesPage from './pages/FavoritesPage'
@@ -31,6 +32,7 @@ export default function App() {
           <Route path="/" element={<HomePage />} />
           <Route path="/explore" element={<ExplorePage />} />
           <Route path="/city/:cityId" element={<CityPage />} />
+          <Route path="/city/:cityId/profile" element={<CityProfilePage />} />
           <Route path="/city/:cityId/category/:categoryId" element={<CategoryPage />} />
           <Route path="/place/:placeId" element={<PlacePage />} />
           <Route path="/favorites" element={<FavoritesPage />} />

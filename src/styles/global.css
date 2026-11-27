@@ -89,6 +89,13 @@ code { font-family: ui-monospace, Menlo, monospace; font-size: .85em; word-break
 .image-credit { font-size: .55rem; color: #c3d1d6; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
 .image-credit a { color: inherit; }
 
+/* Cabecera compacta de ciudad */
+.city-header { padding: 6px 0 4px; }
+.city-header__title { display: flex; align-items: center; gap: 12px; color: var(--text); text-decoration: none; min-height: 54px; }
+.city-header__flag { font-size: 2rem; }
+.city-header__title strong { display: block; font-size: clamp(1.6rem, 6vw, 2.4rem); letter-spacing: -.03em; }
+.city-header__title small { display: block; color: var(--muted); font-size: .78rem; }
+
 /* Cabecera de ciudad */
 .city-hero { position: relative; height: min(62vh, 520px); min-height: 340px; border-radius: var(--radius); overflow: hidden; border: 1px solid var(--line); display: flex; align-items: flex-end; }
 .city-hero__img { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; }
