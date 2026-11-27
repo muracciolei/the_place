@@ -25,7 +25,6 @@ export default function CityPage() {
       </header>
 
       <section className="section">
-        <h2>{t('city.categories', { city: name })}</h2>
         <div className="vgrid">
           {CATEGORIES.map((category) => (
             <CategoryCard key={category.id} category={category} cityId={city.id} />

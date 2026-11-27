@@ -60,7 +60,7 @@ export default function CityProfilePage() {
       </section>
 
       <Link className="button button--outline button--block" to={`/city/${city.id}`}>
-        {t('city.categories', { city: name })} →
+        {t('city.categoriesShort')} →
       </Link>
 
       <section className="section">

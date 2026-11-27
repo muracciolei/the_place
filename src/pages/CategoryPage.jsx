@@ -74,8 +74,7 @@ export default function CategoryPage() {
   return (
     <div className="page category-page">
       <div className="page__head">
-        <p className="eyebrow">{city.flag} {cityName}</p>
-        <h1>{t('category.places', { category: categoryName, city: cityName })}</h1>
+        <h1>{categoryName}</h1>
         <input
           className="search-input"
           type="search"
