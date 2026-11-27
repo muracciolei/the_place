@@ -1,5 +1,5 @@
 import { useTranslation } from 'react-i18next'
-import { HAS_GOOGLE_KEY } from '../config'
+import { APP_BASE, HAS_GOOGLE_KEY } from '../config'
 import { useFavorites } from '../hooks/useFavorites'
 import { useLocalDataPreference } from '../hooks/useLocalDataPreference'
 import LanguageSwitcher from '../components/LanguageSwitcher'
@@ -39,6 +39,14 @@ export default function SettingsPage() {
         <h2>{t('settings.status')}</h2>
         <p>{HAS_GOOGLE_KEY ? t('settings.statusLive') : t('settings.statusDemo')}</p>
         <p className="muted">{t('settings.storage')}</p>
+      </section>
+
+      <section className="settings-block">
+        <h2>{t('settings.report')}</h2>
+        <div className="settings-report-links">
+          <a href={`${APP_BASE}reports/resumen.md`} target="_blank" rel="noreferrer">resumen.md ↗</a>
+          <a href={`${APP_BASE}reports/places.csv`} target="_blank" rel="noreferrer">places.csv ↗</a>
+        </div>
       </section>
 
       <section className="settings-block">

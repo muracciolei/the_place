@@ -155,6 +155,7 @@ code { font-family: ui-monospace, Menlo, monospace; font-size: .85em; word-break
 .field select { width: 100%; min-height: 46px; border-radius: 10px; border: 1px solid var(--line); background: var(--surface-2); color: var(--text); padding: .6rem .8rem; font: inherit; }
 .install-block { display: flex; flex-direction: column; gap: 8px; align-items: flex-start; }
 .switch-row { display: flex; align-items: center; gap: 10px; min-height: 44px; cursor: pointer; }
+.settings-report-links { display: flex; gap: 16px; flex-wrap: wrap; }
 .switch-row input { width: 20px; height: 20px; accent-color: var(--mint); }
 
 /* Legal y footer */
