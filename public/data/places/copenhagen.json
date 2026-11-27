@@ -1,0 +1,2418 @@
+{
+  "cityId": "copenhagen",
+  "generatedAt": "2026-11-27T09:14:09.836Z",
+  "source": "Wikipedia API + Maps URLs (sin scraping de Google)",
+  "incomplete": [],
+  "categories": {
+    "night_clubs": [
+      {
+        "id": "copenhagen-night_clubs-1",
+        "name": "Jazzhus Montmartre",
+        "cityId": "copenhagen",
+        "categoryId": "night_clubs",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Jazzhus%20Montmartre%2C%20Copenhagen",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Jazzhus_Montmartre",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/Jazzhus_Montmartre.jpg/960px-Jazzhus_Montmartre.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Jazzhus_Montmartre"
+        }
+      },
+      {
+        "id": "copenhagen-night_clubs-2",
+        "name": "Lina Rafn",
+        "cityId": "copenhagen",
+        "categoryId": "night_clubs",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Lina%20Rafn%2C%20Copenhagen",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Lina_Rafn",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/Lina_Rafn_at_Danish_DJ_Awards_anno_2007.jpg/960px-Lina_Rafn_at_Danish_DJ_Awards_anno_2007.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Lina_Rafn"
+        }
+      },
+      {
+        "id": "copenhagen-night_clubs-3",
+        "name": "Sorti de L'enfer",
+        "cityId": "copenhagen",
+        "categoryId": "night_clubs",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Sorti%20de%20L'enfer%2C%20Copenhagen",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Sorti_de_L'enfer",
+        "photo": null
+      },
+      {
+        "id": "copenhagen-night_clubs-4",
+        "name": "Klosteret",
+        "cityId": "copenhagen",
+        "categoryId": "night_clubs",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Klosteret%2C%20Copenhagen",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Klosteret",
+        "photo": null
+      },
+      {
+        "id": "copenhagen-night_clubs-5",
+        "name": "Roadgame",
+        "cityId": "copenhagen",
+        "categoryId": "night_clubs",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Roadgame%2C%20Copenhagen",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Roadgame",
+        "photo": null
+      },
+      {
+        "id": "copenhagen-night_clubs-6",
+        "name": "Baby",
+        "cityId": "copenhagen",
+        "categoryId": "night_clubs",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Baby%2C%20Copenhagen",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Baby_(Thorup_novel)",
+        "photo": null
+      },
+      {
+        "id": "copenhagen-night_clubs-7",
+        "name": "Gay bar",
+        "cityId": "copenhagen",
+        "categoryId": "night_clubs",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Gay%20bar%2C%20Copenhagen",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Gay_bar",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/09/Comptons-Of-Soho.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Gay_bar"
+        }
+      },
+      {
+        "id": "copenhagen-night_clubs-8",
+        "name": "Lake Pavilion, Copenhagen",
+        "cityId": "copenhagen",
+        "categoryId": "night_clubs",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Lake%20Pavilion%2C%20Copenhagen%2C%20Copenhagen",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Lake_Pavilion%2C_Copenhagen",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Soepavillonen_Copenhagen.jpg/960px-Soepavillonen_Copenhagen.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Lake_Pavilion%2C_Copenhagen"
+        }
+      },
+      {
+        "id": "copenhagen-night_clubs-9",
+        "name": "Lärarinna på vift",
+        "cityId": "copenhagen",
+        "categoryId": "night_clubs",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=L%C3%A4rarinna%20p%C3%A5%20vift%2C%20Copenhagen",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/L%C3%A4rarinna_p%C3%A5_vift",
+        "photo": null
+      },
+      {
+        "id": "copenhagen-night_clubs-10",
+        "name": "Princess Selandia",
+        "cityId": "copenhagen",
+        "categoryId": "night_clubs",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Princess%20Selandia%2C%20Copenhagen",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Princess_Selandia",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Princess_Selandia%2C_Barrow_Quay.jpg/960px-Princess_Selandia%2C_Barrow_Quay.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Princess_Selandia"
+        }
+      },
+      {
+        "id": "copenhagen-night_clubs-11",
+        "name": "Forum",
+        "cityId": "copenhagen",
+        "categoryId": "night_clubs",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Forum%2C%20Copenhagen",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Forum",
+        "photo": null
+      },
+      {
+        "id": "copenhagen-night_clubs-12",
+        "name": "Pan Club Copenhagen",
+        "cityId": "copenhagen",
+        "categoryId": "night_clubs",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Pan%20Club%20Copenhagen%2C%20Copenhagen",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Pan_Club_Copenhagen",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Mermaid_Pride_2002_%2847%29_--_Pan_Club.jpg/960px-Mermaid_Pride_2002_%2847%29_--_Pan_Club.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Pan_Club_Copenhagen"
+        }
+      },
+      {
+        "id": "copenhagen-night_clubs-13",
+        "name": "Copenhagen",
+        "cityId": "copenhagen",
+        "categoryId": "night_clubs",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Copenhagen%2C%20Copenhagen",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Copenhagen",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/2018_-_Christiansborg_from_the_Marble_Bridge.jpg/960px-2018_-_Christiansborg_from_the_Marble_Bridge.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Copenhagen"
+        }
+      },
+      {
+        "id": "copenhagen-night_clubs-14",
+        "name": "Bremen Teater",
+        "cityId": "copenhagen",
+        "categoryId": "night_clubs",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Bremen%20Teater%2C%20Copenhagen",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Bremen_Teater_(Copenhagen)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Bremen_Teater_marquee.jpg/960px-Bremen_Teater_marquee.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Bremen_Teater_(Copenhagen)"
+        }
+      },
+      {
+        "id": "copenhagen-night_clubs-15",
+        "name": "2015 Copenhagen shootings",
+        "cityId": "copenhagen",
+        "categoryId": "night_clubs",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=2015%20Copenhagen%20shootings%2C%20Copenhagen",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/2015_Copenhagen_shootings",
+        "photo": null
+      },
+      {
+        "id": "copenhagen-night_clubs-16",
+        "name": "APQ",
+        "cityId": "copenhagen",
+        "categoryId": "night_clubs",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=APQ%2C%20Copenhagen",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/APQ_(album)",
+        "photo": null
+      },
+      {
+        "id": "copenhagen-night_clubs-17",
+        "name": "All Our Own Work",
+        "cityId": "copenhagen",
+        "categoryId": "night_clubs",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=All%20Our%20Own%20Work%2C%20Copenhagen",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/All_Our_Own_Work",
+        "photo": null
+      },
+      {
+        "id": "copenhagen-night_clubs-18",
+        "name": "Art Lives",
+        "cityId": "copenhagen",
+        "categoryId": "night_clubs",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Art%20Lives%2C%20Copenhagen",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Art_Lives",
+        "photo": null
+      }
+    ],
+    "restaurants": [
+      {
+        "id": "copenhagen-restaurants-1",
+        "name": "Sticks'n'Sushi",
+        "cityId": "copenhagen",
+        "categoryId": "restaurants",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Sticks'n'Sushi%2C%20Copenhagen",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Sticks'n'Sushi",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/en/thumb/a/aa/Sticks%27n%27Sushi_logo.svg/960px-Sticks%27n%27Sushi_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Sticks'n'Sushi"
+        }
+      },
+      {
+        "id": "copenhagen-restaurants-2",
+        "name": "Mash",
+        "cityId": "copenhagen",
+        "categoryId": "restaurants",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Mash%2C%20Copenhagen",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Mash_(restaurant_chain)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Skovriderkroen_01.jpg/960px-Skovriderkroen_01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Mash_(restaurant_chain)"
+        }
+      },
+      {
+        "id": "copenhagen-restaurants-3",
+        "name": "Noma",
+        "cityId": "copenhagen",
+        "categoryId": "restaurants",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Noma%2C%20Copenhagen",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Noma_(restaurant)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Noma_entrance.jpg/960px-Noma_entrance.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Noma_(restaurant)"
+        }
+      },
+      {
+        "id": "copenhagen-restaurants-4",
+        "name": "René Redzepi",
+        "cityId": "copenhagen",
+        "categoryId": "restaurants",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Ren%C3%A9%20Redzepi%2C%20Copenhagen",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Ren%C3%A9_Redzepi",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Ren%C3%A9_Redzepi_en_la_cena_de_las_14_estrellas_Michel%C3%ADn_del_restaurante_Zaldiar%C3%A1n.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Ren%C3%A9_Redzepi"
+        }
+      },
+      {
+        "id": "copenhagen-restaurants-5",
+        "name": "Josty",
+        "cityId": "copenhagen",
+        "categoryId": "restaurants",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Josty%2C%20Copenhagen",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Josty",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Josty%2C_Frederiksberg.jpg/960px-Josty%2C_Frederiksberg.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Josty"
+        }
+      },
+      {
+        "id": "copenhagen-restaurants-6",
+        "name": "Nyhavn",
+        "cityId": "copenhagen",
+        "categoryId": "restaurants",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Nyhavn%2C%20Copenhagen",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Nyhavn",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/The_Nyhavn_Canal_3.jpg/960px-The_Nyhavn_Canal_3.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Nyhavn"
+        }
+      },
+      {
+        "id": "copenhagen-restaurants-7",
+        "name": "Parken Stadium",
+        "cityId": "copenhagen",
+        "categoryId": "restaurants",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Parken%20Stadium%2C%20Copenhagen",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Parken_Stadium",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Denmark_copenhagen_parken_stadium.jpg/960px-Denmark_copenhagen_parken_stadium.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Parken_Stadium"
+        }
+      },
+      {
+        "id": "copenhagen-restaurants-8",
+        "name": "Moltke Mansion",
+        "cityId": "copenhagen",
+        "categoryId": "restaurants",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Moltke%20Mansion%2C%20Copenhagen",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Moltke_Mansion",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/Moltkes_Pal%C3%A6_02.jpg/960px-Moltkes_Pal%C3%A6_02.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Moltke_Mansion"
+        }
+      },
+      {
+        "id": "copenhagen-restaurants-9",
+        "name": "Forum Copenhagen",
+        "cityId": "copenhagen",
+        "categoryId": "restaurants",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Forum%20Copenhagen%2C%20Copenhagen",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Forum_Copenhagen",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Forum_Copenhagen.jpg/960px-Forum_Copenhagen.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Forum_Copenhagen"
+        }
+      },
+      {
+        "id": "copenhagen-restaurants-10",
+        "name": "Enghave Plads station",
+        "cityId": "copenhagen",
+        "categoryId": "restaurants",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Enghave%20Plads%20station%2C%20Copenhagen",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Enghave_Plads_station",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/EnghavePlA.jpg/960px-EnghavePlA.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Enghave_Plads_station"
+        }
+      },
+      {
+        "id": "copenhagen-restaurants-11",
+        "name": "Ole & Steen",
+        "cityId": "copenhagen",
+        "categoryId": "restaurants",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Ole%20%26%20Steen%2C%20Copenhagen",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Ole_%26_Steen",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Lagkagehuset_02.jpg/960px-Lagkagehuset_02.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Ole_%26_Steen"
+        }
+      },
+      {
+        "id": "copenhagen-restaurants-12",
+        "name": "Geranium",
+        "cityId": "copenhagen",
+        "categoryId": "restaurants",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Geranium%2C%20Copenhagen",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Geranium_(restaurant)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Per_Henrik_Lings_All%C3%A9_03.JPG/960px-Per_Henrik_Lings_All%C3%A9_03.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Geranium_(restaurant)"
+        }
+      },
+      {
+        "id": "copenhagen-restaurants-13",
+        "name": "Søllerød Kro",
+        "cityId": "copenhagen",
+        "categoryId": "restaurants",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=S%C3%B8ller%C3%B8d%20Kro%2C%20Copenhagen",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/S%C3%B8ller%C3%B8d_Kro",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/S%C3%B8ller%C3%B8d_Kro_02.jpg/960px-S%C3%B8ller%C3%B8d_Kro_02.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/S%C3%B8ller%C3%B8d_Kro"
+        }
+      },
+      {
+        "id": "copenhagen-restaurants-14",
+        "name": "Furesø Municipality",
+        "cityId": "copenhagen",
+        "categoryId": "restaurants",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Fures%C3%B8%20Municipality%2C%20Copenhagen",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Fures%C3%B8_Municipality",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/37/Kajs-museum-2004.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Fures%C3%B8_Municipality"
+        }
+      },
+      {
+        "id": "copenhagen-restaurants-15",
+        "name": "Lottenborg",
+        "cityId": "copenhagen",
+        "categoryId": "restaurants",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Lottenborg%2C%20Copenhagen",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Lottenborg",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/Lottenborg_02.jpg/960px-Lottenborg_02.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Lottenborg"
+        }
+      },
+      {
+        "id": "copenhagen-restaurants-16",
+        "name": "Dyrlægens natmad",
+        "cityId": "copenhagen",
+        "categoryId": "restaurants",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Dyrl%C3%A6gens%20natmad%2C%20Copenhagen",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Dyrl%C3%A6gens_natmad",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Ida_Davidsen_-_Dyrl%C3%A6gens_Natmad.jpg/960px-Ida_Davidsen_-_Dyrl%C3%A6gens_Natmad.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Dyrl%C3%A6gens_natmad"
+        }
+      },
+      {
+        "id": "copenhagen-restaurants-17",
+        "name": "Copenhagen",
+        "cityId": "copenhagen",
+        "categoryId": "restaurants",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Copenhagen%2C%20Copenhagen",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Copenhagen",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/2018_-_Christiansborg_from_the_Marble_Bridge.jpg/960px-2018_-_Christiansborg_from_the_Marble_Bridge.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Copenhagen"
+        }
+      },
+      {
+        "id": "copenhagen-restaurants-18",
+        "name": "Kong Hans Kælder",
+        "cityId": "copenhagen",
+        "categoryId": "restaurants",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Kong%20Hans%20K%C3%A6lder%2C%20Copenhagen",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Kong_Hans_K%C3%A6lder",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/Kong_Hans_K%C3%A6lder_IMG_2611_%2823693053072%29.jpg/960px-Kong_Hans_K%C3%A6lder_IMG_2611_%2823693053072%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Kong_Hans_K%C3%A6lder"
+        }
+      }
+    ],
+    "bars": [
+      {
+        "id": "copenhagen-bars-1",
+        "name": "Mikkeller",
+        "cityId": "copenhagen",
+        "categoryId": "bars",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Mikkeller%2C%20Copenhagen",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Mikkeller",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Mikkeller_Copenhagen.jpg/960px-Mikkeller_Copenhagen.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Mikkeller"
+        }
+      },
+      {
+        "id": "copenhagen-bars-2",
+        "name": "1996 IAAF World Road Relay Championships",
+        "cityId": "copenhagen",
+        "categoryId": "bars",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=1996%20IAAF%20World%20Road%20Relay%20Championships%2C%20Copenhagen",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/1996_IAAF_World_Road_Relay_Championships",
+        "photo": null
+      },
+      {
+        "id": "copenhagen-bars-3",
+        "name": "Kødbyen",
+        "cityId": "copenhagen",
+        "categoryId": "bars",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=K%C3%B8dbyen%2C%20Copenhagen",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/K%C3%B8dbyen",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/%C3%98ksnehallen_hovedindgang.jpg/960px-%C3%98ksnehallen_hovedindgang.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/K%C3%B8dbyen"
+        }
+      },
+      {
+        "id": "copenhagen-bars-4",
+        "name": "Battle of Copenhagen",
+        "cityId": "copenhagen",
+        "categoryId": "bars",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Battle%20of%20Copenhagen%2C%20Copenhagen",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Battle_of_Copenhagen_(1807)",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Copenhagen_on_fire_1807_by_CW_Eckersberg.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Battle_of_Copenhagen_(1807)"
+        }
+      },
+      {
+        "id": "copenhagen-bars-5",
+        "name": "Ivan Ivankov",
+        "cityId": "copenhagen",
+        "categoryId": "bars",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Ivan%20Ivankov%2C%20Copenhagen",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Ivan_Ivankov",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Ivan_ivankov_-_pommel_horse_-_2000.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Ivan_Ivankov"
+        }
+      },
+      {
+        "id": "copenhagen-bars-6",
+        "name": "Westend, Copenhagen",
+        "cityId": "copenhagen",
+        "categoryId": "bars",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Westend%2C%20Copenhagen%2C%20Copenhagen",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Westend%2C_Copenhagen",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/Westend%2C_Copenhagen_01.JPG/960px-Westend%2C_Copenhagen_01.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Westend%2C_Copenhagen"
+        }
+      },
+      {
+        "id": "copenhagen-bars-7",
+        "name": "Jeppe Hein",
+        "cityId": "copenhagen",
+        "categoryId": "bars",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Jeppe%20Hein%2C%20Copenhagen",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Jeppe_Hein",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Appearing_Rooms%2C_South_Bank_1.jpg/960px-Appearing_Rooms%2C_South_Bank_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Jeppe_Hein"
+        }
+      },
+      {
+        "id": "copenhagen-bars-8",
+        "name": "Natalia Shaposhnikova",
+        "cityId": "copenhagen",
+        "categoryId": "bars",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Natalia%20Shaposhnikova%2C%20Copenhagen",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Natalia_Shaposhnikova",
+        "photo": null
+      },
+      {
+        "id": "copenhagen-bars-9",
+        "name": "Copenhagen",
+        "cityId": "copenhagen",
+        "categoryId": "bars",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Copenhagen%2C%20Copenhagen",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Copenhagen",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/2018_-_Christiansborg_from_the_Marble_Bridge.jpg/960px-2018_-_Christiansborg_from_the_Marble_Bridge.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Copenhagen"
+        }
+      },
+      {
+        "id": "copenhagen-bars-10",
+        "name": "Karriere Bar",
+        "cityId": "copenhagen",
+        "categoryId": "bars",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Karriere%20Bar%2C%20Copenhagen",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Karriere_Bar",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Eliasson_-_National_Career_Lamp.jpg/960px-Eliasson_-_National_Career_Lamp.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Karriere_Bar"
+        }
+      },
+      {
+        "id": "copenhagen-bars-11",
+        "name": "Lesbian Movement",
+        "cityId": "copenhagen",
+        "categoryId": "bars",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Lesbian%20Movement%2C%20Copenhagen",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Lesbian_Movement_(Denmark)",
+        "photo": null
+      },
+      {
+        "id": "copenhagen-bars-12",
+        "name": "Gay bar",
+        "cityId": "copenhagen",
+        "categoryId": "bars",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Gay%20bar%2C%20Copenhagen",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Gay_bar",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/09/Comptons-Of-Soho.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Gay_bar"
+        }
+      },
+      {
+        "id": "copenhagen-bars-13",
+        "name": "Falkoner Center",
+        "cityId": "copenhagen",
+        "categoryId": "bars",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Falkoner%20Center%2C%20Copenhagen",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Falkoner_Center",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Falkoner_Centret.jpg/960px-Falkoner_Centret.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Falkoner_Center"
+        }
+      },
+      {
+        "id": "copenhagen-bars-14",
+        "name": "Frederick VI of Denmark",
+        "cityId": "copenhagen",
+        "categoryId": "bars",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Frederick%20VI%20of%20Denmark%2C%20Copenhagen",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Frederick_VI_of_Denmark",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/Fiedrichvidenmark.jpg/960px-Fiedrichvidenmark.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Frederick_VI_of_Denmark"
+        }
+      },
+      {
+        "id": "copenhagen-bars-15",
+        "name": "Bremen Teater",
+        "cityId": "copenhagen",
+        "categoryId": "bars",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Bremen%20Teater%2C%20Copenhagen",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Bremen_Teater_(Copenhagen)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Bremen_Teater_marquee.jpg/960px-Bremen_Teater_marquee.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Bremen_Teater_(Copenhagen)"
+        }
+      },
+      {
+        "id": "copenhagen-bars-16",
+        "name": "Caroline Brasch Nielsen",
+        "cityId": "copenhagen",
+        "categoryId": "bars",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Caroline%20Brasch%20Nielsen%2C%20Copenhagen",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Caroline_Brasch_Nielsen",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Caroline_Brasch_Nielsen%2C_2014_%28cropped%29.jpg/960px-Caroline_Brasch_Nielsen%2C_2014_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Caroline_Brasch_Nielsen"
+        }
+      },
+      {
+        "id": "copenhagen-bars-17",
+        "name": "Steinfass House",
+        "cityId": "copenhagen",
+        "categoryId": "bars",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Steinfass%20House%2C%20Copenhagen",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Steinfass_House",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/Christianshavn_-_Steinfass_G%C3%A5rd.JPG/960px-Christianshavn_-_Steinfass_G%C3%A5rd.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Steinfass_House"
+        }
+      },
+      {
+        "id": "copenhagen-bars-18",
+        "name": "Copenhagen Business School",
+        "cityId": "copenhagen",
+        "categoryId": "bars",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Copenhagen%20Business%20School%2C%20Copenhagen",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Copenhagen_Business_School",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_CopenhagenBusinessSchool.svg/960px-Logo_CopenhagenBusinessSchool.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Copenhagen_Business_School"
+        }
+      }
+    ],
+    "coffee_shops": [
+      {
+        "id": "copenhagen-coffee_shops-1",
+        "name": "Jazzhus Montmartre",
+        "cityId": "copenhagen",
+        "categoryId": "coffee_shops",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Jazzhus%20Montmartre%2C%20Copenhagen",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Jazzhus_Montmartre",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/Jazzhus_Montmartre.jpg/960px-Jazzhus_Montmartre.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Jazzhus_Montmartre"
+        }
+      },
+      {
+        "id": "copenhagen-coffee_shops-2",
+        "name": "Josty",
+        "cityId": "copenhagen",
+        "categoryId": "coffee_shops",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Josty%2C%20Copenhagen",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Josty",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Josty%2C_Frederiksberg.jpg/960px-Josty%2C_Frederiksberg.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Josty"
+        }
+      },
+      {
+        "id": "copenhagen-coffee_shops-3",
+        "name": "Lorry, Frederiksberg",
+        "cityId": "copenhagen",
+        "categoryId": "coffee_shops",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Lorry%2C%20Frederiksberg%2C%20Copenhagen",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Lorry%2C_Frederiksberg",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/Lorry_studier.jpg/960px-Lorry_studier.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Lorry%2C_Frederiksberg"
+        }
+      },
+      {
+        "id": "copenhagen-coffee_shops-4",
+        "name": "Krudttønden",
+        "cityId": "copenhagen",
+        "categoryId": "coffee_shops",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Krudtt%C3%B8nden%2C%20Copenhagen",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Krudtt%C3%B8nden",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Krudtt%C3%B8nden_01.JPG/960px-Krudtt%C3%B8nden_01.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Krudtt%C3%B8nden"
+        }
+      },
+      {
+        "id": "copenhagen-coffee_shops-5",
+        "name": "4th Bodil Awards",
+        "cityId": "copenhagen",
+        "categoryId": "coffee_shops",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=4th%20Bodil%20Awards%2C%20Copenhagen",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/4th_Bodil_Awards",
+        "photo": null
+      },
+      {
+        "id": "copenhagen-coffee_shops-6",
+        "name": "Fælledparken",
+        "cityId": "copenhagen",
+        "categoryId": "coffee_shops",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=F%C3%A6lledparken%2C%20Copenhagen",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/F%C3%A6lledparken",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/F%C3%A6lledparken_og_Parken_stadion_aerial.jpg/960px-F%C3%A6lledparken_og_Parken_stadion_aerial.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/F%C3%A6lledparken"
+        }
+      },
+      {
+        "id": "copenhagen-coffee_shops-7",
+        "name": "Sort/Hvid",
+        "cityId": "copenhagen",
+        "categoryId": "coffee_shops",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Sort%2FHvid%2C%20Copenhagen",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Sort%2FHvid",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Caf%C3%A9_Teatret.JPG/960px-Caf%C3%A9_Teatret.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Sort%2FHvid"
+        }
+      },
+      {
+        "id": "copenhagen-coffee_shops-8",
+        "name": "Sankt Hans Torv",
+        "cityId": "copenhagen",
+        "categoryId": "coffee_shops",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Sankt%20Hans%20Torv%2C%20Copenhagen",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Sankt_Hans_Torv",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/Sankt_Hans_Torv_%28Copenhagen%29_01.jpg/960px-Sankt_Hans_Torv_%28Copenhagen%29_01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Sankt_Hans_Torv"
+        }
+      },
+      {
+        "id": "copenhagen-coffee_shops-9",
+        "name": "7th Bodil Awards",
+        "cityId": "copenhagen",
+        "categoryId": "coffee_shops",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=7th%20Bodil%20Awards%2C%20Copenhagen",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/7th_Bodil_Awards",
+        "photo": null
+      },
+      {
+        "id": "copenhagen-coffee_shops-10",
+        "name": "Sorte Hest",
+        "cityId": "copenhagen",
+        "categoryId": "coffee_shops",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Sorte%20Hest%2C%20Copenhagen",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Sorte_Hest",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Sorte_Hest_-_Vesterbrogade_wing_01.jpg/960px-Sorte_Hest_-_Vesterbrogade_wing_01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Sorte_Hest"
+        }
+      },
+      {
+        "id": "copenhagen-coffee_shops-11",
+        "name": "Amerika Plads",
+        "cityId": "copenhagen",
+        "categoryId": "coffee_shops",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Amerika%20Plads%2C%20Copenhagen",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Amerika_Plads",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Amerika_Plads_-_Frihavnsstationen.jpg/960px-Amerika_Plads_-_Frihavnsstationen.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Amerika_Plads"
+        }
+      },
+      {
+        "id": "copenhagen-coffee_shops-12",
+        "name": "Royal Danish Playhouse",
+        "cityId": "copenhagen",
+        "categoryId": "coffee_shops",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Royal%20Danish%20Playhouse%2C%20Copenhagen",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Royal_Danish_Playhouse",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Royal_Danish_Playhouse_Copenhagen.jpg/960px-Royal_Danish_Playhouse_Copenhagen.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Royal_Danish_Playhouse"
+        }
+      },
+      {
+        "id": "copenhagen-coffee_shops-13",
+        "name": "Freetown Christiania",
+        "cityId": "copenhagen",
+        "categoryId": "coffee_shops",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Freetown%20Christiania%2C%20Copenhagen",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Freetown_Christiania",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Freetown_Christiania_-_main_entrance.jpg/960px-Freetown_Christiania_-_main_entrance.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Freetown_Christiania"
+        }
+      },
+      {
+        "id": "copenhagen-coffee_shops-14",
+        "name": "Nefertiti, the Beautiful One Has Come",
+        "cityId": "copenhagen",
+        "categoryId": "coffee_shops",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Nefertiti%2C%20the%20Beautiful%20One%20Has%20Come%2C%20Copenhagen",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Nefertiti%2C_the_Beautiful_One_Has_Come",
+        "photo": null
+      },
+      {
+        "id": "copenhagen-coffee_shops-15",
+        "name": "Nordre Frihavnsgade",
+        "cityId": "copenhagen",
+        "categoryId": "coffee_shops",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Nordre%20Frihavnsgade%2C%20Copenhagen",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Nordre_Frihavnsgade",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Nordre_Frihavnsgade_04.JPG/960px-Nordre_Frihavnsgade_04.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Nordre_Frihavnsgade"
+        }
+      },
+      {
+        "id": "copenhagen-coffee_shops-16",
+        "name": "Strædet",
+        "cityId": "copenhagen",
+        "categoryId": "coffee_shops",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Str%C3%A6det%2C%20Copenhagen",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Str%C3%A6det",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/L%C3%A6derstr%C3%A6de_%28Copenhagen%29.jpg/960px-L%C3%A6derstr%C3%A6de_%28Copenhagen%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Str%C3%A6det"
+        }
+      },
+      {
+        "id": "copenhagen-coffee_shops-17",
+        "name": "Hercules Pavilion",
+        "cityId": "copenhagen",
+        "categoryId": "coffee_shops",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Hercules%20Pavilion%2C%20Copenhagen",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Hercules_Pavilion",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Herkulespavillonen_-_The_Hercules_Pavilion_%281773%29_-_Rosenborg_Castle_Gardens_-_Copenhagen_%2851130199859%29.jpg/960px-Herkulespavillonen_-_The_Hercules_Pavilion_%281773%29_-_Rosenborg_Castle_Gardens_-_Copenhagen_%2851130199859%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Hercules_Pavilion"
+        }
+      },
+      {
+        "id": "copenhagen-coffee_shops-18",
+        "name": "Ørstedsparken",
+        "cityId": "copenhagen",
+        "categoryId": "coffee_shops",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=%C3%98rstedsparken%2C%20Copenhagen",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/%C3%98rstedsparken",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/%C3%98rstedparken_-_lake.jpg/960px-%C3%98rstedparken_-_lake.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/%C3%98rstedsparken"
+        }
+      }
+    ],
+    "bookshops": [
+      {
+        "id": "copenhagen-bookshops-1",
+        "name": "Arnold Busck",
+        "cityId": "copenhagen",
+        "categoryId": "bookshops",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Arnold%20Busck%2C%20Copenhagen",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Arnold_Busck_(bookstore)",
+        "photo": null
+      },
+      {
+        "id": "copenhagen-bookshops-2",
+        "name": "Søren Gyldendal",
+        "cityId": "copenhagen",
+        "categoryId": "bookshops",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=S%C3%B8ren%20Gyldendal%2C%20Copenhagen",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/S%C3%B8ren_Gyldendal",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/29/Gyldendal_by_Pauelsen.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/S%C3%B8ren_Gyldendal"
+        }
+      },
+      {
+        "id": "copenhagen-bookshops-3",
+        "name": "Sigfús Eymundsson",
+        "cityId": "copenhagen",
+        "categoryId": "bookshops",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Sigf%C3%BAs%20Eymundsson%2C%20Copenhagen",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Sigf%C3%BAs_Eymundsson",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Sigfus_eymundsson.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Sigf%C3%BAs_Eymundsson"
+        }
+      },
+      {
+        "id": "copenhagen-bookshops-4",
+        "name": "Fotografisk Center",
+        "cityId": "copenhagen",
+        "categoryId": "bookshops",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Fotografisk%20Center%2C%20Copenhagen",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Fotografisk_Center",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Tap_E_temporary_space.jpg/960px-Tap_E_temporary_space.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Fotografisk_Center"
+        }
+      },
+      {
+        "id": "copenhagen-bookshops-5",
+        "name": "1802 in Denmark",
+        "cityId": "copenhagen",
+        "categoryId": "bookshops",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=1802%20in%20Denmark%2C%20Copenhagen",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/1802_in_Denmark",
+        "photo": null
+      },
+      {
+        "id": "copenhagen-bookshops-6",
+        "name": "Johan Fjeldsted Dahl",
+        "cityId": "copenhagen",
+        "categoryId": "bookshops",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Johan%20Fjeldsted%20Dahl%2C%20Copenhagen",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Johan_Fjeldsted_Dahl",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/be/En_Christianiensers_Erindringer_fra_1850-_og_60-Aarene_-_no-nb_digibok_2006082800057-370_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Johan_Fjeldsted_Dahl"
+        }
+      },
+      {
+        "id": "copenhagen-bookshops-7",
+        "name": "Copenhagen Business School",
+        "cityId": "copenhagen",
+        "categoryId": "bookshops",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Copenhagen%20Business%20School%2C%20Copenhagen",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Copenhagen_Business_School",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_CopenhagenBusinessSchool.svg/960px-Logo_CopenhagenBusinessSchool.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Copenhagen_Business_School"
+        }
+      },
+      {
+        "id": "copenhagen-bookshops-8",
+        "name": "1742 in Denmark",
+        "cityId": "copenhagen",
+        "categoryId": "bookshops",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=1742%20in%20Denmark%2C%20Copenhagen",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/1742_in_Denmark",
+        "photo": null
+      },
+      {
+        "id": "copenhagen-bookshops-9",
+        "name": "Magnus Feilberg",
+        "cityId": "copenhagen",
+        "categoryId": "bookshops",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Magnus%20Feilberg%2C%20Copenhagen",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Magnus_Feilberg",
+        "photo": null
+      },
+      {
+        "id": "copenhagen-bookshops-10",
+        "name": "Frederik Hegel",
+        "cityId": "copenhagen",
+        "categoryId": "bookshops",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Frederik%20Hegel%2C%20Copenhagen",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Frederik_Hegel",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/53/Frederik_Vilhelm_Hegel_1876_by_Hansen%2C_Schou_%26_Weller.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Frederik_Hegel"
+        }
+      },
+      {
+        "id": "copenhagen-bookshops-11",
+        "name": "Book signing",
+        "cityId": "copenhagen",
+        "categoryId": "bookshops",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Book%20signing%2C%20Copenhagen",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Book_signing",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/J%C3%B8rgen_Skouboe%2C_Bogforum_2025.jpg/960px-J%C3%B8rgen_Skouboe%2C_Bogforum_2025.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Book_signing"
+        }
+      },
+      {
+        "id": "copenhagen-bookshops-12",
+        "name": "Lesbian Movement",
+        "cityId": "copenhagen",
+        "categoryId": "bookshops",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Lesbian%20Movement%2C%20Copenhagen",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Lesbian_Movement_(Denmark)",
+        "photo": null
+      },
+      {
+        "id": "copenhagen-bookshops-13",
+        "name": "Royal Danish Naval Academy",
+        "cityId": "copenhagen",
+        "categoryId": "bookshops",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Royal%20Danish%20Naval%20Academy%2C%20Copenhagen",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Royal_Danish_Naval_Academy",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/Royal_Danish_Naval_Academy.jpg/960px-Royal_Danish_Naval_Academy.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Royal_Danish_Naval_Academy"
+        }
+      },
+      {
+        "id": "copenhagen-bookshops-14",
+        "name": "Papegøien",
+        "cityId": "copenhagen",
+        "categoryId": "bookshops",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Papeg%C3%B8ien%2C%20Copenhagen",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Papeg%C3%B8ien",
+        "photo": null
+      },
+      {
+        "id": "copenhagen-bookshops-15",
+        "name": "Nicolai Howalt",
+        "cityId": "copenhagen",
+        "categoryId": "bookshops",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Nicolai%20Howalt%2C%20Copenhagen",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Nicolai_Howalt",
+        "photo": null
+      },
+      {
+        "id": "copenhagen-bookshops-16",
+        "name": "WHSmith",
+        "cityId": "copenhagen",
+        "categoryId": "bookshops",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=WHSmith%2C%20Copenhagen",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/WHSmith",
+        "photo": null
+      },
+      {
+        "id": "copenhagen-bookshops-17",
+        "name": "Høng Bog og Papirhandel",
+        "cityId": "copenhagen",
+        "categoryId": "bookshops",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=H%C3%B8ng%20Bog%20og%20Papirhandel%2C%20Copenhagen",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/H%C3%B8ng_Bog_og_Papirhandel",
+        "photo": null
+      },
+      {
+        "id": "copenhagen-bookshops-18",
+        "name": "Moritz Unna",
+        "cityId": "copenhagen",
+        "categoryId": "bookshops",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Moritz%20Unna%2C%20Copenhagen",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Moritz_Unna",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Schou-Unna.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Moritz_Unna"
+        }
+      }
+    ],
+    "museums": [
+      {
+        "id": "copenhagen-museums-1",
+        "name": "Ny Carlsberg Glyptotek",
+        "cityId": "copenhagen",
+        "categoryId": "museums",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Ny%20Carlsberg%20Glyptotek%2C%20Copenhagen",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Ny_Carlsberg_Glyptotek",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Ny_Carlsberg_Glyptotek_winter_garden_1.jpg/960px-Ny_Carlsberg_Glyptotek_winter_garden_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Ny_Carlsberg_Glyptotek"
+        }
+      },
+      {
+        "id": "copenhagen-museums-2",
+        "name": "Copenhagen",
+        "cityId": "copenhagen",
+        "categoryId": "museums",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Copenhagen%2C%20Copenhagen",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Copenhagen",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/2018_-_Christiansborg_from_the_Marble_Bridge.jpg/960px-2018_-_Christiansborg_from_the_Marble_Bridge.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Copenhagen"
+        }
+      },
+      {
+        "id": "copenhagen-museums-3",
+        "name": "Museum of Copenhagen",
+        "cityId": "copenhagen",
+        "categoryId": "museums",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Museum%20of%20Copenhagen%2C%20Copenhagen",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Museum_of_Copenhagen",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Overformynderiet_%28Vester_Voldgade%29.jpg/960px-Overformynderiet_%28Vester_Voldgade%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Museum_of_Copenhagen"
+        }
+      },
+      {
+        "id": "copenhagen-museums-4",
+        "name": "National Gallery of Denmark",
+        "cityId": "copenhagen",
+        "categoryId": "museums",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=National%20Gallery%20of%20Denmark%2C%20Copenhagen",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/National_Gallery_of_Denmark",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Statens_Museum_for_Kunst%2C_K%C3%B8benhavn.jpg/960px-Statens_Museum_for_Kunst%2C_K%C3%B8benhavn.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/National_Gallery_of_Denmark"
+        }
+      },
+      {
+        "id": "copenhagen-museums-5",
+        "name": "University of Copenhagen Geological Museum",
+        "cityId": "copenhagen",
+        "categoryId": "museums",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=University%20of%20Copenhagen%20Geological%20Museum%2C%20Copenhagen",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/University_of_Copenhagen_Geological_Museum",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Geologisk_Museum_2.jpg/960px-Geologisk_Museum_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/University_of_Copenhagen_Geological_Museum"
+        }
+      },
+      {
+        "id": "copenhagen-museums-6",
+        "name": "National Museum of Denmark",
+        "cityId": "copenhagen",
+        "categoryId": "museums",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=National%20Museum%20of%20Denmark%2C%20Copenhagen",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/National_Museum_of_Denmark",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Nationalmuseet_logo.svg/960px-Nationalmuseet_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/National_Museum_of_Denmark"
+        }
+      },
+      {
+        "id": "copenhagen-museums-7",
+        "name": "Rosenborg Castle",
+        "cityId": "copenhagen",
+        "categoryId": "museums",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Rosenborg%20Castle%2C%20Copenhagen",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Rosenborg_Castle",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/I12_174_Schloss_Rosenborg.jpg/960px-I12_174_Schloss_Rosenborg.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Rosenborg_Castle"
+        }
+      },
+      {
+        "id": "copenhagen-museums-8",
+        "name": "Designmuseum Denmark",
+        "cityId": "copenhagen",
+        "categoryId": "museums",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Designmuseum%20Denmark%2C%20Copenhagen",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Designmuseum_Denmark",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Designmuseum_Danmark.jpg/960px-Designmuseum_Danmark.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Designmuseum_Denmark"
+        }
+      },
+      {
+        "id": "copenhagen-museums-9",
+        "name": "Medical Museion",
+        "cityId": "copenhagen",
+        "categoryId": "museums",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Medical%20Museion%2C%20Copenhagen",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Medical_Museion_(Copenhagen)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Medicinsk_Museion.jpg/960px-Medicinsk_Museion.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Medical_Museion_(Copenhagen)"
+        }
+      },
+      {
+        "id": "copenhagen-museums-10",
+        "name": "University of Copenhagen Zoological Museum",
+        "cityId": "copenhagen",
+        "categoryId": "museums",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=University%20of%20Copenhagen%20Zoological%20Museum%2C%20Copenhagen",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/University_of_Copenhagen_Zoological_Museum",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/University_of_Copenhagen_Zoological_Museum.jpg/960px-University_of_Copenhagen_Zoological_Museum.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/University_of_Copenhagen_Zoological_Museum"
+        }
+      },
+      {
+        "id": "copenhagen-museums-11",
+        "name": "Bakkehuset",
+        "cityId": "copenhagen",
+        "categoryId": "museums",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Bakkehuset%2C%20Copenhagen",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Bakkehuset",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Bakkehuset_1.JPG/960px-Bakkehuset_1.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Bakkehuset"
+        }
+      },
+      {
+        "id": "copenhagen-museums-12",
+        "name": "Kastrupgård",
+        "cityId": "copenhagen",
+        "categoryId": "museums",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Kastrupg%C3%A5rd%2C%20Copenhagen",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Kastrupg%C3%A5rd",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Kastrupg%C3%A5rdsamlingen_fra_parken_2016.jpg/960px-Kastrupg%C3%A5rdsamlingen_fra_parken_2016.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Kastrupg%C3%A5rd"
+        }
+      },
+      {
+        "id": "copenhagen-museums-13",
+        "name": "Copenhagen Amber Museum",
+        "cityId": "copenhagen",
+        "categoryId": "museums",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Copenhagen%20Amber%20Museum%2C%20Copenhagen",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Copenhagen_Amber_Museum",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/Copenhagen_Amber_Museum.jpg/960px-Copenhagen_Amber_Museum.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Copenhagen_Amber_Museum"
+        }
+      },
+      {
+        "id": "copenhagen-museums-14",
+        "name": "North Atlantic House",
+        "cityId": "copenhagen",
+        "categoryId": "museums",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=North%20Atlantic%20House%2C%20Copenhagen",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/North_Atlantic_House",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/North_Atlantic_House%2C_Copenhagen_2017-08-16.jpg/960px-North_Atlantic_House%2C_Copenhagen_2017-08-16.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/North_Atlantic_House"
+        }
+      },
+      {
+        "id": "copenhagen-museums-15",
+        "name": "University of Copenhagen",
+        "cityId": "copenhagen",
+        "categoryId": "museums",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=University%20of%20Copenhagen%2C%20Copenhagen",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/University_of_Copenhagen",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Ku-ucph-logo-svg.svg/960px-Ku-ucph-logo-svg.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/University_of_Copenhagen"
+        }
+      },
+      {
+        "id": "copenhagen-museums-16",
+        "name": "Øregård Museum",
+        "cityId": "copenhagen",
+        "categoryId": "museums",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=%C3%98reg%C3%A5rd%20Museum%2C%20Copenhagen",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/%C3%98reg%C3%A5rd_Museum",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Oregaard-2012-10-07.JPG/960px-Oregaard-2012-10-07.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/%C3%98reg%C3%A5rd_Museum"
+        }
+      },
+      {
+        "id": "copenhagen-museums-17",
+        "name": "Prince's Mansion",
+        "cityId": "copenhagen",
+        "categoryId": "museums",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Prince's%20Mansion%2C%20Copenhagen",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Prince's_Mansion",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Frederiksholms_Kanal_-_Prinsens_Pal%C3%A6.jpg/960px-Frederiksholms_Kanal_-_Prinsens_Pal%C3%A6.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Prince's_Mansion"
+        }
+      },
+      {
+        "id": "copenhagen-museums-18",
+        "name": "Tycho Brahe Planetarium",
+        "cityId": "copenhagen",
+        "categoryId": "museums",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Tycho%20Brahe%20Planetarium%2C%20Copenhagen",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Tycho_Brahe_Planetarium",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/S%C3%B8erne_5.jpg/960px-S%C3%B8erne_5.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Tycho_Brahe_Planetarium"
+        }
+      }
+    ],
+    "concerts": [
+      {
+        "id": "copenhagen-concerts-1",
+        "name": "Koncerthuset",
+        "cityId": "copenhagen",
+        "categoryId": "concerts",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Koncerthuset%2C%20Copenhagen",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Koncerthuset",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/K%C3%B8benhavn_-_DR_Koncerthuset_%2830964385486%29.jpg/960px-K%C3%B8benhavn_-_DR_Koncerthuset_%2830964385486%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Koncerthuset"
+        }
+      },
+      {
+        "id": "copenhagen-concerts-2",
+        "name": "Tivoli Concert Hall",
+        "cityId": "copenhagen",
+        "categoryId": "concerts",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Tivoli%20Concert%20Hall%2C%20Copenhagen",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Tivoli_Concert_Hall",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Tivoli_Concert_Hall-2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Tivoli_Concert_Hall"
+        }
+      },
+      {
+        "id": "copenhagen-concerts-3",
+        "name": "Tivoli Gardens",
+        "cityId": "copenhagen",
+        "categoryId": "concerts",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Tivoli%20Gardens%2C%20Copenhagen",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Tivoli_Gardens",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Tivoli_Gardens_4.jpg/960px-Tivoli_Gardens_4.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Tivoli_Gardens"
+        }
+      },
+      {
+        "id": "copenhagen-concerts-4",
+        "name": "Mogens Dahl Concert Hall",
+        "cityId": "copenhagen",
+        "categoryId": "concerts",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Mogens%20Dahl%20Concert%20Hall%2C%20Copenhagen",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Mogens_Dahl_Concert_Hall",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Mogens_Dahl_Concert_Hall.jpg/960px-Mogens_Dahl_Concert_Hall.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Mogens_Dahl_Concert_Hall"
+        }
+      },
+      {
+        "id": "copenhagen-concerts-5",
+        "name": "Radiohuset",
+        "cityId": "copenhagen",
+        "categoryId": "concerts",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Radiohuset%2C%20Copenhagen",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Radiohuset",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Radiohuset_Frederiksberg.jpg/960px-Radiohuset_Frederiksberg.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Radiohuset"
+        }
+      },
+      {
+        "id": "copenhagen-concerts-6",
+        "name": "Copenhagen Philharmonic",
+        "cityId": "copenhagen",
+        "categoryId": "concerts",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Copenhagen%20Philharmonic%2C%20Copenhagen",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Copenhagen_Philharmonic",
+        "photo": null
+      },
+      {
+        "id": "copenhagen-concerts-7",
+        "name": "Henning Larsen Architects",
+        "cityId": "copenhagen",
+        "categoryId": "concerts",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Henning%20Larsen%20Architects%2C%20Copenhagen",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Henning_Larsen_Architects",
+        "photo": null
+      },
+      {
+        "id": "copenhagen-concerts-8",
+        "name": "Danish National Symphony Orchestra",
+        "cityId": "copenhagen",
+        "categoryId": "concerts",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Danish%20National%20Symphony%20Orchestra%2C%20Copenhagen",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Danish_National_Symphony_Orchestra",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Main_Auditorium%2C_Copenhagen_Concert_Hall.jpg/960px-Main_Auditorium%2C_Copenhagen_Concert_Hall.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Danish_National_Symphony_Orchestra"
+        }
+      },
+      {
+        "id": "copenhagen-concerts-9",
+        "name": "Aarhus Pride",
+        "cityId": "copenhagen",
+        "categoryId": "concerts",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Aarhus%20Pride%2C%20Copenhagen",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Aarhus_Pride",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Aarhus_Pride%2C_2012%2C_start_of_day.jpg/960px-Aarhus_Pride%2C_2012%2C_start_of_day.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Aarhus_Pride"
+        }
+      },
+      {
+        "id": "copenhagen-concerts-10",
+        "name": "Royal Danish Academy of Music",
+        "cityId": "copenhagen",
+        "categoryId": "concerts",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Royal%20Danish%20Academy%20of%20Music%2C%20Copenhagen",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Royal_Danish_Academy_of_Music",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Radiohuset.jpg/960px-Radiohuset.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Royal_Danish_Academy_of_Music"
+        }
+      },
+      {
+        "id": "copenhagen-concerts-11",
+        "name": "Forum Copenhagen",
+        "cityId": "copenhagen",
+        "categoryId": "concerts",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Forum%20Copenhagen%2C%20Copenhagen",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Forum_Copenhagen",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Forum_Copenhagen.jpg/960px-Forum_Copenhagen.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Forum_Copenhagen"
+        }
+      },
+      {
+        "id": "copenhagen-concerts-12",
+        "name": "3XN",
+        "cityId": "copenhagen",
+        "categoryId": "concerts",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=3XN%2C%20Copenhagen",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/3XN",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/Quay_Quarter_Tower%2C_Governor_Phillip_Tower%2C_Sydney%2C_2023%2C_03.jpg/960px-Quay_Quarter_Tower%2C_Governor_Phillip_Tower%2C_Sydney%2C_2023%2C_03.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/3XN"
+        }
+      },
+      {
+        "id": "copenhagen-concerts-13",
+        "name": "DR Byen",
+        "cityId": "copenhagen",
+        "categoryId": "concerts",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=DR%20Byen%2C%20Copenhagen",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/DR_Byen",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/0f/DR_Byen_-_Segment_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/DR_Byen"
+        }
+      },
+      {
+        "id": "copenhagen-concerts-14",
+        "name": "Odd Fellows Mansion, Copenhagen",
+        "cityId": "copenhagen",
+        "categoryId": "concerts",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Odd%20Fellows%20Mansion%2C%20Copenhagen%2C%20Copenhagen",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Odd_Fellows_Mansion%2C_Copenhagen",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/K%C3%B8benhavn_Odd_Fellow.jpg/960px-K%C3%B8benhavn_Odd_Fellow.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Odd_Fellows_Mansion%2C_Copenhagen"
+        }
+      },
+      {
+        "id": "copenhagen-concerts-15",
+        "name": "Julien De Smedt",
+        "cityId": "copenhagen",
+        "categoryId": "concerts",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Julien%20De%20Smedt%2C%20Copenhagen",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Julien_De_Smedt",
+        "photo": null
+      },
+      {
+        "id": "copenhagen-concerts-16",
+        "name": "Yasuhisa Toyota",
+        "cityId": "copenhagen",
+        "categoryId": "concerts",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Yasuhisa%20Toyota%2C%20Copenhagen",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Yasuhisa_Toyota",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/20130118_Bing_from_the_choral_Terrace_phil_King.jpg/960px-20130118_Bing_from_the_choral_Terrace_phil_King.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Yasuhisa_Toyota"
+        }
+      },
+      {
+        "id": "copenhagen-concerts-17",
+        "name": "Refshaleøen, Copenhagen",
+        "cityId": "copenhagen",
+        "categoryId": "concerts",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Refshale%C3%B8en%2C%20Copenhagen%2C%20Copenhagen",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Refshale%C3%B8en%2C_Copenhagen",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Refshaleoen_Copenhagen_20130420_002_%289664289959%29.jpg/960px-Refshaleoen_Copenhagen_20130420_002_%289664289959%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Refshale%C3%B8en%2C_Copenhagen"
+        }
+      },
+      {
+        "id": "copenhagen-concerts-18",
+        "name": "Lyngby-Taarbæk Symfoniorkester",
+        "cityId": "copenhagen",
+        "categoryId": "concerts",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Lyngby-Taarb%C3%A6k%20Symfoniorkester%2C%20Copenhagen",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Lyngby-Taarb%C3%A6k_Symfoniorkester",
+        "photo": null
+      }
+    ],
+    "fashion": [
+      {
+        "id": "copenhagen-fashion-1",
+        "name": "Kultorvet",
+        "cityId": "copenhagen",
+        "categoryId": "fashion",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Kultorvet%2C%20Copenhagen",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Kultorvet",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/Kultorvet_Copenhagen.jpg/960px-Kultorvet_Copenhagen.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Kultorvet"
+        }
+      },
+      {
+        "id": "copenhagen-fashion-2",
+        "name": "1947 in Sweden",
+        "cityId": "copenhagen",
+        "categoryId": "fashion",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=1947%20in%20Sweden%2C%20Copenhagen",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/1947_in_Sweden",
+        "photo": null
+      },
+      {
+        "id": "copenhagen-fashion-3",
+        "name": "Tobias Sorensen",
+        "cityId": "copenhagen",
+        "categoryId": "fashion",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Tobias%20Sorensen%2C%20Copenhagen",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Tobias_Sorensen",
+        "photo": null
+      },
+      {
+        "id": "copenhagen-fashion-4",
+        "name": "Enigheden",
+        "cityId": "copenhagen",
+        "categoryId": "fashion",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Enigheden%2C%20Copenhagen",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Enigheden",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Mejeriet_Enigheden.jpg/960px-Mejeriet_Enigheden.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Enigheden"
+        }
+      },
+      {
+        "id": "copenhagen-fashion-5",
+        "name": "Herman Sachnowitz",
+        "cityId": "copenhagen",
+        "categoryId": "fashion",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Herman%20Sachnowitz%2C%20Copenhagen",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Herman_Sachnowitz",
+        "photo": null
+      },
+      {
+        "id": "copenhagen-fashion-6",
+        "name": "Claus Norreen",
+        "cityId": "copenhagen",
+        "categoryId": "fashion",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Claus%20Norreen%2C%20Copenhagen",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Claus_Norreen",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Claus_Noreen.jpg/960px-Claus_Noreen.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Claus_Norreen"
+        }
+      },
+      {
+        "id": "copenhagen-fashion-7",
+        "name": "Jacob Heinrich Moresco",
+        "cityId": "copenhagen",
+        "categoryId": "fashion",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Jacob%20Heinrich%20Moresco%2C%20Copenhagen",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Jacob_Heinrich_Moresco",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Jacob_Heinrich_Moresco.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Jacob_Heinrich_Moresco"
+        }
+      },
+      {
+        "id": "copenhagen-fashion-8",
+        "name": "Grethe Fenger Møller",
+        "cityId": "copenhagen",
+        "categoryId": "fashion",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Grethe%20Fenger%20M%C3%B8ller%2C%20Copenhagen",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Grethe_Fenger_M%C3%B8ller",
+        "photo": null
+      },
+      {
+        "id": "copenhagen-fashion-9",
+        "name": "Frisch House",
+        "cityId": "copenhagen",
+        "categoryId": "fashion",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Frisch%20House%2C%20Copenhagen",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Frisch_House",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Nytorv_5_%28Copenhagen%29_01.jpg/960px-Nytorv_5_%28Copenhagen%29_01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Frisch_House"
+        }
+      },
+      {
+        "id": "copenhagen-fashion-10",
+        "name": "Barbara í Gongini",
+        "cityId": "copenhagen",
+        "categoryId": "fashion",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Barbara%20%C3%AD%20Gongini%2C%20Copenhagen",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Barbara_%C3%AD_Gongini",
+        "photo": null
+      },
+      {
+        "id": "copenhagen-fashion-11",
+        "name": "Boozt",
+        "cityId": "copenhagen",
+        "categoryId": "fashion",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Boozt%2C%20Copenhagen",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Boozt",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/The_Crystal_-_Boozt_HQ_-_Summer_2026_-_Photo_by_Bart_Dabrowski_for_Boozt.jpg/960px-The_Crystal_-_Boozt_HQ_-_Summer_2026_-_Photo_by_Bart_Dabrowski_for_Boozt.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Boozt"
+        }
+      },
+      {
+        "id": "copenhagen-fashion-12",
+        "name": "Mathilda Gvarliani",
+        "cityId": "copenhagen",
+        "categoryId": "fashion",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Mathilda%20Gvarliani%2C%20Copenhagen",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Mathilda_Gvarliani",
+        "photo": null
+      },
+      {
+        "id": "copenhagen-fashion-13",
+        "name": "Lily Collins",
+        "cityId": "copenhagen",
+        "categoryId": "fashion",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Lily%20Collins%2C%20Copenhagen",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Lily_Collins",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Lily_Collins_May_2019.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Lily_Collins"
+        }
+      },
+      {
+        "id": "copenhagen-fashion-14",
+        "name": "Trondheim",
+        "cityId": "copenhagen",
+        "categoryId": "fashion",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Trondheim%2C%20Copenhagen",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Trondheim",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/Trondheim_overview_01.jpg/960px-Trondheim_overview_01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Trondheim"
+        }
+      },
+      {
+        "id": "copenhagen-fashion-15",
+        "name": "Kaizers Orchestra",
+        "cityId": "copenhagen",
+        "categoryId": "fashion",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Kaizers%20Orchestra%2C%20Copenhagen",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Kaizers_Orchestra",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Kaizers_Orchestra_live_at_Odder%C3%B8ya_Live_2012.jpg/960px-Kaizers_Orchestra_live_at_Odder%C3%B8ya_Live_2012.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Kaizers_Orchestra"
+        }
+      },
+      {
+        "id": "copenhagen-fashion-16",
+        "name": "Palestinian keffiyeh",
+        "cityId": "copenhagen",
+        "categoryId": "fashion",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Palestinian%20keffiyeh%2C%20Copenhagen",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Palestinian_keffiyeh",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Kuffieyeh_%28cropped%29.PNG/960px-Kuffieyeh_%28cropped%29.PNG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Palestinian_keffiyeh"
+        }
+      },
+      {
+        "id": "copenhagen-fashion-17",
+        "name": "Agnes",
+        "cityId": "copenhagen",
+        "categoryId": "fashion",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Agnes%2C%20Copenhagen",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Agnes_(singer)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Agnes_Carlsson_2012-06-27_001.jpg/960px-Agnes_Carlsson_2012-06-27_001.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Agnes_(singer)"
+        }
+      },
+      {
+        "id": "copenhagen-fashion-18",
+        "name": "Matador",
+        "cityId": "copenhagen",
+        "categoryId": "fashion",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Matador%2C%20Copenhagen",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Matador_(Danish_TV_series)",
+        "photo": null
+      }
+    ],
+    "shops": [
+      {
+        "id": "copenhagen-shops-1",
+        "name": "Flying Tiger Copenhagen",
+        "cityId": "copenhagen",
+        "categoryId": "shops",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Flying%20Tiger%20Copenhagen%2C%20Copenhagen",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Flying_Tiger_Copenhagen",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Flying_Tiger_Copenhagen.jpg/960px-Flying_Tiger_Copenhagen.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Flying_Tiger_Copenhagen"
+        }
+      },
+      {
+        "id": "copenhagen-shops-2",
+        "name": "Valby-Hallen",
+        "cityId": "copenhagen",
+        "categoryId": "shops",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Valby-Hallen%2C%20Copenhagen",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Valby-Hallen",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/DK_Valby-Hallen_1.JPG/960px-DK_Valby-Hallen_1.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Valby-Hallen"
+        }
+      },
+      {
+        "id": "copenhagen-shops-3",
+        "name": "Furesø Municipality",
+        "cityId": "copenhagen",
+        "categoryId": "shops",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Fures%C3%B8%20Municipality%2C%20Copenhagen",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Fures%C3%B8_Municipality",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/37/Kajs-museum-2004.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Fures%C3%B8_Municipality"
+        }
+      },
+      {
+        "id": "copenhagen-shops-4",
+        "name": "Pandora",
+        "cityId": "copenhagen",
+        "categoryId": "shops",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Pandora%2C%20Copenhagen",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Pandora_(jewelry)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/Pandora_corporate_headquarters_in_Copenhagen.jpg/960px-Pandora_corporate_headquarters_in_Copenhagen.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Pandora_(jewelry)"
+        }
+      },
+      {
+        "id": "copenhagen-shops-5",
+        "name": "A.C. Perch's Thehandel",
+        "cityId": "copenhagen",
+        "categoryId": "shops",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=A.C.%20Perch's%20Thehandel%2C%20Copenhagen",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/A.C._Perch's_Thehandel",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Perchs_Thehandel_Copenhagen.jpg/960px-Perchs_Thehandel_Copenhagen.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/A.C._Perch's_Thehandel"
+        }
+      },
+      {
+        "id": "copenhagen-shops-6",
+        "name": "Finn Juhl",
+        "cityId": "copenhagen",
+        "categoryId": "shops",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Finn%20Juhl%2C%20Copenhagen",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Finn_Juhl",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Finn_Juhl.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Finn_Juhl"
+        }
+      },
+      {
+        "id": "copenhagen-shops-7",
+        "name": "Gads Forlag",
+        "cityId": "copenhagen",
+        "categoryId": "shops",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Gads%20Forlag%2C%20Copenhagen",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Gads_Forlag",
+        "photo": null
+      },
+      {
+        "id": "copenhagen-shops-8",
+        "name": "12 Tónar",
+        "cityId": "copenhagen",
+        "categoryId": "shops",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=12%20T%C3%B3nar%2C%20Copenhagen",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/12_T%C3%B3nar",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/12_T%C3%B3nar_Records_logo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/12_T%C3%B3nar"
+        }
+      },
+      {
+        "id": "copenhagen-shops-9",
+        "name": "Mikkeller",
+        "cityId": "copenhagen",
+        "categoryId": "shops",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Mikkeller%2C%20Copenhagen",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Mikkeller",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Mikkeller_Copenhagen.jpg/960px-Mikkeller_Copenhagen.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Mikkeller"
+        }
+      },
+      {
+        "id": "copenhagen-shops-10",
+        "name": "Nyhavn",
+        "cityId": "copenhagen",
+        "categoryId": "shops",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Nyhavn%2C%20Copenhagen",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Nyhavn",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/The_Nyhavn_Canal_3.jpg/960px-The_Nyhavn_Canal_3.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Nyhavn"
+        }
+      },
+      {
+        "id": "copenhagen-shops-11",
+        "name": "1819 in Denmark",
+        "cityId": "copenhagen",
+        "categoryId": "shops",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=1819%20in%20Denmark%2C%20Copenhagen",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/1819_in_Denmark",
+        "photo": null
+      },
+      {
+        "id": "copenhagen-shops-12",
+        "name": "Nordhavn railway station",
+        "cityId": "copenhagen",
+        "categoryId": "shops",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Nordhavn%20railway%20station%2C%20Copenhagen",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Nordhavn_railway_station",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/Nordhavn_Station_05.JPG/960px-Nordhavn_Station_05.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Nordhavn_railway_station"
+        }
+      },
+      {
+        "id": "copenhagen-shops-13",
+        "name": "Magasin du Nord",
+        "cityId": "copenhagen",
+        "categoryId": "shops",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Magasin%20du%20Nord%2C%20Copenhagen",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Magasin_du_Nord",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Magasin_du_Nord%2C_2019_%2801%29.jpg/960px-Magasin_du_Nord%2C_2019_%2801%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Magasin_du_Nord"
+        }
+      },
+      {
+        "id": "copenhagen-shops-14",
+        "name": "Aage Leidersdorff",
+        "cityId": "copenhagen",
+        "categoryId": "shops",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Aage%20Leidersdorff%2C%20Copenhagen",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Aage_Leidersdorff",
+        "photo": null
+      },
+      {
+        "id": "copenhagen-shops-15",
+        "name": "Meyer Herman Bing",
+        "cityId": "copenhagen",
+        "categoryId": "shops",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Meyer%20Herman%20Bing%2C%20Copenhagen",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Meyer_Herman_Bing",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Meyer_Herman_Bing.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Meyer_Herman_Bing"
+        }
+      },
+      {
+        "id": "copenhagen-shops-16",
+        "name": "Parken Stadium",
+        "cityId": "copenhagen",
+        "categoryId": "shops",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Parken%20Stadium%2C%20Copenhagen",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Parken_Stadium",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Denmark_copenhagen_parken_stadium.jpg/960px-Denmark_copenhagen_parken_stadium.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Parken_Stadium"
+        }
+      },
+      {
+        "id": "copenhagen-shops-17",
+        "name": "Roskilde Museum",
+        "cityId": "copenhagen",
+        "categoryId": "shops",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Roskilde%20Museum%2C%20Copenhagen",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Roskilde_Museum",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Sukkerhuset%2C_Liebes_G%C3%A5rd.JPG/960px-Sukkerhuset%2C_Liebes_G%C3%A5rd.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Roskilde_Museum"
+        }
+      },
+      {
+        "id": "copenhagen-shops-18",
+        "name": "1914 in Denmark",
+        "cityId": "copenhagen",
+        "categoryId": "shops",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=1914%20in%20Denmark%2C%20Copenhagen",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/1914_in_Denmark",
+        "photo": null
+      }
+    ]
+  }
+}

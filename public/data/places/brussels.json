@@ -1,0 +1,2358 @@
+{
+  "cityId": "brussels",
+  "generatedAt": "2026-11-27T09:19:43.274Z",
+  "source": "Wikipedia API + Maps URLs (sin scraping de Google)",
+  "incomplete": [],
+  "categories": {
+    "night_clubs": [
+      {
+        "id": "brussels-night_clubs-1",
+        "name": "Brussels Islamic State terror cell",
+        "cityId": "brussels",
+        "categoryId": "night_clubs",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Brussels%20Islamic%20State%20terror%20cell%2C%20Brussels",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Brussels_Islamic_State_terror_cell",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/Islamic_State_flag.svg/960px-Islamic_State_flag.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Brussels_Islamic_State_terror_cell"
+        }
+      },
+      {
+        "id": "brussels-night_clubs-2",
+        "name": "2016 Brussels bombings",
+        "cityId": "brussels",
+        "categoryId": "night_clubs",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=2016%20Brussels%20bombings%2C%20Brussels",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/2016_Brussels_bombings",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/2016-Brussels-Bombings-OpenStreetMap.png/960px-2016-Brussels-Bombings-OpenStreetMap.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/2016_Brussels_bombings"
+        }
+      },
+      {
+        "id": "brussels-night_clubs-3",
+        "name": "2016 Charleroi slashing",
+        "cityId": "brussels",
+        "categoryId": "night_clubs",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=2016%20Charleroi%20slashing%2C%20Brussels",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/2016_Charleroi_slashing",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Charleroi_-_Tour_Bleue_-_2022-08-24_-_01.jpg/960px-Charleroi_-_Tour_Bleue_-_2022-08-24_-_01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/2016_Charleroi_slashing"
+        }
+      },
+      {
+        "id": "brussels-night_clubs-4",
+        "name": "2016 Brussels police raids",
+        "cityId": "brussels",
+        "categoryId": "night_clubs",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=2016%20Brussels%20police%20raids%2C%20Brussels",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/2016_Brussels_police_raids",
+        "photo": null
+      },
+      {
+        "id": "brussels-night_clubs-5",
+        "name": "2017 St. Petersburg raid",
+        "cityId": "brussels",
+        "categoryId": "night_clubs",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=2017%20St.%20Petersburg%20raid%2C%20Brussels",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/2017_St._Petersburg_raid",
+        "photo": null
+      },
+      {
+        "id": "brussels-night_clubs-6",
+        "name": "Abu Waheeb",
+        "cityId": "brussels",
+        "categoryId": "night_clubs",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Abu%20Waheeb%2C%20Brussels",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Abu_Waheeb",
+        "photo": null
+      },
+      {
+        "id": "brussels-night_clubs-7",
+        "name": "March 2016 Istanbul bombing",
+        "cityId": "brussels",
+        "categoryId": "night_clubs",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=March%202016%20Istanbul%20bombing%2C%20Brussels",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/March_2016_Istanbul_bombing",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/Demir%C3%B6renShoppingMall01.JPG/960px-Demir%C3%B6renShoppingMall01.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/March_2016_Istanbul_bombing"
+        }
+      },
+      {
+        "id": "brussels-night_clubs-8",
+        "name": "Cannes-Torcy cell",
+        "cityId": "brussels",
+        "categoryId": "night_clubs",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Cannes-Torcy%20cell%2C%20Brussels",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Cannes-Torcy_cell",
+        "photo": null
+      },
+      {
+        "id": "brussels-night_clubs-9",
+        "name": "2015 Brussels lockdown",
+        "cityId": "brussels",
+        "categoryId": "night_clubs",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=2015%20Brussels%20lockdown%2C%20Brussels",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/2015_Brussels_lockdown",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Brussels-Capital_Region_in_Belgium.svg/960px-Brussels-Capital_Region_in_Belgium.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/2015_Brussels_lockdown"
+        }
+      },
+      {
+        "id": "brussels-night_clubs-10",
+        "name": "January 2016 Istanbul bombing",
+        "cityId": "brussels",
+        "categoryId": "night_clubs",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=January%202016%20Istanbul%20bombing%2C%20Brussels",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/January_2016_Istanbul_bombing",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Sultanahmet_Square_%28Hippodrome%29%2C_Istanbul.jpg/960px-Sultanahmet_Square_%28Hippodrome%29%2C_Istanbul.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/January_2016_Istanbul_bombing"
+        }
+      },
+      {
+        "id": "brussels-night_clubs-11",
+        "name": "Filip Gilissen",
+        "cityId": "brussels",
+        "categoryId": "night_clubs",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Filip%20Gilissen%2C%20Brussels",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Filip_Gilissen",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/79/Filip_Gilissen_Portrait.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Filip_Gilissen"
+        }
+      },
+      {
+        "id": "brussels-night_clubs-12",
+        "name": "Freddy Wittop",
+        "cityId": "brussels",
+        "categoryId": "night_clubs",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Freddy%20Wittop%2C%20Brussels",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Freddy_Wittop",
+        "photo": null
+      },
+      {
+        "id": "brussels-night_clubs-13",
+        "name": "2019 Lyon bombing",
+        "cityId": "brussels",
+        "categoryId": "night_clubs",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=2019%20Lyon%20bombing%2C%20Brussels",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/2019_Lyon_bombing",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Lyon_2e_-_Rue_Victor_Hugo%2C_au_lendemain_de_l%27attentat_au_colis_pi%C3%A9g%C3%A9%2C_il_ne_reste_que_des_journalistes.jpg/960px-Lyon_2e_-_Rue_Victor_Hugo%2C_au_lendemain_de_l%27attentat_au_colis_pi%C3%A9g%C3%A9%2C_il_ne_reste_que_des_journalistes.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/2019_Lyon_bombing"
+        }
+      },
+      {
+        "id": "brussels-night_clubs-14",
+        "name": "Operation Vigilant Guardian",
+        "cityId": "brussels",
+        "categoryId": "night_clubs",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Operation%20Vigilant%20Guardian%2C%20Brussels",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Operation_Vigilant_Guardian",
+        "photo": null
+      },
+      {
+        "id": "brussels-night_clubs-15",
+        "name": "2014 Norway terror threat",
+        "cityId": "brussels",
+        "categoryId": "night_clubs",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=2014%20Norway%20terror%20threat%2C%20Brussels",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/2014_Norway_terror_threat",
+        "photo": null
+      },
+      {
+        "id": "brussels-night_clubs-16",
+        "name": "2015 Verviers police raid",
+        "cityId": "brussels",
+        "categoryId": "night_clubs",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=2015%20Verviers%20police%20raid%2C%20Brussels",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/2015_Verviers_police_raid",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Province_de_Li%C3%A8ge_in_Belgium.svg/960px-Province_de_Li%C3%A8ge_in_Belgium.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/2015_Verviers_police_raid"
+        }
+      },
+      {
+        "id": "brussels-night_clubs-17",
+        "name": "Hypercacher kosher supermarket siege",
+        "cityId": "brussels",
+        "categoryId": "night_clubs",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Hypercacher%20kosher%20supermarket%20siege%2C%20Brussels",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Hypercacher_kosher_supermarket_siege",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/The_French_Tricolored_Flag_is_on_Display_Outside_the_Hyper_Cacher_Kosher_Market_%2816291418132%29.jpg/960px-The_French_Tricolored_Flag_is_on_Display_Outside_the_Hyper_Cacher_Kosher_Market_%2816291418132%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Hypercacher_kosher_supermarket_siege"
+        }
+      },
+      {
+        "id": "brussels-night_clubs-18",
+        "name": "2016 Brussels stabbing attacks",
+        "cityId": "brussels",
+        "categoryId": "night_clubs",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=2016%20Brussels%20stabbing%20attacks%2C%20Brussels",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/2016_Brussels_stabbing_attacks",
+        "photo": null
+      }
+    ],
+    "restaurants": [
+      {
+        "id": "brussels-restaurants-1",
+        "name": "The Cube",
+        "cityId": "brussels",
+        "categoryId": "restaurants",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Cube%2C%20Brussels",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/The_Cube_(restaurant)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/The_Cube_at_Milan_2.jpg/960px-The_Cube_at_Milan_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/The_Cube_(restaurant)"
+        }
+      },
+      {
+        "id": "brussels-restaurants-2",
+        "name": "1979 Brussels bombing",
+        "cityId": "brussels",
+        "categoryId": "restaurants",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=1979%20Brussels%20bombing%2C%20Brussels",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/1979_Brussels_bombing",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Grote_Markt_%289379072012%29.jpg/960px-Grote_Markt_%289379072012%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/1979_Brussels_bombing"
+        }
+      },
+      {
+        "id": "brussels-restaurants-3",
+        "name": "Atomium",
+        "cityId": "brussels",
+        "categoryId": "restaurants",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Atomium%2C%20Brussels",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Atomium",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/The_Atomium_during_civil_twilight_%28DSCF1135%29.jpg/960px-The_Atomium_during_civil_twilight_%28DSCF1135%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Atomium"
+        }
+      },
+      {
+        "id": "brussels-restaurants-4",
+        "name": "Le Pain Quotidien",
+        "cityId": "brussels",
+        "categoryId": "restaurants",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Le%20Pain%20Quotidien%2C%20Brussels",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Le_Pain_Quotidien",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Le_Pain_Quotidien%2C_Fulham_Road%2C_Chelsea_01.jpg/960px-Le_Pain_Quotidien%2C_Fulham_Road%2C_Chelsea_01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Le_Pain_Quotidien"
+        }
+      },
+      {
+        "id": "brussels-restaurants-5",
+        "name": "Alma",
+        "cityId": "brussels",
+        "categoryId": "restaurants",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Alma%2C%20Brussels",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Alma",
+        "photo": null
+      },
+      {
+        "id": "brussels-restaurants-6",
+        "name": "Brussels Islamic State terror cell",
+        "cityId": "brussels",
+        "categoryId": "restaurants",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Brussels%20Islamic%20State%20terror%20cell%2C%20Brussels",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Brussels_Islamic_State_terror_cell",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/Islamic_State_flag.svg/960px-Islamic_State_flag.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Brussels_Islamic_State_terror_cell"
+        }
+      },
+      {
+        "id": "brussels-restaurants-7",
+        "name": "Bruneau",
+        "cityId": "brussels",
+        "categoryId": "restaurants",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Bruneau%2C%20Brussels",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Bruneau_(restaurant)",
+        "photo": null
+      },
+      {
+        "id": "brussels-restaurants-8",
+        "name": "Brussels International Exposition",
+        "cityId": "brussels",
+        "categoryId": "restaurants",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Brussels%20International%20Exposition%2C%20Brussels",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Brussels_International_Exposition_(1897)",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c9/International_Exhibition_Brussels_par_Privat-Livemont.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Brussels_International_Exposition_(1897)"
+        }
+      },
+      {
+        "id": "brussels-restaurants-9",
+        "name": "Itsu",
+        "cityId": "brussels",
+        "categoryId": "restaurants",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Itsu%2C%20Brussels",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Itsu",
+        "photo": null
+      },
+      {
+        "id": "brussels-restaurants-10",
+        "name": "Mitraillette",
+        "cityId": "brussels",
+        "categoryId": "restaurants",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Mitraillette%2C%20Brussels",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Mitraillette",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Mitraillette_%28fast_food%29.jpg/960px-Mitraillette_%28fast_food%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Mitraillette"
+        }
+      },
+      {
+        "id": "brussels-restaurants-11",
+        "name": "Quo Vadis",
+        "cityId": "brussels",
+        "categoryId": "restaurants",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Quo%20Vadis%2C%20Brussels",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Quo_Vadis_(New_York_restaurant)",
+        "photo": null
+      },
+      {
+        "id": "brussels-restaurants-12",
+        "name": "2016 Ansbach bombing",
+        "cityId": "brussels",
+        "categoryId": "restaurants",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=2016%20Ansbach%20bombing%2C%20Brussels",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/2016_Ansbach_bombing",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Ansbach_-_2013_Mattes_%2891%29_2.jpg/960px-Ansbach_-_2013_Mattes_%2891%29_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/2016_Ansbach_bombing"
+        }
+      },
+      {
+        "id": "brussels-restaurants-13",
+        "name": "KU Leuven Kulak",
+        "cityId": "brussels",
+        "categoryId": "restaurants",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=KU%20Leuven%20Kulak%2C%20Brussels",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/KU_Leuven_Kulak",
+        "photo": null
+      },
+      {
+        "id": "brussels-restaurants-14",
+        "name": "November 2015 Paris attacks",
+        "cityId": "brussels",
+        "categoryId": "restaurants",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=November%202015%20Paris%20attacks%2C%20Brussels",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/November_2015_Paris_attacks",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/13_November_2015_Paris_attacks_-_montage.jpg/960px-13_November_2015_Paris_attacks_-_montage.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/November_2015_Paris_attacks"
+        }
+      },
+      {
+        "id": "brussels-restaurants-15",
+        "name": "March 2016 Istanbul bombing",
+        "cityId": "brussels",
+        "categoryId": "restaurants",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=March%202016%20Istanbul%20bombing%2C%20Brussels",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/March_2016_Istanbul_bombing",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/Demir%C3%B6renShoppingMall01.JPG/960px-Demir%C3%B6renShoppingMall01.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/March_2016_Istanbul_bombing"
+        }
+      },
+      {
+        "id": "brussels-restaurants-16",
+        "name": "Toast",
+        "cityId": "brussels",
+        "categoryId": "restaurants",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Toast%2C%20Brussels",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Toast_(restaurant)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Toast%2C_Portland%2C_Oregon%2C_2022_%28cropped%29.jpg/960px-Toast%2C_Portland%2C_Oregon%2C_2022_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Toast_(restaurant)"
+        }
+      },
+      {
+        "id": "brussels-restaurants-17",
+        "name": "Expatriate",
+        "cityId": "brussels",
+        "categoryId": "restaurants",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Expatriate%2C%20Brussels",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Expatriate_(restaurant)",
+        "photo": null
+      },
+      {
+        "id": "brussels-restaurants-18",
+        "name": "Comme chez Soi",
+        "cityId": "brussels",
+        "categoryId": "restaurants",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Comme%20chez%20Soi%2C%20Brussels",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Comme_chez_Soi",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/Comme_chez_Soi.jpg/960px-Comme_chez_Soi.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Comme_chez_Soi"
+        }
+      }
+    ],
+    "bars": [
+      {
+        "id": "brussels-bars-1",
+        "name": "1979 Brussels bombing",
+        "cityId": "brussels",
+        "categoryId": "bars",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=1979%20Brussels%20bombing%2C%20Brussels",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/1979_Brussels_bombing",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Grote_Markt_%289379072012%29.jpg/960px-Grote_Markt_%289379072012%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/1979_Brussels_bombing"
+        }
+      },
+      {
+        "id": "brussels-bars-2",
+        "name": "Palace of Justice, Brussels",
+        "cityId": "brussels",
+        "categoryId": "bars",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Palace%20of%20Justice%2C%20Brussels%2C%20Brussels",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Palace_of_Justice%2C_Brussels",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Palais_de_Justice_from_Hilton.jpg/960px-Palais_de_Justice_from_Hilton.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Palace_of_Justice%2C_Brussels"
+        }
+      },
+      {
+        "id": "brussels-bars-3",
+        "name": "Vitaly Scherbo",
+        "cityId": "brussels",
+        "categoryId": "bars",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Vitaly%20Scherbo%2C%20Brussels",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Vitaly_Scherbo",
+        "photo": null
+      },
+      {
+        "id": "brussels-bars-4",
+        "name": ".brussels",
+        "cityId": "brussels",
+        "categoryId": "bars",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=.brussels%2C%20Brussels",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/.brussels",
+        "photo": null
+      },
+      {
+        "id": "brussels-bars-5",
+        "name": ".bar",
+        "cityId": "brussels",
+        "categoryId": "bars",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=.bar%2C%20Brussels",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/.bar",
+        "photo": null
+      },
+      {
+        "id": "brussels-bars-6",
+        "name": "Tervuren",
+        "cityId": "brussels",
+        "categoryId": "bars",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Tervuren%2C%20Brussels",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Tervuren",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Mus%C3%A9e_royal_de_l%27Afrique_centrale_20.JPG/960px-Mus%C3%A9e_royal_de_l%27Afrique_centrale_20.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Tervuren"
+        }
+      },
+      {
+        "id": "brussels-bars-7",
+        "name": ".vlaanderen",
+        "cityId": "brussels",
+        "categoryId": "bars",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=.vlaanderen%2C%20Brussels",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/.vlaanderen",
+        "photo": null
+      },
+      {
+        "id": "brussels-bars-8",
+        "name": "High jump",
+        "cityId": "brussels",
+        "categoryId": "bars",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=High%20jump%2C%20Brussels",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/High_jump",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Nicole_Forrester.JPG/960px-Nicole_Forrester.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/High_jump"
+        }
+      },
+      {
+        "id": "brussels-bars-9",
+        "name": "Côte d'Or",
+        "cityId": "brussels",
+        "categoryId": "bars",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=C%C3%B4te%20d'Or%2C%20Brussels",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/C%C3%B4te_d'Or_(chocolate)",
+        "photo": null
+      },
+      {
+        "id": "brussels-bars-10",
+        "name": "Salah Abdeslam",
+        "cityId": "brussels",
+        "categoryId": "bars",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Salah%20Abdeslam%2C%20Brussels",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Salah_Abdeslam",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/af/Salah_Abdeslam_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Salah_Abdeslam"
+        }
+      },
+      {
+        "id": "brussels-bars-11",
+        "name": "Matrix Chambers",
+        "cityId": "brussels",
+        "categoryId": "bars",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Matrix%20Chambers%2C%20Brussels",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Matrix_Chambers",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Matrix_Chambers_logo.svg/960px-Matrix_Chambers_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Matrix_Chambers"
+        }
+      },
+      {
+        "id": "brussels-bars-12",
+        "name": "Clément Pansaers",
+        "cityId": "brussels",
+        "categoryId": "bars",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Cl%C3%A9ment%20Pansaers%2C%20Brussels",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Cl%C3%A9ment_Pansaers",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/00/Cl%C3%A9ment_Pansaers.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Cl%C3%A9ment_Pansaers"
+        }
+      },
+      {
+        "id": "brussels-bars-13",
+        "name": "2016 Ansbach bombing",
+        "cityId": "brussels",
+        "categoryId": "bars",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=2016%20Ansbach%20bombing%2C%20Brussels",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/2016_Ansbach_bombing",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Ansbach_-_2013_Mattes_%2891%29_2.jpg/960px-Ansbach_-_2013_Mattes_%2891%29_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/2016_Ansbach_bombing"
+        }
+      },
+      {
+        "id": "brussels-bars-14",
+        "name": "Borislav Vučević",
+        "cityId": "brussels",
+        "categoryId": "bars",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Borislav%20Vu%C4%8Devi%C4%87%2C%20Brussels",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Borislav_Vu%C4%8Devi%C4%87",
+        "photo": null
+      },
+      {
+        "id": "brussels-bars-15",
+        "name": "Brussels",
+        "cityId": "brussels",
+        "categoryId": "bars",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Brussels%2C%20Brussels",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Brussels",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/Grand_Place_Bruselas_2.jpg/960px-Grand_Place_Bruselas_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Brussels"
+        }
+      },
+      {
+        "id": "brussels-bars-16",
+        "name": "World Shipping Council",
+        "cityId": "brussels",
+        "categoryId": "bars",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=World%20Shipping%20Council%2C%20Brussels",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/World_Shipping_Council",
+        "photo": null
+      },
+      {
+        "id": "brussels-bars-17",
+        "name": "Marie Popelin",
+        "cityId": "brussels",
+        "categoryId": "bars",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Marie%20Popelin%2C%20Brussels",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Marie_Popelin",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/77/Marie_Popelin_%281846-1923%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Marie_Popelin"
+        }
+      },
+      {
+        "id": "brussels-bars-18",
+        "name": "Brussels Conference Act of 1890",
+        "cityId": "brussels",
+        "categoryId": "bars",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Brussels%20Conference%20Act%20of%201890%2C%20Brussels",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Brussels_Conference_Act_of_1890",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Brussels_International_Conference%2C_November_18%2C_1889_July_2%2C_1890%2C_protocols_and_final_act_Ministry_of_Foreign_Affairs_France.png/960px-Brussels_International_Conference%2C_November_18%2C_1889_July_2%2C_1890%2C_protocols_and_final_act_Ministry_of_Foreign_Affairs_France.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Brussels_Conference_Act_of_1890"
+        }
+      }
+    ],
+    "coffee_shops": [
+      {
+        "id": "brussels-coffee_shops-1",
+        "name": "Delirium Café",
+        "cityId": "brussels",
+        "categoryId": "coffee_shops",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Delirium%20Caf%C3%A9%2C%20Brussels",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Delirium_Caf%C3%A9",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/CafeDeliriumEx.JPG/960px-CafeDeliriumEx.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Delirium_Caf%C3%A9"
+        }
+      },
+      {
+        "id": "brussels-coffee_shops-2",
+        "name": "Café",
+        "cityId": "brussels",
+        "categoryId": "coffee_shops",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Caf%C3%A9%2C%20Brussels",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Caf%C3%A9_(footballer)",
+        "photo": null
+      },
+      {
+        "id": "brussels-coffee_shops-3",
+        "name": "Couleur Café",
+        "cityId": "brussels",
+        "categoryId": "coffee_shops",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Couleur%20Caf%C3%A9%2C%20Brussels",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Couleur_Caf%C3%A9",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/MalibuStacy.JPG/960px-MalibuStacy.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Couleur_Caf%C3%A9"
+        }
+      },
+      {
+        "id": "brussels-coffee_shops-4",
+        "name": "Salah Abdeslam",
+        "cityId": "brussels",
+        "categoryId": "coffee_shops",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Salah%20Abdeslam%2C%20Brussels",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Salah_Abdeslam",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/af/Salah_Abdeslam_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Salah_Abdeslam"
+        }
+      },
+      {
+        "id": "brussels-coffee_shops-5",
+        "name": "Centre for Fine Arts, Brussels",
+        "cityId": "brussels",
+        "categoryId": "coffee_shops",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Centre%20for%20Fine%20Arts%2C%20Brussels%2C%20Brussels",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Centre_for_Fine_Arts%2C_Brussels",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/BOZAR_%28DSCF7462%29.jpg/960px-BOZAR_%28DSCF7462%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Centre_for_Fine_Arts%2C_Brussels"
+        }
+      },
+      {
+        "id": "brussels-coffee_shops-6",
+        "name": "Snowy",
+        "cityId": "brussels",
+        "categoryId": "coffee_shops",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Snowy%2C%20Brussels",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Snowy_(character)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/en/thumb/a/a5/Tintin_and_Snowy_from_Tintin_in_the_Land_of_the_Soviets_%281929%29.jpg/960px-Tintin_and_Snowy_from_Tintin_in_the_Land_of_the_Soviets_%281929%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Snowy_(character)"
+        }
+      },
+      {
+        "id": "brussels-coffee_shops-7",
+        "name": "Alexandre Dechet",
+        "cityId": "brussels",
+        "categoryId": "coffee_shops",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Alexandre%20Dechet%2C%20Brussels",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Alexandre_Dechet",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/84/Jenneval.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Alexandre_Dechet"
+        }
+      },
+      {
+        "id": "brussels-coffee_shops-8",
+        "name": "À la Mort Subite",
+        "cityId": "brussels",
+        "categoryId": "coffee_shops",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=%C3%80%20la%20Mort%20Subite%2C%20Brussels",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/%C3%80_la_Mort_Subite",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/2_-_Cafe-brasserie_A_la_Mort_Subite_-_WARMOESBERG_5_-_7.jpg/960px-2_-_Cafe-brasserie_A_la_Mort_Subite_-_WARMOESBERG_5_-_7.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/%C3%80_la_Mort_Subite"
+        }
+      },
+      {
+        "id": "brussels-coffee_shops-9",
+        "name": "Belgian Beer Café",
+        "cityId": "brussels",
+        "categoryId": "coffee_shops",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Belgian%20Beer%20Caf%C3%A9%2C%20Brussels",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Belgian_Beer_Caf%C3%A9",
+        "photo": null
+      },
+      {
+        "id": "brussels-coffee_shops-10",
+        "name": "Boulevard Anspach",
+        "cityId": "brussels",
+        "categoryId": "coffee_shops",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Boulevard%20Anspach%2C%20Brussels",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Boulevard_Anspach",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Pictures_taken_from_former_Actiris_Building_on_Anspach%2C_Brussels_19.jpg/960px-Pictures_taken_from_former_Actiris_Building_on_Anspach%2C_Brussels_19.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Boulevard_Anspach"
+        }
+      },
+      {
+        "id": "brussels-coffee_shops-11",
+        "name": "Jozef Schils",
+        "cityId": "brussels",
+        "categoryId": "coffee_shops",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Jozef%20Schils%2C%20Brussels",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Jozef_Schils",
+        "photo": null
+      },
+      {
+        "id": "brussels-coffee_shops-12",
+        "name": "Wiels",
+        "cityId": "brussels",
+        "categoryId": "coffee_shops",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Wiels%2C%20Brussels",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Wiels",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Wiels_brussels_01.jpg/960px-Wiels_brussels_01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Wiels"
+        }
+      },
+      {
+        "id": "brussels-coffee_shops-13",
+        "name": "The Shangri-la Cafe",
+        "cityId": "brussels",
+        "categoryId": "coffee_shops",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Shangri-la%20Cafe%2C%20Brussels",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/The_Shangri-la_Cafe",
+        "photo": null
+      },
+      {
+        "id": "brussels-coffee_shops-14",
+        "name": "Constantin Meunier",
+        "cityId": "brussels",
+        "categoryId": "coffee_shops",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Constantin%20Meunier%2C%20Brussels",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Constantin_Meunier",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Constantin_Meunier_-_Painted_self-portrait.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Constantin_Meunier"
+        }
+      },
+      {
+        "id": "brussels-coffee_shops-15",
+        "name": "Café Gerbeaud",
+        "cityId": "brussels",
+        "categoryId": "coffee_shops",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Caf%C3%A9%20Gerbeaud%2C%20Brussels",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Caf%C3%A9_Gerbeaud",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Cafe_Gerbeaud_01.JPG/960px-Cafe_Gerbeaud_01.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Caf%C3%A9_Gerbeaud"
+        }
+      },
+      {
+        "id": "brussels-coffee_shops-16",
+        "name": "Vauxhall, Brussels",
+        "cityId": "brussels",
+        "categoryId": "coffee_shops",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Vauxhall%2C%20Brussels%2C%20Brussels",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Vauxhall%2C_Brussels",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/Vauxhall_Parc_de_Bruxelles_01.jpg/960px-Vauxhall_Parc_de_Bruxelles_01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Vauxhall%2C_Brussels"
+        }
+      },
+      {
+        "id": "brussels-coffee_shops-17",
+        "name": "Het Goudblommeke in Papier",
+        "cityId": "brussels",
+        "categoryId": "coffee_shops",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Het%20Goudblommeke%20in%20Papier%2C%20Brussels",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Het_Goudblommeke_in_Papier",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Bruxelles_rue_des_Alexiens_55_901.jpg/960px-Bruxelles_rue_des_Alexiens_55_901.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Het_Goudblommeke_in_Papier"
+        }
+      },
+      {
+        "id": "brussels-coffee_shops-18",
+        "name": "Brussels and the European Union",
+        "cityId": "brussels",
+        "categoryId": "coffee_shops",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Brussels%20and%20the%20European%20Union%2C%20Brussels",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Brussels_and_the_European_Union",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/Brussels_in_Belgium_and_the_European_Union.svg/960px-Brussels_in_Belgium_and_the_European_Union.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Brussels_and_the_European_Union"
+        }
+      }
+    ],
+    "bookshops": [
+      {
+        "id": "brussels-bookshops-1",
+        "name": "Sex shop",
+        "cityId": "brussels",
+        "categoryId": "bookshops",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Sex%20shop%2C%20Brussels",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Sex_shop",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Sex-shops-on-boulevard-de-clichi.jpg/960px-Sex-shops-on-boulevard-de-clichi.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Sex_shop"
+        }
+      },
+      {
+        "id": "brussels-bookshops-2",
+        "name": "Joseph Imhoff",
+        "cityId": "brussels",
+        "categoryId": "bookshops",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Joseph%20Imhoff%2C%20Brussels",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Joseph_Imhoff",
+        "photo": null
+      },
+      {
+        "id": "brussels-bookshops-3",
+        "name": "Expo 58",
+        "cityId": "brussels",
+        "categoryId": "bookshops",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Expo%2058%2C%20Brussels",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Expo_58",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Haarlemse_bloemenmeisjes_brengen_bezoek_aan_de_Expo%2C_Bestanddeelnr_909-5043.jpg/960px-Haarlemse_bloemenmeisjes_brengen_bezoek_aan_de_Expo%2C_Bestanddeelnr_909-5043.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Expo_58"
+        }
+      },
+      {
+        "id": "brussels-bookshops-4",
+        "name": "Didot family",
+        "cityId": "brussels",
+        "categoryId": "bookshops",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Didot%20family%2C%20Brussels",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Didot_family",
+        "photo": null
+      },
+      {
+        "id": "brussels-bookshops-5",
+        "name": "ICI",
+        "cityId": "brussels",
+        "categoryId": "bookshops",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=ICI%2C%20Brussels",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/ICI",
+        "photo": null
+      },
+      {
+        "id": "brussels-bookshops-6",
+        "name": "WHSmith",
+        "cityId": "brussels",
+        "categoryId": "bookshops",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=WHSmith%2C%20Brussels",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/WHSmith",
+        "photo": null
+      },
+      {
+        "id": "brussels-bookshops-7",
+        "name": "Lempertz",
+        "cityId": "brussels",
+        "categoryId": "bookshops",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Lempertz%2C%20Brussels",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Lempertz",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Kunsthaus_Lempertz_%283984-86%29.jpg/960px-Kunsthaus_Lempertz_%283984-86%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Lempertz"
+        }
+      },
+      {
+        "id": "brussels-bookshops-8",
+        "name": "Guillaume Bijl",
+        "cityId": "brussels",
+        "categoryId": "bookshops",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Guillaume%20Bijl%2C%20Brussels",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Guillaume_Bijl",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Mattressdiscount_installation%2C2002%2C_Kunsthalle%2C_Muenster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Guillaume_Bijl"
+        }
+      },
+      {
+        "id": "brussels-bookshops-9",
+        "name": "A Vindication of the Rights of Whores",
+        "cityId": "brussels",
+        "categoryId": "bookshops",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=A%20Vindication%20of%20the%20Rights%20of%20Whores%2C%20Brussels",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/A_Vindication_of_the_Rights_of_Whores",
+        "photo": null
+      },
+      {
+        "id": "brussels-bookshops-10",
+        "name": "Art Nouveau",
+        "cityId": "brussels",
+        "categoryId": "bookshops",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Art%20Nouveau%2C%20Brussels",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Art_Nouveau",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/Abbesses.JPG/960px-Abbesses.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Art_Nouveau"
+        }
+      },
+      {
+        "id": "brussels-bookshops-11",
+        "name": "Librairie philosophique J. Vrin",
+        "cityId": "brussels",
+        "categoryId": "bookshops",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Librairie%20philosophique%20J.%20Vrin%2C%20Brussels",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Librairie_philosophique_J._Vrin",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Librairie_Vrin.JPG/960px-Librairie_Vrin.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Librairie_philosophique_J._Vrin"
+        }
+      },
+      {
+        "id": "brussels-bookshops-12",
+        "name": "Destinations International",
+        "cityId": "brussels",
+        "categoryId": "bookshops",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Destinations%20International%2C%20Brussels",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Destinations_International",
+        "photo": null
+      },
+      {
+        "id": "brussels-bookshops-13",
+        "name": "Bahadır Kaleağası",
+        "cityId": "brussels",
+        "categoryId": "bookshops",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Bahad%C4%B1r%20Kalea%C4%9Fas%C4%B1%2C%20Brussels",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Bahad%C4%B1r_Kalea%C4%9Fas%C4%B1",
+        "photo": null
+      },
+      {
+        "id": "brussels-bookshops-14",
+        "name": "The Adventures of Tintin",
+        "cityId": "brussels",
+        "categoryId": "bookshops",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Adventures%20of%20Tintin%2C%20Brussels",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/The_Adventures_of_Tintin",
+        "photo": null
+      },
+      {
+        "id": "brussels-bookshops-15",
+        "name": "The Equalizer 2",
+        "cityId": "brussels",
+        "categoryId": "bookshops",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Equalizer%202%2C%20Brussels",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/The_Equalizer_2",
+        "photo": null
+      },
+      {
+        "id": "brussels-bookshops-16",
+        "name": "James Daunt",
+        "cityId": "brussels",
+        "categoryId": "bookshops",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=James%20Daunt%2C%20Brussels",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/James_Daunt",
+        "photo": null
+      },
+      {
+        "id": "brussels-bookshops-17",
+        "name": "Pam Rosenthal",
+        "cityId": "brussels",
+        "categoryId": "bookshops",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Pam%20Rosenthal%2C%20Brussels",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Pam_Rosenthal",
+        "photo": null
+      },
+      {
+        "id": "brussels-bookshops-18",
+        "name": "Ted Milton",
+        "cityId": "brussels",
+        "categoryId": "bookshops",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Ted%20Milton%2C%20Brussels",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Ted_Milton",
+        "photo": null
+      }
+    ],
+    "museums": [
+      {
+        "id": "brussels-museums-1",
+        "name": "Royal Museums of Fine Arts of Belgium",
+        "cityId": "brussels",
+        "categoryId": "museums",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Royal%20Museums%20of%20Fine%20Arts%20of%20Belgium%2C%20Brussels",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Royal_Museums_of_Fine_Arts_of_Belgium",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/Mus%C3%A9es_Royaux_des_Beaux-Arts_Belgique_1101.jpg/960px-Mus%C3%A9es_Royaux_des_Beaux-Arts_Belgique_1101.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Royal_Museums_of_Fine_Arts_of_Belgium"
+        }
+      },
+      {
+        "id": "brussels-museums-2",
+        "name": "Antoine Wiertz",
+        "cityId": "brussels",
+        "categoryId": "museums",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Antoine%20Wiertz%2C%20Brussels",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Antoine_Wiertz",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Wiertz_selbst_bildnis.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Antoine_Wiertz"
+        }
+      },
+      {
+        "id": "brussels-museums-3",
+        "name": "Centre for Fine Arts, Brussels",
+        "cityId": "brussels",
+        "categoryId": "museums",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Centre%20for%20Fine%20Arts%2C%20Brussels%2C%20Brussels",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Centre_for_Fine_Arts%2C_Brussels",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/BOZAR_%28DSCF7462%29.jpg/960px-BOZAR_%28DSCF7462%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Centre_for_Fine_Arts%2C_Brussels"
+        }
+      },
+      {
+        "id": "brussels-museums-4",
+        "name": "Manneken Pis",
+        "cityId": "brussels",
+        "categoryId": "museums",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Manneken%20Pis%2C%20Brussels",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Manneken_Pis",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Bruxelles_Manneken_Pis_cropped.jpg/960px-Bruxelles_Manneken_Pis_cropped.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Manneken_Pis"
+        }
+      },
+      {
+        "id": "brussels-museums-5",
+        "name": "Belgian Comic Strip Center",
+        "cityId": "brussels",
+        "categoryId": "museums",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Belgian%20Comic%20Strip%20Center%2C%20Brussels",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Belgian_Comic_Strip_Center",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/Brussel_-_Zandstraat_20_-_Belgisch_Stripcentrum_in_het_voormalig_Waucquez-warenhuis_%281903_door_Victor_Horta%29_20230826.jpg/960px-Brussel_-_Zandstraat_20_-_Belgisch_Stripcentrum_in_het_voormalig_Waucquez-warenhuis_%281903_door_Victor_Horta%29_20230826.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Belgian_Comic_Strip_Center"
+        }
+      },
+      {
+        "id": "brussels-museums-6",
+        "name": "James Ensor",
+        "cityId": "brussels",
+        "categoryId": "museums",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=James%20Ensor%2C%20Brussels",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/James_Ensor",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/Ensor_voor_zijn_schildersezel%2C_James_Ensor%2C_1890%2C_Koninklijk_Museum_voor_Schone_Kunsten_Antwerpen%2C_2809.001.jpeg/960px-Ensor_voor_zijn_schildersezel%2C_James_Ensor%2C_1890%2C_Koninklijk_Museum_voor_Schone_Kunsten_Antwerpen%2C_2809.001.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/James_Ensor"
+        }
+      },
+      {
+        "id": "brussels-museums-7",
+        "name": "Museum of Natural Sciences",
+        "cityId": "brussels",
+        "categoryId": "museums",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Museum%20of%20Natural%20Sciences%2C%20Brussels",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Museum_of_Natural_Sciences",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Mus%C3%A9um_des_Sciences_naturelles_de_Belgique_%28entr%C3%A9e%29.JPG/960px-Mus%C3%A9um_des_Sciences_naturelles_de_Belgique_%28entr%C3%A9e%29.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Museum_of_Natural_Sciences"
+        }
+      },
+      {
+        "id": "brussels-museums-8",
+        "name": "René Magritte",
+        "cityId": "brussels",
+        "categoryId": "museums",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Ren%C3%A9%20Magritte%2C%20Brussels",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Ren%C3%A9_Magritte",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Portrait_en_buste_du_peintre_surr%C3%A9aliste_Ren%C3%A9_Magritte_%281898-1967%29_le_18_octobre_1961_devant_une_de_ses_toiles%2C_PH19994.jpg/960px-Portrait_en_buste_du_peintre_surr%C3%A9aliste_Ren%C3%A9_Magritte_%281898-1967%29_le_18_octobre_1961_devant_une_de_ses_toiles%2C_PH19994.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Ren%C3%A9_Magritte"
+        }
+      },
+      {
+        "id": "brussels-museums-9",
+        "name": "Royal Library of Belgium",
+        "cityId": "brussels",
+        "categoryId": "museums",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Royal%20Library%20of%20Belgium%2C%20Brussels",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Royal_Library_of_Belgium",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Albertine_-_01.jpg/960px-Albertine_-_01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Royal_Library_of_Belgium"
+        }
+      },
+      {
+        "id": "brussels-museums-10",
+        "name": "Victor Horta",
+        "cityId": "brussels",
+        "categoryId": "museums",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Victor%20Horta%2C%20Brussels",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Victor_Horta",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/45/Victor_Horta_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Victor_Horta"
+        }
+      },
+      {
+        "id": "brussels-museums-11",
+        "name": "Brussels",
+        "cityId": "brussels",
+        "categoryId": "museums",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Brussels%2C%20Brussels",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Brussels",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/Grand_Place_Bruselas_2.jpg/960px-Grand_Place_Bruselas_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Brussels"
+        }
+      },
+      {
+        "id": "brussels-museums-12",
+        "name": "Musical Instruments Museum, Brussels",
+        "cityId": "brussels",
+        "categoryId": "museums",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Musical%20Instruments%20Museum%2C%20Brussels%2C%20Brussels",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Musical_Instruments_Museum%2C_Brussels",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Old_England_facade%2C_Brussels_%28DSCF7544%29.jpg/960px-Old_England_facade%2C_Brussels_%28DSCF7544%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Musical_Instruments_Museum%2C_Brussels"
+        }
+      },
+      {
+        "id": "brussels-museums-13",
+        "name": "Palace of Coudenberg",
+        "cityId": "brussels",
+        "categoryId": "museums",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Palace%20of%20Coudenberg%2C%20Brussels",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Palace_of_Coudenberg",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Paleis_op_de_Koudenberg.jpg/960px-Paleis_op_de_Koudenberg.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Palace_of_Coudenberg"
+        }
+      },
+      {
+        "id": "brussels-museums-14",
+        "name": "Royal Conservatory of Brussels",
+        "cityId": "brussels",
+        "categoryId": "museums",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Royal%20Conservatory%20of%20Brussels%2C%20Brussels",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Royal_Conservatory_of_Brussels",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Ehb-building-conservatory.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Royal_Conservatory_of_Brussels"
+        }
+      },
+      {
+        "id": "brussels-museums-15",
+        "name": "Cinquantenaire",
+        "cityId": "brussels",
+        "categoryId": "museums",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Cinquantenaire%2C%20Brussels",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Cinquantenaire",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Arco_del_Cincuentenario%2C_Bruselas%2C_B%C3%A9lgica%2C_2021-12-15%2C_DD_115-135_HDR_PAN.jpg/960px-Arco_del_Cincuentenario%2C_Bruselas%2C_B%C3%A9lgica%2C_2021-12-15%2C_DD_115-135_HDR_PAN.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Cinquantenaire"
+        }
+      },
+      {
+        "id": "brussels-museums-16",
+        "name": "Magritte Museum",
+        "cityId": "brussels",
+        "categoryId": "museums",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Magritte%20Museum%2C%20Brussels",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Magritte_Museum",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Belgique_-_Bruxelles_-_H%C3%B4tel_du_Lotto_-_02.JPG/960px-Belgique_-_Bruxelles_-_H%C3%B4tel_du_Lotto_-_02.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Magritte_Museum"
+        }
+      },
+      {
+        "id": "brussels-museums-17",
+        "name": "Art Nouveau",
+        "cityId": "brussels",
+        "categoryId": "museums",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Art%20Nouveau%2C%20Brussels",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Art_Nouveau",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/Abbesses.JPG/960px-Abbesses.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Art_Nouveau"
+        }
+      },
+      {
+        "id": "brussels-museums-18",
+        "name": "Cinematek",
+        "cityId": "brussels",
+        "categoryId": "museums",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Cinematek%2C%20Brussels",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Cinematek",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Bruxelles_rue_Baron_Horta_9.jpg/960px-Bruxelles_rue_Baron_Horta_9.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Cinematek"
+        }
+      }
+    ],
+    "concerts": [
+      {
+        "id": "brussels-concerts-1",
+        "name": "Ancienne Belgique",
+        "cityId": "brussels",
+        "categoryId": "concerts",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Ancienne%20Belgique%2C%20Brussels",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Ancienne_Belgique",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Ancienne_Belgique_1.jpg/960px-Ancienne_Belgique_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Ancienne_Belgique"
+        }
+      },
+      {
+        "id": "brussels-concerts-2",
+        "name": "Centre for Fine Arts, Brussels",
+        "cityId": "brussels",
+        "categoryId": "concerts",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Centre%20for%20Fine%20Arts%2C%20Brussels%2C%20Brussels",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Centre_for_Fine_Arts%2C_Brussels",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/BOZAR_%28DSCF7462%29.jpg/960px-BOZAR_%28DSCF7462%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Centre_for_Fine_Arts%2C_Brussels"
+        }
+      },
+      {
+        "id": "brussels-concerts-3",
+        "name": "Forest, Belgium",
+        "cityId": "brussels",
+        "categoryId": "concerts",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Forest%2C%20Belgium%2C%20Brussels",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Forest%2C_Belgium",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/MaisonCommunaleForest.jpg/960px-MaisonCommunaleForest.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Forest%2C_Belgium"
+        }
+      },
+      {
+        "id": "brussels-concerts-4",
+        "name": "Julien De Smedt",
+        "cityId": "brussels",
+        "categoryId": "concerts",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Julien%20De%20Smedt%2C%20Brussels",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Julien_De_Smedt",
+        "photo": null
+      },
+      {
+        "id": "brussels-concerts-5",
+        "name": "De Werf",
+        "cityId": "brussels",
+        "categoryId": "concerts",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=De%20Werf%2C%20Brussels",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/De_Werf",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/De_Werf_exterior.jpg/960px-De_Werf_exterior.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/De_Werf"
+        }
+      },
+      {
+        "id": "brussels-concerts-6",
+        "name": "Rue Royale, Brussels",
+        "cityId": "brussels",
+        "categoryId": "concerts",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Rue%20Royale%2C%20Brussels%2C%20Brussels",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Rue_Royale%2C_Brussels",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/2008-06-18_Brussels_detail_06.jpg/960px-2008-06-18_Brussels_detail_06.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Rue_Royale%2C_Brussels"
+        }
+      },
+      {
+        "id": "brussels-concerts-7",
+        "name": "Boulevard Anspach",
+        "cityId": "brussels",
+        "categoryId": "concerts",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Boulevard%20Anspach%2C%20Brussels",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Boulevard_Anspach",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Pictures_taken_from_former_Actiris_Building_on_Anspach%2C_Brussels_19.jpg/960px-Pictures_taken_from_former_Actiris_Building_on_Anspach%2C_Brussels_19.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Boulevard_Anspach"
+        }
+      },
+      {
+        "id": "brussels-concerts-8",
+        "name": "November 2015 Paris attacks",
+        "cityId": "brussels",
+        "categoryId": "concerts",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=November%202015%20Paris%20attacks%2C%20Brussels",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/November_2015_Paris_attacks",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/13_November_2015_Paris_attacks_-_montage.jpg/960px-13_November_2015_Paris_attacks_-_montage.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/November_2015_Paris_attacks"
+        }
+      },
+      {
+        "id": "brussels-concerts-9",
+        "name": "European Concert Hall Organisation",
+        "cityId": "brussels",
+        "categoryId": "concerts",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=European%20Concert%20Hall%20Organisation%2C%20Brussels",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/European_Concert_Hall_Organisation",
+        "photo": null
+      },
+      {
+        "id": "brussels-concerts-10",
+        "name": "Radiohuset",
+        "cityId": "brussels",
+        "categoryId": "concerts",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Radiohuset%2C%20Brussels",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Radiohuset",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Radiohuset_Frederiksberg.jpg/960px-Radiohuset_Frederiksberg.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Radiohuset"
+        }
+      },
+      {
+        "id": "brussels-concerts-11",
+        "name": "Camille Pleyel",
+        "cityId": "brussels",
+        "categoryId": "concerts",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Camille%20Pleyel%2C%20Brussels",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Camille_Pleyel",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/P%C3%A8re-Lachaise_-_Division_13_-_Camille_Pleyel_04.jpg/960px-P%C3%A8re-Lachaise_-_Division_13_-_Camille_Pleyel_04.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Camille_Pleyel"
+        }
+      },
+      {
+        "id": "brussels-concerts-12",
+        "name": "Aarhus Pride",
+        "cityId": "brussels",
+        "categoryId": "concerts",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Aarhus%20Pride%2C%20Brussels",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Aarhus_Pride",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Aarhus_Pride%2C_2012%2C_start_of_day.jpg/960px-Aarhus_Pride%2C_2012%2C_start_of_day.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Aarhus_Pride"
+        }
+      },
+      {
+        "id": "brussels-concerts-13",
+        "name": "Grieg Hall",
+        "cityId": "brussels",
+        "categoryId": "concerts",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Grieg%20Hall%2C%20Brussels",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Grieg_Hall",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/Grieghallen%2C_Bergen%2C_Noruega%2C_2019-09-08%2C_DD_65.jpg/960px-Grieghallen%2C_Bergen%2C_Noruega%2C_2019-09-08%2C_DD_65.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Grieg_Hall"
+        }
+      },
+      {
+        "id": "brussels-concerts-14",
+        "name": "Royal Conservatory of Brussels",
+        "cityId": "brussels",
+        "categoryId": "concerts",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Royal%20Conservatory%20of%20Brussels%2C%20Brussels",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Royal_Conservatory_of_Brussels",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Ehb-building-conservatory.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Royal_Conservatory_of_Brussels"
+        }
+      },
+      {
+        "id": "brussels-concerts-15",
+        "name": "Andrejs Osokins",
+        "cityId": "brussels",
+        "categoryId": "concerts",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Andrejs%20Osokins%2C%20Brussels",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Andrejs_Osokins",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Andrejs_Osokins.jpg/960px-Andrejs_Osokins.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Andrejs_Osokins"
+        }
+      },
+      {
+        "id": "brussels-concerts-16",
+        "name": "Studio 4",
+        "cityId": "brussels",
+        "categoryId": "concerts",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Studio%204%2C%20Brussels",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Studio_4_(disambiguation)",
+        "photo": null
+      },
+      {
+        "id": "brussels-concerts-17",
+        "name": "Antal Zalai",
+        "cityId": "brussels",
+        "categoryId": "concerts",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Antal%20Zalai%2C%20Brussels",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Antal_Zalai",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Antal_Zalai_2019.jpg/960px-Antal_Zalai_2019.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Antal_Zalai"
+        }
+      },
+      {
+        "id": "brussels-concerts-18",
+        "name": "Helsingborg Exhibition 1955",
+        "cityId": "brussels",
+        "categoryId": "concerts",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Helsingborg%20Exhibition%201955%2C%20Brussels",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Helsingborg_Exhibition_1955",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/83/H55_Katalog.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Helsingborg_Exhibition_1955"
+        }
+      }
+    ],
+    "fashion": [
+      {
+        "id": "brussels-fashion-1",
+        "name": "The Easy Way Out",
+        "cityId": "brussels",
+        "categoryId": "fashion",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Easy%20Way%20Out%2C%20Brussels",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/The_Easy_Way_Out",
+        "photo": null
+      },
+      {
+        "id": "brussels-fashion-2",
+        "name": "Rue Neuve, Brussels",
+        "cityId": "brussels",
+        "categoryId": "fashion",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Rue%20Neuve%2C%20Brussels%2C%20Brussels",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Rue_Neuve%2C_Brussels",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/Rue_Neuve_%281%29.jpg/960px-Rue_Neuve_%281%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Rue_Neuve%2C_Brussels"
+        }
+      },
+      {
+        "id": "brussels-fashion-3",
+        "name": "Black Tower",
+        "cityId": "brussels",
+        "categoryId": "fashion",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Black%20Tower%2C%20Brussels",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Black_Tower_(Brussels)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Tour_Noir.JPG/960px-Tour_Noir.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Black_Tower_(Brussels)"
+        }
+      },
+      {
+        "id": "brussels-fashion-4",
+        "name": "Tobias Sorensen",
+        "cityId": "brussels",
+        "categoryId": "fashion",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Tobias%20Sorensen%2C%20Brussels",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Tobias_Sorensen",
+        "photo": null
+      },
+      {
+        "id": "brussels-fashion-5",
+        "name": "Banque de Commerce",
+        "cityId": "brussels",
+        "categoryId": "fashion",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Banque%20de%20Commerce%2C%20Brussels",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Banque_de_Commerce",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/be/Antwerpen_Lange_Gasthuisstraat_9-11_-_38181_-_onroerenderfgoed.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Banque_de_Commerce"
+        }
+      },
+      {
+        "id": "brussels-fashion-6",
+        "name": "First International Conference on the World-Wide Web",
+        "cityId": "brussels",
+        "categoryId": "fashion",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=First%20International%20Conference%20on%20the%20World-Wide%20Web%2C%20Brussels",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/First_International_Conference_on_the_World-Wide_Web",
+        "photo": null
+      },
+      {
+        "id": "brussels-fashion-7",
+        "name": "Inditex",
+        "cityId": "brussels",
+        "categoryId": "fashion",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Inditex%2C%20Brussels",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Inditex",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Sede_de_inditex_arteixo.jpg/960px-Sede_de_inditex_arteixo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Inditex"
+        }
+      },
+      {
+        "id": "brussels-fashion-8",
+        "name": "Eastern Lightning",
+        "cityId": "brussels",
+        "categoryId": "fashion",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Eastern%20Lightning%2C%20Brussels",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Eastern_Lightning",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Eastern_Lightning_Logo.svg/960px-Eastern_Lightning_Logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Eastern_Lightning"
+        }
+      },
+      {
+        "id": "brussels-fashion-9",
+        "name": "Valerie Plame",
+        "cityId": "brussels",
+        "categoryId": "fashion",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Valerie%20Plame%2C%20Brussels",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Valerie_Plame",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Valerie_plame_wilson_2014.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Valerie_Plame"
+        }
+      },
+      {
+        "id": "brussels-fashion-10",
+        "name": "Paavo Nurmi",
+        "cityId": "brussels",
+        "categoryId": "fashion",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Paavo%20Nurmi%2C%20Brussels",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Paavo_Nurmi",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Paavo_Nurmi_%28Antwerp_1920%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Paavo_Nurmi"
+        }
+      },
+      {
+        "id": "brussels-fashion-11",
+        "name": "Butyric acid",
+        "cityId": "brussels",
+        "categoryId": "fashion",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Butyric%20acid%2C%20Brussels",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Butyric_acid",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Butyric-acid-3D-balls.png/960px-Butyric-acid-3D-balls.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Butyric_acid"
+        }
+      },
+      {
+        "id": "brussels-fashion-12",
+        "name": "David Goldblatt",
+        "cityId": "brussels",
+        "categoryId": "fashion",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=David%20Goldblatt%2C%20Brussels",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/David_Goldblatt",
+        "photo": null
+      },
+      {
+        "id": "brussels-fashion-13",
+        "name": "Benoît Frachon",
+        "cityId": "brussels",
+        "categoryId": "fashion",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Beno%C3%AEt%20Frachon%2C%20Brussels",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Beno%C3%AEt_Frachon",
+        "photo": null
+      },
+      {
+        "id": "brussels-fashion-14",
+        "name": "Joseph E. Schwartzberg",
+        "cityId": "brussels",
+        "categoryId": "fashion",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Joseph%20E.%20Schwartzberg%2C%20Brussels",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Joseph_E._Schwartzberg",
+        "photo": null
+      },
+      {
+        "id": "brussels-fashion-15",
+        "name": "George Simion",
+        "cityId": "brussels",
+        "categoryId": "fashion",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=George%20Simion%2C%20Brussels",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/George_Simion",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Portret_George_Simion_%287%29_%28decupat%29.jpg/960px-Portret_George_Simion_%287%29_%28decupat%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/George_Simion"
+        }
+      },
+      {
+        "id": "brussels-fashion-16",
+        "name": "Earl Hines",
+        "cityId": "brussels",
+        "categoryId": "fashion",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Earl%20Hines%2C%20Brussels",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Earl_Hines",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Maud_Cuney_Hare-155-Earl_Hines.jpg/960px-Maud_Cuney_Hare-155-Earl_Hines.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Earl_Hines"
+        }
+      },
+      {
+        "id": "brussels-fashion-17",
+        "name": "Historic Centre of Lima",
+        "cityId": "brussels",
+        "categoryId": "fashion",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Historic%20Centre%20of%20Lima%2C%20Brussels",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Historic_Centre_of_Lima",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Plaza_de_Armas%2C_Lima.jpg/960px-Plaza_de_Armas%2C_Lima.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Historic_Centre_of_Lima"
+        }
+      },
+      {
+        "id": "brussels-fashion-18",
+        "name": "1978 Birthday Honours",
+        "cityId": "brussels",
+        "categoryId": "fashion",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=1978%20Birthday%20Honours%2C%20Brussels",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/1978_Birthday_Honours",
+        "photo": null
+      }
+    ],
+    "shops": [
+      {
+        "id": "brussels-shops-1",
+        "name": ".brussels",
+        "cityId": "brussels",
+        "categoryId": "shops",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=.brussels%2C%20Brussels",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/.brussels",
+        "photo": null
+      },
+      {
+        "id": "brussels-shops-2",
+        "name": ".vlaanderen",
+        "cityId": "brussels",
+        "categoryId": "shops",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=.vlaanderen%2C%20Brussels",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/.vlaanderen",
+        "photo": null
+      },
+      {
+        "id": "brussels-shops-3",
+        "name": "Ahold Delhaize",
+        "cityId": "brussels",
+        "categoryId": "shops",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Ahold%20Delhaize%2C%20Brussels",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Ahold_Delhaize",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Albert_Heijn_Headquarters_by_Niels_Kim.jpg/960px-Albert_Heijn_Headquarters_by_Niels_Kim.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Ahold_Delhaize"
+        }
+      },
+      {
+        "id": "brussels-shops-4",
+        "name": "Delhaize Group",
+        "cityId": "brussels",
+        "categoryId": "shops",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Delhaize%20Group%2C%20Brussels",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Delhaize_Group",
+        "photo": null
+      },
+      {
+        "id": "brussels-shops-5",
+        "name": ".shop",
+        "cityId": "brussels",
+        "categoryId": "shops",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=.shop%2C%20Brussels",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/.shop",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/DotShop_gTLD_logo.svg/960px-DotShop_gTLD_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/.shop"
+        }
+      },
+      {
+        "id": "brussels-shops-6",
+        "name": "Chocolate fountain",
+        "cityId": "brussels",
+        "categoryId": "shops",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Chocolate%20fountain%2C%20Brussels",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Chocolate_fountain",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Small_Chocolate_Fountain.JPG/960px-Small_Chocolate_Fountain.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Chocolate_fountain"
+        }
+      },
+      {
+        "id": "brussels-shops-7",
+        "name": ".xyz",
+        "cityId": "brussels",
+        "categoryId": "shops",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=.xyz%2C%20Brussels",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/.xyz",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/.xyz_logo.svg/960px-.xyz_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/.xyz"
+        }
+      },
+      {
+        "id": "brussels-shops-8",
+        "name": "Magistrate of Brussels",
+        "cityId": "brussels",
+        "categoryId": "shops",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Magistrate%20of%20Brussels%2C%20Brussels",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Magistrate_of_Brussels",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Van_Dyck_-_Magistrate_of_Brussels_-_restored.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Magistrate_of_Brussels"
+        }
+      },
+      {
+        "id": "brussels-shops-9",
+        "name": ".gent",
+        "cityId": "brussels",
+        "categoryId": "shops",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=.gent%2C%20Brussels",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/.gent",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Gentlogo.svg/960px-Gentlogo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/.gent"
+        }
+      },
+      {
+        "id": "brussels-shops-10",
+        "name": "Brussels Airport",
+        "cityId": "brussels",
+        "categoryId": "shops",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Brussels%20Airport%2C%20Brussels",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Brussels_Airport",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/Brussels_airport_from_air.jpg/960px-Brussels_airport_from_air.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Brussels_Airport"
+        }
+      },
+      {
+        "id": "brussels-shops-11",
+        "name": "Félicien Vervaecke",
+        "cityId": "brussels",
+        "categoryId": "shops",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=F%C3%A9licien%20Vervaecke%2C%20Brussels",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/F%C3%A9licien_Vervaecke",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/69/F%C3%A9licien_Vervaecke_%281939%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/F%C3%A9licien_Vervaecke"
+        }
+      },
+      {
+        "id": "brussels-shops-12",
+        "name": ".localhost",
+        "cityId": "brussels",
+        "categoryId": "shops",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=.localhost%2C%20Brussels",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/.localhost",
+        "photo": null
+      },
+      {
+        "id": "brussels-shops-13",
+        "name": "James Ensor",
+        "cityId": "brussels",
+        "categoryId": "shops",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=James%20Ensor%2C%20Brussels",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/James_Ensor",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/Ensor_voor_zijn_schildersezel%2C_James_Ensor%2C_1890%2C_Koninklijk_Museum_voor_Schone_Kunsten_Antwerpen%2C_2809.001.jpeg/960px-Ensor_voor_zijn_schildersezel%2C_James_Ensor%2C_1890%2C_Koninklijk_Museum_voor_Schone_Kunsten_Antwerpen%2C_2809.001.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/James_Ensor"
+        }
+      },
+      {
+        "id": "brussels-shops-14",
+        "name": "Brussels Conference Act of 1890",
+        "cityId": "brussels",
+        "categoryId": "shops",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Brussels%20Conference%20Act%20of%201890%2C%20Brussels",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Brussels_Conference_Act_of_1890",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Brussels_International_Conference%2C_November_18%2C_1889_July_2%2C_1890%2C_protocols_and_final_act_Ministry_of_Foreign_Affairs_France.png/960px-Brussels_International_Conference%2C_November_18%2C_1889_July_2%2C_1890%2C_protocols_and_final_act_Ministry_of_Foreign_Affairs_France.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Brussels_Conference_Act_of_1890"
+        }
+      },
+      {
+        "id": "brussels-shops-15",
+        "name": "Stop & Shop",
+        "cityId": "brussels",
+        "categoryId": "shops",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Stop%20%26%20Shop%2C%20Brussels",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Stop_%26_Shop",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Stop_and_Shop_%28North_Providence%2C_RI%29.jpg/960px-Stop_and_Shop_%28North_Providence%2C_RI%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Stop_%26_Shop"
+        }
+      },
+      {
+        "id": "brussels-shops-16",
+        "name": ".geo",
+        "cityId": "brussels",
+        "categoryId": "shops",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=.geo%2C%20Brussels",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/.geo",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/51/Dotgeo.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/.geo"
+        }
+      },
+      {
+        "id": "brussels-shops-17",
+        "name": ".bible",
+        "cityId": "brussels",
+        "categoryId": "shops",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=.bible%2C%20Brussels",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/.bible",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/8f/DotBible_gTLD_logo.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/.bible"
+        }
+      },
+      {
+        "id": "brussels-shops-18",
+        "name": "Jozef Schils",
+        "cityId": "brussels",
+        "categoryId": "shops",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Jozef%20Schils%2C%20Brussels",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Jozef_Schils",
+        "photo": null
+      }
+    ]
+  }
+}

@@ -1,0 +1,2288 @@
+{
+  "cityId": "santiago",
+  "generatedAt": "2026-11-27T09:38:03.191Z",
+  "source": "Wikipedia API + Maps URLs (sin scraping de Google)",
+  "incomplete": [],
+  "categories": {
+    "night_clubs": [
+      {
+        "id": "santiago-night_clubs-1",
+        "name": "Las Vega's",
+        "cityId": "santiago",
+        "categoryId": "night_clubs",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Las%20Vega's%2C%20Santiago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Las_Vega's_(Colombian_TV_series)",
+        "photo": null
+      },
+      {
+        "id": "santiago-night_clubs-2",
+        "name": "Miguel Piñera",
+        "cityId": "santiago",
+        "categoryId": "night_clubs",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Miguel%20Pi%C3%B1era%2C%20Santiago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Miguel_Pi%C3%B1era",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/Miguel_Pi%C3%B1era.jpg/960px-Miguel_Pi%C3%B1era.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Miguel_Pi%C3%B1era"
+        }
+      },
+      {
+        "id": "santiago-night_clubs-3",
+        "name": "Octavio Dotel",
+        "cityId": "santiago",
+        "categoryId": "night_clubs",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Octavio%20Dotel%2C%20Santiago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Octavio_Dotel",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/20120713-0283j_Octavio_Dotel.jpg/960px-20120713-0283j_Octavio_Dotel.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Octavio_Dotel"
+        }
+      },
+      {
+        "id": "santiago-night_clubs-4",
+        "name": "The Interpreter",
+        "cityId": "santiago",
+        "categoryId": "night_clubs",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Interpreter%2C%20Santiago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/The_Interpreter_(album)",
+        "photo": null
+      },
+      {
+        "id": "santiago-night_clubs-5",
+        "name": "100 días para enamorarse",
+        "cityId": "santiago",
+        "categoryId": "night_clubs",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=100%20d%C3%ADas%20para%20enamorarse%2C%20Santiago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/100_d%C3%ADas_para_enamorarse_(Chilean_TV_series)",
+        "photo": null
+      },
+      {
+        "id": "santiago-night_clubs-6",
+        "name": "Ang Totoong Buhay ni Pacita M.",
+        "cityId": "santiago",
+        "categoryId": "night_clubs",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Ang%20Totoong%20Buhay%20ni%20Pacita%20M.%2C%20Santiago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Ang_Totoong_Buhay_ni_Pacita_M.",
+        "photo": null
+      },
+      {
+        "id": "santiago-night_clubs-7",
+        "name": "Jockey Plaza",
+        "cityId": "santiago",
+        "categoryId": "night_clubs",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Jockey%20Plaza%2C%20Santiago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Jockey_Plaza",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Lima_Peru_Modern_Shopping_mall.jpg/960px-Lima_Peru_Modern_Shopping_mall.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Jockey_Plaza"
+        }
+      },
+      {
+        "id": "santiago-night_clubs-8",
+        "name": "Valentín Pimstein",
+        "cityId": "santiago",
+        "categoryId": "night_clubs",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Valent%C3%ADn%20Pimstein%2C%20Santiago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Valent%C3%ADn_Pimstein",
+        "photo": null
+      },
+      {
+        "id": "santiago-night_clubs-9",
+        "name": "Nueva Cero",
+        "cityId": "santiago",
+        "categoryId": "night_clubs",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Nueva%20Cero%2C%20Santiago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Nueva_Cero",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Nueva_Cero%2C_San_Miguel%2C_Santiago_20251029_01.jpg/960px-Nueva_Cero%2C_San_Miguel%2C_Santiago_20251029_01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Nueva_Cero"
+        }
+      },
+      {
+        "id": "santiago-night_clubs-10",
+        "name": "Intimidation Games",
+        "cityId": "santiago",
+        "categoryId": "night_clubs",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Intimidation%20Games%2C%20Santiago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Intimidation_Games",
+        "photo": null
+      },
+      {
+        "id": "santiago-night_clubs-11",
+        "name": "Nelsy Cruz",
+        "cityId": "santiago",
+        "categoryId": "night_clubs",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Nelsy%20Cruz%2C%20Santiago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Nelsy_Cruz",
+        "photo": null
+      },
+      {
+        "id": "santiago-night_clubs-12",
+        "name": "Waze & Odyssey",
+        "cityId": "santiago",
+        "categoryId": "night_clubs",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Waze%20%26%20Odyssey%2C%20Santiago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Waze_%26_Odyssey",
+        "photo": null
+      },
+      {
+        "id": "santiago-night_clubs-13",
+        "name": "Yayo",
+        "cityId": "santiago",
+        "categoryId": "night_clubs",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Yayo%2C%20Santiago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Yayo_(drug_trafficker)",
+        "photo": null
+      },
+      {
+        "id": "santiago-night_clubs-14",
+        "name": "Ride a White Horse",
+        "cityId": "santiago",
+        "categoryId": "night_clubs",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Ride%20a%20White%20Horse%2C%20Santiago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Ride_a_White_Horse",
+        "photo": null
+      },
+      {
+        "id": "santiago-night_clubs-15",
+        "name": "Castelo da Póvoa",
+        "cityId": "santiago",
+        "categoryId": "night_clubs",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Castelo%20da%20P%C3%B3voa%2C%20Santiago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Castelo_da_P%C3%B3voa",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/Castelo_Povoa.JPG/960px-Castelo_Povoa.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Castelo_da_P%C3%B3voa"
+        }
+      },
+      {
+        "id": "santiago-night_clubs-16",
+        "name": "Moulin Rouge!",
+        "cityId": "santiago",
+        "categoryId": "night_clubs",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Moulin%20Rouge!%2C%20Santiago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Moulin_Rouge!_(musical)",
+        "photo": null
+      },
+      {
+        "id": "santiago-night_clubs-17",
+        "name": "Miss Gay America",
+        "cityId": "santiago",
+        "categoryId": "night_clubs",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Miss%20Gay%20America%2C%20Santiago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Miss_Gay_America",
+        "photo": null
+      },
+      {
+        "id": "santiago-night_clubs-18",
+        "name": "Marquita Rivera",
+        "cityId": "santiago",
+        "categoryId": "night_clubs",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Marquita%20Rivera%2C%20Santiago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Marquita_Rivera",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Marquita_Rivera.jpg/960px-Marquita_Rivera.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Marquita_Rivera"
+        }
+      }
+    ],
+    "restaurants": [
+      {
+        "id": "santiago-restaurants-1",
+        "name": "Santiago Canyon, California",
+        "cityId": "santiago",
+        "categoryId": "restaurants",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Santiago%20Canyon%2C%20California%2C%20Santiago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Santiago_Canyon%2C_California",
+        "photo": null
+      },
+      {
+        "id": "santiago-restaurants-2",
+        "name": "Barros Luco",
+        "cityId": "santiago",
+        "categoryId": "restaurants",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Barros%20Luco%2C%20Santiago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Barros_Luco",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/S%C3%A1ndwich_Barros_Luco_-_Fuente_Mardoqueo_-_01.jpg/960px-S%C3%A1ndwich_Barros_Luco_-_Fuente_Mardoqueo_-_01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Barros_Luco"
+        }
+      },
+      {
+        "id": "santiago-restaurants-3",
+        "name": "Barrio Bellavista",
+        "cityId": "santiago",
+        "categoryId": "restaurants",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Barrio%20Bellavista%2C%20Santiago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Barrio_Bellavista",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Bellavista_Santiago_Chile.JPG/960px-Bellavista_Santiago_Chile.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Barrio_Bellavista"
+        }
+      },
+      {
+        "id": "santiago-restaurants-4",
+        "name": "Versailles",
+        "cityId": "santiago",
+        "categoryId": "restaurants",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Versailles%2C%20Santiago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Versailles_(restaurant)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/2008-0426-FL-Versailles-EXT.jpg/960px-2008-0426-FL-Versailles-EXT.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Versailles_(restaurant)"
+        }
+      },
+      {
+        "id": "santiago-restaurants-5",
+        "name": "Maggie Rita's",
+        "cityId": "santiago",
+        "categoryId": "restaurants",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Maggie%20Rita's%2C%20Santiago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Maggie_Rita's",
+        "photo": null
+      },
+      {
+        "id": "santiago-restaurants-6",
+        "name": "Estadio Único Madre de Ciudades",
+        "cityId": "santiago",
+        "categoryId": "restaurants",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Estadio%20%C3%9Anico%20Madre%20de%20Ciudades%2C%20Santiago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Estadio_%C3%9Anico_Madre_de_Ciudades",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/Estadio_%C3%9Anico_Madre_de_Ciudades_%28Este%29.jpg/960px-Estadio_%C3%9Anico_Madre_de_Ciudades_%28Este%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Estadio_%C3%9Anico_Madre_de_Ciudades"
+        }
+      },
+      {
+        "id": "santiago-restaurants-7",
+        "name": "California Burrito Co.",
+        "cityId": "santiago",
+        "categoryId": "restaurants",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=California%20Burrito%20Co.%2C%20Santiago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/California_Burrito_Co.",
+        "photo": null
+      },
+      {
+        "id": "santiago-restaurants-8",
+        "name": "Santi Santamaria",
+        "cityId": "santiago",
+        "categoryId": "restaurants",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Santi%20Santamaria%2C%20Santiago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Santi_Santamaria",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/96/Santi_Santamaria.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Santi_Santamaria"
+        }
+      },
+      {
+        "id": "santiago-restaurants-9",
+        "name": "Barrio Lastarria",
+        "cityId": "santiago",
+        "categoryId": "restaurants",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Barrio%20Lastarria%2C%20Santiago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Barrio_Lastarria",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Barrio_Lastarria_Bellas_Artes.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Barrio_Lastarria"
+        }
+      },
+      {
+        "id": "santiago-restaurants-10",
+        "name": "Chilean International Exhibition",
+        "cityId": "santiago",
+        "categoryId": "restaurants",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Chilean%20International%20Exhibition%2C%20Santiago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Chilean_International_Exhibition",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/en/0/01/1875_Chilean_exhibition_plan.gif?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Chilean_International_Exhibition"
+        }
+      },
+      {
+        "id": "santiago-restaurants-11",
+        "name": "Moratinos, Palencia",
+        "cityId": "santiago",
+        "categoryId": "restaurants",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Moratinos%2C%20Palencia%2C%20Santiago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Moratinos%2C_Palencia",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/San_Nicol%C3%A1s_del_Real_Camino.jpg/960px-San_Nicol%C3%A1s_del_Real_Camino.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Moratinos%2C_Palencia"
+        }
+      },
+      {
+        "id": "santiago-restaurants-12",
+        "name": "Santiago",
+        "cityId": "santiago",
+        "categoryId": "restaurants",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Santiago%2C%20Santiago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Santiago",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Palacio_de_La_Moneda_-_miguelreflex.jpg/960px-Palacio_de_La_Moneda_-_miguelreflex.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Santiago"
+        }
+      },
+      {
+        "id": "santiago-restaurants-13",
+        "name": "Dominó",
+        "cityId": "santiago",
+        "categoryId": "restaurants",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Domin%C3%B3%2C%20Santiago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Domin%C3%B3_(Chile)",
+        "photo": null
+      },
+      {
+        "id": "santiago-restaurants-14",
+        "name": "Amar a morir",
+        "cityId": "santiago",
+        "categoryId": "restaurants",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Amar%20a%20morir%2C%20Santiago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Amar_a_morir_(TV_series)",
+        "photo": null
+      },
+      {
+        "id": "santiago-restaurants-15",
+        "name": "Fort of Cresmina",
+        "cityId": "santiago",
+        "categoryId": "restaurants",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Fort%20of%20Cresmina%2C%20Santiago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Fort_of_Cresmina",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/CrisminaFort1.jpg/960px-CrisminaFort1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Fort_of_Cresmina"
+        }
+      },
+      {
+        "id": "santiago-restaurants-16",
+        "name": "Los Ángeles de Estela",
+        "cityId": "santiago",
+        "categoryId": "restaurants",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Los%20%C3%81ngeles%20de%20Estela%2C%20Santiago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Los_%C3%81ngeles_de_Estela",
+        "photo": null
+      },
+      {
+        "id": "santiago-restaurants-17",
+        "name": "Goal!",
+        "cityId": "santiago",
+        "categoryId": "restaurants",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Goal!%2C%20Santiago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Goal!_(film)",
+        "photo": null
+      },
+      {
+        "id": "santiago-restaurants-18",
+        "name": "Torrente, the Dumb Arm of the Law",
+        "cityId": "santiago",
+        "categoryId": "restaurants",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Torrente%2C%20the%20Dumb%20Arm%20of%20the%20Law%2C%20Santiago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Torrente%2C_the_Dumb_Arm_of_the_Law",
+        "photo": null
+      }
+    ],
+    "bars": [
+      {
+        "id": "santiago-bars-1",
+        "name": "Maipo River",
+        "cityId": "santiago",
+        "categoryId": "bars",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Maipo%20River%2C%20Santiago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Maipo_River",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/R%C3%ADo_Maipo.jpg/960px-R%C3%ADo_Maipo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Maipo_River"
+        }
+      },
+      {
+        "id": "santiago-bars-2",
+        "name": "Arthur Mariano",
+        "cityId": "santiago",
+        "categoryId": "bars",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Arthur%20Mariano%2C%20Santiago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Arthur_Mariano",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/Arthur_Mariano_2016.jpg/960px-Arthur_Mariano_2016.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Arthur_Mariano"
+        }
+      },
+      {
+        "id": "santiago-bars-3",
+        "name": "1992 Philippine presidential election",
+        "cityId": "santiago",
+        "categoryId": "bars",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=1992%20Philippine%20presidential%20election%2C%20Santiago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/1992_Philippine_presidential_election",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/50/Fidel_Valdez_Ramos_Official_Photo_as_President_of_the_Philippines_%281995%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/1992_Philippine_presidential_election"
+        }
+      },
+      {
+        "id": "santiago-bars-4",
+        "name": "Jossimar Calvo",
+        "cityId": "santiago",
+        "categoryId": "bars",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Jossimar%20Calvo%2C%20Santiago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Jossimar_Calvo",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/95/Men%27s_All-around_Podium_2018_South_American_Games_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Jossimar_Calvo"
+        }
+      },
+      {
+        "id": "santiago-bars-5",
+        "name": "1998 Philippine presidential election",
+        "cityId": "santiago",
+        "categoryId": "bars",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=1998%20Philippine%20presidential%20election%2C%20Santiago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/1998_Philippine_presidential_election",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/President_Joseph_%22Erap%22_Ejercito_Estrada%2C_Argentine_President_Menem_%28cropped%29_%28cropped2%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/1998_Philippine_presidential_election"
+        }
+      },
+      {
+        "id": "santiago-bars-6",
+        "name": "Jorge Hugo Giraldo",
+        "cityId": "santiago",
+        "categoryId": "bars",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Jorge%20Hugo%20Giraldo%2C%20Santiago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Jorge_Hugo_Giraldo",
+        "photo": null
+      },
+      {
+        "id": "santiago-bars-7",
+        "name": "2007 Central American and Caribbean Age Group Championships in Athletics",
+        "cityId": "santiago",
+        "categoryId": "bars",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=2007%20Central%20American%20and%20Caribbean%20Age%20Group%20Championships%20in%20Athletics%2C%20Santiago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/2007_Central_American_and_Caribbean_Age_Group_Championships_in_Athletics",
+        "photo": null
+      },
+      {
+        "id": "santiago-bars-8",
+        "name": "Lucas Bitencourt",
+        "cityId": "santiago",
+        "categoryId": "bars",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Lucas%20Bitencourt%2C%20Santiago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Lucas_Bitencourt",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/Lucas_Bitenourt_at_the_2019_South_American_Artistic_Gymnastics_Championships.jpg/960px-Lucas_Bitenourt_at_the_2019_South_American_Artistic_Gymnastics_Championships.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Lucas_Bitencourt"
+        }
+      },
+      {
+        "id": "santiago-bars-9",
+        "name": "José Luis Zavalía",
+        "cityId": "santiago",
+        "categoryId": "bars",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Jos%C3%A9%20Luis%20Zaval%C3%ADa%2C%20Santiago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Jos%C3%A9_Luis_Zaval%C3%ADa",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Jos%C3%A9_Luis_Zaval%C3%ADa_Senador.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Jos%C3%A9_Luis_Zaval%C3%ADa"
+        }
+      },
+      {
+        "id": "santiago-bars-10",
+        "name": "Maggie Rita's",
+        "cityId": "santiago",
+        "categoryId": "bars",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Maggie%20Rita's%2C%20Santiago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Maggie_Rita's",
+        "photo": null
+      },
+      {
+        "id": "santiago-bars-11",
+        "name": "Rubber-tyred metro",
+        "cityId": "santiago",
+        "categoryId": "bars",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Rubber-tyred%20metro%2C%20Santiago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Rubber-tyred_metro",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/ST_SN5000_20061102_001.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Rubber-tyred_metro"
+        }
+      },
+      {
+        "id": "santiago-bars-12",
+        "name": "María Elisa Castro",
+        "cityId": "santiago",
+        "categoryId": "bars",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Mar%C3%ADa%20Elisa%20Castro%2C%20Santiago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Mar%C3%ADa_Elisa_Castro",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Mar%C3%ADa_Elisa_Castro.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Mar%C3%ADa_Elisa_Castro"
+        }
+      },
+      {
+        "id": "santiago-bars-13",
+        "name": "Santiago Polanco-Abreu",
+        "cityId": "santiago",
+        "categoryId": "bars",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Santiago%20Polanco-Abreu%2C%20Santiago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Santiago_Polanco-Abreu",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/59/Santiago_Polanco_Abreu.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Santiago_Polanco-Abreu"
+        }
+      },
+      {
+        "id": "santiago-bars-14",
+        "name": "Fort Santiago da Barra",
+        "cityId": "santiago",
+        "categoryId": "bars",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Fort%20Santiago%20da%20Barra%2C%20Santiago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Fort_Santiago_da_Barra",
+        "photo": null
+      },
+      {
+        "id": "santiago-bars-15",
+        "name": "Joey Santiago",
+        "cityId": "santiago",
+        "categoryId": "bars",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Joey%20Santiago%2C%20Santiago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Joey_Santiago",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/POS17_%40Kristsll-258_%2835617119940%29_%28cropped%29.jpg/960px-POS17_%40Kristsll-258_%2835617119940%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Joey_Santiago"
+        }
+      },
+      {
+        "id": "santiago-bars-16",
+        "name": "Judicial and Bar Council",
+        "cityId": "santiago",
+        "categoryId": "bars",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Judicial%20and%20Bar%20Council%2C%20Santiago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Judicial_and_Bar_Council",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/Judicial_and_Bar_Council_of_the_Philippines_%28JBC%29.svg/960px-Judicial_and_Bar_Council_of_the_Philippines_%28JBC%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Judicial_and_Bar_Council"
+        }
+      },
+      {
+        "id": "santiago-bars-17",
+        "name": "Francisco Barretto Júnior",
+        "cityId": "santiago",
+        "categoryId": "bars",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Francisco%20Barretto%20J%C3%BAnior%2C%20Santiago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Francisco_Barretto_J%C3%BAnior",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Francisco_Barretto_2016.jpg/960px-Francisco_Barretto_2016.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Francisco_Barretto_J%C3%BAnior"
+        }
+      },
+      {
+        "id": "santiago-bars-18",
+        "name": "Ester Soré",
+        "cityId": "santiago",
+        "categoryId": "bars",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Ester%20Sor%C3%A9%2C%20Santiago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Ester_Sor%C3%A9",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Ester_Sor%C3%A9.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Ester_Sor%C3%A9"
+        }
+      }
+    ],
+    "coffee_shops": [
+      {
+        "id": "santiago-coffee_shops-1",
+        "name": "Miss Dominican Republic 1982",
+        "cityId": "santiago",
+        "categoryId": "coffee_shops",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Miss%20Dominican%20Republic%201982%2C%20Santiago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Miss_Dominican_Republic_1982",
+        "photo": null
+      },
+      {
+        "id": "santiago-coffee_shops-2",
+        "name": "Miss Dominican Republic 1980",
+        "cityId": "santiago",
+        "categoryId": "coffee_shops",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Miss%20Dominican%20Republic%201980%2C%20Santiago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Miss_Dominican_Republic_1980",
+        "photo": null
+      },
+      {
+        "id": "santiago-coffee_shops-3",
+        "name": "Miss Dominican Republic 1984",
+        "cityId": "santiago",
+        "categoryId": "coffee_shops",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Miss%20Dominican%20Republic%201984%2C%20Santiago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Miss_Dominican_Republic_1984",
+        "photo": null
+      },
+      {
+        "id": "santiago-coffee_shops-4",
+        "name": "Miss Dominican Republic 1985",
+        "cityId": "santiago",
+        "categoryId": "coffee_shops",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Miss%20Dominican%20Republic%201985%2C%20Santiago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Miss_Dominican_Republic_1985",
+        "photo": null
+      },
+      {
+        "id": "santiago-coffee_shops-5",
+        "name": "Miss Dominican Republic 1987",
+        "cityId": "santiago",
+        "categoryId": "coffee_shops",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Miss%20Dominican%20Republic%201987%2C%20Santiago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Miss_Dominican_Republic_1987",
+        "photo": null
+      },
+      {
+        "id": "santiago-coffee_shops-6",
+        "name": "Miss Dominican Republic 1983",
+        "cityId": "santiago",
+        "categoryId": "coffee_shops",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Miss%20Dominican%20Republic%201983%2C%20Santiago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Miss_Dominican_Republic_1983",
+        "photo": null
+      },
+      {
+        "id": "santiago-coffee_shops-7",
+        "name": "Picada Café",
+        "cityId": "santiago",
+        "categoryId": "coffee_shops",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Picada%20Caf%C3%A9%2C%20Santiago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Picada_Caf%C3%A9",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/Parque_Picada_Caf%C3%A9_-_panoramio_%281%29.jpg/960px-Parque_Picada_Caf%C3%A9_-_panoramio_%281%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Picada_Caf%C3%A9"
+        }
+      },
+      {
+        "id": "santiago-coffee_shops-8",
+        "name": "Miss Dominican Republic 1963",
+        "cityId": "santiago",
+        "categoryId": "coffee_shops",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Miss%20Dominican%20Republic%201963%2C%20Santiago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Miss_Dominican_Republic_1963",
+        "photo": null
+      },
+      {
+        "id": "santiago-coffee_shops-9",
+        "name": "Miss Dominican Republic 1988",
+        "cityId": "santiago",
+        "categoryId": "coffee_shops",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Miss%20Dominican%20Republic%201988%2C%20Santiago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Miss_Dominican_Republic_1988",
+        "photo": null
+      },
+      {
+        "id": "santiago-coffee_shops-10",
+        "name": "Versailles",
+        "cityId": "santiago",
+        "categoryId": "coffee_shops",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Versailles%2C%20Santiago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Versailles_(restaurant)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/2008-0426-FL-Versailles-EXT.jpg/960px-2008-0426-FL-Versailles-EXT.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Versailles_(restaurant)"
+        }
+      },
+      {
+        "id": "santiago-coffee_shops-11",
+        "name": "Miss Dominican Republic 1981",
+        "cityId": "santiago",
+        "categoryId": "coffee_shops",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Miss%20Dominican%20Republic%201981%2C%20Santiago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Miss_Dominican_Republic_1981",
+        "photo": null
+      },
+      {
+        "id": "santiago-coffee_shops-12",
+        "name": "Parque del Café",
+        "cityId": "santiago",
+        "categoryId": "coffee_shops",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Parque%20del%20Caf%C3%A9%2C%20Santiago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Parque_del_Caf%C3%A9",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Colombian_National_Coffee_Park_195.JPG/960px-Colombian_National_Coffee_Park_195.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Parque_del_Caf%C3%A9"
+        }
+      },
+      {
+        "id": "santiago-coffee_shops-13",
+        "name": "Café con piernas",
+        "cityId": "santiago",
+        "categoryId": "coffee_shops",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Caf%C3%A9%20con%20piernas%2C%20Santiago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Caf%C3%A9_con_piernas",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/Caf%C3%A9_Gaz%C3%BA%2C_Santiago_20230417.jpg/960px-Caf%C3%A9_Gaz%C3%BA%2C_Santiago_20230417.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Caf%C3%A9_con_piernas"
+        }
+      },
+      {
+        "id": "santiago-coffee_shops-14",
+        "name": "Miss Universe Dominicana 2000",
+        "cityId": "santiago",
+        "categoryId": "coffee_shops",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Miss%20Universe%20Dominicana%202000%2C%20Santiago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Miss_Universe_Dominicana_2000",
+        "photo": null
+      },
+      {
+        "id": "santiago-coffee_shops-15",
+        "name": "Miss Universe Dominicana 2001",
+        "cityId": "santiago",
+        "categoryId": "coffee_shops",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Miss%20Universe%20Dominicana%202001%2C%20Santiago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Miss_Universe_Dominicana_2001",
+        "photo": null
+      },
+      {
+        "id": "santiago-coffee_shops-16",
+        "name": "Coffee production in Colombia",
+        "cityId": "santiago",
+        "categoryId": "coffee_shops",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Coffee%20production%20in%20Colombia%2C%20Santiago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Coffee_production_in_Colombia",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Paisaje-Cafetero-Colombiano.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Coffee_production_in_Colombia"
+        }
+      },
+      {
+        "id": "santiago-coffee_shops-17",
+        "name": "Miss Dominican Republic 1996",
+        "cityId": "santiago",
+        "categoryId": "coffee_shops",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Miss%20Dominican%20Republic%201996%2C%20Santiago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Miss_Dominican_Republic_1996",
+        "photo": null
+      },
+      {
+        "id": "santiago-coffee_shops-18",
+        "name": "Miss Dominican Republic 2013",
+        "cityId": "santiago",
+        "categoryId": "coffee_shops",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Miss%20Dominican%20Republic%202013%2C%20Santiago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Miss_Dominican_Republic_2013",
+        "photo": null
+      }
+    ],
+    "bookshops": [
+      {
+        "id": "santiago-bookshops-1",
+        "name": "Editorial Universitaria",
+        "cityId": "santiago",
+        "categoryId": "bookshops",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Editorial%20Universitaria%2C%20Santiago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Editorial_Universitaria",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Librer%C3%ADa_Universitaria%2C_Santiago_20190718_11.jpg/960px-Librer%C3%ADa_Universitaria%2C_Santiago_20190718_11.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Editorial_Universitaria"
+        }
+      },
+      {
+        "id": "santiago-bookshops-2",
+        "name": "Milkweed Editions",
+        "cityId": "santiago",
+        "categoryId": "bookshops",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Milkweed%20Editions%2C%20Santiago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Milkweed_Editions",
+        "photo": null
+      },
+      {
+        "id": "santiago-bookshops-3",
+        "name": "MIT Press",
+        "cityId": "santiago",
+        "categoryId": "bookshops",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=MIT%20Press%2C%20Santiago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/MIT_Press",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/MIT_Press_logo_%28black%29.svg/960px-MIT_Press_logo_%28black%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/MIT_Press"
+        }
+      },
+      {
+        "id": "santiago-bookshops-4",
+        "name": "Fondo de Cultura Económica",
+        "cityId": "santiago",
+        "categoryId": "bookshops",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Fondo%20de%20Cultura%20Econ%C3%B3mica%2C%20Santiago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Fondo_de_Cultura_Econ%C3%B3mica",
+        "photo": null
+      },
+      {
+        "id": "santiago-bookshops-5",
+        "name": "Millennium Art Academy",
+        "cityId": "santiago",
+        "categoryId": "bookshops",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Millennium%20Art%20Academy%2C%20Santiago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Millennium_Art_Academy",
+        "photo": null
+      },
+      {
+        "id": "santiago-bookshops-6",
+        "name": "Magdiwang",
+        "cityId": "santiago",
+        "categoryId": "bookshops",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Magdiwang%2C%20Santiago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Magdiwang_(faction)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Flag_of_the_Sovereign_Tagalog_Nation.svg/960px-Flag_of_the_Sovereign_Tagalog_Nation.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Magdiwang_(faction)"
+        }
+      },
+      {
+        "id": "santiago-bookshops-7",
+        "name": "Tigre Juan Award",
+        "cityId": "santiago",
+        "categoryId": "bookshops",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Tigre%20Juan%20Award%2C%20Santiago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Tigre_Juan_Award",
+        "photo": null
+      },
+      {
+        "id": "santiago-bookshops-8",
+        "name": "Miriam Defensor Santiago",
+        "cityId": "santiago",
+        "categoryId": "bookshops",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Miriam%20Defensor%20Santiago%2C%20Santiago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Miriam_Defensor_Santiago",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Senator_Miriam_Defensor_Santiago_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Miriam_Defensor_Santiago"
+        }
+      },
+      {
+        "id": "santiago-bookshops-9",
+        "name": "Imus Assembly",
+        "cityId": "santiago",
+        "categoryId": "bookshops",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Imus%20Assembly%2C%20Santiago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Imus_Assembly",
+        "photo": null
+      },
+      {
+        "id": "santiago-bookshops-10",
+        "name": "L'Àgora",
+        "cityId": "santiago",
+        "categoryId": "bookshops",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=L'%C3%80gora%2C%20Santiago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/L'%C3%80gora",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/%C3%81gora%2C_Ciudad_de_las_Artes_y_las_Ciencias%2C_Valencia%2C_Espa%C3%B1a%2C_2014-06-29%2C_DD_44.JPG/960px-%C3%81gora%2C_Ciudad_de_las_Artes_y_las_Ciencias%2C_Valencia%2C_Espa%C3%B1a%2C_2014-06-29%2C_DD_44.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/L'%C3%80gora"
+        }
+      },
+      {
+        "id": "santiago-bookshops-11",
+        "name": "De La Salle Santiago Zobel School",
+        "cityId": "santiago",
+        "categoryId": "bookshops",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=De%20La%20Salle%20Santiago%20Zobel%20School%2C%20Santiago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/De_La_Salle_Santiago_Zobel_School",
+        "photo": null
+      },
+      {
+        "id": "santiago-bookshops-12",
+        "name": "Enrique Lafourcade",
+        "cityId": "santiago",
+        "categoryId": "bookshops",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Enrique%20Lafourcade%2C%20Santiago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Enrique_Lafourcade",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/en/7/70/Lafourcade.GIF?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Enrique_Lafourcade"
+        }
+      },
+      {
+        "id": "santiago-bookshops-13",
+        "name": "Anna in the Tropics",
+        "cityId": "santiago",
+        "categoryId": "bookshops",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Anna%20in%20the%20Tropics%2C%20Santiago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Anna_in_the_Tropics",
+        "photo": null
+      },
+      {
+        "id": "santiago-bookshops-14",
+        "name": "Reese Lansangan",
+        "cityId": "santiago",
+        "categoryId": "bookshops",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Reese%20Lansangan%2C%20Santiago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Reese_Lansangan",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Reese_Lansangan_Makati_on_17_June_2016.jpg/960px-Reese_Lansangan_Makati_on_17_June_2016.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Reese_Lansangan"
+        }
+      },
+      {
+        "id": "santiago-bookshops-15",
+        "name": "Museum of Mexico City",
+        "cityId": "santiago",
+        "categoryId": "bookshops",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Museum%20of%20Mexico%20City%2C%20Santiago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Museum_of_Mexico_City",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/Museo_de_la_Ciudad_de_M%C3%A9xico._Fotograf%C3%ADa_Viviana_Mart%C3%ADnez_2017.jpg/960px-Museo_de_la_Ciudad_de_M%C3%A9xico._Fotograf%C3%ADa_Viviana_Mart%C3%ADnez_2017.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Museum_of_Mexico_City"
+        }
+      },
+      {
+        "id": "santiago-bookshops-16",
+        "name": "Andrés Bonifacio",
+        "cityId": "santiago",
+        "categoryId": "bookshops",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Andr%C3%A9s%20Bonifacio%2C%20Santiago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Andr%C3%A9s_Bonifacio",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Andr%C3%A9s_Bonifacio_photo_%28cropped%29.jpg/960px-Andr%C3%A9s_Bonifacio_photo_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Andr%C3%A9s_Bonifacio"
+        }
+      },
+      {
+        "id": "santiago-bookshops-17",
+        "name": "Demófilo",
+        "cityId": "santiago",
+        "categoryId": "bookshops",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Dem%C3%B3filo%2C%20Santiago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Dem%C3%B3filo",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/08/DemofiloyAnaRuiz_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Dem%C3%B3filo"
+        }
+      },
+      {
+        "id": "santiago-bookshops-18",
+        "name": "Braga",
+        "cityId": "santiago",
+        "categoryId": "bookshops",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Braga%2C%20Santiago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Braga_(Maximinos%2C_S%C3%A9_e_Cividade)",
+        "photo": null
+      }
+    ],
+    "museums": [
+      {
+        "id": "santiago-museums-1",
+        "name": "Santiago",
+        "cityId": "santiago",
+        "categoryId": "museums",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Santiago%2C%20Santiago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Santiago",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Palacio_de_La_Moneda_-_miguelreflex.jpg/960px-Palacio_de_La_Moneda_-_miguelreflex.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Santiago"
+        }
+      },
+      {
+        "id": "santiago-museums-2",
+        "name": "Chilean National Museum of Fine Arts",
+        "cityId": "santiago",
+        "categoryId": "museums",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Chilean%20National%20Museum%20of%20Fine%20Arts%2C%20Santiago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Chilean_National_Museum_of_Fine_Arts",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Chilean_National_Museum_of_Fine_Arts_2023.jpg/960px-Chilean_National_Museum_of_Fine_Arts_2023.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Chilean_National_Museum_of_Fine_Arts"
+        }
+      },
+      {
+        "id": "santiago-museums-3",
+        "name": "Santiago Calatrava",
+        "cityId": "santiago",
+        "categoryId": "museums",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Santiago%20Calatrava%2C%20Santiago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Santiago_Calatrava",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Santiago_Calatrava_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Santiago_Calatrava"
+        }
+      },
+      {
+        "id": "santiago-museums-4",
+        "name": "Fort of Santiago do Outão",
+        "cityId": "santiago",
+        "categoryId": "museums",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Fort%20of%20Santiago%20do%20Out%C3%A3o%2C%20Santiago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Fort_of_Santiago_do_Out%C3%A3o",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Fuerte_de_Santiago_do_Out%C3%A3o%2C_Set%C3%BAbal%2C_Portugal%2C_2020-07-19%2C_DD_05.jpg/960px-Fuerte_de_Santiago_do_Out%C3%A3o%2C_Set%C3%BAbal%2C_Portugal%2C_2020-07-19%2C_DD_05.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Fort_of_Santiago_do_Out%C3%A3o"
+        }
+      },
+      {
+        "id": "santiago-museums-5",
+        "name": "Pablo Picasso",
+        "cityId": "santiago",
+        "categoryId": "museums",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Pablo%20Picasso%2C%20Santiago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Pablo_Picasso",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/98/Pablo_picasso_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Pablo_Picasso"
+        }
+      },
+      {
+        "id": "santiago-museums-6",
+        "name": "Bellas Artes metro station",
+        "cityId": "santiago",
+        "categoryId": "museums",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Bellas%20Artes%20metro%20station%2C%20Santiago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Bellas_Artes_metro_station_(Santiago)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Bellas_Artes_2.JPG/960px-Bellas_Artes_2.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Bellas_Artes_metro_station_(Santiago)"
+        }
+      },
+      {
+        "id": "santiago-museums-7",
+        "name": "Rizal Shrine",
+        "cityId": "santiago",
+        "categoryId": "museums",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Rizal%20Shrine%2C%20Santiago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Rizal_Shrine_(Intramuros)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Jose_Rizal_Shrine_at_Fort_Santiago.jpg/960px-Jose_Rizal_Shrine_at_Fort_Santiago.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Rizal_Shrine_(Intramuros)"
+        }
+      },
+      {
+        "id": "santiago-museums-8",
+        "name": "Santiago Tuxtla",
+        "cityId": "santiago",
+        "categoryId": "museums",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Santiago%20Tuxtla%2C%20Santiago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Santiago_Tuxtla",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/SagradoTuxtla01.JPG/960px-SagradoTuxtla01.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Santiago_Tuxtla"
+        }
+      },
+      {
+        "id": "santiago-museums-9",
+        "name": "Santiago Ramón y Cajal",
+        "cityId": "santiago",
+        "categoryId": "museums",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Santiago%20Ram%C3%B3n%20y%20Cajal%2C%20Santiago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Santiago_Ram%C3%B3n_y_Cajal",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Santiago_Ram%C3%B3n_y_Cajal_%281852-1934%29_portrait_%28restored%29.jpg/960px-Santiago_Ram%C3%B3n_y_Cajal_%281852-1934%29_portrait_%28restored%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Santiago_Ram%C3%B3n_y_Cajal"
+        }
+      },
+      {
+        "id": "santiago-museums-10",
+        "name": "Querétaro",
+        "cityId": "santiago",
+        "categoryId": "museums",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Quer%C3%A9taro%2C%20Santiago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Quer%C3%A9taro_(city)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Panor%C3%A1mica_Jard%C3%ADn_Zenea.jpg/960px-Panor%C3%A1mica_Jard%C3%ADn_Zenea.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Quer%C3%A9taro_(city)"
+        }
+      },
+      {
+        "id": "santiago-museums-11",
+        "name": "Santiago Museum of Contemporary Art",
+        "cityId": "santiago",
+        "categoryId": "museums",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Santiago%20Museum%20of%20Contemporary%20Art%2C%20Santiago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Santiago_Museum_of_Contemporary_Art",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Museo_de_Arte_Contempor%C3%A1neo%2C_Santiago%2C_2016-10-01.jpg/960px-Museo_de_Arte_Contempor%C3%A1neo%2C_Santiago%2C_2016-10-01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Santiago_Museum_of_Contemporary_Art"
+        }
+      },
+      {
+        "id": "santiago-museums-12",
+        "name": "Milwaukee Art Museum",
+        "cityId": "santiago",
+        "categoryId": "museums",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Milwaukee%20Art%20Museum%2C%20Santiago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Milwaukee_Art_Museum",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Milwaukee_Art_Museum_Logo.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Milwaukee_Art_Museum"
+        }
+      },
+      {
+        "id": "santiago-museums-13",
+        "name": "Quinta Normal metro station",
+        "cityId": "santiago",
+        "categoryId": "museums",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Quinta%20Normal%20metro%20station%2C%20Santiago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Quinta_Normal_metro_station",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/Qn1.jpg/960px-Qn1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Quinta_Normal_metro_station"
+        }
+      },
+      {
+        "id": "santiago-museums-14",
+        "name": "Museum of Mexico City",
+        "cityId": "santiago",
+        "categoryId": "museums",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Museum%20of%20Mexico%20City%2C%20Santiago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Museum_of_Mexico_City",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/Museo_de_la_Ciudad_de_M%C3%A9xico._Fotograf%C3%ADa_Viviana_Mart%C3%ADnez_2017.jpg/960px-Museo_de_la_Ciudad_de_M%C3%A9xico._Fotograf%C3%ADa_Viviana_Mart%C3%ADnez_2017.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Museum_of_Mexico_City"
+        }
+      },
+      {
+        "id": "santiago-museums-15",
+        "name": "Ponferrada",
+        "cityId": "santiago",
+        "categoryId": "museums",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Ponferrada%2C%20Santiago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Ponferrada",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Panor%C3%A1mica_de_Ponferrada_%2843237697250%29.jpg/960px-Panor%C3%A1mica_de_Ponferrada_%2843237697250%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Ponferrada"
+        }
+      },
+      {
+        "id": "santiago-museums-16",
+        "name": "Santiago del Estero",
+        "cityId": "santiago",
+        "categoryId": "museums",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Santiago%20del%20Estero%2C%20Santiago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Santiago_del_Estero",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/Santiago_del_Estero.jpg/960px-Santiago_del_Estero.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Santiago_del_Estero"
+        }
+      },
+      {
+        "id": "santiago-museums-17",
+        "name": "Trinity Bridge, Greater Manchester",
+        "cityId": "santiago",
+        "categoryId": "museums",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Trinity%20Bridge%2C%20Greater%20Manchester%2C%20Santiago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Trinity_Bridge%2C_Greater_Manchester",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/N2_Trinity_Bridge_manchester.jpg/960px-N2_Trinity_Bridge_manchester.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Trinity_Bridge%2C_Greater_Manchester"
+        }
+      },
+      {
+        "id": "santiago-museums-18",
+        "name": "Church of Santiago, Toledo",
+        "cityId": "santiago",
+        "categoryId": "museums",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Church%20of%20Santiago%2C%20Toledo%2C%20Santiago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Church_of_Santiago%2C_Toledo",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Fachada_Iglesia_de_Santiago%2C_Toledo.jpg/960px-Fachada_Iglesia_de_Santiago%2C_Toledo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Church_of_Santiago%2C_Toledo"
+        }
+      }
+    ],
+    "concerts": [
+      {
+        "id": "santiago-concerts-1",
+        "name": "Contemporary architecture",
+        "cityId": "santiago",
+        "categoryId": "concerts",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Contemporary%20architecture%2C%20Santiago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Contemporary_architecture",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Hard_Rock_Hotel_Singapore.jpg/960px-Hard_Rock_Hotel_Singapore.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Contemporary_architecture"
+        }
+      },
+      {
+        "id": "santiago-concerts-2",
+        "name": "Juan París",
+        "cityId": "santiago",
+        "categoryId": "concerts",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Juan%20Par%C3%ADs%2C%20Santiago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Juan_Par%C3%ADs",
+        "photo": null
+      },
+      {
+        "id": "santiago-concerts-3",
+        "name": "Atlanta Symphony Center",
+        "cityId": "santiago",
+        "categoryId": "concerts",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Atlanta%20Symphony%20Center%2C%20Santiago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Atlanta_Symphony_Center",
+        "photo": null
+      },
+      {
+        "id": "santiago-concerts-4",
+        "name": "En chamade",
+        "cityId": "santiago",
+        "categoryId": "concerts",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=En%20chamade%2C%20Santiago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/En_chamade",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Cathedral_organ._Santiago_de_Compostela.jpg/960px-Cathedral_organ._Santiago_de_Compostela.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/En_chamade"
+        }
+      },
+      {
+        "id": "santiago-concerts-5",
+        "name": "Helene Zelazo Center for the Performing Arts",
+        "cityId": "santiago",
+        "categoryId": "concerts",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Helene%20Zelazo%20Center%20for%20the%20Performing%20Arts%2C%20Santiago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Helene_Zelazo_Center_for_the_Performing_Arts",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Helene_Zelazo_Center_for_the_Performing_Arts.jpg/960px-Helene_Zelazo_Center_for_the_Performing_Arts.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Helene_Zelazo_Center_for_the_Performing_Arts"
+        }
+      },
+      {
+        "id": "santiago-concerts-6",
+        "name": "Xoco",
+        "cityId": "santiago",
+        "categoryId": "concerts",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Xoco%2C%20Santiago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Xoco",
+        "photo": null
+      },
+      {
+        "id": "santiago-concerts-7",
+        "name": "Church of San Sebastián, Toledo",
+        "cityId": "santiago",
+        "categoryId": "concerts",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Church%20of%20San%20Sebasti%C3%A1n%2C%20Toledo%2C%20Santiago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Church_of_San_Sebasti%C3%A1n%2C_Toledo",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/Toledo_2015_10_26_2803_%2826732620315%29_%28cropped%29_iglesia_de_San_Sebasti%C3%A1n.jpg/960px-Toledo_2015_10_26_2803_%2826732620315%29_%28cropped%29_iglesia_de_San_Sebasti%C3%A1n.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Church_of_San_Sebasti%C3%A1n%2C_Toledo"
+        }
+      },
+      {
+        "id": "santiago-concerts-8",
+        "name": "Otros Aires",
+        "cityId": "santiago",
+        "categoryId": "concerts",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Otros%20Aires%2C%20Santiago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Otros_Aires",
+        "photo": null
+      },
+      {
+        "id": "santiago-concerts-9",
+        "name": "The Pilgrim",
+        "cityId": "santiago",
+        "categoryId": "concerts",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Pilgrim%2C%20Santiago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/The_Pilgrim_(Shaun_Davey_album)",
+        "photo": null
+      },
+      {
+        "id": "santiago-concerts-10",
+        "name": "Björk Orkestral",
+        "cityId": "santiago",
+        "categoryId": "concerts",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Bj%C3%B6rk%20Orkestral%2C%20Santiago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Bj%C3%B6rk_Orkestral",
+        "photo": null
+      },
+      {
+        "id": "santiago-concerts-11",
+        "name": "Memphis Blues Tour",
+        "cityId": "santiago",
+        "categoryId": "concerts",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Memphis%20Blues%20Tour%2C%20Santiago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Memphis_Blues_Tour",
+        "photo": null
+      },
+      {
+        "id": "santiago-concerts-12",
+        "name": "Santiago Calatrava",
+        "cityId": "santiago",
+        "categoryId": "concerts",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Santiago%20Calatrava%2C%20Santiago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Santiago_Calatrava",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Santiago_Calatrava_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Santiago_Calatrava"
+        }
+      },
+      {
+        "id": "santiago-concerts-13",
+        "name": "Pokémon: Symphonic Evolutions",
+        "cityId": "santiago",
+        "categoryId": "concerts",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Pok%C3%A9mon%3A%20Symphonic%20Evolutions%2C%20Santiago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Pok%C3%A9mon%3A_Symphonic_Evolutions",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/de/Pokemon_Symphonic.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Pok%C3%A9mon%3A_Symphonic_Evolutions"
+        }
+      },
+      {
+        "id": "santiago-concerts-14",
+        "name": "In the Name of Love Tour",
+        "cityId": "santiago",
+        "categoryId": "concerts",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=In%20the%20Name%20of%20Love%20Tour%2C%20Santiago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/In_the_Name_of_Love_Tour",
+        "photo": null
+      },
+      {
+        "id": "santiago-concerts-15",
+        "name": "Esther Vagning",
+        "cityId": "santiago",
+        "categoryId": "concerts",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Esther%20Vagning%2C%20Santiago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Esther_Vagning",
+        "photo": null
+      },
+      {
+        "id": "santiago-concerts-16",
+        "name": "Alice Tully Hall",
+        "cityId": "santiago",
+        "categoryId": "concerts",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Alice%20Tully%20Hall%2C%20Santiago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Alice_Tully_Hall",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Alice_Tully_Hall_%2848047494177%29.jpg/960px-Alice_Tully_Hall_%2848047494177%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Alice_Tully_Hall"
+        }
+      },
+      {
+        "id": "santiago-concerts-17",
+        "name": "Eugenia León",
+        "cityId": "santiago",
+        "categoryId": "concerts",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Eugenia%20Le%C3%B3n%2C%20Santiago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Eugenia_Le%C3%B3n",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/EugeniaLeon.jpg/960px-EugeniaLeon.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Eugenia_Le%C3%B3n"
+        }
+      },
+      {
+        "id": "santiago-concerts-18",
+        "name": "Allison Vulgamore",
+        "cityId": "santiago",
+        "categoryId": "concerts",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Allison%20Vulgamore%2C%20Santiago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Allison_Vulgamore",
+        "photo": null
+      }
+    ],
+    "fashion": [
+      {
+        "id": "santiago-fashion-1",
+        "name": "S.A.C.I. Falabella",
+        "cityId": "santiago",
+        "categoryId": "fashion",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=S.A.C.I.%20Falabella%2C%20Santiago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/S.A.C.I._Falabella",
+        "photo": null
+      },
+      {
+        "id": "santiago-fashion-2",
+        "name": "Nicole Moreno",
+        "cityId": "santiago",
+        "categoryId": "fashion",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Nicole%20Moreno%2C%20Santiago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Nicole_Moreno",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/Copihue_de_Oro_2018_-_Nicole_Moreno_-_02.jpg/960px-Copihue_de_Oro_2018_-_Nicole_Moreno_-_02.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Nicole_Moreno"
+        }
+      },
+      {
+        "id": "santiago-fashion-3",
+        "name": "Horatio Sanz",
+        "cityId": "santiago",
+        "categoryId": "fashion",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Horatio%20Sanz%2C%20Santiago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Horatio_Sanz",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Horatio_Sanz_on_Behind_The_Velvet_Rope_TV_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Horatio_Sanz"
+        }
+      },
+      {
+        "id": "santiago-fashion-4",
+        "name": "Jennifer Ouellette",
+        "cityId": "santiago",
+        "categoryId": "fashion",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Jennifer%20Ouellette%2C%20Santiago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Jennifer_Ouellette_(milliner)",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Jennifer_Ouellette_%28Milliner%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Jennifer_Ouellette_(milliner)"
+        }
+      },
+      {
+        "id": "santiago-fashion-5",
+        "name": "María Antonieta de las Nieves",
+        "cityId": "santiago",
+        "categoryId": "fashion",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Mar%C3%ADa%20Antonieta%20de%20las%20Nieves%2C%20Santiago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Mar%C3%ADa_Antonieta_de_las_Nieves",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/39/Mar%C3%ADaAntonietaDeLasNieves2024.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Mar%C3%ADa_Antonieta_de_las_Nieves"
+        }
+      },
+      {
+        "id": "santiago-fashion-6",
+        "name": "Mi familia perfecta",
+        "cityId": "santiago",
+        "categoryId": "fashion",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Mi%20familia%20perfecta%2C%20Santiago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Mi_familia_perfecta",
+        "photo": null
+      },
+      {
+        "id": "santiago-fashion-7",
+        "name": "Peter John Ramos",
+        "cityId": "santiago",
+        "categoryId": "fashion",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Peter%20John%20Ramos%2C%20Santiago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Peter_John_Ramos",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Peter_John_Ramos_being_interviewed_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Peter_John_Ramos"
+        }
+      },
+      {
+        "id": "santiago-fashion-8",
+        "name": "Belkis Cuza Malé",
+        "cityId": "santiago",
+        "categoryId": "fashion",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Belkis%20Cuza%20Mal%C3%A9%2C%20Santiago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Belkis_Cuza_Mal%C3%A9",
+        "photo": null
+      },
+      {
+        "id": "santiago-fashion-9",
+        "name": "Blake Jenner",
+        "cityId": "santiago",
+        "categoryId": "fashion",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Blake%20Jenner%2C%20Santiago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Blake_Jenner",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/63/Blake_Jenner_2013.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Blake_Jenner"
+        }
+      },
+      {
+        "id": "santiago-fashion-10",
+        "name": "Aminah Nieves",
+        "cityId": "santiago",
+        "categoryId": "fashion",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Aminah%20Nieves%2C%20Santiago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Aminah_Nieves",
+        "photo": null
+      },
+      {
+        "id": "santiago-fashion-11",
+        "name": "Buildering",
+        "cityId": "santiago",
+        "categoryId": "fashion",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Buildering%2C%20Santiago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Buildering",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/86/Buildering_On_Doran_Bridge.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Buildering"
+        }
+      },
+      {
+        "id": "santiago-fashion-12",
+        "name": "Double-decker bus",
+        "cityId": "santiago",
+        "categoryId": "fashion",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Double-decker%20bus%2C%20Santiago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Double-decker_bus",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/Abellio_LT157_%28LTZ1157%29_Holborn_Viaduct_20.01.2024.jpg/960px-Abellio_LT157_%28LTZ1157%29_Holborn_Viaduct_20.01.2024.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Double-decker_bus"
+        }
+      },
+      {
+        "id": "santiago-fashion-13",
+        "name": "Historic Centre of Lima",
+        "cityId": "santiago",
+        "categoryId": "fashion",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Historic%20Centre%20of%20Lima%2C%20Santiago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Historic_Centre_of_Lima",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Plaza_de_Armas%2C_Lima.jpg/960px-Plaza_de_Armas%2C_Lima.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Historic_Centre_of_Lima"
+        }
+      },
+      {
+        "id": "santiago-fashion-14",
+        "name": "Josemaría Escrivá",
+        "cityId": "santiago",
+        "categoryId": "fashion",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Josemar%C3%ADa%20Escriv%C3%A1%2C%20Santiago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Josemar%C3%ADa_Escriv%C3%A1",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/Josemaria_Escriva.jpg/960px-Josemaria_Escriva.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Josemar%C3%ADa_Escriv%C3%A1"
+        }
+      },
+      {
+        "id": "santiago-fashion-15",
+        "name": "Plaza del Norte",
+        "cityId": "santiago",
+        "categoryId": "fashion",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Plaza%20del%20Norte%2C%20Santiago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Plaza_del_Norte",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/40/Plaza_del_Norte_entrance.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Plaza_del_Norte"
+        }
+      },
+      {
+        "id": "santiago-fashion-16",
+        "name": "RBD",
+        "cityId": "santiago",
+        "categoryId": "fashion",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=RBD%2C%20Santiago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/RBD",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Soy_Rebelde_Tour_-_Rio_de_Janeiro_-_Nov_10%2C_2023_-_53332493867.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/RBD"
+        }
+      },
+      {
+        "id": "santiago-fashion-17",
+        "name": "31 Minutos",
+        "cityId": "santiago",
+        "categoryId": "fashion",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=31%20Minutos%2C%20Santiago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/31_Minutos",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/31_minutos_logo.svg/960px-31_minutos_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/31_Minutos"
+        }
+      },
+      {
+        "id": "santiago-fashion-18",
+        "name": "Faʼaʼā",
+        "cityId": "santiago",
+        "categoryId": "fashion",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Fa%CA%BCa%CA%BC%C4%81%2C%20Santiago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Fa%CA%BCa%CA%BC%C4%81",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Sofitel_Tahiti_Maeva_Beach_Resort_-_panoramio_%2812%29.jpg/960px-Sofitel_Tahiti_Maeva_Beach_Resort_-_panoramio_%2812%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Fa%CA%BCa%CA%BC%C4%81"
+        }
+      }
+    ],
+    "shops": [
+      {
+        "id": "santiago-shops-1",
+        "name": "Ripley S.A.",
+        "cityId": "santiago",
+        "categoryId": "shops",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Ripley%20S.A.%2C%20Santiago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Ripley_S.A.",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Ripley_logo.svg/960px-Ripley_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Ripley_S.A."
+        }
+      },
+      {
+        "id": "santiago-shops-2",
+        "name": "Thatgamecompany",
+        "cityId": "santiago",
+        "categoryId": "shops",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Thatgamecompany%2C%20Santiago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Thatgamecompany",
+        "photo": null
+      },
+      {
+        "id": "santiago-shops-3",
+        "name": "Murder of Alexandra Flores",
+        "cityId": "santiago",
+        "categoryId": "shops",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Murder%20of%20Alexandra%20Flores%2C%20Santiago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Murder_of_Alexandra_Flores",
+        "photo": null
+      },
+      {
+        "id": "santiago-shops-4",
+        "name": "S.A.C.I. Falabella",
+        "cityId": "santiago",
+        "categoryId": "shops",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=S.A.C.I.%20Falabella%2C%20Santiago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/S.A.C.I._Falabella",
+        "photo": null
+      },
+      {
+        "id": "santiago-shops-5",
+        "name": "Falabella",
+        "cityId": "santiago",
+        "categoryId": "shops",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Falabella%2C%20Santiago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Falabella_(retail_store)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Falabella.svg/960px-Falabella.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Falabella_(retail_store)"
+        }
+      },
+      {
+        "id": "santiago-shops-6",
+        "name": "Mallplaza",
+        "cityId": "santiago",
+        "categoryId": "shops",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Mallplaza%2C%20Santiago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Mallplaza",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Mallplaza_2016_vertical.svg/960px-Mallplaza_2016_vertical.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Mallplaza"
+        }
+      },
+      {
+        "id": "santiago-shops-7",
+        "name": "Carbondale, Orange County, California",
+        "cityId": "santiago",
+        "categoryId": "shops",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Carbondale%2C%20Orange%20County%2C%20California%2C%20Santiago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Carbondale%2C_Orange_County%2C_California",
+        "photo": null
+      },
+      {
+        "id": "santiago-shops-8",
+        "name": "Tottus",
+        "cityId": "santiago",
+        "categoryId": "shops",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Tottus%2C%20Santiago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Tottus",
+        "photo": null
+      },
+      {
+        "id": "santiago-shops-9",
+        "name": "París",
+        "cityId": "santiago",
+        "categoryId": "shops",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Par%C3%ADs%2C%20Santiago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Par%C3%ADs_(retail_store)",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/59/Paris_Cencosud_2022.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Par%C3%ADs_(retail_store)"
+        }
+      },
+      {
+        "id": "santiago-shops-10",
+        "name": "Robert Trujillo",
+        "cityId": "santiago",
+        "categoryId": "shops",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Robert%20Trujillo%2C%20Santiago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Robert_Trujillo",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Robert_Trujillo_2025_Marvel_Stadium_%283%29.jpg/960px-Robert_Trujillo_2025_Marvel_Stadium_%283%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Robert_Trujillo"
+        }
+      },
+      {
+        "id": "santiago-shops-11",
+        "name": "Amelia Vega",
+        "cityId": "santiago",
+        "categoryId": "shops",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Amelia%20Vega%2C%20Santiago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Amelia_Vega",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Amelia_Vega6.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Amelia_Vega"
+        }
+      },
+      {
+        "id": "santiago-shops-12",
+        "name": "California Burrito Co.",
+        "cityId": "santiago",
+        "categoryId": "shops",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=California%20Burrito%20Co.%2C%20Santiago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/California_Burrito_Co.",
+        "photo": null
+      },
+      {
+        "id": "santiago-shops-13",
+        "name": "Empresas Copec",
+        "cityId": "santiago",
+        "categoryId": "shops",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Empresas%20Copec%2C%20Santiago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Empresas_Copec",
+        "photo": null
+      },
+      {
+        "id": "santiago-shops-14",
+        "name": "Líder",
+        "cityId": "santiago",
+        "categoryId": "shops",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=L%C3%ADder%2C%20Santiago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/L%C3%ADder",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Lider_2025.svg/960px-Lider_2025.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/L%C3%ADder"
+        }
+      },
+      {
+        "id": "santiago-shops-15",
+        "name": "Alegre Records",
+        "cityId": "santiago",
+        "categoryId": "shops",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Alegre%20Records%2C%20Santiago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Alegre_Records",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Alegre_Records_Logo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Alegre_Records"
+        }
+      },
+      {
+        "id": "santiago-shops-16",
+        "name": "Easy",
+        "cityId": "santiago",
+        "categoryId": "shops",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Easy%2C%20Santiago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Easy_(store)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/Easy-Logo.svg/960px-Easy-Logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Easy_(store)"
+        }
+      },
+      {
+        "id": "santiago-shops-17",
+        "name": "James E.B. Austin",
+        "cityId": "santiago",
+        "categoryId": "shops",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=James%20E.B.%20Austin%2C%20Santiago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/James_E.B._Austin",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Austin_%26_Tanner_Map_of_Texas_with_Parts_of_the_Adjoining_States_1836_UTA.jpg/960px-Austin_%26_Tanner_Map_of_Texas_with_Parts_of_the_Adjoining_States_1836_UTA.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/James_E.B._Austin"
+        }
+      },
+      {
+        "id": "santiago-shops-18",
+        "name": "Carriel Sur International Airport",
+        "cityId": "santiago",
+        "categoryId": "shops",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Carriel%20Sur%20International%20Airport%2C%20Santiago",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Carriel_Sur_International_Airport",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Aeropuerto_Carriel_Sur.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Carriel_Sur_International_Airport"
+        }
+      }
+    ]
+  }
+}

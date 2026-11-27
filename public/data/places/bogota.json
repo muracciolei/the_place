@@ -1,0 +1,2308 @@
+{
+  "cityId": "bogota",
+  "generatedAt": "2026-11-27T09:34:00.178Z",
+  "source": "Wikipedia API + Maps URLs (sin scraping de Google)",
+  "incomplete": [],
+  "categories": {
+    "night_clubs": [
+      {
+        "id": "bogota-night_clubs-1",
+        "name": "2003 El Nogal Club bombing",
+        "cityId": "bogota",
+        "categoryId": "night_clubs",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=2003%20El%20Nogal%20Club%20bombing%2C%20Bogot%C3%A1",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/2003_El_Nogal_Club_bombing",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Reconstrucci%C3%B3n-El_nogal.jpg/960px-Reconstrucci%C3%B3n-El_nogal.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/2003_El_Nogal_Club_bombing"
+        }
+      },
+      {
+        "id": "bogota-night_clubs-2",
+        "name": "Theatron",
+        "cityId": "bogota",
+        "categoryId": "night_clubs",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Theatron%2C%20Bogot%C3%A1",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Theatron_(club)",
+        "photo": null
+      },
+      {
+        "id": "bogota-night_clubs-3",
+        "name": "Te voy a enseñar a querer",
+        "cityId": "bogota",
+        "categoryId": "night_clubs",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Te%20voy%20a%20ense%C3%B1ar%20a%20querer%2C%20Bogot%C3%A1",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Te_voy_a_ense%C3%B1ar_a_querer",
+        "photo": null
+      },
+      {
+        "id": "bogota-night_clubs-4",
+        "name": "Gay bar",
+        "cityId": "bogota",
+        "categoryId": "night_clubs",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Gay%20bar%2C%20Bogot%C3%A1",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Gay_bar",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/09/Comptons-Of-Soho.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Gay_bar"
+        }
+      },
+      {
+        "id": "bogota-night_clubs-5",
+        "name": "Citytv",
+        "cityId": "bogota",
+        "categoryId": "night_clubs",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Citytv%2C%20Bogot%C3%A1",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Citytv",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Citytv_logo.svg/960px-Citytv_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Citytv"
+        }
+      },
+      {
+        "id": "bogota-night_clubs-6",
+        "name": "2010 in Colombia",
+        "cityId": "bogota",
+        "categoryId": "night_clubs",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=2010%20in%20Colombia%2C%20Bogot%C3%A1",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/2010_in_Colombia",
+        "photo": null
+      },
+      {
+        "id": "bogota-night_clubs-7",
+        "name": "Alcalá",
+        "cityId": "bogota",
+        "categoryId": "night_clubs",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Alcal%C3%A1%2C%20Bogot%C3%A1",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Alcal%C3%A1",
+        "photo": null
+      },
+      {
+        "id": "bogota-night_clubs-8",
+        "name": "John Leguizamo",
+        "cityId": "bogota",
+        "categoryId": "night_clubs",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=John%20Leguizamo%2C%20Bogot%C3%A1",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/John_Leguizamo",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/JohnLeguizamo-byPhilipRomano_%28cropped%29.jpg/960px-JohnLeguizamo-byPhilipRomano_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/John_Leguizamo"
+        }
+      },
+      {
+        "id": "bogota-night_clubs-9",
+        "name": "Lucas Barbosa",
+        "cityId": "bogota",
+        "categoryId": "night_clubs",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Lucas%20Barbosa%2C%20Bogot%C3%A1",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Lucas_Barbosa_(gymnast)",
+        "photo": null
+      },
+      {
+        "id": "bogota-night_clubs-10",
+        "name": "Stefhon Hannah",
+        "cityId": "bogota",
+        "categoryId": "night_clubs",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Stefhon%20Hannah%2C%20Bogot%C3%A1",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Stefhon_Hannah",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/Stefhon_Hannah_2013_Summer_League_D-League_Select.jpg/960px-Stefhon_Hannah_2013_Summer_League_D-League_Select.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Stefhon_Hannah"
+        }
+      },
+      {
+        "id": "bogota-night_clubs-11",
+        "name": "ChillOut Festival",
+        "cityId": "bogota",
+        "categoryId": "night_clubs",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=ChillOut%20Festival%2C%20Bogot%C3%A1",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/ChillOut_Festival",
+        "photo": null
+      },
+      {
+        "id": "bogota-night_clubs-12",
+        "name": "Helsinki Pride",
+        "cityId": "bogota",
+        "categoryId": "night_clubs",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Helsinki%20Pride%2C%20Bogot%C3%A1",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Helsinki_Pride",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/Helsinki_Pride_2007.jpg/960px-Helsinki_Pride_2007.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Helsinki_Pride"
+        }
+      },
+      {
+        "id": "bogota-night_clubs-13",
+        "name": "Ela Minus",
+        "cityId": "bogota",
+        "categoryId": "night_clubs",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Ela%20Minus%2C%20Bogot%C3%A1",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Ela_Minus",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Ela_Minus_Mexico.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Ela_Minus"
+        }
+      },
+      {
+        "id": "bogota-night_clubs-14",
+        "name": "LGBTQ people in Colombia",
+        "cityId": "bogota",
+        "categoryId": "night_clubs",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=LGBTQ%20people%20in%20Colombia%2C%20Bogot%C3%A1",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/LGBTQ_people_in_Colombia",
+        "photo": null
+      },
+      {
+        "id": "bogota-night_clubs-15",
+        "name": "Brisbane Pride Festival",
+        "cityId": "bogota",
+        "categoryId": "night_clubs",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Brisbane%20Pride%20Festival%2C%20Bogot%C3%A1",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Brisbane_Pride_Festival",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/BP17.png/960px-BP17.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Brisbane_Pride_Festival"
+        }
+      },
+      {
+        "id": "bogota-night_clubs-16",
+        "name": "Feast Festival",
+        "cityId": "bogota",
+        "categoryId": "night_clubs",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Feast%20Festival%2C%20Bogot%C3%A1",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Feast_Festival",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Feast_Picnic.jpg/960px-Feast_Picnic.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Feast_Festival"
+        }
+      },
+      {
+        "id": "bogota-night_clubs-17",
+        "name": "Lucho Bermúdez",
+        "cityId": "bogota",
+        "categoryId": "night_clubs",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Lucho%20Berm%C3%BAdez%2C%20Bogot%C3%A1",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Lucho_Berm%C3%BAdez",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Lucho_Berm%C3%BAdez_en_Buenos_Aires.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Lucho_Berm%C3%BAdez"
+        }
+      },
+      {
+        "id": "bogota-night_clubs-18",
+        "name": "Atlanta Black Pride",
+        "cityId": "bogota",
+        "categoryId": "night_clubs",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Atlanta%20Black%20Pride%2C%20Bogot%C3%A1",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Atlanta_Black_Pride",
+        "photo": null
+      }
+    ],
+    "restaurants": [
+      {
+        "id": "bogota-restaurants-1",
+        "name": "Frisby",
+        "cityId": "bogota",
+        "categoryId": "restaurants",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Frisby%2C%20Bogot%C3%A1",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Frisby_(restaurant)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Frisby_storefront.jpg/960px-Frisby_storefront.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Frisby_(restaurant)"
+        }
+      },
+      {
+        "id": "bogota-restaurants-2",
+        "name": "2003 Zona Rosa attacks",
+        "cityId": "bogota",
+        "categoryId": "restaurants",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=2003%20Zona%20Rosa%20attacks%2C%20Bogot%C3%A1",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/2003_Zona_Rosa_attacks",
+        "photo": null
+      },
+      {
+        "id": "bogota-restaurants-3",
+        "name": "MasterChef Colombia",
+        "cityId": "bogota",
+        "categoryId": "restaurants",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=MasterChef%20Colombia%2C%20Bogot%C3%A1",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/MasterChef_Colombia",
+        "photo": null
+      },
+      {
+        "id": "bogota-restaurants-4",
+        "name": "Mesa para tres",
+        "cityId": "bogota",
+        "categoryId": "restaurants",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Mesa%20para%20tres%2C%20Bogot%C3%A1",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Mesa_para_tres",
+        "photo": null
+      },
+      {
+        "id": "bogota-restaurants-5",
+        "name": "Hamburguesas El Corral",
+        "cityId": "bogota",
+        "categoryId": "restaurants",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Hamburguesas%20El%20Corral%2C%20Bogot%C3%A1",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Hamburguesas_El_Corral",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/El_Corral.jpg/960px-El_Corral.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Hamburguesas_El_Corral"
+        }
+      },
+      {
+        "id": "bogota-restaurants-6",
+        "name": "Crepes & Waffles",
+        "cityId": "bogota",
+        "categoryId": "restaurants",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Crepes%20%26%20Waffles%2C%20Bogot%C3%A1",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Crepes_%26_Waffles",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Crepes_%26_Waffles_en_Quito.jpg/960px-Crepes_%26_Waffles_en_Quito.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Crepes_%26_Waffles"
+        }
+      },
+      {
+        "id": "bogota-restaurants-7",
+        "name": "Gold Museum, Bogotá",
+        "cityId": "bogota",
+        "categoryId": "restaurants",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Gold%20Museum%2C%20Bogot%C3%A1%2C%20Bogot%C3%A1",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Gold_Museum%2C_Bogot%C3%A1",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/BOG_04_2012_Museo_de_Oro_1273.JPG/960px-BOG_04_2012_Museo_de_Oro_1273.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Gold_Museum%2C_Bogot%C3%A1"
+        }
+      },
+      {
+        "id": "bogota-restaurants-8",
+        "name": "Satanás",
+        "cityId": "bogota",
+        "categoryId": "restaurants",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Satan%C3%A1s%2C%20Bogot%C3%A1",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Satan%C3%A1s",
+        "photo": null
+      },
+      {
+        "id": "bogota-restaurants-9",
+        "name": "Cocina",
+        "cityId": "bogota",
+        "categoryId": "restaurants",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Cocina%2C%20Bogot%C3%A1",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Cocina_(magazine)",
+        "photo": null
+      },
+      {
+        "id": "bogota-restaurants-10",
+        "name": "Leonor Espinosa",
+        "cityId": "bogota",
+        "categoryId": "restaurants",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Leonor%20Espinosa%2C%20Bogot%C3%A1",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Leonor_Espinosa",
+        "photo": null
+      },
+      {
+        "id": "bogota-restaurants-11",
+        "name": "Giancarlo Mazzanti",
+        "cityId": "bogota",
+        "categoryId": "restaurants",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Giancarlo%20Mazzanti%2C%20Bogot%C3%A1",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Giancarlo_Mazzanti",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Biblioteca_Leon_de_Greiff-Medellin2.JPG/960px-Biblioteca_Leon_de_Greiff-Medellin2.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Giancarlo_Mazzanti"
+        }
+      },
+      {
+        "id": "bogota-restaurants-12",
+        "name": "La Candelaria, Bogotá",
+        "cityId": "bogota",
+        "categoryId": "restaurants",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=La%20Candelaria%2C%20Bogot%C3%A1%2C%20Bogot%C3%A1",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/La_Candelaria%2C_Bogot%C3%A1",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/BOG_La_Candelaria_alta.JPG/960px-BOG_La_Candelaria_alta.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/La_Candelaria%2C_Bogot%C3%A1"
+        }
+      },
+      {
+        "id": "bogota-restaurants-13",
+        "name": "Bogotá Museum of Modern Art",
+        "cityId": "bogota",
+        "categoryId": "restaurants",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Bogot%C3%A1%20Museum%20of%20Modern%20Art%2C%20Bogot%C3%A1",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Bogot%C3%A1_Museum_of_Modern_Art",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/135._60_9c_904_1.f_-_MAMBO_-_MUSEO_DE_ARTE_MODERNO_DE_BOGOTA%2C_COLOMBIA_2007_%281940362741%29.jpg/960px-135._60_9c_904_1.f_-_MAMBO_-_MUSEO_DE_ARTE_MODERNO_DE_BOGOTA%2C_COLOMBIA_2007_%281940362741%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Bogot%C3%A1_Museum_of_Modern_Art"
+        }
+      },
+      {
+        "id": "bogota-restaurants-14",
+        "name": "Rappi",
+        "cityId": "bogota",
+        "categoryId": "restaurants",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Rappi%2C%20Bogot%C3%A1",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Rappi",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/Rappi_logo.svg/960px-Rappi_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Rappi"
+        }
+      },
+      {
+        "id": "bogota-restaurants-15",
+        "name": "Trams in Bogotá",
+        "cityId": "bogota",
+        "categoryId": "restaurants",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Trams%20in%20Bogot%C3%A1%2C%20Bogot%C3%A1",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Trams_in_Bogot%C3%A1",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Tranvia_en_Bogota_1884.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Trams_in_Bogot%C3%A1"
+        }
+      },
+      {
+        "id": "bogota-restaurants-16",
+        "name": "Natalia Ponce de León",
+        "cityId": "bogota",
+        "categoryId": "restaurants",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Natalia%20Ponce%20de%20Le%C3%B3n%2C%20Bogot%C3%A1",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Natalia_Ponce_de_Le%C3%B3n",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Mashav%27s_30th_international_Women_Leading_Conference_-_Natalia_Ponce_de_Le%C3%B3n_%289123%29.jpg/960px-Mashav%27s_30th_international_Women_Leading_Conference_-_Natalia_Ponce_de_Le%C3%B3n_%289123%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Natalia_Ponce_de_Le%C3%B3n"
+        }
+      },
+      {
+        "id": "bogota-restaurants-17",
+        "name": "La Gata Golosa",
+        "cityId": "bogota",
+        "categoryId": "restaurants",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=La%20Gata%20Golosa%2C%20Bogot%C3%A1",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/La_Gata_Golosa",
+        "photo": null
+      },
+      {
+        "id": "bogota-restaurants-18",
+        "name": "The Good Bandit",
+        "cityId": "bogota",
+        "categoryId": "restaurants",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Good%20Bandit%2C%20Bogot%C3%A1",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/The_Good_Bandit",
+        "photo": null
+      }
+    ],
+    "bars": [
+      {
+        "id": "bogota-bars-1",
+        "name": "Bengaluru Open",
+        "cityId": "bogota",
+        "categoryId": "bars",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Bengaluru%20Open%2C%20Bogot%C3%A1",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Bengaluru_Open",
+        "photo": null
+      },
+      {
+        "id": "bogota-bars-2",
+        "name": "RBC Tennis Championships of Dallas",
+        "cityId": "bogota",
+        "categoryId": "bars",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=RBC%20Tennis%20Championships%20of%20Dallas%2C%20Bogot%C3%A1",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/RBC_Tennis_Championships_of_Dallas",
+        "photo": null
+      },
+      {
+        "id": "bogota-bars-3",
+        "name": "Carlos Alfredo Urrutia Valenzuela",
+        "cityId": "bogota",
+        "categoryId": "bars",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Carlos%20Alfredo%20Urrutia%20Valenzuela%2C%20Bogot%C3%A1",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Carlos_Alfredo_Urrutia_Valenzuela",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/45/Carlos_Alfredo_Urrutia_Valenzuela_%281%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Carlos_Alfredo_Urrutia_Valenzuela"
+        }
+      },
+      {
+        "id": "bogota-bars-4",
+        "name": "Bella calamidades",
+        "cityId": "bogota",
+        "categoryId": "bars",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Bella%20calamidades%2C%20Bogot%C3%A1",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Bella_calamidades",
+        "photo": null
+      },
+      {
+        "id": "bogota-bars-5",
+        "name": "La Gata Golosa",
+        "cityId": "bogota",
+        "categoryId": "bars",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=La%20Gata%20Golosa%2C%20Bogot%C3%A1",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/La_Gata_Golosa",
+        "photo": null
+      },
+      {
+        "id": "bogota-bars-6",
+        "name": "International Challenger Zhangjiagang",
+        "cityId": "bogota",
+        "categoryId": "bars",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=International%20Challenger%20Zhangjiagang%2C%20Bogot%C3%A1",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/International_Challenger_Zhangjiagang",
+        "photo": null
+      },
+      {
+        "id": "bogota-bars-7",
+        "name": "Timeline of Bogotá",
+        "cityId": "bogota",
+        "categoryId": "bars",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Timeline%20of%20Bogot%C3%A1%2C%20Bogot%C3%A1",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Timeline_of_Bogot%C3%A1",
+        "photo": null
+      },
+      {
+        "id": "bogota-bars-8",
+        "name": "Theatron",
+        "cityId": "bogota",
+        "categoryId": "bars",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Theatron%2C%20Bogot%C3%A1",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Theatron_(club)",
+        "photo": null
+      },
+      {
+        "id": "bogota-bars-9",
+        "name": "1997 Fed Cup Americas Zone",
+        "cityId": "bogota",
+        "categoryId": "bars",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=1997%20Fed%20Cup%20Americas%20Zone%2C%20Bogot%C3%A1",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/1997_Fed_Cup_Americas_Zone",
+        "photo": null
+      },
+      {
+        "id": "bogota-bars-10",
+        "name": "Gregorio Gutiérrez González",
+        "cityId": "bogota",
+        "categoryId": "bars",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Gregorio%20Guti%C3%A9rrez%20Gonz%C3%A1lez%2C%20Bogot%C3%A1",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Gregorio_Guti%C3%A9rrez_Gonz%C3%A1lez",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/Residence_of_the_poet.jpg/960px-Residence_of_the_poet.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Gregorio_Guti%C3%A9rrez_Gonz%C3%A1lez"
+        }
+      },
+      {
+        "id": "bogota-bars-11",
+        "name": "Squash at the 2010 Central American and Caribbean Games",
+        "cityId": "bogota",
+        "categoryId": "bars",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Squash%20at%20the%202010%20Central%20American%20and%20Caribbean%20Games%2C%20Bogot%C3%A1",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Squash_at_the_2010_Central_American_and_Caribbean_Games",
+        "photo": null
+      },
+      {
+        "id": "bogota-bars-12",
+        "name": "2019 Categoría Primera B season",
+        "cityId": "bogota",
+        "categoryId": "bars",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=2019%20Categor%C3%ADa%20Primera%20B%20season%2C%20Bogot%C3%A1",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/2019_Categor%C3%ADa_Primera_B_season",
+        "photo": null
+      },
+      {
+        "id": "bogota-bars-13",
+        "name": "2022 Torneo DIMAYOR",
+        "cityId": "bogota",
+        "categoryId": "bars",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=2022%20Torneo%20DIMAYOR%2C%20Bogot%C3%A1",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/2022_Torneo_DIMAYOR",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Estadio_Centenario_Quind%C3%ADo_v_Tigres.jpg/960px-Estadio_Centenario_Quind%C3%ADo_v_Tigres.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/2022_Torneo_DIMAYOR"
+        }
+      },
+      {
+        "id": "bogota-bars-14",
+        "name": "2016 Categoría Primera B season",
+        "cityId": "bogota",
+        "categoryId": "bars",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=2016%20Categor%C3%ADa%20Primera%20B%20season%2C%20Bogot%C3%A1",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/2016_Categor%C3%ADa_Primera_B_season",
+        "photo": null
+      },
+      {
+        "id": "bogota-bars-15",
+        "name": "Camilo Daza International Airport",
+        "cityId": "bogota",
+        "categoryId": "bars",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Camilo%20Daza%20International%20Airport%2C%20Bogot%C3%A1",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Camilo_Daza_International_Airport",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Letrero_Aeropuerto_Camilo_Daza_de_C%C3%BAcuta.jpg/960px-Letrero_Aeropuerto_Camilo_Daza_de_C%C3%BAcuta.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Camilo_Daza_International_Airport"
+        }
+      },
+      {
+        "id": "bogota-bars-16",
+        "name": "Shanghai Challenger",
+        "cityId": "bogota",
+        "categoryId": "bars",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Shanghai%20Challenger%2C%20Bogot%C3%A1",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Shanghai_Challenger",
+        "photo": null
+      },
+      {
+        "id": "bogota-bars-17",
+        "name": "2015 Categoría Primera B season",
+        "cityId": "bogota",
+        "categoryId": "bars",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=2015%20Categor%C3%ADa%20Primera%20B%20season%2C%20Bogot%C3%A1",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/2015_Categor%C3%ADa_Primera_B_season",
+        "photo": null
+      },
+      {
+        "id": "bogota-bars-18",
+        "name": "Gabby Chaves",
+        "cityId": "bogota",
+        "categoryId": "bars",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Gabby%20Chaves%2C%20Bogot%C3%A1",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Gabby_Chaves",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Drivers_meeting_%2828588390198%29_%28cropped2%29.jpg/960px-Drivers_meeting_%2828588390198%29_%28cropped2%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Gabby_Chaves"
+        }
+      }
+    ],
+    "coffee_shops": [
+      {
+        "id": "bogota-coffee_shops-1",
+        "name": "Café con aroma de mujer",
+        "cityId": "bogota",
+        "categoryId": "coffee_shops",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Caf%C3%A9%20con%20aroma%20de%20mujer%2C%20Bogot%C3%A1",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Caf%C3%A9_con_aroma_de_mujer_(1994_TV_series)",
+        "photo": null
+      },
+      {
+        "id": "bogota-coffee_shops-2",
+        "name": "Juan Valdez Café",
+        "cityId": "bogota",
+        "categoryId": "coffee_shops",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Juan%20Valdez%20Caf%C3%A9%2C%20Bogot%C3%A1",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Juan_Valdez_Caf%C3%A9",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Juan_Valdez_140_E_57th_St_jeh.jpg/960px-Juan_Valdez_140_E_57th_St_jeh.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Juan_Valdez_Caf%C3%A9"
+        }
+      },
+      {
+        "id": "bogota-coffee_shops-3",
+        "name": "Teleamiga",
+        "cityId": "bogota",
+        "categoryId": "coffee_shops",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Teleamiga%2C%20Bogot%C3%A1",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Teleamiga",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Canal_TeleAmiga_logo.svg/960px-Canal_TeleAmiga_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Teleamiga"
+        }
+      },
+      {
+        "id": "bogota-coffee_shops-4",
+        "name": "Gold Museum, Bogotá",
+        "cityId": "bogota",
+        "categoryId": "coffee_shops",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Gold%20Museum%2C%20Bogot%C3%A1%2C%20Bogot%C3%A1",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Gold_Museum%2C_Bogot%C3%A1",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/BOG_04_2012_Museo_de_Oro_1273.JPG/960px-BOG_04_2012_Museo_de_Oro_1273.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Gold_Museum%2C_Bogot%C3%A1"
+        }
+      },
+      {
+        "id": "bogota-coffee_shops-5",
+        "name": "Mariano Ospina Pérez",
+        "cityId": "bogota",
+        "categoryId": "coffee_shops",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Mariano%20Ospina%20P%C3%A9rez%2C%20Bogot%C3%A1",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Mariano_Ospina_P%C3%A9rez",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/65/Mariano_Ospina_P%C3%A9rez.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Mariano_Ospina_P%C3%A9rez"
+        }
+      },
+      {
+        "id": "bogota-coffee_shops-6",
+        "name": "Monserrate Sanctuary",
+        "cityId": "bogota",
+        "categoryId": "coffee_shops",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Monserrate%20Sanctuary%2C%20Bogot%C3%A1",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Monserrate_Sanctuary",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/2017_Bogot%C3%A1_Bas%C3%ADlica_del_Se%C3%B1or_Ca%C3%ADdo_de_Monserrate.jpg/960px-2017_Bogot%C3%A1_Bas%C3%ADlica_del_Se%C3%B1or_Ca%C3%ADdo_de_Monserrate.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Monserrate_Sanctuary"
+        }
+      },
+      {
+        "id": "bogota-coffee_shops-7",
+        "name": "Plaza de Bolívar",
+        "cityId": "bogota",
+        "categoryId": "coffee_shops",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Plaza%20de%20Bol%C3%ADvar%2C%20Bogot%C3%A1",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Plaza_de_Bol%C3%ADvar",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Plaza_de_Bol%C3%ADvar_desde_el_Museo_de_la_Independencia.JPG/960px-Plaza_de_Bol%C3%ADvar_desde_el_Museo_de_la_Independencia.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Plaza_de_Bol%C3%ADvar"
+        }
+      },
+      {
+        "id": "bogota-coffee_shops-8",
+        "name": "Quinta de Bolívar",
+        "cityId": "bogota",
+        "categoryId": "coffee_shops",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Quinta%20de%20Bol%C3%ADvar%2C%20Bogot%C3%A1",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Quinta_de_Bol%C3%ADvar",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/Quinta_de_Bol%C3%ADvar_en_Bogot%C3%A1.jpg/960px-Quinta_de_Bol%C3%ADvar_en_Bogot%C3%A1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Quinta_de_Bol%C3%ADvar"
+        }
+      },
+      {
+        "id": "bogota-coffee_shops-9",
+        "name": "Mariano Ospina Rodríguez",
+        "cityId": "bogota",
+        "categoryId": "coffee_shops",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Mariano%20Ospina%20Rodr%C3%ADguez%2C%20Bogot%C3%A1",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Mariano_Ospina_Rodr%C3%ADguez",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Mariano_Ospina_Rodr%C3%ADguez.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Mariano_Ospina_Rodr%C3%ADguez"
+        }
+      },
+      {
+        "id": "bogota-coffee_shops-10",
+        "name": "ACES Colombia",
+        "cityId": "bogota",
+        "categoryId": "coffee_shops",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=ACES%20Colombia%2C%20Bogot%C3%A1",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/ACES_Colombia",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/ACES_Colombia_logo.png/960px-ACES_Colombia_logo.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/ACES_Colombia"
+        }
+      },
+      {
+        "id": "bogota-coffee_shops-11",
+        "name": "2010 Vuelta a Colombia",
+        "cityId": "bogota",
+        "categoryId": "coffee_shops",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=2010%20Vuelta%20a%20Colombia%2C%20Bogot%C3%A1",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/2010_Vuelta_a_Colombia",
+        "photo": null
+      },
+      {
+        "id": "bogota-coffee_shops-12",
+        "name": "Festival Estéreo Picnic",
+        "cityId": "bogota",
+        "categoryId": "coffee_shops",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Festival%20Est%C3%A9reo%20Picnic%2C%20Bogot%C3%A1",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Festival_Est%C3%A9reo_Picnic",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/The_Killers_presentaci%C3%B3n_en_el_Festival_Est%C3%A9reo_Picnic_2013.JPG/960px-The_Killers_presentaci%C3%B3n_en_el_Festival_Est%C3%A9reo_Picnic_2013.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Festival_Est%C3%A9reo_Picnic"
+        }
+      },
+      {
+        "id": "bogota-coffee_shops-13",
+        "name": "Santamaría Bullring",
+        "cityId": "bogota",
+        "categoryId": "coffee_shops",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Santamar%C3%ADa%20Bullring%2C%20Bogot%C3%A1",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Santamar%C3%ADa_Bullring",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Santamaria.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Santamar%C3%ADa_Bullring"
+        }
+      },
+      {
+        "id": "bogota-coffee_shops-14",
+        "name": "Radio in Colombia",
+        "cityId": "bogota",
+        "categoryId": "coffee_shops",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Radio%20in%20Colombia%2C%20Bogot%C3%A1",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Radio_in_Colombia",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Luisa_Mahe_Bernal.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Radio_in_Colombia"
+        }
+      },
+      {
+        "id": "bogota-coffee_shops-15",
+        "name": "2005 Bolivarian Games",
+        "cityId": "bogota",
+        "categoryId": "coffee_shops",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=2005%20Bolivarian%20Games%2C%20Bogot%C3%A1",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/2005_Bolivarian_Games",
+        "photo": null
+      },
+      {
+        "id": "bogota-coffee_shops-16",
+        "name": "Bogotá",
+        "cityId": "bogota",
+        "categoryId": "coffee_shops",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Bogot%C3%A1%2C%20Bogot%C3%A1",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Bogot%C3%A1",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/Bogota%2C_Colombia_%2836668708290%29.jpg/960px-Bogota%2C_Colombia_%2836668708290%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Bogot%C3%A1"
+        }
+      },
+      {
+        "id": "bogota-coffee_shops-17",
+        "name": "Timeline of Bogotá",
+        "cityId": "bogota",
+        "categoryId": "coffee_shops",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Timeline%20of%20Bogot%C3%A1%2C%20Bogot%C3%A1",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Timeline_of_Bogot%C3%A1",
+        "photo": null
+      },
+      {
+        "id": "bogota-coffee_shops-18",
+        "name": "Arcadia",
+        "cityId": "bogota",
+        "categoryId": "coffee_shops",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Arcadia%2C%20Bogot%C3%A1",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Arcadia_(magazine)",
+        "photo": null
+      }
+    ],
+    "bookshops": [
+      {
+        "id": "bogota-bookshops-1",
+        "name": "Luis Ángel Arango Library",
+        "cityId": "bogota",
+        "categoryId": "bookshops",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Luis%20%C3%81ngel%20Arango%20Library%2C%20Bogot%C3%A1",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Luis_%C3%81ngel_Arango_Library",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Entrada_calle_10_BLAA.jpg/960px-Entrada_calle_10_BLAA.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Luis_%C3%81ngel_Arango_Library"
+        }
+      },
+      {
+        "id": "bogota-bookshops-2",
+        "name": "Pontificia Universidad Javeriana",
+        "cityId": "bogota",
+        "categoryId": "bookshops",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Pontificia%20Universidad%20Javeriana%2C%20Bogot%C3%A1",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Pontificia_Universidad_Javeriana",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/Logo_Javeriana_Actualizado.svg/960px-Logo_Javeriana_Actualizado.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Pontificia_Universidad_Javeriana"
+        }
+      },
+      {
+        "id": "bogota-bookshops-3",
+        "name": "Fondo de Cultura Económica",
+        "cityId": "bogota",
+        "categoryId": "bookshops",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Fondo%20de%20Cultura%20Econ%C3%B3mica%2C%20Bogot%C3%A1",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Fondo_de_Cultura_Econ%C3%B3mica",
+        "photo": null
+      },
+      {
+        "id": "bogota-bookshops-4",
+        "name": "Silva Poetry House",
+        "cityId": "bogota",
+        "categoryId": "bookshops",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Silva%20Poetry%20House%2C%20Bogot%C3%A1",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Silva_Poetry_House",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Jose_Asunci%C3%B3n_Silva_Casa.jpg/960px-Jose_Asunci%C3%B3n_Silva_Casa.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Silva_Poetry_House"
+        }
+      },
+      {
+        "id": "bogota-bookshops-5",
+        "name": "Karl Buchholz",
+        "cityId": "bogota",
+        "categoryId": "bookshops",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Karl%20Buchholz%2C%20Bogot%C3%A1",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Karl_Buchholz_(art_dealer)",
+        "photo": null
+      },
+      {
+        "id": "bogota-bookshops-6",
+        "name": "León de Greiff",
+        "cityId": "bogota",
+        "categoryId": "bookshops",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Le%C3%B3n%20de%20Greiff%2C%20Bogot%C3%A1",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Le%C3%B3n_de_Greiff",
+        "photo": null
+      },
+      {
+        "id": "bogota-bookshops-7",
+        "name": "Kunio Maekawa",
+        "cityId": "bogota",
+        "categoryId": "bookshops",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Kunio%20Maekawa%2C%20Bogot%C3%A1",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Kunio_Maekawa",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/House-Kunio-Maekawa-03.jpg/960px-House-Kunio-Maekawa-03.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Kunio_Maekawa"
+        }
+      },
+      {
+        "id": "bogota-bookshops-8",
+        "name": "La MaMa Experimental Theatre Club",
+        "cityId": "bogota",
+        "categoryId": "bookshops",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=La%20MaMa%20Experimental%20Theatre%20Club%2C%20Bogot%C3%A1",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/La_MaMa_Experimental_Theatre_Club",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/La_MaMa_Experimental_Theatre_Club_%2851661012659%29.jpg/960px-La_MaMa_Experimental_Theatre_Club_%2851661012659%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/La_MaMa_Experimental_Theatre_Club"
+        }
+      },
+      {
+        "id": "bogota-bookshops-9",
+        "name": "Darío Botero",
+        "cityId": "bogota",
+        "categoryId": "bookshops",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Dar%C3%ADo%20Botero%2C%20Bogot%C3%A1",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Dar%C3%ADo_Botero",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Dar%C3%ADo_Botero_Uribe.jpg/960px-Dar%C3%ADo_Botero_Uribe.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Dar%C3%ADo_Botero"
+        }
+      },
+      {
+        "id": "bogota-bookshops-10",
+        "name": "Consuelo Sáizar",
+        "cityId": "bogota",
+        "categoryId": "bookshops",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Consuelo%20S%C3%A1izar%2C%20Bogot%C3%A1",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Consuelo_S%C3%A1izar",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/Consuelo_Saizar_Guerrero.jpg/960px-Consuelo_Saizar_Guerrero.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Consuelo_S%C3%A1izar"
+        }
+      },
+      {
+        "id": "bogota-bookshops-11",
+        "name": "Vancouver Pride Parade",
+        "cityId": "bogota",
+        "categoryId": "bookshops",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Vancouver%20Pride%20Parade%2C%20Bogot%C3%A1",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Vancouver_Pride_Parade",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Justin_Trudeau_at_the_Vancouver_Pride_Parade_-_2018_%2842968601755%29.jpg/960px-Justin_Trudeau_at_the_Vancouver_Pride_Parade_-_2018_%2842968601755%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Vancouver_Pride_Parade"
+        }
+      },
+      {
+        "id": "bogota-bookshops-12",
+        "name": "Colonia Roma",
+        "cityId": "bogota",
+        "categoryId": "bookshops",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Colonia%20Roma%2C%20Bogot%C3%A1",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Colonia_Roma",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/Plaza_R%C3%ADo_de_Janeiro_Colonia_Roma.JPG/960px-Plaza_R%C3%ADo_de_Janeiro_Colonia_Roma.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Colonia_Roma"
+        }
+      },
+      {
+        "id": "bogota-bookshops-13",
+        "name": "Gabriel García Márquez",
+        "cityId": "bogota",
+        "categoryId": "bookshops",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Gabriel%20Garc%C3%ADa%20M%C3%A1rquez%2C%20Bogot%C3%A1",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Gabriel_Garc%C3%ADa_M%C3%A1rquez",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Gabriel_Garcia_Marquez.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Gabriel_Garc%C3%ADa_M%C3%A1rquez"
+        }
+      },
+      {
+        "id": "bogota-bookshops-14",
+        "name": "Marco Ernesto",
+        "cityId": "bogota",
+        "categoryId": "bookshops",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Marco%20Ernesto%2C%20Bogot%C3%A1",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Marco_Ernesto",
+        "photo": null
+      },
+      {
+        "id": "bogota-bookshops-15",
+        "name": "Ricaurte family",
+        "cityId": "bogota",
+        "categoryId": "bookshops",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Ricaurte%20family%2C%20Bogot%C3%A1",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Ricaurte_family",
+        "photo": null
+      },
+      {
+        "id": "bogota-bookshops-16",
+        "name": "Bulgari",
+        "cityId": "bogota",
+        "categoryId": "bookshops",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Bulgari%2C%20Bogot%C3%A1",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Bulgari",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Roma%2C_Piazza_Nicosia%2C_20.jpg/960px-Roma%2C_Piazza_Nicosia%2C_20.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Bulgari"
+        }
+      },
+      {
+        "id": "bogota-bookshops-17",
+        "name": "Capital Pride",
+        "cityId": "bogota",
+        "categoryId": "bookshops",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Capital%20Pride%2C%20Bogot%C3%A1",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Capital_Pride_(Washington%2C_D.C.)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Capital_Pride_-_DC_Gay_Pride_Parade_2012.jpg/960px-Capital_Pride_-_DC_Gay_Pride_Parade_2012.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Capital_Pride_(Washington%2C_D.C.)"
+        }
+      },
+      {
+        "id": "bogota-bookshops-18",
+        "name": "Taiwan Pride",
+        "cityId": "bogota",
+        "categoryId": "bookshops",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Taiwan%20Pride%2C%20Bogot%C3%A1",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Taiwan_Pride",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Tokyo_Rainbow_Pride_at_Taiwan_Pride_2019.jpg/960px-Tokyo_Rainbow_Pride_at_Taiwan_Pride_2019.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Taiwan_Pride"
+        }
+      }
+    ],
+    "museums": [
+      {
+        "id": "bogota-museums-1",
+        "name": "Bogotá",
+        "cityId": "bogota",
+        "categoryId": "museums",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Bogot%C3%A1%2C%20Bogot%C3%A1",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Bogot%C3%A1",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/Bogota%2C_Colombia_%2836668708290%29.jpg/960px-Bogota%2C_Colombia_%2836668708290%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Bogot%C3%A1"
+        }
+      },
+      {
+        "id": "bogota-museums-2",
+        "name": "Gold Museum, Bogotá",
+        "cityId": "bogota",
+        "categoryId": "museums",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Gold%20Museum%2C%20Bogot%C3%A1%2C%20Bogot%C3%A1",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Gold_Museum%2C_Bogot%C3%A1",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/BOG_04_2012_Museo_de_Oro_1273.JPG/960px-BOG_04_2012_Museo_de_Oro_1273.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Gold_Museum%2C_Bogot%C3%A1"
+        }
+      },
+      {
+        "id": "bogota-museums-3",
+        "name": "Bogotá River",
+        "cityId": "bogota",
+        "categoryId": "museums",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Bogot%C3%A1%20River%2C%20Bogot%C3%A1",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Bogot%C3%A1_River",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Rio_Bogota_map.png/960px-Rio_Bogota_map.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Bogot%C3%A1_River"
+        }
+      },
+      {
+        "id": "bogota-museums-4",
+        "name": "Fucha River",
+        "cityId": "bogota",
+        "categoryId": "museums",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Fucha%20River%2C%20Bogot%C3%A1",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Fucha_River",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Bogot%C3%A1%2C_r%C3%ADo_Fucha_hacia_la_kr_12.JPG/960px-Bogot%C3%A1%2C_r%C3%ADo_Fucha_hacia_la_kr_12.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Fucha_River"
+        }
+      },
+      {
+        "id": "bogota-museums-5",
+        "name": "Soacha River",
+        "cityId": "bogota",
+        "categoryId": "museums",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Soacha%20River%2C%20Bogot%C3%A1",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Soacha_River",
+        "photo": null
+      },
+      {
+        "id": "bogota-museums-6",
+        "name": "Arzobispo River",
+        "cityId": "bogota",
+        "categoryId": "museums",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Arzobispo%20River%2C%20Bogot%C3%A1",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Arzobispo_River",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/R%C3%ADo_Arzobispo_en_la_cra_7.JPG/960px-R%C3%ADo_Arzobispo_en_la_cra_7.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Arzobispo_River"
+        }
+      },
+      {
+        "id": "bogota-museums-7",
+        "name": "Tunjuelo River",
+        "cityId": "bogota",
+        "categoryId": "museums",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Tunjuelo%20River%2C%20Bogot%C3%A1",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Tunjuelo_River",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/RioTunjuelito.JPG/960px-RioTunjuelito.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Tunjuelo_River"
+        }
+      },
+      {
+        "id": "bogota-museums-8",
+        "name": "Archaeology Museum, Pasca",
+        "cityId": "bogota",
+        "categoryId": "museums",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Archaeology%20Museum%2C%20Pasca%2C%20Bogot%C3%A1",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Archaeology_Museum%2C_Pasca",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Muisca_raft_-_detail_-_Museo_del_Oro%2C_Bogot%C3%A1.jpg/960px-Muisca_raft_-_detail_-_Museo_del_Oro%2C_Bogot%C3%A1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Archaeology_Museum%2C_Pasca"
+        }
+      },
+      {
+        "id": "bogota-museums-9",
+        "name": "Río Frío",
+        "cityId": "bogota",
+        "categoryId": "museums",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=R%C3%ADo%20Fr%C3%ADo%2C%20Bogot%C3%A1",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/R%C3%ADo_Fr%C3%ADo_(Bogot%C3%A1_savanna)",
+        "photo": null
+      },
+      {
+        "id": "bogota-museums-10",
+        "name": "Bogotá Museum of Modern Art",
+        "cityId": "bogota",
+        "categoryId": "museums",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Bogot%C3%A1%20Museum%20of%20Modern%20Art%2C%20Bogot%C3%A1",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Bogot%C3%A1_Museum_of_Modern_Art",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/135._60_9c_904_1.f_-_MAMBO_-_MUSEO_DE_ARTE_MODERNO_DE_BOGOTA%2C_COLOMBIA_2007_%281940362741%29.jpg/960px-135._60_9c_904_1.f_-_MAMBO_-_MUSEO_DE_ARTE_MODERNO_DE_BOGOTA%2C_COLOMBIA_2007_%281940362741%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Bogot%C3%A1_Museum_of_Modern_Art"
+        }
+      },
+      {
+        "id": "bogota-museums-11",
+        "name": "La Candelaria, Bogotá",
+        "cityId": "bogota",
+        "categoryId": "museums",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=La%20Candelaria%2C%20Bogot%C3%A1%2C%20Bogot%C3%A1",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/La_Candelaria%2C_Bogot%C3%A1",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/BOG_La_Candelaria_alta.JPG/960px-BOG_La_Candelaria_alta.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/La_Candelaria%2C_Bogot%C3%A1"
+        }
+      },
+      {
+        "id": "bogota-museums-12",
+        "name": "Teusacá River",
+        "cityId": "bogota",
+        "categoryId": "museums",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Teusac%C3%A1%20River%2C%20Bogot%C3%A1",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Teusac%C3%A1_River",
+        "photo": null
+      },
+      {
+        "id": "bogota-museums-13",
+        "name": "Tunjo",
+        "cityId": "bogota",
+        "categoryId": "museums",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Tunjo%2C%20Bogot%C3%A1",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Tunjo",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Muisca_Tunjos_-_Museo_del_Oro_-_Bogot%C3%A1.jpg/960px-Muisca_Tunjos_-_Museo_del_Oro_-_Bogot%C3%A1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Tunjo"
+        }
+      },
+      {
+        "id": "bogota-museums-14",
+        "name": "Lake Herrera",
+        "cityId": "bogota",
+        "categoryId": "museums",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Lake%20Herrera%2C%20Bogot%C3%A1",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Lake_Herrera",
+        "photo": null
+      },
+      {
+        "id": "bogota-museums-15",
+        "name": "Bacatá",
+        "cityId": "bogota",
+        "categoryId": "museums",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Bacat%C3%A1%2C%20Bogot%C3%A1",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Bacat%C3%A1",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Confederaci%C3%B3nMuisca.png/960px-Confederaci%C3%B3nMuisca.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Bacat%C3%A1"
+        }
+      },
+      {
+        "id": "bogota-museums-16",
+        "name": "Cuchavira",
+        "cityId": "bogota",
+        "categoryId": "museums",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Cuchavira%2C%20Bogot%C3%A1",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Cuchavira",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/Laguna_Guatavita_Yuri_Romero_Picon.jpg/960px-Laguna_Guatavita_Yuri_Romero_Picon.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Cuchavira"
+        }
+      },
+      {
+        "id": "bogota-museums-17",
+        "name": "National Museum of Colombia",
+        "cityId": "bogota",
+        "categoryId": "museums",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=National%20Museum%20of%20Colombia%2C%20Bogot%C3%A1",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/National_Museum_of_Colombia",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Vista_a%C3%A9rea_del_Museo_Nacional_de_Colombia_%28en_frente%29_y_la_Universidad_Colegio_Mayor_de_Cundinamarca_%28atr%C3%A1s%29.jpg/960px-Vista_a%C3%A9rea_del_Museo_Nacional_de_Colombia_%28en_frente%29_y_la_Universidad_Colegio_Mayor_de_Cundinamarca_%28atr%C3%A1s%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/National_Museum_of_Colombia"
+        }
+      },
+      {
+        "id": "bogota-museums-18",
+        "name": "Antonio Díaz de Cardoso",
+        "cityId": "bogota",
+        "categoryId": "museums",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Antonio%20D%C3%ADaz%20de%20Cardoso%2C%20Bogot%C3%A1",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Antonio_D%C3%ADaz_de_Cardoso",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Dias_Cardoso.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Antonio_D%C3%ADaz_de_Cardoso"
+        }
+      }
+    ],
+    "concerts": [
+      {
+        "id": "bogota-concerts-1",
+        "name": "Luis Ángel Arango Library",
+        "cityId": "bogota",
+        "categoryId": "concerts",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Luis%20%C3%81ngel%20Arango%20Library%2C%20Bogot%C3%A1",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Luis_%C3%81ngel_Arango_Library",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Entrada_calle_10_BLAA.jpg/960px-Entrada_calle_10_BLAA.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Luis_%C3%81ngel_Arango_Library"
+        }
+      },
+      {
+        "id": "bogota-concerts-2",
+        "name": "Aarhus Pride",
+        "cityId": "bogota",
+        "categoryId": "concerts",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Aarhus%20Pride%2C%20Bogot%C3%A1",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Aarhus_Pride",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Aarhus_Pride%2C_2012%2C_start_of_day.jpg/960px-Aarhus_Pride%2C_2012%2C_start_of_day.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Aarhus_Pride"
+        }
+      },
+      {
+        "id": "bogota-concerts-3",
+        "name": "Eugenia León",
+        "cityId": "bogota",
+        "categoryId": "concerts",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Eugenia%20Le%C3%B3n%2C%20Bogot%C3%A1",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Eugenia_Le%C3%B3n",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/EugeniaLeon.jpg/960px-EugeniaLeon.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Eugenia_Le%C3%B3n"
+        }
+      },
+      {
+        "id": "bogota-concerts-4",
+        "name": "La Candelaria, Bogotá",
+        "cityId": "bogota",
+        "categoryId": "concerts",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=La%20Candelaria%2C%20Bogot%C3%A1%2C%20Bogot%C3%A1",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/La_Candelaria%2C_Bogot%C3%A1",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/BOG_La_Candelaria_alta.JPG/960px-BOG_La_Candelaria_alta.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/La_Candelaria%2C_Bogot%C3%A1"
+        }
+      },
+      {
+        "id": "bogota-concerts-5",
+        "name": "Gold Museum, Bogotá",
+        "cityId": "bogota",
+        "categoryId": "concerts",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Gold%20Museum%2C%20Bogot%C3%A1%2C%20Bogot%C3%A1",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Gold_Museum%2C_Bogot%C3%A1",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/BOG_04_2012_Museo_de_Oro_1273.JPG/960px-BOG_04_2012_Museo_de_Oro_1273.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Gold_Museum%2C_Bogot%C3%A1"
+        }
+      },
+      {
+        "id": "bogota-concerts-6",
+        "name": "Teusaquillo",
+        "cityId": "bogota",
+        "categoryId": "concerts",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Teusaquillo%2C%20Bogot%C3%A1",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Teusaquillo",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Parque_25_Sim%C3%B3n_Bol%C3%ADvar_de_Bogot%C3%A1%2C_Cund_-_Col.jpg/960px-Parque_25_Sim%C3%B3n_Bol%C3%ADvar_de_Bogot%C3%A1%2C_Cund_-_Col.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Teusaquillo"
+        }
+      },
+      {
+        "id": "bogota-concerts-7",
+        "name": "Architecture of Colombia",
+        "cityId": "bogota",
+        "categoryId": "concerts",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Architecture%20of%20Colombia%2C%20Bogot%C3%A1",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Architecture_of_Colombia",
+        "photo": null
+      },
+      {
+        "id": "bogota-concerts-8",
+        "name": "Bank of the Republic",
+        "cityId": "bogota",
+        "categoryId": "concerts",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Bank%20of%20the%20Republic%2C%20Bogot%C3%A1",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Bank_of_the_Republic_(Colombia)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/Colombia_Banrep.svg/960px-Colombia_Banrep.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Bank_of_the_Republic_(Colombia)"
+        }
+      },
+      {
+        "id": "bogota-concerts-9",
+        "name": "Zagreb Indoors",
+        "cityId": "bogota",
+        "categoryId": "concerts",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Zagreb%20Indoors%2C%20Bogot%C3%A1",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Zagreb_Indoors",
+        "photo": null
+      },
+      {
+        "id": "bogota-concerts-10",
+        "name": "Zagreb Open",
+        "cityId": "bogota",
+        "categoryId": "concerts",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Zagreb%20Open%2C%20Bogot%C3%A1",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Zagreb_Open",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/ChristopheRochusStuttgart06.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Zagreb_Open"
+        }
+      },
+      {
+        "id": "bogota-concerts-11",
+        "name": "Björk Digital",
+        "cityId": "bogota",
+        "categoryId": "concerts",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Bj%C3%B6rk%20Digital%2C%20Bogot%C3%A1",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Bj%C3%B6rk_Digital",
+        "photo": null
+      },
+      {
+        "id": "bogota-concerts-12",
+        "name": "Olav Roots",
+        "cityId": "bogota",
+        "categoryId": "concerts",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Olav%20Roots%2C%20Bogot%C3%A1",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Olav_Roots",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Roots-Tubin-Juht-1947.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Olav_Roots"
+        }
+      },
+      {
+        "id": "bogota-concerts-13",
+        "name": "Gimnasio Campestre",
+        "cityId": "bogota",
+        "categoryId": "concerts",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Gimnasio%20Campestre%2C%20Bogot%C3%A1",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Gimnasio_Campestre",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/10/Logo_Gimnasio_Campestre.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Gimnasio_Campestre"
+        }
+      },
+      {
+        "id": "bogota-concerts-14",
+        "name": "Marco Antonio Mazzini",
+        "cityId": "bogota",
+        "categoryId": "concerts",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Marco%20Antonio%20Mazzini%2C%20Bogot%C3%A1",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Marco_Antonio_Mazzini",
+        "photo": null
+      },
+      {
+        "id": "bogota-concerts-15",
+        "name": "Museo Casa de Moneda",
+        "cityId": "bogota",
+        "categoryId": "concerts",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Museo%20Casa%20de%20Moneda%2C%20Bogot%C3%A1",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Museo_Casa_de_Moneda",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/Casa_de_La_Moneda_2.jpg/960px-Casa_de_La_Moneda_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Museo_Casa_de_Moneda"
+        }
+      },
+      {
+        "id": "bogota-concerts-16",
+        "name": "Giorgi Latso",
+        "cityId": "bogota",
+        "categoryId": "concerts",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Giorgi%20Latso%2C%20Bogot%C3%A1",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Giorgi_Latso",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Giorgi_Latso_JW_Wiki.jpg/960px-Giorgi_Latso_JW_Wiki.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Giorgi_Latso"
+        }
+      },
+      {
+        "id": "bogota-concerts-17",
+        "name": "Miguel Urrutia Art Museum",
+        "cityId": "bogota",
+        "categoryId": "concerts",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Miguel%20Urrutia%20Art%20Museum%2C%20Bogot%C3%A1",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Miguel_Urrutia_Art_Museum",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Bogot%C3%A1_-_Museo_de_Arte_del_Banco_de_la_Rep%C3%BAblica.JPG/960px-Bogot%C3%A1_-_Museo_de_Arte_del_Banco_de_la_Rep%C3%BAblica.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Miguel_Urrutia_Art_Museum"
+        }
+      },
+      {
+        "id": "bogota-concerts-18",
+        "name": "Luis Fernando Rizo-Salom",
+        "cityId": "bogota",
+        "categoryId": "concerts",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Luis%20Fernando%20Rizo-Salom%2C%20Bogot%C3%A1",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Luis_Fernando_Rizo-Salom",
+        "photo": null
+      }
+    ],
+    "fashion": [
+      {
+        "id": "bogota-fashion-1",
+        "name": "S.A.C.I. Falabella",
+        "cityId": "bogota",
+        "categoryId": "fashion",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=S.A.C.I.%20Falabella%2C%20Bogot%C3%A1",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/S.A.C.I._Falabella",
+        "photo": null
+      },
+      {
+        "id": "bogota-fashion-2",
+        "name": "El Dorado World Tour",
+        "cityId": "bogota",
+        "categoryId": "fashion",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=El%20Dorado%20World%20Tour%2C%20Bogot%C3%A1",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/El_Dorado_World_Tour",
+        "photo": null
+      },
+      {
+        "id": "bogota-fashion-3",
+        "name": "Blessd",
+        "cityId": "bogota",
+        "categoryId": "fashion",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Blessd%2C%20Bogot%C3%A1",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Blessd",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Blessd_en_Premios_Nuestra_Tierra_2022.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Blessd"
+        }
+      },
+      {
+        "id": "bogota-fashion-4",
+        "name": "Claudia Mijangos",
+        "cityId": "bogota",
+        "categoryId": "fashion",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Claudia%20Mijangos%2C%20Bogot%C3%A1",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Claudia_Mijangos",
+        "photo": null
+      },
+      {
+        "id": "bogota-fashion-5",
+        "name": "31 Minutos",
+        "cityId": "bogota",
+        "categoryId": "fashion",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=31%20Minutos%2C%20Bogot%C3%A1",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/31_Minutos",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/31_minutos_logo.svg/960px-31_minutos_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/31_Minutos"
+        }
+      },
+      {
+        "id": "bogota-fashion-6",
+        "name": "April 1980",
+        "cityId": "bogota",
+        "categoryId": "fashion",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=April%201980%2C%20Bogot%C3%A1",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/April_1980",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Usburnedhelicopter.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/April_1980"
+        }
+      },
+      {
+        "id": "bogota-fashion-7",
+        "name": "Beer in Colombia",
+        "cityId": "bogota",
+        "categoryId": "fashion",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Beer%20in%20Colombia%2C%20Bogot%C3%A1",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Beer_in_Colombia",
+        "photo": null
+      },
+      {
+        "id": "bogota-fashion-8",
+        "name": "Timeline of Bogotá",
+        "cityId": "bogota",
+        "categoryId": "fashion",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Timeline%20of%20Bogot%C3%A1%2C%20Bogot%C3%A1",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Timeline_of_Bogot%C3%A1",
+        "photo": null
+      },
+      {
+        "id": "bogota-fashion-9",
+        "name": "Bogotá",
+        "cityId": "bogota",
+        "categoryId": "fashion",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Bogot%C3%A1%2C%20Bogot%C3%A1",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Bogot%C3%A1",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/Bogota%2C_Colombia_%2836668708290%29.jpg/960px-Bogota%2C_Colombia_%2836668708290%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Bogot%C3%A1"
+        }
+      },
+      {
+        "id": "bogota-fashion-10",
+        "name": "Walter B. Hook",
+        "cityId": "bogota",
+        "categoryId": "fashion",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Walter%20B.%20Hook%2C%20Bogot%C3%A1",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Walter_B._Hook",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/Walter_Hook_Color.JPG/960px-Walter_Hook_Color.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Walter_B._Hook"
+        }
+      },
+      {
+        "id": "bogota-fashion-11",
+        "name": "Miguel Caballero",
+        "cityId": "bogota",
+        "categoryId": "fashion",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Miguel%20Caballero%2C%20Bogot%C3%A1",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Miguel_Caballero_(company)",
+        "photo": null
+      },
+      {
+        "id": "bogota-fashion-12",
+        "name": "Esteban Cortázar",
+        "cityId": "bogota",
+        "categoryId": "fashion",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Esteban%20Cort%C3%A1zar%2C%20Bogot%C3%A1",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Esteban_Cort%C3%A1zar",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/EstabanCortazarJun09.jpg/960px-EstabanCortazarJun09.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Esteban_Cort%C3%A1zar"
+        }
+      },
+      {
+        "id": "bogota-fashion-13",
+        "name": "El secretario",
+        "cityId": "bogota",
+        "categoryId": "fashion",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=El%20secretario%2C%20Bogot%C3%A1",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/El_secretario",
+        "photo": null
+      },
+      {
+        "id": "bogota-fashion-14",
+        "name": "Sky Lease Cargo",
+        "cityId": "bogota",
+        "categoryId": "fashion",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Sky%20Lease%20Cargo%2C%20Bogot%C3%A1",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Sky_Lease_Cargo",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/Sky_Lease_Cargo_747-400ERF_Starboard_Side.jpg/960px-Sky_Lease_Cargo_747-400ERF_Starboard_Side.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Sky_Lease_Cargo"
+        }
+      },
+      {
+        "id": "bogota-fashion-15",
+        "name": "CIBC Capital Markets",
+        "cityId": "bogota",
+        "categoryId": "fashion",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=CIBC%20Capital%20Markets%2C%20Bogot%C3%A1",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/CIBC_Capital_Markets",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/66/CIBC_CM.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/CIBC_Capital_Markets"
+        }
+      },
+      {
+        "id": "bogota-fashion-16",
+        "name": "La MaMa Experimental Theatre Club",
+        "cityId": "bogota",
+        "categoryId": "fashion",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=La%20MaMa%20Experimental%20Theatre%20Club%2C%20Bogot%C3%A1",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/La_MaMa_Experimental_Theatre_Club",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/La_MaMa_Experimental_Theatre_Club_%2851661012659%29.jpg/960px-La_MaMa_Experimental_Theatre_Club_%2851661012659%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/La_MaMa_Experimental_Theatre_Club"
+        }
+      },
+      {
+        "id": "bogota-fashion-17",
+        "name": "Centurion Air Cargo",
+        "cityId": "bogota",
+        "categoryId": "fashion",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Centurion%20Air%20Cargo%2C%20Bogot%C3%A1",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Centurion_Air_Cargo",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Centurion_Air_Cargo_McDonnell_Douglas_MD-11F_Haafke.jpg/960px-Centurion_Air_Cargo_McDonnell_Douglas_MD-11F_Haafke.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Centurion_Air_Cargo"
+        }
+      },
+      {
+        "id": "bogota-fashion-18",
+        "name": "Focus Air Cargo",
+        "cityId": "bogota",
+        "categoryId": "fashion",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Focus%20Air%20Cargo%2C%20Bogot%C3%A1",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Focus_Air_Cargo",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/de/Focus_Air_B743_N354FC.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Focus_Air_Cargo"
+        }
+      }
+    ],
+    "shops": [
+      {
+        "id": "bogota-shops-1",
+        "name": "Bogotá Bracelet",
+        "cityId": "bogota",
+        "categoryId": "shops",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Bogot%C3%A1%20Bracelet%2C%20Bogot%C3%A1",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Bogot%C3%A1_Bracelet",
+        "photo": null
+      },
+      {
+        "id": "bogota-shops-2",
+        "name": "Usaquén",
+        "cityId": "bogota",
+        "categoryId": "shops",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Usaqu%C3%A9n%2C%20Bogot%C3%A1",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Usaqu%C3%A9n",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/Bogot%C3%A1_-_aerial_view_-_Country_Club.jpg/960px-Bogot%C3%A1_-_aerial_view_-_Country_Club.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Usaqu%C3%A9n"
+        }
+      },
+      {
+        "id": "bogota-shops-3",
+        "name": "Taipei Commercial Office, Bogotá",
+        "cityId": "bogota",
+        "categoryId": "shops",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Taipei%20Commercial%20Office%2C%20Bogot%C3%A1%2C%20Bogot%C3%A1",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Taipei_Commercial_Office%2C_Bogot%C3%A1",
+        "photo": null
+      },
+      {
+        "id": "bogota-shops-4",
+        "name": "Crepes & Waffles",
+        "cityId": "bogota",
+        "categoryId": "shops",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Crepes%20%26%20Waffles%2C%20Bogot%C3%A1",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Crepes_%26_Waffles",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Crepes_%26_Waffles_en_Quito.jpg/960px-Crepes_%26_Waffles_en_Quito.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Crepes_%26_Waffles"
+        }
+      },
+      {
+        "id": "bogota-shops-5",
+        "name": "Gold Museum, Bogotá",
+        "cityId": "bogota",
+        "categoryId": "shops",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Gold%20Museum%2C%20Bogot%C3%A1%2C%20Bogot%C3%A1",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Gold_Museum%2C_Bogot%C3%A1",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/BOG_04_2012_Museo_de_Oro_1273.JPG/960px-BOG_04_2012_Museo_de_Oro_1273.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Gold_Museum%2C_Bogot%C3%A1"
+        }
+      },
+      {
+        "id": "bogota-shops-6",
+        "name": "La Candelaria, Bogotá",
+        "cityId": "bogota",
+        "categoryId": "shops",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=La%20Candelaria%2C%20Bogot%C3%A1%2C%20Bogot%C3%A1",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/La_Candelaria%2C_Bogot%C3%A1",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/BOG_La_Candelaria_alta.JPG/960px-BOG_La_Candelaria_alta.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/La_Candelaria%2C_Bogot%C3%A1"
+        }
+      },
+      {
+        "id": "bogota-shops-7",
+        "name": "Bella calamidades",
+        "cityId": "bogota",
+        "categoryId": "shops",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Bella%20calamidades%2C%20Bogot%C3%A1",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Bella_calamidades",
+        "photo": null
+      },
+      {
+        "id": "bogota-shops-8",
+        "name": "Centro de Eventos Bima",
+        "cityId": "bogota",
+        "categoryId": "shops",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Centro%20de%20Eventos%20Bima%2C%20Bogot%C3%A1",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Centro_de_Eventos_Bima",
+        "photo": null
+      },
+      {
+        "id": "bogota-shops-9",
+        "name": "Pontificia Universidad Javeriana",
+        "cityId": "bogota",
+        "categoryId": "shops",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Pontificia%20Universidad%20Javeriana%2C%20Bogot%C3%A1",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Pontificia_Universidad_Javeriana",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/Logo_Javeriana_Actualizado.svg/960px-Logo_Javeriana_Actualizado.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Pontificia_Universidad_Javeriana"
+        }
+      },
+      {
+        "id": "bogota-shops-10",
+        "name": "José María Córdova International Airport",
+        "cityId": "bogota",
+        "categoryId": "shops",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Jos%C3%A9%20Mar%C3%ADa%20C%C3%B3rdova%20International%20Airport%2C%20Bogot%C3%A1",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Jos%C3%A9_Mar%C3%ADa_C%C3%B3rdova_International_Airport",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/2018_aeropuerto_internacional_Jos%C3%A9_Mar%C3%ADa_C%C3%B3rdova%2C_vista_a%C3%A9rea.jpg/960px-2018_aeropuerto_internacional_Jos%C3%A9_Mar%C3%ADa_C%C3%B3rdova%2C_vista_a%C3%A9rea.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Jos%C3%A9_Mar%C3%ADa_C%C3%B3rdova_International_Airport"
+        }
+      },
+      {
+        "id": "bogota-shops-11",
+        "name": "Timeline of Bogotá",
+        "cityId": "bogota",
+        "categoryId": "shops",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Timeline%20of%20Bogot%C3%A1%2C%20Bogot%C3%A1",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Timeline_of_Bogot%C3%A1",
+        "photo": null
+      },
+      {
+        "id": "bogota-shops-12",
+        "name": "Esteban Cortázar",
+        "cityId": "bogota",
+        "categoryId": "shops",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Esteban%20Cort%C3%A1zar%2C%20Bogot%C3%A1",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Esteban_Cort%C3%A1zar",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/EstabanCortazarJun09.jpg/960px-EstabanCortazarJun09.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Esteban_Cort%C3%A1zar"
+        }
+      },
+      {
+        "id": "bogota-shops-13",
+        "name": "Keith Morris",
+        "cityId": "bogota",
+        "categoryId": "shops",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Keith%20Morris%2C%20Bogot%C3%A1",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Keith_Morris_(diplomat)",
+        "photo": null
+      },
+      {
+        "id": "bogota-shops-14",
+        "name": "Planetarium of Bogotá",
+        "cityId": "bogota",
+        "categoryId": "shops",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Planetarium%20of%20Bogot%C3%A1%2C%20Bogot%C3%A1",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Planetarium_of_Bogot%C3%A1",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/73/Planetario_de_Bogot%C3%A1_logo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Planetarium_of_Bogot%C3%A1"
+        }
+      },
+      {
+        "id": "bogota-shops-15",
+        "name": "Garzón, Huila",
+        "cityId": "bogota",
+        "categoryId": "shops",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Garz%C3%B3n%2C%20Huila%2C%20Bogot%C3%A1",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Garz%C3%B3n%2C_Huila",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/38/IGLESIA_CATEDRAL.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Garz%C3%B3n%2C_Huila"
+        }
+      },
+      {
+        "id": "bogota-shops-16",
+        "name": "Aeropesca Flight 217",
+        "cityId": "bogota",
+        "categoryId": "shops",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Aeropesca%20Flight%20217%2C%20Bogot%C3%A1",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Aeropesca_Flight_217",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Vickers_745D_Viscount%2C_Intercontinental_Colombia_AN1979467.jpg/960px-Vickers_745D_Viscount%2C_Intercontinental_Colombia_AN1979467.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Aeropesca_Flight_217"
+        }
+      },
+      {
+        "id": "bogota-shops-17",
+        "name": "Cartago, Valle del Cauca",
+        "cityId": "bogota",
+        "categoryId": "shops",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Cartago%2C%20Valle%20del%20Cauca%2C%20Bogot%C3%A1",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Cartago%2C_Valle_del_Cauca",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Cartago_Colombia_panorama.jpg/960px-Cartago_Colombia_panorama.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Cartago%2C_Valle_del_Cauca"
+        }
+      },
+      {
+        "id": "bogota-shops-18",
+        "name": "Haceb",
+        "cityId": "bogota",
+        "categoryId": "shops",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Haceb%2C%20Bogot%C3%A1",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Haceb",
+        "photo": null
+      }
+    ]
+  }
+}

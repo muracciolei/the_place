@@ -1,11 +1,8 @@
 {
   "cityId": "rome",
-  "generatedAt": "2026-11-27T08:38:19.825Z",
+  "generatedAt": "2026-11-27T09:37:36.072Z",
   "source": "Wikipedia API + Maps URLs (sin scraping de Google)",
-  "incomplete": [
-    "fashion",
-    "shops"
-  ],
+  "incomplete": [],
   "categories": {
     "night_clubs": [
       {
@@ -1697,7 +1694,520 @@
         }
       }
     ],
-    "fashion": [],
-    "shops": []
+    "fashion": [
+      {
+        "id": "rome-fashion-1",
+        "name": "Giuliano Giuliani",
+        "cityId": "rome",
+        "categoryId": "fashion",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Giuliano%20Giuliani%2C%20Rome",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Giuliano_Giuliani",
+        "photo": null
+      },
+      {
+        "id": "rome-fashion-2",
+        "name": "Dotti",
+        "cityId": "rome",
+        "categoryId": "fashion",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Dotti%2C%20Rome",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Dotti_(retailer)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Dotti%2C_Westfield_Carousel.jpg/960px-Dotti%2C_Westfield_Carousel.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Dotti_(retailer)"
+        }
+      },
+      {
+        "id": "rome-fashion-3",
+        "name": "TuttoTotò",
+        "cityId": "rome",
+        "categoryId": "fashion",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=TuttoTot%C3%B2%2C%20Rome",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/TuttoTot%C3%B2",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/12/Tot%C3%B2%2C_Neapolitan_actor_1943.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/TuttoTot%C3%B2"
+        }
+      },
+      {
+        "id": "rome-fashion-4",
+        "name": "Bernini",
+        "cityId": "rome",
+        "categoryId": "fashion",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Bernini%2C%20Rome",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Bernini_(fashion)",
+        "photo": null
+      },
+      {
+        "id": "rome-fashion-5",
+        "name": "Black Belly of the Tarantula",
+        "cityId": "rome",
+        "categoryId": "fashion",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Black%20Belly%20of%20the%20Tarantula%2C%20Rome",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Black_Belly_of_the_Tarantula",
+        "photo": null
+      },
+      {
+        "id": "rome-fashion-6",
+        "name": "Turtle Creek Mall",
+        "cityId": "rome",
+        "categoryId": "fashion",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Turtle%20Creek%20Mall%2C%20Rome",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Turtle_Creek_Mall",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Turtle_Creek_Mall.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Turtle_Creek_Mall"
+        }
+      },
+      {
+        "id": "rome-fashion-7",
+        "name": "Vacanze di Natale 2000",
+        "cityId": "rome",
+        "categoryId": "fashion",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Vacanze%20di%20Natale%202000%2C%20Rome",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Vacanze_di_Natale_2000",
+        "photo": null
+      },
+      {
+        "id": "rome-fashion-8",
+        "name": "Nguyễn Thúy Hiền",
+        "cityId": "rome",
+        "categoryId": "fashion",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Nguy%E1%BB%85n%20Th%C3%BAy%20Hi%E1%BB%81n%2C%20Rome",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Nguy%E1%BB%85n_Th%C3%BAy_Hi%E1%BB%81n",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/NGUY%E1%BB%84N_TH%C3%9AY_HI%E1%BB%80N.jpg/960px-NGUY%E1%BB%84N_TH%C3%9AY_HI%E1%BB%80N.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Nguy%E1%BB%85n_Th%C3%BAy_Hi%E1%BB%81n"
+        }
+      },
+      {
+        "id": "rome-fashion-9",
+        "name": "Patrick Tatopoulos",
+        "cityId": "rome",
+        "categoryId": "fashion",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Patrick%20Tatopoulos%2C%20Rome",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Patrick_Tatopoulos",
+        "photo": null
+      },
+      {
+        "id": "rome-fashion-10",
+        "name": "Grandi Magazzini Mele",
+        "cityId": "rome",
+        "categoryId": "fashion",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Grandi%20Magazzini%20Mele%2C%20Rome",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Grandi_Magazzini_Mele",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Headquarters_Mele_Naples.jpg/960px-Headquarters_Mele_Naples.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Grandi_Magazzini_Mele"
+        }
+      },
+      {
+        "id": "rome-fashion-11",
+        "name": "Caroline Cossey",
+        "cityId": "rome",
+        "categoryId": "fashion",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Caroline%20Cossey%2C%20Rome",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Caroline_Cossey",
+        "photo": null
+      },
+      {
+        "id": "rome-fashion-12",
+        "name": "Drea de Matteo",
+        "cityId": "rome",
+        "categoryId": "fashion",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Drea%20de%20Matteo%2C%20Rome",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Drea_de_Matteo",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Drea_de_Matteo_feb_2015.jpg/960px-Drea_de_Matteo_feb_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Drea_de_Matteo"
+        }
+      },
+      {
+        "id": "rome-fashion-13",
+        "name": "Josemaría Escrivá",
+        "cityId": "rome",
+        "categoryId": "fashion",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Josemar%C3%ADa%20Escriv%C3%A1%2C%20Rome",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Josemar%C3%ADa_Escriv%C3%A1",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/Josemaria_Escriva.jpg/960px-Josemaria_Escriva.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Josemar%C3%ADa_Escriv%C3%A1"
+        }
+      },
+      {
+        "id": "rome-fashion-14",
+        "name": "The Miser's Heart",
+        "cityId": "rome",
+        "categoryId": "fashion",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Miser's%20Heart%2C%20Rome",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/The_Miser's_Heart",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/7d/The_Miser%27s_Heart_title_card.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/The_Miser's_Heart"
+        }
+      },
+      {
+        "id": "rome-fashion-15",
+        "name": "Aïshti",
+        "cityId": "rome",
+        "categoryId": "fashion",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=A%C3%AFshti%2C%20Rome",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/A%C3%AFshti",
+        "photo": null
+      },
+      {
+        "id": "rome-fashion-16",
+        "name": "Vito Scotti",
+        "cityId": "rome",
+        "categoryId": "fashion",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Vito%20Scotti%2C%20Rome",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Vito_Scotti",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Vito_Scotti_in_Life_with_Luigi.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Vito_Scotti"
+        }
+      },
+      {
+        "id": "rome-fashion-17",
+        "name": "Heins & LaFarge",
+        "cityId": "rome",
+        "categoryId": "fashion",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Heins%20%26%20LaFarge%2C%20Rome",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Heins_%26_LaFarge",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/Cathedral_of_St._John_the_Divine_%286435402661%29.jpg/960px-Cathedral_of_St._John_the_Divine_%286435402661%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Heins_%26_LaFarge"
+        }
+      },
+      {
+        "id": "rome-fashion-18",
+        "name": "Marshall Eriksen",
+        "cityId": "rome",
+        "categoryId": "fashion",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Marshall%20Eriksen%2C%20Rome",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Marshall_Eriksen",
+        "photo": null
+      }
+    ],
+    "shops": [
+      {
+        "id": "rome-shops-1",
+        "name": "Taberna",
+        "cityId": "rome",
+        "categoryId": "shops",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Taberna%2C%20Rome",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Taberna",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/Domusitalica.svg/960px-Domusitalica.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Taberna"
+        }
+      },
+      {
+        "id": "rome-shops-2",
+        "name": "Party",
+        "cityId": "rome",
+        "categoryId": "shops",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Party%2C%20Rome",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Party_(Pet_Shop_Boys_album)",
+        "photo": null
+      },
+      {
+        "id": "rome-shops-3",
+        "name": "Bookselling",
+        "cityId": "rome",
+        "categoryId": "shops",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Bookselling%2C%20Rome",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Bookselling",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/Libraria_Carturesti_Carusel_-_Interior_ziua.jpg/960px-Libraria_Carturesti_Carusel_-_Interior_ziua.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Bookselling"
+        }
+      },
+      {
+        "id": "rome-shops-4",
+        "name": "Bulgari",
+        "cityId": "rome",
+        "categoryId": "shops",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Bulgari%2C%20Rome",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Bulgari",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Roma%2C_Piazza_Nicosia%2C_20.jpg/960px-Roma%2C_Piazza_Nicosia%2C_20.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Bulgari"
+        }
+      },
+      {
+        "id": "rome-shops-5",
+        "name": "Tintinnabulum",
+        "cityId": "rome",
+        "categoryId": "shops",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Tintinnabulum%2C%20Rome",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Tintinnabulum_(ancient_Rome)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/Tintinnabulum_Pompeii_MAN_Napoli_Inv27854.jpg/960px-Tintinnabulum_Pompeii_MAN_Napoli_Inv27854.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Tintinnabulum_(ancient_Rome)"
+        }
+      },
+      {
+        "id": "rome-shops-6",
+        "name": "Bakery",
+        "cityId": "rome",
+        "categoryId": "shops",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Bakery%2C%20Rome",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Bakery",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Belgium_2013_%2811620905224%29.jpg/960px-Belgium_2013_%2811620905224%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Bakery"
+        }
+      },
+      {
+        "id": "rome-shops-7",
+        "name": "Museo Archeologico Ostiense",
+        "cityId": "rome",
+        "categoryId": "shops",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Museo%20Archeologico%20Ostiense%2C%20Rome",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Museo_Archeologico_Ostiense",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/Ostia_Antica_Museo.jpg/960px-Ostia_Antica_Museo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Museo_Archeologico_Ostiense"
+        }
+      },
+      {
+        "id": "rome-shops-8",
+        "name": "Mel Welles",
+        "cityId": "rome",
+        "categoryId": "shops",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Mel%20Welles%2C%20Rome",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Mel_Welles",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Mel_Welles_as_Gravis_Mushnick.png/960px-Mel_Welles_as_Gravis_Mushnick.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Mel_Welles"
+        }
+      },
+      {
+        "id": "rome-shops-9",
+        "name": "Give-away shop",
+        "cityId": "rome",
+        "categoryId": "shops",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Give-away%20shop%2C%20Rome",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Give-away_shop",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Umsonstladen_Freiburg.jpg/960px-Umsonstladen_Freiburg.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Give-away_shop"
+        }
+      },
+      {
+        "id": "rome-shops-10",
+        "name": "Archagathus",
+        "cityId": "rome",
+        "categoryId": "shops",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Archagathus%2C%20Rome",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Archagathus_(son_of_Lysanias)",
+        "photo": null
+      },
+      {
+        "id": "rome-shops-11",
+        "name": "Brothel",
+        "cityId": "rome",
+        "categoryId": "shops",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Brothel%2C%20Rome",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Brothel",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/Joachim_Beuckelaer_-_Brothel_-_Walters_371784.jpg/960px-Joachim_Beuckelaer_-_Brothel_-_Walters_371784.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Brothel"
+        }
+      },
+      {
+        "id": "rome-shops-12",
+        "name": "The Big Racket",
+        "cityId": "rome",
+        "categoryId": "shops",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Big%20Racket%2C%20Rome",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/The_Big_Racket",
+        "photo": null
+      },
+      {
+        "id": "rome-shops-13",
+        "name": "Giolitti",
+        "cityId": "rome",
+        "categoryId": "shops",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Giolitti%2C%20Rome",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Giolitti",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/GiolittiCafeRoma.jpg/960px-GiolittiCafeRoma.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Giolitti"
+        }
+      },
+      {
+        "id": "rome-shops-14",
+        "name": "Fendi",
+        "cityId": "rome",
+        "categoryId": "shops",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Fendi%2C%20Rome",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Fendi",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Fendi_logo.svg/960px-Fendi_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Fendi"
+        }
+      },
+      {
+        "id": "rome-shops-15",
+        "name": "International Conference of Rome for the Social Defense Against Anarchists",
+        "cityId": "rome",
+        "categoryId": "shops",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=International%20Conference%20of%20Rome%20for%20the%20Social%20Defense%20Against%20Anarchists%2C%20Rome",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/International_Conference_of_Rome_for_the_Social_Defense_Against_Anarchists",
+        "photo": null
+      },
+      {
+        "id": "rome-shops-16",
+        "name": "Orazio Borgianni",
+        "cityId": "rome",
+        "categoryId": "shops",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Orazio%20Borgianni%2C%20Rome",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Orazio_Borgianni",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Orazio_Borgianni.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Orazio_Borgianni"
+        }
+      },
+      {
+        "id": "rome-shops-17",
+        "name": "Circolo degli Artisti",
+        "cityId": "rome",
+        "categoryId": "shops",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Circolo%20degli%20Artisti%2C%20Rome",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Circolo_degli_Artisti",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Logocircolo2012.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Circolo_degli_Artisti"
+        }
+      },
+      {
+        "id": "rome-shops-18",
+        "name": "Pretty But Poor",
+        "cityId": "rome",
+        "categoryId": "shops",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Pretty%20But%20Poor%2C%20Rome",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Pretty_But_Poor",
+        "photo": null
+      }
+    ]
   }
 }

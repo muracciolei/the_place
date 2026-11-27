@@ -1,0 +1,2418 @@
+{
+  "cityId": "stockholm",
+  "generatedAt": "2026-11-27T09:31:25.151Z",
+  "source": "Wikipedia API + Maps URLs (sin scraping de Google)",
+  "incomplete": [],
+  "categories": {
+    "night_clubs": [
+      {
+        "id": "stockholm-night_clubs-1",
+        "name": "Globen metro station",
+        "cityId": "stockholm",
+        "categoryId": "night_clubs",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Globen%20metro%20station%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Globen_metro_station",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/GlobenMetrostation2010.JPG/960px-GlobenMetrostation2010.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Globen_metro_station"
+        }
+      },
+      {
+        "id": "stockholm-night_clubs-2",
+        "name": "Görel Crona",
+        "cityId": "stockholm",
+        "categoryId": "night_clubs",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=G%C3%B6rel%20Crona%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/G%C3%B6rel_Crona",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/G%C3%B6rel_Crona_2014-05-13_001.jpg/960px-G%C3%B6rel_Crona_2014-05-13_001.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/G%C3%B6rel_Crona"
+        }
+      },
+      {
+        "id": "stockholm-night_clubs-3",
+        "name": "Alexandra Charles",
+        "cityId": "stockholm",
+        "categoryId": "night_clubs",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Alexandra%20Charles%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Alexandra_Charles",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Alexandra_Charles_in_May_2013.jpg/960px-Alexandra_Charles_in_May_2013.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Alexandra_Charles"
+        }
+      },
+      {
+        "id": "stockholm-night_clubs-4",
+        "name": "Café Opera",
+        "cityId": "stockholm",
+        "categoryId": "night_clubs",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Caf%C3%A9%20Opera%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Caf%C3%A9_Opera",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Cafe_Opera_entre.jpg/960px-Cafe_Opera_entre.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Caf%C3%A9_Opera"
+        }
+      },
+      {
+        "id": "stockholm-night_clubs-5",
+        "name": "Cabaret",
+        "cityId": "stockholm",
+        "categoryId": "night_clubs",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Cabaret%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Cabaret",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/Henri_de_Toulouse-Lautrec%2C_French_-_At_the_Moulin_Rouge-_The_Dance_-_Google_Art_Project.jpg/960px-Henri_de_Toulouse-Lautrec%2C_French_-_At_the_Moulin_Rouge-_The_Dance_-_Google_Art_Project.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Cabaret"
+        }
+      },
+      {
+        "id": "stockholm-night_clubs-6",
+        "name": "The Viper Room",
+        "cityId": "stockholm",
+        "categoryId": "night_clubs",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Viper%20Room%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/The_Viper_Room",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/Viper_Room.jpg/960px-Viper_Room.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/The_Viper_Room"
+        }
+      },
+      {
+        "id": "stockholm-night_clubs-7",
+        "name": "Seymour Österwall",
+        "cityId": "stockholm",
+        "categoryId": "night_clubs",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Seymour%20%C3%96sterwall%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Seymour_%C3%96sterwall",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Seymour-osterwalls-orkester.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Seymour_%C3%96sterwall"
+        }
+      },
+      {
+        "id": "stockholm-night_clubs-8",
+        "name": "The Storholmen Brothers",
+        "cityId": "stockholm",
+        "categoryId": "night_clubs",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Storholmen%20Brothers%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/The_Storholmen_Brothers",
+        "photo": null
+      },
+      {
+        "id": "stockholm-night_clubs-9",
+        "name": "Saturday Nights",
+        "cityId": "stockholm",
+        "categoryId": "night_clubs",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Saturday%20Nights%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Saturday_Nights_(film)",
+        "photo": null
+      },
+      {
+        "id": "stockholm-night_clubs-10",
+        "name": "Moment of Silence",
+        "cityId": "stockholm",
+        "categoryId": "night_clubs",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Moment%20of%20Silence%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Moment_of_Silence_(song)",
+        "photo": null
+      },
+      {
+        "id": "stockholm-night_clubs-11",
+        "name": "Denise Rudberg",
+        "cityId": "stockholm",
+        "categoryId": "night_clubs",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Denise%20Rudberg%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Denise_Rudberg",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Denise_Rudberg.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Denise_Rudberg"
+        }
+      },
+      {
+        "id": "stockholm-night_clubs-12",
+        "name": "Lucky People Center",
+        "cityId": "stockholm",
+        "categoryId": "night_clubs",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Lucky%20People%20Center%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Lucky_People_Center",
+        "photo": null
+      },
+      {
+        "id": "stockholm-night_clubs-13",
+        "name": "Christer Lindarw",
+        "cityId": "stockholm",
+        "categoryId": "night_clubs",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Christer%20Lindarw%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Christer_Lindarw",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Christer_Lindarw_2026.jpg/960px-Christer_Lindarw_2026.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Christer_Lindarw"
+        }
+      },
+      {
+        "id": "stockholm-night_clubs-14",
+        "name": "Anna-Maria Hallgarn",
+        "cityId": "stockholm",
+        "categoryId": "night_clubs",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Anna-Maria%20Hallgarn%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Anna-Maria_Hallgarn",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Hallgarn.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Anna-Maria_Hallgarn"
+        }
+      },
+      {
+        "id": "stockholm-night_clubs-15",
+        "name": "Diabolical Masquerade",
+        "cityId": "stockholm",
+        "categoryId": "night_clubs",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Diabolical%20Masquerade%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Diabolical_Masquerade",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/cd/AndersNystrom4Sept2007.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Diabolical_Masquerade"
+        }
+      },
+      {
+        "id": "stockholm-night_clubs-16",
+        "name": "Great White",
+        "cityId": "stockholm",
+        "categoryId": "night_clubs",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Great%20White%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Great_White",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/Great_White_at_the_Moondance_Jam.jpg/960px-Great_White_at_the_Moondance_Jam.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Great_White"
+        }
+      },
+      {
+        "id": "stockholm-night_clubs-17",
+        "name": "Last to Go",
+        "cityId": "stockholm",
+        "categoryId": "night_clubs",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Last%20to%20Go%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Last_to_Go",
+        "photo": null
+      },
+      {
+        "id": "stockholm-night_clubs-18",
+        "name": "Dark Journey",
+        "cityId": "stockholm",
+        "categoryId": "night_clubs",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Dark%20Journey%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Dark_Journey_(1937_film)",
+        "photo": null
+      }
+    ],
+    "restaurants": [
+      {
+        "id": "stockholm-restaurants-1",
+        "name": "The Cube",
+        "cityId": "stockholm",
+        "categoryId": "restaurants",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Cube%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/The_Cube_(restaurant)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/The_Cube_at_Milan_2.jpg/960px-The_Cube_at_Milan_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/The_Cube_(restaurant)"
+        }
+      },
+      {
+        "id": "stockholm-restaurants-2",
+        "name": "MV Katarina",
+        "cityId": "stockholm",
+        "categoryId": "restaurants",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=MV%20Katarina%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/MV_Katarina",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/Ravintolalaiva_Katarina_cropped.jpg/960px-Ravintolalaiva_Katarina_cropped.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/MV_Katarina"
+        }
+      },
+      {
+        "id": "stockholm-restaurants-3",
+        "name": "Nationalmuseum",
+        "cityId": "stockholm",
+        "categoryId": "restaurants",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Nationalmuseum%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Nationalmuseum",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/Nationalmuseum_July_2025.jpg/960px-Nationalmuseum_July_2025.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Nationalmuseum"
+        }
+      },
+      {
+        "id": "stockholm-restaurants-4",
+        "name": "Rosenbad",
+        "cityId": "stockholm",
+        "categoryId": "restaurants",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Rosenbad%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Rosenbad",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Rosenbad_2006.jpg/960px-Rosenbad_2006.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Rosenbad"
+        }
+      },
+      {
+        "id": "stockholm-restaurants-5",
+        "name": "Berns salonger",
+        "cityId": "stockholm",
+        "categoryId": "restaurants",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Berns%20salonger%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Berns_salonger",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Berns_salonger%2C_framsidan.JPG/960px-Berns_salonger%2C_framsidan.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Berns_salonger"
+        }
+      },
+      {
+        "id": "stockholm-restaurants-6",
+        "name": "Vapiano",
+        "cityId": "stockholm",
+        "categoryId": "restaurants",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Vapiano%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Vapiano",
+        "photo": null
+      },
+      {
+        "id": "stockholm-restaurants-7",
+        "name": "Liljevalchs konsthall",
+        "cityId": "stockholm",
+        "categoryId": "restaurants",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Liljevalchs%20konsthall%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Liljevalchs_konsthall",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/Liljevalchs_konsthall_2008.jpg/960px-Liljevalchs_konsthall_2008.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Liljevalchs_konsthall"
+        }
+      },
+      {
+        "id": "stockholm-restaurants-8",
+        "name": "Wallenbergare",
+        "cityId": "stockholm",
+        "categoryId": "restaurants",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Wallenbergare%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Wallenbergare",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Wallenbergare_2022.jpg/960px-Wallenbergare_2022.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Wallenbergare"
+        }
+      },
+      {
+        "id": "stockholm-restaurants-9",
+        "name": "Upper Crust",
+        "cityId": "stockholm",
+        "categoryId": "restaurants",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Upper%20Crust%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Upper_Crust_(restaurant_chain)",
+        "photo": null
+      },
+      {
+        "id": "stockholm-restaurants-10",
+        "name": "Miss Maud",
+        "cityId": "stockholm",
+        "categoryId": "restaurants",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Miss%20Maud%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Miss_Maud",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Miss_Maud_Carousel%2C_2025_%2801%29.jpg/960px-Miss_Maud_Carousel%2C_2025_%2801%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Miss_Maud"
+        }
+      },
+      {
+        "id": "stockholm-restaurants-11",
+        "name": "Kaknästornet",
+        "cityId": "stockholm",
+        "categoryId": "restaurants",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Kakn%C3%A4stornet%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Kakn%C3%A4stornet",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/Kakn%C3%A4stornet_2008x.jpg/960px-Kakn%C3%A4stornet_2008x.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Kakn%C3%A4stornet"
+        }
+      },
+      {
+        "id": "stockholm-restaurants-12",
+        "name": "Restaurant Intim",
+        "cityId": "stockholm",
+        "categoryId": "restaurants",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Restaurant%20Intim%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Restaurant_Intim",
+        "photo": null
+      },
+      {
+        "id": "stockholm-restaurants-13",
+        "name": "Avicii Arena",
+        "cityId": "stockholm",
+        "categoryId": "restaurants",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Avicii%20Arena%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Avicii_Arena",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Globen_30_%C3%A5r%2C_febr_2019a.jpg/960px-Globen_30_%C3%A5r%2C_febr_2019a.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Avicii_Arena"
+        }
+      },
+      {
+        "id": "stockholm-restaurants-14",
+        "name": "Stockholm Exhibition",
+        "cityId": "stockholm",
+        "categoryId": "restaurants",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Stockholm%20Exhibition%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Stockholm_Exhibition_(1930)",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/28/Stockh_1930_1.gif?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Stockholm_Exhibition_(1930)"
+        }
+      },
+      {
+        "id": "stockholm-restaurants-15",
+        "name": "Operakällaren",
+        "cityId": "stockholm",
+        "categoryId": "restaurants",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Operak%C3%A4llaren%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Operak%C3%A4llaren",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Operak%C3%A4llaren_1895.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Operak%C3%A4llaren"
+        }
+      },
+      {
+        "id": "stockholm-restaurants-16",
+        "name": "La Grenouillère",
+        "cityId": "stockholm",
+        "categoryId": "restaurants",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=La%20Grenouill%C3%A8re%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/La_Grenouill%C3%A8re_(Renoir)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/Auguste_Renoir_-_La_Grenouill%C3%A8re_-_Google_Art_Project.jpg/960px-Auguste_Renoir_-_La_Grenouill%C3%A8re_-_Google_Art_Project.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/La_Grenouill%C3%A8re_(Renoir)"
+        }
+      },
+      {
+        "id": "stockholm-restaurants-17",
+        "name": "Swedish Municipal Workers' Union",
+        "cityId": "stockholm",
+        "categoryId": "restaurants",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Swedish%20Municipal%20Workers'%20Union%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Swedish_Municipal_Workers'_Union",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Skaf.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Swedish_Municipal_Workers'_Union"
+        }
+      },
+      {
+        "id": "stockholm-restaurants-18",
+        "name": "Frantzén",
+        "cityId": "stockholm",
+        "categoryId": "restaurants",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Frantz%C3%A9n%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Frantz%C3%A9n",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/AV4A6287_%2825063454437%29.jpg/960px-AV4A6287_%2825063454437%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Frantz%C3%A9n"
+        }
+      }
+    ],
+    "bars": [
+      {
+        "id": "stockholm-bars-1",
+        "name": "1989 European Men's Artistic Gymnastics Championships",
+        "cityId": "stockholm",
+        "categoryId": "bars",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=1989%20European%20Men's%20Artistic%20Gymnastics%20Championships%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/1989_European_Men's_Artistic_Gymnastics_Championships",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Gymnastics_%28artistic%29_pictogram.svg/960px-Gymnastics_%28artistic%29_pictogram.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/1989_European_Men's_Artistic_Gymnastics_Championships"
+        }
+      },
+      {
+        "id": "stockholm-bars-2",
+        "name": "Stureplan",
+        "cityId": "stockholm",
+        "categoryId": "bars",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Stureplan%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Stureplan",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/72/Arnoldshuset_Stureplan.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Stureplan"
+        }
+      },
+      {
+        "id": "stockholm-bars-3",
+        "name": "Grimsta IP",
+        "cityId": "stockholm",
+        "categoryId": "bars",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Grimsta%20IP%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Grimsta_IP",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/IF_Brommapojkarna-Malm%C3%B6_FF_-_2014-07-06_18-21-36_%286464%29.jpg/960px-IF_Brommapojkarna-Malm%C3%B6_FF_-_2014-07-06_18-21-36_%286464%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Grimsta_IP"
+        }
+      },
+      {
+        "id": "stockholm-bars-4",
+        "name": "Grand Hôtel",
+        "cityId": "stockholm",
+        "categoryId": "bars",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Grand%20H%C3%B4tel%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Grand_H%C3%B4tel_(Stockholm)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Grand_Hotel_June_2018_01.jpg/960px-Grand_Hotel_June_2018_01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Grand_H%C3%B4tel_(Stockholm)"
+        }
+      },
+      {
+        "id": "stockholm-bars-5",
+        "name": ".bar",
+        "cityId": "stockholm",
+        "categoryId": "bars",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=.bar%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/.bar",
+        "photo": null
+      },
+      {
+        "id": "stockholm-bars-6",
+        "name": "High jump",
+        "cityId": "stockholm",
+        "categoryId": "bars",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=High%20jump%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/High_jump",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Nicole_Forrester.JPG/960px-Nicole_Forrester.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/High_jump"
+        }
+      },
+      {
+        "id": "stockholm-bars-7",
+        "name": "Hamburger Börs, Stockholm",
+        "cityId": "stockholm",
+        "categoryId": "bars",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Hamburger%20B%C3%B6rs%2C%20Stockholm%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Hamburger_B%C3%B6rs%2C_Stockholm",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Fasad.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Hamburger_B%C3%B6rs%2C_Stockholm"
+        }
+      },
+      {
+        "id": "stockholm-bars-8",
+        "name": "Strix",
+        "cityId": "stockholm",
+        "categoryId": "bars",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Strix%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Strix_(TV_production_company)",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/92/Strix_A_Nice_Company_logo.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Strix_(TV_production_company)"
+        }
+      },
+      {
+        "id": "stockholm-bars-9",
+        "name": "Holger Behrendt",
+        "cityId": "stockholm",
+        "categoryId": "bars",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Holger%20Behrendt%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Holger_Behrendt",
+        "photo": null
+      },
+      {
+        "id": "stockholm-bars-10",
+        "name": "MS Estonia",
+        "cityId": "stockholm",
+        "categoryId": "bars",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=MS%20Estonia%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/MS_Estonia",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/MS_Estonia.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/MS_Estonia"
+        }
+      },
+      {
+        "id": "stockholm-bars-11",
+        "name": "Stavsnäs",
+        "cityId": "stockholm",
+        "categoryId": "bars",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Stavsn%C3%A4s%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Stavsn%C3%A4s",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Stavsn%C3%A4s_vinterhamn.jpg/960px-Stavsn%C3%A4s_vinterhamn.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Stavsn%C3%A4s"
+        }
+      },
+      {
+        "id": "stockholm-bars-12",
+        "name": "Anne Ramberg",
+        "cityId": "stockholm",
+        "categoryId": "bars",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Anne%20Ramberg%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Anne_Ramberg",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Anne_Ramberg%2C_generalsekreterare_Advokatsamfundet.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Anne_Ramberg"
+        }
+      },
+      {
+        "id": "stockholm-bars-13",
+        "name": "Henry Wells",
+        "cityId": "stockholm",
+        "categoryId": "bars",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Henry%20Wells%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Henry_Wells_(rowing)",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Henry_Wells_%28rowing%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Henry_Wells_(rowing)"
+        }
+      },
+      {
+        "id": "stockholm-bars-14",
+        "name": "Japan at the 1956 Summer Olympics",
+        "cityId": "stockholm",
+        "categoryId": "bars",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Japan%20at%20the%201956%20Summer%20Olympics%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Japan_at_the_1956_Summer_Olympics",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_Japan_%281870%E2%80%931999%29.svg/960px-Flag_of_Japan_%281870%E2%80%931999%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Japan_at_the_1956_Summer_Olympics"
+        }
+      },
+      {
+        "id": "stockholm-bars-15",
+        "name": "Alma Richards",
+        "cityId": "stockholm",
+        "categoryId": "bars",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Alma%20Richards%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Alma_Richards",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/AlmaRichards.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Alma_Richards"
+        }
+      },
+      {
+        "id": "stockholm-bars-16",
+        "name": "Stockholm City Theatre",
+        "cityId": "stockholm",
+        "categoryId": "bars",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Stockholm%20City%20Theatre%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Stockholm_City_Theatre",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/Stockholms_Stadsteater_2008a.jpg/960px-Stockholms_Stadsteater_2008a.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Stockholm_City_Theatre"
+        }
+      },
+      {
+        "id": "stockholm-bars-17",
+        "name": "Operakällaren",
+        "cityId": "stockholm",
+        "categoryId": "bars",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Operak%C3%A4llaren%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Operak%C3%A4llaren",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Operak%C3%A4llaren_1895.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Operak%C3%A4llaren"
+        }
+      },
+      {
+        "id": "stockholm-bars-18",
+        "name": ".localhost",
+        "cityId": "stockholm",
+        "categoryId": "bars",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=.localhost%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/.localhost",
+        "photo": null
+      }
+    ],
+    "coffee_shops": [
+      {
+        "id": "stockholm-coffee_shops-1",
+        "name": "AFC Eskilstuna",
+        "cityId": "stockholm",
+        "categoryId": "coffee_shops",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=AFC%20Eskilstuna%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/AFC_Eskilstuna",
+        "photo": null
+      },
+      {
+        "id": "stockholm-coffee_shops-2",
+        "name": "Kafé 44",
+        "cityId": "stockholm",
+        "categoryId": "coffee_shops",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Kaf%C3%A9%2044%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Kaf%C3%A9_44",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Kaf%C3%A944.JPG/960px-Kaf%C3%A944.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Kaf%C3%A9_44"
+        }
+      },
+      {
+        "id": "stockholm-coffee_shops-3",
+        "name": "Café",
+        "cityId": "stockholm",
+        "categoryId": "coffee_shops",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Caf%C3%A9%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Caf%C3%A9_(magazine)",
+        "photo": null
+      },
+      {
+        "id": "stockholm-coffee_shops-4",
+        "name": "Café Lunchrasten",
+        "cityId": "stockholm",
+        "categoryId": "coffee_shops",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Caf%C3%A9%20Lunchrasten%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Caf%C3%A9_Lunchrasten",
+        "photo": null
+      },
+      {
+        "id": "stockholm-coffee_shops-5",
+        "name": "Café Opera",
+        "cityId": "stockholm",
+        "categoryId": "coffee_shops",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Caf%C3%A9%20Opera%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Caf%C3%A9_Opera",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Cafe_Opera_entre.jpg/960px-Cafe_Opera_entre.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Caf%C3%A9_Opera"
+        }
+      },
+      {
+        "id": "stockholm-coffee_shops-6",
+        "name": "Tragedy",
+        "cityId": "stockholm",
+        "categoryId": "coffee_shops",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Tragedy%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Tragedy_(Hanoi_Rocks_song)",
+        "photo": null
+      },
+      {
+        "id": "stockholm-coffee_shops-7",
+        "name": "Jumbo Stay",
+        "cityId": "stockholm",
+        "categoryId": "coffee_shops",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Jumbo%20Stay%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Jumbo_Stay",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Jumbo_Stay%2C_2019_%2803%29.jpg/960px-Jumbo_Stay%2C_2019_%2803%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Jumbo_Stay"
+        }
+      },
+      {
+        "id": "stockholm-coffee_shops-8",
+        "name": "Miss Maud",
+        "cityId": "stockholm",
+        "categoryId": "coffee_shops",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Miss%20Maud%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Miss_Maud",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Miss_Maud_Carousel%2C_2025_%2801%29.jpg/960px-Miss_Maud_Carousel%2C_2025_%2801%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Miss_Maud"
+        }
+      },
+      {
+        "id": "stockholm-coffee_shops-9",
+        "name": "Erik Sundin",
+        "cityId": "stockholm",
+        "categoryId": "coffee_shops",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Erik%20Sundin%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Erik_Sundin",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Erik_Sundin%2C_2013-04-14a.JPG/960px-Erik_Sundin%2C_2013-04-14a.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Erik_Sundin"
+        }
+      },
+      {
+        "id": "stockholm-coffee_shops-10",
+        "name": "Blanch's Café",
+        "cityId": "stockholm",
+        "categoryId": "coffee_shops",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Blanch's%20Caf%C3%A9%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Blanch's_Caf%C3%A9",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Blanch%27s_caf%C3%A9.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Blanch's_Caf%C3%A9"
+        }
+      },
+      {
+        "id": "stockholm-coffee_shops-11",
+        "name": "Stavsnäs",
+        "cityId": "stockholm",
+        "categoryId": "coffee_shops",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Stavsn%C3%A4s%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Stavsn%C3%A4s",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Stavsn%C3%A4s_vinterhamn.jpg/960px-Stavsn%C3%A4s_vinterhamn.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Stavsn%C3%A4s"
+        }
+      },
+      {
+        "id": "stockholm-coffee_shops-12",
+        "name": "Cabaret",
+        "cityId": "stockholm",
+        "categoryId": "coffee_shops",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Cabaret%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Cabaret",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/Henri_de_Toulouse-Lautrec%2C_French_-_At_the_Moulin_Rouge-_The_Dance_-_Google_Art_Project.jpg/960px-Henri_de_Toulouse-Lautrec%2C_French_-_At_the_Moulin_Rouge-_The_Dance_-_Google_Art_Project.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Cabaret"
+        }
+      },
+      {
+        "id": "stockholm-coffee_shops-13",
+        "name": "Live at Glenn Miller Café Vol 1",
+        "cityId": "stockholm",
+        "categoryId": "coffee_shops",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Live%20at%20Glenn%20Miller%20Caf%C3%A9%20Vol%201%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Live_at_Glenn_Miller_Caf%C3%A9_Vol_1",
+        "photo": null
+      },
+      {
+        "id": "stockholm-coffee_shops-14",
+        "name": "Roger Palmgren",
+        "cityId": "stockholm",
+        "categoryId": "coffee_shops",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Roger%20Palmgren%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Roger_Palmgren",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/81/RogerPalmgren.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Roger_Palmgren"
+        }
+      },
+      {
+        "id": "stockholm-coffee_shops-15",
+        "name": "2000 Djurgårdens IF season",
+        "cityId": "stockholm",
+        "categoryId": "coffee_shops",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=2000%20Djurg%C3%A5rdens%20IF%20season%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/2000_Djurg%C3%A5rdens_IF_season",
+        "photo": null
+      },
+      {
+        "id": "stockholm-coffee_shops-16",
+        "name": "Mattias Moström",
+        "cityId": "stockholm",
+        "categoryId": "coffee_shops",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Mattias%20Mostr%C3%B6m%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Mattias_Mostr%C3%B6m",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Moa_Mostrom.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Mattias_Mostr%C3%B6m"
+        }
+      },
+      {
+        "id": "stockholm-coffee_shops-17",
+        "name": "Axel Törneman",
+        "cityId": "stockholm",
+        "categoryId": "coffee_shops",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Axel%20T%C3%B6rneman%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Axel_T%C3%B6rneman",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/67/Axel_T%C3%B6rneman.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Axel_T%C3%B6rneman"
+        }
+      },
+      {
+        "id": "stockholm-coffee_shops-18",
+        "name": "Jules Sylvain",
+        "cityId": "stockholm",
+        "categoryId": "coffee_shops",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Jules%20Sylvain%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Jules_Sylvain",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/51/Sylvain%2C_Jules_%28fr%C3%A5n_noth%C3%A4fte_1931%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Jules_Sylvain"
+        }
+      }
+    ],
+    "bookshops": [
+      {
+        "id": "stockholm-bookshops-1",
+        "name": "Kafé 44",
+        "cityId": "stockholm",
+        "categoryId": "bookshops",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Kaf%C3%A9%2044%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Kaf%C3%A9_44",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Kaf%C3%A944.JPG/960px-Kaf%C3%A944.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Kaf%C3%A9_44"
+        }
+      },
+      {
+        "id": "stockholm-bookshops-2",
+        "name": "The Surrealist Group in Stockholm",
+        "cityId": "stockholm",
+        "categoryId": "bookshops",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Surrealist%20Group%20in%20Stockholm%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/The_Surrealist_Group_in_Stockholm",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Ristafallet_1974.jpg/960px-Ristafallet_1974.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/The_Surrealist_Group_in_Stockholm"
+        }
+      },
+      {
+        "id": "stockholm-bookshops-3",
+        "name": "Junibacken",
+        "cityId": "stockholm",
+        "categoryId": "bookshops",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Junibacken%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Junibacken",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/Junibacken_2007.jpg/960px-Junibacken_2007.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Junibacken"
+        }
+      },
+      {
+        "id": "stockholm-bookshops-4",
+        "name": "Pink Champagne",
+        "cityId": "stockholm",
+        "categoryId": "bookshops",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Pink%20Champagne%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Pink_Champagne",
+        "photo": null
+      },
+      {
+        "id": "stockholm-bookshops-5",
+        "name": "Adlibris",
+        "cityId": "stockholm",
+        "categoryId": "bookshops",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Adlibris%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Adlibris",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Adlibris-logo-vector.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Adlibris"
+        }
+      },
+      {
+        "id": "stockholm-bookshops-6",
+        "name": "Gotham Book Mart",
+        "cityId": "stockholm",
+        "categoryId": "bookshops",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Gotham%20Book%20Mart%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Gotham_Book_Mart",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/Gotham-Book-Mart-Sign.jpg/960px-Gotham-Book-Mart-Sign.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Gotham_Book_Mart"
+        }
+      },
+      {
+        "id": "stockholm-bookshops-7",
+        "name": "Boo.com",
+        "cityId": "stockholm",
+        "categoryId": "bookshops",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Boo.com%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Boo.com",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Boo-com.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Boo.com"
+        }
+      },
+      {
+        "id": "stockholm-bookshops-8",
+        "name": "Olof Björner",
+        "cityId": "stockholm",
+        "categoryId": "bookshops",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Olof%20Bj%C3%B6rner%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Olof_Bj%C3%B6rner",
+        "photo": null
+      },
+      {
+        "id": "stockholm-bookshops-9",
+        "name": "WHSmith",
+        "cityId": "stockholm",
+        "categoryId": "bookshops",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=WHSmith%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/WHSmith",
+        "photo": null
+      },
+      {
+        "id": "stockholm-bookshops-10",
+        "name": "2005 in Sweden",
+        "cityId": "stockholm",
+        "categoryId": "bookshops",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=2005%20in%20Sweden%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/2005_in_Sweden",
+        "photo": null
+      },
+      {
+        "id": "stockholm-bookshops-11",
+        "name": "Ed Bereal",
+        "cityId": "stockholm",
+        "categoryId": "bookshops",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Ed%20Bereal%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Ed_Bereal",
+        "photo": null
+      },
+      {
+        "id": "stockholm-bookshops-12",
+        "name": "Pierre Berès",
+        "cityId": "stockholm",
+        "categoryId": "bookshops",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Pierre%20Ber%C3%A8s%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Pierre_Ber%C3%A8s",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Pierre_B%C3%A8res.jpg/960px-Pierre_B%C3%A8res.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Pierre_Ber%C3%A8s"
+        }
+      },
+      {
+        "id": "stockholm-bookshops-13",
+        "name": "Carl Christoffer Gjörwell Sr.",
+        "cityId": "stockholm",
+        "categoryId": "bookshops",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Carl%20Christoffer%20Gj%C3%B6rwell%20Sr.%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Carl_Christoffer_Gj%C3%B6rwell_Sr.",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Per_Krafft_d_%C3%A4%3B_Portr%C3%A4tt_av_Carl_Christoffer_Gj%C3%B6rwell_d_%C3%A4.jpg/960px-Per_Krafft_d_%C3%A4%3B_Portr%C3%A4tt_av_Carl_Christoffer_Gj%C3%B6rwell_d_%C3%A4.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Carl_Christoffer_Gj%C3%B6rwell_Sr."
+        }
+      },
+      {
+        "id": "stockholm-bookshops-14",
+        "name": "Niels Wulfsberg",
+        "cityId": "stockholm",
+        "categoryId": "bookshops",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Niels%20Wulfsberg%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Niels_Wulfsberg",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Niels_Wulfsberg_-_avisgrunnlegger.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Niels_Wulfsberg"
+        }
+      },
+      {
+        "id": "stockholm-bookshops-15",
+        "name": "Ann Heberlein",
+        "cityId": "stockholm",
+        "categoryId": "bookshops",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Ann%20Heberlein%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Ann_Heberlein",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Ann_Heberlein_signerar_p%C3%A5_Akademibokhandeln_i_Stockholm.jpg/960px-Ann_Heberlein_signerar_p%C3%A5_Akademibokhandeln_i_Stockholm.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Ann_Heberlein"
+        }
+      },
+      {
+        "id": "stockholm-bookshops-16",
+        "name": "Ture Nerman",
+        "cityId": "stockholm",
+        "categoryId": "bookshops",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Ture%20Nerman%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Ture_Nerman",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/82/Ture_Nerman_-_Sveriges_styresm%C3%A4n.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Ture_Nerman"
+        }
+      },
+      {
+        "id": "stockholm-bookshops-17",
+        "name": "Västerlånggatan",
+        "cityId": "stockholm",
+        "categoryId": "bookshops",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=V%C3%A4sterl%C3%A5nggatan%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/V%C3%A4sterl%C3%A5nggatan",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Vasterlanggatan_from_Storkyrkobrinken_March_2007.JPG/960px-Vasterlanggatan_from_Storkyrkobrinken_March_2007.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/V%C3%A4sterl%C3%A5nggatan"
+        }
+      },
+      {
+        "id": "stockholm-bookshops-18",
+        "name": "Charlotte Guillard",
+        "cityId": "stockholm",
+        "categoryId": "bookshops",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Charlotte%20Guillard%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Charlotte_Guillard",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Charlotte_Guillard_1541.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Charlotte_Guillard"
+        }
+      }
+    ],
+    "museums": [
+      {
+        "id": "stockholm-museums-1",
+        "name": "Nationalmuseum",
+        "cityId": "stockholm",
+        "categoryId": "museums",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Nationalmuseum%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Nationalmuseum",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/Nationalmuseum_July_2025.jpg/960px-Nationalmuseum_July_2025.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Nationalmuseum"
+        }
+      },
+      {
+        "id": "stockholm-museums-2",
+        "name": "Moderna Museet",
+        "cityId": "stockholm",
+        "categoryId": "museums",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Moderna%20Museet%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Moderna_Museet",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/MODERN_MUSEUM_MODERNA_MUSEET_STOCKHOLM_%2819%29.jpg/960px-MODERN_MUSEUM_MODERNA_MUSEET_STOCKHOLM_%2819%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Moderna_Museet"
+        }
+      },
+      {
+        "id": "stockholm-museums-3",
+        "name": "Nordic Museum",
+        "cityId": "stockholm",
+        "categoryId": "museums",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Nordic%20Museum%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Nordic_Museum",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Nordiska_Museet_EM1B1476_%2846926819655%29.jpg/960px-Nordiska_Museet_EM1B1476_%2846926819655%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Nordic_Museum"
+        }
+      },
+      {
+        "id": "stockholm-museums-4",
+        "name": "ABBA The Museum",
+        "cityId": "stockholm",
+        "categoryId": "museums",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=ABBA%20The%20Museum%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/ABBA_The_Museum",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/ABBA_The_Museum_logo.svg/960px-ABBA_The_Museum_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/ABBA_The_Museum"
+        }
+      },
+      {
+        "id": "stockholm-museums-5",
+        "name": "Stockholm City Museum",
+        "cityId": "stockholm",
+        "categoryId": "museums",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Stockholm%20City%20Museum%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Stockholm_City_Museum",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Stockholms_stadsmuseum_och_Ryssg%C3%A5rden_2009.jpg/960px-Stockholms_stadsmuseum_och_Ryssg%C3%A5rden_2009.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Stockholm_City_Museum"
+        }
+      },
+      {
+        "id": "stockholm-museums-6",
+        "name": "Djurgårdsbrunnsviken",
+        "cityId": "stockholm",
+        "categoryId": "museums",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Djurg%C3%A5rdsbrunnsviken%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Djurg%C3%A5rdsbrunnsviken",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Kakn%C3%A4stornet_Djurg%C3%A5rdsbrunnsviken_Stockholm_Sweden_20050812.JPG/960px-Kakn%C3%A4stornet_Djurg%C3%A5rdsbrunnsviken_Stockholm_Sweden_20050812.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Djurg%C3%A5rdsbrunnsviken"
+        }
+      },
+      {
+        "id": "stockholm-museums-7",
+        "name": "Djurgården",
+        "cityId": "stockholm",
+        "categoryId": "museums",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Djurg%C3%A5rden%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Djurg%C3%A5rden",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Djurgarden.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Djurg%C3%A5rden"
+        }
+      },
+      {
+        "id": "stockholm-museums-8",
+        "name": "Skansen",
+        "cityId": "stockholm",
+        "categoryId": "museums",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Skansen%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Skansen",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Skansen_huvudentre_2010.jpg/960px-Skansen_huvudentre_2010.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Skansen"
+        }
+      },
+      {
+        "id": "stockholm-museums-9",
+        "name": "Swedish Army Museum",
+        "cityId": "stockholm",
+        "categoryId": "museums",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Swedish%20Army%20Museum%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Swedish_Army_Museum",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/Arm%C3%A9museum_2014_01.JPG/960px-Arm%C3%A9museum_2014_01.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Swedish_Army_Museum"
+        }
+      },
+      {
+        "id": "stockholm-museums-10",
+        "name": "Maritime Museum",
+        "cityId": "stockholm",
+        "categoryId": "museums",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Maritime%20Museum%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Maritime_Museum_(Stockholm)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/Sj%C3%B6historiska_museet_2008.jpg/960px-Sj%C3%B6historiska_museet_2008.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Maritime_Museum_(Stockholm)"
+        }
+      },
+      {
+        "id": "stockholm-museums-11",
+        "name": "Vasa Museum",
+        "cityId": "stockholm",
+        "categoryId": "museums",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Vasa%20Museum%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Vasa_Museum",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Stockholm_Vasa_Museum_and_Nordic_Museum_09.jpg/960px-Stockholm_Vasa_Museum_and_Nordic_Museum_09.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Vasa_Museum"
+        }
+      },
+      {
+        "id": "stockholm-museums-12",
+        "name": "Vasa",
+        "cityId": "stockholm",
+        "categoryId": "museums",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Vasa%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Vasa_(ship)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/The_Vasa_from_the_Bow.jpg/960px-The_Vasa_from_the_Bow.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Vasa_(ship)"
+        }
+      },
+      {
+        "id": "stockholm-museums-13",
+        "name": "Stockholm Palace",
+        "cityId": "stockholm",
+        "categoryId": "museums",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Stockholm%20Palace%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Stockholm_Palace",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/The_Royal_Palace_%2815891592359%29.jpg/960px-The_Royal_Palace_%2815891592359%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Stockholm_Palace"
+        }
+      },
+      {
+        "id": "stockholm-museums-14",
+        "name": "Strindberg Museum",
+        "cityId": "stockholm",
+        "categoryId": "museums",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Strindberg%20Museum%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Strindberg_Museum",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Strindbergmuseet_april_2008.jpg/960px-Strindbergmuseet_april_2008.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Strindberg_Museum"
+        }
+      },
+      {
+        "id": "stockholm-museums-15",
+        "name": "Hallwyl Museum",
+        "cityId": "stockholm",
+        "categoryId": "museums",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Hallwyl%20Museum%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Hallwyl_Museum",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/Hallwylska_palatset_fasad%2C_jan_2020c.jpg/960px-Hallwylska_palatset_fasad%2C_jan_2020c.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Hallwyl_Museum"
+        }
+      },
+      {
+        "id": "stockholm-museums-16",
+        "name": "National Museum of Science and Technology",
+        "cityId": "stockholm",
+        "categoryId": "museums",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=National%20Museum%20of%20Science%20and%20Technology%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/National_Museum_of_Science_and_Technology_(Sweden)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Bell_206_Tekniska_museet_2008.jpg/960px-Bell_206_Tekniska_museet_2008.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/National_Museum_of_Science_and_Technology_(Sweden)"
+        }
+      },
+      {
+        "id": "stockholm-museums-17",
+        "name": "Lightship Finngrundet",
+        "cityId": "stockholm",
+        "categoryId": "museums",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Lightship%20Finngrundet%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Lightship_Finngrundet_(1903)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/Lightship_Finngrundet.jpg/960px-Lightship_Finngrundet.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Lightship_Finngrundet_(1903)"
+        }
+      },
+      {
+        "id": "stockholm-museums-18",
+        "name": "Stockholm County Museum",
+        "cityId": "stockholm",
+        "categoryId": "museums",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Stockholm%20County%20Museum%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Stockholm_County_Museum",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/75/Stockholms_l%C3%A4ns_museum_logotype.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Stockholm_County_Museum"
+        }
+      }
+    ],
+    "concerts": [
+      {
+        "id": "stockholm-concerts-1",
+        "name": "Stockholm Concert Hall",
+        "cityId": "stockholm",
+        "categoryId": "concerts",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Stockholm%20Concert%20Hall%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Stockholm_Concert_Hall",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Konserthuset_fasad_Stora_salen_collage_2017.jpg/960px-Konserthuset_fasad_Stora_salen_collage_2017.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Stockholm_Concert_Hall"
+        }
+      },
+      {
+        "id": "stockholm-concerts-2",
+        "name": "Ane Brun",
+        "cityId": "stockholm",
+        "categoryId": "concerts",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Ane%20Brun%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Ane_Brun",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/df/Ane_Brun_Piknik_i_Parken_2017_%28194248%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Ane_Brun"
+        }
+      },
+      {
+        "id": "stockholm-concerts-3",
+        "name": "Berwald Hall",
+        "cityId": "stockholm",
+        "categoryId": "concerts",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Berwald%20Hall%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Berwald_Hall",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Berwaldhallen_2008.jpg/960px-Berwaldhallen_2008.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Berwald_Hall"
+        }
+      },
+      {
+        "id": "stockholm-concerts-4",
+        "name": "Royal Concert Hall",
+        "cityId": "stockholm",
+        "categoryId": "concerts",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Royal%20Concert%20Hall%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Royal_Concert_Hall",
+        "photo": null
+      },
+      {
+        "id": "stockholm-concerts-5",
+        "name": "Ivar Tengbom",
+        "cityId": "stockholm",
+        "categoryId": "concerts",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Ivar%20Tengbom%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Ivar_Tengbom",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/79/Ivar_Tengbom_-_Falbygdens_museum.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Ivar_Tengbom"
+        }
+      },
+      {
+        "id": "stockholm-concerts-6",
+        "name": "Swedish Radio Choir",
+        "cityId": "stockholm",
+        "categoryId": "concerts",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Swedish%20Radio%20Choir%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Swedish_Radio_Choir",
+        "photo": null
+      },
+      {
+        "id": "stockholm-concerts-7",
+        "name": "Stockholm Music Museum",
+        "cityId": "stockholm",
+        "categoryId": "concerts",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Stockholm%20Music%20Museum%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Stockholm_Music_Museum",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Kronobageriet_Stockholm_Sibylle_Riddar_20060524.jpg/960px-Kronobageriet_Stockholm_Sibylle_Riddar_20060524.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Stockholm_Music_Museum"
+        }
+      },
+      {
+        "id": "stockholm-concerts-8",
+        "name": "Kungsgatan, Stockholm",
+        "cityId": "stockholm",
+        "categoryId": "concerts",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Kungsgatan%2C%20Stockholm%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Kungsgatan%2C_Stockholm",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Kungsgatan_2008b.jpg/960px-Kungsgatan_2008b.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Kungsgatan%2C_Stockholm"
+        }
+      },
+      {
+        "id": "stockholm-concerts-9",
+        "name": "Stockholm Diary",
+        "cityId": "stockholm",
+        "categoryId": "concerts",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Stockholm%20Diary%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Stockholm_Diary",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/Esa-Pekka-Salonen-1997c_%28cropped%29.jpg/960px-Esa-Pekka-Salonen-1997c_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Stockholm_Diary"
+        }
+      },
+      {
+        "id": "stockholm-concerts-10",
+        "name": "Royal Stockholm Philharmonic Orchestra",
+        "cityId": "stockholm",
+        "categoryId": "concerts",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Royal%20Stockholm%20Philharmonic%20Orchestra%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Royal_Stockholm_Philharmonic_Orchestra",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Kungliga_Filharmonikerna_in_2018.jpg/960px-Kungliga_Filharmonikerna_in_2018.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Royal_Stockholm_Philharmonic_Orchestra"
+        }
+      },
+      {
+        "id": "stockholm-concerts-11",
+        "name": "Carl Milles",
+        "cityId": "stockholm",
+        "categoryId": "concerts",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Carl%20Milles%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Carl_Milles",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Carl_Milles_1940-tal.jpg/960px-Carl_Milles_1940-tal.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Carl_Milles"
+        }
+      },
+      {
+        "id": "stockholm-concerts-12",
+        "name": "3XN",
+        "cityId": "stockholm",
+        "categoryId": "concerts",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=3XN%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/3XN",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/Quay_Quarter_Tower%2C_Governor_Phillip_Tower%2C_Sydney%2C_2023%2C_03.jpg/960px-Quay_Quarter_Tower%2C_Governor_Phillip_Tower%2C_Sydney%2C_2023%2C_03.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/3XN"
+        }
+      },
+      {
+        "id": "stockholm-concerts-13",
+        "name": "Ellen Nisbeth",
+        "cityId": "stockholm",
+        "categoryId": "concerts",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Ellen%20Nisbeth%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Ellen_Nisbeth",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/Ellen_Nisbeth_2013-10-01_002.jpg/960px-Ellen_Nisbeth_2013-10-01_002.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Ellen_Nisbeth"
+        }
+      },
+      {
+        "id": "stockholm-concerts-14",
+        "name": "Aarhus Pride",
+        "cityId": "stockholm",
+        "categoryId": "concerts",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Aarhus%20Pride%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Aarhus_Pride",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Aarhus_Pride%2C_2012%2C_start_of_day.jpg/960px-Aarhus_Pride%2C_2012%2C_start_of_day.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Aarhus_Pride"
+        }
+      },
+      {
+        "id": "stockholm-concerts-15",
+        "name": "The Stockholm Concert, 1966",
+        "cityId": "stockholm",
+        "categoryId": "concerts",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Stockholm%20Concert%2C%201966%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/The_Stockholm_Concert%2C_1966",
+        "photo": null
+      },
+      {
+        "id": "stockholm-concerts-16",
+        "name": "The Swan of Tuonela",
+        "cityId": "stockholm",
+        "categoryId": "concerts",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Swan%20of%20Tuonela%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/The_Swan_of_Tuonela",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/JSibelius_c.1885-1890.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/The_Swan_of_Tuonela"
+        }
+      },
+      {
+        "id": "stockholm-concerts-17",
+        "name": "Draken",
+        "cityId": "stockholm",
+        "categoryId": "concerts",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Draken%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Draken",
+        "photo": null
+      },
+      {
+        "id": "stockholm-concerts-18",
+        "name": "Sven Markelius",
+        "cityId": "stockholm",
+        "categoryId": "concerts",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Sven%20Markelius%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Sven_Markelius",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Markelius_1954.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Sven_Markelius"
+        }
+      }
+    ],
+    "fashion": [
+      {
+        "id": "stockholm-fashion-1",
+        "name": "Andreas Wilson",
+        "cityId": "stockholm",
+        "categoryId": "fashion",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Andreas%20Wilson%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Andreas_Wilson",
+        "photo": null
+      },
+      {
+        "id": "stockholm-fashion-2",
+        "name": "Darling",
+        "cityId": "stockholm",
+        "categoryId": "fashion",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Darling%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Darling_(2007_Swedish_film)",
+        "photo": null
+      },
+      {
+        "id": "stockholm-fashion-3",
+        "name": "1947 in Sweden",
+        "cityId": "stockholm",
+        "categoryId": "fashion",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=1947%20in%20Sweden%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/1947_in_Sweden",
+        "photo": null
+      },
+      {
+        "id": "stockholm-fashion-4",
+        "name": "Elin Nordegren",
+        "cityId": "stockholm",
+        "categoryId": "fashion",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Elin%20Nordegren%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Elin_Nordegren",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/46/Elin_Nordegren.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Elin_Nordegren"
+        }
+      },
+      {
+        "id": "stockholm-fashion-5",
+        "name": "Von Sydow murders",
+        "cityId": "stockholm",
+        "categoryId": "fashion",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Von%20Sydow%20murders%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Von_Sydow_murders",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Norr_M%C3%A4larstarnd_2012.jpg/960px-Norr_M%C3%A4larstarnd_2012.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Von_Sydow_murders"
+        }
+      },
+      {
+        "id": "stockholm-fashion-6",
+        "name": "Britt Ekland",
+        "cityId": "stockholm",
+        "categoryId": "fashion",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Britt%20Ekland%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Britt_Ekland",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Britt_Ekland_in_2019.jpg/960px-Britt_Ekland_in_2019.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Britt_Ekland"
+        }
+      },
+      {
+        "id": "stockholm-fashion-7",
+        "name": "Tobias Sorensen",
+        "cityId": "stockholm",
+        "categoryId": "fashion",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Tobias%20Sorensen%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Tobias_Sorensen",
+        "photo": null
+      },
+      {
+        "id": "stockholm-fashion-8",
+        "name": "Bonus Family",
+        "cityId": "stockholm",
+        "categoryId": "fashion",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Bonus%20Family%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Bonus_Family",
+        "photo": null
+      },
+      {
+        "id": "stockholm-fashion-9",
+        "name": "Boozt",
+        "cityId": "stockholm",
+        "categoryId": "fashion",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Boozt%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Boozt",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/The_Crystal_-_Boozt_HQ_-_Summer_2026_-_Photo_by_Bart_Dabrowski_for_Boozt.jpg/960px-The_Crystal_-_Boozt_HQ_-_Summer_2026_-_Photo_by_Bart_Dabrowski_for_Boozt.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Boozt"
+        }
+      },
+      {
+        "id": "stockholm-fashion-10",
+        "name": "Chrissie Hynde",
+        "cityId": "stockholm",
+        "categoryId": "fashion",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Chrissie%20Hynde%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Chrissie_Hynde",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/79/Chrissie_Hynde_2013.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Chrissie_Hynde"
+        }
+      },
+      {
+        "id": "stockholm-fashion-11",
+        "name": "Paavo Nurmi",
+        "cityId": "stockholm",
+        "categoryId": "fashion",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Paavo%20Nurmi%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Paavo_Nurmi",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Paavo_Nurmi_%28Antwerp_1920%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Paavo_Nurmi"
+        }
+      },
+      {
+        "id": "stockholm-fashion-12",
+        "name": "Mathilda Gvarliani",
+        "cityId": "stockholm",
+        "categoryId": "fashion",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Mathilda%20Gvarliani%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Mathilda_Gvarliani",
+        "photo": null
+      },
+      {
+        "id": "stockholm-fashion-13",
+        "name": "Dressmann",
+        "cityId": "stockholm",
+        "categoryId": "fashion",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Dressmann%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Dressmann",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Dressmann_i_Ume%C3%A5.JPG/960px-Dressmann_i_Ume%C3%A5.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Dressmann"
+        }
+      },
+      {
+        "id": "stockholm-fashion-14",
+        "name": "Ma Shih-yuan",
+        "cityId": "stockholm",
+        "categoryId": "fashion",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Ma%20Shih-yuan%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Ma_Shih-yuan",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Ma_Shih-yuan_at_the_Busan_International_Film_Festival_2025_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Ma_Shih-yuan"
+        }
+      },
+      {
+        "id": "stockholm-fashion-15",
+        "name": "BWO",
+        "cityId": "stockholm",
+        "categoryId": "fashion",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=BWO%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/BWO_(band)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/BodiesWithoutOrgans.jpg/960px-BodiesWithoutOrgans.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/BWO_(band)"
+        }
+      },
+      {
+        "id": "stockholm-fashion-16",
+        "name": "Adolf Jäger",
+        "cityId": "stockholm",
+        "categoryId": "fashion",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Adolf%20J%C3%A4ger%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Adolf_J%C3%A4ger",
+        "photo": null
+      },
+      {
+        "id": "stockholm-fashion-17",
+        "name": "Stanley Marcus",
+        "cityId": "stockholm",
+        "categoryId": "fashion",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Stanley%20Marcus%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Stanley_Marcus",
+        "photo": null
+      },
+      {
+        "id": "stockholm-fashion-18",
+        "name": "Lindex",
+        "cityId": "stockholm",
+        "categoryId": "fashion",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Lindex%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Lindex",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Lindex_Jyv%C3%A4skyl%C3%A4.jpg/960px-Lindex_Jyv%C3%A4skyl%C3%A4.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Lindex"
+        }
+      }
+    ],
+    "shops": [
+      {
+        "id": "stockholm-shops-1",
+        "name": "West End Girls",
+        "cityId": "stockholm",
+        "categoryId": "shops",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=West%20End%20Girls%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/West_End_Girls_(Swedish_band)",
+        "photo": null
+      },
+      {
+        "id": "stockholm-shops-2",
+        "name": "Rosendals Trädgård",
+        "cityId": "stockholm",
+        "categoryId": "shops",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Rosendals%20Tr%C3%A4dg%C3%A5rd%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Rosendals_Tr%C3%A4dg%C3%A5rd",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Rosendals_tr%C3%A4dg%C3%A5rd.jpg/960px-Rosendals_tr%C3%A4dg%C3%A5rd.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Rosendals_Tr%C3%A4dg%C3%A5rd"
+        }
+      },
+      {
+        "id": "stockholm-shops-3",
+        "name": "Nobel Prize Museum",
+        "cityId": "stockholm",
+        "categoryId": "shops",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Nobel%20Prize%20Museum%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Nobel_Prize_Museum",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Nobel_Prize_Museum%2C_Stockholm_2024.jpg/960px-Nobel_Prize_Museum%2C_Stockholm_2024.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Nobel_Prize_Museum"
+        }
+      },
+      {
+        "id": "stockholm-shops-4",
+        "name": "Sven-Harry's Art Museum",
+        "cityId": "stockholm",
+        "categoryId": "shops",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Sven-Harry's%20Art%20Museum%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Sven-Harry's_Art_Museum",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Sven_Harrys_konstmuseum_2011b.jpg/960px-Sven_Harrys_konstmuseum_2011b.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Sven-Harry's_Art_Museum"
+        }
+      },
+      {
+        "id": "stockholm-shops-5",
+        "name": "Ingeborg Holm",
+        "cityId": "stockholm",
+        "categoryId": "shops",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Ingeborg%20Holm%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Ingeborg_Holm",
+        "photo": null
+      },
+      {
+        "id": "stockholm-shops-6",
+        "name": "Stockholm Palace",
+        "cityId": "stockholm",
+        "categoryId": "shops",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Stockholm%20Palace%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Stockholm_Palace",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/The_Royal_Palace_%2815891592359%29.jpg/960px-The_Royal_Palace_%2815891592359%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Stockholm_Palace"
+        }
+      },
+      {
+        "id": "stockholm-shops-7",
+        "name": "Christina Schollin",
+        "cityId": "stockholm",
+        "categoryId": "shops",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Christina%20Schollin%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Christina_Schollin",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Christina_Schollin_%2821837759522%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Christina_Schollin"
+        }
+      },
+      {
+        "id": "stockholm-shops-8",
+        "name": ".shop",
+        "cityId": "stockholm",
+        "categoryId": "shops",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=.shop%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/.shop",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/DotShop_gTLD_logo.svg/960px-DotShop_gTLD_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/.shop"
+        }
+      },
+      {
+        "id": "stockholm-shops-9",
+        "name": ".xyz",
+        "cityId": "stockholm",
+        "categoryId": "shops",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=.xyz%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/.xyz",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/.xyz_logo.svg/960px-.xyz_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/.xyz"
+        }
+      },
+      {
+        "id": "stockholm-shops-10",
+        "name": "Dark Journey",
+        "cityId": "stockholm",
+        "categoryId": "shops",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Dark%20Journey%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Dark_Journey_(1937_film)",
+        "photo": null
+      },
+      {
+        "id": "stockholm-shops-11",
+        "name": "Arne Borg",
+        "cityId": "stockholm",
+        "categoryId": "shops",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Arne%20Borg%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Arne_Borg",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Arne_Borg_1928_%28cropped%29.jpg/960px-Arne_Borg_1928_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Arne_Borg"
+        }
+      },
+      {
+        "id": "stockholm-shops-12",
+        "name": "QX",
+        "cityId": "stockholm",
+        "categoryId": "shops",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=QX%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/QX_(magazine)",
+        "photo": null
+      },
+      {
+        "id": "stockholm-shops-13",
+        "name": "Ferdinand Fagerlin",
+        "cityId": "stockholm",
+        "categoryId": "shops",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Ferdinand%20Fagerlin%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Ferdinand_Fagerlin",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/54/Ferdinand_Fagerlin_OLM-2008-28-43.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Ferdinand_Fagerlin"
+        }
+      },
+      {
+        "id": "stockholm-shops-14",
+        "name": "Karin Pilsäter",
+        "cityId": "stockholm",
+        "categoryId": "shops",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Karin%20Pils%C3%A4ter%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Karin_Pils%C3%A4ter",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/75/Karin_Pils%C3%A4ter.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Karin_Pils%C3%A4ter"
+        }
+      },
+      {
+        "id": "stockholm-shops-15",
+        "name": "Tysta Mari",
+        "cityId": "stockholm",
+        "categoryId": "shops",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Tysta%20Mari%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Tysta_Mari",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Kronprinsens_stall_1950.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Tysta_Mari"
+        }
+      },
+      {
+        "id": "stockholm-shops-16",
+        "name": ".localhost",
+        "cityId": "stockholm",
+        "categoryId": "shops",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=.localhost%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/.localhost",
+        "photo": null
+      },
+      {
+        "id": "stockholm-shops-17",
+        "name": ".geo",
+        "cityId": "stockholm",
+        "categoryId": "shops",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=.geo%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/.geo",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/51/Dotgeo.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/.geo"
+        }
+      },
+      {
+        "id": "stockholm-shops-18",
+        "name": ".bible",
+        "cityId": "stockholm",
+        "categoryId": "shops",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=.bible%2C%20Stockholm",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/.bible",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/8f/DotBible_gTLD_logo.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/.bible"
+        }
+      }
+    ]
+  }
+}

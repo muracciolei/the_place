@@ -1,0 +1,2373 @@
+{
+  "cityId": "dubai",
+  "generatedAt": "2026-11-27T09:05:03.497Z",
+  "source": "Wikipedia API + Maps URLs (sin scraping de Google)",
+  "incomplete": [],
+  "categories": {
+    "night_clubs": [
+      {
+        "id": "dubai-night_clubs-1",
+        "name": "Wafi City",
+        "cityId": "dubai",
+        "categoryId": "night_clubs",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Wafi%20City%2C%20Dubai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Wafi_City",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/en/thumb/5/59/Wafi_City_20241101.jpg/960px-Wafi_City_20241101.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Wafi_City"
+        }
+      },
+      {
+        "id": "dubai-night_clubs-2",
+        "name": "Studio One",
+        "cityId": "dubai",
+        "categoryId": "night_clubs",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Studio%20One%2C%20Dubai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Studio_One",
+        "photo": null
+      },
+      {
+        "id": "dubai-night_clubs-3",
+        "name": "DJ Bliss",
+        "cityId": "dubai",
+        "categoryId": "night_clubs",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=DJ%20Bliss%2C%20Dubai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/DJ_Bliss",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/0f/DJ_Marwan_Bliss.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/DJ_Bliss"
+        }
+      },
+      {
+        "id": "dubai-night_clubs-4",
+        "name": "Mahiki",
+        "cityId": "dubai",
+        "categoryId": "night_clubs",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Mahiki%2C%20Dubai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Mahiki",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/Mahiki%2C_Mayfair%2C_W1_%283054217998%29.jpg/960px-Mahiki%2C_Mayfair%2C_W1_%283054217998%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Mahiki"
+        }
+      },
+      {
+        "id": "dubai-night_clubs-5",
+        "name": "Superclub",
+        "cityId": "dubai",
+        "categoryId": "night_clubs",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Superclub%2C%20Dubai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Superclub",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Wikipedia_space_ibiza%2809%29.jpg/960px-Wikipedia_space_ibiza%2809%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Superclub"
+        }
+      },
+      {
+        "id": "dubai-night_clubs-6",
+        "name": "The Pacha Group",
+        "cityId": "dubai",
+        "categoryId": "night_clubs",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Pacha%20Group%2C%20Dubai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/The_Pacha_Group",
+        "photo": null
+      },
+      {
+        "id": "dubai-night_clubs-7",
+        "name": "Marcus Prinz von Anhalt",
+        "cityId": "dubai",
+        "categoryId": "night_clubs",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Marcus%20Prinz%20von%20Anhalt%2C%20Dubai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Marcus_Prinz_von_Anhalt",
+        "photo": null
+      },
+      {
+        "id": "dubai-night_clubs-8",
+        "name": "Hakkasan",
+        "cityId": "dubai",
+        "categoryId": "night_clubs",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Hakkasan%2C%20Dubai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Hakkasan",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Hakkasan_London_-_3.jpg/960px-Hakkasan_London_-_3.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Hakkasan"
+        }
+      },
+      {
+        "id": "dubai-night_clubs-9",
+        "name": "Joe Pullum",
+        "cityId": "dubai",
+        "categoryId": "night_clubs",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Joe%20Pullum%2C%20Dubai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Joe_Pullum",
+        "photo": null
+      },
+      {
+        "id": "dubai-night_clubs-10",
+        "name": "LGBTQ rights in the United Arab Emirates",
+        "cityId": "dubai",
+        "categoryId": "night_clubs",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=LGBTQ%20rights%20in%20the%20United%20Arab%20Emirates%2C%20Dubai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/LGBTQ_rights_in_the_United_Arab_Emirates",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/United_Arab_Emirates_location_map.svg/960px-United_Arab_Emirates_location_map.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/LGBTQ_rights_in_the_United_Arab_Emirates"
+        }
+      },
+      {
+        "id": "dubai-night_clubs-11",
+        "name": "Victor Drai",
+        "cityId": "dubai",
+        "categoryId": "night_clubs",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Victor%20Drai%2C%20Dubai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Victor_Drai",
+        "photo": null
+      },
+      {
+        "id": "dubai-night_clubs-12",
+        "name": "The Shops at Crystals",
+        "cityId": "dubai",
+        "categoryId": "night_clubs",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Shops%20at%20Crystals%2C%20Dubai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/The_Shops_at_Crystals",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/Las_Vegas-07.jpg/960px-Las_Vegas-07.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/The_Shops_at_Crystals"
+        }
+      },
+      {
+        "id": "dubai-night_clubs-13",
+        "name": "Amera Eid",
+        "cityId": "dubai",
+        "categoryId": "night_clubs",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Amera%20Eid%2C%20Dubai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Amera_Eid",
+        "photo": null
+      },
+      {
+        "id": "dubai-night_clubs-14",
+        "name": "Wafi Mall",
+        "cityId": "dubai",
+        "categoryId": "night_clubs",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Wafi%20Mall%2C%20Dubai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Wafi_Mall",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Wafi_Mall_Dubai_courtyard.JPG/960px-Wafi_Mall_Dubai_courtyard.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Wafi_Mall"
+        }
+      },
+      {
+        "id": "dubai-night_clubs-15",
+        "name": "Paramount",
+        "cityId": "dubai",
+        "categoryId": "night_clubs",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Paramount%2C%20Dubai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Paramount",
+        "photo": null
+      },
+      {
+        "id": "dubai-night_clubs-16",
+        "name": "John Ibrahim",
+        "cityId": "dubai",
+        "categoryId": "night_clubs",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=John%20Ibrahim%2C%20Dubai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/John_Ibrahim",
+        "photo": null
+      },
+      {
+        "id": "dubai-night_clubs-17",
+        "name": "Irene Scruggs",
+        "cityId": "dubai",
+        "categoryId": "night_clubs",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Irene%20Scruggs%2C%20Dubai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Irene_Scruggs",
+        "photo": null
+      },
+      {
+        "id": "dubai-night_clubs-18",
+        "name": "Ruen",
+        "cityId": "dubai",
+        "categoryId": "night_clubs",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Ruen%2C%20Dubai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Ruen_(DJ)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/8-3-DJRUEN_1.jpg/960px-8-3-DJRUEN_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Ruen_(DJ)"
+        }
+      }
+    ],
+    "restaurants": [
+      {
+        "id": "dubai-restaurants-1",
+        "name": "Zuma",
+        "cityId": "dubai",
+        "categoryId": "restaurants",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Zuma%2C%20Dubai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Zuma_(restaurant)",
+        "photo": null
+      },
+      {
+        "id": "dubai-restaurants-2",
+        "name": "ChicKing",
+        "cityId": "dubai",
+        "categoryId": "restaurants",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=ChicKing%2C%20Dubai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/ChicKing",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/ChicKing%2C_Oude_Noorden%2C_Rotterdam_%282023%29_01.jpg/960px-ChicKing%2C_Oude_Noorden%2C_Rotterdam_%282023%29_01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/ChicKing"
+        }
+      },
+      {
+        "id": "dubai-restaurants-3",
+        "name": "Dinner by Heston Blumenthal",
+        "cityId": "dubai",
+        "categoryId": "restaurants",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Dinner%20by%20Heston%20Blumenthal%2C%20Dubai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Dinner_by_Heston_Blumenthal",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/Dinner_by_Heston_Blumenthal%2C_Knightsbridge.jpg/960px-Dinner_by_Heston_Blumenthal%2C_Knightsbridge.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Dinner_by_Heston_Blumenthal"
+        }
+      },
+      {
+        "id": "dubai-restaurants-4",
+        "name": "Kempinski The Boulevard Dubai",
+        "cityId": "dubai",
+        "categoryId": "restaurants",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Kempinski%20The%20Boulevard%20Dubai%2C%20Dubai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Kempinski_The_Boulevard_Dubai",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/en/2/2a/The_Address_Boulevard.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Kempinski_The_Boulevard_Dubai"
+        }
+      },
+      {
+        "id": "dubai-restaurants-5",
+        "name": "The Gardens, Dubai",
+        "cityId": "dubai",
+        "categoryId": "restaurants",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Gardens%2C%20Dubai%2C%20Dubai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/The_Gardens%2C_Dubai",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/The_Gardens_Community_Main_Roundabout.jpg/960px-The_Gardens_Community_Main_Roundabout.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/The_Gardens%2C_Dubai"
+        }
+      },
+      {
+        "id": "dubai-restaurants-6",
+        "name": "Baja Fresh",
+        "cityId": "dubai",
+        "categoryId": "restaurants",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Baja%20Fresh%2C%20Dubai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Baja_Fresh",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/2010-12-29_12.33.30%2C_Baja_Fresh%2C_San_Carlos%2C_CA_%285335997143%29.jpg/960px-2010-12-29_12.33.30%2C_Baja_Fresh%2C_San_Carlos%2C_CA_%285335997143%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Baja_Fresh"
+        }
+      },
+      {
+        "id": "dubai-restaurants-7",
+        "name": "Le Cirque",
+        "cityId": "dubai",
+        "categoryId": "restaurants",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Le%20Cirque%2C%20Dubai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Le_Cirque",
+        "photo": null
+      },
+      {
+        "id": "dubai-restaurants-8",
+        "name": "Trader Vic's",
+        "cityId": "dubai",
+        "categoryId": "restaurants",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Trader%20Vic's%2C%20Dubai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Trader_Vic's",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/Trader_vics_london.JPG/960px-Trader_vics_london.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Trader_Vic's"
+        }
+      },
+      {
+        "id": "dubai-restaurants-9",
+        "name": "Hell's Kitchen",
+        "cityId": "dubai",
+        "categoryId": "restaurants",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Hell's%20Kitchen%2C%20Dubai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Hell's_Kitchen_(restaurant)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/Hell%27s_Kitchen_Las_Vegas_2019.jpg/960px-Hell%27s_Kitchen_Las_Vegas_2019.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Hell's_Kitchen_(restaurant)"
+        }
+      },
+      {
+        "id": "dubai-restaurants-10",
+        "name": "Anara Tower",
+        "cityId": "dubai",
+        "categoryId": "restaurants",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Anara%20Tower%2C%20Dubai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Anara_Tower",
+        "photo": null
+      },
+      {
+        "id": "dubai-restaurants-11",
+        "name": "Dubai Meydan City",
+        "cityId": "dubai",
+        "categoryId": "restaurants",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Dubai%20Meydan%20City%2C%20Dubai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Dubai_Meydan_City",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Meydan_dubai.jpg/960px-Meydan_dubai.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Dubai_Meydan_City"
+        }
+      },
+      {
+        "id": "dubai-restaurants-12",
+        "name": "Jason Atherton",
+        "cityId": "dubai",
+        "categoryId": "restaurants",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Jason%20Atherton%2C%20Dubai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Jason_Atherton",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/en/thumb/c/ca/Jason_Atherton.jpg/960px-Jason_Atherton.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Jason_Atherton"
+        }
+      },
+      {
+        "id": "dubai-restaurants-13",
+        "name": "Mall of the Emirates",
+        "cityId": "dubai",
+        "categoryId": "restaurants",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Mall%20of%20the%20Emirates%2C%20Dubai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Mall_of_the_Emirates",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Mall_of_the_Emirates_%283679338750%29.jpg/960px-Mall_of_the_Emirates_%283679338750%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Mall_of_the_Emirates"
+        }
+      },
+      {
+        "id": "dubai-restaurants-14",
+        "name": "Eat App",
+        "cityId": "dubai",
+        "categoryId": "restaurants",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Eat%20App%2C%20Dubai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Eat_App",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Frame_Eat_App.png/960px-Frame_Eat_App.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Eat_App"
+        }
+      },
+      {
+        "id": "dubai-restaurants-15",
+        "name": "Tortilla",
+        "cityId": "dubai",
+        "categoryId": "restaurants",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Tortilla%2C%20Dubai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Tortilla_(restaurant_chain)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Tortilla_-_Broad_Street_-_geograph.org.uk_-_6895869_%28cropped%29.jpg/960px-Tortilla_-_Broad_Street_-_geograph.org.uk_-_6895869_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Tortilla_(restaurant_chain)"
+        }
+      },
+      {
+        "id": "dubai-restaurants-16",
+        "name": "Jumeirah Islands",
+        "cityId": "dubai",
+        "categoryId": "restaurants",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Jumeirah%20Islands%2C%20Dubai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Jumeirah_Islands",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Jumeirah_Islands_on_1_May_2007.jpg/960px-Jumeirah_Islands_on_1_May_2007.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Jumeirah_Islands"
+        }
+      },
+      {
+        "id": "dubai-restaurants-17",
+        "name": "German Doner Kebab",
+        "cityId": "dubai",
+        "categoryId": "restaurants",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=German%20Doner%20Kebab%2C%20Dubai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/German_Doner_Kebab",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/GDK_Leeds_White_Rose%2C_UK.jpg/960px-GDK_Leeds_White_Rose%2C_UK.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/German_Doner_Kebab"
+        }
+      },
+      {
+        "id": "dubai-restaurants-18",
+        "name": "Verre",
+        "cityId": "dubai",
+        "categoryId": "restaurants",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Verre%2C%20Dubai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Verre_(restaurant)",
+        "photo": null
+      }
+    ],
+    "bars": [
+      {
+        "id": "dubai-bars-1",
+        "name": "Zuma",
+        "cityId": "dubai",
+        "categoryId": "bars",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Zuma%2C%20Dubai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Zuma_(restaurant)",
+        "photo": null
+      },
+      {
+        "id": "dubai-bars-2",
+        "name": "Meydan Racecourse",
+        "cityId": "dubai",
+        "categoryId": "bars",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Meydan%20Racecourse%2C%20Dubai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Meydan_Racecourse",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Jaguar_Style_Stakes_Set_to_be_Highlight_of_Dubai%E2%80%99s_2014_Fashion_Calendar_%2812560402544%29.jpg/960px-Jaguar_Style_Stakes_Set_to_be_Highlight_of_Dubai%E2%80%99s_2014_Fashion_Calendar_%2812560402544%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Meydan_Racecourse"
+        }
+      },
+      {
+        "id": "dubai-bars-3",
+        "name": "Trader Vic's",
+        "cityId": "dubai",
+        "categoryId": "bars",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Trader%20Vic's%2C%20Dubai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Trader_Vic's",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/Trader_vics_london.JPG/960px-Trader_vics_london.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Trader_Vic's"
+        }
+      },
+      {
+        "id": "dubai-bars-4",
+        "name": "Hyatt Regency Dubai",
+        "cityId": "dubai",
+        "categoryId": "bars",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Hyatt%20Regency%20Dubai%2C%20Dubai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Hyatt_Regency_Dubai",
+        "photo": null
+      },
+      {
+        "id": "dubai-bars-5",
+        "name": "Dubai",
+        "cityId": "dubai",
+        "categoryId": "bars",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Dubai%2C%20Dubai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Dubai",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/en/thumb/c/c7/Burj_Khalifa_2021.jpg/960px-Burj_Khalifa_2021.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Dubai"
+        }
+      },
+      {
+        "id": "dubai-bars-6",
+        "name": "Bar, Hormozgan",
+        "cityId": "dubai",
+        "categoryId": "bars",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Bar%2C%20Hormozgan%2C%20Dubai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Bar%2C_Hormozgan",
+        "photo": null
+      },
+      {
+        "id": "dubai-bars-7",
+        "name": "Atlantis, The Palm",
+        "cityId": "dubai",
+        "categoryId": "bars",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Atlantis%2C%20The%20Palm%2C%20Dubai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Atlantis%2C_The_Palm",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/en/thumb/f/f3/Hotel_Atlantis_at_Sunset%2C_The_Palm_-_Dubai_%2849510861268%29.jpg/960px-Hotel_Atlantis_at_Sunset%2C_The_Palm_-_Dubai_%2849510861268%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Atlantis%2C_The_Palm"
+        }
+      },
+      {
+        "id": "dubai-bars-8",
+        "name": "Emirates",
+        "cityId": "dubai",
+        "categoryId": "bars",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Emirates%2C%20Dubai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Emirates_(airline)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/Emirates_Logo.svg/960px-Emirates_Logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Emirates_(airline)"
+        }
+      },
+      {
+        "id": "dubai-bars-9",
+        "name": "Buddha Bar",
+        "cityId": "dubai",
+        "categoryId": "bars",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Buddha%20Bar%2C%20Dubai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Buddha_Bar",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Buddha-bar_hotel_paris_logo.jpg/960px-Buddha-bar_hotel_paris_logo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Buddha_Bar"
+        }
+      },
+      {
+        "id": "dubai-bars-10",
+        "name": "Baja Fresh",
+        "cityId": "dubai",
+        "categoryId": "bars",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Baja%20Fresh%2C%20Dubai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Baja_Fresh",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/2010-12-29_12.33.30%2C_Baja_Fresh%2C_San_Carlos%2C_CA_%285335997143%29.jpg/960px-2010-12-29_12.33.30%2C_Baja_Fresh%2C_San_Carlos%2C_CA_%285335997143%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Baja_Fresh"
+        }
+      },
+      {
+        "id": "dubai-bars-11",
+        "name": "Flag of the United Arab Emirates",
+        "cityId": "dubai",
+        "categoryId": "bars",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Flag%20of%20the%20United%20Arab%20Emirates%2C%20Dubai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Flag_of_the_United_Arab_Emirates",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_United_Arab_Emirates.svg/960px-Flag_of_the_United_Arab_Emirates.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Flag_of_the_United_Arab_Emirates"
+        }
+      },
+      {
+        "id": "dubai-bars-12",
+        "name": "Queen Elizabeth 2",
+        "cityId": "dubai",
+        "categoryId": "bars",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Queen%20Elizabeth%202%2C%20Dubai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Queen_Elizabeth_2",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/VAE-dubai-QE_II_cropped.jpg/960px-VAE-dubai-QE_II_cropped.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Queen_Elizabeth_2"
+        }
+      },
+      {
+        "id": "dubai-bars-13",
+        "name": "Vdara",
+        "cityId": "dubai",
+        "categoryId": "bars",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Vdara%2C%20Dubai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Vdara",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Vdara_logo.svg/960px-Vdara_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Vdara"
+        }
+      },
+      {
+        "id": "dubai-bars-14",
+        "name": "2021 24H TCE Series",
+        "cityId": "dubai",
+        "categoryId": "bars",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=2021%2024H%20TCE%20Series%2C%20Dubai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/2021_24H_TCE_Series",
+        "photo": null
+      },
+      {
+        "id": "dubai-bars-15",
+        "name": "Lawrence Graham",
+        "cityId": "dubai",
+        "categoryId": "bars",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Lawrence%20Graham%2C%20Dubai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Lawrence_Graham",
+        "photo": null
+      },
+      {
+        "id": "dubai-bars-16",
+        "name": "Cipriani S.A.",
+        "cityId": "dubai",
+        "categoryId": "bars",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Cipriani%20S.A.%2C%20Dubai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Cipriani_S.A.",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Cipriani_restaurant_entrance%2C_Dubai%2C_October_2026.jpg/960px-Cipriani_restaurant_entrance%2C_Dubai%2C_October_2026.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Cipriani_S.A."
+        }
+      },
+      {
+        "id": "dubai-bars-17",
+        "name": "Kajraare",
+        "cityId": "dubai",
+        "categoryId": "bars",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Kajraare%2C%20Dubai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Kajraare",
+        "photo": null
+      },
+      {
+        "id": "dubai-bars-18",
+        "name": "Daniel Boulud",
+        "cityId": "dubai",
+        "categoryId": "bars",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Daniel%20Boulud%2C%20Dubai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Daniel_Boulud",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/dc/DanielBoulud.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Daniel_Boulud"
+        }
+      }
+    ],
+    "coffee_shops": [
+      {
+        "id": "dubai-coffee_shops-1",
+        "name": "Cereal Killer Cafe",
+        "cityId": "dubai",
+        "categoryId": "coffee_shops",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Cereal%20Killer%20Cafe%2C%20Dubai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Cereal_Killer_Cafe",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/en/thumb/1/18/Cereal_Killer_exterior.JPG/960px-Cereal_Killer_exterior.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Cereal_Killer_Cafe"
+        }
+      },
+      {
+        "id": "dubai-coffee_shops-2",
+        "name": "Al Bastakiya",
+        "cityId": "dubai",
+        "categoryId": "coffee_shops",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Al%20Bastakiya%2C%20Dubai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Al_Bastakiya",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Al_Bastakiya_of_Dubai.jpg/960px-Al_Bastakiya_of_Dubai.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Al_Bastakiya"
+        }
+      },
+      {
+        "id": "dubai-coffee_shops-3",
+        "name": "Al Sufouh",
+        "cityId": "dubai",
+        "categoryId": "coffee_shops",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Al%20Sufouh%2C%20Dubai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Al_Sufouh",
+        "photo": null
+      },
+      {
+        "id": "dubai-coffee_shops-4",
+        "name": "Cafe Barbera",
+        "cityId": "dubai",
+        "categoryId": "coffee_shops",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Cafe%20Barbera%2C%20Dubai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Cafe_Barbera",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Cafe_Barbera_Logo.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Cafe_Barbera"
+        }
+      },
+      {
+        "id": "dubai-coffee_shops-5",
+        "name": "Dave's Hot Chicken",
+        "cityId": "dubai",
+        "categoryId": "coffee_shops",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Dave's%20Hot%20Chicken%2C%20Dubai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Dave's_Hot_Chicken",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/Daves_Hot_Chicken_LA_Koreatown.jpg/960px-Daves_Hot_Chicken_LA_Koreatown.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Dave's_Hot_Chicken"
+        }
+      },
+      {
+        "id": "dubai-coffee_shops-6",
+        "name": "Al-Nasr SC",
+        "cityId": "dubai",
+        "categoryId": "coffee_shops",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Al-Nasr%20SC%2C%20Dubai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Al-Nasr_SC_(Dubai)",
+        "photo": null
+      },
+      {
+        "id": "dubai-coffee_shops-7",
+        "name": "Rainforest Cafe",
+        "cityId": "dubai",
+        "categoryId": "coffee_shops",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Rainforest%20Cafe%2C%20Dubai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Rainforest_Cafe",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/Rainforest-cafe-auburn-hills-michigan.jpg/960px-Rainforest-cafe-auburn-hills-michigan.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Rainforest_Cafe"
+        }
+      },
+      {
+        "id": "dubai-coffee_shops-8",
+        "name": "Baja Fresh",
+        "cityId": "dubai",
+        "categoryId": "coffee_shops",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Baja%20Fresh%2C%20Dubai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Baja_Fresh",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/2010-12-29_12.33.30%2C_Baja_Fresh%2C_San_Carlos%2C_CA_%285335997143%29.jpg/960px-2010-12-29_12.33.30%2C_Baja_Fresh%2C_San_Carlos%2C_CA_%285335997143%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Baja_Fresh"
+        }
+      },
+      {
+        "id": "dubai-coffee_shops-9",
+        "name": "The Cheesecake Factory",
+        "cityId": "dubai",
+        "categoryId": "coffee_shops",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Cheesecake%20Factory%2C%20Dubai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/The_Cheesecake_Factory",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/A_Cheesecake_Factory_restaurant_at_The_Summit_mall_in_Birmingham%2C_Alabama_01.jpg/960px-A_Cheesecake_Factory_restaurant_at_The_Summit_mall_in_Birmingham%2C_Alabama_01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/The_Cheesecake_Factory"
+        }
+      },
+      {
+        "id": "dubai-coffee_shops-10",
+        "name": "Vdara",
+        "cityId": "dubai",
+        "categoryId": "coffee_shops",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Vdara%2C%20Dubai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Vdara",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Vdara_logo.svg/960px-Vdara_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Vdara"
+        }
+      },
+      {
+        "id": "dubai-coffee_shops-11",
+        "name": "Dubai CSC",
+        "cityId": "dubai",
+        "categoryId": "coffee_shops",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Dubai%20CSC%2C%20Dubai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Dubai_CSC",
+        "photo": null
+      },
+      {
+        "id": "dubai-coffee_shops-12",
+        "name": "Giraffe World Kitchen",
+        "cityId": "dubai",
+        "categoryId": "coffee_shops",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Giraffe%20World%20Kitchen%2C%20Dubai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Giraffe_World_Kitchen",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Giraffe-logo.svg/960px-Giraffe-logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Giraffe_World_Kitchen"
+        }
+      },
+      {
+        "id": "dubai-coffee_shops-13",
+        "name": "Emirati cuisine",
+        "cityId": "dubai",
+        "categoryId": "coffee_shops",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Emirati%20cuisine%2C%20Dubai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Emirati_cuisine",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/Luqaimat.jpg/960px-Luqaimat.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Emirati_cuisine"
+        }
+      },
+      {
+        "id": "dubai-coffee_shops-14",
+        "name": "Daniel Boulud",
+        "cityId": "dubai",
+        "categoryId": "coffee_shops",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Daniel%20Boulud%2C%20Dubai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Daniel_Boulud",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/dc/DanielBoulud.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Daniel_Boulud"
+        }
+      },
+      {
+        "id": "dubai-coffee_shops-15",
+        "name": "Mall of the Emirates",
+        "cityId": "dubai",
+        "categoryId": "coffee_shops",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Mall%20of%20the%20Emirates%2C%20Dubai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Mall_of_the_Emirates",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Mall_of_the_Emirates_%283679338750%29.jpg/960px-Mall_of_the_Emirates_%283679338750%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Mall_of_the_Emirates"
+        }
+      },
+      {
+        "id": "dubai-coffee_shops-16",
+        "name": "The Gardens, Dubai",
+        "cityId": "dubai",
+        "categoryId": "coffee_shops",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Gardens%2C%20Dubai%2C%20Dubai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/The_Gardens%2C_Dubai",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/The_Gardens_Community_Main_Roundabout.jpg/960px-The_Gardens_Community_Main_Roundabout.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/The_Gardens%2C_Dubai"
+        }
+      },
+      {
+        "id": "dubai-coffee_shops-17",
+        "name": "Anjali Menon",
+        "cityId": "dubai",
+        "categoryId": "coffee_shops",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Anjali%20Menon%2C%20Dubai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Anjali_Menon",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/%E0%B4%85%E0%B4%9C%E0%B5%8D%E0%B4%9E%E0%B4%B2%E0%B4%BF_%E0%B4%AE%E0%B5%87%E0%B4%A8%E0%B5%8B%E0%B5%BB_%28cropped%29.jpg/960px-%E0%B4%85%E0%B4%9C%E0%B5%8D%E0%B4%9E%E0%B4%B2%E0%B4%BF_%E0%B4%AE%E0%B5%87%E0%B4%A8%E0%B5%8B%E0%B5%BB_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Anjali_Menon"
+        }
+      },
+      {
+        "id": "dubai-coffee_shops-18",
+        "name": "Sean Meenan",
+        "cityId": "dubai",
+        "categoryId": "coffee_shops",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Sean%20Meenan%2C%20Dubai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Sean_Meenan",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Sean_At_Cafe.jpg/960px-Sean_At_Cafe.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Sean_Meenan"
+        }
+      }
+    ],
+    "bookshops": [
+      {
+        "id": "dubai-bookshops-1",
+        "name": "Books Kinokuniya",
+        "cityId": "dubai",
+        "categoryId": "bookshops",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Books%20Kinokuniya%2C%20Dubai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Books_Kinokuniya",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/en/thumb/0/02/Books_Kinokuniya_logo_%282026%29.svg/960px-Books_Kinokuniya_logo_%282026%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Books_Kinokuniya"
+        }
+      },
+      {
+        "id": "dubai-bookshops-2",
+        "name": "Borders",
+        "cityId": "dubai",
+        "categoryId": "bookshops",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Borders%2C%20Dubai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Borders_(retailer)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Borders_The_Curve_%28211029%29.jpg/960px-Borders_The_Curve_%28211029%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Borders_(retailer)"
+        }
+      },
+      {
+        "id": "dubai-bookshops-3",
+        "name": "Maison Assouline",
+        "cityId": "dubai",
+        "categoryId": "bookshops",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Maison%20Assouline%2C%20Dubai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Maison_Assouline",
+        "photo": null
+      },
+      {
+        "id": "dubai-bookshops-4",
+        "name": "Purdue Pete",
+        "cityId": "dubai",
+        "categoryId": "bookshops",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Purdue%20Pete%2C%20Dubai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Purdue_Pete",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Purdue_Pete_modern.jpg/960px-Purdue_Pete_modern.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Purdue_Pete"
+        }
+      },
+      {
+        "id": "dubai-bookshops-5",
+        "name": "Narcy",
+        "cityId": "dubai",
+        "categoryId": "bookshops",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Narcy%2C%20Dubai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Narcy_(rapper)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Narcy_in_Babylone.jpg/960px-Narcy_in_Babylone.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Narcy_(rapper)"
+        }
+      },
+      {
+        "id": "dubai-bookshops-6",
+        "name": "Rochester Institute of Technology of Dubai",
+        "cityId": "dubai",
+        "categoryId": "bookshops",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Rochester%20Institute%20of%20Technology%20of%20Dubai%2C%20Dubai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Rochester_Institute_of_Technology_of_Dubai",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/Rochester_Institute_of_Technology_Seal_%282018%29.svg/960px-Rochester_Institute_of_Technology_Seal_%282018%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Rochester_Institute_of_Technology_of_Dubai"
+        }
+      },
+      {
+        "id": "dubai-bookshops-7",
+        "name": "Darussalam Publishers",
+        "cityId": "dubai",
+        "categoryId": "bookshops",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Darussalam%20Publishers%2C%20Dubai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Darussalam_Publishers",
+        "photo": null
+      },
+      {
+        "id": "dubai-bookshops-8",
+        "name": "AW Rostamani Group",
+        "cityId": "dubai",
+        "categoryId": "bookshops",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=AW%20Rostamani%20Group%2C%20Dubai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/AW_Rostamani_Group",
+        "photo": null
+      },
+      {
+        "id": "dubai-bookshops-9",
+        "name": "Ajman University",
+        "cityId": "dubai",
+        "categoryId": "bookshops",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Ajman%20University%2C%20Dubai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Ajman_University",
+        "photo": null
+      },
+      {
+        "id": "dubai-bookshops-10",
+        "name": "Kabul City Center",
+        "cityId": "dubai",
+        "categoryId": "bookshops",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Kabul%20City%20Center%2C%20Dubai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Kabul_City_Center",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/en/d/d2/Kabul_City_Centre_-_panoramio.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Kabul_City_Center"
+        }
+      },
+      {
+        "id": "dubai-bookshops-11",
+        "name": "Rahat Indori",
+        "cityId": "dubai",
+        "categoryId": "bookshops",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Rahat%20Indori%2C%20Dubai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Rahat_Indori",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/Rahat_Saab_At_Ahmedabad.jpg/960px-Rahat_Saab_At_Ahmedabad.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Rahat_Indori"
+        }
+      },
+      {
+        "id": "dubai-bookshops-12",
+        "name": "Sheana Davis",
+        "cityId": "dubai",
+        "categoryId": "bookshops",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Sheana%20Davis%2C%20Dubai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Sheana_Davis",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/62/SheanaDavis-Kitchen-Crop.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Sheana_Davis"
+        }
+      },
+      {
+        "id": "dubai-bookshops-13",
+        "name": "Mr. Bogus",
+        "cityId": "dubai",
+        "categoryId": "bookshops",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Mr.%20Bogus%2C%20Dubai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Mr._Bogus",
+        "photo": null
+      },
+      {
+        "id": "dubai-bookshops-14",
+        "name": "Zaha Hadid",
+        "cityId": "dubai",
+        "categoryId": "bookshops",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Zaha%20Hadid%2C%20Dubai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Zaha_Hadid",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/Zaha_Hadid_in_Heydar_Aliyev_Cultural_center_in_Baku_nov_2013.jpg/960px-Zaha_Hadid_in_Heydar_Aliyev_Cultural_center_in_Baku_nov_2013.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Zaha_Hadid"
+        }
+      },
+      {
+        "id": "dubai-bookshops-15",
+        "name": "Blue Tokai Coffee Roasters",
+        "cityId": "dubai",
+        "categoryId": "bookshops",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Blue%20Tokai%20Coffee%20Roasters%2C%20Dubai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Blue_Tokai_Coffee_Roasters",
+        "photo": null
+      },
+      {
+        "id": "dubai-bookshops-16",
+        "name": "Dodo Pizza",
+        "cityId": "dubai",
+        "categoryId": "bookshops",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Dodo%20Pizza%2C%20Dubai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Dodo_Pizza",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/KIR1688_%2843515147930%29.jpg/960px-KIR1688_%2843515147930%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Dodo_Pizza"
+        }
+      },
+      {
+        "id": "dubai-bookshops-17",
+        "name": "Ringo Bunoan",
+        "cityId": "dubai",
+        "categoryId": "bookshops",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Ringo%20Bunoan%2C%20Dubai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Ringo_Bunoan",
+        "photo": null
+      },
+      {
+        "id": "dubai-bookshops-18",
+        "name": "Chris Folayan",
+        "cityId": "dubai",
+        "categoryId": "bookshops",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Chris%20Folayan%2C%20Dubai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Chris_Folayan",
+        "photo": null
+      }
+    ],
+    "museums": [
+      {
+        "id": "dubai-museums-1",
+        "name": "Dubai Museum",
+        "cityId": "dubai",
+        "categoryId": "museums",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Dubai%20Museum%2C%20Dubai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Dubai_Museum",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/UAE_Dubai_Al_Fahidi_Fort_img1_asv2018-01.jpg/960px-UAE_Dubai_Al_Fahidi_Fort_img1_asv2018-01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Dubai_Museum"
+        }
+      },
+      {
+        "id": "dubai-museums-2",
+        "name": "Tourist attractions in Dubai",
+        "cityId": "dubai",
+        "categoryId": "museums",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Tourist%20attractions%20in%20Dubai%2C%20Dubai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Tourist_attractions_in_Dubai",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/en/thumb/9/93/Burj_Khalifa.jpg/960px-Burj_Khalifa.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Tourist_attractions_in_Dubai"
+        }
+      },
+      {
+        "id": "dubai-museums-3",
+        "name": "Dubai",
+        "cityId": "dubai",
+        "categoryId": "museums",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Dubai%2C%20Dubai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Dubai",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/en/thumb/c/c7/Burj_Khalifa_2021.jpg/960px-Burj_Khalifa_2021.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Dubai"
+        }
+      },
+      {
+        "id": "dubai-museums-4",
+        "name": "Meydan Racecourse",
+        "cityId": "dubai",
+        "categoryId": "museums",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Meydan%20Racecourse%2C%20Dubai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Meydan_Racecourse",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Jaguar_Style_Stakes_Set_to_be_Highlight_of_Dubai%E2%80%99s_2014_Fashion_Calendar_%2812560402544%29.jpg/960px-Jaguar_Style_Stakes_Set_to_be_Highlight_of_Dubai%E2%80%99s_2014_Fashion_Calendar_%2812560402544%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Meydan_Racecourse"
+        }
+      },
+      {
+        "id": "dubai-museums-5",
+        "name": "Al Bastakiya",
+        "cityId": "dubai",
+        "categoryId": "museums",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Al%20Bastakiya%2C%20Dubai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Al_Bastakiya",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Al_Bastakiya_of_Dubai.jpg/960px-Al_Bastakiya_of_Dubai.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Al_Bastakiya"
+        }
+      },
+      {
+        "id": "dubai-museums-6",
+        "name": "Dubai Frame",
+        "cityId": "dubai",
+        "categoryId": "museums",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Dubai%20Frame%2C%20Dubai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Dubai_Frame",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/en/thumb/e/e6/The_Dubai_Frame.jpg/960px-The_Dubai_Frame.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Dubai_Frame"
+        }
+      },
+      {
+        "id": "dubai-museums-7",
+        "name": "Qatari riyal",
+        "cityId": "dubai",
+        "categoryId": "museums",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Qatari%20riyal%2C%20Dubai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Qatari_riyal",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/QAT001.JPG/960px-QAT001.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Qatari_riyal"
+        }
+      },
+      {
+        "id": "dubai-museums-8",
+        "name": "Dubai Metro",
+        "cityId": "dubai",
+        "categoryId": "museums",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Dubai%20Metro%2C%20Dubai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Dubai_Metro",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/5018_Dubai_Metro_in_Dubai_UAE.png/960px-5018_Dubai_Metro_in_Dubai_UAE.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Dubai_Metro"
+        }
+      },
+      {
+        "id": "dubai-museums-9",
+        "name": "Outline of Dubai",
+        "cityId": "dubai",
+        "categoryId": "museums",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Outline%20of%20Dubai%2C%20Dubai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Outline_of_Dubai",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Flag_of_Dubai.svg/960px-Flag_of_Dubai.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Outline_of_Dubai"
+        }
+      },
+      {
+        "id": "dubai-museums-10",
+        "name": "Al Shindagha",
+        "cityId": "dubai",
+        "categoryId": "museums",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Al%20Shindagha%2C%20Dubai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Al_Shindagha",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/UAE_Dubai_Shindagha_village_img1_asv2018-01.jpg/960px-UAE_Dubai_Shindagha_village_img1_asv2018-01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Al_Shindagha"
+        }
+      },
+      {
+        "id": "dubai-museums-11",
+        "name": "Saeed Al Maktoum House",
+        "cityId": "dubai",
+        "categoryId": "museums",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Saeed%20Al%20Maktoum%20House%2C%20Dubai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Saeed_Al_Maktoum_House",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Saeed_Al_Maktoum_House-Dubai2841.JPG/960px-Saeed_Al_Maktoum_House-Dubai2841.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Saeed_Al_Maktoum_House"
+        }
+      },
+      {
+        "id": "dubai-museums-12",
+        "name": "Grand Mosque of Dubai",
+        "cityId": "dubai",
+        "categoryId": "museums",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Grand%20Mosque%20of%20Dubai%2C%20Dubai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Grand_Mosque_of_Dubai",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/Grand_Mosque_of_Bur_Dubai_1.jpg/960px-Grand_Mosque_of_Bur_Dubai_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Grand_Mosque_of_Dubai"
+        }
+      },
+      {
+        "id": "dubai-museums-13",
+        "name": "Museum of the Future",
+        "cityId": "dubai",
+        "categoryId": "museums",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Museum%20of%20the%20Future%2C%20Dubai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Museum_of_the_Future",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/en/thumb/8/8c/Museum_of_the_future%2C_Dubai.jpeg/960px-Museum_of_the_future%2C_Dubai.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Museum_of_the_Future"
+        }
+      },
+      {
+        "id": "dubai-museums-14",
+        "name": "Ajman",
+        "cityId": "dubai",
+        "categoryId": "museums",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Ajman%2C%20Dubai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Ajman",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Palacio_del_Emir_de_Ajm%C3%A1n.jpg/960px-Palacio_del_Emir_de_Ajm%C3%A1n.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Ajman"
+        }
+      },
+      {
+        "id": "dubai-museums-15",
+        "name": "Bur Dubai",
+        "cityId": "dubai",
+        "categoryId": "museums",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Bur%20Dubai%2C%20Dubai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Bur_Dubai",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Deira_Skyline_on_8_May_2007.jpg/960px-Deira_Skyline_on_8_May_2007.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Bur_Dubai"
+        }
+      },
+      {
+        "id": "dubai-museums-16",
+        "name": "Dubai Butterfly Garden",
+        "cityId": "dubai",
+        "categoryId": "museums",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Dubai%20Butterfly%20Garden%2C%20Dubai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Dubai_Butterfly_Garden",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/VAE-dubai-butterfl-01.jpg/960px-VAE-dubai-butterfl-01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Dubai_Butterfly_Garden"
+        }
+      },
+      {
+        "id": "dubai-museums-17",
+        "name": "Joel Rosario",
+        "cityId": "dubai",
+        "categoryId": "museums",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Joel%20Rosario%2C%20Dubai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Joel_Rosario",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/56/Tonalist_and_Rosario_Belmont_2014_03.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Joel_Rosario"
+        }
+      },
+      {
+        "id": "dubai-museums-18",
+        "name": "Saruq Al Hadid",
+        "cityId": "dubai",
+        "categoryId": "museums",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Saruq%20Al%20Hadid%2C%20Dubai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Saruq_Al_Hadid",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Saruq_Al_Hadid.jpg/960px-Saruq_Al_Hadid.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Saruq_Al_Hadid"
+        }
+      }
+    ],
+    "concerts": [
+      {
+        "id": "dubai-concerts-1",
+        "name": "Hyundai Global Business Center",
+        "cityId": "dubai",
+        "categoryId": "concerts",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Hyundai%20Global%20Business%20Center%2C%20Dubai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Hyundai_Global_Business_Center",
+        "photo": null
+      },
+      {
+        "id": "dubai-concerts-2",
+        "name": "Contemporary architecture",
+        "cityId": "dubai",
+        "categoryId": "concerts",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Contemporary%20architecture%2C%20Dubai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Contemporary_architecture",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Hard_Rock_Hotel_Singapore.jpg/960px-Hard_Rock_Hotel_Singapore.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Contemporary_architecture"
+        }
+      },
+      {
+        "id": "dubai-concerts-3",
+        "name": "Dubai Opera",
+        "cityId": "dubai",
+        "categoryId": "concerts",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Dubai%20Opera%2C%20Dubai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Dubai_Opera",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/en/thumb/6/63/DubaiOpera.jpg/960px-DubaiOpera.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Dubai_Opera"
+        }
+      },
+      {
+        "id": "dubai-concerts-4",
+        "name": "Waterfront",
+        "cityId": "dubai",
+        "categoryId": "concerts",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Waterfront%2C%20Dubai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Waterfront",
+        "photo": null
+      },
+      {
+        "id": "dubai-concerts-5",
+        "name": "Nuwandhika Senarathne",
+        "cityId": "dubai",
+        "categoryId": "concerts",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Nuwandhika%20Senarathne%2C%20Dubai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Nuwandhika_Senarathne",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/ba/NuwandhikaSenarathne.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Nuwandhika_Senarathne"
+        }
+      },
+      {
+        "id": "dubai-concerts-6",
+        "name": "Zagreb Indoors",
+        "cityId": "dubai",
+        "categoryId": "concerts",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Zagreb%20Indoors%2C%20Dubai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Zagreb_Indoors",
+        "photo": null
+      },
+      {
+        "id": "dubai-concerts-7",
+        "name": "Taipei Music Center",
+        "cityId": "dubai",
+        "categoryId": "concerts",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Taipei%20Music%20Center%2C%20Dubai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Taipei_Music_Center",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/Taipei_Music_Center_panorama.jpg/960px-Taipei_Music_Center_panorama.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Taipei_Music_Center"
+        }
+      },
+      {
+        "id": "dubai-concerts-8",
+        "name": "Palladium",
+        "cityId": "dubai",
+        "categoryId": "concerts",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Palladium%2C%20Dubai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Palladium_(disambiguation)",
+        "photo": null
+      },
+      {
+        "id": "dubai-concerts-9",
+        "name": "Amazing Race",
+        "cityId": "dubai",
+        "categoryId": "concerts",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Amazing%20Race%2C%20Dubai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Amazing_Race_(French_TV_series)",
+        "photo": null
+      },
+      {
+        "id": "dubai-concerts-10",
+        "name": "Ankara Esenboğa Airport",
+        "cityId": "dubai",
+        "categoryId": "concerts",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Ankara%20Esenbo%C4%9Fa%20Airport%2C%20Dubai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Ankara_Esenbo%C4%9Fa_Airport",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Ankara_Esenboga_International_Airport.jpg/960px-Ankara_Esenboga_International_Airport.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Ankara_Esenbo%C4%9Fa_Airport"
+        }
+      },
+      {
+        "id": "dubai-concerts-11",
+        "name": "Heriot-Watt University",
+        "cityId": "dubai",
+        "categoryId": "concerts",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Heriot-Watt%20University%2C%20Dubai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Heriot-Watt_University",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/Heriot-Watt_University_arms.svg/960px-Heriot-Watt_University_arms.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Heriot-Watt_University"
+        }
+      },
+      {
+        "id": "dubai-concerts-12",
+        "name": "AEG Ogden",
+        "cityId": "dubai",
+        "categoryId": "concerts",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=AEG%20Ogden%2C%20Dubai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/AEG_Ogden",
+        "photo": null
+      },
+      {
+        "id": "dubai-concerts-13",
+        "name": "Charmbracelet World Tour",
+        "cityId": "dubai",
+        "categoryId": "concerts",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Charmbracelet%20World%20Tour%2C%20Dubai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Charmbracelet_World_Tour",
+        "photo": null
+      },
+      {
+        "id": "dubai-concerts-14",
+        "name": "Pet Sounds 50th Anniversary World Tour",
+        "cityId": "dubai",
+        "categoryId": "concerts",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Pet%20Sounds%2050th%20Anniversary%20World%20Tour%2C%20Dubai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Pet_Sounds_50th_Anniversary_World_Tour",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/PetSounds2017.jpg/960px-PetSounds2017.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Pet_Sounds_50th_Anniversary_World_Tour"
+        }
+      },
+      {
+        "id": "dubai-concerts-15",
+        "name": "Dream Again Tour",
+        "cityId": "dubai",
+        "categoryId": "concerts",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Dream%20Again%20Tour%2C%20Dubai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Dream_Again_Tour",
+        "photo": null
+      },
+      {
+        "id": "dubai-concerts-16",
+        "name": "Googoosh",
+        "cityId": "dubai",
+        "categoryId": "concerts",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Googoosh%2C%20Dubai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Googoosh",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Googoosh_at_the_Hollywood_Bowl%2C_May_2018_08.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Googoosh"
+        }
+      },
+      {
+        "id": "dubai-concerts-17",
+        "name": "Zagreb Open",
+        "cityId": "dubai",
+        "categoryId": "concerts",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Zagreb%20Open%2C%20Dubai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Zagreb_Open",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/ChristopheRochusStuttgart06.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Zagreb_Open"
+        }
+      },
+      {
+        "id": "dubai-concerts-18",
+        "name": "Okhta Center",
+        "cityId": "dubai",
+        "categoryId": "concerts",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Okhta%20Center%2C%20Dubai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Okhta_Center",
+        "photo": null
+      }
+    ],
+    "fashion": [
+      {
+        "id": "dubai-fashion-1",
+        "name": "Roberto Bautista Agut",
+        "cityId": "dubai",
+        "categoryId": "fashion",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Roberto%20Bautista%20Agut%2C%20Dubai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Roberto_Bautista_Agut",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Bautista_Agut_MCM23_%2814%29_%2852883313449%29.jpg/960px-Bautista_Agut_MCM23_%2814%29_%2852883313449%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Roberto_Bautista_Agut"
+        }
+      },
+      {
+        "id": "dubai-fashion-2",
+        "name": "Mick",
+        "cityId": "dubai",
+        "categoryId": "fashion",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Mick%2C%20Dubai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Mick_(DJ)",
+        "photo": null
+      },
+      {
+        "id": "dubai-fashion-3",
+        "name": "Jimmy Rogers",
+        "cityId": "dubai",
+        "categoryId": "fashion",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Jimmy%20Rogers%2C%20Dubai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Jimmy_Rogers",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Jimmy_Rogers.jpg/960px-Jimmy_Rogers.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Jimmy_Rogers"
+        }
+      },
+      {
+        "id": "dubai-fashion-4",
+        "name": "Christopher Kane",
+        "cityId": "dubai",
+        "categoryId": "fashion",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Christopher%20Kane%2C%20Dubai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Christopher_Kane",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Christopher_Kane_at_the_20th_Anniversary_Party_for_%27How_to_Spend_It%27_at_Corinthia_Hotel%2C_London%2C_UK_-_25_November_2014.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Christopher_Kane"
+        }
+      },
+      {
+        "id": "dubai-fashion-5",
+        "name": "Deborah Nantongo Cleave",
+        "cityId": "dubai",
+        "categoryId": "fashion",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Deborah%20Nantongo%20Cleave%2C%20Dubai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Deborah_Nantongo_Cleave",
+        "photo": null
+      },
+      {
+        "id": "dubai-fashion-6",
+        "name": "Barneys New York",
+        "cityId": "dubai",
+        "categoryId": "fashion",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Barneys%20New%20York%2C%20Dubai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Barneys_New_York",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Barneys_New_York.jpg/960px-Barneys_New_York.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Barneys_New_York"
+        }
+      },
+      {
+        "id": "dubai-fashion-7",
+        "name": "Jon Moss",
+        "cityId": "dubai",
+        "categoryId": "fashion",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Jon%20Moss%2C%20Dubai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Jon_Moss",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Jon_Moss_%282011%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Jon_Moss"
+        }
+      },
+      {
+        "id": "dubai-fashion-8",
+        "name": "Suleiman Abdullah Salim",
+        "cityId": "dubai",
+        "categoryId": "fashion",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Suleiman%20Abdullah%20Salim%2C%20Dubai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Suleiman_Abdullah_Salim",
+        "photo": null
+      },
+      {
+        "id": "dubai-fashion-9",
+        "name": "Khaadi",
+        "cityId": "dubai",
+        "categoryId": "fashion",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Khaadi%2C%20Dubai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Khaadi",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Khaadi_logo_%282022%29.png/960px-Khaadi_logo_%282022%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Khaadi"
+        }
+      },
+      {
+        "id": "dubai-fashion-10",
+        "name": "Sidemen",
+        "cityId": "dubai",
+        "categoryId": "fashion",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Sidemen%2C%20Dubai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Sidemen",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Sidemen_collage_5.jpg/960px-Sidemen_collage_5.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Sidemen"
+        }
+      },
+      {
+        "id": "dubai-fashion-11",
+        "name": "Jobedu",
+        "cityId": "dubai",
+        "categoryId": "fashion",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Jobedu%2C%20Dubai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Jobedu",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/da/Jobedu_logo.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Jobedu"
+        }
+      },
+      {
+        "id": "dubai-fashion-12",
+        "name": "Aïshti",
+        "cityId": "dubai",
+        "categoryId": "fashion",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=A%C3%AFshti%2C%20Dubai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/A%C3%AFshti",
+        "photo": null
+      },
+      {
+        "id": "dubai-fashion-13",
+        "name": "Miss India Worldwide",
+        "cityId": "dubai",
+        "categoryId": "fashion",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Miss%20India%20Worldwide%2C%20Dubai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Miss_India_Worldwide",
+        "photo": null
+      },
+      {
+        "id": "dubai-fashion-14",
+        "name": "Buildering",
+        "cityId": "dubai",
+        "categoryId": "fashion",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Buildering%2C%20Dubai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Buildering",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/86/Buildering_On_Doran_Bridge.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Buildering"
+        }
+      },
+      {
+        "id": "dubai-fashion-15",
+        "name": "Borders",
+        "cityId": "dubai",
+        "categoryId": "fashion",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Borders%2C%20Dubai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Borders_(retailer)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Borders_The_Curve_%28211029%29.jpg/960px-Borders_The_Curve_%28211029%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Borders_(retailer)"
+        }
+      },
+      {
+        "id": "dubai-fashion-16",
+        "name": "Palais Quartier",
+        "cityId": "dubai",
+        "categoryId": "fashion",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Palais%20Quartier%2C%20Dubai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Palais_Quartier",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/Frankfurt_Am_Main-Zeil-Palais_Quartier-Ansicht_vom_Maintower.jpg/960px-Frankfurt_Am_Main-Zeil-Palais_Quartier-Ansicht_vom_Maintower.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Palais_Quartier"
+        }
+      },
+      {
+        "id": "dubai-fashion-17",
+        "name": "Poundland",
+        "cityId": "dubai",
+        "categoryId": "fashion",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Poundland%2C%20Dubai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Poundland",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/65/Poundland_logo_2024.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Poundland"
+        }
+      },
+      {
+        "id": "dubai-fashion-18",
+        "name": "Rottnest Island",
+        "cityId": "dubai",
+        "categoryId": "fashion",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Rottnest%20Island%2C%20Dubai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Rottnest_Island",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/27/Rottnest_Island.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Rottnest_Island"
+        }
+      }
+    ],
+    "shops": [
+      {
+        "id": "dubai-shops-1",
+        "name": "Rose Rayhaan by Rotana",
+        "cityId": "dubai",
+        "categoryId": "shops",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Rose%20Rayhaan%20by%20Rotana%2C%20Dubai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Rose_Rayhaan_by_Rotana",
+        "photo": null
+      },
+      {
+        "id": "dubai-shops-2",
+        "name": "DAMAC Towers by Paramount Hotels & Resorts",
+        "cityId": "dubai",
+        "categoryId": "shops",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=DAMAC%20Towers%20by%20Paramount%20Hotels%20%26%20Resorts%2C%20Dubai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/DAMAC_Towers_by_Paramount_Hotels_%26_Resorts",
+        "photo": null
+      },
+      {
+        "id": "dubai-shops-3",
+        "name": "Primark",
+        "cityId": "dubai",
+        "categoryId": "shops",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Primark%2C%20Dubai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Primark",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Penney%27s%2C_Mary_Street%2C_Dublin.jpg/960px-Penney%27s%2C_Mary_Street%2C_Dublin.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Primark"
+        }
+      },
+      {
+        "id": "dubai-shops-4",
+        "name": "Marina 101",
+        "cityId": "dubai",
+        "categoryId": "shops",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Marina%20101%2C%20Dubai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Marina_101",
+        "photo": null
+      },
+      {
+        "id": "dubai-shops-5",
+        "name": "Duty-free shop",
+        "cityId": "dubai",
+        "categoryId": "shops",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Duty-free%20shop%2C%20Dubai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Duty-free_shop",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Zurich_Duty_Free_shop.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Duty-free_shop"
+        }
+      },
+      {
+        "id": "dubai-shops-6",
+        "name": "Dubai Duty Free",
+        "cityId": "dubai",
+        "categoryId": "shops",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Dubai%20Duty%20Free%2C%20Dubai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Dubai_Duty_Free",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Dubai_duty_free_advertise.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Dubai_Duty_Free"
+        }
+      },
+      {
+        "id": "dubai-shops-7",
+        "name": "Jumeirah",
+        "cityId": "dubai",
+        "categoryId": "shops",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Jumeirah%2C%20Dubai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Jumeirah",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Sunset_of_Jumeirah_Fish_Village.jpg/960px-Sunset_of_Jumeirah_Fish_Village.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Jumeirah"
+        }
+      },
+      {
+        "id": "dubai-shops-8",
+        "name": "Kuwait Scientific Center",
+        "cityId": "dubai",
+        "categoryId": "shops",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Kuwait%20Scientific%20Center%2C%20Dubai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Kuwait_Scientific_Center",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/%D8%A7%D9%84%D9%85%D8%B1%D9%83%D8%B2_%D8%A7%D9%84%D8%B9%D9%84%D9%85%D9%8A_%D8%B4%D8%B42.jpg/960px-%D8%A7%D9%84%D9%85%D8%B1%D9%83%D8%B2_%D8%A7%D9%84%D8%B9%D9%84%D9%85%D9%8A_%D8%B4%D8%B42.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Kuwait_Scientific_Center"
+        }
+      },
+      {
+        "id": "dubai-shops-9",
+        "name": "Micky Jagtiani",
+        "cityId": "dubai",
+        "categoryId": "shops",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Micky%20Jagtiani%2C%20Dubai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Micky_Jagtiani",
+        "photo": null
+      },
+      {
+        "id": "dubai-shops-10",
+        "name": "Virgin Megastores",
+        "cityId": "dubai",
+        "categoryId": "shops",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Virgin%20Megastores%2C%20Dubai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Virgin_Megastores",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Virgin_Megastore_logo_%28x7500%29.png/960px-Virgin_Megastore_logo_%28x7500%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Virgin_Megastores"
+        }
+      },
+      {
+        "id": "dubai-shops-11",
+        "name": "247 Cherry",
+        "cityId": "dubai",
+        "categoryId": "shops",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=247%20Cherry%2C%20Dubai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/247_Cherry",
+        "photo": null
+      },
+      {
+        "id": "dubai-shops-12",
+        "name": "Duck Donuts",
+        "cityId": "dubai",
+        "categoryId": "shops",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Duck%20Donuts%2C%20Dubai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Duck_Donuts",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/A_Duck_Donuts_store_in_Chattanooga%2C_Tennessee.jpg/960px-A_Duck_Donuts_store_in_Chattanooga%2C_Tennessee.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Duck_Donuts"
+        }
+      },
+      {
+        "id": "dubai-shops-13",
+        "name": "Potbelly Sandwich Shop",
+        "cityId": "dubai",
+        "categoryId": "shops",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Potbelly%20Sandwich%20Shop%2C%20Dubai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Potbelly_Sandwich_Shop",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/43/11-16-06-EPMN-potbelly.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Potbelly_Sandwich_Shop"
+        }
+      },
+      {
+        "id": "dubai-shops-14",
+        "name": "Dubai Museum",
+        "cityId": "dubai",
+        "categoryId": "shops",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Dubai%20Museum%2C%20Dubai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Dubai_Museum",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/UAE_Dubai_Al_Fahidi_Fort_img1_asv2018-01.jpg/960px-UAE_Dubai_Al_Fahidi_Fort_img1_asv2018-01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Dubai_Museum"
+        }
+      },
+      {
+        "id": "dubai-shops-15",
+        "name": "Flying Tiger Copenhagen",
+        "cityId": "dubai",
+        "categoryId": "shops",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Flying%20Tiger%20Copenhagen%2C%20Dubai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Flying_Tiger_Copenhagen",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Flying_Tiger_Copenhagen.jpg/960px-Flying_Tiger_Copenhagen.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Flying_Tiger_Copenhagen"
+        }
+      },
+      {
+        "id": "dubai-shops-16",
+        "name": "ChicKing",
+        "cityId": "dubai",
+        "categoryId": "shops",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=ChicKing%2C%20Dubai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/ChicKing",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/ChicKing%2C_Oude_Noorden%2C_Rotterdam_%282023%29_01.jpg/960px-ChicKing%2C_Oude_Noorden%2C_Rotterdam_%282023%29_01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/ChicKing"
+        }
+      },
+      {
+        "id": "dubai-shops-17",
+        "name": "Dubai Gold Souk",
+        "cityId": "dubai",
+        "categoryId": "shops",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Dubai%20Gold%20Souk%2C%20Dubai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Dubai_Gold_Souk",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Dubai_Gold_Souk_on_31_May_2007_Pict_1.jpg/960px-Dubai_Gold_Souk_on_31_May_2007_Pict_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Dubai_Gold_Souk"
+        }
+      },
+      {
+        "id": "dubai-shops-18",
+        "name": "Du",
+        "cityId": "dubai",
+        "categoryId": "shops",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Du%2C%20Dubai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Du_(company)",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Du_Solid_Brandmark_RGB.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Du_(company)"
+        }
+      }
+    ]
+  }
+}

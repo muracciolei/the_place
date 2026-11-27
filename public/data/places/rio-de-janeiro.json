@@ -1,0 +1,2348 @@
+{
+  "cityId": "rio-de-janeiro",
+  "generatedAt": "2026-11-27T09:37:32.724Z",
+  "source": "Wikipedia API + Maps URLs (sin scraping de Google)",
+  "incomplete": [],
+  "categories": {
+    "night_clubs": [
+      {
+        "id": "rio-de-janeiro-night_clubs-1",
+        "name": "Copacabana",
+        "cityId": "rio-de-janeiro",
+        "categoryId": "night_clubs",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Copacabana%2C%20Rio%20de%20Janeiro",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Copacabana",
+        "photo": null
+      },
+      {
+        "id": "rio-de-janeiro-night_clubs-2",
+        "name": "Checkmate in Rio",
+        "cityId": "rio-de-janeiro",
+        "categoryId": "night_clubs",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Checkmate%20in%20Rio%2C%20Rio%20de%20Janeiro",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Checkmate_in_Rio",
+        "photo": null
+      },
+      {
+        "id": "rio-de-janeiro-night_clubs-3",
+        "name": "Museu da Imagem e do Som do Rio de Janeiro",
+        "cityId": "rio-de-janeiro",
+        "categoryId": "night_clubs",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Museu%20da%20Imagem%20e%20do%20Som%20do%20Rio%20de%20Janeiro%2C%20Rio%20de%20Janeiro",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Museu_da_Imagem_e_do_Som_do_Rio_de_Janeiro",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Logomarca_Museu_da_Imagem_e_do_Som.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Museu_da_Imagem_e_do_Som_do_Rio_de_Janeiro"
+        }
+      },
+      {
+        "id": "rio-de-janeiro-night_clubs-4",
+        "name": "Muti Randolph",
+        "cityId": "rio-de-janeiro",
+        "categoryId": "night_clubs",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Muti%20Randolph%2C%20Rio%20de%20Janeiro",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Muti_Randolph",
+        "photo": null
+      },
+      {
+        "id": "rio-de-janeiro-night_clubs-5",
+        "name": "As Frenéticas",
+        "cityId": "rio-de-janeiro",
+        "categoryId": "night_clubs",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=As%20Fren%C3%A9ticas%2C%20Rio%20de%20Janeiro",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/As_Fren%C3%A9ticas",
+        "photo": null
+      },
+      {
+        "id": "rio-de-janeiro-night_clubs-6",
+        "name": "The Week International",
+        "cityId": "rio-de-janeiro",
+        "categoryId": "night_clubs",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Week%20International%2C%20Rio%20de%20Janeiro",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/The_Week_International",
+        "photo": null
+      },
+      {
+        "id": "rio-de-janeiro-night_clubs-7",
+        "name": "Johnny Alf",
+        "cityId": "rio-de-janeiro",
+        "categoryId": "night_clubs",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Johnny%20Alf%2C%20Rio%20de%20Janeiro",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Johnny_Alf",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/Johnny_Alf%2C_sem_data.tif/lossy-page1-960px-Johnny_Alf%2C_sem_data.tif.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Johnny_Alf"
+        }
+      },
+      {
+        "id": "rio-de-janeiro-night_clubs-8",
+        "name": "Leny Andrade",
+        "cityId": "rio-de-janeiro",
+        "categoryId": "night_clubs",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Leny%20Andrade%2C%20Rio%20de%20Janeiro",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Leny_Andrade",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/Leny_Andrade%2C_1961.tif/lossy-page1-960px-Leny_Andrade%2C_1961.tif.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Leny_Andrade"
+        }
+      },
+      {
+        "id": "rio-de-janeiro-night_clubs-9",
+        "name": "Road to Rio",
+        "cityId": "rio-de-janeiro",
+        "categoryId": "night_clubs",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Road%20to%20Rio%2C%20Rio%20de%20Janeiro",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Road_to_Rio",
+        "photo": null
+      },
+      {
+        "id": "rio-de-janeiro-night_clubs-10",
+        "name": "Dick Farney",
+        "cityId": "rio-de-janeiro",
+        "categoryId": "night_clubs",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Dick%20Farney%2C%20Rio%20de%20Janeiro",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Dick_Farney",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Dick_farney.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Dick_Farney"
+        }
+      },
+      {
+        "id": "rio-de-janeiro-night_clubs-11",
+        "name": "Dóris Monteiro",
+        "cityId": "rio-de-janeiro",
+        "categoryId": "night_clubs",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=D%C3%B3ris%20Monteiro%2C%20Rio%20de%20Janeiro",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/D%C3%B3ris_Monteiro",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/D%C3%B3ris_Monteiro_%281960%29.tif/lossy-page1-960px-D%C3%B3ris_Monteiro_%281960%29.tif.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/D%C3%B3ris_Monteiro"
+        }
+      },
+      {
+        "id": "rio-de-janeiro-night_clubs-12",
+        "name": "Monobloco",
+        "cityId": "rio-de-janeiro",
+        "categoryId": "night_clubs",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Monobloco%2C%20Rio%20de%20Janeiro",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Monobloco",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/63/Monobloco-rj-2007.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Monobloco"
+        }
+      },
+      {
+        "id": "rio-de-janeiro-night_clubs-13",
+        "name": "Josimar",
+        "cityId": "rio-de-janeiro",
+        "categoryId": "night_clubs",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Josimar%2C%20Rio%20de%20Janeiro",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Josimar_(footballer%2C_born_1961)",
+        "photo": null
+      },
+      {
+        "id": "rio-de-janeiro-night_clubs-14",
+        "name": "Live!!",
+        "cityId": "rio-de-janeiro",
+        "categoryId": "night_clubs",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Live!!%2C%20Rio%20de%20Janeiro",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Live!!_(Yngwie_Malmsteen_album)",
+        "photo": null
+      },
+      {
+        "id": "rio-de-janeiro-night_clubs-15",
+        "name": "Vilma Nascimento",
+        "cityId": "rio-de-janeiro",
+        "categoryId": "night_clubs",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Vilma%20Nascimento%2C%20Rio%20de%20Janeiro",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Vilma_Nascimento",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Vilma_Nascimento.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Vilma_Nascimento"
+        }
+      },
+      {
+        "id": "rio-de-janeiro-night_clubs-16",
+        "name": "The Bordello in Rio",
+        "cityId": "rio-de-janeiro",
+        "categoryId": "night_clubs",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Bordello%20in%20Rio%2C%20Rio%20de%20Janeiro",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/The_Bordello_in_Rio",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/en/9/96/The_Bordello_in_Rio.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/The_Bordello_in_Rio"
+        }
+      },
+      {
+        "id": "rio-de-janeiro-night_clubs-17",
+        "name": "Mônica Carvalho",
+        "cityId": "rio-de-janeiro",
+        "categoryId": "night_clubs",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=M%C3%B4nica%20Carvalho%2C%20Rio%20de%20Janeiro",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/M%C3%B4nica_Carvalho",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/M%C3%B4nica_Carvalho_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/M%C3%B4nica_Carvalho"
+        }
+      },
+      {
+        "id": "rio-de-janeiro-night_clubs-18",
+        "name": "Sandra Pêra",
+        "cityId": "rio-de-janeiro",
+        "categoryId": "night_clubs",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Sandra%20P%C3%AAra%2C%20Rio%20de%20Janeiro",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Sandra_P%C3%AAra",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Sandra_P%C3%AAra.jpg/960px-Sandra_P%C3%AAra.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Sandra_P%C3%AAra"
+        }
+      }
+    ],
+    "restaurants": [
+      {
+        "id": "rio-de-janeiro-restaurants-1",
+        "name": "HNT Chicken",
+        "cityId": "rio-de-janeiro",
+        "categoryId": "restaurants",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=HNT%20Chicken%2C%20Rio%20de%20Janeiro",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/HNT_Chicken",
+        "photo": null
+      },
+      {
+        "id": "rio-de-janeiro-restaurants-2",
+        "name": "Rua Farme de Amoedo",
+        "cityId": "rio-de-janeiro",
+        "categoryId": "restaurants",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Rua%20Farme%20de%20Amoedo%2C%20Rio%20de%20Janeiro",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Rua_Farme_de_Amoedo",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Rua_Farme_de_Amoedo_-_Rio%2C_Brazil.JPG/960px-Rua_Farme_de_Amoedo_-_Rio%2C_Brazil.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Rua_Farme_de_Amoedo"
+        }
+      },
+      {
+        "id": "rio-de-janeiro-restaurants-3",
+        "name": "Lapa, Rio de Janeiro",
+        "cityId": "rio-de-janeiro",
+        "categoryId": "restaurants",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Lapa%2C%20Rio%20de%20Janeiro%2C%20Rio%20de%20Janeiro",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Lapa%2C_Rio_de_Janeiro",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Centro_do_Rio_de_Janeiro_by_Diego_Baravelli.jpg/960px-Centro_do_Rio_de_Janeiro_by_Diego_Baravelli.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Lapa%2C_Rio_de_Janeiro"
+        }
+      },
+      {
+        "id": "rio-de-janeiro-restaurants-4",
+        "name": "Dona Zica",
+        "cityId": "rio-de-janeiro",
+        "categoryId": "restaurants",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Dona%20Zica%2C%20Rio%20de%20Janeiro",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Dona_Zica",
+        "photo": null
+      },
+      {
+        "id": "rio-de-janeiro-restaurants-5",
+        "name": "Alex Behring",
+        "cityId": "rio-de-janeiro",
+        "categoryId": "restaurants",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Alex%20Behring%2C%20Rio%20de%20Janeiro",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Alex_Behring",
+        "photo": null
+      },
+      {
+        "id": "rio-de-janeiro-restaurants-6",
+        "name": "Spoleto",
+        "cityId": "rio-de-janeiro",
+        "categoryId": "restaurants",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Spoleto%2C%20Rio%20de%20Janeiro",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Spoleto_(restaurant)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/Spoleto_in_Nova_friburgo.jpg/960px-Spoleto_in_Nova_friburgo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Spoleto_(restaurant)"
+        }
+      },
+      {
+        "id": "rio-de-janeiro-restaurants-7",
+        "name": "3G Capital",
+        "cityId": "rio-de-janeiro",
+        "categoryId": "restaurants",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=3G%20Capital%2C%20Rio%20de%20Janeiro",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/3G_Capital",
+        "photo": null
+      },
+      {
+        "id": "rio-de-janeiro-restaurants-8",
+        "name": "Koni Store",
+        "cityId": "rio-de-janeiro",
+        "categoryId": "restaurants",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Koni%20Store%2C%20Rio%20de%20Janeiro",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Koni_Store",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/Koni_Store_-_Botafogo_Praia_Shopping.jpg/960px-Koni_Store_-_Botafogo_Praia_Shopping.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Koni_Store"
+        }
+      },
+      {
+        "id": "rio-de-janeiro-restaurants-9",
+        "name": "Botafogo",
+        "cityId": "rio-de-janeiro",
+        "categoryId": "restaurants",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Botafogo%2C%20Rio%20de%20Janeiro",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Botafogo",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Enseada_de_Botafogo_e_P%C3%A3o_de_A%C3%A7%C3%BAcar.jpg/960px-Enseada_de_Botafogo_e_P%C3%A3o_de_A%C3%A7%C3%BAcar.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Botafogo"
+        }
+      },
+      {
+        "id": "rio-de-janeiro-restaurants-10",
+        "name": "Bob's",
+        "cityId": "rio-de-janeiro",
+        "categoryId": "restaurants",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Bob's%2C%20Rio%20de%20Janeiro",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Bob's",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/Logotipo_do_Bob%27s.svg/960px-Logotipo_do_Bob%27s.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Bob's"
+        }
+      },
+      {
+        "id": "rio-de-janeiro-restaurants-11",
+        "name": "Mister Pizza",
+        "cityId": "rio-de-janeiro",
+        "categoryId": "restaurants",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Mister%20Pizza%2C%20Rio%20de%20Janeiro",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Mister_Pizza",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Mister_Pizza_-_Botafogo.JPG/960px-Mister_Pizza_-_Botafogo.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Mister_Pizza"
+        }
+      },
+      {
+        "id": "rio-de-janeiro-restaurants-12",
+        "name": "Theatro Municipal",
+        "cityId": "rio-de-janeiro",
+        "categoryId": "restaurants",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Theatro%20Municipal%2C%20Rio%20de%20Janeiro",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Theatro_Municipal_(Rio_de_Janeiro)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/Brazil-00988_-_Rio_de_Janeiro_Municipal_Theatre_%2848984301008%29.jpg/960px-Brazil-00988_-_Rio_de_Janeiro_Municipal_Theatre_%2848984301008%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Theatro_Municipal_(Rio_de_Janeiro)"
+        }
+      },
+      {
+        "id": "rio-de-janeiro-restaurants-13",
+        "name": "March of the One Hundred Thousand",
+        "cityId": "rio-de-janeiro",
+        "categoryId": "restaurants",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=March%20of%20the%20One%20Hundred%20Thousand%2C%20Rio%20de%20Janeiro",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/March_of_the_One_Hundred_Thousand",
+        "photo": null
+      },
+      {
+        "id": "rio-de-janeiro-restaurants-14",
+        "name": "Museum of Modern Art, Rio de Janeiro",
+        "cityId": "rio-de-janeiro",
+        "categoryId": "restaurants",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Museum%20of%20Modern%20Art%2C%20Rio%20de%20Janeiro%2C%20Rio%20de%20Janeiro",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Museum_of_Modern_Art%2C_Rio_de_Janeiro",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/MAM_-_Museu_de_Arte_Moderna_do_Rio_de_Janeiro_02.jpg/960px-MAM_-_Museu_de_Arte_Moderna_do_Rio_de_Janeiro_02.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Museum_of_Modern_Art%2C_Rio_de_Janeiro"
+        }
+      },
+      {
+        "id": "rio-de-janeiro-restaurants-15",
+        "name": "Palácio Quitandinha",
+        "cityId": "rio-de-janeiro",
+        "categoryId": "restaurants",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Pal%C3%A1cio%20Quitandinha%2C%20Rio%20de%20Janeiro",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Pal%C3%A1cio_Quitandinha",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Pal%C3%A1cio_Quitandinha%2C_Petropolis.jpg/960px-Pal%C3%A1cio_Quitandinha%2C_Petropolis.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Pal%C3%A1cio_Quitandinha"
+        }
+      },
+      {
+        "id": "rio-de-janeiro-restaurants-16",
+        "name": "Edson Luís de Lima Souto",
+        "cityId": "rio-de-janeiro",
+        "categoryId": "restaurants",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Edson%20Lu%C3%ADs%20de%20Lima%20Souto%2C%20Rio%20de%20Janeiro",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Edson_Lu%C3%ADs_de_Lima_Souto",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Registro_estudantil_de_Edson_Lu%C3%ADs_de_Lima_Souto.tif/lossy-page1-960px-Registro_estudantil_de_Edson_Lu%C3%ADs_de_Lima_Souto.tif.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Edson_Lu%C3%ADs_de_Lima_Souto"
+        }
+      },
+      {
+        "id": "rio-de-janeiro-restaurants-17",
+        "name": "2011 Rio de Janeiro restaurant explosion",
+        "cityId": "rio-de-janeiro",
+        "categoryId": "restaurants",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=2011%20Rio%20de%20Janeiro%20restaurant%20explosion%2C%20Rio%20de%20Janeiro",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/2011_Rio_de_Janeiro_restaurant_explosion",
+        "photo": null
+      },
+      {
+        "id": "rio-de-janeiro-restaurants-18",
+        "name": "Antônio Maria",
+        "cityId": "rio-de-janeiro",
+        "categoryId": "restaurants",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Ant%C3%B4nio%20Maria%2C%20Rio%20de%20Janeiro",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Ant%C3%B4nio_Maria",
+        "photo": null
+      }
+    ],
+    "bars": [
+      {
+        "id": "rio-de-janeiro-bars-1",
+        "name": "Dona Zica",
+        "cityId": "rio-de-janeiro",
+        "categoryId": "bars",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Dona%20Zica%2C%20Rio%20de%20Janeiro",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Dona_Zica",
+        "photo": null
+      },
+      {
+        "id": "rio-de-janeiro-bars-2",
+        "name": "Caio Souza",
+        "cityId": "rio-de-janeiro",
+        "categoryId": "bars",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Caio%20Souza%2C%20Rio%20de%20Janeiro",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Caio_Souza",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/2018_South_American_Games_Caio_Souza.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Caio_Souza"
+        }
+      },
+      {
+        "id": "rio-de-janeiro-bars-3",
+        "name": ".rio",
+        "cityId": "rio-de-janeiro",
+        "categoryId": "bars",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=.rio%2C%20Rio%20de%20Janeiro",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/.rio",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Ponto_rio.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/.rio"
+        }
+      },
+      {
+        "id": "rio-de-janeiro-bars-4",
+        "name": "Pan American Artistic Gymnastics Championships – Men's horizontal bar",
+        "cityId": "rio-de-janeiro",
+        "categoryId": "bars",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Pan%20American%20Artistic%20Gymnastics%20Championships%20%E2%80%93%20Men's%20horizontal%20bar%2C%20Rio%20de%20Janeiro",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Pan_American_Artistic_Gymnastics_Championships_%E2%80%93_Men's_horizontal_bar",
+        "photo": null
+      },
+      {
+        "id": "rio-de-janeiro-bars-5",
+        "name": "Botafogo",
+        "cityId": "rio-de-janeiro",
+        "categoryId": "bars",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Botafogo%2C%20Rio%20de%20Janeiro",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Botafogo",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Enseada_de_Botafogo_e_P%C3%A3o_de_A%C3%A7%C3%BAcar.jpg/960px-Enseada_de_Botafogo_e_P%C3%A3o_de_A%C3%A7%C3%BAcar.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Botafogo"
+        }
+      },
+      {
+        "id": "rio-de-janeiro-bars-6",
+        "name": "FGV Direito Rio",
+        "cityId": "rio-de-janeiro",
+        "categoryId": "bars",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=FGV%20Direito%20Rio%2C%20Rio%20de%20Janeiro",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/FGV_Direito_Rio",
+        "photo": null
+      },
+      {
+        "id": "rio-de-janeiro-bars-7",
+        "name": "Catholic University of Petrópolis",
+        "cityId": "rio-de-janeiro",
+        "categoryId": "bars",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Catholic%20University%20of%20Petr%C3%B3polis%2C%20Rio%20de%20Janeiro",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Catholic_University_of_Petr%C3%B3polis",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Universidade_Cat%C3%B3lica_de_Petropolis%2C_RJ%2C_Brazil_01.jpg/960px-Universidade_Cat%C3%B3lica_de_Petropolis%2C_RJ%2C_Brazil_01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Catholic_University_of_Petr%C3%B3polis"
+        }
+      },
+      {
+        "id": "rio-de-janeiro-bars-8",
+        "name": "Vila Isabel",
+        "cityId": "rio-de-janeiro",
+        "categoryId": "bars",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Vila%20Isabel%2C%20Rio%20de%20Janeiro",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Vila_Isabel",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/76/P%C3%A7a_Bar%C3%A3o_de_Drummond.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Vila_Isabel"
+        }
+      },
+      {
+        "id": "rio-de-janeiro-bars-9",
+        "name": "Museum of Modern Art, Rio de Janeiro",
+        "cityId": "rio-de-janeiro",
+        "categoryId": "bars",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Museum%20of%20Modern%20Art%2C%20Rio%20de%20Janeiro%2C%20Rio%20de%20Janeiro",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Museum_of_Modern_Art%2C_Rio_de_Janeiro",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/MAM_-_Museu_de_Arte_Moderna_do_Rio_de_Janeiro_02.jpg/960px-MAM_-_Museu_de_Arte_Moderna_do_Rio_de_Janeiro_02.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Museum_of_Modern_Art%2C_Rio_de_Janeiro"
+        }
+      },
+      {
+        "id": "rio-de-janeiro-bars-10",
+        "name": "Lapa, Rio de Janeiro",
+        "cityId": "rio-de-janeiro",
+        "categoryId": "bars",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Lapa%2C%20Rio%20de%20Janeiro%2C%20Rio%20de%20Janeiro",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Lapa%2C_Rio_de_Janeiro",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Centro_do_Rio_de_Janeiro_by_Diego_Baravelli.jpg/960px-Centro_do_Rio_de_Janeiro_by_Diego_Baravelli.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Lapa%2C_Rio_de_Janeiro"
+        }
+      },
+      {
+        "id": "rio-de-janeiro-bars-11",
+        "name": "Rodrigo de Freitas Lagoon",
+        "cityId": "rio-de-janeiro",
+        "categoryId": "bars",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Rodrigo%20de%20Freitas%20Lagoon%2C%20Rio%20de%20Janeiro",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Rodrigo_de_Freitas_Lagoon",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/A_bela_vista_do_Cristo.jpg/960px-A_bela_vista_do_Cristo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Rodrigo_de_Freitas_Lagoon"
+        }
+      },
+      {
+        "id": "rio-de-janeiro-bars-12",
+        "name": "Banda de Ipanema",
+        "cityId": "rio-de-janeiro",
+        "categoryId": "bars",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Banda%20de%20Ipanema%2C%20Rio%20de%20Janeiro",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Banda_de_Ipanema",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/Banda_de_Ipanema.jpg/960px-Banda_de_Ipanema.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Banda_de_Ipanema"
+        }
+      },
+      {
+        "id": "rio-de-janeiro-bars-13",
+        "name": "Sambadrome Marquês de Sapucaí",
+        "cityId": "rio-de-janeiro",
+        "categoryId": "bars",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Sambadrome%20Marqu%C3%AAs%20de%20Sapuca%C3%AD%2C%20Rio%20de%20Janeiro",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Sambadrome_Marqu%C3%AAs_de_Sapuca%C3%AD",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Desfile_Portela_2014_%28906185%29.jpg/960px-Desfile_Portela_2014_%28906185%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Sambadrome_Marqu%C3%AAs_de_Sapuca%C3%AD"
+        }
+      },
+      {
+        "id": "rio-de-janeiro-bars-14",
+        "name": "Turnê Show das Poderosas",
+        "cityId": "rio-de-janeiro",
+        "categoryId": "bars",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Turn%C3%AA%20Show%20das%20Poderosas%2C%20Rio%20de%20Janeiro",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Turn%C3%AA_Show_das_Poderosas",
+        "photo": null
+      },
+      {
+        "id": "rio-de-janeiro-bars-15",
+        "name": "Claire Jacquet",
+        "cityId": "rio-de-janeiro",
+        "categoryId": "bars",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Claire%20Jacquet%2C%20Rio%20de%20Janeiro",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Claire_Jacquet",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Selectivos_Nacionales_de_2017%2C_Pau_-_53_%282%29.jpg/960px-Selectivos_Nacionales_de_2017%2C_Pau_-_53_%282%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Claire_Jacquet"
+        }
+      },
+      {
+        "id": "rio-de-janeiro-bars-16",
+        "name": "Morro da Babilônia",
+        "cityId": "rio-de-janeiro",
+        "categoryId": "bars",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Morro%20da%20Babil%C3%B4nia%2C%20Rio%20de%20Janeiro",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Morro_da_Babil%C3%B4nia",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/Bondinho_descendo_o_Morro_da_Urca.jpg/960px-Bondinho_descendo_o_Morro_da_Urca.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Morro_da_Babil%C3%B4nia"
+        }
+      },
+      {
+        "id": "rio-de-janeiro-bars-17",
+        "name": "American School of Rio de Janeiro",
+        "cityId": "rio-de-janeiro",
+        "categoryId": "bars",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=American%20School%20of%20Rio%20de%20Janeiro%2C%20Rio%20de%20Janeiro",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/American_School_of_Rio_de_Janeiro",
+        "photo": null
+      },
+      {
+        "id": "rio-de-janeiro-bars-18",
+        "name": "Flag of Rio de Janeiro",
+        "cityId": "rio-de-janeiro",
+        "categoryId": "bars",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Flag%20of%20Rio%20de%20Janeiro%2C%20Rio%20de%20Janeiro",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Flag_of_Rio_de_Janeiro",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Bandeira_da_cidade_do_Rio_de_Janeiro.svg/960px-Bandeira_da_cidade_do_Rio_de_Janeiro.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Flag_of_Rio_de_Janeiro"
+        }
+      }
+    ],
+    "coffee_shops": [
+      {
+        "id": "rio-de-janeiro-coffee_shops-1",
+        "name": "1955 in Brazil",
+        "cityId": "rio-de-janeiro",
+        "categoryId": "coffee_shops",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=1955%20in%20Brazil%2C%20Rio%20de%20Janeiro",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/1955_in_Brazil",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_Brazil_%281889%E2%80%931960%29.svg/960px-Flag_of_Brazil_%281889%E2%80%931960%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/1955_in_Brazil"
+        }
+      },
+      {
+        "id": "rio-de-janeiro-coffee_shops-2",
+        "name": "Parque Lage",
+        "cityId": "rio-de-janeiro",
+        "categoryId": "coffee_shops",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Parque%20Lage%2C%20Rio%20de%20Janeiro",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Parque_Lage",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/Parque_Lage_por_Mariana_Cristina_Ad%C3%A3o_12.jpg/960px-Parque_Lage_por_Mariana_Cristina_Ad%C3%A3o_12.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Parque_Lage"
+        }
+      },
+      {
+        "id": "rio-de-janeiro-coffee_shops-3",
+        "name": "Café",
+        "cityId": "rio-de-janeiro",
+        "categoryId": "coffee_shops",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Caf%C3%A9%2C%20Rio%20de%20Janeiro",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Caf%C3%A9_(footballer)",
+        "photo": null
+      },
+      {
+        "id": "rio-de-janeiro-coffee_shops-4",
+        "name": "Rio de Janeiro",
+        "cityId": "rio-de-janeiro",
+        "categoryId": "coffee_shops",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Rio%20de%20Janeiro%2C%20Rio%20de%20Janeiro",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Rio_de_Janeiro",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Cidade_Maravilhosa.jpg/960px-Cidade_Maravilhosa.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Rio_de_Janeiro"
+        }
+      },
+      {
+        "id": "rio-de-janeiro-coffee_shops-5",
+        "name": "Campo Grande, Rio de Janeiro",
+        "cityId": "rio-de-janeiro",
+        "categoryId": "coffee_shops",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Campo%20Grande%2C%20Rio%20de%20Janeiro%2C%20Rio%20de%20Janeiro",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Campo_Grande%2C_Rio_de_Janeiro",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/36/Campo_Grande%27s_commercial_center.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Campo_Grande%2C_Rio_de_Janeiro"
+        }
+      },
+      {
+        "id": "rio-de-janeiro-coffee_shops-6",
+        "name": "Rio das Flores",
+        "cityId": "rio-de-janeiro",
+        "categoryId": "coffee_shops",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Rio%20das%20Flores%2C%20Rio%20de%20Janeiro",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Rio_das_Flores",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Bandeira-riodasflores.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Rio_das_Flores"
+        }
+      },
+      {
+        "id": "rio-de-janeiro-coffee_shops-7",
+        "name": "Lapa, Rio de Janeiro",
+        "cityId": "rio-de-janeiro",
+        "categoryId": "coffee_shops",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Lapa%2C%20Rio%20de%20Janeiro%2C%20Rio%20de%20Janeiro",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Lapa%2C_Rio_de_Janeiro",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Centro_do_Rio_de_Janeiro_by_Diego_Baravelli.jpg/960px-Centro_do_Rio_de_Janeiro_by_Diego_Baravelli.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Lapa%2C_Rio_de_Janeiro"
+        }
+      },
+      {
+        "id": "rio-de-janeiro-coffee_shops-8",
+        "name": "Eugênio Gudin",
+        "cityId": "rio-de-janeiro",
+        "categoryId": "coffee_shops",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Eug%C3%AAnio%20Gudin%2C%20Rio%20de%20Janeiro",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Eug%C3%AAnio_Gudin",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Eug%C3%AAnio_Gudin_Filho%2C_Ministro_da_Fazenda.tif/lossy-page1-960px-Eug%C3%AAnio_Gudin_Filho%2C_Ministro_da_Fazenda.tif.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Eug%C3%AAnio_Gudin"
+        }
+      },
+      {
+        "id": "rio-de-janeiro-coffee_shops-9",
+        "name": "Alexandre Dantas",
+        "cityId": "rio-de-janeiro",
+        "categoryId": "coffee_shops",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Alexandre%20Dantas%2C%20Rio%20de%20Janeiro",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Alexandre_Dantas",
+        "photo": null
+      },
+      {
+        "id": "rio-de-janeiro-coffee_shops-10",
+        "name": "Baixada Fluminense",
+        "cityId": "rio-de-janeiro",
+        "categoryId": "coffee_shops",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Baixada%20Fluminense%2C%20Rio%20de%20Janeiro",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Baixada_Fluminense",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Baixada_fluminense_e_regiao_metropolitana_do_rio.png/960px-Baixada_fluminense_e_regiao_metropolitana_do_rio.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Baixada_Fluminense"
+        }
+      },
+      {
+        "id": "rio-de-janeiro-coffee_shops-11",
+        "name": "1954 FIBA World Championship",
+        "cityId": "rio-de-janeiro",
+        "categoryId": "coffee_shops",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=1954%20FIBA%20World%20Championship%2C%20Rio%20de%20Janeiro",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/1954_FIBA_World_Championship",
+        "photo": null
+      },
+      {
+        "id": "rio-de-janeiro-coffee_shops-12",
+        "name": "Cristina Braga",
+        "cityId": "rio-de-janeiro",
+        "categoryId": "coffee_shops",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Cristina%20Braga%2C%20Rio%20de%20Janeiro",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Cristina_Braga",
+        "photo": null
+      },
+      {
+        "id": "rio-de-janeiro-coffee_shops-13",
+        "name": "Rubem Braga",
+        "cityId": "rio-de-janeiro",
+        "categoryId": "coffee_shops",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Rubem%20Braga%2C%20Rio%20de%20Janeiro",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Rubem_Braga",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Rubem_Braga_%281966%29.tiff/lossy-page1-960px-Rubem_Braga_%281966%29.tiff.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Rubem_Braga"
+        }
+      },
+      {
+        "id": "rio-de-janeiro-coffee_shops-14",
+        "name": "Vila Isabel",
+        "cityId": "rio-de-janeiro",
+        "categoryId": "coffee_shops",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Vila%20Isabel%2C%20Rio%20de%20Janeiro",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Vila_Isabel",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/76/P%C3%A7a_Bar%C3%A3o_de_Drummond.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Vila_Isabel"
+        }
+      },
+      {
+        "id": "rio-de-janeiro-coffee_shops-15",
+        "name": "Nilo Peçanha",
+        "cityId": "rio-de-janeiro",
+        "categoryId": "coffee_shops",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Nilo%20Pe%C3%A7anha%2C%20Rio%20de%20Janeiro",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Nilo_Pe%C3%A7anha",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Nilo_Pe%C3%A7anha_02.jpg/960px-Nilo_Pe%C3%A7anha_02.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Nilo_Pe%C3%A7anha"
+        }
+      },
+      {
+        "id": "rio-de-janeiro-coffee_shops-16",
+        "name": "Sugarloaf Cable Car",
+        "cityId": "rio-de-janeiro",
+        "categoryId": "coffee_shops",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Sugarloaf%20Cable%20Car%2C%20Rio%20de%20Janeiro",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Sugarloaf_Cable_Car",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Cable_Car_Coming_Up_to_the_Sugarloaf_Mountain.jpg/960px-Cable_Car_Coming_Up_to_the_Sugarloaf_Mountain.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Sugarloaf_Cable_Car"
+        }
+      },
+      {
+        "id": "rio-de-janeiro-coffee_shops-17",
+        "name": "Campeonato Paranaense Second Division",
+        "cityId": "rio-de-janeiro",
+        "categoryId": "coffee_shops",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Campeonato%20Paranaense%20Second%20Division%2C%20Rio%20de%20Janeiro",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Campeonato_Paranaense_Second_Division",
+        "photo": null
+      },
+      {
+        "id": "rio-de-janeiro-coffee_shops-18",
+        "name": "Augusto Rademaker",
+        "cityId": "rio-de-janeiro",
+        "categoryId": "coffee_shops",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Augusto%20Rademaker%2C%20Rio%20de%20Janeiro",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Augusto_Rademaker",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Augusto_Hamann_Rademaker_Gr%C3%BCnewald%2C_Vice-presidente_da_Rep%C3%BAblica.tiff/lossy-page1-960px-Augusto_Hamann_Rademaker_Gr%C3%BCnewald%2C_Vice-presidente_da_Rep%C3%BAblica.tiff.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Augusto_Rademaker"
+        }
+      }
+    ],
+    "bookshops": [
+      {
+        "id": "rio-de-janeiro-bookshops-1",
+        "name": "Editora Globo",
+        "cityId": "rio-de-janeiro",
+        "categoryId": "bookshops",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Editora%20Globo%2C%20Rio%20de%20Janeiro",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Editora_Globo",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/Jaguar%C3%A9_-_M%C3%ADdia_Center_%28Ed._Globo%29.JPG/960px-Jaguar%C3%A9_-_M%C3%ADdia_Center_%28Ed._Globo%29.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Editora_Globo"
+        }
+      },
+      {
+        "id": "rio-de-janeiro-bookshops-2",
+        "name": "Museum of Modern Art, Rio de Janeiro",
+        "cityId": "rio-de-janeiro",
+        "categoryId": "bookshops",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Museum%20of%20Modern%20Art%2C%20Rio%20de%20Janeiro%2C%20Rio%20de%20Janeiro",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Museum_of_Modern_Art%2C_Rio_de_Janeiro",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/MAM_-_Museu_de_Arte_Moderna_do_Rio_de_Janeiro_02.jpg/960px-MAM_-_Museu_de_Arte_Moderna_do_Rio_de_Janeiro_02.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Museum_of_Modern_Art%2C_Rio_de_Janeiro"
+        }
+      },
+      {
+        "id": "rio-de-janeiro-bookshops-3",
+        "name": "Augusto Frederico Schmidt",
+        "cityId": "rio-de-janeiro",
+        "categoryId": "bookshops",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Augusto%20Frederico%20Schmidt%2C%20Rio%20de%20Janeiro",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Augusto_Frederico_Schmidt",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Portrait_Augusto_F%C3%A9d%C3%A9rico_Schmidt.jpg/960px-Portrait_Augusto_F%C3%A9d%C3%A9rico_Schmidt.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Augusto_Frederico_Schmidt"
+        }
+      },
+      {
+        "id": "rio-de-janeiro-bookshops-4",
+        "name": "Pontifical Catholic University of Rio de Janeiro",
+        "cityId": "rio-de-janeiro",
+        "categoryId": "bookshops",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Pontifical%20Catholic%20University%20of%20Rio%20de%20Janeiro%2C%20Rio%20de%20Janeiro",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Pontifical_Catholic_University_of_Rio_de_Janeiro",
+        "photo": null
+      },
+      {
+        "id": "rio-de-janeiro-bookshops-5",
+        "name": "Rio",
+        "cityId": "rio-de-janeiro",
+        "categoryId": "bookshops",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Rio%2C%20Rio%20de%20Janeiro",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Rio_(2011_film)",
+        "photo": null
+      },
+      {
+        "id": "rio-de-janeiro-bookshops-6",
+        "name": "Machado de Assis",
+        "cityId": "rio-de-janeiro",
+        "categoryId": "bookshops",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Machado%20de%20Assis%2C%20Rio%20de%20Janeiro",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Machado_de_Assis",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/Machado_de_Assis_by_Marc_Ferrez.jpg/960px-Machado_de_Assis_by_Marc_Ferrez.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Machado_de_Assis"
+        }
+      },
+      {
+        "id": "rio-de-janeiro-bookshops-7",
+        "name": "Paula Brito",
+        "cityId": "rio-de-janeiro",
+        "categoryId": "bookshops",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Paula%20Brito%2C%20Rio%20de%20Janeiro",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Paula_Brito",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/70/Francisco_de_Paula_Brito.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Paula_Brito"
+        }
+      },
+      {
+        "id": "rio-de-janeiro-bookshops-8",
+        "name": "Camas Bookstore and Infoshop",
+        "cityId": "rio-de-janeiro",
+        "categoryId": "bookshops",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Camas%20Bookstore%20and%20Infoshop%2C%20Rio%20de%20Janeiro",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Camas_Bookstore_and_Infoshop",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/CamasInfoshop.jpg/960px-CamasInfoshop.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Camas_Bookstore_and_Infoshop"
+        }
+      },
+      {
+        "id": "rio-de-janeiro-bookshops-9",
+        "name": "Emiliano Di Cavalcanti",
+        "cityId": "rio-de-janeiro",
+        "categoryId": "bookshops",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Emiliano%20Di%20Cavalcanti%2C%20Rio%20de%20Janeiro",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Emiliano_Di_Cavalcanti",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/Di_Cavalcanti%2C_1964_-_restored_%28cropped%29.tif/lossy-page1-960px-Di_Cavalcanti%2C_1964_-_restored_%28cropped%29.tif.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Emiliano_Di_Cavalcanti"
+        }
+      },
+      {
+        "id": "rio-de-janeiro-bookshops-10",
+        "name": "Miguel Maria de Serpa Lopes",
+        "cityId": "rio-de-janeiro",
+        "categoryId": "bookshops",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Miguel%20Maria%20de%20Serpa%20Lopes%2C%20Rio%20de%20Janeiro",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Miguel_Maria_de_Serpa_Lopes",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Miguel_Maria_de_Serpa_Lopes_1956.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Miguel_Maria_de_Serpa_Lopes"
+        }
+      },
+      {
+        "id": "rio-de-janeiro-bookshops-11",
+        "name": "Anyda Marchant",
+        "cityId": "rio-de-janeiro",
+        "categoryId": "bookshops",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Anyda%20Marchant%2C%20Rio%20de%20Janeiro",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Anyda_Marchant",
+        "photo": null
+      },
+      {
+        "id": "rio-de-janeiro-bookshops-12",
+        "name": "Red Emma's",
+        "cityId": "rio-de-janeiro",
+        "categoryId": "bookshops",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Red%20Emma's%2C%20Rio%20de%20Janeiro",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Red_Emma's",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Red_Emma%27s_Cathedral_Street_location.jpg/960px-Red_Emma%27s_Cathedral_Street_location.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Red_Emma's"
+        }
+      },
+      {
+        "id": "rio-de-janeiro-bookshops-13",
+        "name": "Priscilla Ann Goslin",
+        "cityId": "rio-de-janeiro",
+        "categoryId": "bookshops",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Priscilla%20Ann%20Goslin%2C%20Rio%20de%20Janeiro",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Priscilla_Ann_Goslin",
+        "photo": null
+      },
+      {
+        "id": "rio-de-janeiro-bookshops-14",
+        "name": "Livraria Bertrand",
+        "cityId": "rio-de-janeiro",
+        "categoryId": "bookshops",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Livraria%20Bertrand%2C%20Rio%20de%20Janeiro",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Livraria_Bertrand",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/LivrariaBertrand2.JPG/960px-LivrariaBertrand2.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Livraria_Bertrand"
+        }
+      },
+      {
+        "id": "rio-de-janeiro-bookshops-15",
+        "name": "The Amazing Race Norge 2",
+        "cityId": "rio-de-janeiro",
+        "categoryId": "bookshops",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Amazing%20Race%20Norge%202%2C%20Rio%20de%20Janeiro",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/The_Amazing_Race_Norge_2",
+        "photo": null
+      },
+      {
+        "id": "rio-de-janeiro-bookshops-16",
+        "name": "Laços de Família",
+        "cityId": "rio-de-janeiro",
+        "categoryId": "bookshops",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=La%C3%A7os%20de%20Fam%C3%ADlia%2C%20Rio%20de%20Janeiro",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/La%C3%A7os_de_Fam%C3%ADlia",
+        "photo": null
+      },
+      {
+        "id": "rio-de-janeiro-bookshops-17",
+        "name": "José Antônio Correia da Câmara, 2nd Viscount of Pelotas",
+        "cityId": "rio-de-janeiro",
+        "categoryId": "bookshops",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Jos%C3%A9%20Ant%C3%B4nio%20Correia%20da%20C%C3%A2mara%2C%202nd%20Viscount%20of%20Pelotas%2C%20Rio%20de%20Janeiro",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Jos%C3%A9_Ant%C3%B4nio_Correia_da_C%C3%A2mara%2C_2nd_Viscount_of_Pelotas",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Foto_Remasterizada_do_Marechal_Jos%C3%A9_Ant%C3%B4nio_Correia_da_C%C3%A2mara.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Jos%C3%A9_Ant%C3%B4nio_Correia_da_C%C3%A2mara%2C_2nd_Viscount_of_Pelotas"
+        }
+      },
+      {
+        "id": "rio-de-janeiro-bookshops-18",
+        "name": "Self-managed social center",
+        "cityId": "rio-de-janeiro",
+        "categoryId": "bookshops",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Self-managed%20social%20center%2C%20Rio%20de%20Janeiro",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Self-managed_social_center",
+        "photo": null
+      }
+    ],
+    "museums": [
+      {
+        "id": "rio-de-janeiro-museums-1",
+        "name": "National Museum of Brazil",
+        "cityId": "rio-de-janeiro",
+        "categoryId": "museums",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=National%20Museum%20of%20Brazil%2C%20Rio%20de%20Janeiro",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/National_Museum_of_Brazil",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Museu_nacional_logo.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/National_Museum_of_Brazil"
+        }
+      },
+      {
+        "id": "rio-de-janeiro-museums-2",
+        "name": "Fort Copacabana",
+        "cityId": "rio-de-janeiro",
+        "categoryId": "museums",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Fort%20Copacabana%2C%20Rio%20de%20Janeiro",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Fort_Copacabana",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/Conjunto_Copacabana_-_Rio_de_Janeiro_-_20230911071214.jpg/960px-Conjunto_Copacabana_-_Rio_de_Janeiro_-_20230911071214.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Fort_Copacabana"
+        }
+      },
+      {
+        "id": "rio-de-janeiro-museums-3",
+        "name": "Museum of Modern Art, Rio de Janeiro",
+        "cityId": "rio-de-janeiro",
+        "categoryId": "museums",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Museum%20of%20Modern%20Art%2C%20Rio%20de%20Janeiro%2C%20Rio%20de%20Janeiro",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Museum_of_Modern_Art%2C_Rio_de_Janeiro",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/MAM_-_Museu_de_Arte_Moderna_do_Rio_de_Janeiro_02.jpg/960px-MAM_-_Museu_de_Arte_Moderna_do_Rio_de_Janeiro_02.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Museum_of_Modern_Art%2C_Rio_de_Janeiro"
+        }
+      },
+      {
+        "id": "rio-de-janeiro-museums-4",
+        "name": "Quinta da Boa Vista",
+        "cityId": "rio-de-janeiro",
+        "categoryId": "museums",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Quinta%20da%20Boa%20Vista%2C%20Rio%20de%20Janeiro",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Quinta_da_Boa_Vista",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Museu_Nacional_da_UFRJ_-_Quinta_da_Boa_Vista_no_Rio_de_Janeiro%2C_Brasil_13.jpg/960px-Museu_Nacional_da_UFRJ_-_Quinta_da_Boa_Vista_no_Rio_de_Janeiro%2C_Brasil_13.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Quinta_da_Boa_Vista"
+        }
+      },
+      {
+        "id": "rio-de-janeiro-museums-5",
+        "name": "Centro Cultural Banco do Brasil",
+        "cityId": "rio-de-janeiro",
+        "categoryId": "museums",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Centro%20Cultural%20Banco%20do%20Brasil%2C%20Rio%20de%20Janeiro",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Centro_Cultural_Banco_do_Brasil",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Caminhada_Noturna_23_November_2017_37.jpg/960px-Caminhada_Noturna_23_November_2017_37.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Centro_Cultural_Banco_do_Brasil"
+        }
+      },
+      {
+        "id": "rio-de-janeiro-museums-6",
+        "name": "Beatriz Milhazes",
+        "cityId": "rio-de-janeiro",
+        "categoryId": "museums",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Beatriz%20Milhazes%2C%20Rio%20de%20Janeiro",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Beatriz_Milhazes",
+        "photo": null
+      },
+      {
+        "id": "rio-de-janeiro-museums-7",
+        "name": "Rio de Janeiro",
+        "cityId": "rio-de-janeiro",
+        "categoryId": "museums",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Rio%20de%20Janeiro%2C%20Rio%20de%20Janeiro",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Rio_de_Janeiro",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Cidade_Maravilhosa.jpg/960px-Cidade_Maravilhosa.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Rio_de_Janeiro"
+        }
+      },
+      {
+        "id": "rio-de-janeiro-museums-8",
+        "name": "Petrópolis",
+        "cityId": "rio-de-janeiro",
+        "categoryId": "museums",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Petr%C3%B3polis%2C%20Rio%20de%20Janeiro",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Petr%C3%B3polis",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/0003_Vistas_de_Petr%C3%B3polis_%28estado_do_Rio_de_Janeiro%2C_Brasil%29_tiradas_da_Catedral.JPG/960px-0003_Vistas_de_Petr%C3%B3polis_%28estado_do_Rio_de_Janeiro%2C_Brasil%29_tiradas_da_Catedral.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Petr%C3%B3polis"
+        }
+      },
+      {
+        "id": "rio-de-janeiro-museums-9",
+        "name": "Maracanã, Rio de Janeiro",
+        "cityId": "rio-de-janeiro",
+        "categoryId": "museums",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Maracan%C3%A3%2C%20Rio%20de%20Janeiro%2C%20Rio%20de%20Janeiro",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Maracan%C3%A3%2C_Rio_de_Janeiro",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Maracan%C3%A3_2014_g.jpg/960px-Maracan%C3%A3_2014_g.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Maracan%C3%A3%2C_Rio_de_Janeiro"
+        }
+      },
+      {
+        "id": "rio-de-janeiro-museums-10",
+        "name": "Santa Teresa, Rio de Janeiro",
+        "cityId": "rio-de-janeiro",
+        "categoryId": "museums",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Santa%20Teresa%2C%20Rio%20de%20Janeiro%2C%20Rio%20de%20Janeiro",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Santa_Teresa%2C_Rio_de_Janeiro",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/Santa_Teresa_center.jpg/960px-Santa_Teresa_center.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Santa_Teresa%2C_Rio_de_Janeiro"
+        }
+      },
+      {
+        "id": "rio-de-janeiro-museums-11",
+        "name": "Botafogo",
+        "cityId": "rio-de-janeiro",
+        "categoryId": "museums",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Botafogo%2C%20Rio%20de%20Janeiro",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Botafogo",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Enseada_de_Botafogo_e_P%C3%A3o_de_A%C3%A7%C3%BAcar.jpg/960px-Enseada_de_Botafogo_e_P%C3%A3o_de_A%C3%A7%C3%BAcar.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Botafogo"
+        }
+      },
+      {
+        "id": "rio-de-janeiro-museums-12",
+        "name": "Roberto DaMatta",
+        "cityId": "rio-de-janeiro",
+        "categoryId": "museums",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Roberto%20DaMatta%2C%20Rio%20de%20Janeiro",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Roberto_DaMatta",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c0/DaMatta_3.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Roberto_DaMatta"
+        }
+      },
+      {
+        "id": "rio-de-janeiro-museums-13",
+        "name": "Theatro Municipal",
+        "cityId": "rio-de-janeiro",
+        "categoryId": "museums",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Theatro%20Municipal%2C%20Rio%20de%20Janeiro",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Theatro_Municipal_(Rio_de_Janeiro)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/Brazil-00988_-_Rio_de_Janeiro_Municipal_Theatre_%2848984301008%29.jpg/960px-Brazil-00988_-_Rio_de_Janeiro_Municipal_Theatre_%2848984301008%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Theatro_Municipal_(Rio_de_Janeiro)"
+        }
+      },
+      {
+        "id": "rio-de-janeiro-museums-14",
+        "name": "Flamengo, Rio de Janeiro",
+        "cityId": "rio-de-janeiro",
+        "categoryId": "museums",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Flamengo%2C%20Rio%20de%20Janeiro%2C%20Rio%20de%20Janeiro",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Flamengo%2C_Rio_de_Janeiro",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Flamengo_rio.jpg/960px-Flamengo_rio.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Flamengo%2C_Rio_de_Janeiro"
+        }
+      },
+      {
+        "id": "rio-de-janeiro-museums-15",
+        "name": "Centro, Rio de Janeiro",
+        "cityId": "rio-de-janeiro",
+        "categoryId": "museums",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Centro%2C%20Rio%20de%20Janeiro%2C%20Rio%20de%20Janeiro",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Centro%2C_Rio_de_Janeiro",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Urca%2C_Rio_de_Janeiro_-_State_of_Rio_de_Janeiro%2C_Brazil_-_panoramio_%2814%29.jpg/960px-Urca%2C_Rio_de_Janeiro_-_State_of_Rio_de_Janeiro%2C_Brazil_-_panoramio_%2814%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Centro%2C_Rio_de_Janeiro"
+        }
+      },
+      {
+        "id": "rio-de-janeiro-museums-16",
+        "name": "Oskar Metsavaht",
+        "cityId": "rio-de-janeiro",
+        "categoryId": "museums",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Oskar%20Metsavaht%2C%20Rio%20de%20Janeiro",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Oskar_Metsavaht",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Oskar_Metsavaht_2012.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Oskar_Metsavaht"
+        }
+      },
+      {
+        "id": "rio-de-janeiro-museums-17",
+        "name": "Alexander Kellner",
+        "cityId": "rio-de-janeiro",
+        "categoryId": "museums",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Alexander%20Kellner%2C%20Rio%20de%20Janeiro",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Alexander_Kellner",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/Alexander_Kellner_at_the_MCTIC.jpg/960px-Alexander_Kellner_at_the_MCTIC.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Alexander_Kellner"
+        }
+      },
+      {
+        "id": "rio-de-janeiro-museums-18",
+        "name": "Imperial de São Cristóvão",
+        "cityId": "rio-de-janeiro",
+        "categoryId": "museums",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Imperial%20de%20S%C3%A3o%20Crist%C3%B3v%C3%A3o%2C%20Rio%20de%20Janeiro",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Imperial_de_S%C3%A3o_Crist%C3%B3v%C3%A3o",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Quinta_da_Boa_Vista_03.jpg/960px-Quinta_da_Boa_Vista_03.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Imperial_de_S%C3%A3o_Crist%C3%B3v%C3%A3o"
+        }
+      }
+    ],
+    "concerts": [
+      {
+        "id": "rio-de-janeiro-concerts-1",
+        "name": "Cidade das Artes",
+        "cityId": "rio-de-janeiro",
+        "categoryId": "concerts",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Cidade%20das%20Artes%2C%20Rio%20de%20Janeiro",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Cidade_das_Artes",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Cidade_das_Artes.jpg/960px-Cidade_das_Artes.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Cidade_das_Artes"
+        }
+      },
+      {
+        "id": "rio-de-janeiro-concerts-2",
+        "name": "Vivo Rio",
+        "cityId": "rio-de-janeiro",
+        "categoryId": "concerts",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Vivo%20Rio%2C%20Rio%20de%20Janeiro",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Vivo_Rio",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Vivo_Rio.jpg/960px-Vivo_Rio.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Vivo_Rio"
+        }
+      },
+      {
+        "id": "rio-de-janeiro-concerts-3",
+        "name": "Canecão",
+        "cityId": "rio-de-janeiro",
+        "categoryId": "concerts",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Canec%C3%A3o%2C%20Rio%20de%20Janeiro",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Canec%C3%A3o",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/Canec%C3%A3o.jpg/960px-Canec%C3%A3o.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Canec%C3%A3o"
+        }
+      },
+      {
+        "id": "rio-de-janeiro-concerts-4",
+        "name": "Ronaldo Miranda",
+        "cityId": "rio-de-janeiro",
+        "categoryId": "concerts",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Ronaldo%20Miranda%2C%20Rio%20de%20Janeiro",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Ronaldo_Miranda",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Ronaldo_Miranda_%282014%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Ronaldo_Miranda"
+        }
+      },
+      {
+        "id": "rio-de-janeiro-concerts-5",
+        "name": "Qualistage",
+        "cityId": "rio-de-janeiro",
+        "categoryId": "concerts",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Qualistage%2C%20Rio%20de%20Janeiro",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Qualistage",
+        "photo": null
+      },
+      {
+        "id": "rio-de-janeiro-concerts-6",
+        "name": "Copacabana Palace",
+        "cityId": "rio-de-janeiro",
+        "categoryId": "concerts",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Copacabana%20Palace%2C%20Rio%20de%20Janeiro",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Copacabana_Palace",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/Hotel_Copacabana_Palace%2C_R%C3%ADo_de_Janeiro_A74224720241122.jpg/960px-Hotel_Copacabana_Palace%2C_R%C3%ADo_de_Janeiro_A74224720241122.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Copacabana_Palace"
+        }
+      },
+      {
+        "id": "rio-de-janeiro-concerts-7",
+        "name": "Rio de Janeiro",
+        "cityId": "rio-de-janeiro",
+        "categoryId": "concerts",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Rio%20de%20Janeiro%2C%20Rio%20de%20Janeiro",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Rio_de_Janeiro",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Cidade_Maravilhosa.jpg/960px-Cidade_Maravilhosa.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Rio_de_Janeiro"
+        }
+      },
+      {
+        "id": "rio-de-janeiro-concerts-8",
+        "name": "Brazilian Symphony Orchestra",
+        "cityId": "rio-de-janeiro",
+        "categoryId": "concerts",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Brazilian%20Symphony%20Orchestra%2C%20Rio%20de%20Janeiro",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Brazilian_Symphony_Orchestra",
+        "photo": null
+      },
+      {
+        "id": "rio-de-janeiro-concerts-9",
+        "name": "Amelita Baltar",
+        "cityId": "rio-de-janeiro",
+        "categoryId": "concerts",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Amelita%20Baltar%2C%20Rio%20de%20Janeiro",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Amelita_Baltar",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Charla_con_Amelita_Baltar_en_el_Instituto_Cervantes_de_Tokio_01_%28cropped%29.jpg/960px-Charla_con_Amelita_Baltar_en_el_Instituto_Cervantes_de_Tokio_01_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Amelita_Baltar"
+        }
+      },
+      {
+        "id": "rio-de-janeiro-concerts-10",
+        "name": "Aarhus Pride",
+        "cityId": "rio-de-janeiro",
+        "categoryId": "concerts",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Aarhus%20Pride%2C%20Rio%20de%20Janeiro",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Aarhus_Pride",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Aarhus_Pride%2C_2012%2C_start_of_day.jpg/960px-Aarhus_Pride%2C_2012%2C_start_of_day.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Aarhus_Pride"
+        }
+      },
+      {
+        "id": "rio-de-janeiro-concerts-11",
+        "name": "Outline of Rio de Janeiro",
+        "cityId": "rio-de-janeiro",
+        "categoryId": "concerts",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Outline%20of%20Rio%20de%20Janeiro%2C%20Rio%20de%20Janeiro",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Outline_of_Rio_de_Janeiro",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Bandeira_da_cidade_do_Rio_de_Janeiro.svg/960px-Bandeira_da_cidade_do_Rio_de_Janeiro.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Outline_of_Rio_de_Janeiro"
+        }
+      },
+      {
+        "id": "rio-de-janeiro-concerts-12",
+        "name": "J. T. Meirelles",
+        "cityId": "rio-de-janeiro",
+        "categoryId": "concerts",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=J.%20T.%20Meirelles%2C%20Rio%20de%20Janeiro",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/J._T._Meirelles",
+        "photo": null
+      },
+      {
+        "id": "rio-de-janeiro-concerts-13",
+        "name": "Björk Digital",
+        "cityId": "rio-de-janeiro",
+        "categoryId": "concerts",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Bj%C3%B6rk%20Digital%2C%20Rio%20de%20Janeiro",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Bj%C3%B6rk_Digital",
+        "photo": null
+      },
+      {
+        "id": "rio-de-janeiro-concerts-14",
+        "name": "Radamés Gnattali",
+        "cityId": "rio-de-janeiro",
+        "categoryId": "concerts",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Radam%C3%A9s%20Gnattali%2C%20Rio%20de%20Janeiro",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Radam%C3%A9s_Gnattali",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Radam%C3%A9s_Gnattali_%281950%29.tiff/lossy-page1-960px-Radam%C3%A9s_Gnattali_%281950%29.tiff.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Radam%C3%A9s_Gnattali"
+        }
+      },
+      {
+        "id": "rio-de-janeiro-concerts-15",
+        "name": "String Quartet No. 6",
+        "cityId": "rio-de-janeiro",
+        "categoryId": "concerts",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=String%20Quartet%20No.%206%2C%20Rio%20de%20Janeiro",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/String_Quartet_No._6_(Villa-Lobos)",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Heitor_Vila-Lobos_%28c._1922%29part.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/String_Quartet_No._6_(Villa-Lobos)"
+        }
+      },
+      {
+        "id": "rio-de-janeiro-concerts-16",
+        "name": "Cesar Maia",
+        "cityId": "rio-de-janeiro",
+        "categoryId": "concerts",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Cesar%20Maia%2C%20Rio%20de%20Janeiro",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Cesar_Maia",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Cesar_Maia_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Cesar_Maia"
+        }
+      },
+      {
+        "id": "rio-de-janeiro-concerts-17",
+        "name": "Fundição Progresso",
+        "cityId": "rio-de-janeiro",
+        "categoryId": "concerts",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Fundi%C3%A7%C3%A3o%20Progresso%2C%20Rio%20de%20Janeiro",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Fundi%C3%A7%C3%A3o_Progresso",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/Fundi%C3%A7%C3%A3o_Progresso_in_Lapa%2C_Rio_de_Janeiro_3_%2822116200195%29.jpg/960px-Fundi%C3%A7%C3%A3o_Progresso_in_Lapa%2C_Rio_de_Janeiro_3_%2822116200195%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Fundi%C3%A7%C3%A3o_Progresso"
+        }
+      },
+      {
+        "id": "rio-de-janeiro-concerts-18",
+        "name": "Oscar Niemeyer",
+        "cityId": "rio-de-janeiro",
+        "categoryId": "concerts",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Oscar%20Niemeyer%2C%20Rio%20de%20Janeiro",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Oscar_Niemeyer",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/70/Oscar_Niemeyer_1968b.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Oscar_Niemeyer"
+        }
+      }
+    ],
+    "fashion": [
+      {
+        "id": "rio-de-janeiro-fashion-1",
+        "name": "Thiago Lacerda",
+        "cityId": "rio-de-janeiro",
+        "categoryId": "fashion",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Thiago%20Lacerda%2C%20Rio%20de%20Janeiro",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Thiago_Lacerda",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/18/Thiago_Lacerda4.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Thiago_Lacerda"
+        }
+      },
+      {
+        "id": "rio-de-janeiro-fashion-2",
+        "name": "Gretchen",
+        "cityId": "rio-de-janeiro",
+        "categoryId": "fashion",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Gretchen%2C%20Rio%20de%20Janeiro",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Gretchen_(singer)",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Gretchen_cantora_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Gretchen_(singer)"
+        }
+      },
+      {
+        "id": "rio-de-janeiro-fashion-3",
+        "name": "Leon Major",
+        "cityId": "rio-de-janeiro",
+        "categoryId": "fashion",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Leon%20Major%2C%20Rio%20de%20Janeiro",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Leon_Major",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/af/Leon_Major_CTM_Interview_2013.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Leon_Major"
+        }
+      },
+      {
+        "id": "rio-de-janeiro-fashion-4",
+        "name": "RBD",
+        "cityId": "rio-de-janeiro",
+        "categoryId": "fashion",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=RBD%2C%20Rio%20de%20Janeiro",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/RBD",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Soy_Rebelde_Tour_-_Rio_de_Janeiro_-_Nov_10%2C_2023_-_53332493867.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/RBD"
+        }
+      },
+      {
+        "id": "rio-de-janeiro-fashion-5",
+        "name": "Rubem Siqueira Maia",
+        "cityId": "rio-de-janeiro",
+        "categoryId": "fashion",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Rubem%20Siqueira%20Maia%2C%20Rio%20de%20Janeiro",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Rubem_Siqueira_Maia",
+        "photo": null
+      },
+      {
+        "id": "rio-de-janeiro-fashion-6",
+        "name": "Lívia Andrade",
+        "cityId": "rio-de-janeiro",
+        "categoryId": "fashion",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=L%C3%ADvia%20Andrade%2C%20Rio%20de%20Janeiro",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/L%C3%ADvia_Andrade",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Live_Casa_Mimosa_-_Participa%C3%A7%C3%A3o_Livia_Andrade_%28cropped%29.jpg/960px-Live_Casa_Mimosa_-_Participa%C3%A7%C3%A3o_Livia_Andrade_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/L%C3%ADvia_Andrade"
+        }
+      },
+      {
+        "id": "rio-de-janeiro-fashion-7",
+        "name": "Pepper Ann",
+        "cityId": "rio-de-janeiro",
+        "categoryId": "fashion",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Pepper%20Ann%2C%20Rio%20de%20Janeiro",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Pepper_Ann",
+        "photo": null
+      },
+      {
+        "id": "rio-de-janeiro-fashion-8",
+        "name": "Erin McLeod",
+        "cityId": "rio-de-janeiro",
+        "categoryId": "fashion",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Erin%20McLeod%2C%20Rio%20de%20Janeiro",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Erin_McLeod",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/22/Erin_McLeod_20180422_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Erin_McLeod"
+        }
+      },
+      {
+        "id": "rio-de-janeiro-fashion-9",
+        "name": "Roberto Bautista Agut",
+        "cityId": "rio-de-janeiro",
+        "categoryId": "fashion",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Roberto%20Bautista%20Agut%2C%20Rio%20de%20Janeiro",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Roberto_Bautista_Agut",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Bautista_Agut_MCM23_%2814%29_%2852883313449%29.jpg/960px-Bautista_Agut_MCM23_%2814%29_%2852883313449%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Roberto_Bautista_Agut"
+        }
+      },
+      {
+        "id": "rio-de-janeiro-fashion-10",
+        "name": "1968 in music",
+        "cityId": "rio-de-janeiro",
+        "categoryId": "fashion",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=1968%20in%20music%2C%20Rio%20de%20Janeiro",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/1968_in_music",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/The_Doors_in_Copenhagen_1968.jpg/960px-The_Doors_in_Copenhagen_1968.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/1968_in_music"
+        }
+      },
+      {
+        "id": "rio-de-janeiro-fashion-11",
+        "name": "Double-decker bus",
+        "cityId": "rio-de-janeiro",
+        "categoryId": "fashion",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Double-decker%20bus%2C%20Rio%20de%20Janeiro",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Double-decker_bus",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/Abellio_LT157_%28LTZ1157%29_Holborn_Viaduct_20.01.2024.jpg/960px-Abellio_LT157_%28LTZ1157%29_Holborn_Viaduct_20.01.2024.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Double-decker_bus"
+        }
+      },
+      {
+        "id": "rio-de-janeiro-fashion-12",
+        "name": "Carmen Sandiego",
+        "cityId": "rio-de-janeiro",
+        "categoryId": "fashion",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Carmen%20Sandiego%2C%20Rio%20de%20Janeiro",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Carmen_Sandiego_(TV_series)",
+        "photo": null
+      },
+      {
+        "id": "rio-de-janeiro-fashion-13",
+        "name": "1952 New Year Honours",
+        "cityId": "rio-de-janeiro",
+        "categoryId": "fashion",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=1952%20New%20Year%20Honours%2C%20Rio%20de%20Janeiro",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/1952_New_Year_Honours",
+        "photo": null
+      },
+      {
+        "id": "rio-de-janeiro-fashion-14",
+        "name": "31 Minutos",
+        "cityId": "rio-de-janeiro",
+        "categoryId": "fashion",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=31%20Minutos%2C%20Rio%20de%20Janeiro",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/31_Minutos",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/31_minutos_logo.svg/960px-31_minutos_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/31_Minutos"
+        }
+      },
+      {
+        "id": "rio-de-janeiro-fashion-15",
+        "name": "Timeline of the San Francisco Bay Area",
+        "cityId": "rio-de-janeiro",
+        "categoryId": "fashion",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Timeline%20of%20the%20San%20Francisco%20Bay%20Area%2C%20Rio%20de%20Janeiro",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Timeline_of_the_San_Francisco_Bay_Area",
+        "photo": null
+      },
+      {
+        "id": "rio-de-janeiro-fashion-16",
+        "name": "Marvin Elkind",
+        "cityId": "rio-de-janeiro",
+        "categoryId": "fashion",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Marvin%20Elkind%2C%20Rio%20de%20Janeiro",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Marvin_Elkind",
+        "photo": null
+      },
+      {
+        "id": "rio-de-janeiro-fashion-17",
+        "name": "Deaths in August 2023",
+        "cityId": "rio-de-janeiro",
+        "categoryId": "fashion",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Deaths%20in%20August%202023%2C%20Rio%20de%20Janeiro",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Deaths_in_August_2023",
+        "photo": null
+      },
+      {
+        "id": "rio-de-janeiro-fashion-18",
+        "name": "Heloísa Pinheiro",
+        "cityId": "rio-de-janeiro",
+        "categoryId": "fashion",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Helo%C3%ADsa%20Pinheiro%2C%20Rio%20de%20Janeiro",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Helo%C3%ADsa_Pinheiro",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Helo_Pinheiro.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Helo%C3%ADsa_Pinheiro"
+        }
+      }
+    ],
+    "shops": [
+      {
+        "id": "rio-de-janeiro-shops-1",
+        "name": ".rio",
+        "cityId": "rio-de-janeiro",
+        "categoryId": "shops",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=.rio%2C%20Rio%20de%20Janeiro",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/.rio",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Ponto_rio.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/.rio"
+        }
+      },
+      {
+        "id": "rio-de-janeiro-shops-2",
+        "name": "Norte Shopping",
+        "cityId": "rio-de-janeiro",
+        "categoryId": "shops",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Norte%20Shopping%2C%20Rio%20de%20Janeiro",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Norte_Shopping",
+        "photo": null
+      },
+      {
+        "id": "rio-de-janeiro-shops-3",
+        "name": "Lufthansa Flight 502",
+        "cityId": "rio-de-janeiro",
+        "categoryId": "shops",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Lufthansa%20Flight%20502%2C%20Rio%20de%20Janeiro",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Lufthansa_Flight_502",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Lufthansa_Lockheed_Super_Conny_Manteufel-1.jpg/960px-Lufthansa_Lockheed_Super_Conny_Manteufel-1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Lufthansa_Flight_502"
+        }
+      },
+      {
+        "id": "rio-de-janeiro-shops-4",
+        "name": "Cláudia Cruz",
+        "cityId": "rio-de-janeiro",
+        "categoryId": "shops",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Cl%C3%A1udia%20Cruz%2C%20Rio%20de%20Janeiro",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Cl%C3%A1udia_Cruz",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Eduardo_Cunha_e_Claudia_Cruz_%28crop%29.jpg/960px-Eduardo_Cunha_e_Claudia_Cruz_%28crop%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Cl%C3%A1udia_Cruz"
+        }
+      },
+      {
+        "id": "rio-de-janeiro-shops-5",
+        "name": "Yogoberry",
+        "cityId": "rio-de-janeiro",
+        "categoryId": "shops",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Yogoberry%2C%20Rio%20de%20Janeiro",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Yogoberry",
+        "photo": null
+      },
+      {
+        "id": "rio-de-janeiro-shops-6",
+        "name": "1963 Intercontinental Cup",
+        "cityId": "rio-de-janeiro",
+        "categoryId": "shops",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=1963%20Intercontinental%20Cup%2C%20Rio%20de%20Janeiro",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/1963_Intercontinental_Cup",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Gianni_rivera_and_pele_in_milan.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/1963_Intercontinental_Cup"
+        }
+      },
+      {
+        "id": "rio-de-janeiro-shops-7",
+        "name": "GloboNews",
+        "cityId": "rio-de-janeiro",
+        "categoryId": "shops",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=GloboNews%2C%20Rio%20de%20Janeiro",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/GloboNews",
+        "photo": null
+      },
+      {
+        "id": "rio-de-janeiro-shops-8",
+        "name": "Black Orpheus",
+        "cityId": "rio-de-janeiro",
+        "categoryId": "shops",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Black%20Orpheus%2C%20Rio%20de%20Janeiro",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Black_Orpheus",
+        "photo": null
+      },
+      {
+        "id": "rio-de-janeiro-shops-9",
+        "name": "Mauritius at the 2016 Summer Paralympics",
+        "cityId": "rio-de-janeiro",
+        "categoryId": "shops",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Mauritius%20at%20the%202016%20Summer%20Paralympics%2C%20Rio%20de%20Janeiro",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Mauritius_at_the_2016_Summer_Paralympics",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_Mauritius.svg/960px-Flag_of_Mauritius.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Mauritius_at_the_2016_Summer_Paralympics"
+        }
+      },
+      {
+        "id": "rio-de-janeiro-shops-10",
+        "name": "TV Brasil",
+        "cityId": "rio-de-janeiro",
+        "categoryId": "shops",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=TV%20Brasil%2C%20Rio%20de%20Janeiro",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/TV_Brasil",
+        "photo": null
+      },
+      {
+        "id": "rio-de-janeiro-shops-11",
+        "name": "Rock in Rio",
+        "cityId": "rio-de-janeiro",
+        "categoryId": "shops",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Rock%20in%20Rio%2C%20Rio%20de%20Janeiro",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Rock_in_Rio",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Rock_in_Rio_-_Madrid_2012.jpg/960px-Rock_in_Rio_-_Madrid_2012.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Rock_in_Rio"
+        }
+      },
+      {
+        "id": "rio-de-janeiro-shops-12",
+        "name": "De Pernas pro Ar 2",
+        "cityId": "rio-de-janeiro",
+        "categoryId": "shops",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=De%20Pernas%20pro%20Ar%202%2C%20Rio%20de%20Janeiro",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/De_Pernas_pro_Ar_2",
+        "photo": null
+      },
+      {
+        "id": "rio-de-janeiro-shops-13",
+        "name": "MC Sapão",
+        "cityId": "rio-de-janeiro",
+        "categoryId": "shops",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=MC%20Sap%C3%A3o%2C%20Rio%20de%20Janeiro",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/MC_Sap%C3%A3o",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/97/Sap%C3%A3omc.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/MC_Sap%C3%A3o"
+        }
+      },
+      {
+        "id": "rio-de-janeiro-shops-14",
+        "name": "Barra Shopping",
+        "cityId": "rio-de-janeiro",
+        "categoryId": "shops",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Barra%20Shopping%2C%20Rio%20de%20Janeiro",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Barra_Shopping",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/BarraShopping.jpg/960px-BarraShopping.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Barra_Shopping"
+        }
+      },
+      {
+        "id": "rio-de-janeiro-shops-15",
+        "name": "VP Music Group",
+        "cityId": "rio-de-janeiro",
+        "categoryId": "shops",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=VP%20Music%20Group%2C%20Rio%20de%20Janeiro",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/VP_Music_Group",
+        "photo": null
+      },
+      {
+        "id": "rio-de-janeiro-shops-16",
+        "name": "Elite Squad",
+        "cityId": "rio-de-janeiro",
+        "categoryId": "shops",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Elite%20Squad%2C%20Rio%20de%20Janeiro",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Elite_Squad",
+        "photo": null
+      },
+      {
+        "id": "rio-de-janeiro-shops-17",
+        "name": "Moonraker",
+        "cityId": "rio-de-janeiro",
+        "categoryId": "shops",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Moonraker%2C%20Rio%20de%20Janeiro",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Moonraker_(film)",
+        "photo": null
+      },
+      {
+        "id": "rio-de-janeiro-shops-18",
+        "name": "Indian immigration to Brazil",
+        "cityId": "rio-de-janeiro",
+        "categoryId": "shops",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Indian%20immigration%20to%20Brazil%2C%20Rio%20de%20Janeiro",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Indian_immigration_to_Brazil",
+        "photo": null
+      }
+    ]
+  }
+}

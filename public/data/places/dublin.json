@@ -1,0 +1,2323 @@
+{
+  "cityId": "dublin",
+  "generatedAt": "2026-11-27T09:17:22.781Z",
+  "source": "Wikipedia API + Maps URLs (sin scraping de Google)",
+  "incomplete": [],
+  "categories": {
+    "night_clubs": [
+      {
+        "id": "dublin-night_clubs-1",
+        "name": "The George, Dublin",
+        "cityId": "dublin",
+        "categoryId": "night_clubs",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20George%2C%20Dublin%2C%20Dublin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/The_George%2C_Dublin",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/The_George%2C_Dublin.JPG/960px-The_George%2C_Dublin.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/The_George%2C_Dublin"
+        }
+      },
+      {
+        "id": "dublin-night_clubs-2",
+        "name": "The Village",
+        "cityId": "dublin",
+        "categoryId": "night_clubs",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Village%2C%20Dublin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/The_Village_(music_venue)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/The_Village_%28music_venue%29.JPG/960px-The_Village_%28music_venue%29.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/The_Village_(music_venue)"
+        }
+      },
+      {
+        "id": "dublin-night_clubs-3",
+        "name": "Copper Face Jacks",
+        "cityId": "dublin",
+        "categoryId": "night_clubs",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Copper%20Face%20Jacks%2C%20Dublin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Copper_Face_Jacks",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Dublin%2C_Co._Dublin_-_Ireland_%285417695437%29.jpg/960px-Dublin%2C_Co._Dublin_-_Ireland_%285417695437%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Copper_Face_Jacks"
+        }
+      },
+      {
+        "id": "dublin-night_clubs-4",
+        "name": "Colin Kenny",
+        "cityId": "dublin",
+        "categoryId": "night_clubs",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Colin%20Kenny%2C%20Dublin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Colin_Kenny_(actor)",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e4/The_Egg03.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Colin_Kenny_(actor)"
+        }
+      },
+      {
+        "id": "dublin-night_clubs-5",
+        "name": "North Wall railway station",
+        "cityId": "dublin",
+        "categoryId": "night_clubs",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=North%20Wall%20railway%20station%2C%20Dublin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/North_Wall_railway_station",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/80/Dublin_North_Wall_station_and_yards.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/North_Wall_railway_station"
+        }
+      },
+      {
+        "id": "dublin-night_clubs-6",
+        "name": "Lillie's Bordello",
+        "cityId": "dublin",
+        "categoryId": "night_clubs",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Lillie's%20Bordello%2C%20Dublin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Lillie's_Bordello",
+        "photo": null
+      },
+      {
+        "id": "dublin-night_clubs-7",
+        "name": "Tivoli Theatre",
+        "cityId": "dublin",
+        "categoryId": "night_clubs",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Tivoli%20Theatre%2C%20Dublin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Tivoli_Theatre_(Dublin)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Tivoli_Theatre_%28Dublin%29%2C_2012_%28cropped%29.jpg/960px-Tivoli_Theatre_%28Dublin%29%2C_2012_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Tivoli_Theatre_(Dublin)"
+        }
+      },
+      {
+        "id": "dublin-night_clubs-8",
+        "name": "Annie Mac",
+        "cityId": "dublin",
+        "categoryId": "night_clubs",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Annie%20Mac%2C%20Dublin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Annie_Mac",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Annie_Mac_DJ%27ing_in_Brighton_%28cropped%29.jpg/960px-Annie_Mac_DJ%27ing_in_Brighton_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Annie_Mac"
+        }
+      },
+      {
+        "id": "dublin-night_clubs-9",
+        "name": "Coppers",
+        "cityId": "dublin",
+        "categoryId": "night_clubs",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Coppers%2C%20Dublin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Coppers",
+        "photo": null
+      },
+      {
+        "id": "dublin-night_clubs-10",
+        "name": "The George",
+        "cityId": "dublin",
+        "categoryId": "night_clubs",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20George%2C%20Dublin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/The_George",
+        "photo": null
+      },
+      {
+        "id": "dublin-night_clubs-11",
+        "name": "Easter Cup",
+        "cityId": "dublin",
+        "categoryId": "night_clubs",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Easter%20Cup%2C%20Dublin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Easter_Cup_(greyhounds)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/1971_Irish_Greyhound_Derby_runner_up_Postal_Vote.jpg/960px-1971_Irish_Greyhound_Derby_runner_up_Postal_Vote.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Easter_Cup_(greyhounds)"
+        }
+      },
+      {
+        "id": "dublin-night_clubs-12",
+        "name": "Cream",
+        "cityId": "dublin",
+        "categoryId": "night_clubs",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Cream%2C%20Dublin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Cream_(nightclub)",
+        "photo": null
+      },
+      {
+        "id": "dublin-night_clubs-13",
+        "name": "Droppin Well bombing",
+        "cityId": "dublin",
+        "categoryId": "night_clubs",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Droppin%20Well%20bombing%2C%20Dublin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Droppin_Well_bombing",
+        "photo": null
+      },
+      {
+        "id": "dublin-night_clubs-14",
+        "name": "Tony Dixon",
+        "cityId": "dublin",
+        "categoryId": "night_clubs",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Tony%20Dixon%2C%20Dublin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Tony_Dixon_(DJ)",
+        "photo": null
+      },
+      {
+        "id": "dublin-night_clubs-15",
+        "name": "Paul Daly",
+        "cityId": "dublin",
+        "categoryId": "night_clubs",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Paul%20Daly%2C%20Dublin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Paul_Daly_(sculptor)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Paul_Daly_on_a_wooden_background.jpg/960px-Paul_Daly_on_a_wooden_background.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Paul_Daly_(sculptor)"
+        }
+      },
+      {
+        "id": "dublin-night_clubs-16",
+        "name": "Butterly",
+        "cityId": "dublin",
+        "categoryId": "night_clubs",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Butterly%2C%20Dublin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Butterly",
+        "photo": null
+      },
+      {
+        "id": "dublin-night_clubs-17",
+        "name": "Stardust Memorial Park",
+        "cityId": "dublin",
+        "categoryId": "night_clubs",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Stardust%20Memorial%20Park%2C%20Dublin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Stardust_Memorial_Park",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Dancing_Couple_1.jpg/960px-Dancing_Couple_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Stardust_Memorial_Park"
+        }
+      },
+      {
+        "id": "dublin-night_clubs-18",
+        "name": "Lightvessels in Ireland",
+        "cityId": "dublin",
+        "categoryId": "night_clubs",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Lightvessels%20in%20Ireland%2C%20Dublin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Lightvessels_in_Ireland",
+        "photo": null
+      }
+    ],
+    "restaurants": [
+      {
+        "id": "dublin-restaurants-1",
+        "name": "Restaurant Patrick Guilbaud",
+        "cityId": "dublin",
+        "categoryId": "restaurants",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Restaurant%20Patrick%20Guilbaud%2C%20Dublin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Restaurant_Patrick_Guilbaud",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/RestaurantPatrickGuilbaud.jpg/960px-RestaurantPatrickGuilbaud.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Restaurant_Patrick_Guilbaud"
+        }
+      },
+      {
+        "id": "dublin-restaurants-2",
+        "name": "Variety Jones",
+        "cityId": "dublin",
+        "categoryId": "restaurants",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Variety%20Jones%2C%20Dublin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Variety_Jones_(restaurant)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/Variety_Jones_restaurant%2C_Dublin.jpg/960px-Variety_Jones_restaurant%2C_Dublin.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Variety_Jones_(restaurant)"
+        }
+      },
+      {
+        "id": "dublin-restaurants-3",
+        "name": "Peacock Alley",
+        "cityId": "dublin",
+        "categoryId": "restaurants",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Peacock%20Alley%2C%20Dublin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Peacock_Alley_(restaurant)",
+        "photo": null
+      },
+      {
+        "id": "dublin-restaurants-4",
+        "name": "Liath",
+        "cityId": "dublin",
+        "categoryId": "restaurants",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Liath%2C%20Dublin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Liath_(restaurant)",
+        "photo": null
+      },
+      {
+        "id": "dublin-restaurants-5",
+        "name": "Patrick Guilbaud",
+        "cityId": "dublin",
+        "categoryId": "restaurants",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Patrick%20Guilbaud%2C%20Dublin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Patrick_Guilbaud",
+        "photo": null
+      },
+      {
+        "id": "dublin-restaurants-6",
+        "name": "The Greenhouse",
+        "cityId": "dublin",
+        "categoryId": "restaurants",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Greenhouse%2C%20Dublin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/The_Greenhouse_(restaurant)",
+        "photo": null
+      },
+      {
+        "id": "dublin-restaurants-7",
+        "name": "Chapter One",
+        "cityId": "dublin",
+        "categoryId": "restaurants",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Chapter%20One%2C%20Dublin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Chapter_One_(restaurant)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Chapter_One_sign.jpg/960px-Chapter_One_sign.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Chapter_One_(restaurant)"
+        }
+      },
+      {
+        "id": "dublin-restaurants-8",
+        "name": "Thornton's Restaurant",
+        "cityId": "dublin",
+        "categoryId": "restaurants",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Thornton's%20Restaurant%2C%20Dublin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Thornton's_Restaurant",
+        "photo": null
+      },
+      {
+        "id": "dublin-restaurants-9",
+        "name": "Oliver Dunne",
+        "cityId": "dublin",
+        "categoryId": "restaurants",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Oliver%20Dunne%2C%20Dublin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Oliver_Dunne",
+        "photo": null
+      },
+      {
+        "id": "dublin-restaurants-10",
+        "name": "Mint",
+        "cityId": "dublin",
+        "categoryId": "restaurants",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Mint%2C%20Dublin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Mint_(restaurant)",
+        "photo": null
+      },
+      {
+        "id": "dublin-restaurants-11",
+        "name": "Bastible",
+        "cityId": "dublin",
+        "categoryId": "restaurants",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Bastible%2C%20Dublin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Bastible",
+        "photo": null
+      },
+      {
+        "id": "dublin-restaurants-12",
+        "name": "L'Ecrivain",
+        "cityId": "dublin",
+        "categoryId": "restaurants",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=L'Ecrivain%2C%20Dublin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/L'Ecrivain",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/L%27Ecrivain%2C_Baggot_Street_Lower.JPG/960px-L%27Ecrivain%2C_Baggot_Street_Lower.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/L'Ecrivain"
+        }
+      },
+      {
+        "id": "dublin-restaurants-13",
+        "name": "The Commons Restaurant",
+        "cityId": "dublin",
+        "categoryId": "restaurants",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Commons%20Restaurant%2C%20Dublin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/The_Commons_Restaurant",
+        "photo": null
+      },
+      {
+        "id": "dublin-restaurants-14",
+        "name": "Locks Brasserie",
+        "cityId": "dublin",
+        "categoryId": "restaurants",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Locks%20Brasserie%2C%20Dublin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Locks_Brasserie",
+        "photo": null
+      },
+      {
+        "id": "dublin-restaurants-15",
+        "name": "Gerry Kirwan",
+        "cityId": "dublin",
+        "categoryId": "restaurants",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Gerry%20Kirwan%2C%20Dublin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Gerry_Kirwan",
+        "photo": null
+      },
+      {
+        "id": "dublin-restaurants-16",
+        "name": "Rory Carville",
+        "cityId": "dublin",
+        "categoryId": "restaurants",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Rory%20Carville%2C%20Dublin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Rory_Carville",
+        "photo": null
+      },
+      {
+        "id": "dublin-restaurants-17",
+        "name": "Mornington House",
+        "cityId": "dublin",
+        "categoryId": "restaurants",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Mornington%20House%2C%20Dublin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Mornington_House",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/MorningtonHouse.jpg/960px-MorningtonHouse.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Mornington_House"
+        }
+      },
+      {
+        "id": "dublin-restaurants-18",
+        "name": "Guillaume Lebrun",
+        "cityId": "dublin",
+        "categoryId": "restaurants",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Guillaume%20Lebrun%2C%20Dublin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Guillaume_Lebrun",
+        "photo": null
+      }
+    ],
+    "bars": [
+      {
+        "id": "dublin-bars-1",
+        "name": "Temple Bar, Dublin",
+        "cityId": "dublin",
+        "categoryId": "bars",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Temple%20Bar%2C%20Dublin%2C%20Dublin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Temple_Bar%2C_Dublin",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/Temple_Bar_street_scenes%2C_Dublin.jpg/960px-Temple_Bar_street_scenes%2C_Dublin.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Temple_Bar%2C_Dublin"
+        }
+      },
+      {
+        "id": "dublin-bars-2",
+        "name": "Project Arts Centre",
+        "cityId": "dublin",
+        "categoryId": "bars",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Project%20Arts%20Centre%2C%20Dublin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Project_Arts_Centre",
+        "photo": null
+      },
+      {
+        "id": "dublin-bars-3",
+        "name": "Guinness Storehouse",
+        "cityId": "dublin",
+        "categoryId": "bars",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Guinness%20Storehouse%2C%20Dublin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Guinness_Storehouse",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/Guinness_Storehouse_exterior_3.jpg/960px-Guinness_Storehouse_exterior_3.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Guinness_Storehouse"
+        }
+      },
+      {
+        "id": "dublin-bars-4",
+        "name": "Dublin Airport bombing",
+        "cityId": "dublin",
+        "categoryId": "bars",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Dublin%20Airport%20bombing%2C%20Dublin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Dublin_Airport_bombing",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/Dublin_Airport_1971_01_%40chesi.jpg/960px-Dublin_Airport_1971_01_%40chesi.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Dublin_Airport_bombing"
+        }
+      },
+      {
+        "id": "dublin-bars-5",
+        "name": "Bar of Ireland",
+        "cityId": "dublin",
+        "categoryId": "bars",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Bar%20of%20Ireland%2C%20Dublin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Bar_of_Ireland",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Bar_Council_of_Ireland%2C_Dublin.JPG/960px-Bar_Council_of_Ireland%2C_Dublin.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Bar_of_Ireland"
+        }
+      },
+      {
+        "id": "dublin-bars-6",
+        "name": "King's Inns",
+        "cityId": "dublin",
+        "categoryId": "bars",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=King's%20Inns%2C%20Dublin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/King's_Inns",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Kings_inn_Dublin_Ireland.jpg/960px-Kings_inn_Dublin_Ireland.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/King's_Inns"
+        }
+      },
+      {
+        "id": "dublin-bars-7",
+        "name": "Temple Bar Gallery and Studios",
+        "cityId": "dublin",
+        "categoryId": "bars",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Temple%20Bar%20Gallery%20and%20Studios%2C%20Dublin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Temple_Bar_Gallery_and_Studios",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/en/3/3d/Temple_Bar_Gallery_and_Studios.gif?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Temple_Bar_Gallery_and_Studios"
+        }
+      },
+      {
+        "id": "dublin-bars-8",
+        "name": "RTÉ Studio bombing",
+        "cityId": "dublin",
+        "categoryId": "bars",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=RT%C3%89%20Studio%20bombing%2C%20Dublin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/RT%C3%89_Studio_bombing",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Montrose_Studios_Donnybrook_2.jpg/960px-Montrose_Studios_Donnybrook_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/RT%C3%89_Studio_bombing"
+        }
+      },
+      {
+        "id": "dublin-bars-9",
+        "name": "Chichester House",
+        "cityId": "dublin",
+        "categoryId": "bars",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Chichester%20House%2C%20Dublin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Chichester_House",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/76/Parlement_D%27Irlande.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Chichester_House"
+        }
+      },
+      {
+        "id": "dublin-bars-10",
+        "name": "Crampton Court, Dublin",
+        "cityId": "dublin",
+        "categoryId": "bars",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Crampton%20Court%2C%20Dublin%2C%20Dublin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Crampton_Court%2C_Dublin",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Crampton_Court%2C_Dublin%2C_Ireland._7.jpg/960px-Crampton_Court%2C_Dublin%2C_Ireland._7.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Crampton_Court%2C_Dublin"
+        }
+      },
+      {
+        "id": "dublin-bars-11",
+        "name": "PhotoIreland",
+        "cityId": "dublin",
+        "categoryId": "bars",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=PhotoIreland%2C%20Dublin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/PhotoIreland",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/PhotoIreland_logo.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/PhotoIreland"
+        }
+      },
+      {
+        "id": "dublin-bars-12",
+        "name": "The George, Dublin",
+        "cityId": "dublin",
+        "categoryId": "bars",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20George%2C%20Dublin%2C%20Dublin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/The_George%2C_Dublin",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/The_George%2C_Dublin.JPG/960px-The_George%2C_Dublin.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/The_George%2C_Dublin"
+        }
+      },
+      {
+        "id": "dublin-bars-13",
+        "name": "1981 Irish general election",
+        "cityId": "dublin",
+        "categoryId": "bars",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=1981%20Irish%20general%20election%2C%20Dublin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/1981_Irish_general_election",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Charles_Haughey_1983_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/1981_Irish_general_election"
+        }
+      },
+      {
+        "id": "dublin-bars-14",
+        "name": "Declan Buckley",
+        "cityId": "dublin",
+        "categoryId": "bars",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Declan%20Buckley%2C%20Dublin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Declan_Buckley",
+        "photo": null
+      },
+      {
+        "id": "dublin-bars-15",
+        "name": "Bar of Northern Ireland",
+        "cityId": "dublin",
+        "categoryId": "bars",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Bar%20of%20Northern%20Ireland%2C%20Dublin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Bar_of_Northern_Ireland",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Logo_of_the_Bar_of_Northern_Ireland.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Bar_of_Northern_Ireland"
+        }
+      },
+      {
+        "id": "dublin-bars-16",
+        "name": "Belturbet bombing",
+        "cityId": "dublin",
+        "categoryId": "bars",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Belturbet%20bombing%2C%20Dublin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Belturbet_bombing",
+        "photo": null
+      },
+      {
+        "id": "dublin-bars-17",
+        "name": "Cadbury Ireland",
+        "cityId": "dublin",
+        "categoryId": "bars",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Cadbury%20Ireland%2C%20Dublin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Cadbury_Ireland",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/15/Cadbury%27s_Factory%2C_Coolock_-_geograph.org.uk_-_517801.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Cadbury_Ireland"
+        }
+      },
+      {
+        "id": "dublin-bars-18",
+        "name": "November 1982 Irish general election",
+        "cityId": "dublin",
+        "categoryId": "bars",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=November%201982%20Irish%20general%20election%2C%20Dublin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/November_1982_Irish_general_election",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Charles_Haughey_1983_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/November_1982_Irish_general_election"
+        }
+      }
+    ],
+    "coffee_shops": [
+      {
+        "id": "dublin-coffee_shops-1",
+        "name": "Bewley's",
+        "cityId": "dublin",
+        "categoryId": "coffee_shops",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Bewley's%2C%20Dublin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Bewley's",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/en/thumb/8/81/BEWLEYS_Logo.jpg/960px-BEWLEYS_Logo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Bewley's"
+        }
+      },
+      {
+        "id": "dublin-coffee_shops-2",
+        "name": "Butlers Chocolates",
+        "cityId": "dublin",
+        "categoryId": "coffee_shops",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Butlers%20Chocolates%2C%20Dublin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Butlers_Chocolates",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Butlers_Chocolate_Cafe_%2823895611134%29.jpg/960px-Butlers_Chocolate_Cafe_%2823895611134%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Butlers_Chocolates"
+        }
+      },
+      {
+        "id": "dublin-coffee_shops-3",
+        "name": "The Helix, Dublin",
+        "cityId": "dublin",
+        "categoryId": "coffee_shops",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Helix%2C%20Dublin%2C%20Dublin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/The_Helix%2C_Dublin",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/89/The_Helix_%2C_Dublin_City_University_-_geograph.org.uk_-_517797.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/The_Helix%2C_Dublin"
+        }
+      },
+      {
+        "id": "dublin-coffee_shops-4",
+        "name": "Ardgillan Castle",
+        "cityId": "dublin",
+        "categoryId": "coffee_shops",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Ardgillan%20Castle%2C%20Dublin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Ardgillan_Castle",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Balbriggan_-_Ardgillan_Castle_-_20190707185541.jpg/960px-Balbriggan_-_Ardgillan_Castle_-_20190707185541.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Ardgillan_Castle"
+        }
+      },
+      {
+        "id": "dublin-coffee_shops-5",
+        "name": "Dunnes Stores",
+        "cityId": "dublin",
+        "categoryId": "coffee_shops",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Dunnes%20Stores%2C%20Dublin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Dunnes_Stores",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/Dunnes_Stores_head_office.jpg/960px-Dunnes_Stores_head_office.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Dunnes_Stores"
+        }
+      },
+      {
+        "id": "dublin-coffee_shops-6",
+        "name": "Oliver Dunne",
+        "cityId": "dublin",
+        "categoryId": "coffee_shops",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Oliver%20Dunne%2C%20Dublin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Oliver_Dunne",
+        "photo": null
+      },
+      {
+        "id": "dublin-coffee_shops-7",
+        "name": "Ryle Nugent",
+        "cityId": "dublin",
+        "categoryId": "coffee_shops",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Ryle%20Nugent%2C%20Dublin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Ryle_Nugent",
+        "photo": null
+      },
+      {
+        "id": "dublin-coffee_shops-8",
+        "name": "For the Love of Music",
+        "cityId": "dublin",
+        "categoryId": "coffee_shops",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=For%20the%20Love%20of%20Music%2C%20Dublin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/For_the_Love_of_Music",
+        "photo": null
+      },
+      {
+        "id": "dublin-coffee_shops-9",
+        "name": "Carlow railway station",
+        "cityId": "dublin",
+        "categoryId": "coffee_shops",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Carlow%20railway%20station%2C%20Dublin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Carlow_railway_station",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/88/Carlow_railway_station_%28geograph_3207947%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Carlow_railway_station"
+        }
+      },
+      {
+        "id": "dublin-coffee_shops-10",
+        "name": "Birr Castle",
+        "cityId": "dublin",
+        "categoryId": "coffee_shops",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Birr%20Castle%2C%20Dublin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Birr_Castle",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/61/Birr_Castle%2C_Offaly.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Birr_Castle"
+        }
+      },
+      {
+        "id": "dublin-coffee_shops-11",
+        "name": "Perrystown",
+        "cityId": "dublin",
+        "categoryId": "coffee_shops",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Perrystown%2C%20Dublin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Perrystown",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Perrystown_shops_on_Whitehall_Road_West_in_Dublin.jpg/960px-Perrystown_shops_on_Whitehall_Road_West_in_Dublin.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Perrystown"
+        }
+      },
+      {
+        "id": "dublin-coffee_shops-12",
+        "name": "Saint Enda's Park",
+        "cityId": "dublin",
+        "categoryId": "coffee_shops",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Saint%20Enda's%20Park%2C%20Dublin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Saint_Enda's_Park",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Yew_hedge%2C_formal_garden_of_Pearse_Museum.JPG/960px-Yew_hedge%2C_formal_garden_of_Pearse_Museum.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Saint_Enda's_Park"
+        }
+      },
+      {
+        "id": "dublin-coffee_shops-13",
+        "name": "Clonmel railway station",
+        "cityId": "dublin",
+        "categoryId": "coffee_shops",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Clonmel%20railway%20station%2C%20Dublin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Clonmel_railway_station",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/2726_Clonmel.jpg/960px-2726_Clonmel.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Clonmel_railway_station"
+        }
+      },
+      {
+        "id": "dublin-coffee_shops-14",
+        "name": "Paul Durcan",
+        "cityId": "dublin",
+        "categoryId": "coffee_shops",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Paul%20Durcan%2C%20Dublin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Paul_Durcan",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Paul_Durcan.jpg/960px-Paul_Durcan.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Paul_Durcan"
+        }
+      },
+      {
+        "id": "dublin-coffee_shops-15",
+        "name": "The Auld Triangle",
+        "cityId": "dublin",
+        "categoryId": "coffee_shops",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Auld%20Triangle%2C%20Dublin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/The_Auld_Triangle",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/49/Mountjoy_Jail_and_Prison_Van.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/The_Auld_Triangle"
+        }
+      },
+      {
+        "id": "dublin-coffee_shops-16",
+        "name": "O'Briens Irish Sandwich Bars",
+        "cityId": "dublin",
+        "categoryId": "coffee_shops",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=O'Briens%20Irish%20Sandwich%20Bars%2C%20Dublin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/O'Briens_Irish_Sandwich_Bars",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/ObriensIrishSandwichBars_BallsbridgeKiosk.JPG/960px-ObriensIrishSandwichBars_BallsbridgeKiosk.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/O'Briens_Irish_Sandwich_Bars"
+        }
+      },
+      {
+        "id": "dublin-coffee_shops-17",
+        "name": "St Mary's Cathedral, Edinburgh",
+        "cityId": "dublin",
+        "categoryId": "coffee_shops",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=St%20Mary's%20Cathedral%2C%20Edinburgh%2C%20Dublin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/St_Mary's_Cathedral%2C_Edinburgh_(Catholic)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/St_Mary%27s_Roman_Catholic_Cathedral_Edinburgh_2.JPG/960px-St_Mary%27s_Roman_Catholic_Cathedral_Edinburgh_2.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/St_Mary's_Cathedral%2C_Edinburgh_(Catholic)"
+        }
+      },
+      {
+        "id": "dublin-coffee_shops-18",
+        "name": "Donaghmede Shopping Centre",
+        "cityId": "dublin",
+        "categoryId": "coffee_shops",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Donaghmede%20Shopping%20Centre%2C%20Dublin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Donaghmede_Shopping_Centre",
+        "photo": null
+      }
+    ],
+    "bookshops": [
+      {
+        "id": "dublin-bookshops-1",
+        "name": "Eason & Son",
+        "cityId": "dublin",
+        "categoryId": "bookshops",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Eason%20%26%20Son%2C%20Dublin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Eason_%26_Son",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/Eason_%288196331251%29.jpg/960px-Eason_%288196331251%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Eason_%26_Son"
+        }
+      },
+      {
+        "id": "dublin-bookshops-2",
+        "name": "Per Petterson",
+        "cityId": "dublin",
+        "categoryId": "bookshops",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Per%20Petterson%2C%20Dublin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Per_Petterson",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/Per_Petterson_vinnare_av_Nordiska_radets_litteraturpris_2009_vid_utdelningen_i_Stockholm_under_Nordiska_radets_session_%281%29.jpg/960px-Per_Petterson_vinnare_av_Nordiska_radets_litteraturpris_2009_vid_utdelningen_i_Stockholm_under_Nordiska_radets_session_%281%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Per_Petterson"
+        }
+      },
+      {
+        "id": "dublin-bookshops-3",
+        "name": "Dilys Winn",
+        "cityId": "dublin",
+        "categoryId": "bookshops",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Dilys%20Winn%2C%20Dublin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Dilys_Winn",
+        "photo": null
+      },
+      {
+        "id": "dublin-bookshops-4",
+        "name": "Forbidden Planet",
+        "cityId": "dublin",
+        "categoryId": "bookshops",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Forbidden%20Planet%2C%20Dublin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Forbidden_Planet_(retail_chain)",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/79/Forbidden_Planet_logo.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Forbidden_Planet_(retail_chain)"
+        }
+      },
+      {
+        "id": "dublin-bookshops-5",
+        "name": "Chapter",
+        "cityId": "dublin",
+        "categoryId": "bookshops",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Chapter%2C%20Dublin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Chapter",
+        "photo": null
+      },
+      {
+        "id": "dublin-bookshops-6",
+        "name": "WHSmith",
+        "cityId": "dublin",
+        "categoryId": "bookshops",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=WHSmith%2C%20Dublin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/WHSmith",
+        "photo": null
+      },
+      {
+        "id": "dublin-bookshops-7",
+        "name": "Sylvia Beach",
+        "cityId": "dublin",
+        "categoryId": "bookshops",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Sylvia%20Beach%2C%20Dublin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Sylvia_Beach",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/91/Sylvia_Beach_at_Shakespeare_%26_Co_Paris_1920.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Sylvia_Beach"
+        }
+      },
+      {
+        "id": "dublin-bookshops-8",
+        "name": "Chuffer Dandridge",
+        "cityId": "dublin",
+        "categoryId": "bookshops",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Chuffer%20Dandridge%2C%20Dublin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Chuffer_Dandridge",
+        "photo": null
+      },
+      {
+        "id": "dublin-bookshops-9",
+        "name": "MPH",
+        "cityId": "dublin",
+        "categoryId": "bookshops",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=MPH%2C%20Dublin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/MPH",
+        "photo": null
+      },
+      {
+        "id": "dublin-bookshops-10",
+        "name": "Sex shop",
+        "cityId": "dublin",
+        "categoryId": "bookshops",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Sex%20shop%2C%20Dublin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Sex_shop",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Sex-shops-on-boulevard-de-clichi.jpg/960px-Sex-shops-on-boulevard-de-clichi.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Sex_shop"
+        }
+      },
+      {
+        "id": "dublin-bookshops-11",
+        "name": "Eddie Kelliher",
+        "cityId": "dublin",
+        "categoryId": "bookshops",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Eddie%20Kelliher%2C%20Dublin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Eddie_Kelliher",
+        "photo": null
+      },
+      {
+        "id": "dublin-bookshops-12",
+        "name": "Liberties Press",
+        "cityId": "dublin",
+        "categoryId": "bookshops",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Liberties%20Press%2C%20Dublin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Liberties_Press",
+        "photo": null
+      },
+      {
+        "id": "dublin-bookshops-13",
+        "name": "2022 in Ireland",
+        "cityId": "dublin",
+        "categoryId": "bookshops",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=2022%20in%20Ireland%2C%20Dublin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/2022_in_Ireland",
+        "photo": null
+      },
+      {
+        "id": "dublin-bookshops-14",
+        "name": "John Daly Burk",
+        "cityId": "dublin",
+        "categoryId": "bookshops",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=John%20Daly%20Burk%2C%20Dublin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/John_Daly_Burk",
+        "photo": null
+      },
+      {
+        "id": "dublin-bookshops-15",
+        "name": "Wheeler",
+        "cityId": "dublin",
+        "categoryId": "bookshops",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Wheeler%2C%20Dublin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Wheeler",
+        "photo": null
+      },
+      {
+        "id": "dublin-bookshops-16",
+        "name": "Waterstones",
+        "cityId": "dublin",
+        "categoryId": "bookshops",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Waterstones%2C%20Dublin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Waterstones",
+        "photo": null
+      },
+      {
+        "id": "dublin-bookshops-17",
+        "name": "Ed O'Loughlin",
+        "cityId": "dublin",
+        "categoryId": "bookshops",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Ed%20O'Loughlin%2C%20Dublin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Ed_O'Loughlin",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/Ed_O%27_loughlin.jpg/960px-Ed_O%27_loughlin.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Ed_O'Loughlin"
+        }
+      },
+      {
+        "id": "dublin-bookshops-18",
+        "name": "Oscar Wilde",
+        "cityId": "dublin",
+        "categoryId": "bookshops",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Oscar%20Wilde%2C%20Dublin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Oscar_Wilde",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Oscar_Wilde_by_Napoleon_Sarony._Three-quarter-length_photograph%2C_seated_%28cropped%29.jpg/960px-Oscar_Wilde_by_Napoleon_Sarony._Three-quarter-length_photograph%2C_seated_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Oscar_Wilde"
+        }
+      }
+    ],
+    "museums": [
+      {
+        "id": "dublin-museums-1",
+        "name": "National Museum of Ireland",
+        "cityId": "dublin",
+        "categoryId": "museums",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=National%20Museum%20of%20Ireland%2C%20Dublin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/National_Museum_of_Ireland",
+        "photo": null
+      },
+      {
+        "id": "dublin-museums-2",
+        "name": "Irish Museum of Modern Art",
+        "cityId": "dublin",
+        "categoryId": "museums",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Irish%20Museum%20of%20Modern%20Art%2C%20Dublin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Irish_Museum_of_Modern_Art",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/en/f/f5/IMMA_logo_Dublin.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Irish_Museum_of_Modern_Art"
+        }
+      },
+      {
+        "id": "dublin-museums-3",
+        "name": "Museum of Literature Ireland",
+        "cityId": "dublin",
+        "categoryId": "museums",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Museum%20of%20Literature%20Ireland%2C%20Dublin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Museum_of_Literature_Ireland",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/03/UCDNewmanHouse.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Museum_of_Literature_Ireland"
+        }
+      },
+      {
+        "id": "dublin-museums-4",
+        "name": "Little Museum of Dublin",
+        "cityId": "dublin",
+        "categoryId": "museums",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Little%20Museum%20of%20Dublin%2C%20Dublin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Little_Museum_of_Dublin",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Little_Museum_of_Dublin.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Little_Museum_of_Dublin"
+        }
+      },
+      {
+        "id": "dublin-museums-5",
+        "name": "National Museum of Ireland – Archaeology",
+        "cityId": "dublin",
+        "categoryId": "museums",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=National%20Museum%20of%20Ireland%20%E2%80%93%20Archaeology%2C%20Dublin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/National_Museum_of_Ireland_%E2%80%93_Archaeology",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/National_Museum_of_Ireland.jpg/960px-National_Museum_of_Ireland.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/National_Museum_of_Ireland_%E2%80%93_Archaeology"
+        }
+      },
+      {
+        "id": "dublin-museums-6",
+        "name": "Arlen Ness",
+        "cityId": "dublin",
+        "categoryId": "museums",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Arlen%20Ness%2C%20Dublin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Arlen_Ness",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/Arlen_Ness_cropped.jpg/960px-Arlen_Ness_cropped.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Arlen_Ness"
+        }
+      },
+      {
+        "id": "dublin-museums-7",
+        "name": "Garda Museum",
+        "cityId": "dublin",
+        "categoryId": "museums",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Garda%20Museum%2C%20Dublin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Garda_Museum",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Garda_Museum%2C_Dublin.jpg/960px-Garda_Museum%2C_Dublin.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Garda_Museum"
+        }
+      },
+      {
+        "id": "dublin-museums-8",
+        "name": "Kilmainham",
+        "cityId": "dublin",
+        "categoryId": "museums",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Kilmainham%2C%20Dublin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Kilmainham",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/KilmainhamWM.jpg/960px-KilmainhamWM.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Kilmainham"
+        }
+      },
+      {
+        "id": "dublin-museums-9",
+        "name": "Dublin Writers Museum",
+        "cityId": "dublin",
+        "categoryId": "museums",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Dublin%20Writers%20Museum%2C%20Dublin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Dublin_Writers_Museum",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Dublin_September_2009_061_b_pt.jpg/960px-Dublin_September_2009_061_b_pt.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Dublin_Writers_Museum"
+        }
+      },
+      {
+        "id": "dublin-museums-10",
+        "name": "Croke Park",
+        "cityId": "dublin",
+        "categoryId": "museums",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Croke%20Park%2C%20Dublin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Croke_Park",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Croke_Park_from_the_Hill_-_2004_All-Ireland_Football_Championship_Final.jpg/960px-Croke_Park_from_the_Hill_-_2004_All-Ireland_Football_Championship_Final.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Croke_Park"
+        }
+      },
+      {
+        "id": "dublin-museums-11",
+        "name": "EPIC The Irish Emigration Museum",
+        "cityId": "dublin",
+        "categoryId": "museums",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=EPIC%20The%20Irish%20Emigration%20Museum%2C%20Dublin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/EPIC_The_Irish_Emigration_Museum",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Epic_Museum.jpg/960px-Epic_Museum.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/EPIC_The_Irish_Emigration_Museum"
+        }
+      },
+      {
+        "id": "dublin-museums-12",
+        "name": "Kilmainham Gaol",
+        "cityId": "dublin",
+        "categoryId": "museums",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Kilmainham%20Gaol%2C%20Dublin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Kilmainham_Gaol",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Kilmainham_Gaol_Main_Hall_2016-06-03.jpg/960px-Kilmainham_Gaol_Main_Hall_2016-06-03.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Kilmainham_Gaol"
+        }
+      },
+      {
+        "id": "dublin-museums-13",
+        "name": "National Library of Ireland",
+        "cityId": "dublin",
+        "categoryId": "museums",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=National%20Library%20of%20Ireland%2C%20Dublin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/National_Library_of_Ireland",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/National_Library_of_Ireland_logo.svg/960px-National_Library_of_Ireland_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/National_Library_of_Ireland"
+        }
+      },
+      {
+        "id": "dublin-museums-14",
+        "name": "Web Summit",
+        "cityId": "dublin",
+        "categoryId": "museums",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Web%20Summit%2C%20Dublin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Web_Summit",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Web_Summit_logo.svg/960px-Web_Summit_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Web_Summit"
+        }
+      },
+      {
+        "id": "dublin-museums-15",
+        "name": "Arbour Hill",
+        "cityId": "dublin",
+        "categoryId": "museums",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Arbour%20Hill%2C%20Dublin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Arbour_Hill",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/ArbourHillWM.jpg/960px-ArbourHillWM.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Arbour_Hill"
+        }
+      },
+      {
+        "id": "dublin-museums-16",
+        "name": "Dublinia",
+        "cityId": "dublin",
+        "categoryId": "museums",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Dublinia%2C%20Dublin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Dublinia",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Dublinia%2C_Dublin%2C_Southeast_View_20150808_1.jpg/960px-Dublinia%2C_Dublin%2C_Southeast_View_20150808_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Dublinia"
+        }
+      },
+      {
+        "id": "dublin-museums-17",
+        "name": "Number Twenty Nine: Georgian House Museum",
+        "cityId": "dublin",
+        "categoryId": "museums",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Number%20Twenty%20Nine%3A%20Georgian%20House%20Museum%2C%20Dublin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Number_Twenty_Nine%3A_Georgian_House_Museum",
+        "photo": null
+      },
+      {
+        "id": "dublin-museums-18",
+        "name": "Collins Barracks, Dublin",
+        "cityId": "dublin",
+        "categoryId": "museums",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Collins%20Barracks%2C%20Dublin%2C%20Dublin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Collins_Barracks%2C_Dublin",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Collins_Barracks_Museum_courtyard_west.jpg/960px-Collins_Barracks_Museum_courtyard_west.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Collins_Barracks%2C_Dublin"
+        }
+      }
+    ],
+    "concerts": [
+      {
+        "id": "dublin-concerts-1",
+        "name": "National Concert Hall",
+        "cityId": "dublin",
+        "categoryId": "concerts",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=National%20Concert%20Hall%2C%20Dublin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/National_Concert_Hall",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/Nch-exterior-night.jpg/960px-Nch-exterior-night.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/National_Concert_Hall"
+        }
+      },
+      {
+        "id": "dublin-concerts-2",
+        "name": "Harcourt Terrace",
+        "cityId": "dublin",
+        "categoryId": "concerts",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Harcourt%20Terrace%2C%20Dublin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Harcourt_Terrace",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/7_Harcourt_Terrace.jpg/960px-7_Harcourt_Terrace.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Harcourt_Terrace"
+        }
+      },
+      {
+        "id": "dublin-concerts-3",
+        "name": "Leinster Hall",
+        "cityId": "dublin",
+        "categoryId": "concerts",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Leinster%20Hall%2C%20Dublin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Leinster_Hall",
+        "photo": null
+      },
+      {
+        "id": "dublin-concerts-4",
+        "name": "RTÉ Concert Orchestra",
+        "cityId": "dublin",
+        "categoryId": "concerts",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=RT%C3%89%20Concert%20Orchestra%2C%20Dublin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/RT%C3%89_Concert_Orchestra",
+        "photo": null
+      },
+      {
+        "id": "dublin-concerts-5",
+        "name": "The Helix, Dublin",
+        "cityId": "dublin",
+        "categoryId": "concerts",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Helix%2C%20Dublin%2C%20Dublin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/The_Helix%2C_Dublin",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/89/The_Helix_%2C_Dublin_City_University_-_geograph.org.uk_-_517797.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/The_Helix%2C_Dublin"
+        }
+      },
+      {
+        "id": "dublin-concerts-6",
+        "name": "Dominican College Sion Hill",
+        "cityId": "dublin",
+        "categoryId": "concerts",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Dominican%20College%20Sion%20Hill%2C%20Dublin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Dominican_College_Sion_Hill",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e4/SionHillCollege.gif?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Dominican_College_Sion_Hill"
+        }
+      },
+      {
+        "id": "dublin-concerts-7",
+        "name": "Tivoli Variety Theatre",
+        "cityId": "dublin",
+        "categoryId": "concerts",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Tivoli%20Variety%20Theatre%2C%20Dublin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Tivoli_Variety_Theatre",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/Wait_Here_for_Early_Pit%21.jpg/960px-Wait_Here_for_Early_Pit%21.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Tivoli_Variety_Theatre"
+        }
+      },
+      {
+        "id": "dublin-concerts-8",
+        "name": "Earlsfort Terrace",
+        "cityId": "dublin",
+        "categoryId": "concerts",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Earlsfort%20Terrace%2C%20Dublin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Earlsfort_Terrace",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Dublin_City_Luftbild_%28125066041%29.jpeg/960px-Dublin_City_Luftbild_%28125066041%29.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Earlsfort_Terrace"
+        }
+      },
+      {
+        "id": "dublin-concerts-9",
+        "name": "Olympia Theatre, Dublin",
+        "cityId": "dublin",
+        "categoryId": "concerts",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Olympia%20Theatre%2C%20Dublin%2C%20Dublin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Olympia_Theatre%2C_Dublin",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Olympia_Theatre_Dublin_entrance_in_2009.JPG/960px-Olympia_Theatre_Dublin_entrance_in_2009.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Olympia_Theatre%2C_Dublin"
+        }
+      },
+      {
+        "id": "dublin-concerts-10",
+        "name": "National Symphony Orchestra",
+        "cityId": "dublin",
+        "categoryId": "concerts",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=National%20Symphony%20Orchestra%2C%20Dublin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/National_Symphony_Orchestra_(Ireland)",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/2a/RT%C3%89_National_Symphony_Orchestra_Image.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/National_Symphony_Orchestra_(Ireland)"
+        }
+      },
+      {
+        "id": "dublin-concerts-11",
+        "name": "Irish National Opera",
+        "cityId": "dublin",
+        "categoryId": "concerts",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Irish%20National%20Opera%2C%20Dublin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Irish_National_Opera",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Gaiety_Theatre%2C_Dublin.JPG/960px-Gaiety_Theatre%2C_Dublin.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Irish_National_Opera"
+        }
+      },
+      {
+        "id": "dublin-concerts-12",
+        "name": "Veronica Dunne",
+        "cityId": "dublin",
+        "categoryId": "concerts",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Veronica%20Dunne%2C%20Dublin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Veronica_Dunne_(soprano)",
+        "photo": null
+      },
+      {
+        "id": "dublin-concerts-13",
+        "name": "Irish Baroque Orchestra",
+        "cityId": "dublin",
+        "categoryId": "concerts",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Irish%20Baroque%20Orchestra%2C%20Dublin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Irish_Baroque_Orchestra",
+        "photo": null
+      },
+      {
+        "id": "dublin-concerts-14",
+        "name": "Paul Noonan",
+        "cityId": "dublin",
+        "categoryId": "concerts",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Paul%20Noonan%2C%20Dublin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Paul_Noonan",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Paul_Noonan_of_Bell_X1.jpg/960px-Paul_Noonan_of_Bell_X1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Paul_Noonan"
+        }
+      },
+      {
+        "id": "dublin-concerts-15",
+        "name": "Iveagh Gardens",
+        "cityId": "dublin",
+        "categoryId": "concerts",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Iveagh%20Gardens%2C%20Dublin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Iveagh_Gardens",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/Waterfall_in_Iveagh_Gardens.jpg/960px-Waterfall_in_Iveagh_Gardens.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Iveagh_Gardens"
+        }
+      },
+      {
+        "id": "dublin-concerts-16",
+        "name": "Cór na nÓg",
+        "cityId": "dublin",
+        "categoryId": "concerts",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=C%C3%B3r%20na%20n%C3%93g%2C%20Dublin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/C%C3%B3r_na_n%C3%93g",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e5/RT%C3%89_C%C3%B3r_na_n%C3%93g_Image.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/C%C3%B3r_na_n%C3%93g"
+        }
+      },
+      {
+        "id": "dublin-concerts-17",
+        "name": "RTÉ Performing Groups",
+        "cityId": "dublin",
+        "categoryId": "concerts",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=RT%C3%89%20Performing%20Groups%2C%20Dublin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/RT%C3%89_Performing_Groups",
+        "photo": null
+      },
+      {
+        "id": "dublin-concerts-18",
+        "name": "Mechanics' Theatre",
+        "cityId": "dublin",
+        "categoryId": "concerts",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Mechanics'%20Theatre%2C%20Dublin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Mechanics'_Theatre",
+        "photo": null
+      }
+    ],
+    "fashion": [
+      {
+        "id": "dublin-fashion-1",
+        "name": "Simpson's",
+        "cityId": "dublin",
+        "categoryId": "fashion",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Simpson's%2C%20Dublin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Simpson's_(disambiguation)",
+        "photo": null
+      },
+      {
+        "id": "dublin-fashion-2",
+        "name": "The Simpsons",
+        "cityId": "dublin",
+        "categoryId": "fashion",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Simpsons%2C%20Dublin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/The_Simpsons_(disambiguation)",
+        "photo": null
+      },
+      {
+        "id": "dublin-fashion-3",
+        "name": "A Wear",
+        "cityId": "dublin",
+        "categoryId": "fashion",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=A%20Wear%2C%20Dublin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/A_Wear",
+        "photo": null
+      },
+      {
+        "id": "dublin-fashion-4",
+        "name": "Heidi Fleiss",
+        "cityId": "dublin",
+        "categoryId": "fashion",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Heidi%20Fleiss%2C%20Dublin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Heidi_Fleiss",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/23/Heidifleiss.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Heidi_Fleiss"
+        }
+      },
+      {
+        "id": "dublin-fashion-5",
+        "name": "Crescent Shopping Centre",
+        "cityId": "dublin",
+        "categoryId": "fashion",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Crescent%20Shopping%20Centre%2C%20Dublin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Crescent_Shopping_Centre",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/Crescent-limerick-2023.png/960px-Crescent-limerick-2023.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Crescent_Shopping_Centre"
+        }
+      },
+      {
+        "id": "dublin-fashion-6",
+        "name": "Tailored Brands",
+        "cityId": "dublin",
+        "categoryId": "fashion",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Tailored%20Brands%2C%20Dublin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Tailored_Brands",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/A_Men%27s_Wearhouse_apparel_store_in_Greenville%2C_South_Carolina_05.jpg/960px-A_Men%27s_Wearhouse_apparel_store_in_Greenville%2C_South_Carolina_05.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Tailored_Brands"
+        }
+      },
+      {
+        "id": "dublin-fashion-7",
+        "name": "Ghost sign",
+        "cityId": "dublin",
+        "categoryId": "fashion",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Ghost%20sign%2C%20Dublin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Ghost_sign",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Biles_Beans_sign_York_2012.jpg/960px-Biles_Beans_sign_York_2012.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Ghost_sign"
+        }
+      },
+      {
+        "id": "dublin-fashion-8",
+        "name": "Bill C. Davis",
+        "cityId": "dublin",
+        "categoryId": "fashion",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Bill%20C.%20Davis%2C%20Dublin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Bill_C._Davis",
+        "photo": null
+      },
+      {
+        "id": "dublin-fashion-9",
+        "name": "Buildering",
+        "cityId": "dublin",
+        "categoryId": "fashion",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Buildering%2C%20Dublin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Buildering",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/86/Buildering_On_Doran_Bridge.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Buildering"
+        }
+      },
+      {
+        "id": "dublin-fashion-10",
+        "name": "Maureen O'Hara",
+        "cityId": "dublin",
+        "categoryId": "fashion",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Maureen%20O'Hara%2C%20Dublin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Maureen_O'Hara",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/Maureen_O%27Hara_1947_2.jpg/960px-Maureen_O%27Hara_1947_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Maureen_O'Hara"
+        }
+      },
+      {
+        "id": "dublin-fashion-11",
+        "name": "Jon Moss",
+        "cityId": "dublin",
+        "categoryId": "fashion",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Jon%20Moss%2C%20Dublin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Jon_Moss",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Jon_Moss_%282011%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Jon_Moss"
+        }
+      },
+      {
+        "id": "dublin-fashion-12",
+        "name": "Special routes of U.S. Route 67",
+        "cityId": "dublin",
+        "categoryId": "fashion",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Special%20routes%20of%20U.S.%20Route%2067%2C%20Dublin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Special_routes_of_U.S._Route_67",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/US_67.svg/960px-US_67.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Special_routes_of_U.S._Route_67"
+        }
+      },
+      {
+        "id": "dublin-fashion-13",
+        "name": "The Other Side of Hope",
+        "cityId": "dublin",
+        "categoryId": "fashion",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Other%20Side%20of%20Hope%2C%20Dublin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/The_Other_Side_of_Hope",
+        "photo": null
+      },
+      {
+        "id": "dublin-fashion-14",
+        "name": "Eric N. Mack",
+        "cityId": "dublin",
+        "categoryId": "fashion",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Eric%20N.%20Mack%2C%20Dublin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Eric_N._Mack",
+        "photo": null
+      },
+      {
+        "id": "dublin-fashion-15",
+        "name": "Letterkenny",
+        "cityId": "dublin",
+        "categoryId": "fashion",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Letterkenny%2C%20Dublin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Letterkenny",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/LetterkennyMontage.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Letterkenny"
+        }
+      },
+      {
+        "id": "dublin-fashion-16",
+        "name": "Filene's",
+        "cityId": "dublin",
+        "categoryId": "fashion",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Filene's%2C%20Dublin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Filene's",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Filenes.png/960px-Filenes.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Filene's"
+        }
+      },
+      {
+        "id": "dublin-fashion-17",
+        "name": "Tinsel Town",
+        "cityId": "dublin",
+        "categoryId": "fashion",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Tinsel%20Town%2C%20Dublin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Tinsel_Town_(TV_series)",
+        "photo": null
+      },
+      {
+        "id": "dublin-fashion-18",
+        "name": "Robert Towne",
+        "cityId": "dublin",
+        "categoryId": "fashion",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Robert%20Towne%2C%20Dublin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Robert_Towne",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Robert_Towne_1_3.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Robert_Towne"
+        }
+      }
+    ],
+    "shops": [
+      {
+        "id": "dublin-shops-1",
+        "name": "Primark",
+        "cityId": "dublin",
+        "categoryId": "shops",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Primark%2C%20Dublin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Primark",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Penney%27s%2C_Mary_Street%2C_Dublin.jpg/960px-Penney%27s%2C_Mary_Street%2C_Dublin.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Primark"
+        }
+      },
+      {
+        "id": "dublin-shops-2",
+        "name": "Dunnes Stores",
+        "cityId": "dublin",
+        "categoryId": "shops",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Dunnes%20Stores%2C%20Dublin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Dunnes_Stores",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/Dunnes_Stores_head_office.jpg/960px-Dunnes_Stores_head_office.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Dunnes_Stores"
+        }
+      },
+      {
+        "id": "dublin-shops-3",
+        "name": "Jameson Distillery Bow St.",
+        "cityId": "dublin",
+        "categoryId": "shops",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Jameson%20Distillery%20Bow%20St.%2C%20Dublin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Jameson_Distillery_Bow_St.",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/Jameson_distillery_2.jpg/960px-Jameson_distillery_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Jameson_Distillery_Bow_St."
+        }
+      },
+      {
+        "id": "dublin-shops-4",
+        "name": "Michael Dawson",
+        "cityId": "dublin",
+        "categoryId": "shops",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Michael%20Dawson%2C%20Dublin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Michael_Dawson_(businessman)",
+        "photo": null
+      },
+      {
+        "id": "dublin-shops-5",
+        "name": "Dolphin's Barn",
+        "cityId": "dublin",
+        "categoryId": "shops",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Dolphin's%20Barn%2C%20Dublin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Dolphin's_Barn",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/The_Grand_Canal%2C_Dublin_at_Dolphin_House.jpg/960px-The_Grand_Canal%2C_Dublin_at_Dolphin_House.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Dolphin's_Barn"
+        }
+      },
+      {
+        "id": "dublin-shops-6",
+        "name": "National Register of Historic Places listings in Cheshire County, New Hampshire",
+        "cityId": "dublin",
+        "categoryId": "shops",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=National%20Register%20of%20Historic%20Places%20listings%20in%20Cheshire%20County%2C%20New%20Hampshire%2C%20Dublin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/National_Register_of_Historic_Places_listings_in_Cheshire_County%2C_New_Hampshire",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/Map_of_New_Hampshire_highlighting_Cheshire_County.svg/960px-Map_of_New_Hampshire_highlighting_Cheshire_County.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/National_Register_of_Historic_Places_listings_in_Cheshire_County%2C_New_Hampshire"
+        }
+      },
+      {
+        "id": "dublin-shops-7",
+        "name": "1958 in Ireland",
+        "cityId": "dublin",
+        "categoryId": "shops",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=1958%20in%20Ireland%2C%20Dublin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/1958_in_Ireland",
+        "photo": null
+      },
+      {
+        "id": "dublin-shops-8",
+        "name": "Johnstown, County Kildare",
+        "cityId": "dublin",
+        "categoryId": "shops",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Johnstown%2C%20County%20Kildare%2C%20Dublin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Johnstown%2C_County_Kildare",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Main_Street%2C_Johnstown%2C_Co._Kildare.jpg/960px-Main_Street%2C_Johnstown%2C_Co._Kildare.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Johnstown%2C_County_Kildare"
+        }
+      },
+      {
+        "id": "dublin-shops-9",
+        "name": "Streamstown, County Westmeath",
+        "cityId": "dublin",
+        "categoryId": "shops",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Streamstown%2C%20County%20Westmeath%2C%20Dublin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Streamstown%2C_County_Westmeath",
+        "photo": null
+      },
+      {
+        "id": "dublin-shops-10",
+        "name": "Glenealy, County Wicklow",
+        "cityId": "dublin",
+        "categoryId": "shops",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Glenealy%2C%20County%20Wicklow%2C%20Dublin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Glenealy%2C_County_Wicklow",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/IMGlenealy_4240w.JPG/960px-IMGlenealy_4240w.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Glenealy%2C_County_Wicklow"
+        }
+      },
+      {
+        "id": "dublin-shops-11",
+        "name": "Mick Finnegan",
+        "cityId": "dublin",
+        "categoryId": "shops",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Mick%20Finnegan%2C%20Dublin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Mick_Finnegan",
+        "photo": null
+      },
+      {
+        "id": "dublin-shops-12",
+        "name": "Hodges Figgis",
+        "cityId": "dublin",
+        "categoryId": "shops",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Hodges%20Figgis%2C%20Dublin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Hodges_Figgis",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Hodges_Figgis.jpg/960px-Hodges_Figgis.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Hodges_Figgis"
+        }
+      },
+      {
+        "id": "dublin-shops-13",
+        "name": "Marlay Park",
+        "cityId": "dublin",
+        "categoryId": "shops",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Marlay%20Park%2C%20Dublin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Marlay_Park",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/Waterfall_in_Marlay_Park.jpg/960px-Waterfall_in_Marlay_Park.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Marlay_Park"
+        }
+      },
+      {
+        "id": "dublin-shops-14",
+        "name": "Holman & Merriman Machine Shop",
+        "cityId": "dublin",
+        "categoryId": "shops",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Holman%20%26%20Merriman%20Machine%20Shop%2C%20Dublin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Holman_%26_Merriman_Machine_Shop",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/HinsdaleNH_DerbyShop.jpg/960px-HinsdaleNH_DerbyShop.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Holman_%26_Merriman_Machine_Shop"
+        }
+      },
+      {
+        "id": "dublin-shops-15",
+        "name": "Kilbride, County Wicklow",
+        "cityId": "dublin",
+        "categoryId": "shops",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Kilbride%2C%20County%20Wicklow%2C%20Dublin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Kilbride%2C_County_Wicklow",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Manor_Kilbride_Church_Co_Wicklow_-_geograph.org.uk_-_264998.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Kilbride%2C_County_Wicklow"
+        }
+      },
+      {
+        "id": "dublin-shops-16",
+        "name": "Conrad Gallagher",
+        "cityId": "dublin",
+        "categoryId": "shops",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Conrad%20Gallagher%2C%20Dublin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Conrad_Gallagher",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Chef_Conrad_Gallagher.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Conrad_Gallagher"
+        }
+      },
+      {
+        "id": "dublin-shops-17",
+        "name": "Craigavon mobile shop killings",
+        "cityId": "dublin",
+        "categoryId": "shops",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Craigavon%20mobile%20shop%20killings%2C%20Dublin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Craigavon_mobile_shop_killings",
+        "photo": null
+      },
+      {
+        "id": "dublin-shops-18",
+        "name": "Deacon Abijah Richardson House",
+        "cityId": "dublin",
+        "categoryId": "shops",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Deacon%20Abijah%20Richardson%20House%2C%20Dublin",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Deacon_Abijah_Richardson_House",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/DublinNH_DeaconAbijahRichardsonHouse.jpg/960px-DublinNH_DeaconAbijahRichardsonHouse.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Deacon_Abijah_Richardson_House"
+        }
+      }
+    ]
+  }
+}

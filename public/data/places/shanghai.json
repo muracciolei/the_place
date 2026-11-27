@@ -1,0 +1,2403 @@
+{
+  "cityId": "shanghai",
+  "generatedAt": "2026-11-27T09:30:07.971Z",
+  "source": "Wikipedia API + Maps URLs (sin scraping de Google)",
+  "incomplete": [],
+  "categories": {
+    "night_clubs": [
+      {
+        "id": "shanghai-night_clubs-1",
+        "name": "Forbidden City",
+        "cityId": "shanghai",
+        "categoryId": "night_clubs",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Forbidden%20City%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Forbidden_City_(nightclub)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Charlie_Low%27s_Forbidden_City.jpg/960px-Charlie_Low%27s_Forbidden_City.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Forbidden_City_(nightclub)"
+        }
+      },
+      {
+        "id": "shanghai-night_clubs-2",
+        "name": "Paramount",
+        "cityId": "shanghai",
+        "categoryId": "night_clubs",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Paramount%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Paramount_(Shanghai)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/The_Paramount%2C_Shanghai.JPG/960px-The_Paramount%2C_Shanghai.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Paramount_(Shanghai)"
+        }
+      },
+      {
+        "id": "shanghai-night_clubs-3",
+        "name": "The White Countess",
+        "cityId": "shanghai",
+        "categoryId": "night_clubs",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20White%20Countess%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/The_White_Countess",
+        "photo": null
+      },
+      {
+        "id": "shanghai-night_clubs-4",
+        "name": "Legend of the Fist: The Return of Chen Zhen",
+        "cityId": "shanghai",
+        "categoryId": "night_clubs",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Legend%20of%20the%20Fist%3A%20The%20Return%20of%20Chen%20Zhen%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Legend_of_the_Fist%3A_The_Return_of_Chen_Zhen",
+        "photo": null
+      },
+      {
+        "id": "shanghai-night_clubs-5",
+        "name": "Romance in the Rain",
+        "cityId": "shanghai",
+        "categoryId": "night_clubs",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Romance%20in%20the%20Rain%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Romance_in_the_Rain",
+        "photo": null
+      },
+      {
+        "id": "shanghai-night_clubs-6",
+        "name": "She Learned About Sailors",
+        "cityId": "shanghai",
+        "categoryId": "night_clubs",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=She%20Learned%20About%20Sailors%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/She_Learned_About_Sailors",
+        "photo": null
+      },
+      {
+        "id": "shanghai-night_clubs-7",
+        "name": "Hakkasan",
+        "cityId": "shanghai",
+        "categoryId": "night_clubs",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Hakkasan%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Hakkasan",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Hakkasan_London_-_3.jpg/960px-Hakkasan_London_-_3.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Hakkasan"
+        }
+      },
+      {
+        "id": "shanghai-night_clubs-8",
+        "name": "Affair of Half a Lifetime",
+        "cityId": "shanghai",
+        "categoryId": "night_clubs",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Affair%20of%20Half%20a%20Lifetime%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Affair_of_Half_a_Lifetime",
+        "photo": null
+      },
+      {
+        "id": "shanghai-night_clubs-9",
+        "name": "International Settlement",
+        "cityId": "shanghai",
+        "categoryId": "night_clubs",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=International%20Settlement%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/International_Settlement_(film)",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/40/International_Settlement_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/International_Settlement_(film)"
+        }
+      },
+      {
+        "id": "shanghai-night_clubs-10",
+        "name": "Fisherman's Village",
+        "cityId": "shanghai",
+        "categoryId": "night_clubs",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Fisherman's%20Village%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Fisherman's_Village",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/92/Fishermen%27s_Village_Lighthouse.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Fisherman's_Village"
+        }
+      },
+      {
+        "id": "shanghai-night_clubs-11",
+        "name": "Secret Agent of Japan",
+        "cityId": "shanghai",
+        "categoryId": "night_clubs",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Secret%20Agent%20of%20Japan%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Secret_Agent_of_Japan",
+        "photo": null
+      },
+      {
+        "id": "shanghai-night_clubs-12",
+        "name": "Mona Fong",
+        "cityId": "shanghai",
+        "categoryId": "night_clubs",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Mona%20Fong%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Mona_Fong",
+        "photo": null
+      },
+      {
+        "id": "shanghai-night_clubs-13",
+        "name": "Saint Nicholas' Church, Shanghai",
+        "cityId": "shanghai",
+        "categoryId": "night_clubs",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Saint%20Nicholas'%20Church%2C%20Shanghai%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Saint_Nicholas'_Church%2C_Shanghai",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Saint_Nicholas%27_Church%2C_Shanghai_20210131.jpg/960px-Saint_Nicholas%27_Church%2C_Shanghai_20210131.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Saint_Nicholas'_Church%2C_Shanghai"
+        }
+      },
+      {
+        "id": "shanghai-night_clubs-14",
+        "name": "Eric Lux",
+        "cityId": "shanghai",
+        "categoryId": "night_clubs",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Eric%20Lux%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Eric_Lux",
+        "photo": null
+      },
+      {
+        "id": "shanghai-night_clubs-15",
+        "name": "Shanghai Triad",
+        "cityId": "shanghai",
+        "categoryId": "night_clubs",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Shanghai%20Triad%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Shanghai_Triad",
+        "photo": null
+      },
+      {
+        "id": "shanghai-night_clubs-16",
+        "name": "Shanghai Blues",
+        "cityId": "shanghai",
+        "categoryId": "night_clubs",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Shanghai%20Blues%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Shanghai_Blues",
+        "photo": null
+      },
+      {
+        "id": "shanghai-night_clubs-17",
+        "name": "Hobo's",
+        "cityId": "shanghai",
+        "categoryId": "night_clubs",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Hobo's%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Hobo's",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Hobo%27s%2C_Portland%2C_2017.jpg/960px-Hobo%27s%2C_Portland%2C_2017.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Hobo's"
+        }
+      },
+      {
+        "id": "shanghai-night_clubs-18",
+        "name": "Planning permission",
+        "cityId": "shanghai",
+        "categoryId": "night_clubs",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Planning%20permission%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Planning_permission",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/One57_under_construction_3_November_2012.jpeg/960px-One57_under_construction_3_November_2012.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Planning_permission"
+        }
+      }
+    ],
+    "restaurants": [
+      {
+        "id": "shanghai-restaurants-1",
+        "name": "Hobo's",
+        "cityId": "shanghai",
+        "categoryId": "restaurants",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Hobo's%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Hobo's",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Hobo%27s%2C_Portland%2C_2017.jpg/960px-Hobo%27s%2C_Portland%2C_2017.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Hobo's"
+        }
+      },
+      {
+        "id": "shanghai-restaurants-2",
+        "name": "Shanghai Tower",
+        "cityId": "shanghai",
+        "categoryId": "restaurants",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Shanghai%20Tower%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Shanghai_Tower",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/20191114_Shanghai_Tower_%282%29.jpg/960px-20191114_Shanghai_Tower_%282%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Shanghai_Tower"
+        }
+      },
+      {
+        "id": "shanghai-restaurants-3",
+        "name": "Shanghai Tunnel Bar",
+        "cityId": "shanghai",
+        "categoryId": "restaurants",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Shanghai%20Tunnel%20Bar%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Shanghai_Tunnel_Bar",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Portland%2C_Oregon_%28July_2023%29_-_133.jpg/960px-Portland%2C_Oregon_%28July_2023%29_-_133.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Shanghai_Tunnel_Bar"
+        }
+      },
+      {
+        "id": "shanghai-restaurants-4",
+        "name": "Joe's Shanghai",
+        "cityId": "shanghai",
+        "categoryId": "restaurants",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Joe's%20Shanghai%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Joe's_Shanghai",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/27/Soup_dumplings.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Joe's_Shanghai"
+        }
+      },
+      {
+        "id": "shanghai-restaurants-5",
+        "name": "Hengshan Road",
+        "cityId": "shanghai",
+        "categoryId": "restaurants",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Hengshan%20Road%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Hengshan_Road",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Street_View_of_Hengshan_Rd..JPG/960px-Street_View_of_Hengshan_Rd..JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Hengshan_Road"
+        }
+      },
+      {
+        "id": "shanghai-restaurants-6",
+        "name": "Motel 168",
+        "cityId": "shanghai",
+        "categoryId": "restaurants",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Motel%20168%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Motel_168",
+        "photo": null
+      },
+      {
+        "id": "shanghai-restaurants-7",
+        "name": "Jade Buddha Temple",
+        "cityId": "shanghai",
+        "categoryId": "restaurants",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Jade%20Buddha%20Temple%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Jade_Buddha_Temple",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/%282024%29_Mahavira_Hall%2C_Jade_Buddha_Temple%2C_Shanghai_-_img_04.jpg/960px-%282024%29_Mahavira_Hall%2C_Jade_Buddha_Temple%2C_Shanghai_-_img_04.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Jade_Buddha_Temple"
+        }
+      },
+      {
+        "id": "shanghai-restaurants-8",
+        "name": "Club 33",
+        "cityId": "shanghai",
+        "categoryId": "restaurants",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Club%2033%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Club_33",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Club_33_Court_of_Angels.jpg/960px-Club_33_Court_of_Angels.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Club_33"
+        }
+      },
+      {
+        "id": "shanghai-restaurants-9",
+        "name": "Mr & Mrs Bund",
+        "cityId": "shanghai",
+        "categoryId": "restaurants",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Mr%20%26%20Mrs%20Bund%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Mr_%26_Mrs_Bund",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/The_Bund_-_Shanghai%2C_China_%289065443705%29.jpg/960px-The_Bund_-_Shanghai%2C_China_%289065443705%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Mr_%26_Mrs_Bund"
+        }
+      },
+      {
+        "id": "shanghai-restaurants-10",
+        "name": "Toy Story Land",
+        "cityId": "shanghai",
+        "categoryId": "restaurants",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Toy%20Story%20Land%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Toy_Story_Land",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Toy_Story_Land_logo.svg/960px-Toy_Story_Land_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Toy_Story_Land"
+        }
+      },
+      {
+        "id": "shanghai-restaurants-11",
+        "name": "Kotipizza",
+        "cityId": "shanghai",
+        "categoryId": "restaurants",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Kotipizza%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Kotipizza",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Kotipizza_logo_2025.svg/960px-Kotipizza_logo_2025.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Kotipizza"
+        }
+      },
+      {
+        "id": "shanghai-restaurants-12",
+        "name": "Kimpton Hotels & Restaurants",
+        "cityId": "shanghai",
+        "categoryId": "restaurants",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Kimpton%20Hotels%20%26%20Restaurants%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Kimpton_Hotels_%26_Restaurants",
+        "photo": null
+      },
+      {
+        "id": "shanghai-restaurants-13",
+        "name": "Fantasyland",
+        "cityId": "shanghai",
+        "categoryId": "restaurants",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Fantasyland%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Fantasyland",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Fantasyland_logo.svg/960px-Fantasyland_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Fantasyland"
+        }
+      },
+      {
+        "id": "shanghai-restaurants-14",
+        "name": "Yum China",
+        "cityId": "shanghai",
+        "categoryId": "restaurants",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Yum%20China%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Yum_China",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/Yum_China_Headquarters_at_Xujiahui_in_Xuhui%2C_Shanghai%2C_China_20250831.jpg/960px-Yum_China_Headquarters_at_Xujiahui_in_Xuhui%2C_Shanghai%2C_China_20250831.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Yum_China"
+        }
+      },
+      {
+        "id": "shanghai-restaurants-15",
+        "name": "Saint Nicholas' Church, Shanghai",
+        "cityId": "shanghai",
+        "categoryId": "restaurants",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Saint%20Nicholas'%20Church%2C%20Shanghai%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Saint_Nicholas'_Church%2C_Shanghai",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Saint_Nicholas%27_Church%2C_Shanghai_20210131.jpg/960px-Saint_Nicholas%27_Church%2C_Shanghai_20210131.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Saint_Nicholas'_Church%2C_Shanghai"
+        }
+      },
+      {
+        "id": "shanghai-restaurants-16",
+        "name": "Israelis in China",
+        "cityId": "shanghai",
+        "categoryId": "restaurants",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Israelis%20in%20China%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Israelis_in_China",
+        "photo": null
+      },
+      {
+        "id": "shanghai-restaurants-17",
+        "name": "Shanghai Disneyland",
+        "cityId": "shanghai",
+        "categoryId": "restaurants",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Shanghai%20Disneyland%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Shanghai_Disneyland",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/18-03-12_ShanghaiDisney_013.jpg/960px-18-03-12_ShanghaiDisney_013.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Shanghai_Disneyland"
+        }
+      },
+      {
+        "id": "shanghai-restaurants-18",
+        "name": "East Dawning",
+        "cityId": "shanghai",
+        "categoryId": "restaurants",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=East%20Dawning%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/East_Dawning",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/East_Dawning_restaurant_at_Beijing_South_Railway_Station_departures_%2820200828121227%29.jpg/960px-East_Dawning_restaurant_at_Beijing_South_Railway_Station_departures_%2820200828121227%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/East_Dawning"
+        }
+      }
+    ],
+    "bars": [
+      {
+        "id": "shanghai-bars-1",
+        "name": "Shanghai Tunnel Bar",
+        "cityId": "shanghai",
+        "categoryId": "bars",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Shanghai%20Tunnel%20Bar%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Shanghai_Tunnel_Bar",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Portland%2C_Oregon_%28July_2023%29_-_133.jpg/960px-Portland%2C_Oregon_%28July_2023%29_-_133.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Shanghai_Tunnel_Bar"
+        }
+      },
+      {
+        "id": "shanghai-bars-2",
+        "name": "Port of Shanghai",
+        "cityId": "shanghai",
+        "categoryId": "bars",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Port%20of%20Shanghai%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Port_of_Shanghai",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Shanghai-Yangshan-Port-Containers2013-01.JPG/960px-Shanghai-Yangshan-Port-Containers2013-01.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Port_of_Shanghai"
+        }
+      },
+      {
+        "id": "shanghai-bars-3",
+        "name": "LGBTQ culture in Shanghai",
+        "cityId": "shanghai",
+        "categoryId": "bars",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=LGBTQ%20culture%20in%20Shanghai%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/LGBTQ_culture_in_Shanghai",
+        "photo": null
+      },
+      {
+        "id": "shanghai-bars-4",
+        "name": "Hobo's",
+        "cityId": "shanghai",
+        "categoryId": "bars",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Hobo's%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Hobo's",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Hobo%27s%2C_Portland%2C_2017.jpg/960px-Hobo%27s%2C_Portland%2C_2017.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Hobo's"
+        }
+      },
+      {
+        "id": "shanghai-bars-5",
+        "name": "Crowne Plaza Shanghai Anting Golf",
+        "cityId": "shanghai",
+        "categoryId": "bars",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Crowne%20Plaza%20Shanghai%20Anting%20Golf%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Crowne_Plaza_Shanghai_Anting_Golf",
+        "photo": null
+      },
+      {
+        "id": "shanghai-bars-6",
+        "name": "Qionghai Bo'ao International Airport",
+        "cityId": "shanghai",
+        "categoryId": "bars",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Qionghai%20Bo'ao%20International%20Airport%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Qionghai_Bo'ao_International_Airport",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/%E7%90%BC%E6%B5%B7%E5%8D%9A%E9%B3%8C%E6%9C%BA%E5%9C%BA_%E5%A4%A7%E9%97%A8.jpg/960px-%E7%90%BC%E6%B5%B7%E5%8D%9A%E9%B3%8C%E6%9C%BA%E5%9C%BA_%E5%A4%A7%E9%97%A8.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Qionghai_Bo'ao_International_Airport"
+        }
+      },
+      {
+        "id": "shanghai-bars-7",
+        "name": "Starbucks Reserve",
+        "cityId": "shanghai",
+        "categoryId": "bars",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Starbucks%20Reserve%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Starbucks_Reserve",
+        "photo": null
+      },
+      {
+        "id": "shanghai-bars-8",
+        "name": "Jin Mao Tower",
+        "cityId": "shanghai",
+        "categoryId": "bars",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Jin%20Mao%20Tower%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Jin_Mao_Tower",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Jin_Mao_Tower_Pudong_21860-Shanghai_%2832939744091%29.jpg/960px-Jin_Mao_Tower_Pudong_21860-Shanghai_%2832939744091%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Jin_Mao_Tower"
+        }
+      },
+      {
+        "id": "shanghai-bars-9",
+        "name": "2005 Chinese Grand Prix",
+        "cityId": "shanghai",
+        "categoryId": "bars",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=2005%20Chinese%20Grand%20Prix%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/2005_Chinese_Grand_Prix",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/Shanghai_International_Racing_Circuit_track_map.svg/960px-Shanghai_International_Racing_Circuit_track_map.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/2005_Chinese_Grand_Prix"
+        }
+      },
+      {
+        "id": "shanghai-bars-10",
+        "name": "2004 Chinese Grand Prix",
+        "cityId": "shanghai",
+        "categoryId": "bars",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=2004%20Chinese%20Grand%20Prix%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/2004_Chinese_Grand_Prix",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/Shanghai_International_Racing_Circuit_track_map.svg/960px-Shanghai_International_Racing_Circuit_track_map.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/2004_Chinese_Grand_Prix"
+        }
+      },
+      {
+        "id": "shanghai-bars-11",
+        "name": "China Club",
+        "cityId": "shanghai",
+        "categoryId": "bars",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=China%20Club%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/China_Club",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/China_Club10.jpg/960px-China_Club10.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/China_Club"
+        }
+      },
+      {
+        "id": "shanghai-bars-12",
+        "name": "Shanghai",
+        "cityId": "shanghai",
+        "categoryId": "bars",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Shanghai%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Shanghai",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Huangpu_Park_20124-Shanghai_%2832208802494%29.jpg/960px-Huangpu_Park_20124-Shanghai_%2832208802494%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Shanghai"
+        }
+      },
+      {
+        "id": "shanghai-bars-13",
+        "name": "International Settlement",
+        "cityId": "shanghai",
+        "categoryId": "bars",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=International%20Settlement%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/International_Settlement_(film)",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/40/International_Settlement_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/International_Settlement_(film)"
+        }
+      },
+      {
+        "id": "shanghai-bars-14",
+        "name": "Eddy's Bar",
+        "cityId": "shanghai",
+        "categoryId": "bars",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Eddy's%20Bar%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Eddy's_Bar",
+        "photo": null
+      },
+      {
+        "id": "shanghai-bars-15",
+        "name": "Torbeh Bar",
+        "cityId": "shanghai",
+        "categoryId": "bars",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Torbeh%20Bar%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Torbeh_Bar",
+        "photo": null
+      },
+      {
+        "id": "shanghai-bars-16",
+        "name": "Ninglang Luguhu Airport",
+        "cityId": "shanghai",
+        "categoryId": "bars",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Ninglang%20Luguhu%20Airport%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Ninglang_Luguhu_Airport",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/%E5%AF%A7%E8%92%97%E7%80%98%E6%B2%BD%E6%B9%96%E6%A9%9F%E5%A0%B4_20190928190809.jpg/960px-%E5%AF%A7%E8%92%97%E7%80%98%E6%B2%BD%E6%B9%96%E6%A9%9F%E5%A0%B4_20190928190809.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Ninglang_Luguhu_Airport"
+        }
+      },
+      {
+        "id": "shanghai-bars-17",
+        "name": "The Peninsula Chicago",
+        "cityId": "shanghai",
+        "categoryId": "bars",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Peninsula%20Chicago%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/The_Peninsula_Chicago",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/20070513_RL_Polo_-_Banana_Republic_-_Peninsula.JPG/960px-20070513_RL_Polo_-_Banana_Republic_-_Peninsula.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/The_Peninsula_Chicago"
+        }
+      },
+      {
+        "id": "shanghai-bars-18",
+        "name": "South Shaanxi Road station",
+        "cityId": "shanghai",
+        "categoryId": "bars",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=South%20Shaanxi%20Road%20station%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/South_Shaanxi_Road_station",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/South_Shaanxi_Road_Station_Line_12_Platform.jpg/960px-South_Shaanxi_Road_Station_Line_12_Platform.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/South_Shaanxi_Road_station"
+        }
+      }
+    ],
+    "coffee_shops": [
+      {
+        "id": "shanghai-coffee_shops-1",
+        "name": "LGBTQ culture in Shanghai",
+        "cityId": "shanghai",
+        "categoryId": "coffee_shops",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=LGBTQ%20culture%20in%20Shanghai%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/LGBTQ_culture_in_Shanghai",
+        "photo": null
+      },
+      {
+        "id": "shanghai-coffee_shops-2",
+        "name": "Shanghai Disneyland",
+        "cityId": "shanghai",
+        "categoryId": "coffee_shops",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Shanghai%20Disneyland%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Shanghai_Disneyland",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/18-03-12_ShanghaiDisney_013.jpg/960px-18-03-12_ShanghaiDisney_013.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Shanghai_Disneyland"
+        }
+      },
+      {
+        "id": "shanghai-coffee_shops-3",
+        "name": "Roger Palmgren",
+        "cityId": "shanghai",
+        "categoryId": "coffee_shops",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Roger%20Palmgren%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Roger_Palmgren",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/81/RogerPalmgren.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Roger_Palmgren"
+        }
+      },
+      {
+        "id": "shanghai-coffee_shops-4",
+        "name": "Charlie Chan in Shanghai",
+        "cityId": "shanghai",
+        "categoryId": "coffee_shops",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Charlie%20Chan%20in%20Shanghai%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Charlie_Chan_in_Shanghai",
+        "photo": null
+      },
+      {
+        "id": "shanghai-coffee_shops-5",
+        "name": "Esther Wong",
+        "cityId": "shanghai",
+        "categoryId": "coffee_shops",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Esther%20Wong%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Esther_Wong",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Esther_Wong%2C_1979.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Esther_Wong"
+        }
+      },
+      {
+        "id": "shanghai-coffee_shops-6",
+        "name": "New York University",
+        "cityId": "shanghai",
+        "categoryId": "coffee_shops",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=New%20York%20University%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/New_York_University",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/New_York_University_Seal.svg/960px-New_York_University_Seal.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/New_York_University"
+        }
+      },
+      {
+        "id": "shanghai-coffee_shops-7",
+        "name": "2016 Shanghai International Film Festival",
+        "cityId": "shanghai",
+        "categoryId": "coffee_shops",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=2016%20Shanghai%20International%20Film%20Festival%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/2016_Shanghai_International_Film_Festival",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Shanghai_opera.jpg/960px-Shanghai_opera.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/2016_Shanghai_International_Film_Festival"
+        }
+      },
+      {
+        "id": "shanghai-coffee_shops-8",
+        "name": "Thomas Heatherwick",
+        "cityId": "shanghai",
+        "categoryId": "coffee_shops",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Thomas%20Heatherwick%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Thomas_Heatherwick",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CREDIT_Raquel_Diniz_BO5A8061_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Thomas_Heatherwick"
+        }
+      },
+      {
+        "id": "shanghai-coffee_shops-9",
+        "name": "Homer Sykes",
+        "cityId": "shanghai",
+        "categoryId": "coffee_shops",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Homer%20Sykes%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Homer_Sykes",
+        "photo": null
+      },
+      {
+        "id": "shanghai-coffee_shops-10",
+        "name": "University of Sheffield Management School",
+        "cityId": "shanghai",
+        "categoryId": "coffee_shops",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=University%20of%20Sheffield%20Management%20School%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/University_of_Sheffield_Management_School",
+        "photo": null
+      },
+      {
+        "id": "shanghai-coffee_shops-11",
+        "name": "Oriental Art Center",
+        "cityId": "shanghai",
+        "categoryId": "coffee_shops",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Oriental%20Art%20Center%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Oriental_Art_Center",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/2011_Shanghai_Oriental_Art_Center1.JPG/960px-2011_Shanghai_Oriental_Art_Center1.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Oriental_Art_Center"
+        }
+      },
+      {
+        "id": "shanghai-coffee_shops-12",
+        "name": "Duffy the Disney Bear",
+        "cityId": "shanghai",
+        "categoryId": "coffee_shops",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Duffy%20the%20Disney%20Bear%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Duffy_the_Disney_Bear",
+        "photo": null
+      },
+      {
+        "id": "shanghai-coffee_shops-13",
+        "name": "Momi cafe",
+        "cityId": "shanghai",
+        "categoryId": "coffee_shops",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Momi%20cafe%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Momi_cafe",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Pingjiang_Road.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Momi_cafe"
+        }
+      },
+      {
+        "id": "shanghai-coffee_shops-14",
+        "name": "Daughter of Shanghai",
+        "cityId": "shanghai",
+        "categoryId": "coffee_shops",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Daughter%20of%20Shanghai%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Daughter_of_Shanghai",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Daughter_of_Shanghai_%281937_poster%29.jpg/960px-Daughter_of_Shanghai_%281937_poster%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Daughter_of_Shanghai"
+        }
+      },
+      {
+        "id": "shanghai-coffee_shops-15",
+        "name": "Bateau",
+        "cityId": "shanghai",
+        "categoryId": "coffee_shops",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Bateau%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Bateau_(restaurant)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Seattle_in_October_2022_-_029.jpg/960px-Seattle_in_October_2022_-_029.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Bateau_(restaurant)"
+        }
+      },
+      {
+        "id": "shanghai-coffee_shops-16",
+        "name": "Adventureland",
+        "cityId": "shanghai",
+        "categoryId": "coffee_shops",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Adventureland%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Adventureland_(Disney)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/Adventureland_at_Disneyland%2C_2026.jpg/960px-Adventureland_at_Disneyland%2C_2026.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Adventureland_(Disney)"
+        }
+      },
+      {
+        "id": "shanghai-coffee_shops-17",
+        "name": "Sushi Ginza Onodera",
+        "cityId": "shanghai",
+        "categoryId": "coffee_shops",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Sushi%20Ginza%20Onodera%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Sushi_Ginza_Onodera",
+        "photo": null
+      },
+      {
+        "id": "shanghai-coffee_shops-18",
+        "name": "10 Corso Como",
+        "cityId": "shanghai",
+        "categoryId": "coffee_shops",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=10%20Corso%20Como%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/10_Corso_Como",
+        "photo": null
+      }
+    ],
+    "bookshops": [
+      {
+        "id": "shanghai-bookshops-1",
+        "name": "Joint Publishing",
+        "cityId": "shanghai",
+        "categoryId": "bookshops",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Joint%20Publishing%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Joint_Publishing",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/JP_Books_in_Maritime_Square_201307.jpg/960px-JP_Books_in_Maritime_Square_201307.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Joint_Publishing"
+        }
+      },
+      {
+        "id": "shanghai-bookshops-2",
+        "name": "Shanghai Library station",
+        "cityId": "shanghai",
+        "categoryId": "bookshops",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Shanghai%20Library%20station%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Shanghai_Library_station",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/The_Platform_of_Shanghai_Library_Station_in_Shanghai_2025.jpg/960px-The_Platform_of_Shanghai_Library_Station_in_Shanghai_2025.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Shanghai_Library_station"
+        }
+      },
+      {
+        "id": "shanghai-bookshops-3",
+        "name": "Kanzō Uchiyama",
+        "cityId": "shanghai",
+        "categoryId": "bookshops",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Kanz%C5%8D%20Uchiyama%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Kanz%C5%8D_Uchiyama",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/12/Kanzo_Uchiyama_01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Kanz%C5%8D_Uchiyama"
+        }
+      },
+      {
+        "id": "shanghai-bookshops-4",
+        "name": "JF Books",
+        "cityId": "shanghai",
+        "categoryId": "bookshops",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=JF%20Books%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/JF_Books",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/Jifeng-BookStore.jpg/960px-Jifeng-BookStore.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/JF_Books"
+        }
+      },
+      {
+        "id": "shanghai-bookshops-5",
+        "name": "Saint Nicholas' Church, Shanghai",
+        "cityId": "shanghai",
+        "categoryId": "bookshops",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Saint%20Nicholas'%20Church%2C%20Shanghai%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Saint_Nicholas'_Church%2C_Shanghai",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Saint_Nicholas%27_Church%2C_Shanghai_20210131.jpg/960px-Saint_Nicholas%27_Church%2C_Shanghai_20210131.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Saint_Nicholas'_Church%2C_Shanghai"
+        }
+      },
+      {
+        "id": "shanghai-bookshops-6",
+        "name": "Skyscraper Museum",
+        "cityId": "shanghai",
+        "categoryId": "bookshops",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Skyscraper%20Museum%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Skyscraper_Museum",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/Skyscraper_museum_nyc1.jpg/960px-Skyscraper_museum_nyc1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Skyscraper_Museum"
+        }
+      },
+      {
+        "id": "shanghai-bookshops-7",
+        "name": "Han Han",
+        "cityId": "shanghai",
+        "categoryId": "bookshops",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Han%20Han%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Han_Han",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Han_Han_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Han_Han"
+        }
+      },
+      {
+        "id": "shanghai-bookshops-8",
+        "name": "Bird-worm seal script",
+        "cityId": "shanghai",
+        "categoryId": "bookshops",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Bird-worm%20seal%20script%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Bird-worm_seal_script",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Deciphering_the_sword.jpg/960px-Deciphering_the_sword.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Bird-worm_seal_script"
+        }
+      },
+      {
+        "id": "shanghai-bookshops-9",
+        "name": "Shanghai Foreign Language Education Press",
+        "cityId": "shanghai",
+        "categoryId": "bookshops",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Shanghai%20Foreign%20Language%20Education%20Press%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Shanghai_Foreign_Language_Education_Press",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Sflep_logo.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Shanghai_Foreign_Language_Education_Press"
+        }
+      },
+      {
+        "id": "shanghai-bookshops-10",
+        "name": "Xinhua Bookstore",
+        "cityId": "shanghai",
+        "categoryId": "bookshops",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Xinhua%20Bookstore%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Xinhua_Bookstore",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Xinhua_Bookstore_1%2C_China.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Xinhua_Bookstore"
+        }
+      },
+      {
+        "id": "shanghai-bookshops-11",
+        "name": "Longhua Science and Technology Park",
+        "cityId": "shanghai",
+        "categoryId": "bookshops",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Longhua%20Science%20and%20Technology%20Park%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Longhua_Science_and_Technology_Park",
+        "photo": null
+      },
+      {
+        "id": "shanghai-bookshops-12",
+        "name": "Commercial Press",
+        "cityId": "shanghai",
+        "categoryId": "bookshops",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Commercial%20Press%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Commercial_Press",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/The_Commercial_Press_headquarters_%2820240417153837%29.jpg/960px-The_Commercial_Press_headquarters_%2820240417153837%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Commercial_Press"
+        }
+      },
+      {
+        "id": "shanghai-bookshops-13",
+        "name": "Kong Dongmei",
+        "cityId": "shanghai",
+        "categoryId": "bookshops",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Kong%20Dongmei%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Kong_Dongmei",
+        "photo": null
+      },
+      {
+        "id": "shanghai-bookshops-14",
+        "name": "Victor Kamkin Bookstore",
+        "cityId": "shanghai",
+        "categoryId": "bookshops",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Victor%20Kamkin%20Bookstore%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Victor_Kamkin_Bookstore",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/Victor_Kamkin_Bookstore_Interior.jpg/960px-Victor_Kamkin_Bookstore_Interior.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Victor_Kamkin_Bookstore"
+        }
+      },
+      {
+        "id": "shanghai-bookshops-15",
+        "name": "Shanghai People's Publishing House",
+        "cityId": "shanghai",
+        "categoryId": "bookshops",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Shanghai%20People's%20Publishing%20House%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Shanghai_People's_Publishing_House",
+        "photo": null
+      },
+      {
+        "id": "shanghai-bookshops-16",
+        "name": "Lin Yutang",
+        "cityId": "shanghai",
+        "categoryId": "bookshops",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Lin%20Yutang%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Lin_Yutang",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/59/Linyutang.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Lin_Yutang"
+        }
+      },
+      {
+        "id": "shanghai-bookshops-17",
+        "name": "John Ching Hsiung Wu",
+        "cityId": "shanghai",
+        "categoryId": "bookshops",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=John%20Ching%20Hsiung%20Wu%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/John_Ching_Hsiung_Wu",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Wu_Jingxiong.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/John_Ching_Hsiung_Wu"
+        }
+      },
+      {
+        "id": "shanghai-bookshops-18",
+        "name": "Shanghai",
+        "cityId": "shanghai",
+        "categoryId": "bookshops",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Shanghai%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Shanghai_(2012_film)",
+        "photo": null
+      }
+    ],
+    "museums": [
+      {
+        "id": "shanghai-museums-1",
+        "name": "Shanghai maglev train",
+        "cityId": "shanghai",
+        "categoryId": "museums",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Shanghai%20maglev%20train%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Shanghai_maglev_train",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/A_maglev_train_coming_out%2C_Pudong_International_Airport%2C_Shanghai.jpg/960px-A_maglev_train_coming_out%2C_Pudong_International_Airport%2C_Shanghai.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Shanghai_maglev_train"
+        }
+      },
+      {
+        "id": "shanghai-museums-2",
+        "name": "Shanghai Museum",
+        "cityId": "shanghai",
+        "categoryId": "museums",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Shanghai%20Museum%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Shanghai_Museum",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Shanghai_Museum_exterior_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Shanghai_Museum"
+        }
+      },
+      {
+        "id": "shanghai-museums-3",
+        "name": "China Art Museum, Shanghai",
+        "cityId": "shanghai",
+        "categoryId": "museums",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=China%20Art%20Museum%2C%20Shanghai%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/China_Art_Museum%2C_Shanghai",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/China_Art_Museum%2C_Shanghai.jpg/960px-China_Art_Museum%2C_Shanghai.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/China_Art_Museum%2C_Shanghai"
+        }
+      },
+      {
+        "id": "shanghai-museums-4",
+        "name": "Shanghai Jewish Refugees Museum",
+        "cityId": "shanghai",
+        "categoryId": "museums",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Shanghai%20Jewish%20Refugees%20Museum%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Shanghai_Jewish_Refugees_Museum",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Shanghai_Jewish_Refugees_Museum_courtyard.jpg/960px-Shanghai_Jewish_Refugees_Museum_courtyard.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Shanghai_Jewish_Refugees_Museum"
+        }
+      },
+      {
+        "id": "shanghai-museums-5",
+        "name": "Shanghai Auto Museum",
+        "cityId": "shanghai",
+        "categoryId": "museums",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Shanghai%20Auto%20Museum%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Shanghai_Auto_Museum",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Shanghai_Automobile_Museum.jpg/960px-Shanghai_Automobile_Museum.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Shanghai_Auto_Museum"
+        }
+      },
+      {
+        "id": "shanghai-museums-6",
+        "name": "Rockbund Art Museum",
+        "cityId": "shanghai",
+        "categoryId": "museums",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Rockbund%20Art%20Museum%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Rockbund_Art_Museum",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/RAM_building.jpg/960px-RAM_building.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Rockbund_Art_Museum"
+        }
+      },
+      {
+        "id": "shanghai-museums-7",
+        "name": "Shanghai Science and Technology Museum",
+        "cityId": "shanghai",
+        "categoryId": "museums",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Shanghai%20Science%20and%20Technology%20Museum%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Shanghai_Science_and_Technology_Museum",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Shanghai_Science_and_Technology_Museum_20260418_%282%29.jpg/960px-Shanghai_Science_and_Technology_Museum_20260418_%282%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Shanghai_Science_and_Technology_Museum"
+        }
+      },
+      {
+        "id": "shanghai-museums-8",
+        "name": "Long Museum",
+        "cityId": "shanghai",
+        "categoryId": "museums",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Long%20Museum%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Long_Museum",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/CONTINUOUS_2012_Coll._Long_Museum_West_Bund_-_Shanghai_-_China_WEB.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Long_Museum"
+        }
+      },
+      {
+        "id": "shanghai-museums-9",
+        "name": "Shanghai North railway station",
+        "cityId": "shanghai",
+        "categoryId": "museums",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Shanghai%20North%20railway%20station%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Shanghai_North_railway_station",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Shanghai_%28North%29_Railway_Station%2C_1908.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Shanghai_North_railway_station"
+        }
+      },
+      {
+        "id": "shanghai-museums-10",
+        "name": "Shanghai Metro Museum",
+        "cityId": "shanghai",
+        "categoryId": "museums",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Shanghai%20Metro%20Museum%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Shanghai_Metro_Museum",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/ShanghaiMetroMuseumSimulator.jpg/960px-ShanghaiMetroMuseumSimulator.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Shanghai_Metro_Museum"
+        }
+      },
+      {
+        "id": "shanghai-museums-11",
+        "name": "Museum of Contemporary Art Shanghai",
+        "cityId": "shanghai",
+        "categoryId": "museums",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Museum%20of%20Contemporary%20Art%20Shanghai%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Museum_of_Contemporary_Art_Shanghai",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/%E4%B8%8A%E6%B5%B7%E5%BD%93%E4%BB%A3%E8%89%BA%E6%9C%AF%E9%A6%86_-_panoramio.jpg/960px-%E4%B8%8A%E6%B5%B7%E5%BD%93%E4%BB%A3%E8%89%BA%E6%9C%AF%E9%A6%86_-_panoramio.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Museum_of_Contemporary_Art_Shanghai"
+        }
+      },
+      {
+        "id": "shanghai-museums-12",
+        "name": "C. Y. Tung Maritime Museum",
+        "cityId": "shanghai",
+        "categoryId": "museums",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=C.%20Y.%20Tung%20Maritime%20Museum%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/C._Y._Tung_Maritime_Museum",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/CYTUNG_MUSEUM.jpg/960px-CYTUNG_MUSEUM.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/C._Y._Tung_Maritime_Museum"
+        }
+      },
+      {
+        "id": "shanghai-museums-13",
+        "name": "Power Station of Art",
+        "cityId": "shanghai",
+        "categoryId": "museums",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Power%20Station%20of%20Art%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Power_Station_of_Art",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Pavilion_of_the_Future.jpg/960px-Pavilion_of_the_Future.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Power_Station_of_Art"
+        }
+      },
+      {
+        "id": "shanghai-museums-14",
+        "name": "Shanghai Astronomy Museum",
+        "cityId": "shanghai",
+        "categoryId": "museums",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Shanghai%20Astronomy%20Museum%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Shanghai_Astronomy_Museum",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Shanghaitianwenguan.jpg/960px-Shanghaitianwenguan.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Shanghai_Astronomy_Museum"
+        }
+      },
+      {
+        "id": "shanghai-museums-15",
+        "name": "Shanghai Film Museum",
+        "cityId": "shanghai",
+        "categoryId": "museums",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Shanghai%20Film%20Museum%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Shanghai_Film_Museum",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/ShanghaiFilmGroup_in_snow.jpeg/960px-ShanghaiFilmGroup_in_snow.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Shanghai_Film_Museum"
+        }
+      },
+      {
+        "id": "shanghai-museums-16",
+        "name": "Madame Tussauds Shanghai",
+        "cityId": "shanghai",
+        "categoryId": "museums",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Madame%20Tussauds%20Shanghai%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Madame_Tussauds_Shanghai",
+        "photo": null
+      },
+      {
+        "id": "shanghai-museums-17",
+        "name": "Yuz Museum Shanghai",
+        "cityId": "shanghai",
+        "categoryId": "museums",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Yuz%20Museum%20Shanghai%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Yuz_Museum_Shanghai",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Yuz_Museum_appearance%2C_shot_in_August_2017_in_Shanghai.jpg/960px-Yuz_Museum_appearance%2C_shot_in_August_2017_in_Shanghai.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Yuz_Museum_Shanghai"
+        }
+      },
+      {
+        "id": "shanghai-museums-18",
+        "name": "Shanghai",
+        "cityId": "shanghai",
+        "categoryId": "museums",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Shanghai%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Shanghai",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Huangpu_Park_20124-Shanghai_%2832208802494%29.jpg/960px-Huangpu_Park_20124-Shanghai_%2832208802494%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Shanghai"
+        }
+      }
+    ],
+    "concerts": [
+      {
+        "id": "shanghai-concerts-1",
+        "name": "Shanghai Concert Hall",
+        "cityId": "shanghai",
+        "categoryId": "concerts",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Shanghai%20Concert%20Hall%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Shanghai_Concert_Hall",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Concert_hall_shanghai.jpg/960px-Concert_hall_shanghai.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Shanghai_Concert_Hall"
+        }
+      },
+      {
+        "id": "shanghai-concerts-2",
+        "name": "Oriental Art Center",
+        "cityId": "shanghai",
+        "categoryId": "concerts",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Oriental%20Art%20Center%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Oriental_Art_Center",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/2011_Shanghai_Oriental_Art_Center1.JPG/960px-2011_Shanghai_Oriental_Art_Center1.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Oriental_Art_Center"
+        }
+      },
+      {
+        "id": "shanghai-concerts-3",
+        "name": "Shanghai Symphony Orchestra",
+        "cityId": "shanghai",
+        "categoryId": "concerts",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Shanghai%20Symphony%20Orchestra%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Shanghai_Symphony_Orchestra",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/Shanghai_Symphony_Hall_%2820191021080658%29.jpg/960px-Shanghai_Symphony_Hall_%2820191021080658%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Shanghai_Symphony_Orchestra"
+        }
+      },
+      {
+        "id": "shanghai-concerts-4",
+        "name": "Dashijie station",
+        "cityId": "shanghai",
+        "categoryId": "concerts",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Dashijie%20station%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Dashijie_station",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/202308_Nameboard_of_L14_Dashijie_Station.jpg/960px-202308_Nameboard_of_L14_Dashijie_Station.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Dashijie_station"
+        }
+      },
+      {
+        "id": "shanghai-concerts-5",
+        "name": "Aarhus Pride",
+        "cityId": "shanghai",
+        "categoryId": "concerts",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Aarhus%20Pride%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Aarhus_Pride",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Aarhus_Pride%2C_2012%2C_start_of_day.jpg/960px-Aarhus_Pride%2C_2012%2C_start_of_day.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Aarhus_Pride"
+        }
+      },
+      {
+        "id": "shanghai-concerts-6",
+        "name": "Shanghai Daily",
+        "cityId": "shanghai",
+        "categoryId": "concerts",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Shanghai%20Daily%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Shanghai_Daily",
+        "photo": null
+      },
+      {
+        "id": "shanghai-concerts-7",
+        "name": "Bund Sightseeing Tunnel",
+        "cityId": "shanghai",
+        "categoryId": "concerts",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Bund%20Sightseeing%20Tunnel%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Bund_Sightseeing_Tunnel",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/Shanghai%2C_China%2C_December_2015_-_072.JPG/960px-Shanghai%2C_China%2C_December_2015_-_072.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Bund_Sightseeing_Tunnel"
+        }
+      },
+      {
+        "id": "shanghai-concerts-8",
+        "name": "Julien De Smedt",
+        "cityId": "shanghai",
+        "categoryId": "concerts",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Julien%20De%20Smedt%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Julien_De_Smedt",
+        "photo": null
+      },
+      {
+        "id": "shanghai-concerts-9",
+        "name": "Zhabei Stadium",
+        "cityId": "shanghai",
+        "categoryId": "concerts",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Zhabei%20Stadium%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Zhabei_Stadium",
+        "photo": null
+      },
+      {
+        "id": "shanghai-concerts-10",
+        "name": "Vatroslav Lisinski Concert Hall",
+        "cityId": "shanghai",
+        "categoryId": "concerts",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Vatroslav%20Lisinski%20Concert%20Hall%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Vatroslav_Lisinski_Concert_Hall",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Vatroslav_Lisinski_Concert_Hall.jpg/960px-Vatroslav_Lisinski_Concert_Hall.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Vatroslav_Lisinski_Concert_Hall"
+        }
+      },
+      {
+        "id": "shanghai-concerts-11",
+        "name": "1933 Old Millfun",
+        "cityId": "shanghai",
+        "categoryId": "concerts",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=1933%20Old%20Millfun%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/1933_Old_Millfun",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/1933_Old_Millfun_20251127.jpg/960px-1933_Old_Millfun_20251127.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/1933_Old_Millfun"
+        }
+      },
+      {
+        "id": "shanghai-concerts-12",
+        "name": "Nanshi, Shanghai",
+        "cityId": "shanghai",
+        "categoryId": "concerts",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Nanshi%2C%20Shanghai%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Nanshi%2C_Shanghai",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Shanghai_administrative_Nanshi.svg/960px-Shanghai_administrative_Nanshi.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Nanshi%2C_Shanghai"
+        }
+      },
+      {
+        "id": "shanghai-concerts-13",
+        "name": "Shanghai railway station",
+        "cityId": "shanghai",
+        "categoryId": "concerts",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Shanghai%20railway%20station%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Shanghai_railway_station",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/Shanghai_Railway_Station_in_2014.jpg/960px-Shanghai_Railway_Station_in_2014.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Shanghai_railway_station"
+        }
+      },
+      {
+        "id": "shanghai-concerts-14",
+        "name": "People's Square",
+        "cityId": "shanghai",
+        "categoryId": "concerts",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=People's%20Square%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/People's_Square_(Shanghai)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/People_Square_seen_from_Urban_Planning_Exhibition_Center.JPG/960px-People_Square_seen_from_Urban_Planning_Exhibition_Center.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/People's_Square_(Shanghai)"
+        }
+      },
+      {
+        "id": "shanghai-concerts-15",
+        "name": "Shanghai Suburban Railway",
+        "cityId": "shanghai",
+        "categoryId": "concerts",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Shanghai%20Suburban%20Railway%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Shanghai_Suburban_Railway",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/JC400x.png/960px-JC400x.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Shanghai_Suburban_Railway"
+        }
+      },
+      {
+        "id": "shanghai-concerts-16",
+        "name": "Shanghai Grand Theatre",
+        "cityId": "shanghai",
+        "categoryId": "concerts",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Shanghai%20Grand%20Theatre%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Shanghai_Grand_Theatre",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Shanghaigrandtheatre.jpg/960px-Shanghaigrandtheatre.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Shanghai_Grand_Theatre"
+        }
+      },
+      {
+        "id": "shanghai-concerts-17",
+        "name": "Shanghai International Circuit",
+        "cityId": "shanghai",
+        "categoryId": "concerts",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Shanghai%20International%20Circuit%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Shanghai_International_Circuit",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/Shanghai_International_Racing_Circuit_track_map.svg/960px-Shanghai_International_Racing_Circuit_track_map.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Shanghai_International_Circuit"
+        }
+      },
+      {
+        "id": "shanghai-concerts-18",
+        "name": "Hongkou Football Stadium",
+        "cityId": "shanghai",
+        "categoryId": "concerts",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Hongkou%20Football%20Stadium%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Hongkou_Football_Stadium",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/%E4%B8%8A%E6%B5%B7%E8%99%B9%E5%8F%A3%E8%B6%B3%E7%90%83%E5%9C%BA%E5%85%A8%E8%B2%8C.jpg/960px-%E4%B8%8A%E6%B5%B7%E8%99%B9%E5%8F%A3%E8%B6%B3%E7%90%83%E5%9C%BA%E5%85%A8%E8%B2%8C.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Hongkou_Football_Stadium"
+        }
+      }
+    ],
+    "fashion": [
+      {
+        "id": "shanghai-fashion-1",
+        "name": "Mandy Chiang",
+        "cityId": "shanghai",
+        "categoryId": "fashion",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Mandy%20Chiang%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Mandy_Chiang",
+        "photo": null
+      },
+      {
+        "id": "shanghai-fashion-2",
+        "name": "Youngor Group",
+        "cityId": "shanghai",
+        "categoryId": "fashion",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Youngor%20Group%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Youngor_Group",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Youngor_store_at_GR_Shopping_Mall_%2820210810183846%29.jpg/960px-Youngor_store_at_GR_Shopping_Mall_%2820210810183846%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Youngor_Group"
+        }
+      },
+      {
+        "id": "shanghai-fashion-3",
+        "name": "Music FM Radio Guangdong",
+        "cityId": "shanghai",
+        "categoryId": "fashion",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Music%20FM%20Radio%20Guangdong%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Music_FM_Radio_Guangdong",
+        "photo": null
+      },
+      {
+        "id": "shanghai-fashion-4",
+        "name": "Leon Major",
+        "cityId": "shanghai",
+        "categoryId": "fashion",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Leon%20Major%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Leon_Major",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/af/Leon_Major_CTM_Interview_2013.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Leon_Major"
+        }
+      },
+      {
+        "id": "shanghai-fashion-5",
+        "name": "10 Minutes",
+        "cityId": "shanghai",
+        "categoryId": "fashion",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=10%20Minutes%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/10_Minutes_(2013_film)",
+        "photo": null
+      },
+      {
+        "id": "shanghai-fashion-6",
+        "name": "Wu Ziliang",
+        "cityId": "shanghai",
+        "categoryId": "fashion",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Wu%20Ziliang%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Wu_Ziliang",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Wu_Ziliang_and_Xu_Ren.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Wu_Ziliang"
+        }
+      },
+      {
+        "id": "shanghai-fashion-7",
+        "name": "Roberto Bautista Agut",
+        "cityId": "shanghai",
+        "categoryId": "fashion",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Roberto%20Bautista%20Agut%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Roberto_Bautista_Agut",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Bautista_Agut_MCM23_%2814%29_%2852883313449%29.jpg/960px-Bautista_Agut_MCM23_%2814%29_%2852883313449%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Roberto_Bautista_Agut"
+        }
+      },
+      {
+        "id": "shanghai-fashion-8",
+        "name": "Sogo",
+        "cityId": "shanghai",
+        "categoryId": "fashion",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Sogo%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Sogo",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/SOGO_Yokohama_001.JPG/960px-SOGO_Yokohama_001.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Sogo"
+        }
+      },
+      {
+        "id": "shanghai-fashion-9",
+        "name": "Holland & Barrett",
+        "cityId": "shanghai",
+        "categoryId": "fashion",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Holland%20%26%20Barrett%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Holland_%26_Barrett",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Holland_%26_Barrett%2C_King_Street%2C_Hammersmith.jpg/960px-Holland_%26_Barrett%2C_King_Street%2C_Hammersmith.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Holland_%26_Barrett"
+        }
+      },
+      {
+        "id": "shanghai-fashion-10",
+        "name": "Alan N. Braverman",
+        "cityId": "shanghai",
+        "categoryId": "fashion",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Alan%20N.%20Braverman%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Alan_N._Braverman",
+        "photo": null
+      },
+      {
+        "id": "shanghai-fashion-11",
+        "name": "Nazi chic",
+        "cityId": "shanghai",
+        "categoryId": "fashion",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Nazi%20chic%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Nazi_chic",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/52/Nazi_cosplay_uniforms_for_sale_on_display_in_Akihabara%2C_Tokyo%2C_Japan_2006._Panzer%2C_SS_parade_uniform%2C_miniature_cale_models_toy_soldiers_black_uniforms_etc.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Nazi_chic"
+        }
+      },
+      {
+        "id": "shanghai-fashion-12",
+        "name": "Joker Xue",
+        "cityId": "shanghai",
+        "categoryId": "fashion",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Joker%20Xue%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Joker_Xue",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/%E8%96%9B%E4%B9%8B%E8%B0%A6_%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9%E6%B0%B8%E8%BF%9C22%E6%AF%95%E4%B8%9A%E6%AD%8C%E4%BC%9A_20250602_%28cropped%29.jpg/960px-%E8%96%9B%E4%B9%8B%E8%B0%A6_%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9%E6%B0%B8%E8%BF%9C22%E6%AF%95%E4%B8%9A%E6%AD%8C%E4%BC%9A_20250602_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Joker_Xue"
+        }
+      },
+      {
+        "id": "shanghai-fashion-13",
+        "name": "Charles Wagenheim",
+        "cityId": "shanghai",
+        "categoryId": "fashion",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Charles%20Wagenheim%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Charles_Wagenheim",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Charles_Wagenheim_in_Ghost_of_Jean_Battoo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Charles_Wagenheim"
+        }
+      },
+      {
+        "id": "shanghai-fashion-14",
+        "name": "Buildering",
+        "cityId": "shanghai",
+        "categoryId": "fashion",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Buildering%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Buildering",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/86/Buildering_On_Doran_Bridge.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Buildering"
+        }
+      },
+      {
+        "id": "shanghai-fashion-15",
+        "name": "CBS Columbia Square",
+        "cityId": "shanghai",
+        "categoryId": "fashion",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=CBS%20Columbia%20Square%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/CBS_Columbia_Square",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/CBS_ColumbiaSquare01.jpg/960px-CBS_ColumbiaSquare01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/CBS_Columbia_Square"
+        }
+      },
+      {
+        "id": "shanghai-fashion-16",
+        "name": "Lucille Soong",
+        "cityId": "shanghai",
+        "categoryId": "fashion",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Lucille%20Soong%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Lucille_Soong",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/11/Lucille_Soong_2016.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Lucille_Soong"
+        }
+      },
+      {
+        "id": "shanghai-fashion-17",
+        "name": "Suspense",
+        "cityId": "shanghai",
+        "categoryId": "fashion",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Suspense%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Suspense_(American_TV_series)",
+        "photo": null
+      },
+      {
+        "id": "shanghai-fashion-18",
+        "name": "Ruqun",
+        "cityId": "shanghai",
+        "categoryId": "fashion",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Ruqun%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Ruqun",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Aoqun_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Ruqun"
+        }
+      }
+    ],
+    "shops": [
+      {
+        "id": "shanghai-shops-1",
+        "name": "Shanghai Metro Museum",
+        "cityId": "shanghai",
+        "categoryId": "shops",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Shanghai%20Metro%20Museum%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Shanghai_Metro_Museum",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/ShanghaiMetroMuseumSimulator.jpg/960px-ShanghaiMetroMuseumSimulator.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Shanghai_Metro_Museum"
+        }
+      },
+      {
+        "id": "shanghai-shops-2",
+        "name": "Shanghai Disneyland",
+        "cityId": "shanghai",
+        "categoryId": "shops",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Shanghai%20Disneyland%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Shanghai_Disneyland",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/18-03-12_ShanghaiDisney_013.jpg/960px-18-03-12_ShanghaiDisney_013.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Shanghai_Disneyland"
+        }
+      },
+      {
+        "id": "shanghai-shops-3",
+        "name": "Shanghai Tianma Circuit",
+        "cityId": "shanghai",
+        "categoryId": "shops",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Shanghai%20Tianma%20Circuit%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Shanghai_Tianma_Circuit",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Shanghai_Tianma_Circuit.svg/960px-Shanghai_Tianma_Circuit.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Shanghai_Tianma_Circuit"
+        }
+      },
+      {
+        "id": "shanghai-shops-4",
+        "name": "Fantasyland",
+        "cityId": "shanghai",
+        "categoryId": "shops",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Fantasyland%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Fantasyland",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Fantasyland_logo.svg/960px-Fantasyland_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Fantasyland"
+        }
+      },
+      {
+        "id": "shanghai-shops-5",
+        "name": "China Resources Vanguard",
+        "cityId": "shanghai",
+        "categoryId": "shops",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=China%20Resources%20Vanguard%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/China_Resources_Vanguard",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/HK_WC_Stone_Nullah_Lane_China_Resources_Vanguard_Shop.JPG/960px-HK_WC_Stone_Nullah_Lane_China_Resources_Vanguard_Shop.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/China_Resources_Vanguard"
+        }
+      },
+      {
+        "id": "shanghai-shops-6",
+        "name": "Nanxiang Steamed Bun Restaurant",
+        "cityId": "shanghai",
+        "categoryId": "shops",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Nanxiang%20Steamed%20Bun%20Restaurant%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Nanxiang_Steamed_Bun_Restaurant",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/52/Nanxiang_mantou_dian_by_Matt%27s_Life.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Nanxiang_Steamed_Bun_Restaurant"
+        }
+      },
+      {
+        "id": "shanghai-shops-7",
+        "name": "Flavors of Youth",
+        "cityId": "shanghai",
+        "categoryId": "shops",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Flavors%20of%20Youth%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Flavors_of_Youth",
+        "photo": null
+      },
+      {
+        "id": "shanghai-shops-8",
+        "name": "Qianzhuang",
+        "cityId": "shanghai",
+        "categoryId": "shops",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Qianzhuang%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Qianzhuang",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/cf/%E6%95%B8%E9%8A%85%E9%8C%A2%EF%BC%8C%E6%B8%85%E9%BB%9E%E9%8A%85%E9%8C%A2%E9%9C%80%E5%88%86%E9%A1%9E%EF%BC%8C%E4%B8%A6%E7%94%A8%E7%B7%9A%E7%B9%A9%E4%B8%B2%E8%B5%B7_-_Sohu.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Qianzhuang"
+        }
+      },
+      {
+        "id": "shanghai-shops-9",
+        "name": "Shanghai-style barber shop",
+        "cityId": "shanghai",
+        "categoryId": "shops",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Shanghai-style%20barber%20shop%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Shanghai-style_barber_shop",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/HK_Sai_Ying_Pun_%E4%B8%8A%E6%B5%B7%E7%90%86%E9%AB%AE%E5%BA%97_Shanghai_style_barber_shop_pricelist_March-2010.jpg/960px-HK_Sai_Ying_Pun_%E4%B8%8A%E6%B5%B7%E7%90%86%E9%AB%AE%E5%BA%97_Shanghai_style_barber_shop_pricelist_March-2010.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Shanghai-style_barber_shop"
+        }
+      },
+      {
+        "id": "shanghai-shops-10",
+        "name": "Adventureland",
+        "cityId": "shanghai",
+        "categoryId": "shops",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Adventureland%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Adventureland_(Disney)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/Adventureland_at_Disneyland%2C_2026.jpg/960px-Adventureland_at_Disneyland%2C_2026.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Adventureland_(Disney)"
+        }
+      },
+      {
+        "id": "shanghai-shops-11",
+        "name": "H. S. Wong",
+        "cityId": "shanghai",
+        "categoryId": "shops",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=H.%20S.%20Wong%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/H._S._Wong",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/Bloody_Saturday%2C_Shanghai.jpg/960px-Bloody_Saturday%2C_Shanghai.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/H._S._Wong"
+        }
+      },
+      {
+        "id": "shanghai-shops-12",
+        "name": "Barbie Shanghai",
+        "cityId": "shanghai",
+        "categoryId": "shops",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Barbie%20Shanghai%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Barbie_Shanghai",
+        "photo": null
+      },
+      {
+        "id": "shanghai-shops-13",
+        "name": "Xinchejian",
+        "cityId": "shanghai",
+        "categoryId": "shops",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Xinchejian%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Xinchejian",
+        "photo": null
+      },
+      {
+        "id": "shanghai-shops-14",
+        "name": "Oppo",
+        "cityId": "shanghai",
+        "categoryId": "shops",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Oppo%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Oppo",
+        "photo": null
+      },
+      {
+        "id": "shanghai-shops-15",
+        "name": "Aoxin",
+        "cityId": "shanghai",
+        "categoryId": "shops",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Aoxin%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Aoxin",
+        "photo": null
+      },
+      {
+        "id": "shanghai-shops-16",
+        "name": "Canonical",
+        "cityId": "shanghai",
+        "categoryId": "shops",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Canonical%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Canonical_(company)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Ubuntu_24.04_Noble_Numbat_Desktop_English.png/960px-Ubuntu_24.04_Noble_Numbat_Desktop_English.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Canonical_(company)"
+        }
+      },
+      {
+        "id": "shanghai-shops-17",
+        "name": "Longemont",
+        "cityId": "shanghai",
+        "categoryId": "shops",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Longemont%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Longemont",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/Zhongshan_Park.jpg/960px-Zhongshan_Park.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Longemont"
+        }
+      },
+      {
+        "id": "shanghai-shops-18",
+        "name": "Shanghai North railway station",
+        "cityId": "shanghai",
+        "categoryId": "shops",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Shanghai%20North%20railway%20station%2C%20Shanghai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Shanghai_North_railway_station",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Shanghai_%28North%29_Railway_Station%2C_1908.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Shanghai_North_railway_station"
+        }
+      }
+    ]
+  }
+}

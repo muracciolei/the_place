@@ -1,0 +1,2373 @@
+{
+  "cityId": "prague",
+  "generatedAt": "2026-11-27T09:28:19.733Z",
+  "source": "Wikipedia API + Maps URLs (sin scraping de Google)",
+  "incomplete": [],
+  "categories": {
+    "night_clubs": [
+      {
+        "id": "prague-night_clubs-1",
+        "name": "Tomáš Skuhravý",
+        "cityId": "prague",
+        "categoryId": "night_clubs",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Tom%C3%A1%C5%A1%20Skuhrav%C3%BD%2C%20Prague",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Tom%C3%A1%C5%A1_Skuhrav%C3%BD",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Tomas_Skuhravy_2008.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Tom%C3%A1%C5%A1_Skuhrav%C3%BD"
+        }
+      },
+      {
+        "id": "prague-night_clubs-2",
+        "name": "Karlovy lázně",
+        "cityId": "prague",
+        "categoryId": "night_clubs",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Karlovy%20l%C3%A1zn%C4%9B%2C%20Prague",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Karlovy_l%C3%A1zn%C4%9B",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/Karlovy_l%C3%A1zn%C4%9B_nightclub_by_night.jpg/960px-Karlovy_l%C3%A1zn%C4%9B_nightclub_by_night.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Karlovy_l%C3%A1zn%C4%9B"
+        }
+      },
+      {
+        "id": "prague-night_clubs-3",
+        "name": "Eva Jiřičná",
+        "cityId": "prague",
+        "categoryId": "night_clubs",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Eva%20Ji%C5%99i%C4%8Dn%C3%A1%2C%20Prague",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Eva_Ji%C5%99i%C4%8Dn%C3%A1",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Eva_Ji%C5%99i%C4%8Dn%C3%A1_%282019%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Eva_Ji%C5%99i%C4%8Dn%C3%A1"
+        }
+      },
+      {
+        "id": "prague-night_clubs-4",
+        "name": "Alexandra Berková",
+        "cityId": "prague",
+        "categoryId": "night_clubs",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Alexandra%20Berkov%C3%A1%2C%20Prague",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Alexandra_Berkov%C3%A1",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/AlexandraBerkova.tif/lossy-page1-960px-AlexandraBerkova.tif.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Alexandra_Berkov%C3%A1"
+        }
+      },
+      {
+        "id": "prague-night_clubs-5",
+        "name": "Hostages",
+        "cityId": "prague",
+        "categoryId": "night_clubs",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Hostages%2C%20Prague",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Hostages_(1943_film)",
+        "photo": null
+      },
+      {
+        "id": "prague-night_clubs-6",
+        "name": "Prague",
+        "cityId": "prague",
+        "categoryId": "night_clubs",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Prague%2C%20Prague",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Prague_(2006_film)",
+        "photo": null
+      },
+      {
+        "id": "prague-night_clubs-7",
+        "name": "Dan Bilefsky",
+        "cityId": "prague",
+        "categoryId": "night_clubs",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Dan%20Bilefsky%2C%20Prague",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Dan_Bilefsky",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Dan_Bilefsky.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Dan_Bilefsky"
+        }
+      },
+      {
+        "id": "prague-night_clubs-8",
+        "name": "Barney Josephson",
+        "cityId": "prague",
+        "categoryId": "night_clubs",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Barney%20Josephson%2C%20Prague",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Barney_Josephson",
+        "photo": null
+      },
+      {
+        "id": "prague-night_clubs-9",
+        "name": "Blade II",
+        "cityId": "prague",
+        "categoryId": "night_clubs",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Blade%20II%2C%20Prague",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Blade_II",
+        "photo": null
+      },
+      {
+        "id": "prague-night_clubs-10",
+        "name": "Cabaret",
+        "cityId": "prague",
+        "categoryId": "night_clubs",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Cabaret%2C%20Prague",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Cabaret",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/Henri_de_Toulouse-Lautrec%2C_French_-_At_the_Moulin_Rouge-_The_Dance_-_Google_Art_Project.jpg/960px-Henri_de_Toulouse-Lautrec%2C_French_-_At_the_Moulin_Rouge-_The_Dance_-_Google_Art_Project.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Cabaret"
+        }
+      },
+      {
+        "id": "prague-night_clubs-11",
+        "name": "Ondřej Hutník",
+        "cityId": "prague",
+        "categoryId": "night_clubs",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Ond%C5%99ej%20Hutn%C3%ADk%2C%20Prague",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Ond%C5%99ej_Hutn%C3%ADk",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/84/Spejbl.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Ond%C5%99ej_Hutn%C3%ADk"
+        }
+      },
+      {
+        "id": "prague-night_clubs-12",
+        "name": "Erwin Schulhoff",
+        "cityId": "prague",
+        "categoryId": "night_clubs",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Erwin%20Schulhoff%2C%20Prague",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Erwin_Schulhoff",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Schulhoff_Mayerova_1931.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Erwin_Schulhoff"
+        }
+      },
+      {
+        "id": "prague-night_clubs-13",
+        "name": "Alex Zucker",
+        "cityId": "prague",
+        "categoryId": "night_clubs",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Alex%20Zucker%2C%20Prague",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Alex_Zucker",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Alex_Zucker_down_Crosby_Road.jpg/960px-Alex_Zucker_down_Crosby_Road.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Alex_Zucker"
+        }
+      },
+      {
+        "id": "prague-night_clubs-14",
+        "name": "Markus Schulz",
+        "cityId": "prague",
+        "categoryId": "night_clubs",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Markus%20Schulz%2C%20Prague",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Markus_Schulz",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/Markus_schulz_sutra_oc.jpg/960px-Markus_schulz_sutra_oc.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Markus_Schulz"
+        }
+      },
+      {
+        "id": "prague-night_clubs-15",
+        "name": "Karlos Vémola",
+        "cityId": "prague",
+        "categoryId": "night_clubs",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Karlos%20V%C3%A9mola%2C%20Prague",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Karlos_V%C3%A9mola",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Karlos_V%C3%A9mola_%28Inkognito%2C_2024%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Karlos_V%C3%A9mola"
+        }
+      },
+      {
+        "id": "prague-night_clubs-16",
+        "name": "COVID-19 pandemic in the Czech Republic",
+        "cityId": "prague",
+        "categoryId": "night_clubs",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=COVID-19%20pandemic%20in%20the%20Czech%20Republic%2C%20Prague",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/COVID-19_pandemic_in_the_Czech_Republic",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/Mapa_covidu-19_podle_obc%C3%AD_s_roz%C5%A1%C3%AD%C5%99enou_p%C5%AFsobnost%C3%AD.png/960px-Mapa_covidu-19_podle_obc%C3%AD_s_roz%C5%A1%C3%AD%C5%99enou_p%C5%AFsobnost%C3%AD.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/COVID-19_pandemic_in_the_Czech_Republic"
+        }
+      },
+      {
+        "id": "prague-night_clubs-17",
+        "name": "Bryan Rabin",
+        "cityId": "prague",
+        "categoryId": "night_clubs",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Bryan%20Rabin%2C%20Prague",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Bryan_Rabin",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Bryan_Rabin.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Bryan_Rabin"
+        }
+      },
+      {
+        "id": "prague-night_clubs-18",
+        "name": "Hostel",
+        "cityId": "prague",
+        "categoryId": "night_clubs",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Hostel%2C%20Prague",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Hostel_(2005_film)",
+        "photo": null
+      }
+    ],
+    "restaurants": [
+      {
+        "id": "prague-restaurants-1",
+        "name": "Žižkov",
+        "cityId": "prague",
+        "categoryId": "restaurants",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=%C5%BDi%C5%BEkov%2C%20Prague",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/%C5%BDi%C5%BEkov",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/%C5%BDi%C5%BEkov_z_V%C3%ADtkova.jpg/960px-%C5%BDi%C5%BEkov_z_V%C3%ADtkova.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/%C5%BDi%C5%BEkov"
+        }
+      },
+      {
+        "id": "prague-restaurants-2",
+        "name": "Dancing House",
+        "cityId": "prague",
+        "categoryId": "restaurants",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Dancing%20House%2C%20Prague",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Dancing_House",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Tanzendes_Haus_2023.jpg/960px-Tanzendes_Haus_2023.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Dancing_House"
+        }
+      },
+      {
+        "id": "prague-restaurants-3",
+        "name": "Rossopomodoro",
+        "cityId": "prague",
+        "categoryId": "restaurants",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Rossopomodoro%2C%20Prague",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Rossopomodoro",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Rossopomodoro%2C_Fulham_Road%2C_Chelsea_01.jpg/960px-Rossopomodoro%2C_Fulham_Road%2C_Chelsea_01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Rossopomodoro"
+        }
+      },
+      {
+        "id": "prague-restaurants-4",
+        "name": "Allegro",
+        "cityId": "prague",
+        "categoryId": "restaurants",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Allegro%2C%20Prague",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Allegro_(restaurant)",
+        "photo": null
+      },
+      {
+        "id": "prague-restaurants-5",
+        "name": "Kryštof Hádek",
+        "cityId": "prague",
+        "categoryId": "restaurants",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Kry%C5%A1tof%20H%C3%A1dek%2C%20Prague",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Kry%C5%A1tof_H%C3%A1dek",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Kry%C5%A1tof_H%C3%A1dek_%282020%29.jpg/960px-Kry%C5%A1tof_H%C3%A1dek_%282020%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Kry%C5%A1tof_H%C3%A1dek"
+        }
+      },
+      {
+        "id": "prague-restaurants-6",
+        "name": "Výtopna",
+        "cityId": "prague",
+        "categoryId": "restaurants",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=V%C3%BDtopna%2C%20Prague",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/V%C3%BDtopna",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/Vytopna2.jpg/960px-Vytopna2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/V%C3%BDtopna"
+        }
+      },
+      {
+        "id": "prague-restaurants-7",
+        "name": "Na Chvalech",
+        "cityId": "prague",
+        "categoryId": "restaurants",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Na%20Chvalech%2C%20Prague",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Na_Chvalech",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/Bo%C5%BEanovsk%C3%A1%2C_stadion_Na_Chvalech.jpg/960px-Bo%C5%BEanovsk%C3%A1%2C_stadion_Na_Chvalech.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Na_Chvalech"
+        }
+      },
+      {
+        "id": "prague-restaurants-8",
+        "name": "La Degustation",
+        "cityId": "prague",
+        "categoryId": "restaurants",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=La%20Degustation%2C%20Prague",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/La_Degustation",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/La_Degustation.jpg/960px-La_Degustation.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/La_Degustation"
+        }
+      },
+      {
+        "id": "prague-restaurants-9",
+        "name": "Velké Přílepy",
+        "cityId": "prague",
+        "categoryId": "restaurants",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Velk%C3%A9%20P%C5%99%C3%ADlepy%2C%20Prague",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Velk%C3%A9_P%C5%99%C3%ADlepy",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/Velk%C3%A9_P%C5%99%C3%ADlepy%2C_od_k%C5%99%C3%AD%C5%BEku_ke_kapli%C4%8Dce.jpg/960px-Velk%C3%A9_P%C5%99%C3%ADlepy%2C_od_k%C5%99%C3%AD%C5%BEku_ke_kapli%C4%8Dce.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Velk%C3%A9_P%C5%99%C3%ADlepy"
+        }
+      },
+      {
+        "id": "prague-restaurants-10",
+        "name": "Kimpton Hotels & Restaurants",
+        "cityId": "prague",
+        "categoryId": "restaurants",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Kimpton%20Hotels%20%26%20Restaurants%2C%20Prague",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Kimpton_Hotels_%26_Restaurants",
+        "photo": null
+      },
+      {
+        "id": "prague-restaurants-11",
+        "name": "Prague",
+        "cityId": "prague",
+        "categoryId": "restaurants",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Prague%2C%20Prague",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Prague",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Prague_%286365119737%29.jpg/960px-Prague_%286365119737%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Prague"
+        }
+      },
+      {
+        "id": "prague-restaurants-12",
+        "name": "U Fleků",
+        "cityId": "prague",
+        "categoryId": "restaurants",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=U%20Flek%C5%AF%2C%20Prague",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/U_Flek%C5%AF",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/Prag%2C_U_Flek%C5%AF_--_2019_--_6735.jpg/960px-Prag%2C_U_Flek%C5%AF_--_2019_--_6735.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/U_Flek%C5%AF"
+        }
+      },
+      {
+        "id": "prague-restaurants-13",
+        "name": "Zbraslav",
+        "cityId": "prague",
+        "categoryId": "restaurants",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Zbraslav%2C%20Prague",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Zbraslav",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/Zbraslav%2C_Radot%C3%ADn_a_estak%C3%A1da.jpg/960px-Zbraslav%2C_Radot%C3%ADn_a_estak%C3%A1da.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Zbraslav"
+        }
+      },
+      {
+        "id": "prague-restaurants-14",
+        "name": "Municipal House",
+        "cityId": "prague",
+        "categoryId": "restaurants",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Municipal%20House%2C%20Prague",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Municipal_House",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Jugendstil_Prag_Gemeindehaus_1.jpg/960px-Jugendstil_Prag_Gemeindehaus_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Municipal_House"
+        }
+      },
+      {
+        "id": "prague-restaurants-15",
+        "name": "Prague 5",
+        "cityId": "prague",
+        "categoryId": "restaurants",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Prague%205%2C%20Prague",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Prague_5",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Praha_5%2C_town_hall1.jpg/960px-Praha_5%2C_town_hall1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Prague_5"
+        }
+      },
+      {
+        "id": "prague-restaurants-16",
+        "name": "Pannonia Express",
+        "cityId": "prague",
+        "categoryId": "restaurants",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Pannonia%20Express%2C%20Prague",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Pannonia_Express",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Zugschild_Pannonia_Express_-_Budapest_-_Bad_Schandau_-_Berlin_Lichtenberg.jpg/960px-Zugschild_Pannonia_Express_-_Budapest_-_Bad_Schandau_-_Berlin_Lichtenberg.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Pannonia_Express"
+        }
+      },
+      {
+        "id": "prague-restaurants-17",
+        "name": "Kamenice",
+        "cityId": "prague",
+        "categoryId": "restaurants",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Kamenice%2C%20Prague",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Kamenice_(Prague-East_District)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Kamenice%2C_Elementary_School.jpg/960px-Kamenice%2C_Elementary_School.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Kamenice_(Prague-East_District)"
+        }
+      },
+      {
+        "id": "prague-restaurants-18",
+        "name": "Škvorec",
+        "cityId": "prague",
+        "categoryId": "restaurants",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=%C5%A0kvorec%2C%20Prague",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/%C5%A0kvorec",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/K%C5%99%C3%AD%C5%BE_ve_%C5%A0kvorci_na_Masarykov%C4%9B_n%C3%A1m%C4%9Bst%C3%AD_%28Q94438774%29.jpg/960px-K%C5%99%C3%AD%C5%BE_ve_%C5%A0kvorci_na_Masarykov%C4%9B_n%C3%A1m%C4%9Bst%C3%AD_%28Q94438774%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/%C5%A0kvorec"
+        }
+      }
+    ],
+    "bars": [
+      {
+        "id": "prague-bars-1",
+        "name": "Boris Shakhlin",
+        "cityId": "prague",
+        "categoryId": "bars",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Boris%20Shakhlin%2C%20Prague",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Boris_Shakhlin",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/De_Russische_Boris_Chaklin_in_aktie_aan_de_ringen%2C_Bestanddeelnr_919-5889.jpg/960px-De_Russische_Boris_Chaklin_in_aktie_aan_de_ringen%2C_Bestanddeelnr_919-5889.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Boris_Shakhlin"
+        }
+      },
+      {
+        "id": "prague-bars-2",
+        "name": "1962 World Artistic Gymnastics Championships",
+        "cityId": "prague",
+        "categoryId": "bars",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=1962%20World%20Artistic%20Gymnastics%20Championships%2C%20Prague",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/1962_World_Artistic_Gymnastics_Championships",
+        "photo": null
+      },
+      {
+        "id": "prague-bars-3",
+        "name": "Anton Heida",
+        "cityId": "prague",
+        "categoryId": "bars",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Anton%20Heida%2C%20Prague",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Anton_Heida",
+        "photo": null
+      },
+      {
+        "id": "prague-bars-4",
+        "name": "Miroslav Klinger",
+        "cityId": "prague",
+        "categoryId": "bars",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Miroslav%20Klinger%2C%20Prague",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Miroslav_Klinger",
+        "photo": null
+      },
+      {
+        "id": "prague-bars-5",
+        "name": "Lucerna Music Bar",
+        "cityId": "prague",
+        "categoryId": "bars",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Lucerna%20Music%20Bar%2C%20Prague",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Lucerna_Music_Bar",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/%C5%A0t%C4%9Bp%C3%A1nsk%C3%A1%2C_Lucerna%2C_pas%C3%A1%C5%BE.jpg/960px-%C5%A0t%C4%9Bp%C3%A1nsk%C3%A1%2C_Lucerna%2C_pas%C3%A1%C5%BE.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Lucerna_Music_Bar"
+        }
+      },
+      {
+        "id": "prague-bars-6",
+        "name": "Sudetenland Medal",
+        "cityId": "prague",
+        "categoryId": "bars",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Sudetenland%20Medal%2C%20Prague",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Sudetenland_Medal",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Sudetenland_Medal.PNG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Sudetenland_Medal"
+        }
+      },
+      {
+        "id": "prague-bars-7",
+        "name": "1907 World Artistic Gymnastics Championships",
+        "cityId": "prague",
+        "categoryId": "bars",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=1907%20World%20Artistic%20Gymnastics%20Championships%2C%20Prague",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/1907_World_Artistic_Gymnastics_Championships",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/en/d/d8/1907_World_Gymnastics_Team_Champions_from_Bohemia.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/1907_World_Artistic_Gymnastics_Championships"
+        }
+      },
+      {
+        "id": "prague-bars-8",
+        "name": "František Erben",
+        "cityId": "prague",
+        "categoryId": "bars",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Franti%C5%A1ek%20Erben%2C%20Prague",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Franti%C5%A1ek_Erben",
+        "photo": null
+      },
+      {
+        "id": "prague-bars-9",
+        "name": "Martina Bárta",
+        "cityId": "prague",
+        "categoryId": "bars",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Martina%20B%C3%A1rta%2C%20Prague",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Martina_B%C3%A1rta",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Martina_Barta_2017.jpg/960px-Martina_Barta_2017.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Martina_B%C3%A1rta"
+        }
+      },
+      {
+        "id": "prague-bars-10",
+        "name": "Yukio Endō",
+        "cityId": "prague",
+        "categoryId": "bars",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Yukio%20End%C5%8D%2C%20Prague",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Yukio_End%C5%8D",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Yukio_Endo_1964b.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Yukio_End%C5%8D"
+        }
+      },
+      {
+        "id": "prague-bars-11",
+        "name": "Josef Čada",
+        "cityId": "prague",
+        "categoryId": "bars",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Josef%20%C4%8Cada%2C%20Prague",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Josef_%C4%8Cada",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/1910_Czech_Sokol_Delegation_to_London_postcard.jpg/960px-1910_Czech_Sokol_Delegation_to_London_postcard.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Josef_%C4%8Cada"
+        }
+      },
+      {
+        "id": "prague-bars-12",
+        "name": "German Occupation Medals",
+        "cityId": "prague",
+        "categoryId": "bars",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=German%20Occupation%20Medals%2C%20Prague",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/German_Occupation_Medals",
+        "photo": null
+      },
+      {
+        "id": "prague-bars-13",
+        "name": "Yuri Titov",
+        "cityId": "prague",
+        "categoryId": "bars",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Yuri%20Titov%2C%20Prague",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Yuri_Titov",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Yuri_Titov_on_pommel_horse_1966.jpg/960px-Yuri_Titov_on_pommel_horse_1966.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Yuri_Titov"
+        }
+      },
+      {
+        "id": "prague-bars-14",
+        "name": "Gymnastics at the 1968 Summer Olympics",
+        "cityId": "prague",
+        "categoryId": "bars",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Gymnastics%20at%20the%201968%20Summer%20Olympics%2C%20Prague",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Gymnastics_at_the_1968_Summer_Olympics",
+        "photo": null
+      },
+      {
+        "id": "prague-bars-15",
+        "name": "1938 World Artistic Gymnastics Championships",
+        "cityId": "prague",
+        "categoryId": "bars",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=1938%20World%20Artistic%20Gymnastics%20Championships%2C%20Prague",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/1938_World_Artistic_Gymnastics_Championships",
+        "photo": null
+      },
+      {
+        "id": "prague-bars-16",
+        "name": "Michael Reusch",
+        "cityId": "prague",
+        "categoryId": "bars",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Michael%20Reusch%2C%20Prague",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Michael_Reusch",
+        "photo": null
+      },
+      {
+        "id": "prague-bars-17",
+        "name": "Ivan Ivankov",
+        "cityId": "prague",
+        "categoryId": "bars",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Ivan%20Ivankov%2C%20Prague",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Ivan_Ivankov",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Ivan_ivankov_-_pommel_horse_-_2000.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Ivan_Ivankov"
+        }
+      },
+      {
+        "id": "prague-bars-18",
+        "name": "Basketball Nymburk",
+        "cityId": "prague",
+        "categoryId": "bars",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Basketball%20Nymburk%2C%20Prague",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Basketball_Nymburk",
+        "photo": null
+      }
+    ],
+    "coffee_shops": [
+      {
+        "id": "prague-coffee_shops-1",
+        "name": "House of the Black Madonna",
+        "cityId": "prague",
+        "categoryId": "coffee_shops",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=House%20of%20the%20Black%20Madonna%2C%20Prague",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/House_of_the_Black_Madonna",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/D%C5%AFm_U_%C4%8Dern%C3%A9_Matky_Bo%C5%BE%C3%AD_03.JPG/960px-D%C5%AFm_U_%C4%8Dern%C3%A9_Matky_Bo%C5%BE%C3%AD_03.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/House_of_the_Black_Madonna"
+        }
+      },
+      {
+        "id": "prague-coffee_shops-2",
+        "name": "Raymond Braine",
+        "cityId": "prague",
+        "categoryId": "coffee_shops",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Raymond%20Braine%2C%20Prague",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Raymond_Braine",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/45/BraineRaymondStar340301.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Raymond_Braine"
+        }
+      },
+      {
+        "id": "prague-coffee_shops-3",
+        "name": "Prague linguistic circle",
+        "cityId": "prague",
+        "categoryId": "coffee_shops",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Prague%20linguistic%20circle%2C%20Prague",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Prague_linguistic_circle",
+        "photo": null
+      },
+      {
+        "id": "prague-coffee_shops-4",
+        "name": "Café Slavia",
+        "cityId": "prague",
+        "categoryId": "coffee_shops",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Caf%C3%A9%20Slavia%2C%20Prague",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Caf%C3%A9_Slavia",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/Caf%C3%A9_Slavia_Praha.jpg/960px-Caf%C3%A9_Slavia_Praha.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Caf%C3%A9_Slavia"
+        }
+      },
+      {
+        "id": "prague-coffee_shops-5",
+        "name": "Little Bohemia",
+        "cityId": "prague",
+        "categoryId": "coffee_shops",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Little%20Bohemia%2C%20Prague",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Little_Bohemia_(Omaha%2C_Nebraska)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/PragueHotelOmaha.JPG/960px-PragueHotelOmaha.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Little_Bohemia_(Omaha%2C_Nebraska)"
+        }
+      },
+      {
+        "id": "prague-coffee_shops-6",
+        "name": "Markéta Luskačová",
+        "cityId": "prague",
+        "categoryId": "coffee_shops",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Mark%C3%A9ta%20Luska%C4%8Dov%C3%A1%2C%20Prague",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Mark%C3%A9ta_Luska%C4%8Dov%C3%A1",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/Mark%C3%A9ta_Luska%C4%8Dov%C3%A1.jpg/960px-Mark%C3%A9ta_Luska%C4%8Dov%C3%A1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Mark%C3%A9ta_Luska%C4%8Dov%C3%A1"
+        }
+      },
+      {
+        "id": "prague-coffee_shops-7",
+        "name": "Municipal House",
+        "cityId": "prague",
+        "categoryId": "coffee_shops",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Municipal%20House%2C%20Prague",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Municipal_House",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Jugendstil_Prag_Gemeindehaus_1.jpg/960px-Jugendstil_Prag_Gemeindehaus_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Municipal_House"
+        }
+      },
+      {
+        "id": "prague-coffee_shops-8",
+        "name": "Žižkov",
+        "cityId": "prague",
+        "categoryId": "coffee_shops",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=%C5%BDi%C5%BEkov%2C%20Prague",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/%C5%BDi%C5%BEkov",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/%C5%BDi%C5%BEkov_z_V%C3%ADtkova.jpg/960px-%C5%BDi%C5%BEkov_z_V%C3%ADtkova.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/%C5%BDi%C5%BEkov"
+        }
+      },
+      {
+        "id": "prague-coffee_shops-9",
+        "name": "Alois Jirásek",
+        "cityId": "prague",
+        "categoryId": "coffee_shops",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Alois%20Jir%C3%A1sek%2C%20Prague",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Alois_Jir%C3%A1sek",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Alois_Jir%C3%A1sek_by_Agence_Rol.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Alois_Jir%C3%A1sek"
+        }
+      },
+      {
+        "id": "prague-coffee_shops-10",
+        "name": "2013 Prague explosion",
+        "cityId": "prague",
+        "categoryId": "coffee_shops",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=2013%20Prague%20explosion%2C%20Prague",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/2013_Prague_explosion",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Divadeln%C3%AD_after_2013_explosion.jpg/960px-Divadeln%C3%AD_after_2013_explosion.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/2013_Prague_explosion"
+        }
+      },
+      {
+        "id": "prague-coffee_shops-11",
+        "name": "Bohemian Cafe",
+        "cityId": "prague",
+        "categoryId": "coffee_shops",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Bohemian%20Cafe%2C%20Prague",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Bohemian_Cafe",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Bohemian_Cafe.jpg/960px-Bohemian_Cafe.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Bohemian_Cafe"
+        }
+      },
+      {
+        "id": "prague-coffee_shops-12",
+        "name": "Hard Rock Cafe",
+        "cityId": "prague",
+        "categoryId": "coffee_shops",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Hard%20Rock%20Cafe%2C%20Prague",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Hard_Rock_Cafe",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Hard_Rock_Cafe_Logo.svg/960px-Hard_Rock_Cafe_Logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Hard_Rock_Cafe"
+        }
+      },
+      {
+        "id": "prague-coffee_shops-13",
+        "name": "Václav Havel Tribute Concert",
+        "cityId": "prague",
+        "categoryId": "coffee_shops",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=V%C3%A1clav%20Havel%20Tribute%20Concert%2C%20Prague",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/V%C3%A1clav_Havel_Tribute_Concert",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Plakat_pocta_VH.jpg/960px-Plakat_pocta_VH.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/V%C3%A1clav_Havel_Tribute_Concert"
+        }
+      },
+      {
+        "id": "prague-coffee_shops-14",
+        "name": "Faust",
+        "cityId": "prague",
+        "categoryId": "coffee_shops",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Faust%2C%20Prague",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Faust_(1994_film)",
+        "photo": null
+      },
+      {
+        "id": "prague-coffee_shops-15",
+        "name": "Café Savoy",
+        "cityId": "prague",
+        "categoryId": "coffee_shops",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Caf%C3%A9%20Savoy%2C%20Prague",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Caf%C3%A9_Savoy",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Linke_Wienzeile_36_Cafe_Savoy.JPG/960px-Linke_Wienzeile_36_Cafe_Savoy.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Caf%C3%A9_Savoy"
+        }
+      },
+      {
+        "id": "prague-coffee_shops-16",
+        "name": "Grand Café",
+        "cityId": "prague",
+        "categoryId": "coffee_shops",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Grand%20Caf%C3%A9%2C%20Prague",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Grand_Caf%C3%A9",
+        "photo": null
+      },
+      {
+        "id": "prague-coffee_shops-17",
+        "name": "Café Coffee Day",
+        "cityId": "prague",
+        "categoryId": "coffee_shops",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Caf%C3%A9%20Coffee%20Day%2C%20Prague",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Caf%C3%A9_Coffee_Day",
+        "photo": null
+      },
+      {
+        "id": "prague-coffee_shops-18",
+        "name": "Mohamed Atta's alleged Prague connection",
+        "cityId": "prague",
+        "categoryId": "coffee_shops",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Mohamed%20Atta's%20alleged%20Prague%20connection%2C%20Prague",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Mohamed_Atta's_alleged_Prague_connection",
+        "photo": null
+      }
+    ],
+    "bookshops": [
+      {
+        "id": "prague-bookshops-1",
+        "name": "Josef Šváb-Malostranský",
+        "cityId": "prague",
+        "categoryId": "bookshops",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Josef%20%C5%A0v%C3%A1b-Malostransk%C3%BD%2C%20Prague",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Josef_%C5%A0v%C3%A1b-Malostransk%C3%BD",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/01/Josef-Svab-Malostransky.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Josef_%C5%A0v%C3%A1b-Malostransk%C3%BD"
+        }
+      },
+      {
+        "id": "prague-bookshops-2",
+        "name": "Karolinum Press",
+        "cityId": "prague",
+        "categoryId": "bookshops",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Karolinum%20Press%2C%20Prague",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Karolinum_Press",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/Knihkupectvi_Univerzity_Karlovy_a_Nakladatelstvi_Karolinum_v_Praze%2C_Celetna_ulice_%28UK0049%29.jpg/960px-Knihkupectvi_Univerzity_Karlovy_a_Nakladatelstvi_Karolinum_v_Praze%2C_Celetna_ulice_%28UK0049%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Karolinum_Press"
+        }
+      },
+      {
+        "id": "prague-bookshops-3",
+        "name": "Josef Richard Vilímek",
+        "cityId": "prague",
+        "categoryId": "bookshops",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Josef%20Richard%20Vil%C3%ADmek%2C%20Prague",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Josef_Richard_Vil%C3%ADmek_(1835%E2%80%931911)",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/92/Josef_Richard_Vilimek_Sr_1886.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Josef_Richard_Vil%C3%ADmek_(1835%E2%80%931911)"
+        }
+      },
+      {
+        "id": "prague-bookshops-4",
+        "name": "Optimism Monthly Magazine",
+        "cityId": "prague",
+        "categoryId": "bookshops",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Optimism%20Monthly%20Magazine%2C%20Prague",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Optimism_Monthly_Magazine",
+        "photo": null
+      },
+      {
+        "id": "prague-bookshops-5",
+        "name": "Ivan Diviš",
+        "cityId": "prague",
+        "categoryId": "bookshops",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Ivan%20Divi%C5%A1%2C%20Prague",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Ivan_Divi%C5%A1",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Ivan_Divi%C5%A1_with_Ivan_Wernisch.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Ivan_Divi%C5%A1"
+        }
+      },
+      {
+        "id": "prague-bookshops-6",
+        "name": "Václav Chvátal",
+        "cityId": "prague",
+        "categoryId": "bookshops",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=V%C3%A1clav%20Chv%C3%A1tal%2C%20Prague",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/V%C3%A1clav_Chv%C3%A1tal",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/85/Va%C5%A1ek_Chv%C3%A1tal_in_2020.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/V%C3%A1clav_Chv%C3%A1tal"
+        }
+      },
+      {
+        "id": "prague-bookshops-7",
+        "name": "Miroslav Macháček",
+        "cityId": "prague",
+        "categoryId": "bookshops",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Miroslav%20Mach%C3%A1%C4%8Dek%2C%20Prague",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Miroslav_Mach%C3%A1%C4%8Dek",
+        "photo": null
+      },
+      {
+        "id": "prague-bookshops-8",
+        "name": "Ed Sanders",
+        "cityId": "prague",
+        "categoryId": "bookshops",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Ed%20Sanders%2C%20Prague",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Ed_Sanders",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Ed_Sanders_at_House_Divided.png/960px-Ed_Sanders_at_House_Divided.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Ed_Sanders"
+        }
+      },
+      {
+        "id": "prague-bookshops-9",
+        "name": "Ukrainian Book Institute",
+        "cityId": "prague",
+        "categoryId": "bookshops",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Ukrainian%20Book%20Institute%2C%20Prague",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Ukrainian_Book_Institute",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Logo_of_the_Ukrainian_Book_Institute.svg/960px-Logo_of_the_Ukrainian_Book_Institute.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Ukrainian_Book_Institute"
+        }
+      },
+      {
+        "id": "prague-bookshops-10",
+        "name": "Waiter, Scarper!",
+        "cityId": "prague",
+        "categoryId": "bookshops",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Waiter%2C%20Scarper!%2C%20Prague",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Waiter%2C_Scarper!",
+        "photo": null
+      },
+      {
+        "id": "prague-bookshops-11",
+        "name": "Ladislav Rieger",
+        "cityId": "prague",
+        "categoryId": "bookshops",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Ladislav%20Rieger%2C%20Prague",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Ladislav_Rieger",
+        "photo": null
+      },
+      {
+        "id": "prague-bookshops-12",
+        "name": "National Register of Historic Places listings in Lincoln County, Oklahoma",
+        "cityId": "prague",
+        "categoryId": "bookshops",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=National%20Register%20of%20Historic%20Places%20listings%20in%20Lincoln%20County%2C%20Oklahoma%2C%20Prague",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/National_Register_of_Historic_Places_listings_in_Lincoln_County%2C_Oklahoma",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Map_of_Oklahoma_highlighting_Lincoln_County.svg/960px-Map_of_Oklahoma_highlighting_Lincoln_County.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/National_Register_of_Historic_Places_listings_in_Lincoln_County%2C_Oklahoma"
+        }
+      },
+      {
+        "id": "prague-bookshops-13",
+        "name": "Ron Kolm",
+        "cityId": "prague",
+        "categoryId": "bookshops",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Ron%20Kolm%2C%20Prague",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Ron_Kolm",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/65/Ron_Kolm_at_A_Gathering_of_the_Tribes_NYC_Sep_2011.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Ron_Kolm"
+        }
+      },
+      {
+        "id": "prague-bookshops-14",
+        "name": "YMCA Press",
+        "cityId": "prague",
+        "categoryId": "bookshops",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=YMCA%20Press%2C%20Prague",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/YMCA_Press",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Russian_bookstore_Les_Editeurs_R%C3%A9unis_in_Paris%2C_headquarters_of_YMCA-Press_publishing_house.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/YMCA_Press"
+        }
+      },
+      {
+        "id": "prague-bookshops-15",
+        "name": "Ludwig Berwald",
+        "cityId": "prague",
+        "categoryId": "bookshops",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Ludwig%20Berwald%2C%20Prague",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Ludwig_Berwald",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/61/Ludwig_Berwald.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Ludwig_Berwald"
+        }
+      },
+      {
+        "id": "prague-bookshops-16",
+        "name": "Lincoln County, Oklahoma",
+        "cityId": "prague",
+        "categoryId": "bookshops",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Lincoln%20County%2C%20Oklahoma%2C%20Prague",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Lincoln_County%2C_Oklahoma",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Lincoln_County_Courthouse%2C_Chandler%2C_Oklahoma.jpg/960px-Lincoln_County_Courthouse%2C_Chandler%2C_Oklahoma.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Lincoln_County%2C_Oklahoma"
+        }
+      },
+      {
+        "id": "prague-bookshops-17",
+        "name": "Jan Otto",
+        "cityId": "prague",
+        "categoryId": "bookshops",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Jan%20Otto%2C%20Prague",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Jan_Otto",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/5c/%C4%8Cesk%C3%BD_sv%C4%9Bt_-_04.10.1907_-_Jan_Otto.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Jan_Otto"
+        }
+      },
+      {
+        "id": "prague-bookshops-18",
+        "name": "Antonín Wiehl",
+        "cityId": "prague",
+        "categoryId": "bookshops",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Anton%C3%ADn%20Wiehl%2C%20Prague",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Anton%C3%ADn_Wiehl",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Wiehl_Anton%C3%ADn2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Anton%C3%ADn_Wiehl"
+        }
+      }
+    ],
+    "museums": [
+      {
+        "id": "prague-museums-1",
+        "name": "National Museum",
+        "cityId": "prague",
+        "categoryId": "museums",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=National%20Museum%2C%20Prague",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/National_Museum_(Prague)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/Museo_Nacional%2C_Praga%2C_Rep%C3%BAblica_Checa%2C_2022-07-02%2C_DD_265-267_HDR.jpg/960px-Museo_Nacional%2C_Praga%2C_Rep%C3%BAblica_Checa%2C_2022-07-02%2C_DD_265-267_HDR.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/National_Museum_(Prague)"
+        }
+      },
+      {
+        "id": "prague-museums-2",
+        "name": "Prague",
+        "cityId": "prague",
+        "categoryId": "museums",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Prague%2C%20Prague",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Prague",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Prague_%286365119737%29.jpg/960px-Prague_%286365119737%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Prague"
+        }
+      },
+      {
+        "id": "prague-museums-3",
+        "name": "Prague 7",
+        "cityId": "prague",
+        "categoryId": "museums",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Prague%207%2C%20Prague",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Prague_7",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Praha%2C_Hole%C5%A1ovice%2C_Budova_Prahy_7.JPG/960px-Praha%2C_Hole%C5%A1ovice%2C_Budova_Prahy_7.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Prague_7"
+        }
+      },
+      {
+        "id": "prague-museums-4",
+        "name": "Memories of Prague",
+        "cityId": "prague",
+        "categoryId": "museums",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Memories%20of%20Prague%2C%20Prague",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Memories_of_Prague",
+        "photo": null
+      },
+      {
+        "id": "prague-museums-5",
+        "name": "Antonín Dvořák Museum",
+        "cityId": "prague",
+        "categoryId": "museums",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Anton%C3%ADn%20Dvo%C5%99%C3%A1k%20Museum%2C%20Prague",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Anton%C3%ADn_Dvo%C5%99%C3%A1k_Museum",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/Vila_Amerika_3.jpg/960px-Vila_Amerika_3.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Anton%C3%ADn_Dvo%C5%99%C3%A1k_Museum"
+        }
+      },
+      {
+        "id": "prague-museums-6",
+        "name": "Kbely Aviation Museum",
+        "cityId": "prague",
+        "categoryId": "museums",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Kbely%20Aviation%20Museum%2C%20Prague",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Kbely_Aviation_Museum",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Kbely_2019.jpg/960px-Kbely_2019.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Kbely_Aviation_Museum"
+        }
+      },
+      {
+        "id": "prague-museums-7",
+        "name": "Franz Kafka Museum",
+        "cityId": "prague",
+        "categoryId": "museums",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Franz%20Kafka%20Museum%2C%20Prague",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Franz_Kafka_Museum",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Kafka_Museum_-_panoramio_%281%29.jpg/960px-Kafka_Museum_-_panoramio_%281%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Franz_Kafka_Museum"
+        }
+      },
+      {
+        "id": "prague-museums-8",
+        "name": "Jewish Museum in Prague",
+        "cityId": "prague",
+        "categoryId": "museums",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Jewish%20Museum%20in%20Prague%2C%20Prague",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Jewish_Museum_in_Prague",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Jewish_Museum_in_Prague-_Headquarters_and_the_Spanish_Synagogue.jpg/960px-Jewish_Museum_in_Prague-_Headquarters_and_the_Spanish_Synagogue.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Jewish_Museum_in_Prague"
+        }
+      },
+      {
+        "id": "prague-museums-9",
+        "name": "1932 World Table Tennis Championships",
+        "cityId": "prague",
+        "categoryId": "museums",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=1932%20World%20Table%20Tennis%20Championships%2C%20Prague",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/1932_World_Table_Tennis_Championships",
+        "photo": null
+      },
+      {
+        "id": "prague-museums-10",
+        "name": "Stanislav Libenský and Jaroslava Brychtová",
+        "cityId": "prague",
+        "categoryId": "museums",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Stanislav%20Libensk%C3%BD%20and%20Jaroslava%20Brychtov%C3%A1%2C%20Prague",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Stanislav_Libensk%C3%BD_and_Jaroslava_Brychtov%C3%A1",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/74/Libensky1999.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Stanislav_Libensk%C3%BD_and_Jaroslava_Brychtov%C3%A1"
+        }
+      },
+      {
+        "id": "prague-museums-11",
+        "name": "1963 World Table Tennis Championships",
+        "cityId": "prague",
+        "categoryId": "museums",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=1963%20World%20Table%20Tennis%20Championships%2C%20Prague",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/1963_World_Table_Tennis_Championships",
+        "photo": null
+      },
+      {
+        "id": "prague-museums-12",
+        "name": "Museum of Decorative Arts in Prague",
+        "cityId": "prague",
+        "categoryId": "museums",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Museum%20of%20Decorative%20Arts%20in%20Prague%2C%20Prague",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Museum_of_Decorative_Arts_in_Prague",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Praha_UmPrum_1.jpg/960px-Praha_UmPrum_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Museum_of_Decorative_Arts_in_Prague"
+        }
+      },
+      {
+        "id": "prague-museums-13",
+        "name": "1936 World Table Tennis Championships",
+        "cityId": "prague",
+        "categoryId": "museums",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=1936%20World%20Table%20Tennis%20Championships%2C%20Prague",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/1936_World_Table_Tennis_Championships",
+        "photo": null
+      },
+      {
+        "id": "prague-museums-14",
+        "name": "Josef Koudelka",
+        "cityId": "prague",
+        "categoryId": "museums",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Josef%20Koudelka%2C%20Prague",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Josef_Koudelka",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Koudelka.jpg/960px-Koudelka.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Josef_Koudelka"
+        }
+      },
+      {
+        "id": "prague-museums-15",
+        "name": "Prague 1",
+        "cityId": "prague",
+        "categoryId": "museums",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Prague%201%2C%20Prague",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Prague_1",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/CharlesBridgeMalaStranaPragueCzechRepublic.jpg/960px-CharlesBridgeMalaStranaPragueCzechRepublic.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Prague_1"
+        }
+      },
+      {
+        "id": "prague-museums-16",
+        "name": "National Technical Museum",
+        "cityId": "prague",
+        "categoryId": "museums",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=National%20Technical%20Museum%2C%20Prague",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/National_Technical_Museum",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Budova_N%C3%A1rodn%C3%ADho_technick%C3%A9ho_muzea_na_Letn%C3%A9.jpg/960px-Budova_N%C3%A1rodn%C3%ADho_technick%C3%A9ho_muzea_na_Letn%C3%A9.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/National_Technical_Museum"
+        }
+      },
+      {
+        "id": "prague-museums-17",
+        "name": "František Kupka",
+        "cityId": "prague",
+        "categoryId": "museums",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Franti%C5%A1ek%20Kupka%2C%20Prague",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Franti%C5%A1ek_Kupka",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/05/Frantisek_Kupka_1928.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Franti%C5%A1ek_Kupka"
+        }
+      },
+      {
+        "id": "prague-museums-18",
+        "name": "Mark Podwal",
+        "cityId": "prague",
+        "categoryId": "museums",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Mark%20Podwal%2C%20Prague",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Mark_Podwal",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/en/9/94/MarkPodwal_PressPhoto.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Mark_Podwal"
+        }
+      }
+    ],
+    "concerts": [
+      {
+        "id": "prague-concerts-1",
+        "name": "1936 World Table Tennis Championships",
+        "cityId": "prague",
+        "categoryId": "concerts",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=1936%20World%20Table%20Tennis%20Championships%2C%20Prague",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/1936_World_Table_Tennis_Championships",
+        "photo": null
+      },
+      {
+        "id": "prague-concerts-2",
+        "name": "Czech Philharmonic",
+        "cityId": "prague",
+        "categoryId": "concerts",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Czech%20Philharmonic%2C%20Prague",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Czech_Philharmonic",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Rudolfinum_Prague.jpg/960px-Rudolfinum_Prague.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Czech_Philharmonic"
+        }
+      },
+      {
+        "id": "prague-concerts-3",
+        "name": "Prague Spring International Music Festival",
+        "cityId": "prague",
+        "categoryId": "concerts",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Prague%20Spring%20International%20Music%20Festival%2C%20Prague",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Prague_Spring_International_Music_Festival",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/52/Prague_Municipal_Smetana_Hall.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Prague_Spring_International_Music_Festival"
+        }
+      },
+      {
+        "id": "prague-concerts-4",
+        "name": "Municipal House",
+        "cityId": "prague",
+        "categoryId": "concerts",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Municipal%20House%2C%20Prague",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Municipal_House",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Jugendstil_Prag_Gemeindehaus_1.jpg/960px-Jugendstil_Prag_Gemeindehaus_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Municipal_House"
+        }
+      },
+      {
+        "id": "prague-concerts-5",
+        "name": "Aleš Bárta",
+        "cityId": "prague",
+        "categoryId": "concerts",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Ale%C5%A1%20B%C3%A1rta%2C%20Prague",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Ale%C5%A1_B%C3%A1rta",
+        "photo": null
+      },
+      {
+        "id": "prague-concerts-6",
+        "name": "Bamberg Symphony",
+        "cityId": "prague",
+        "categoryId": "concerts",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Bamberg%20Symphony%2C%20Prague",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Bamberg_Symphony",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Bamberger_Symphoniker%2C_Kurhaus_Wiesbaden.jpg/960px-Bamberger_Symphoniker%2C_Kurhaus_Wiesbaden.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Bamberg_Symphony"
+        }
+      },
+      {
+        "id": "prague-concerts-7",
+        "name": "Jan Palach Square",
+        "cityId": "prague",
+        "categoryId": "concerts",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Jan%20Palach%20Square%2C%20Prague",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Jan_Palach_Square",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Praha%2C_Star%C3%A9_M%C4%9Bsto%2C_N%C3%A1m%C4%9Bst%C3%AD_Jana_Palacha_01.jpg/960px-Praha%2C_Star%C3%A9_M%C4%9Bsto%2C_N%C3%A1m%C4%9Bst%C3%AD_Jana_Palacha_01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Jan_Palach_Square"
+        }
+      },
+      {
+        "id": "prague-concerts-8",
+        "name": "Milan Sachs",
+        "cityId": "prague",
+        "categoryId": "concerts",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Milan%20Sachs%2C%20Prague",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Milan_Sachs",
+        "photo": null
+      },
+      {
+        "id": "prague-concerts-9",
+        "name": "Radiohuset",
+        "cityId": "prague",
+        "categoryId": "concerts",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Radiohuset%2C%20Prague",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Radiohuset",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Radiohuset_Frederiksberg.jpg/960px-Radiohuset_Frederiksberg.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Radiohuset"
+        }
+      },
+      {
+        "id": "prague-concerts-10",
+        "name": "St. George's Basilica, Prague",
+        "cityId": "prague",
+        "categoryId": "concerts",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=St.%20George's%20Basilica%2C%20Prague%2C%20Prague",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/St._George's_Basilica%2C_Prague",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Czech-03809_-_St._George%27s_Basilica_%2832204970373%29.jpg/960px-Czech-03809_-_St._George%27s_Basilica_%2832204970373%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/St._George's_Basilica%2C_Prague"
+        }
+      },
+      {
+        "id": "prague-concerts-11",
+        "name": "PKF – Prague Philharmonia",
+        "cityId": "prague",
+        "categoryId": "concerts",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=PKF%20%E2%80%93%20Prague%20Philharmonia%2C%20Prague",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/PKF_%E2%80%93_Prague_Philharmonia",
+        "photo": null
+      },
+      {
+        "id": "prague-concerts-12",
+        "name": "Orchestral Works by Tomas Svoboda",
+        "cityId": "prague",
+        "categoryId": "concerts",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Orchestral%20Works%20by%20Tomas%20Svoboda%2C%20Prague",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Orchestral_Works_by_Tomas_Svoboda",
+        "photo": null
+      },
+      {
+        "id": "prague-concerts-13",
+        "name": "Gypsy Devils",
+        "cityId": "prague",
+        "categoryId": "concerts",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Gypsy%20Devils%2C%20Prague",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Gypsy_Devils",
+        "photo": null
+      },
+      {
+        "id": "prague-concerts-14",
+        "name": "Rudolfinum",
+        "cityId": "prague",
+        "categoryId": "concerts",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Rudolfinum%2C%20Prague",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Rudolfinum",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Praha_Rudolfinum_front.jpg/960px-Praha_Rudolfinum_front.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Rudolfinum"
+        }
+      },
+      {
+        "id": "prague-concerts-15",
+        "name": "Pascal Quartet",
+        "cityId": "prague",
+        "categoryId": "concerts",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Pascal%20Quartet%2C%20Prague",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Pascal_Quartet",
+        "photo": null
+      },
+      {
+        "id": "prague-concerts-16",
+        "name": "Kristýna Znamenáčková",
+        "cityId": "prague",
+        "categoryId": "concerts",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Krist%C3%BDna%20Znamen%C3%A1%C4%8Dkov%C3%A1%2C%20Prague",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Krist%C3%BDna_Znamen%C3%A1%C4%8Dkov%C3%A1",
+        "photo": null
+      },
+      {
+        "id": "prague-concerts-17",
+        "name": "Elektra",
+        "cityId": "prague",
+        "categoryId": "concerts",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Elektra%2C%20Prague",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Elektra_(Suspekt_album)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Frederik_Magle_conducting_2011_%28IV%29.jpg/960px-Frederik_Magle_conducting_2011_%28IV%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Elektra_(Suspekt_album)"
+        }
+      },
+      {
+        "id": "prague-concerts-18",
+        "name": "Prague Radio Symphony Orchestra",
+        "cityId": "prague",
+        "categoryId": "concerts",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Prague%20Radio%20Symphony%20Orchestra%2C%20Prague",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Prague_Radio_Symphony_Orchestra",
+        "photo": null
+      }
+    ],
+    "fashion": [
+      {
+        "id": "prague-fashion-1",
+        "name": "Kniže & Comp.",
+        "cityId": "prague",
+        "categoryId": "fashion",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Kni%C5%BEe%20%26%20Comp.%2C%20Prague",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Kni%C5%BEe_%26_Comp.",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Knize2.JPG/960px-Knize2.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Kni%C5%BEe_%26_Comp."
+        }
+      },
+      {
+        "id": "prague-fashion-2",
+        "name": "1968 in British music",
+        "cityId": "prague",
+        "categoryId": "fashion",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=1968%20in%20British%20music%2C%20Prague",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/1968_in_British_music",
+        "photo": null
+      },
+      {
+        "id": "prague-fashion-3",
+        "name": "Nathalie Emmanuel",
+        "cityId": "prague",
+        "categoryId": "fashion",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Nathalie%20Emmanuel%2C%20Prague",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Nathalie_Emmanuel",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Nathalie_Emmanuel_at_82nd_Venice_International_Film_Festival-3_%28cropped%29.jpg/960px-Nathalie_Emmanuel_at_82nd_Venice_International_Film_Festival-3_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Nathalie_Emmanuel"
+        }
+      },
+      {
+        "id": "prague-fashion-4",
+        "name": "Lindex",
+        "cityId": "prague",
+        "categoryId": "fashion",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Lindex%2C%20Prague",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Lindex",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Lindex_Jyv%C3%A4skyl%C3%A4.jpg/960px-Lindex_Jyv%C3%A4skyl%C3%A4.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Lindex"
+        }
+      },
+      {
+        "id": "prague-fashion-5",
+        "name": "Stolpersteine in Plzeň Region",
+        "cityId": "prague",
+        "categoryId": "fashion",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Stolpersteine%20in%20Plze%C5%88%20Region%2C%20Prague",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Stolpersteine_in_Plze%C5%88_Region",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Stolpersteine_f%C3%BCr_Familie_Lederer_in_Horazdovice.jpg/960px-Stolpersteine_f%C3%BCr_Familie_Lederer_in_Horazdovice.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Stolpersteine_in_Plze%C5%88_Region"
+        }
+      },
+      {
+        "id": "prague-fashion-6",
+        "name": "Great Famine",
+        "cityId": "prague",
+        "categoryId": "fashion",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Great%20Famine%2C%20Prague",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Great_Famine_(Greece)",
+        "photo": null
+      },
+      {
+        "id": "prague-fashion-7",
+        "name": "Anastacia",
+        "cityId": "prague",
+        "categoryId": "fashion",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Anastacia%2C%20Prague",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Anastacia",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Anastacia_-_2023335220042_2023-12-01_Night_of_the_Proms_-_Sven_-_1D_X_MK_II_-_1849_-_B70I5327_%28cropped%29.jpg/960px-Anastacia_-_2023335220042_2023-12-01_Night_of_the_Proms_-_Sven_-_1D_X_MK_II_-_1849_-_B70I5327_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Anastacia"
+        }
+      },
+      {
+        "id": "prague-fashion-8",
+        "name": "The Real World: Seattle",
+        "cityId": "prague",
+        "categoryId": "fashion",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Real%20World%3A%20Seattle%2C%20Prague",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/The_Real_World%3A_Seattle",
+        "photo": null
+      },
+      {
+        "id": "prague-fashion-9",
+        "name": "Carmen Sandiego",
+        "cityId": "prague",
+        "categoryId": "fashion",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Carmen%20Sandiego%2C%20Prague",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Carmen_Sandiego_(TV_series)",
+        "photo": null
+      },
+      {
+        "id": "prague-fashion-10",
+        "name": "Double-decker bus",
+        "cityId": "prague",
+        "categoryId": "fashion",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Double-decker%20bus%2C%20Prague",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Double-decker_bus",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/Abellio_LT157_%28LTZ1157%29_Holborn_Viaduct_20.01.2024.jpg/960px-Abellio_LT157_%28LTZ1157%29_Holborn_Viaduct_20.01.2024.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Double-decker_bus"
+        }
+      },
+      {
+        "id": "prague-fashion-11",
+        "name": "1968 in music",
+        "cityId": "prague",
+        "categoryId": "fashion",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=1968%20in%20music%2C%20Prague",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/1968_in_music",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/The_Doors_in_Copenhagen_1968.jpg/960px-The_Doors_in_Copenhagen_1968.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/1968_in_music"
+        }
+      },
+      {
+        "id": "prague-fashion-12",
+        "name": "Douglas Coupland",
+        "cityId": "prague",
+        "categoryId": "fashion",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Douglas%20Coupland%2C%20Prague",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Douglas_Coupland",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Douglas_Coupland.2022.jpg/960px-Douglas_Coupland.2022.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Douglas_Coupland"
+        }
+      },
+      {
+        "id": "prague-fashion-13",
+        "name": "United Kingdom labour law",
+        "cityId": "prague",
+        "categoryId": "fashion",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=United%20Kingdom%20labour%20law%2C%20Prague",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/United_Kingdom_labour_law",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Rush_hour%2C_Liverpool_Street_-_geograph.org.uk_-_479177.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/United_Kingdom_labour_law"
+        }
+      },
+      {
+        "id": "prague-fashion-14",
+        "name": "Kanye West videography",
+        "cityId": "prague",
+        "categoryId": "fashion",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Kanye%20West%20videography%2C%20Prague",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Kanye_West_videography",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Kanye_West_at_the_2009_Tribeca_Film_Festival_%28cropped%29.jpg/960px-Kanye_West_at_the_2009_Tribeca_Film_Festival_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Kanye_West_videography"
+        }
+      },
+      {
+        "id": "prague-fashion-15",
+        "name": "Přemysl Otakar II. Square",
+        "cityId": "prague",
+        "categoryId": "fashion",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=P%C5%99emysl%20Otakar%20II.%20Square%2C%20Prague",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/P%C5%99emysl_Otakar_II._Square",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/%C4%8Cesk%C3%A9_Bud%C4%9Bjovice_-_n%C3%A1m%C4%9Bst%C3%AD_z_%C4%8Cern%C3%A9_ve%C5%BEe.jpg/960px-%C4%8Cesk%C3%A9_Bud%C4%9Bjovice_-_n%C3%A1m%C4%9Bst%C3%AD_z_%C4%8Cern%C3%A9_ve%C5%BEe.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/P%C5%99emysl_Otakar_II._Square"
+        }
+      },
+      {
+        "id": "prague-fashion-16",
+        "name": "Women in aviation",
+        "cityId": "prague",
+        "categoryId": "fashion",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Women%20in%20aviation%2C%20Prague",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Women_in_aviation",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Air_Force%27s_first_African_American_female_fighter_pilot_080317-F-XX000-064.jpg/960px-Air_Force%27s_first_African_American_female_fighter_pilot_080317-F-XX000-064.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Women_in_aviation"
+        }
+      },
+      {
+        "id": "prague-fashion-17",
+        "name": "Timeline of Animal Liberation Front actions",
+        "cityId": "prague",
+        "categoryId": "fashion",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Timeline%20of%20Animal%20Liberation%20Front%20actions%2C%20Prague",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Timeline_of_Animal_Liberation_Front_actions",
+        "photo": null
+      },
+      {
+        "id": "prague-fashion-18",
+        "name": "Department stores by country",
+        "cityId": "prague",
+        "categoryId": "fashion",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Department%20stores%20by%20country%2C%20Prague",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Department_stores_by_country",
+        "photo": null
+      }
+    ],
+    "shops": [
+      {
+        "id": "prague-shops-1",
+        "name": "Ján Kadár",
+        "cityId": "prague",
+        "categoryId": "shops",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=J%C3%A1n%20Kad%C3%A1r%2C%20Prague",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/J%C3%A1n_Kad%C3%A1r",
+        "photo": null
+      },
+      {
+        "id": "prague-shops-2",
+        "name": "Petr Král",
+        "cityId": "prague",
+        "categoryId": "shops",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Petr%20Kr%C3%A1l%2C%20Prague",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Petr_Kr%C3%A1l",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Petr_Kr%C3%A1l_04%2Cin_his_study.jpg/960px-Petr_Kr%C3%A1l_04%2Cin_his_study.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Petr_Kr%C3%A1l"
+        }
+      },
+      {
+        "id": "prague-shops-3",
+        "name": "Czechoslovak New Wave",
+        "cityId": "prague",
+        "categoryId": "shops",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Czechoslovak%20New%20Wave%2C%20Prague",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Czechoslovak_New_Wave",
+        "photo": null
+      },
+      {
+        "id": "prague-shops-4",
+        "name": "Cinema of Slovakia",
+        "cityId": "prague",
+        "categoryId": "shops",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Cinema%20of%20Slovakia%2C%20Prague",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Cinema_of_Slovakia",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Slovakia_film_clapperboard.svg/960px-Slovakia_film_clapperboard.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Cinema_of_Slovakia"
+        }
+      },
+      {
+        "id": "prague-shops-5",
+        "name": "2000 Prague anti-globalization protests",
+        "cityId": "prague",
+        "categoryId": "shops",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=2000%20Prague%20anti-globalization%20protests%2C%20Prague",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/2000_Prague_anti-globalization_protests",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/41/Kucera_Jaroslav_Praha%2C_Lum%C3%ADrova_ulice_2000_ANARCHISTI.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/2000_Prague_anti-globalization_protests"
+        }
+      },
+      {
+        "id": "prague-shops-6",
+        "name": "Juraj Herz",
+        "cityId": "prague",
+        "categoryId": "shops",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Juraj%20Herz%2C%20Prague",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Juraj_Herz",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Juraj_Herz_KVIFF.jpg/960px-Juraj_Herz_KVIFF.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Juraj_Herz"
+        }
+      },
+      {
+        "id": "prague-shops-7",
+        "name": "Wilhelm Junk",
+        "cityId": "prague",
+        "categoryId": "shops",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Wilhelm%20Junk%2C%20Prague",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Wilhelm_Junk",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/85/Junk%282%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Wilhelm_Junk"
+        }
+      },
+      {
+        "id": "prague-shops-8",
+        "name": "Václav Frič",
+        "cityId": "prague",
+        "categoryId": "shops",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=V%C3%A1clav%20Fri%C4%8D%2C%20Prague",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/V%C3%A1clav_Fri%C4%8D",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Vaclav_Fric.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/V%C3%A1clav_Fri%C4%8D"
+        }
+      },
+      {
+        "id": "prague-shops-9",
+        "name": "Assassination of Reinhard Heydrich",
+        "cityId": "prague",
+        "categoryId": "shops",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Assassination%20of%20Reinhard%20Heydrich%2C%20Prague",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Assassination_of_Reinhard_Heydrich",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/27/Bundesarchiv_Bild_146-1972-039-44%2C_Heydrich-Attentat.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Assassination_of_Reinhard_Heydrich"
+        }
+      },
+      {
+        "id": "prague-shops-10",
+        "name": "Alphonse Mucha",
+        "cityId": "prague",
+        "categoryId": "shops",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Alphonse%20Mucha%2C%20Prague",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Alphonse_Mucha",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Photographic_selfportrait_of_Alfons_Mucha%2C_1928_%282%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Alphonse_Mucha"
+        }
+      },
+      {
+        "id": "prague-shops-11",
+        "name": "John Stephenson",
+        "cityId": "prague",
+        "categoryId": "shops",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=John%20Stephenson%2C%20Prague",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/John_Stephenson_(director)",
+        "photo": null
+      },
+      {
+        "id": "prague-shops-12",
+        "name": "Zdeněk Liška",
+        "cityId": "prague",
+        "categoryId": "shops",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Zden%C4%9Bk%20Li%C5%A1ka%2C%20Prague",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Zden%C4%9Bk_Li%C5%A1ka",
+        "photo": null
+      },
+      {
+        "id": "prague-shops-13",
+        "name": "Ahold Delhaize",
+        "cityId": "prague",
+        "categoryId": "shops",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Ahold%20Delhaize%2C%20Prague",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Ahold_Delhaize",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Albert_Heijn_Headquarters_by_Niels_Kim.jpg/960px-Albert_Heijn_Headquarters_by_Niels_Kim.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Ahold_Delhaize"
+        }
+      },
+      {
+        "id": "prague-shops-14",
+        "name": "Fortuna Arena",
+        "cityId": "prague",
+        "categoryId": "shops",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Fortuna%20Arena%2C%20Prague",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Fortuna_Arena",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/Praha%2C_Slavia%2C_fotbalov%C3%BD_stadion_%282%29.jpg/960px-Praha%2C_Slavia%2C_fotbalov%C3%BD_stadion_%282%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Fortuna_Arena"
+        }
+      },
+      {
+        "id": "prague-shops-15",
+        "name": "Hedwig Rosenbaum",
+        "cityId": "prague",
+        "categoryId": "shops",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Hedwig%20Rosenbaum%2C%20Prague",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Hedwig_Rosenbaum",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Hedwig_Rosenbaumov%C3%A1_%281864-1939%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Hedwig_Rosenbaum"
+        }
+      },
+      {
+        "id": "prague-shops-16",
+        "name": "Sadeler family",
+        "cityId": "prague",
+        "categoryId": "shops",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Sadeler%20family%2C%20Prague",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Sadeler_family",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Portret_van_Aegidius_Sadeler%2C_RP-P-OB-9046_%28cropped%29.jpg/960px-Portret_van_Aegidius_Sadeler%2C_RP-P-OB-9046_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Sadeler_family"
+        }
+      },
+      {
+        "id": "prague-shops-17",
+        "name": "Prague Marathon",
+        "cityId": "prague",
+        "categoryId": "shops",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Prague%20Marathon%2C%20Prague",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Prague_Marathon",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Prague_2008_Finish.jpg/960px-Prague_2008_Finish.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Prague_Marathon"
+        }
+      },
+      {
+        "id": "prague-shops-18",
+        "name": "Nova borba",
+        "cityId": "prague",
+        "categoryId": "shops",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Nova%20borba%2C%20Prague",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Nova_borba",
+        "photo": null
+      }
+    ]
+  }
+}

@@ -1,0 +1,2428 @@
+{
+  "cityId": "vienna",
+  "generatedAt": "2026-11-27T09:38:06.614Z",
+  "source": "Wikipedia API + Maps URLs (sin scraping de Google)",
+  "incomplete": [],
+  "categories": {
+    "night_clubs": [
+      {
+        "id": "vienna-night_clubs-1",
+        "name": "Liane Augustin",
+        "cityId": "vienna",
+        "categoryId": "night_clubs",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Liane%20Augustin%2C%20Vienna",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Liane_Augustin",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Eurovision_Song_Contest_1958_-_Liane_Augustin_2.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Liane_Augustin"
+        }
+      },
+      {
+        "id": "vienna-night_clubs-2",
+        "name": "Flex",
+        "cityId": "vienna",
+        "categoryId": "night_clubs",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Flex%2C%20Vienna",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Flex_(club)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Flex_cafe_DRI.jpg/960px-Flex_cafe_DRI.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Flex_(club)"
+        }
+      },
+      {
+        "id": "vienna-night_clubs-3",
+        "name": "Benno Vigny",
+        "cityId": "vienna",
+        "categoryId": "night_clubs",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Benno%20Vigny%2C%20Vienna",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Benno_Vigny",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/29/Benno_Vigny_-_Marie-Louise_Caussat.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Benno_Vigny"
+        }
+      },
+      {
+        "id": "vienna-night_clubs-4",
+        "name": "Volksgarten, Vienna",
+        "cityId": "vienna",
+        "categoryId": "night_clubs",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Volksgarten%2C%20Vienna%2C%20Vienna",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Volksgarten%2C_Vienna",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/Wien_-_Volksgarten_%28b%29.JPG/960px-Wien_-_Volksgarten_%28b%29.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Volksgarten%2C_Vienna"
+        }
+      },
+      {
+        "id": "vienna-night_clubs-5",
+        "name": "The Viper Room",
+        "cityId": "vienna",
+        "categoryId": "night_clubs",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Viper%20Room%2C%20Vienna",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/The_Viper_Room",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/Viper_Room.jpg/960px-Viper_Room.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/The_Viper_Room"
+        }
+      },
+      {
+        "id": "vienna-night_clubs-6",
+        "name": "Fatty George",
+        "cityId": "vienna",
+        "categoryId": "night_clubs",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Fatty%20George%2C%20Vienna",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Fatty_George",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/16/Fatty_George_%281927-1982%29_gravestone_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Fatty_George"
+        }
+      },
+      {
+        "id": "vienna-night_clubs-7",
+        "name": "Frida Uhl",
+        "cityId": "vienna",
+        "categoryId": "night_clubs",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Frida%20Uhl%2C%20Vienna",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Frida_Uhl",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Frida_Uhl.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Frida_Uhl"
+        }
+      },
+      {
+        "id": "vienna-night_clubs-8",
+        "name": "Prisoners",
+        "cityId": "vienna",
+        "categoryId": "night_clubs",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Prisoners%2C%20Vienna",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Prisoners_(1929_film)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Prisoners_poster.jpg/960px-Prisoners_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Prisoners_(1929_film)"
+        }
+      },
+      {
+        "id": "vienna-night_clubs-9",
+        "name": "Mathias Rüegg",
+        "cityId": "vienna",
+        "categoryId": "night_clubs",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Mathias%20R%C3%BCegg%2C%20Vienna",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Mathias_R%C3%BCegg",
+        "photo": null
+      },
+      {
+        "id": "vienna-night_clubs-10",
+        "name": "Martha Schlamme",
+        "cityId": "vienna",
+        "categoryId": "night_clubs",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Martha%20Schlamme%2C%20Vienna",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Martha_Schlamme",
+        "photo": null
+      },
+      {
+        "id": "vienna-night_clubs-11",
+        "name": "Cabaret",
+        "cityId": "vienna",
+        "categoryId": "night_clubs",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Cabaret%2C%20Vienna",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Cabaret",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/Henri_de_Toulouse-Lautrec%2C_French_-_At_the_Moulin_Rouge-_The_Dance_-_Google_Art_Project.jpg/960px-Henri_de_Toulouse-Lautrec%2C_French_-_At_the_Moulin_Rouge-_The_Dance_-_Google_Art_Project.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Cabaret"
+        }
+      },
+      {
+        "id": "vienna-night_clubs-12",
+        "name": "Abu Waheeb",
+        "cityId": "vienna",
+        "categoryId": "night_clubs",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Abu%20Waheeb%2C%20Vienna",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Abu_Waheeb",
+        "photo": null
+      },
+      {
+        "id": "vienna-night_clubs-13",
+        "name": "Timeline of the Islamic State",
+        "cityId": "vienna",
+        "categoryId": "night_clubs",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Timeline%20of%20the%20Islamic%20State%2C%20Vienna",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Timeline_of_the_Islamic_State_(2020)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/Islamic_State_flag.svg/960px-Islamic_State_flag.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Timeline_of_the_Islamic_State_(2020)"
+        }
+      },
+      {
+        "id": "vienna-night_clubs-14",
+        "name": "Stadtpark, Vienna",
+        "cityId": "vienna",
+        "categoryId": "night_clubs",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Stadtpark%2C%20Vienna%2C%20Vienna",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Stadtpark%2C_Vienna",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/Stadtpark_station.JPG/960px-Stadtpark_station.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Stadtpark%2C_Vienna"
+        }
+      },
+      {
+        "id": "vienna-night_clubs-15",
+        "name": "The Song You Gave Me",
+        "cityId": "vienna",
+        "categoryId": "night_clubs",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Song%20You%20Gave%20Me%2C%20Vienna",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/The_Song_You_Gave_Me",
+        "photo": null
+      },
+      {
+        "id": "vienna-night_clubs-16",
+        "name": "United Nations Office on Drugs and Crime",
+        "cityId": "vienna",
+        "categoryId": "night_clubs",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=United%20Nations%20Office%20on%20Drugs%20and%20Crime%2C%20Vienna",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/United_Nations_Office_on_Drugs_and_Crime",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Austria_august2010_0073.jpg/960px-Austria_august2010_0073.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/United_Nations_Office_on_Drugs_and_Crime"
+        }
+      },
+      {
+        "id": "vienna-night_clubs-17",
+        "name": "Music venue",
+        "cityId": "vienna",
+        "categoryId": "night_clubs",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Music%20venue%2C%20Vienna",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Music_venue",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Sydney_Opera_House_Concert_Theatre.JPG/960px-Sydney_Opera_House_Concert_Theatre.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Music_venue"
+        }
+      },
+      {
+        "id": "vienna-night_clubs-18",
+        "name": "Flak tower",
+        "cityId": "vienna",
+        "categoryId": "night_clubs",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Flak%20tower%2C%20Vienna",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Flak_tower",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Wien_-_Flakturm_Augarten_%281%29.JPG/960px-Wien_-_Flakturm_Augarten_%281%29.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Flak_tower"
+        }
+      }
+    ],
+    "restaurants": [
+      {
+        "id": "vienna-restaurants-1",
+        "name": "Freddy's Frozen Custard & Steakburgers",
+        "cityId": "vienna",
+        "categoryId": "restaurants",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Freddy's%20Frozen%20Custard%20%26%20Steakburgers%2C%20Vienna",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Freddy's_Frozen_Custard_%26_Steakburgers",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Freddy%27s_Frozen_Custard_%26_Steakburgers_%2854860187299%29.jpg/960px-Freddy%27s_Frozen_Custard_%26_Steakburgers_%2854860187299%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Freddy's_Frozen_Custard_%26_Steakburgers"
+        }
+      },
+      {
+        "id": "vienna-restaurants-2",
+        "name": "Wienerwald",
+        "cityId": "vienna",
+        "categoryId": "restaurants",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Wienerwald%2C%20Vienna",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Wienerwald_(restaurant)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/Restaurant_Wienerwald.jpg/960px-Restaurant_Wienerwald.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Wienerwald_(restaurant)"
+        }
+      },
+      {
+        "id": "vienna-restaurants-3",
+        "name": "David Chang",
+        "cityId": "vienna",
+        "categoryId": "restaurants",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=David%20Chang%2C%20Vienna",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/David_Chang",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/David_Chang_David_Shankbone_2010_%283x4_cropped%29.jpg/960px-David_Chang_David_Shankbone_2010_%283x4_cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/David_Chang"
+        }
+      },
+      {
+        "id": "vienna-restaurants-4",
+        "name": "Schloss Wilhelminenberg",
+        "cityId": "vienna",
+        "categoryId": "restaurants",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Schloss%20Wilhelminenberg%2C%20Vienna",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Schloss_Wilhelminenberg",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Ottakring_%28Wien%29_-_Schloss_Wilhelminenberg_%28a%29.JPG/960px-Ottakring_%28Wien%29_-_Schloss_Wilhelminenberg_%28a%29.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Schloss_Wilhelminenberg"
+        }
+      },
+      {
+        "id": "vienna-restaurants-5",
+        "name": "Kahlenberg",
+        "cityId": "vienna",
+        "categoryId": "restaurants",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Kahlenberg%2C%20Vienna",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Kahlenberg",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/D%C3%B6bling_%28Wien%29_-_Kahlenberg_%282%29.JPG/960px-D%C3%B6bling_%28Wien%29_-_Kahlenberg_%282%29.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Kahlenberg"
+        }
+      },
+      {
+        "id": "vienna-restaurants-6",
+        "name": "Portrait of Père Paul",
+        "cityId": "vienna",
+        "categoryId": "restaurants",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Portrait%20of%20P%C3%A8re%20Paul%2C%20Vienna",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Portrait_of_P%C3%A8re_Paul",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Claude_Monet_-_Der_Koch_%28Le_P%C3%A8re_Paul%29_-_540_-_%C3%96sterreichische_Galerie_Belvedere.jpg/960px-Claude_Monet_-_Der_Koch_%28Le_P%C3%A8re_Paul%29_-_540_-_%C3%96sterreichische_Galerie_Belvedere.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Portrait_of_P%C3%A8re_Paul"
+        }
+      },
+      {
+        "id": "vienna-restaurants-7",
+        "name": "Floating restaurant",
+        "cityId": "vienna",
+        "categoryId": "restaurants",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Floating%20restaurant%2C%20Vienna",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Floating_restaurant",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Vaal_River_-_Floating_Restaurant-001.jpg/960px-Vaal_River_-_Floating_Restaurant-001.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Floating_restaurant"
+        }
+      },
+      {
+        "id": "vienna-restaurants-8",
+        "name": "Chicago-style hot dog",
+        "cityId": "vienna",
+        "categoryId": "restaurants",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Chicago-style%20hot%20dog%2C%20Vienna",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Chicago-style_hot_dog",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Chicago-style_hot_dog_2.jpg/960px-Chicago-style_hot_dog_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Chicago-style_hot_dog"
+        }
+      },
+      {
+        "id": "vienna-restaurants-9",
+        "name": "Schweizerhaus",
+        "cityId": "vienna",
+        "categoryId": "restaurants",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Schweizerhaus%2C%20Vienna",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Schweizerhaus",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Schweizerhaus04.jpg/960px-Schweizerhaus04.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Schweizerhaus"
+        }
+      },
+      {
+        "id": "vienna-restaurants-10",
+        "name": "Vienna Café",
+        "cityId": "vienna",
+        "categoryId": "restaurants",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Vienna%20Caf%C3%A9%2C%20Vienna",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Vienna_Caf%C3%A9",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Vienna_Caf%C3%A9%2C_London%2C_1897.jpg/960px-Vienna_Caf%C3%A9%2C_London%2C_1897.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Vienna_Caf%C3%A9"
+        }
+      },
+      {
+        "id": "vienna-restaurants-11",
+        "name": "Palais Esterházy",
+        "cityId": "vienna",
+        "categoryId": "restaurants",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Palais%20Esterh%C3%A1zy%2C%20Vienna",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Palais_Esterh%C3%A1zy",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Palais_Esterh%C3%A1zy_Wallnerstra%C3%9Fe_4.JPG/960px-Palais_Esterh%C3%A1zy_Wallnerstra%C3%9Fe_4.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Palais_Esterh%C3%A1zy"
+        }
+      },
+      {
+        "id": "vienna-restaurants-12",
+        "name": "Vienna Beef",
+        "cityId": "vienna",
+        "categoryId": "restaurants",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Vienna%20Beef%2C%20Vienna",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Vienna_Beef",
+        "photo": null
+      },
+      {
+        "id": "vienna-restaurants-13",
+        "name": "Railjet",
+        "cityId": "vienna",
+        "categoryId": "restaurants",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Railjet%2C%20Vienna",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Railjet",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/RJ_596_near_Pfarrwerfen%2C_13.12.2016.jpg/960px-RJ_596_near_Pfarrwerfen%2C_13.12.2016.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Railjet"
+        }
+      },
+      {
+        "id": "vienna-restaurants-14",
+        "name": "Hanno Pöschl",
+        "cityId": "vienna",
+        "categoryId": "restaurants",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Hanno%20P%C3%B6schl%2C%20Vienna",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Hanno_P%C3%B6schl",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Hanno_P%C3%B6schl%2C_Schauspieler_und_Restaurantbetreiber_%2817370768906%29_%28cropped%29.jpg/960px-Hanno_P%C3%B6schl%2C_Schauspieler_und_Restaurantbetreiber_%2817370768906%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Hanno_P%C3%B6schl"
+        }
+      },
+      {
+        "id": "vienna-restaurants-15",
+        "name": "Melange",
+        "cityId": "vienna",
+        "categoryId": "restaurants",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Melange%2C%20Vienna",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Melange",
+        "photo": null
+      },
+      {
+        "id": "vienna-restaurants-16",
+        "name": "Café Bräunerhof",
+        "cityId": "vienna",
+        "categoryId": "restaurants",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Caf%C3%A9%20Br%C3%A4unerhof%2C%20Vienna",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Caf%C3%A9_Br%C3%A4unerhof",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Wien_Caf%C3%A9_Br%C3%A4unerhof_abends.jpg/960px-Wien_Caf%C3%A9_Br%C3%A4unerhof_abends.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Caf%C3%A9_Br%C3%A4unerhof"
+        }
+      },
+      {
+        "id": "vienna-restaurants-17",
+        "name": "Berghof",
+        "cityId": "vienna",
+        "categoryId": "restaurants",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Berghof%2C%20Vienna",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Berghof",
+        "photo": null
+      },
+      {
+        "id": "vienna-restaurants-18",
+        "name": "Donauturm",
+        "cityId": "vienna",
+        "categoryId": "restaurants",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Donauturm%2C%20Vienna",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Donauturm",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Donauturm_NW.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Donauturm"
+        }
+      }
+    ],
+    "bars": [
+      {
+        "id": "vienna-bars-1",
+        "name": "Charles V of Lorraine",
+        "cityId": "vienna",
+        "categoryId": "bars",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Charles%20V%20of%20Lorraine%2C%20Vienna",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Charles_V_of_Lorraine",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/Anonimo_tedesco%2C_Carlo_V_duca_di_Lorena%2C_XVII_sec.jpg/960px-Anonimo_tedesco%2C_Carlo_V_duca_di_Lorena%2C_XVII_sec.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Charles_V_of_Lorraine"
+        }
+      },
+      {
+        "id": "vienna-bars-2",
+        "name": "Novellen",
+        "cityId": "vienna",
+        "categoryId": "bars",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Novellen%2C%20Vienna",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Novellen",
+        "photo": null
+      },
+      {
+        "id": "vienna-bars-3",
+        "name": "Rusty-Jake Rodriguez",
+        "cityId": "vienna",
+        "categoryId": "bars",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Rusty-Jake%20Rodriguez%2C%20Vienna",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Rusty-Jake_Rodriguez",
+        "photo": null
+      },
+      {
+        "id": "vienna-bars-4",
+        "name": "Rowby-John Rodriguez",
+        "cityId": "vienna",
+        "categoryId": "bars",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Rowby-John%20Rodriguez%2C%20Vienna",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Rowby-John_Rodriguez",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Mensur_Suljovic_and_Rowby-John_Rodriguez_%28cropped_2%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Rowby-John_Rodriguez"
+        }
+      },
+      {
+        "id": "vienna-bars-5",
+        "name": "Max Jammer",
+        "cityId": "vienna",
+        "categoryId": "bars",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Max%20Jammer%2C%20Vienna",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Max_Jammer",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/73/Moshe_yamer.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Max_Jammer"
+        }
+      },
+      {
+        "id": "vienna-bars-6",
+        "name": "Duchy of Bar",
+        "cityId": "vienna",
+        "categoryId": "bars",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Duchy%20of%20Bar%2C%20Vienna",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Duchy_of_Bar",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Map_France_1477-en.svg/960px-Map_France_1477-en.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Duchy_of_Bar"
+        }
+      },
+      {
+        "id": "vienna-bars-7",
+        "name": ".wien",
+        "cityId": "vienna",
+        "categoryId": "bars",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=.wien%2C%20Vienna",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/.wien",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/1d/DotWien_domain_logo.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/.wien"
+        }
+      },
+      {
+        "id": "vienna-bars-8",
+        "name": "Treaty of Vienna",
+        "cityId": "vienna",
+        "categoryId": "bars",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Treaty%20of%20Vienna%2C%20Vienna",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Treaty_of_Vienna_(1738)",
+        "photo": null
+      },
+      {
+        "id": "vienna-bars-9",
+        "name": "Viennese waltz",
+        "cityId": "vienna",
+        "categoryId": "bars",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Viennese%20waltz%2C%20Vienna",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Viennese_waltz",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Tanzturnier_59.JPG/960px-Tanzturnier_59.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Viennese_waltz"
+        }
+      },
+      {
+        "id": "vienna-bars-10",
+        "name": "Symphony No. 2",
+        "cityId": "vienna",
+        "categoryId": "bars",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Symphony%20No.%202%2C%20Vienna",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Symphony_No._2_(Brahms)",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Brahms_c._1872.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Symphony_No._2_(Brahms)"
+        }
+      },
+      {
+        "id": "vienna-bars-11",
+        "name": "Congress of Vienna",
+        "cityId": "vienna",
+        "categoryId": "bars",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Congress%20of%20Vienna%2C%20Vienna",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Congress_of_Vienna",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/Europe_1815_map_en.png/960px-Europe_1815_map_en.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Congress_of_Vienna"
+        }
+      },
+      {
+        "id": "vienna-bars-12",
+        "name": "Lava-Ströme",
+        "cityId": "vienna",
+        "categoryId": "bars",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Lava-Str%C3%B6me%2C%20Vienna",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Lava-Str%C3%B6me",
+        "photo": null
+      },
+      {
+        "id": "vienna-bars-13",
+        "name": "Coffeehouse",
+        "cityId": "vienna",
+        "categoryId": "bars",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Coffeehouse%2C%20Vienna",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Coffeehouse",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/Caf%C3%A9_de_Flore.jpg/960px-Caf%C3%A9_de_Flore.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Coffeehouse"
+        }
+      },
+      {
+        "id": "vienna-bars-14",
+        "name": "Helmut Deutsch",
+        "cityId": "vienna",
+        "categoryId": "bars",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Helmut%20Deutsch%2C%20Vienna",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Helmut_Deutsch",
+        "photo": null
+      },
+      {
+        "id": "vienna-bars-15",
+        "name": "Francis I, Holy Roman Emperor",
+        "cityId": "vienna",
+        "categoryId": "bars",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Francis%20I%2C%20Holy%20Roman%20Emperor%2C%20Vienna",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Francis_I%2C_Holy_Roman_Emperor",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Martin_van_Meytens_006.jpg/960px-Martin_van_Meytens_006.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Francis_I%2C_Holy_Roman_Emperor"
+        }
+      },
+      {
+        "id": "vienna-bars-16",
+        "name": "2005 Viennese state election",
+        "cityId": "vienna",
+        "categoryId": "bars",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=2005%20Viennese%20state%20election%2C%20Vienna",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/2005_Viennese_state_election",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/Wahlabend_%282898902944%29.jpg/960px-Wahlabend_%282898902944%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/2005_Viennese_state_election"
+        }
+      },
+      {
+        "id": "vienna-bars-17",
+        "name": "Vienna",
+        "cityId": "vienna",
+        "categoryId": "bars",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Vienna%2C%20Vienna",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Vienna",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Palais_Schwarzenberg_Wien_Sept_2020_1.jpg/960px-Palais_Schwarzenberg_Wien_Sept_2020_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Vienna"
+        }
+      },
+      {
+        "id": "vienna-bars-18",
+        "name": "Adolf Loos",
+        "cityId": "vienna",
+        "categoryId": "bars",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Adolf%20Loos%2C%20Vienna",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Adolf_Loos",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/51/Otto_Mayer_-_Adolf_Loos._%28Fotografie_um_1904%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Adolf_Loos"
+        }
+      }
+    ],
+    "coffee_shops": [
+      {
+        "id": "vienna-coffee_shops-1",
+        "name": "Viennese coffee house culture",
+        "cityId": "vienna",
+        "categoryId": "coffee_shops",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Viennese%20coffee%20house%20culture%2C%20Vienna",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Viennese_coffee_house_culture",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Cafe_Braeunerhof_Wien_2004.jpg/960px-Cafe_Braeunerhof_Wien_2004.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Viennese_coffee_house_culture"
+        }
+      },
+      {
+        "id": "vienna-coffee_shops-2",
+        "name": "Wiener Melange",
+        "cityId": "vienna",
+        "categoryId": "coffee_shops",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Wiener%20Melange%2C%20Vienna",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Wiener_Melange",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Wiener_Melange_0363wien_img_9691.jpg/960px-Wiener_Melange_0363wien_img_9691.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Wiener_Melange"
+        }
+      },
+      {
+        "id": "vienna-coffee_shops-3",
+        "name": "Vienna Café",
+        "cityId": "vienna",
+        "categoryId": "coffee_shops",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Vienna%20Caf%C3%A9%2C%20Vienna",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Vienna_Caf%C3%A9",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Vienna_Caf%C3%A9%2C_London%2C_1897.jpg/960px-Vienna_Caf%C3%A9%2C_London%2C_1897.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Vienna_Caf%C3%A9"
+        }
+      },
+      {
+        "id": "vienna-coffee_shops-4",
+        "name": "Café Central",
+        "cityId": "vienna",
+        "categoryId": "coffee_shops",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Caf%C3%A9%20Central%2C%20Vienna",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Caf%C3%A9_Central",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/Palais_Ferstel.jpg/960px-Palais_Ferstel.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Caf%C3%A9_Central"
+        }
+      },
+      {
+        "id": "vienna-coffee_shops-5",
+        "name": "Coffeehouse",
+        "cityId": "vienna",
+        "categoryId": "coffee_shops",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Coffeehouse%2C%20Vienna",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Coffeehouse",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/Caf%C3%A9_de_Flore.jpg/960px-Caf%C3%A9_de_Flore.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Coffeehouse"
+        }
+      },
+      {
+        "id": "vienna-coffee_shops-6",
+        "name": "Milk coffee",
+        "cityId": "vienna",
+        "categoryId": "coffee_shops",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Milk%20coffee%2C%20Vienna",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Milk_coffee",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Coffee_with_milk_%28563800%29.jpg/960px-Coffee_with_milk_%28563800%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Milk_coffee"
+        }
+      },
+      {
+        "id": "vienna-coffee_shops-7",
+        "name": "Julius Meinl",
+        "cityId": "vienna",
+        "categoryId": "coffee_shops",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Julius%20Meinl%2C%20Vienna",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Julius_Meinl",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Julius_Meinl_%282004%29.svg/960px-Julius_Meinl_%282004%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Julius_Meinl"
+        }
+      },
+      {
+        "id": "vienna-coffee_shops-8",
+        "name": "Music and Arts University of the City of Vienna",
+        "cityId": "vienna",
+        "categoryId": "coffee_shops",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Music%20and%20Arts%20University%20of%20the%20City%20of%20Vienna%2C%20Vienna",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Music_and_Arts_University_of_the_City_of_Vienna",
+        "photo": null
+      },
+      {
+        "id": "vienna-coffee_shops-9",
+        "name": "Café Hawelka",
+        "cityId": "vienna",
+        "categoryId": "coffee_shops",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Caf%C3%A9%20Hawelka%2C%20Vienna",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Caf%C3%A9_Hawelka",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/Hawelka01.jpg/960px-Hawelka01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Caf%C3%A9_Hawelka"
+        }
+      },
+      {
+        "id": "vienna-coffee_shops-10",
+        "name": "Demel",
+        "cityId": "vienna",
+        "categoryId": "coffee_shops",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Demel%2C%20Vienna",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Demel",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Demel_aussen.jpg/960px-Demel_aussen.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Demel"
+        }
+      },
+      {
+        "id": "vienna-coffee_shops-11",
+        "name": "Culture of Austria",
+        "cityId": "vienna",
+        "categoryId": "coffee_shops",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Culture%20of%20Austria%2C%20Vienna",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Culture_of_Austria",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Cafe_Central_in_Vienna_interior_near_entrance.JPG/960px-Cafe_Central_in_Vienna_interior_near_entrance.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Culture_of_Austria"
+        }
+      },
+      {
+        "id": "vienna-coffee_shops-12",
+        "name": "Café Landtmann",
+        "cityId": "vienna",
+        "categoryId": "coffee_shops",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Caf%C3%A9%20Landtmann%2C%20Vienna",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Caf%C3%A9_Landtmann",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/Palais_Lieben-Auspitz_Vienna.jpg/960px-Palais_Lieben-Auspitz_Vienna.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Caf%C3%A9_Landtmann"
+        }
+      },
+      {
+        "id": "vienna-coffee_shops-13",
+        "name": "Café Sperl",
+        "cityId": "vienna",
+        "categoryId": "coffee_shops",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Caf%C3%A9%20Sperl%2C%20Vienna",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Caf%C3%A9_Sperl",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Caf%C3%A9_Sperl%2C_front%2C_2006.JPG/960px-Caf%C3%A9_Sperl%2C_front%2C_2006.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Caf%C3%A9_Sperl"
+        }
+      },
+      {
+        "id": "vienna-coffee_shops-14",
+        "name": "Café Bräunerhof",
+        "cityId": "vienna",
+        "categoryId": "coffee_shops",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Caf%C3%A9%20Br%C3%A4unerhof%2C%20Vienna",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Caf%C3%A9_Br%C3%A4unerhof",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Wien_Caf%C3%A9_Br%C3%A4unerhof_abends.jpg/960px-Wien_Caf%C3%A9_Br%C3%A4unerhof_abends.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Caf%C3%A9_Br%C3%A4unerhof"
+        }
+      },
+      {
+        "id": "vienna-coffee_shops-15",
+        "name": "Vienna",
+        "cityId": "vienna",
+        "categoryId": "coffee_shops",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Vienna%2C%20Vienna",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Vienna",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Palais_Schwarzenberg_Wien_Sept_2020_1.jpg/960px-Palais_Schwarzenberg_Wien_Sept_2020_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Vienna"
+        }
+      },
+      {
+        "id": "vienna-coffee_shops-16",
+        "name": "Coffee culture",
+        "cityId": "vienna",
+        "categoryId": "coffee_shops",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Coffee%20culture%2C%20Vienna",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Coffee_culture",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Syria.Damascus.CoffeeHouse.01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Coffee_culture"
+        }
+      },
+      {
+        "id": "vienna-coffee_shops-17",
+        "name": "Buchmendel",
+        "cityId": "vienna",
+        "categoryId": "coffee_shops",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Buchmendel%2C%20Vienna",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Buchmendel",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/22/Carl_Spitzweg_021-detail2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Buchmendel"
+        }
+      },
+      {
+        "id": "vienna-coffee_shops-18",
+        "name": "Café Griensteidl",
+        "cityId": "vienna",
+        "categoryId": "coffee_shops",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Caf%C3%A9%20Griensteidl%2C%20Vienna",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Caf%C3%A9_Griensteidl",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/Caf%C3%A9_Griensteidl_Wien.jpg/960px-Caf%C3%A9_Griensteidl_Wien.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Caf%C3%A9_Griensteidl"
+        }
+      }
+    ],
+    "bookshops": [
+      {
+        "id": "vienna-bookshops-1",
+        "name": "Hans Georg Amsel",
+        "cityId": "vienna",
+        "categoryId": "bookshops",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Hans%20Georg%20Amsel%2C%20Vienna",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Hans_Georg_Amsel",
+        "photo": null
+      },
+      {
+        "id": "vienna-bookshops-2",
+        "name": "Thalia",
+        "cityId": "vienna",
+        "categoryId": "bookshops",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Thalia%2C%20Vienna",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Thalia_(bookstore)",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/ae/W3_Wien_01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Thalia_(bookstore)"
+        }
+      },
+      {
+        "id": "vienna-bookshops-3",
+        "name": "Verlag Herder",
+        "cityId": "vienna",
+        "categoryId": "bookshops",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Verlag%20Herder%2C%20Vienna",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Verlag_Herder",
+        "photo": null
+      },
+      {
+        "id": "vienna-bookshops-4",
+        "name": "Alexander Bodon",
+        "cityId": "vienna",
+        "categoryId": "bookshops",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Alexander%20Bodon%2C%20Vienna",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Alexander_Bodon",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Portret_van_Alexander_Bodon%2C_architect_van_onder_andere_de_RAI%2C_Bestanddeelnr_932-5030.jpg/960px-Portret_van_Alexander_Bodon%2C_architect_van_onder_andere_de_RAI%2C_Bestanddeelnr_932-5030.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Alexander_Bodon"
+        }
+      },
+      {
+        "id": "vienna-bookshops-5",
+        "name": "Ludwig Anzengruber",
+        "cityId": "vienna",
+        "categoryId": "bookshops",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Ludwig%20Anzengruber%2C%20Vienna",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Ludwig_Anzengruber",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Ludwig_Anzengruber.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Ludwig_Anzengruber"
+        }
+      },
+      {
+        "id": "vienna-bookshops-6",
+        "name": "Raymond Bonner",
+        "cityId": "vienna",
+        "categoryId": "bookshops",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Raymond%20Bonner%2C%20Vienna",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Raymond_Bonner",
+        "photo": null
+      },
+      {
+        "id": "vienna-bookshops-7",
+        "name": "Reino Gikman",
+        "cityId": "vienna",
+        "categoryId": "bookshops",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Reino%20Gikman%2C%20Vienna",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Reino_Gikman",
+        "photo": null
+      },
+      {
+        "id": "vienna-bookshops-8",
+        "name": "Gligorije Vozarević",
+        "cityId": "vienna",
+        "categoryId": "bookshops",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Gligorije%20Vozarevi%C4%87%2C%20Vienna",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Gligorije_Vozarevi%C4%87",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Gligorije_Vozarevi%C4%87_knji%C5%BEar_%28cropped%29.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Gligorije_Vozarevi%C4%87"
+        }
+      },
+      {
+        "id": "vienna-bookshops-9",
+        "name": "Damjan Kaulić",
+        "cityId": "vienna",
+        "categoryId": "bookshops",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Damjan%20Kauli%C4%87%2C%20Vienna",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Damjan_Kauli%C4%87",
+        "photo": null
+      },
+      {
+        "id": "vienna-bookshops-10",
+        "name": "Geca Kon",
+        "cityId": "vienna",
+        "categoryId": "bookshops",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Geca%20Kon%2C%20Vienna",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Geca_Kon",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Geca_kon1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Geca_Kon"
+        }
+      },
+      {
+        "id": "vienna-bookshops-11",
+        "name": "David Baldacci",
+        "cityId": "vienna",
+        "categoryId": "bookshops",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=David%20Baldacci%2C%20Vienna",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/David_Baldacci",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/David_Baldacci_-_2015_National_Book_Festival_%286%29.jpg/960px-David_Baldacci_-_2015_National_Book_Festival_%286%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/David_Baldacci"
+        }
+      },
+      {
+        "id": "vienna-bookshops-12",
+        "name": "Josef von Kurzböck",
+        "cityId": "vienna",
+        "categoryId": "bookshops",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Josef%20von%20Kurzb%C3%B6ck%2C%20Vienna",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Josef_von_Kurzb%C3%B6ck",
+        "photo": null
+      },
+      {
+        "id": "vienna-bookshops-13",
+        "name": "Sybil B. G. Eysenck",
+        "cityId": "vienna",
+        "categoryId": "bookshops",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Sybil%20B.%20G.%20Eysenck%2C%20Vienna",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Sybil_B._G._Eysenck",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/Hans_and_Sybil_Eysenck.jpg/960px-Hans_and_Sybil_Eysenck.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Sybil_B._G._Eysenck"
+        }
+      },
+      {
+        "id": "vienna-bookshops-14",
+        "name": "Christian M. Nebehay",
+        "cityId": "vienna",
+        "categoryId": "bookshops",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Christian%20M.%20Nebehay%2C%20Vienna",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Christian_M._Nebehay",
+        "photo": null
+      },
+      {
+        "id": "vienna-bookshops-15",
+        "name": "Gerhard Hager",
+        "cityId": "vienna",
+        "categoryId": "bookshops",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Gerhard%20Hager%2C%20Vienna",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Gerhard_Hager",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Gerhard_Hager.jpg/960px-Gerhard_Hager.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Gerhard_Hager"
+        }
+      },
+      {
+        "id": "vienna-bookshops-16",
+        "name": "Centre College",
+        "cityId": "vienna",
+        "categoryId": "bookshops",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Centre%20College%2C%20Vienna",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Centre_College",
+        "photo": null
+      },
+      {
+        "id": "vienna-bookshops-17",
+        "name": "František Krajčír",
+        "cityId": "vienna",
+        "categoryId": "bookshops",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Franti%C5%A1ek%20Kraj%C4%8D%C3%ADr%2C%20Vienna",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Franti%C5%A1ek_Kraj%C4%8D%C3%ADr",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Franti%C5%A1ek_Kraj%C4%8D%C3%ADr_%28Prvn%C3%AD_vl%C3%A1da_%C3%BAstavy_dev%C3%A1t%C3%A9ho_kv%C4%9Btna%29.jpg/960px-Franti%C5%A1ek_Kraj%C4%8D%C3%ADr_%28Prvn%C3%AD_vl%C3%A1da_%C3%BAstavy_dev%C3%A1t%C3%A9ho_kv%C4%9Btna%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Franti%C5%A1ek_Kraj%C4%8D%C3%ADr"
+        }
+      },
+      {
+        "id": "vienna-bookshops-18",
+        "name": "Bernhard Cella",
+        "cityId": "vienna",
+        "categoryId": "bookshops",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Bernhard%20Cella%2C%20Vienna",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Bernhard_Cella",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Bernhard_Cella_interview_with_Radio_Web_Macba.jpg/960px-Bernhard_Cella_interview_with_Radio_Web_Macba.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Bernhard_Cella"
+        }
+      }
+    ],
+    "museums": [
+      {
+        "id": "vienna-museums-1",
+        "name": "Kunsthistorisches Museum",
+        "cityId": "vienna",
+        "categoryId": "museums",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Kunsthistorisches%20Museum%2C%20Vienna",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Kunsthistorisches_Museum",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/en/thumb/a/a3/Kunsthistorisches_Museum_logo.svg/960px-Kunsthistorisches_Museum_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Kunsthistorisches_Museum"
+        }
+      },
+      {
+        "id": "vienna-museums-2",
+        "name": "Vienna",
+        "cityId": "vienna",
+        "categoryId": "museums",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Vienna%2C%20Vienna",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Vienna",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Palais_Schwarzenberg_Wien_Sept_2020_1.jpg/960px-Palais_Schwarzenberg_Wien_Sept_2020_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Vienna"
+        }
+      },
+      {
+        "id": "vienna-museums-3",
+        "name": "Albertina",
+        "cityId": "vienna",
+        "categoryId": "museums",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Albertina%2C%20Vienna",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Albertina",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Wien_-_Albertina.JPG/960px-Wien_-_Albertina.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Albertina"
+        }
+      },
+      {
+        "id": "vienna-museums-4",
+        "name": "Museum of Applied Arts, Vienna",
+        "cityId": "vienna",
+        "categoryId": "museums",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Museum%20of%20Applied%20Arts%2C%20Vienna%2C%20Vienna",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Museum_of_Applied_Arts%2C_Vienna",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/Wien_01_Museum_f%C3%BCr_angewandte_Kunst_a.jpg/960px-Wien_01_Museum_f%C3%BCr_angewandte_Kunst_a.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Museum_of_Applied_Arts%2C_Vienna"
+        }
+      },
+      {
+        "id": "vienna-museums-5",
+        "name": "Friedensreich Hundertwasser",
+        "cityId": "vienna",
+        "categoryId": "museums",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Friedensreich%20Hundertwasser%2C%20Vienna",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Friedensreich_Hundertwasser",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/Hundertwasser_nz_1998_hg.jpg/960px-Hundertwasser_nz_1998_hg.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Friedensreich_Hundertwasser"
+        }
+      },
+      {
+        "id": "vienna-museums-6",
+        "name": "Isotype",
+        "cityId": "vienna",
+        "categoryId": "museums",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Isotype%2C%20Vienna",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Isotype_(picture_language)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/Basic_by_Isotype.jpg/960px-Basic_by_Isotype.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Isotype_(picture_language)"
+        }
+      },
+      {
+        "id": "vienna-museums-7",
+        "name": "Austrian National Library",
+        "cityId": "vienna",
+        "categoryId": "museums",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Austrian%20National%20Library%2C%20Vienna",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Austrian_National_Library",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/Neue_Burg_Vienna_June_2006_271.jpg/960px-Neue_Burg_Vienna_June_2006_271.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Austrian_National_Library"
+        }
+      },
+      {
+        "id": "vienna-museums-8",
+        "name": "Mumok",
+        "cityId": "vienna",
+        "categoryId": "museums",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Mumok%2C%20Vienna",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Mumok",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Wien_Muzeum_Sztuki_Nowoczesnej.jpg/960px-Wien_Muzeum_Sztuki_Nowoczesnej.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Mumok"
+        }
+      },
+      {
+        "id": "vienna-museums-9",
+        "name": "Self-Portrait",
+        "cityId": "vienna",
+        "categoryId": "museums",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Self-Portrait%2C%20Vienna",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Self-Portrait_(Rembrandt%2C_Vienna)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/Rembrandt_Harmenszoon_van_Rijn_-_Large_Self-Portrait_-_Google_Art_Project.jpg/960px-Rembrandt_Harmenszoon_van_Rijn_-_Large_Self-Portrait_-_Google_Art_Project.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Self-Portrait_(Rembrandt%2C_Vienna)"
+        }
+      },
+      {
+        "id": "vienna-museums-10",
+        "name": "The Tower of Babel",
+        "cityId": "vienna",
+        "categoryId": "museums",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Tower%20of%20Babel%2C%20Vienna",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/The_Tower_of_Babel_(Bruegel)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/Pieter_Bruegel_the_Elder_-_The_Tower_of_Babel_%28Vienna%29_-_Google_Art_Project_-_edited.jpg/960px-Pieter_Bruegel_the_Elder_-_The_Tower_of_Babel_%28Vienna%29_-_Google_Art_Project_-_edited.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/The_Tower_of_Babel_(Bruegel)"
+        }
+      },
+      {
+        "id": "vienna-museums-11",
+        "name": "Alois Friedrich Rogenhofer",
+        "cityId": "vienna",
+        "categoryId": "museums",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Alois%20Friedrich%20Rogenhofer%2C%20Vienna",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Alois_Friedrich_Rogenhofer",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Rogenhofer.jpg/960px-Rogenhofer.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Alois_Friedrich_Rogenhofer"
+        }
+      },
+      {
+        "id": "vienna-museums-12",
+        "name": "Leopold Fitzinger",
+        "cityId": "vienna",
+        "categoryId": "museums",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Leopold%20Fitzinger%2C%20Vienna",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Leopold_Fitzinger",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Fitzinger_Leopold_1802-1884.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Leopold_Fitzinger"
+        }
+      },
+      {
+        "id": "vienna-museums-13",
+        "name": "Friedrich Georg Hendel",
+        "cityId": "vienna",
+        "categoryId": "museums",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Friedrich%20Georg%20Hendel%2C%20Vienna",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Friedrich_Georg_Hendel",
+        "photo": null
+      },
+      {
+        "id": "vienna-museums-14",
+        "name": "Egon Schiele",
+        "cityId": "vienna",
+        "categoryId": "museums",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Egon%20Schiele%2C%20Vienna",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Egon_Schiele",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Egon-schiele.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Egon_Schiele"
+        }
+      },
+      {
+        "id": "vienna-museums-15",
+        "name": "1873 Vienna World's Fair",
+        "cityId": "vienna",
+        "categoryId": "museums",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=1873%20Vienna%20World's%20Fair%2C%20Vienna",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/1873_Vienna_World's_Fair",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/W_Rotunde.jpg/960px-W_Rotunde.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/1873_Vienna_World's_Fair"
+        }
+      },
+      {
+        "id": "vienna-museums-16",
+        "name": "Sigmund Freud Museum",
+        "cityId": "vienna",
+        "categoryId": "museums",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Sigmund%20Freud%20Museum%2C%20Vienna",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Sigmund_Freud_Museum_(Vienna)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Wien_-_Sigmund_Freud_Museum_%28b%29.JPG/960px-Wien_-_Sigmund_Freud_Museum_%28b%29.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Sigmund_Freud_Museum_(Vienna)"
+        }
+      },
+      {
+        "id": "vienna-museums-17",
+        "name": "Galerie St. Etienne",
+        "cityId": "vienna",
+        "categoryId": "museums",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Galerie%20St.%20Etienne%2C%20Vienna",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Galerie_St._Etienne",
+        "photo": null
+      },
+      {
+        "id": "vienna-museums-18",
+        "name": "Belvedere, Vienna",
+        "cityId": "vienna",
+        "categoryId": "museums",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Belvedere%2C%20Vienna%2C%20Vienna",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Belvedere%2C_Vienna",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Palacio_Belvedere%2C_Viena%2C_Austria%2C_2020-02-01%2C_DD_93-95_HDR.jpg/960px-Palacio_Belvedere%2C_Viena%2C_Austria%2C_2020-02-01%2C_DD_93-95_HDR.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Belvedere%2C_Vienna"
+        }
+      }
+    ],
+    "concerts": [
+      {
+        "id": "vienna-concerts-1",
+        "name": "Musikverein",
+        "cityId": "vienna",
+        "categoryId": "concerts",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Musikverein%2C%20Vienna",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Musikverein",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Wien_-_Haus_des_Wiener_Musikvereins_%281%29.JPG/960px-Wien_-_Haus_des_Wiener_Musikvereins_%281%29.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Musikverein"
+        }
+      },
+      {
+        "id": "vienna-concerts-2",
+        "name": "Konzerthaus, Vienna",
+        "cityId": "vienna",
+        "categoryId": "concerts",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Konzerthaus%2C%20Vienna%2C%20Vienna",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Konzerthaus%2C_Vienna",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Wien_-_Konzerthaus_%28b%29.JPG/960px-Wien_-_Konzerthaus_%28b%29.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Konzerthaus%2C_Vienna"
+        }
+      },
+      {
+        "id": "vienna-concerts-3",
+        "name": "Walt Disney Concert Hall",
+        "cityId": "vienna",
+        "categoryId": "concerts",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Walt%20Disney%20Concert%20Hall%2C%20Vienna",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Walt_Disney_Concert_Hall",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Walt_Disney_Concert_Hall%2C_LA%2C_CA%2C_jjron_22.03.2012.jpg/960px-Walt_Disney_Concert_Hall%2C_LA%2C_CA%2C_jjron_22.03.2012.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Walt_Disney_Concert_Hall"
+        }
+      },
+      {
+        "id": "vienna-concerts-4",
+        "name": "Sofiensaal",
+        "cityId": "vienna",
+        "categoryId": "concerts",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Sofiensaal%2C%20Vienna",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Sofiensaal",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Wien_-_Sofiens%C3%A4le_%281%29.JPG/960px-Wien_-_Sofiens%C3%A4le_%281%29.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Sofiensaal"
+        }
+      },
+      {
+        "id": "vienna-concerts-5",
+        "name": "Hollywood in Vienna",
+        "cityId": "vienna",
+        "categoryId": "concerts",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Hollywood%20in%20Vienna%2C%20Vienna",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Hollywood_in_Vienna",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/Hollywood-in-vienna-konzerthaus-2013.jpg/960px-Hollywood-in-vienna-konzerthaus-2013.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Hollywood_in_Vienna"
+        }
+      },
+      {
+        "id": "vienna-concerts-6",
+        "name": "Bösendorfer-Saal",
+        "cityId": "vienna",
+        "categoryId": "concerts",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=B%C3%B6sendorfer-Saal%2C%20Vienna",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/B%C3%B6sendorfer-Saal",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Boesendorfer_Wieden_9.jpg/960px-Boesendorfer_Wieden_9.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/B%C3%B6sendorfer-Saal"
+        }
+      },
+      {
+        "id": "vienna-concerts-7",
+        "name": "Petronas Philharmonic Hall",
+        "cityId": "vienna",
+        "categoryId": "concerts",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Petronas%20Philharmonic%20Hall%2C%20Vienna",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Petronas_Philharmonic_Hall",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/62/Interior_of_Petronas_Philharmonic_Hall.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Petronas_Philharmonic_Hall"
+        }
+      },
+      {
+        "id": "vienna-concerts-8",
+        "name": "Ambassador Auditorium",
+        "cityId": "vienna",
+        "categoryId": "concerts",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Ambassador%20Auditorium%2C%20Vienna",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Ambassador_Auditorium",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/2008-1226-Pasadena-001-AmbassadorCollege-pan.JPG/960px-2008-1226-Pasadena-001-AmbassadorCollege-pan.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Ambassador_Auditorium"
+        }
+      },
+      {
+        "id": "vienna-concerts-9",
+        "name": "Steinway Hall",
+        "cityId": "vienna",
+        "categoryId": "concerts",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Steinway%20Hall%2C%20Vienna",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Steinway_Hall",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Buying_tickets_for_a_Charles_Dickens_reading_at_Steinway_Hall%2C_New_York%2C_New_York%2C_1867.jpg/960px-Buying_tickets_for_a_Charles_Dickens_reading_at_Steinway_Hall%2C_New_York%2C_New_York%2C_1867.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Steinway_Hall"
+        }
+      },
+      {
+        "id": "vienna-concerts-10",
+        "name": "Musikhuset Aarhus",
+        "cityId": "vienna",
+        "categoryId": "concerts",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Musikhuset%20Aarhus%2C%20Vienna",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Musikhuset_Aarhus",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/Aarhus_musichouse_%2811834397843%29.jpg/960px-Aarhus_musichouse_%2811834397843%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Musikhuset_Aarhus"
+        }
+      },
+      {
+        "id": "vienna-concerts-11",
+        "name": "National Theater and Concert Hall",
+        "cityId": "vienna",
+        "categoryId": "concerts",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=National%20Theater%20and%20Concert%20Hall%2C%20Vienna",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/National_Theater_and_Concert_Hall",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/DSCN7120P_%288149622548%29.jpg/960px-DSCN7120P_%288149622548%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/National_Theater_and_Concert_Hall"
+        }
+      },
+      {
+        "id": "vienna-concerts-12",
+        "name": "Jahn's Hall",
+        "cityId": "vienna",
+        "categoryId": "concerts",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Jahn's%20Hall%2C%20Vienna",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Jahn's_Hall",
+        "photo": null
+      },
+      {
+        "id": "vienna-concerts-13",
+        "name": "Concertgebouw, Amsterdam",
+        "cityId": "vienna",
+        "categoryId": "concerts",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Concertgebouw%2C%20Amsterdam%2C%20Vienna",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Concertgebouw%2C_Amsterdam",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/Concertgebouw_from_Museumplein_2539.jpg/960px-Concertgebouw_from_Museumplein_2539.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Concertgebouw%2C_Amsterdam"
+        }
+      },
+      {
+        "id": "vienna-concerts-14",
+        "name": "Mozarthaus Vienna",
+        "cityId": "vienna",
+        "categoryId": "concerts",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Mozarthaus%20Vienna%2C%20Vienna",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Mozarthaus_Vienna",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Wien.Mozarthouse02.jpg/960px-Wien.Mozarthouse02.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Mozarthaus_Vienna"
+        }
+      },
+      {
+        "id": "vienna-concerts-15",
+        "name": "Grafenegg Festival",
+        "cityId": "vienna",
+        "categoryId": "concerts",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Grafenegg%20Festival%2C%20Vienna",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Grafenegg_Festival",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/Wolkenturm_Grafenegg.jpg/960px-Wolkenturm_Grafenegg.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Grafenegg_Festival"
+        }
+      },
+      {
+        "id": "vienna-concerts-16",
+        "name": "Vatroslav Lisinski Concert Hall",
+        "cityId": "vienna",
+        "categoryId": "concerts",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Vatroslav%20Lisinski%20Concert%20Hall%2C%20Vienna",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Vatroslav_Lisinski_Concert_Hall",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Vatroslav_Lisinski_Concert_Hall.jpg/960px-Vatroslav_Lisinski_Concert_Hall.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Vatroslav_Lisinski_Concert_Hall"
+        }
+      },
+      {
+        "id": "vienna-concerts-17",
+        "name": "Alte Oper",
+        "cityId": "vienna",
+        "categoryId": "concerts",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Alte%20Oper%2C%20Vienna",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Alte_Oper",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Alte_Oper_Frankfurt_2019.jpg/960px-Alte_Oper_Frankfurt_2019.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Alte_Oper"
+        }
+      },
+      {
+        "id": "vienna-concerts-18",
+        "name": "Piano Concerto No. 20",
+        "cityId": "vienna",
+        "categoryId": "concerts",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Piano%20Concerto%20No.%2020%2C%20Vienna",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Piano_Concerto_No._20_(Mozart)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/PC_20_autograph.jpg/960px-PC_20_autograph.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Piano_Concerto_No._20_(Mozart)"
+        }
+      }
+    ],
+    "fashion": [
+      {
+        "id": "vienna-fashion-1",
+        "name": "Siegfried Wortmann",
+        "cityId": "vienna",
+        "categoryId": "fashion",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Siegfried%20Wortmann%2C%20Vienna",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Siegfried_Wortmann",
+        "photo": null
+      },
+      {
+        "id": "vienna-fashion-2",
+        "name": "On the Razzle",
+        "cityId": "vienna",
+        "categoryId": "fashion",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=On%20the%20Razzle%2C%20Vienna",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/On_the_Razzle_(play)",
+        "photo": null
+      },
+      {
+        "id": "vienna-fashion-3",
+        "name": "Ernst Schwadron",
+        "cityId": "vienna",
+        "categoryId": "fashion",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Ernst%20Schwadron%2C%20Vienna",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Ernst_Schwadron",
+        "photo": null
+      },
+      {
+        "id": "vienna-fashion-4",
+        "name": "Kniže & Comp.",
+        "cityId": "vienna",
+        "categoryId": "fashion",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Kni%C5%BEe%20%26%20Comp.%2C%20Vienna",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Kni%C5%BEe_%26_Comp.",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Knize2.JPG/960px-Knize2.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Kni%C5%BEe_%26_Comp."
+        }
+      },
+      {
+        "id": "vienna-fashion-5",
+        "name": "Julius S. Held",
+        "cityId": "vienna",
+        "categoryId": "fashion",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Julius%20S.%20Held%2C%20Vienna",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Julius_S._Held",
+        "photo": null
+      },
+      {
+        "id": "vienna-fashion-6",
+        "name": "Barbara Bonney",
+        "cityId": "vienna",
+        "categoryId": "fashion",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Barbara%20Bonney%2C%20Vienna",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Barbara_Bonney",
+        "photo": null
+      },
+      {
+        "id": "vienna-fashion-7",
+        "name": "Schoschana Rabinovici",
+        "cityId": "vienna",
+        "categoryId": "fashion",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Schoschana%20Rabinovici%2C%20Vienna",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Schoschana_Rabinovici",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Suzanne-Lucienne_Rabinovici_2999_Michelides.jpg/960px-Suzanne-Lucienne_Rabinovici_2999_Michelides.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Schoschana_Rabinovici"
+        }
+      },
+      {
+        "id": "vienna-fashion-8",
+        "name": "Downtown Los Angeles in the Gilded Age",
+        "cityId": "vienna",
+        "categoryId": "fashion",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Downtown%20Los%20Angeles%20in%20the%20Gilded%20Age%2C%20Vienna",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Downtown_Los_Angeles_in_the_Gilded_Age",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Central_Business_District_of_Los_Angeles_1894_from_Plaza_%28r%29_to_Third_Street_%28l%29.jpg/960px-Central_Business_District_of_Los_Angeles_1894_from_Plaza_%28r%29_to_Third_Street_%28l%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Downtown_Los_Angeles_in_the_Gilded_Age"
+        }
+      },
+      {
+        "id": "vienna-fashion-9",
+        "name": "B. Forman Co.",
+        "cityId": "vienna",
+        "categoryId": "fashion",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=B.%20Forman%20Co.%2C%20Vienna",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/B._Forman_Co.",
+        "photo": null
+      },
+      {
+        "id": "vienna-fashion-10",
+        "name": "Leo Sirota",
+        "cityId": "vienna",
+        "categoryId": "fashion",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Leo%20Sirota%2C%20Vienna",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Leo_Sirota",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/Leo_Sirota_1940.jpg/960px-Leo_Sirota_1940.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Leo_Sirota"
+        }
+      },
+      {
+        "id": "vienna-fashion-11",
+        "name": "Suspense",
+        "cityId": "vienna",
+        "categoryId": "fashion",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Suspense%2C%20Vienna",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Suspense_(American_TV_series)",
+        "photo": null
+      },
+      {
+        "id": "vienna-fashion-12",
+        "name": "Rolfe Sedan",
+        "cityId": "vienna",
+        "categoryId": "fashion",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Rolfe%20Sedan%2C%20Vienna",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Rolfe_Sedan",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/96/Rolfe_Sedan_%281940s%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Rolfe_Sedan"
+        }
+      },
+      {
+        "id": "vienna-fashion-13",
+        "name": "Angela Maria Autsch",
+        "cityId": "vienna",
+        "categoryId": "fashion",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Angela%20Maria%20Autsch%2C%20Vienna",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Angela_Maria_Autsch",
+        "photo": null
+      },
+      {
+        "id": "vienna-fashion-14",
+        "name": "Great Famine",
+        "cityId": "vienna",
+        "categoryId": "fashion",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Great%20Famine%2C%20Vienna",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Great_Famine_(Greece)",
+        "photo": null
+      },
+      {
+        "id": "vienna-fashion-15",
+        "name": "Music of Detroit",
+        "cityId": "vienna",
+        "categoryId": "fashion",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Music%20of%20Detroit%2C%20Vienna",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Music_of_Detroit",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Detroit_Jazz_Festival_in_Hart_Plaza_2009.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Music_of_Detroit"
+        }
+      },
+      {
+        "id": "vienna-fashion-16",
+        "name": "Poland",
+        "cityId": "vienna",
+        "categoryId": "fashion",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Poland%2C%20Vienna",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Poland",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/en/thumb/1/12/Flag_of_Poland.svg/960px-Flag_of_Poland.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Poland"
+        }
+      },
+      {
+        "id": "vienna-fashion-17",
+        "name": "Upper Market Square",
+        "cityId": "vienna",
+        "categoryId": "fashion",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Upper%20Market%20Square%2C%20Vienna",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Upper_Market_Square_(G%C3%B6rlitz)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Obermarkt_goerlitz.JPG/960px-Obermarkt_goerlitz.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Upper_Market_Square_(G%C3%B6rlitz)"
+        }
+      },
+      {
+        "id": "vienna-fashion-18",
+        "name": "Wyatt Durrette",
+        "cityId": "vienna",
+        "categoryId": "fashion",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Wyatt%20Durrette%2C%20Vienna",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Wyatt_Durrette_(politician)",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Wyatt_Durrette_1976.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Wyatt_Durrette_(politician)"
+        }
+      }
+    ],
+    "shops": [
+      {
+        "id": "vienna-shops-1",
+        "name": "A Glove Shop in Vienna: And Other Stories",
+        "cityId": "vienna",
+        "categoryId": "shops",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=A%20Glove%20Shop%20in%20Vienna%3A%20And%20Other%20Stories%2C%20Vienna",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/A_Glove_Shop_in_Vienna%3A_And_Other_Stories",
+        "photo": null
+      },
+      {
+        "id": "vienna-shops-2",
+        "name": ".wien",
+        "cityId": "vienna",
+        "categoryId": "shops",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=.wien%2C%20Vienna",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/.wien",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/1d/DotWien_domain_logo.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/.wien"
+        }
+      },
+      {
+        "id": "vienna-shops-3",
+        "name": "Hans Hollein",
+        "cityId": "vienna",
+        "categoryId": "shops",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Hans%20Hollein%2C%20Vienna",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Hans_Hollein",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Hans_Hollein%2C_Architect%2C_Designer.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Hans_Hollein"
+        }
+      },
+      {
+        "id": "vienna-shops-4",
+        "name": "Immofinanz",
+        "cityId": "vienna",
+        "categoryId": "shops",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Immofinanz%2C%20Vienna",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Immofinanz",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/CPI_Europe_Logo_2025.svg/960px-CPI_Europe_Logo_2025.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Immofinanz"
+        }
+      },
+      {
+        "id": "vienna-shops-5",
+        "name": "Peter Rauhofer",
+        "cityId": "vienna",
+        "categoryId": "shops",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Peter%20Rauhofer%2C%20Vienna",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Peter_Rauhofer",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/DJ_Peter_Rauhofer_in_Sau%C3%ADpe_Hell_%26_Heaven.JPG/960px-DJ_Peter_Rauhofer_in_Sau%C3%ADpe_Hell_%26_Heaven.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Peter_Rauhofer"
+        }
+      },
+      {
+        "id": "vienna-shops-6",
+        "name": "Tobacconist",
+        "cityId": "vienna",
+        "categoryId": "shops",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Tobacconist%2C%20Vienna",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Tobacconist",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/Wien_X%2C_Favoritenstra%C3%9Fe_113%2C_Tabak_Trafik%2C_2024-07-29_JM_5D413140.jpg/960px-Wien_X%2C_Favoritenstra%C3%9Fe_113%2C_Tabak_Trafik%2C_2024-07-29_JM_5D413140.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Tobacconist"
+        }
+      },
+      {
+        "id": "vienna-shops-7",
+        "name": "Sachertorte",
+        "cityId": "vienna",
+        "categoryId": "shops",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Sachertorte%2C%20Vienna",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Sachertorte",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Sachertorte_DSC03027.JPG/960px-Sachertorte_DSC03027.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Sachertorte"
+        }
+      },
+      {
+        "id": "vienna-shops-8",
+        "name": "Jewel Robbery",
+        "cityId": "vienna",
+        "categoryId": "shops",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Jewel%20Robbery%2C%20Vienna",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Jewel_Robbery",
+        "photo": null
+      },
+      {
+        "id": "vienna-shops-9",
+        "name": "Goodnight, Vienna",
+        "cityId": "vienna",
+        "categoryId": "shops",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Goodnight%2C%20Vienna%2C%20Vienna",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Goodnight%2C_Vienna",
+        "photo": null
+      },
+      {
+        "id": "vienna-shops-10",
+        "name": "Hieronymus Vietor",
+        "cityId": "vienna",
+        "categoryId": "shops",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Hieronymus%20Vietor%2C%20Vienna",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Hieronymus_Vietor",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Hieronymus_Vietor_Device_1513.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Hieronymus_Vietor"
+        }
+      },
+      {
+        "id": "vienna-shops-11",
+        "name": "Mekhitarist Monastery, Vienna",
+        "cityId": "vienna",
+        "categoryId": "shops",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Mekhitarist%20Monastery%2C%20Vienna%2C%20Vienna",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Mekhitarist_Monastery%2C_Vienna",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Wien_-_Mechitharistenkirche_%281%29.JPG/960px-Wien_-_Mechitharistenkirche_%281%29.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Mekhitarist_Monastery%2C_Vienna"
+        }
+      },
+      {
+        "id": "vienna-shops-12",
+        "name": "Cannabis retail outlet",
+        "cityId": "vienna",
+        "categoryId": "shops",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Cannabis%20retail%20outlet%2C%20Vienna",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Cannabis_retail_outlet",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Discount_Medical_Marijuana_-_2.jpg/960px-Discount_Medical_Marijuana_-_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Cannabis_retail_outlet"
+        }
+      },
+      {
+        "id": "vienna-shops-13",
+        "name": "Walter Hamma",
+        "cityId": "vienna",
+        "categoryId": "shops",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Walter%20Hamma%2C%20Vienna",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Walter_Hamma",
+        "photo": null
+      },
+      {
+        "id": "vienna-shops-14",
+        "name": "Coffeehouse",
+        "cityId": "vienna",
+        "categoryId": "shops",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Coffeehouse%2C%20Vienna",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Coffeehouse",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/Caf%C3%A9_de_Flore.jpg/960px-Caf%C3%A9_de_Flore.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Coffeehouse"
+        }
+      },
+      {
+        "id": "vienna-shops-15",
+        "name": "Joseph Zaehnsdorf",
+        "cityId": "vienna",
+        "categoryId": "shops",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Joseph%20Zaehnsdorf%2C%20Vienna",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Joseph_Zaehnsdorf",
+        "photo": null
+      },
+      {
+        "id": "vienna-shops-16",
+        "name": "Opernpassage",
+        "cityId": "vienna",
+        "categoryId": "shops",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Opernpassage%2C%20Vienna",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Opernpassage",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Opernpassage_Panorama.jpg/960px-Opernpassage_Panorama.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Opernpassage"
+        }
+      },
+      {
+        "id": "vienna-shops-17",
+        "name": "Michael Thonet",
+        "cityId": "vienna",
+        "categoryId": "shops",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Michael%20Thonet%2C%20Vienna",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Michael_Thonet",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/23/Michael_Thonet.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Michael_Thonet"
+        }
+      },
+      {
+        "id": "vienna-shops-18",
+        "name": "Manner",
+        "cityId": "vienna",
+        "categoryId": "shops",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Manner%2C%20Vienna",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Manner_(confectionery)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Mannerwerk-ottakring-wien-viennaphoto_at.jpg/960px-Mannerwerk-ottakring-wien-viennaphoto_at.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Manner_(confectionery)"
+        }
+      }
+    ]
+  }
+}

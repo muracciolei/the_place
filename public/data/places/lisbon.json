@@ -1,10 +1,8 @@
 {
   "cityId": "lisbon",
-  "generatedAt": "2026-11-27T08:50:45.599Z",
+  "generatedAt": "2026-11-27T09:37:28.794Z",
   "source": "Wikipedia API + Maps URLs (sin scraping de Google)",
-  "incomplete": [
-    "fashion"
-  ],
+  "incomplete": [],
   "categories": {
     "night_clubs": [
       {
@@ -1876,7 +1874,261 @@
         }
       }
     ],
-    "fashion": [],
+    "fashion": [
+      {
+        "id": "lisbon-fashion-1",
+        "name": "Cristina Ferreira",
+        "cityId": "lisbon",
+        "categoryId": "fashion",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Cristina%20Ferreira%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Cristina_Ferreira",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Cristina_Ferreira_-_Web_Summit_2026_%2810%29_%28cropped%29.jpg/960px-Cristina_Ferreira_-_Web_Summit_2026_%2810%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Cristina_Ferreira"
+        }
+      },
+      {
+        "id": "lisbon-fashion-2",
+        "name": "Bobby Simmons",
+        "cityId": "lisbon",
+        "categoryId": "fashion",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Bobby%20Simmons%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Bobby_Simmons",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/53/Bobby_Simmons.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Bobby_Simmons"
+        }
+      },
+      {
+        "id": "lisbon-fashion-3",
+        "name": "Big Brother",
+        "cityId": "lisbon",
+        "categoryId": "fashion",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Big%20Brother%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Big_Brother_(Portuguese_TV_series)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/BB_All_Stars_2026_Logotipo.png/960px-BB_All_Stars_2026_Logotipo.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Big_Brother_(Portuguese_TV_series)"
+        }
+      },
+      {
+        "id": "lisbon-fashion-4",
+        "name": "Ana Louisa Soares",
+        "cityId": "lisbon",
+        "categoryId": "fashion",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Ana%20Louisa%20Soares%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Ana_Louisa_Soares",
+        "photo": null
+      },
+      {
+        "id": "lisbon-fashion-5",
+        "name": "Secret Story",
+        "cityId": "lisbon",
+        "categoryId": "fashion",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Secret%20Story%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Secret_Story_(Portuguese_TV_series)",
+        "photo": null
+      },
+      {
+        "id": "lisbon-fashion-6",
+        "name": "Charles Wagenheim",
+        "cityId": "lisbon",
+        "categoryId": "fashion",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Charles%20Wagenheim%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Charles_Wagenheim",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Charles_Wagenheim_in_Ghost_of_Jean_Battoo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Charles_Wagenheim"
+        }
+      },
+      {
+        "id": "lisbon-fashion-7",
+        "name": "Interpol",
+        "cityId": "lisbon",
+        "categoryId": "fashion",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Interpol%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Interpol_(band)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/MX_TV_INTERPOL_CDMX_%2830164465558%29.jpg/960px-MX_TV_INTERPOL_CDMX_%2830164465558%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Interpol_(band)"
+        }
+      },
+      {
+        "id": "lisbon-fashion-8",
+        "name": "Sacha Baron Cohen",
+        "cityId": "lisbon",
+        "categoryId": "fashion",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Sacha%20Baron%20Cohen%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Sacha_Baron_Cohen",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Sacha_Baron_Cohen_%282024%29_%283x4_cropped%29.jpg/960px-Sacha_Baron_Cohen_%282024%29_%283x4_cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Sacha_Baron_Cohen"
+        }
+      },
+      {
+        "id": "lisbon-fashion-9",
+        "name": "Maureen O'Hara",
+        "cityId": "lisbon",
+        "categoryId": "fashion",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Maureen%20O'Hara%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Maureen_O'Hara",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/Maureen_O%27Hara_1947_2.jpg/960px-Maureen_O%27Hara_1947_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Maureen_O'Hara"
+        }
+      },
+      {
+        "id": "lisbon-fashion-10",
+        "name": "Double-decker bus",
+        "cityId": "lisbon",
+        "categoryId": "fashion",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Double-decker%20bus%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Double-decker_bus",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/Abellio_LT157_%28LTZ1157%29_Holborn_Viaduct_20.01.2024.jpg/960px-Abellio_LT157_%28LTZ1157%29_Holborn_Viaduct_20.01.2024.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Double-decker_bus"
+        }
+      },
+      {
+        "id": "lisbon-fashion-11",
+        "name": "David Goldblatt",
+        "cityId": "lisbon",
+        "categoryId": "fashion",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=David%20Goldblatt%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/David_Goldblatt",
+        "photo": null
+      },
+      {
+        "id": "lisbon-fashion-12",
+        "name": "Big Brother (Portuguese TV series) season 6",
+        "cityId": "lisbon",
+        "categoryId": "fashion",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Big%20Brother%20(Portuguese%20TV%20series)%20season%206%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Big_Brother_(Portuguese_TV_series)_season_6",
+        "photo": null
+      },
+      {
+        "id": "lisbon-fashion-13",
+        "name": "El Dorado World Tour",
+        "cityId": "lisbon",
+        "categoryId": "fashion",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=El%20Dorado%20World%20Tour%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/El_Dorado_World_Tour",
+        "photo": null
+      },
+      {
+        "id": "lisbon-fashion-14",
+        "name": "March 1901",
+        "cityId": "lisbon",
+        "categoryId": "fashion",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=March%201901%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/March_1901",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/L.N.Tolstoy_Prokudin-Gorsky.jpg/960px-L.N.Tolstoy_Prokudin-Gorsky.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/March_1901"
+        }
+      },
+      {
+        "id": "lisbon-fashion-15",
+        "name": "April 1980",
+        "cityId": "lisbon",
+        "categoryId": "fashion",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=April%201980%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/April_1980",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Usburnedhelicopter.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/April_1980"
+        }
+      },
+      {
+        "id": "lisbon-fashion-16",
+        "name": "Women in aviation",
+        "cityId": "lisbon",
+        "categoryId": "fashion",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Women%20in%20aviation%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Women_in_aviation",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Air_Force%27s_first_African_American_female_fighter_pilot_080317-F-XX000-064.jpg/960px-Air_Force%27s_first_African_American_female_fighter_pilot_080317-F-XX000-064.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Women_in_aviation"
+        }
+      },
+      {
+        "id": "lisbon-fashion-17",
+        "name": "Department stores by country",
+        "cityId": "lisbon",
+        "categoryId": "fashion",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Department%20stores%20by%20country%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Department_stores_by_country",
+        "photo": null
+      },
+      {
+        "id": "lisbon-fashion-18",
+        "name": "Today",
+        "cityId": "lisbon",
+        "categoryId": "fashion",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Today%2C%20Lisbon",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Today_(production_duo)",
+        "photo": null
+      }
+    ],
     "shops": [
       {
         "id": "lisbon-shops-1",

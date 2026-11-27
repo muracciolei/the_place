@@ -1,0 +1,2363 @@
+{
+  "cityId": "kyoto",
+  "generatedAt": "2026-11-27T09:36:46.310Z",
+  "source": "Wikipedia API + Maps URLs (sin scraping de Google)",
+  "incomplete": [],
+  "categories": {
+    "night_clubs": [
+      {
+        "id": "kyoto-night_clubs-1",
+        "name": "Jūsō",
+        "cityId": "kyoto",
+        "categoryId": "night_clubs",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=J%C5%ABs%C5%8D%2C%20Kyoto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/J%C5%ABs%C5%8D",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/Sakaemachi_in_Juso%2C_Osaka.jpg/960px-Sakaemachi_in_Juso%2C_Osaka.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/J%C5%ABs%C5%8D"
+        }
+      },
+      {
+        "id": "kyoto-night_clubs-2",
+        "name": "The Key to Midnight",
+        "cityId": "kyoto",
+        "categoryId": "night_clubs",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Key%20to%20Midnight%2C%20Kyoto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/The_Key_to_Midnight",
+        "photo": null
+      },
+      {
+        "id": "kyoto-night_clubs-3",
+        "name": "Pyramid Club",
+        "cityId": "kyoto",
+        "categoryId": "night_clubs",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Pyramid%20Club%2C%20Kyoto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Pyramid_Club_(New_York_City)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Pyramid-club1.jpg/960px-Pyramid-club1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Pyramid_Club_(New_York_City)"
+        }
+      },
+      {
+        "id": "kyoto-night_clubs-4",
+        "name": "Arata Isozaki",
+        "cityId": "kyoto",
+        "categoryId": "night_clubs",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Arata%20Isozaki%2C%20Kyoto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Arata_Isozaki",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/ARATA_ISOZAKI%2C_ARCHITECT_01.jpg/960px-ARATA_ISOZAKI%2C_ARCHITECT_01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Arata_Isozaki"
+        }
+      },
+      {
+        "id": "kyoto-night_clubs-5",
+        "name": "Music venue",
+        "cityId": "kyoto",
+        "categoryId": "night_clubs",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Music%20venue%2C%20Kyoto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Music_venue",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Sydney_Opera_House_Concert_Theatre.JPG/960px-Sydney_Opera_House_Concert_Theatre.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Music_venue"
+        }
+      },
+      {
+        "id": "kyoto-night_clubs-6",
+        "name": "Shōhei Ōoka",
+        "cityId": "kyoto",
+        "categoryId": "night_clubs",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Sh%C5%8Dhei%20%C5%8Coka%2C%20Kyoto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Sh%C5%8Dhei_%C5%8Coka",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/Syouhei_Oooka.jpg/960px-Syouhei_Oooka.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Sh%C5%8Dhei_%C5%8Coka"
+        }
+      },
+      {
+        "id": "kyoto-night_clubs-7",
+        "name": "Water Sign",
+        "cityId": "kyoto",
+        "categoryId": "night_clubs",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Water%20Sign%2C%20Kyoto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Water_Sign_(Jeff_Lorber_album)",
+        "photo": null
+      },
+      {
+        "id": "kyoto-night_clubs-8",
+        "name": "Samantha Ronson",
+        "cityId": "kyoto",
+        "categoryId": "night_clubs",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Samantha%20Ronson%2C%20Kyoto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Samantha_Ronson",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/61/Ronsoncropped.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Samantha_Ronson"
+        }
+      },
+      {
+        "id": "kyoto-night_clubs-9",
+        "name": "Crowd control",
+        "cityId": "kyoto",
+        "categoryId": "night_clubs",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Crowd%20control%2C%20Kyoto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Crowd_control",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/London_Marathon_2014_-_First_aiders_%2803%29.jpg/960px-London_Marathon_2014_-_First_aiders_%2803%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Crowd_control"
+        }
+      },
+      {
+        "id": "kyoto-night_clubs-10",
+        "name": "Samurai II: Duel at Ichijoji Temple",
+        "cityId": "kyoto",
+        "categoryId": "night_clubs",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Samurai%20II%3A%20Duel%20at%20Ichijoji%20Temple%2C%20Kyoto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Samurai_II%3A_Duel_at_Ichijoji_Temple",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/90/Samurai_II_Duel_at_Ichijoji_Temple_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Samurai_II%3A_Duel_at_Ichijoji_Temple"
+        }
+      },
+      {
+        "id": "kyoto-night_clubs-11",
+        "name": "Kazuo Taoka",
+        "cityId": "kyoto",
+        "categoryId": "night_clubs",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Kazuo%20Taoka%2C%20Kyoto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Kazuo_Taoka",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/61/Taoka.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Kazuo_Taoka"
+        }
+      },
+      {
+        "id": "kyoto-night_clubs-12",
+        "name": "Lost in Translation",
+        "cityId": "kyoto",
+        "categoryId": "night_clubs",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Lost%20in%20Translation%2C%20Kyoto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Lost_in_Translation",
+        "photo": null
+      },
+      {
+        "id": "kyoto-night_clubs-13",
+        "name": "Ku",
+        "cityId": "kyoto",
+        "categoryId": "night_clubs",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Ku%2C%20Kyoto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Ku",
+        "photo": null
+      },
+      {
+        "id": "kyoto-night_clubs-14",
+        "name": "Joi Ito",
+        "cityId": "kyoto",
+        "categoryId": "night_clubs",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Joi%20Ito%2C%20Kyoto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Joi_Ito",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Joichi_Ito_Headshot_2007.jpg/960px-Joichi_Ito_Headshot_2007.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Joi_Ito"
+        }
+      },
+      {
+        "id": "kyoto-night_clubs-15",
+        "name": "Samurai Girl",
+        "cityId": "kyoto",
+        "categoryId": "night_clubs",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Samurai%20Girl%2C%20Kyoto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Samurai_Girl_(miniseries)",
+        "photo": null
+      },
+      {
+        "id": "kyoto-night_clubs-16",
+        "name": "No wave",
+        "cityId": "kyoto",
+        "categoryId": "night_clubs",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=No%20wave%2C%20Kyoto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/No_wave",
+        "photo": null
+      },
+      {
+        "id": "kyoto-night_clubs-17",
+        "name": "Paolo Riani",
+        "cityId": "kyoto",
+        "categoryId": "night_clubs",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Paolo%20Riani%2C%20Kyoto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Paolo_Riani",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Paolo_Riani1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Paolo_Riani"
+        }
+      },
+      {
+        "id": "kyoto-night_clubs-18",
+        "name": "Lee Morgan",
+        "cityId": "kyoto",
+        "categoryId": "night_clubs",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Lee%20Morgan%2C%20Kyoto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Lee_Morgan",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Lee_Morgan_%281959%29.jpg/960px-Lee_Morgan_%281959%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Lee_Morgan"
+        }
+      }
+    ],
+    "restaurants": [
+      {
+        "id": "kyoto-restaurants-1",
+        "name": "Muteppou",
+        "cityId": "kyoto",
+        "categoryId": "restaurants",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Muteppou%2C%20Kyoto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Muteppou",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/Muteppou-Kyoto-Appearance.jpg/960px-Muteppou-Kyoto-Appearance.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Muteppou"
+        }
+      },
+      {
+        "id": "kyoto-restaurants-2",
+        "name": "Tenkaippin",
+        "cityId": "kyoto",
+        "categoryId": "restaurants",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Tenkaippin%2C%20Kyoto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Tenkaippin",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Tenka-ippin_main_shop_in_Sakyo-ku%2C_Kyoto_%28%E5%A4%A9%E4%B8%8B%E4%B8%80%E5%93%81_%E7%B7%8F%E6%9C%AC%E5%BA%97%2C_%E4%BA%AC%E9%83%BD%E5%B8%82%E5%B7%A6%E4%BA%AC%E5%8C%BA%E4%B8%80%E4%B9%97%E5%AF%BA%E7%AF%89%E7%94%B0%E7%94%BA%29_%282012-04-03_by_HmanJp%29.jpg/960px-Tenka-ippin_main_shop_in_Sakyo-ku%2C_Kyoto_%28%E5%A4%A9%E4%B8%8B%E4%B8%80%E5%93%81_%E7%B7%8F%E6%9C%AC%E5%BA%97%2C_%E4%BA%AC%E9%83%BD%E5%B8%82%E5%B7%A6%E4%BA%AC%E5%8C%BA%E4%B8%80%E4%B9%97%E5%AF%BA%E7%AF%89%E7%94%B0%E7%94%BA%29_%282012-04-03_by_HmanJp%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Tenkaippin"
+        }
+      },
+      {
+        "id": "kyoto-restaurants-3",
+        "name": "Noma",
+        "cityId": "kyoto",
+        "categoryId": "restaurants",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Noma%2C%20Kyoto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Noma_(restaurant)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Noma_entrance.jpg/960px-Noma_entrance.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Noma_(restaurant)"
+        }
+      },
+      {
+        "id": "kyoto-restaurants-4",
+        "name": "Ochaya",
+        "cityId": "kyoto",
+        "categoryId": "restaurants",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Ochaya%2C%20Kyoto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Ochaya",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Ichiriki_Ochaya.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Ochaya"
+        }
+      },
+      {
+        "id": "kyoto-restaurants-5",
+        "name": "René Redzepi",
+        "cityId": "kyoto",
+        "categoryId": "restaurants",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Ren%C3%A9%20Redzepi%2C%20Kyoto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Ren%C3%A9_Redzepi",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Ren%C3%A9_Redzepi_en_la_cena_de_las_14_estrellas_Michel%C3%ADn_del_restaurante_Zaldiar%C3%A1n.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Ren%C3%A9_Redzepi"
+        }
+      },
+      {
+        "id": "kyoto-restaurants-6",
+        "name": "Kyoto",
+        "cityId": "kyoto",
+        "categoryId": "restaurants",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Kyoto%2C%20Kyoto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Kyoto",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/Kiyomizu-dera%2C_Kyoto%2C_November_2016_-02.jpg/960px-Kiyomizu-dera%2C_Kyoto%2C_November_2016_-02.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Kyoto"
+        }
+      },
+      {
+        "id": "kyoto-restaurants-7",
+        "name": "Hoshino Resorts",
+        "cityId": "kyoto",
+        "categoryId": "restaurants",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Hoshino%20Resorts%2C%20Kyoto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Hoshino_Resorts",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/Hoshinoya_Kyoto.jpg/960px-Hoshinoya_Kyoto.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Hoshino_Resorts"
+        }
+      },
+      {
+        "id": "kyoto-restaurants-8",
+        "name": "Alain Ducasse",
+        "cityId": "kyoto",
+        "categoryId": "restaurants",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Alain%20Ducasse%2C%20Kyoto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Alain_Ducasse",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Alain_Ducasse.jpg/960px-Alain_Ducasse.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Alain_Ducasse"
+        }
+      },
+      {
+        "id": "kyoto-restaurants-9",
+        "name": "Owariya",
+        "cityId": "kyoto",
+        "categoryId": "restaurants",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Owariya%2C%20Kyoto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Owariya",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Outside_Honke_Owariya_%2813680896895%29.jpg/960px-Outside_Honke_Owariya_%2813680896895%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Owariya"
+        }
+      },
+      {
+        "id": "kyoto-restaurants-10",
+        "name": "Okonomiyaki",
+        "cityId": "kyoto",
+        "categoryId": "restaurants",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Okonomiyaki%2C%20Kyoto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Okonomiyaki",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/Okonomiyaki_001.jpg/960px-Okonomiyaki_001.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Okonomiyaki"
+        }
+      },
+      {
+        "id": "kyoto-restaurants-11",
+        "name": "Ariko Inaoka",
+        "cityId": "kyoto",
+        "categoryId": "restaurants",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Ariko%20Inaoka%2C%20Kyoto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Ariko_Inaoka",
+        "photo": null
+      },
+      {
+        "id": "kyoto-restaurants-12",
+        "name": "Floating restaurant",
+        "cityId": "kyoto",
+        "categoryId": "restaurants",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Floating%20restaurant%2C%20Kyoto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Floating_restaurant",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Vaal_River_-_Floating_Restaurant-001.jpg/960px-Vaal_River_-_Floating_Restaurant-001.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Floating_restaurant"
+        }
+      },
+      {
+        "id": "kyoto-restaurants-13",
+        "name": "Kitcho",
+        "cityId": "kyoto",
+        "categoryId": "restaurants",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Kitcho%2C%20Kyoto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Kitcho",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Koraibashi_Kiccho.JPG/960px-Koraibashi_Kiccho.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Kitcho"
+        }
+      },
+      {
+        "id": "kyoto-restaurants-14",
+        "name": "Yukimura",
+        "cityId": "kyoto",
+        "categoryId": "restaurants",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Yukimura%2C%20Kyoto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Yukimura_(restaurant)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Yukimura.jpg/960px-Yukimura.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Yukimura_(restaurant)"
+        }
+      },
+      {
+        "id": "kyoto-restaurants-15",
+        "name": "Kyoto Tango Railway",
+        "cityId": "kyoto",
+        "categoryId": "restaurants",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Kyoto%20Tango%20Railway%2C%20Kyoto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Kyoto_Tango_Railway",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Kyoto_Tango_Railway_Linemap.svg/960px-Kyoto_Tango_Railway_Linemap.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Kyoto_Tango_Railway"
+        }
+      },
+      {
+        "id": "kyoto-restaurants-16",
+        "name": "Kaiseki",
+        "cityId": "kyoto",
+        "categoryId": "restaurants",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Kaiseki%2C%20Kyoto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Kaiseki",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Jisaku_Kaiseki_Ryori_01.jpg/960px-Jisaku_Kaiseki_Ryori_01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Kaiseki"
+        }
+      },
+      {
+        "id": "kyoto-restaurants-17",
+        "name": "Michelin Guide",
+        "cityId": "kyoto",
+        "categoryId": "restaurants",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Michelin%20Guide%2C%20Kyoto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Michelin_Guide",
+        "photo": null
+      },
+      {
+        "id": "kyoto-restaurants-18",
+        "name": "Gyoza no Ohsho",
+        "cityId": "kyoto",
+        "categoryId": "restaurants",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Gyoza%20no%20Ohsho%2C%20Kyoto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Gyoza_no_Ohsho",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/%E9%A4%83%E5%AD%90%E3%81%AE%E7%8E%8B%E5%B0%86.svg/960px-%E9%A4%83%E5%AD%90%E3%81%AE%E7%8E%8B%E5%B0%86.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Gyoza_no_Ohsho"
+        }
+      }
+    ],
+    "bars": [
+      {
+        "id": "kyoto-bars-1",
+        "name": "Amanohashidate",
+        "cityId": "kyoto",
+        "categoryId": "bars",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Amanohashidate%2C%20Kyoto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Amanohashidate",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/Amanohashidate_aerial_view_2026.jpg/960px-Amanohashidate_aerial_view_2026.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Amanohashidate"
+        }
+      },
+      {
+        "id": "kyoto-bars-2",
+        "name": "Sayaka Araki",
+        "cityId": "kyoto",
+        "categoryId": "bars",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Sayaka%20Araki%2C%20Kyoto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Sayaka_Araki",
+        "photo": null
+      },
+      {
+        "id": "kyoto-bars-3",
+        "name": "Kyocera",
+        "cityId": "kyoto",
+        "categoryId": "bars",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Kyocera%2C%20Kyoto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Kyocera",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/Kyocera-hq-01.jpg/960px-Kyocera-hq-01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Kyocera"
+        }
+      },
+      {
+        "id": "kyoto-bars-4",
+        "name": "Yoshihiro Saito",
+        "cityId": "kyoto",
+        "categoryId": "bars",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Yoshihiro%20Saito%2C%20Kyoto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Yoshihiro_Saito",
+        "photo": null
+      },
+      {
+        "id": "kyoto-bars-5",
+        "name": "Geisha",
+        "cityId": "kyoto",
+        "categoryId": "bars",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Geisha%2C%20Kyoto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Geisha",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Geiko_Kimiha.jpg/960px-Geiko_Kimiha.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Geisha"
+        }
+      },
+      {
+        "id": "kyoto-bars-6",
+        "name": "Aritsugu",
+        "cityId": "kyoto",
+        "categoryId": "bars",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Aritsugu%2C%20Kyoto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Aritsugu",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/Kitchen_tools_store_by_matsuyuki_in_Nishiki_Ichiba%2C_Kyoto.jpg/960px-Kitchen_tools_store_by_matsuyuki_in_Nishiki_Ichiba%2C_Kyoto.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Aritsugu"
+        }
+      },
+      {
+        "id": "kyoto-bars-7",
+        "name": "Usuba bōchō",
+        "cityId": "kyoto",
+        "categoryId": "bars",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Usuba%20b%C5%8Dch%C5%8D%2C%20Kyoto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Usuba_b%C5%8Dch%C5%8D",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Hitohira_Tanaka_Mosuke_210mm_Kamagata_Usuba_Aogami_1_%282026%29-104A7986.jpg/960px-Hitohira_Tanaka_Mosuke_210mm_Kamagata_Usuba_Aogami_1_%282026%29-104A7986.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Usuba_b%C5%8Dch%C5%8D"
+        }
+      },
+      {
+        "id": "kyoto-bars-8",
+        "name": "Haruki Murakami",
+        "cityId": "kyoto",
+        "categoryId": "bars",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Haruki%20Murakami%2C%20Kyoto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Haruki_Murakami",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/51/Conversatorio_Haruki_Murakami_%2812_de_12%29_%2845747009452%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Haruki_Murakami"
+        }
+      },
+      {
+        "id": "kyoto-bars-9",
+        "name": "Shoal",
+        "cityId": "kyoto",
+        "categoryId": "bars",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Shoal%2C%20Kyoto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Shoal",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/GughSandbar.JPG/960px-GughSandbar.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Shoal"
+        }
+      },
+      {
+        "id": "kyoto-bars-10",
+        "name": "Kyoto University of Education",
+        "cityId": "kyoto",
+        "categoryId": "bars",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Kyoto%20University%20of%20Education%2C%20Kyoto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Kyoto_University_of_Education",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Kyoto-Univ-of-Education01.jpg/960px-Kyoto-Univ-of-Education01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Kyoto_University_of_Education"
+        }
+      },
+      {
+        "id": "kyoto-bars-11",
+        "name": "Taku Yamazoe",
+        "cityId": "kyoto",
+        "categoryId": "bars",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Taku%20Yamazoe%2C%20Kyoto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Taku_Yamazoe",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/67/Taku_Yamazoe_2023-4-8%286%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Taku_Yamazoe"
+        }
+      },
+      {
+        "id": "kyoto-bars-12",
+        "name": "Unagisaki hōchō",
+        "cityId": "kyoto",
+        "categoryId": "bars",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Unagisaki%20h%C5%8Dch%C5%8D%2C%20Kyoto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Unagisaki_h%C5%8Dch%C5%8D",
+        "photo": null
+      },
+      {
+        "id": "kyoto-bars-13",
+        "name": "Q-Games",
+        "cityId": "kyoto",
+        "categoryId": "bars",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Q-Games%2C%20Kyoto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Q-Games",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/Q-Games_Logo.png/960px-Q-Games_Logo.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Q-Games"
+        }
+      },
+      {
+        "id": "kyoto-bars-14",
+        "name": "Megu Fujigamori",
+        "cityId": "kyoto",
+        "categoryId": "bars",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Megu%20Fujigamori%2C%20Kyoto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Megu_Fujigamori",
+        "photo": null
+      },
+      {
+        "id": "kyoto-bars-15",
+        "name": "World University Karate Championships",
+        "cityId": "kyoto",
+        "categoryId": "bars",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=World%20University%20Karate%20Championships%2C%20Kyoto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/World_University_Karate_Championships",
+        "photo": null
+      },
+      {
+        "id": "kyoto-bars-16",
+        "name": "Sadakazu Tanigaki",
+        "cityId": "kyoto",
+        "categoryId": "bars",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Sadakazu%20Tanigaki%2C%20Kyoto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Sadakazu_Tanigaki",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/64/Tanigaki_Sadakazu_1-2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Sadakazu_Tanigaki"
+        }
+      },
+      {
+        "id": "kyoto-bars-17",
+        "name": "Yuko Miyazaki",
+        "cityId": "kyoto",
+        "categoryId": "bars",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Yuko%20Miyazaki%2C%20Kyoto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Yuko_Miyazaki",
+        "photo": null
+      },
+      {
+        "id": "kyoto-bars-18",
+        "name": "The Unraveling",
+        "cityId": "kyoto",
+        "categoryId": "bars",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Unraveling%2C%20Kyoto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/The_Unraveling_(EP)",
+        "photo": null
+      }
+    ],
+    "coffee_shops": [
+      {
+        "id": "kyoto-coffee_shops-1",
+        "name": "Misato Watanabe",
+        "cityId": "kyoto",
+        "categoryId": "coffee_shops",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Misato%20Watanabe%2C%20Kyoto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Misato_Watanabe",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/Misato_Watanabe_%2816702129459%29.jpg/960px-Misato_Watanabe_%2816702129459%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Misato_Watanabe"
+        }
+      },
+      {
+        "id": "kyoto-coffee_shops-2",
+        "name": "A Bathing Ape",
+        "cityId": "kyoto",
+        "categoryId": "coffee_shops",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=A%20Bathing%20Ape%2C%20Kyoto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/A_Bathing_Ape",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Bape_Store_Harajuku_2015.jpg/960px-Bape_Store_Harajuku_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/A_Bathing_Ape"
+        }
+      },
+      {
+        "id": "kyoto-coffee_shops-3",
+        "name": "Salon de thé François",
+        "cityId": "kyoto",
+        "categoryId": "coffee_shops",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Salon%20de%20th%C3%A9%20Fran%C3%A7ois%2C%20Kyoto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Salon_de_th%C3%A9_Fran%C3%A7ois",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Staind_glass_of_Salon_de_th%C3%A9_Fran%C3%A7ois.jpg/960px-Staind_glass_of_Salon_de_th%C3%A9_Fran%C3%A7ois.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Salon_de_th%C3%A9_Fran%C3%A7ois"
+        }
+      },
+      {
+        "id": "kyoto-coffee_shops-4",
+        "name": "The Blue Cafe",
+        "cityId": "kyoto",
+        "categoryId": "coffee_shops",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Blue%20Cafe%2C%20Kyoto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/The_Blue_Cafe",
+        "photo": null
+      },
+      {
+        "id": "kyoto-coffee_shops-5",
+        "name": "Kyoto",
+        "cityId": "kyoto",
+        "categoryId": "coffee_shops",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Kyoto%2C%20Kyoto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Kyoto_(Art_Blakey_album)",
+        "photo": null
+      },
+      {
+        "id": "kyoto-coffee_shops-6",
+        "name": "Manhattan Cafe",
+        "cityId": "kyoto",
+        "categoryId": "coffee_shops",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Manhattan%20Cafe%2C%20Kyoto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Manhattan_Cafe",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/98/Manhattan_Cafe_20020428.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Manhattan_Cafe"
+        }
+      },
+      {
+        "id": "kyoto-coffee_shops-7",
+        "name": "Rakugo",
+        "cityId": "kyoto",
+        "categoryId": "coffee_shops",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Rakugo%2C%20Kyoto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Rakugo",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Rakugo-sanmafestival.jpg/960px-Rakugo-sanmafestival.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Rakugo"
+        }
+      },
+      {
+        "id": "kyoto-coffee_shops-8",
+        "name": "% Arabica",
+        "cityId": "kyoto",
+        "categoryId": "coffee_shops",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=%25%20Arabica%2C%20Kyoto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/%25_Arabica",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/%25_Arabica_London_Covent_Garden_%28cropped%29.jpg/960px-%25_Arabica_London_Covent_Garden_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/%25_Arabica"
+        }
+      },
+      {
+        "id": "kyoto-coffee_shops-9",
+        "name": "Sarugaku",
+        "cityId": "kyoto",
+        "categoryId": "coffee_shops",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Sarugaku%2C%20Kyoto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Sarugaku",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/80/Onmatsuri2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Sarugaku"
+        }
+      },
+      {
+        "id": "kyoto-coffee_shops-10",
+        "name": "Tomoko Tabata",
+        "cityId": "kyoto",
+        "categoryId": "coffee_shops",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Tomoko%20Tabata%2C%20Kyoto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Tomoko_Tabata",
+        "photo": null
+      },
+      {
+        "id": "kyoto-coffee_shops-11",
+        "name": "Yoshida dormitory, Kyoto University",
+        "cityId": "kyoto",
+        "categoryId": "coffee_shops",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Yoshida%20dormitory%2C%20Kyoto%20University%2C%20Kyoto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Yoshida_dormitory%2C_Kyoto_University",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/%E5%90%89%E7%94%B0%E5%AF%AE%E6%AD%A3%E9%9D%A2%E7%8E%84%E9%96%A2%EF%BC%882011%E5%B9%B412%E6%9C%88%EF%BC%89.jpg/960px-%E5%90%89%E7%94%B0%E5%AF%AE%E6%AD%A3%E9%9D%A2%E7%8E%84%E9%96%A2%EF%BC%882011%E5%B9%B412%E6%9C%88%EF%BC%89.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Yoshida_dormitory%2C_Kyoto_University"
+        }
+      },
+      {
+        "id": "kyoto-coffee_shops-12",
+        "name": "Kikuka-shō",
+        "cityId": "kyoto",
+        "categoryId": "coffee_shops",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Kikuka-sh%C5%8D%2C%20Kyoto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Kikuka-sh%C5%8D",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Kikuka-sho_2023_Durezza.jpg/960px-Kikuka-sho_2023_Durezza.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Kikuka-sh%C5%8D"
+        }
+      },
+      {
+        "id": "kyoto-coffee_shops-13",
+        "name": "Unicorn Stakes",
+        "cityId": "kyoto",
+        "categoryId": "coffee_shops",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Unicorn%20Stakes%2C%20Kyoto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Unicorn_Stakes",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/I-am-actress20110604.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Unicorn_Stakes"
+        }
+      },
+      {
+        "id": "kyoto-coffee_shops-14",
+        "name": "Novala Takemoto",
+        "cityId": "kyoto",
+        "categoryId": "coffee_shops",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Novala%20Takemoto%2C%20Kyoto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Novala_Takemoto",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Pmx06novala7.jpg/960px-Pmx06novala7.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Novala_Takemoto"
+        }
+      },
+      {
+        "id": "kyoto-coffee_shops-15",
+        "name": "Ittoku Kishibe",
+        "cityId": "kyoto",
+        "categoryId": "coffee_shops",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Ittoku%20Kishibe%2C%20Kyoto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Ittoku_Kishibe",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Kishibe_Ittoku_from_%22Doctor-X_the_Movie%22_at_Red_Carpet_of_the_Tokyo_International_Film_Festival_2024_%2854576933867%29.jpg/960px-Kishibe_Ittoku_from_%22Doctor-X_the_Movie%22_at_Red_Carpet_of_the_Tokyo_International_Film_Festival_2024_%2854576933867%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Ittoku_Kishibe"
+        }
+      },
+      {
+        "id": "kyoto-coffee_shops-16",
+        "name": "Holmes of Kyoto",
+        "cityId": "kyoto",
+        "categoryId": "coffee_shops",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Holmes%20of%20Kyoto%2C%20Kyoto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Holmes_of_Kyoto",
+        "photo": null
+      },
+      {
+        "id": "kyoto-coffee_shops-17",
+        "name": "Urasawa",
+        "cityId": "kyoto",
+        "categoryId": "coffee_shops",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Urasawa%2C%20Kyoto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Urasawa_(restaurant)",
+        "photo": null
+      },
+      {
+        "id": "kyoto-coffee_shops-18",
+        "name": "Mejiro McQueen",
+        "cityId": "kyoto",
+        "categoryId": "coffee_shops",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Mejiro%20McQueen%2C%20Kyoto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Mejiro_McQueen",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Mejiro_McQueen_20020722.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Mejiro_McQueen"
+        }
+      }
+    ],
+    "bookshops": [
+      {
+        "id": "kyoto-bookshops-1",
+        "name": "Planet News",
+        "cityId": "kyoto",
+        "categoryId": "bookshops",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Planet%20News%2C%20Kyoto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Planet_News",
+        "photo": null
+      },
+      {
+        "id": "kyoto-bookshops-2",
+        "name": "Joshi Kōsei to Mahō no Note",
+        "cityId": "kyoto",
+        "categoryId": "bookshops",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Joshi%20K%C5%8Dsei%20to%20Mah%C5%8D%20no%20Note%2C%20Kyoto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Joshi_K%C5%8Dsei_to_Mah%C5%8D_no_Note",
+        "photo": null
+      },
+      {
+        "id": "kyoto-bookshops-3",
+        "name": "Kanzō Uchiyama",
+        "cityId": "kyoto",
+        "categoryId": "bookshops",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Kanz%C5%8D%20Uchiyama%2C%20Kyoto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Kanz%C5%8D_Uchiyama",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/12/Kanzo_Uchiyama_01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Kanz%C5%8D_Uchiyama"
+        }
+      },
+      {
+        "id": "kyoto-bookshops-4",
+        "name": "Uchiyama",
+        "cityId": "kyoto",
+        "categoryId": "bookshops",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Uchiyama%2C%20Kyoto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Uchiyama",
+        "photo": null
+      },
+      {
+        "id": "kyoto-bookshops-5",
+        "name": "Kyoto Tower",
+        "cityId": "kyoto",
+        "categoryId": "bookshops",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Kyoto%20Tower%2C%20Kyoto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Kyoto_Tower",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Kyoto_Tower_%28%E4%BA%AC%E9%83%BD%E3%82%BF%E3%83%AF%E3%83%BC%2C_Ky%C5%8Dto-taw%C4%81_by_Don_Ramey_Logan.jpg/960px-Kyoto_Tower_%28%E4%BA%AC%E9%83%BD%E3%82%BF%E3%83%AF%E3%83%BC%2C_Ky%C5%8Dto-taw%C4%81_by_Don_Ramey_Logan.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Kyoto_Tower"
+        }
+      },
+      {
+        "id": "kyoto-bookshops-6",
+        "name": "The Night Is Short, Walk On Girl",
+        "cityId": "kyoto",
+        "categoryId": "bookshops",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Night%20Is%20Short%2C%20Walk%20On%20Girl%2C%20Kyoto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/The_Night_Is_Short%2C_Walk_On_Girl",
+        "photo": null
+      },
+      {
+        "id": "kyoto-bookshops-7",
+        "name": "Kyoto International Manga Museum",
+        "cityId": "kyoto",
+        "categoryId": "bookshops",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Kyoto%20International%20Manga%20Museum%2C%20Kyoto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Kyoto_International_Manga_Museum",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/%E4%BA%AC%E9%83%BD%E5%9B%BD%E9%9A%9B%E3%83%9E%E3%83%B3%E3%82%AC%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%82%A2%E3%83%A0.jpg/960px-%E4%BA%AC%E9%83%BD%E5%9B%BD%E9%9A%9B%E3%83%9E%E3%83%B3%E3%82%AC%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%82%A2%E3%83%A0.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Kyoto_International_Manga_Museum"
+        }
+      },
+      {
+        "id": "kyoto-bookshops-8",
+        "name": "Shizuma Station",
+        "cityId": "kyoto",
+        "categoryId": "bookshops",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Shizuma%20Station%2C%20Kyoto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Shizuma_Station",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/62/%E9%9D%99%E9%96%93%E9%A7%85.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Shizuma_Station"
+        }
+      },
+      {
+        "id": "kyoto-bookshops-9",
+        "name": "Detective Conan: Crossroad in the Ancient Capital",
+        "cityId": "kyoto",
+        "categoryId": "bookshops",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Detective%20Conan%3A%20Crossroad%20in%20the%20Ancient%20Capital%2C%20Kyoto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Detective_Conan%3A_Crossroad_in_the_Ancient_Capital",
+        "photo": null
+      },
+      {
+        "id": "kyoto-bookshops-10",
+        "name": "Edit DeAk",
+        "cityId": "kyoto",
+        "categoryId": "bookshops",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Edit%20DeAk%2C%20Kyoto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Edit_DeAk",
+        "photo": null
+      },
+      {
+        "id": "kyoto-bookshops-11",
+        "name": "Osaka City Air Terminal",
+        "cityId": "kyoto",
+        "categoryId": "bookshops",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Osaka%20City%20Air%20Terminal%2C%20Kyoto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Osaka_City_Air_Terminal",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/JR%E9%9B%A3%E6%B3%A2%E9%A7%85%E9%A7%85%E8%88%8E%E3%81%8C%E5%85%A5%E5%B1%85%E3%81%99%E3%82%8B%E3%80%8COCAT%E3%80%8D_2022.jpg/960px-JR%E9%9B%A3%E6%B3%A2%E9%A7%85%E9%A7%85%E8%88%8E%E3%81%8C%E5%85%A5%E5%B1%85%E3%81%99%E3%82%8B%E3%80%8COCAT%E3%80%8D_2022.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Osaka_City_Air_Terminal"
+        }
+      },
+      {
+        "id": "kyoto-bookshops-12",
+        "name": "Nagisa Ōshima",
+        "cityId": "kyoto",
+        "categoryId": "bookshops",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Nagisa%20%C5%8Cshima%2C%20Kyoto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Nagisa_%C5%8Cshima",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Nagisa_Oshima_at_Cannes_in_2000.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Nagisa_%C5%8Cshima"
+        }
+      },
+      {
+        "id": "kyoto-bookshops-13",
+        "name": "Kunio Maekawa",
+        "cityId": "kyoto",
+        "categoryId": "bookshops",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Kunio%20Maekawa%2C%20Kyoto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Kunio_Maekawa",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/House-Kunio-Maekawa-03.jpg/960px-House-Kunio-Maekawa-03.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Kunio_Maekawa"
+        }
+      },
+      {
+        "id": "kyoto-bookshops-14",
+        "name": "Tokyo Xanadu",
+        "cityId": "kyoto",
+        "categoryId": "bookshops",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Tokyo%20Xanadu%2C%20Kyoto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Tokyo_Xanadu",
+        "photo": null
+      },
+      {
+        "id": "kyoto-bookshops-15",
+        "name": "Maruzen-Yushodo",
+        "cityId": "kyoto",
+        "categoryId": "bookshops",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Maruzen-Yushodo%2C%20Kyoto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Maruzen-Yushodo",
+        "photo": null
+      },
+      {
+        "id": "kyoto-bookshops-16",
+        "name": "Shogo Imamura",
+        "cityId": "kyoto",
+        "categoryId": "bookshops",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Shogo%20Imamura%2C%20Kyoto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Shogo_Imamura",
+        "photo": null
+      },
+      {
+        "id": "kyoto-bookshops-17",
+        "name": "Pyramid Club",
+        "cityId": "kyoto",
+        "categoryId": "bookshops",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Pyramid%20Club%2C%20Kyoto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Pyramid_Club_(New_York_City)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Pyramid-club1.jpg/960px-Pyramid-club1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Pyramid_Club_(New_York_City)"
+        }
+      },
+      {
+        "id": "kyoto-bookshops-18",
+        "name": "Ghibli Museum",
+        "cityId": "kyoto",
+        "categoryId": "bookshops",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Ghibli%20Museum%2C%20Kyoto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Ghibli_Museum",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Ghibli_Museum_2024.JPG/960px-Ghibli_Museum_2024.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Ghibli_Museum"
+        }
+      }
+    ],
+    "museums": [
+      {
+        "id": "kyoto-museums-1",
+        "name": "Kyoto",
+        "cityId": "kyoto",
+        "categoryId": "museums",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Kyoto%2C%20Kyoto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Kyoto",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/Kiyomizu-dera%2C_Kyoto%2C_November_2016_-02.jpg/960px-Kiyomizu-dera%2C_Kyoto%2C_November_2016_-02.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Kyoto"
+        }
+      },
+      {
+        "id": "kyoto-museums-2",
+        "name": "Kyoto National Museum",
+        "cityId": "kyoto",
+        "categoryId": "museums",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Kyoto%20National%20Museum%2C%20Kyoto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Kyoto_National_Museum",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/260214_Kyoto_National_Museum_Kyoto_Japan04bs4.jpg/960px-260214_Kyoto_National_Museum_Kyoto_Japan04bs4.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Kyoto_National_Museum"
+        }
+      },
+      {
+        "id": "kyoto-museums-3",
+        "name": "Kyoto International Manga Museum",
+        "cityId": "kyoto",
+        "categoryId": "museums",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Kyoto%20International%20Manga%20Museum%2C%20Kyoto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Kyoto_International_Manga_Museum",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/%E4%BA%AC%E9%83%BD%E5%9B%BD%E9%9A%9B%E3%83%9E%E3%83%B3%E3%82%AC%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%82%A2%E3%83%A0.jpg/960px-%E4%BA%AC%E9%83%BD%E5%9B%BD%E9%9A%9B%E3%83%9E%E3%83%B3%E3%82%AC%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%82%A2%E3%83%A0.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Kyoto_International_Manga_Museum"
+        }
+      },
+      {
+        "id": "kyoto-museums-4",
+        "name": "National Museum of Modern Art, Kyoto",
+        "cityId": "kyoto",
+        "categoryId": "museums",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=National%20Museum%20of%20Modern%20Art%2C%20Kyoto%2C%20Kyoto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/National_Museum_of_Modern_Art%2C_Kyoto",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/The_National_Museum_of_Modern_Art%2C_Kyoto.jpg/960px-The_National_Museum_of_Modern_Art%2C_Kyoto.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/National_Museum_of_Modern_Art%2C_Kyoto"
+        }
+      },
+      {
+        "id": "kyoto-museums-5",
+        "name": "Kyoto Railway Museum",
+        "cityId": "kyoto",
+        "categoryId": "museums",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Kyoto%20Railway%20Museum%2C%20Kyoto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Kyoto_Railway_Museum",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Kyoto_Railway_Museum_entrance_20161017.jpg/960px-Kyoto_Railway_Museum_entrance_20161017.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Kyoto_Railway_Museum"
+        }
+      },
+      {
+        "id": "kyoto-museums-6",
+        "name": "Nishikawa Sukenobu",
+        "cityId": "kyoto",
+        "categoryId": "museums",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Nishikawa%20Sukenobu%2C%20Kyoto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Nishikawa_Sukenobu",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Sukenobu_-_The_Doll_Ceremony.jpg/960px-Sukenobu_-_The_Doll_Ceremony.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Nishikawa_Sukenobu"
+        }
+      },
+      {
+        "id": "kyoto-museums-7",
+        "name": "Saga Arashiyama Museum of Arts and Culture",
+        "cityId": "kyoto",
+        "categoryId": "museums",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Saga%20Arashiyama%20Museum%20of%20Arts%20and%20Culture%2C%20Kyoto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Saga_Arashiyama_Museum_of_Arts_and_Culture",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/%E5%B0%8F%E5%80%89%E7%99%BE%E4%BA%BA%E4%B8%80%E9%A6%96%E3%81%AE%E6%AE%BF%E5%A0%82%E3%83%BB%E6%99%82%E9%9B%A8%E6%AE%BF_-_panoramio.jpg/960px-%E5%B0%8F%E5%80%89%E7%99%BE%E4%BA%BA%E4%B8%80%E9%A6%96%E3%81%AE%E6%AE%BF%E5%A0%82%E3%83%BB%E6%99%82%E9%9B%A8%E6%AE%BF_-_panoramio.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Saga_Arashiyama_Museum_of_Arts_and_Culture"
+        }
+      },
+      {
+        "id": "kyoto-museums-8",
+        "name": "Higashiyama-ku",
+        "cityId": "kyoto",
+        "categoryId": "museums",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Higashiyama-ku%2C%20Kyoto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Higashiyama-ku",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Shirakara_Canal%2C_Gion%2C_Kyoto.jpg/960px-Shirakara_Canal%2C_Gion%2C_Kyoto.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Higashiyama-ku"
+        }
+      },
+      {
+        "id": "kyoto-museums-9",
+        "name": "Hara school of painters",
+        "cityId": "kyoto",
+        "categoryId": "museums",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Hara%20school%20of%20painters%2C%20Kyoto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Hara_school_of_painters",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Imperial_Palace_in_Kyoto_-_waiting_room_wall_4.JPG/960px-Imperial_Palace_in_Kyoto_-_waiting_room_wall_4.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Hara_school_of_painters"
+        }
+      },
+      {
+        "id": "kyoto-museums-10",
+        "name": "Rinpa school",
+        "cityId": "kyoto",
+        "categoryId": "museums",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Rinpa%20school%2C%20Kyoto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Rinpa_school",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Rimpa-SpringLandscape.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Rinpa_school"
+        }
+      },
+      {
+        "id": "kyoto-museums-11",
+        "name": "Byōdō-in",
+        "cityId": "kyoto",
+        "categoryId": "museums",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=By%C5%8Dd%C5%8D-in%2C%20Kyoto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/By%C5%8Dd%C5%8D-in",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Phoenix_Hall%2C_Byodo-in%2C_November_2016_-01.jpg/960px-Phoenix_Hall%2C_Byodo-in%2C_November_2016_-01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/By%C5%8Dd%C5%8D-in"
+        }
+      },
+      {
+        "id": "kyoto-museums-12",
+        "name": "ICOCA",
+        "cityId": "kyoto",
+        "categoryId": "museums",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=ICOCA%2C%20Kyoto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/ICOCA",
+        "photo": null
+      },
+      {
+        "id": "kyoto-museums-13",
+        "name": "Tadao Ando",
+        "cityId": "kyoto",
+        "categoryId": "museums",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Tadao%20Ando%2C%20Kyoto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Tadao_Ando",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/83/Tadao_Ando_2004_%284x5_cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Tadao_Ando"
+        }
+      },
+      {
+        "id": "kyoto-museums-14",
+        "name": "Kyoto Seika University",
+        "cityId": "kyoto",
+        "categoryId": "museums",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Kyoto%20Seika%20University%2C%20Kyoto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Kyoto_Seika_University",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Kyoto_Seika_University140524NI2.JPG/960px-Kyoto_Seika_University140524NI2.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Kyoto_Seika_University"
+        }
+      },
+      {
+        "id": "kyoto-museums-15",
+        "name": "Kyoto Municipal Museum of Art",
+        "cityId": "kyoto",
+        "categoryId": "museums",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Kyoto%20Municipal%20Museum%20of%20Art%2C%20Kyoto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Kyoto_Municipal_Museum_of_Art",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/Kyoto_Municipal_Museum_of_Art_1933_%E2%85%B1.jpg/960px-Kyoto_Municipal_Museum_of_Art_1933_%E2%85%B1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Kyoto_Municipal_Museum_of_Art"
+        }
+      },
+      {
+        "id": "kyoto-museums-16",
+        "name": "Kita-ku, Kyoto",
+        "cityId": "kyoto",
+        "categoryId": "museums",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Kita-ku%2C%20Kyoto%2C%20Kyoto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Kita-ku%2C_Kyoto",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/Kinkaku3402CBcropped.jpg/960px-Kinkaku3402CBcropped.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Kita-ku%2C_Kyoto"
+        }
+      },
+      {
+        "id": "kyoto-museums-17",
+        "name": "Sarah Brayer",
+        "cityId": "kyoto",
+        "categoryId": "museums",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Sarah%20Brayer%2C%20Kyoto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Sarah_Brayer",
+        "photo": null
+      },
+      {
+        "id": "kyoto-museums-18",
+        "name": "Independent Administrative Institution National Museum",
+        "cityId": "kyoto",
+        "categoryId": "museums",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Independent%20Administrative%20Institution%20National%20Museum%2C%20Kyoto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Independent_Administrative_Institution_National_Museum",
+        "photo": null
+      }
+    ],
+    "concerts": [
+      {
+        "id": "kyoto-concerts-1",
+        "name": "Rohm Theatre Kyoto",
+        "cityId": "kyoto",
+        "categoryId": "concerts",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Rohm%20Theatre%20Kyoto%2C%20Kyoto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Rohm_Theatre_Kyoto",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Rohm_Theatre_Kyoto_ac.JPG/960px-Rohm_Theatre_Kyoto_ac.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Rohm_Theatre_Kyoto"
+        }
+      },
+      {
+        "id": "kyoto-concerts-2",
+        "name": "Kyoto Concert Hall",
+        "cityId": "kyoto",
+        "categoryId": "concerts",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Kyoto%20Concert%20Hall%2C%20Kyoto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Kyoto_Concert_Hall",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Kyoto_Concert_Hall02n3200.jpg/960px-Kyoto_Concert_Hall02n3200.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Kyoto_Concert_Hall"
+        }
+      },
+      {
+        "id": "kyoto-concerts-3",
+        "name": "Nagata Acoustics",
+        "cityId": "kyoto",
+        "categoryId": "concerts",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Nagata%20Acoustics%2C%20Kyoto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Nagata_Acoustics",
+        "photo": null
+      },
+      {
+        "id": "kyoto-concerts-4",
+        "name": "Yoko Misumi",
+        "cityId": "kyoto",
+        "categoryId": "concerts",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Yoko%20Misumi%2C%20Kyoto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Yoko_Misumi",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Stjepan_Hauser_Yoko_Misumi_281109_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Yoko_Misumi"
+        }
+      },
+      {
+        "id": "kyoto-concerts-5",
+        "name": "Yutaka Sado",
+        "cityId": "kyoto",
+        "categoryId": "concerts",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Yutaka%20Sado%2C%20Kyoto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Yutaka_Sado",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/02/YutakaSado-Tokyo-a-May23-2016.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Yutaka_Sado"
+        }
+      },
+      {
+        "id": "kyoto-concerts-6",
+        "name": "Arata Isozaki",
+        "cityId": "kyoto",
+        "categoryId": "concerts",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Arata%20Isozaki%2C%20Kyoto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Arata_Isozaki",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/ARATA_ISOZAKI%2C_ARCHITECT_01.jpg/960px-ARATA_ISOZAKI%2C_ARCHITECT_01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Arata_Isozaki"
+        }
+      },
+      {
+        "id": "kyoto-concerts-7",
+        "name": "Outline of Kyoto",
+        "cityId": "kyoto",
+        "categoryId": "concerts",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Outline%20of%20Kyoto%2C%20Kyoto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Outline_of_Kyoto",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Flag_of_Kyoto_City.svg/960px-Flag_of_Kyoto_City.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Outline_of_Kyoto"
+        }
+      },
+      {
+        "id": "kyoto-concerts-8",
+        "name": "Music venue",
+        "cityId": "kyoto",
+        "categoryId": "concerts",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Music%20venue%2C%20Kyoto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Music_venue",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Sydney_Opera_House_Concert_Theatre.JPG/960px-Sydney_Opera_House_Concert_Theatre.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Music_venue"
+        }
+      },
+      {
+        "id": "kyoto-concerts-9",
+        "name": "Timeline of Kyoto",
+        "cityId": "kyoto",
+        "categoryId": "concerts",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Timeline%20of%20Kyoto%2C%20Kyoto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Timeline_of_Kyoto",
+        "photo": null
+      },
+      {
+        "id": "kyoto-concerts-10",
+        "name": "D'erlanger",
+        "cityId": "kyoto",
+        "categoryId": "concerts",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=D'erlanger%2C%20Kyoto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/D'erlanger",
+        "photo": null
+      },
+      {
+        "id": "kyoto-concerts-11",
+        "name": "Kyoto Notre Dame University",
+        "cityId": "kyoto",
+        "categoryId": "concerts",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Kyoto%20Notre%20Dame%20University%2C%20Kyoto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Kyoto_Notre_Dame_University",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/Kyoto_Norte_Dame_University140524NI1.JPG/960px-Kyoto_Norte_Dame_University140524NI1.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Kyoto_Notre_Dame_University"
+        }
+      },
+      {
+        "id": "kyoto-concerts-12",
+        "name": "Taeko Fukao",
+        "cityId": "kyoto",
+        "categoryId": "concerts",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Taeko%20Fukao%2C%20Kyoto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Taeko_Fukao",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/32/Taeko_Performance.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Taeko_Fukao"
+        }
+      },
+      {
+        "id": "kyoto-concerts-13",
+        "name": "Jizue",
+        "cityId": "kyoto",
+        "categoryId": "concerts",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Jizue%2C%20Kyoto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Jizue",
+        "photo": null
+      },
+      {
+        "id": "kyoto-concerts-14",
+        "name": "Lemminkäinen Suite",
+        "cityId": "kyoto",
+        "categoryId": "concerts",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Lemmink%C3%A4inen%20Suite%2C%20Kyoto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Lemmink%C3%A4inen_Suite",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/JSibelius_c.1885-1890.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Lemmink%C3%A4inen_Suite"
+        }
+      },
+      {
+        "id": "kyoto-concerts-15",
+        "name": "Cut Piece 1964",
+        "cityId": "kyoto",
+        "categoryId": "concerts",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Cut%20Piece%201964%2C%20Kyoto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Cut_Piece_1964",
+        "photo": null
+      },
+      {
+        "id": "kyoto-concerts-16",
+        "name": "Expo '70",
+        "cityId": "kyoto",
+        "categoryId": "concerts",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Expo%20'70%2C%20Kyoto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Expo_'70",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Expo70-logo.svg/960px-Expo70-logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Expo_'70"
+        }
+      },
+      {
+        "id": "kyoto-concerts-17",
+        "name": "Portland Symphony Orchestra",
+        "cityId": "kyoto",
+        "categoryId": "concerts",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Portland%20Symphony%20Orchestra%2C%20Kyoto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Portland_Symphony_Orchestra",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/PSO_2025.jpg/960px-PSO_2025.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Portland_Symphony_Orchestra"
+        }
+      },
+      {
+        "id": "kyoto-concerts-18",
+        "name": "Cecil Taylor",
+        "cityId": "kyoto",
+        "categoryId": "concerts",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Cecil%20Taylor%2C%20Kyoto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Cecil_Taylor",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Cecil_taylor_E5122329-2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Cecil_Taylor"
+        }
+      }
+    ],
+    "fashion": [
+      {
+        "id": "kyoto-fashion-1",
+        "name": "Noriko Hidaka",
+        "cityId": "kyoto",
+        "categoryId": "fashion",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Noriko%20Hidaka%2C%20Kyoto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Noriko_Hidaka",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/36/%E6%97%A5%E3%81%AE%E3%82%8A%E5%AD%90.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Noriko_Hidaka"
+        }
+      },
+      {
+        "id": "kyoto-fashion-2",
+        "name": "Barefoot Gen",
+        "cityId": "kyoto",
+        "categoryId": "fashion",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Barefoot%20Gen%2C%20Kyoto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Barefoot_Gen",
+        "photo": null
+      },
+      {
+        "id": "kyoto-fashion-3",
+        "name": "Butyric acid",
+        "cityId": "kyoto",
+        "categoryId": "fashion",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Butyric%20acid%2C%20Kyoto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Butyric_acid",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Butyric-acid-3D-balls.png/960px-Butyric-acid-3D-balls.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Butyric_acid"
+        }
+      },
+      {
+        "id": "kyoto-fashion-4",
+        "name": "Pretty Rhythm: Aurora Dream",
+        "cityId": "kyoto",
+        "categoryId": "fashion",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Pretty%20Rhythm%3A%20Aurora%20Dream%2C%20Kyoto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Pretty_Rhythm%3A_Aurora_Dream",
+        "photo": null
+      },
+      {
+        "id": "kyoto-fashion-5",
+        "name": "Kim Kardashian",
+        "cityId": "kyoto",
+        "categoryId": "fashion",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Kim%20Kardashian%2C%20Kyoto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Kim_Kardashian",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Kim_Kardashian_West_2014.jpg/960px-Kim_Kardashian_West_2014.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Kim_Kardashian"
+        }
+      },
+      {
+        "id": "kyoto-fashion-6",
+        "name": "Case Closed season 29",
+        "cityId": "kyoto",
+        "categoryId": "fashion",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Case%20Closed%20season%2029%2C%20Kyoto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Case_Closed_season_29",
+        "photo": null
+      },
+      {
+        "id": "kyoto-fashion-7",
+        "name": "Omar Courtz",
+        "cityId": "kyoto",
+        "categoryId": "fashion",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Omar%20Courtz%2C%20Kyoto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Omar_Courtz",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Omar_Courtz_%22Goddess%22_2024.png/960px-Omar_Courtz_%22Goddess%22_2024.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Omar_Courtz"
+        }
+      },
+      {
+        "id": "kyoto-fashion-8",
+        "name": "Rihito Itagaki",
+        "cityId": "kyoto",
+        "categoryId": "fashion",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Rihito%20Itagaki%2C%20Kyoto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Rihito_Itagaki",
+        "photo": null
+      },
+      {
+        "id": "kyoto-fashion-9",
+        "name": "Aman Resorts",
+        "cityId": "kyoto",
+        "categoryId": "fashion",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Aman%20Resorts%2C%20Kyoto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Aman_Resorts",
+        "photo": null
+      },
+      {
+        "id": "kyoto-fashion-10",
+        "name": "Kalee Kreider",
+        "cityId": "kyoto",
+        "categoryId": "fashion",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Kalee%20Kreider%2C%20Kyoto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Kalee_Kreider",
+        "photo": null
+      },
+      {
+        "id": "kyoto-fashion-11",
+        "name": "Fauchon",
+        "cityId": "kyoto",
+        "categoryId": "fashion",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Fauchon%2C%20Kyoto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Fauchon",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Flickr_-_scalleja_-_Fauchon_%28Place_de_la_Madeleine_-_Paris%29_3.jpg/960px-Flickr_-_scalleja_-_Fauchon_%28Place_de_la_Madeleine_-_Paris%29_3.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Fauchon"
+        }
+      },
+      {
+        "id": "kyoto-fashion-12",
+        "name": "Katsura Imperial Villa",
+        "cityId": "kyoto",
+        "categoryId": "fashion",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Katsura%20Imperial%20Villa%2C%20Kyoto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Katsura_Imperial_Villa",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Katsura_Rikyu_%283264799678%29.jpg/960px-Katsura_Rikyu_%283264799678%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Katsura_Imperial_Villa"
+        }
+      },
+      {
+        "id": "kyoto-fashion-13",
+        "name": "Hoshino Resorts",
+        "cityId": "kyoto",
+        "categoryId": "fashion",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Hoshino%20Resorts%2C%20Kyoto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Hoshino_Resorts",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/Hoshinoya_Kyoto.jpg/960px-Hoshinoya_Kyoto.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Hoshino_Resorts"
+        }
+      },
+      {
+        "id": "kyoto-fashion-14",
+        "name": "% Arabica",
+        "cityId": "kyoto",
+        "categoryId": "fashion",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=%25%20Arabica%2C%20Kyoto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/%25_Arabica",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/%25_Arabica_London_Covent_Garden_%28cropped%29.jpg/960px-%25_Arabica_London_Covent_Garden_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/%25_Arabica"
+        }
+      },
+      {
+        "id": "kyoto-fashion-15",
+        "name": "Fred Joaillier",
+        "cityId": "kyoto",
+        "categoryId": "fashion",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Fred%20Joaillier%2C%20Kyoto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Fred_Joaillier",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Fred_Joaillier_logo.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Fred_Joaillier"
+        }
+      },
+      {
+        "id": "kyoto-fashion-16",
+        "name": "Le Labo",
+        "cityId": "kyoto",
+        "categoryId": "fashion",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Le%20Labo%2C%20Kyoto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Le_Labo",
+        "photo": null
+      },
+      {
+        "id": "kyoto-fashion-17",
+        "name": "Ryokan",
+        "cityId": "kyoto",
+        "categoryId": "fashion",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Ryokan%2C%20Kyoto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Ryokan",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Tamatsukuri_onsen_yado02s3648.jpg/960px-Tamatsukuri_onsen_yado02s3648.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Ryokan"
+        }
+      },
+      {
+        "id": "kyoto-fashion-18",
+        "name": "Metamorphose temps de fille",
+        "cityId": "kyoto",
+        "categoryId": "fashion",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Metamorphose%20temps%20de%20fille%2C%20Kyoto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Metamorphose_temps_de_fille",
+        "photo": null
+      }
+    ],
+    "shops": [
+      {
+        "id": "kyoto-shops-1",
+        "name": "Machiya",
+        "cityId": "kyoto",
+        "categoryId": "shops",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Machiya%2C%20Kyoto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Machiya",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/%E6%9D%B1%E6%9D%BE%E5%AE%B6%E4%BD%8F%E5%AE%85_%282%29.jpg/960px-%E6%9D%B1%E6%9D%BE%E5%AE%B6%E4%BD%8F%E5%AE%85_%282%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Machiya"
+        }
+      },
+      {
+        "id": "kyoto-shops-2",
+        "name": "Tamako Market",
+        "cityId": "kyoto",
+        "categoryId": "shops",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Tamako%20Market%2C%20Kyoto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Tamako_Market",
+        "photo": null
+      },
+      {
+        "id": "kyoto-shops-3",
+        "name": "Aritsugu",
+        "cityId": "kyoto",
+        "categoryId": "shops",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Aritsugu%2C%20Kyoto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Aritsugu",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/Kitchen_tools_store_by_matsuyuki_in_Nishiki_Ichiba%2C_Kyoto.jpg/960px-Kitchen_tools_store_by_matsuyuki_in_Nishiki_Ichiba%2C_Kyoto.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Aritsugu"
+        }
+      },
+      {
+        "id": "kyoto-shops-4",
+        "name": "A Bathing Ape",
+        "cityId": "kyoto",
+        "categoryId": "shops",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=A%20Bathing%20Ape%2C%20Kyoto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/A_Bathing_Ape",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Bape_Store_Harajuku_2015.jpg/960px-Bape_Store_Harajuku_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/A_Bathing_Ape"
+        }
+      },
+      {
+        "id": "kyoto-shops-5",
+        "name": "Kyoto",
+        "cityId": "kyoto",
+        "categoryId": "shops",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Kyoto%2C%20Kyoto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Kyoto",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/Kiyomizu-dera%2C_Kyoto%2C_November_2016_-02.jpg/960px-Kiyomizu-dera%2C_Kyoto%2C_November_2016_-02.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Kyoto"
+        }
+      },
+      {
+        "id": "kyoto-shops-6",
+        "name": "Uji",
+        "cityId": "kyoto",
+        "categoryId": "shops",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Uji%2C%20Kyoto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Uji",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/Byodoin_Phoenix_Hall_Uji_2009.jpg/960px-Byodoin_Phoenix_Hall_Uji_2009.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Uji"
+        }
+      },
+      {
+        "id": "kyoto-shops-7",
+        "name": "Holmes of Kyoto",
+        "cityId": "kyoto",
+        "categoryId": "shops",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Holmes%20of%20Kyoto%2C%20Kyoto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Holmes_of_Kyoto",
+        "photo": null
+      },
+      {
+        "id": "kyoto-shops-8",
+        "name": "Oishi Tengudo",
+        "cityId": "kyoto",
+        "categoryId": "shops",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Oishi%20Tengudo%2C%20Kyoto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Oishi_Tengudo",
+        "photo": null
+      },
+      {
+        "id": "kyoto-shops-9",
+        "name": "Toshiki Yui",
+        "cityId": "kyoto",
+        "categoryId": "shops",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Toshiki%20Yui%2C%20Kyoto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Toshiki_Yui",
+        "photo": null
+      },
+      {
+        "id": "kyoto-shops-10",
+        "name": "Higashiyodogawa-ku",
+        "cityId": "kyoto",
+        "categoryId": "shops",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Higashiyodogawa-ku%2C%20Kyoto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Higashiyodogawa-ku",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Higashiyodogawa-ku_in_Osaka_City.svg/960px-Higashiyodogawa-ku_in_Osaka_City.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Higashiyodogawa-ku"
+        }
+      },
+      {
+        "id": "kyoto-shops-11",
+        "name": "Sisters of the Gion",
+        "cityId": "kyoto",
+        "categoryId": "shops",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Sisters%20of%20the%20Gion%2C%20Kyoto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Sisters_of_the_Gion",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Sistersofthegion1936pamphlet-scene.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Sisters_of_the_Gion"
+        }
+      },
+      {
+        "id": "kyoto-shops-12",
+        "name": "Kyoto Art Center",
+        "cityId": "kyoto",
+        "categoryId": "shops",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Kyoto%20Art%20Center%2C%20Kyoto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Kyoto_Art_Center",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Kyoto_art_center.jpg/960px-Kyoto_art_center.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Kyoto_Art_Center"
+        }
+      },
+      {
+        "id": "kyoto-shops-13",
+        "name": "Rurouni Kenshin: New Kyoto Arc",
+        "cityId": "kyoto",
+        "categoryId": "shops",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Rurouni%20Kenshin%3A%20New%20Kyoto%20Arc%2C%20Kyoto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Rurouni_Kenshin%3A_New_Kyoto_Arc",
+        "photo": null
+      },
+      {
+        "id": "kyoto-shops-14",
+        "name": "Kyoto Tower",
+        "cityId": "kyoto",
+        "categoryId": "shops",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Kyoto%20Tower%2C%20Kyoto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Kyoto_Tower",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Kyoto_Tower_%28%E4%BA%AC%E9%83%BD%E3%82%BF%E3%83%AF%E3%83%BC%2C_Ky%C5%8Dto-taw%C4%81_by_Don_Ramey_Logan.jpg/960px-Kyoto_Tower_%28%E4%BA%AC%E9%83%BD%E3%82%BF%E3%83%AF%E3%83%BC%2C_Ky%C5%8Dto-taw%C4%81_by_Don_Ramey_Logan.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Kyoto_Tower"
+        }
+      },
+      {
+        "id": "kyoto-shops-15",
+        "name": "% Arabica",
+        "cityId": "kyoto",
+        "categoryId": "shops",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=%25%20Arabica%2C%20Kyoto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/%25_Arabica",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/%25_Arabica_London_Covent_Garden_%28cropped%29.jpg/960px-%25_Arabica_London_Covent_Garden_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/%25_Arabica"
+        }
+      },
+      {
+        "id": "kyoto-shops-16",
+        "name": "Tomoko Kawase",
+        "cityId": "kyoto",
+        "categoryId": "shops",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Tomoko%20Kawase%2C%20Kyoto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Tomoko_Kawase",
+        "photo": null
+      },
+      {
+        "id": "kyoto-shops-17",
+        "name": "Nintendo DSi",
+        "cityId": "kyoto",
+        "categoryId": "shops",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Nintendo%20DSi%2C%20Kyoto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Nintendo_DSi",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Nintendo-DSi-Bl-Open.png/960px-Nintendo-DSi-Bl-Open.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Nintendo_DSi"
+        }
+      },
+      {
+        "id": "kyoto-shops-18",
+        "name": "Hiroyuki Wakabayashi",
+        "cityId": "kyoto",
+        "categoryId": "shops",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Hiroyuki%20Wakabayashi%2C%20Kyoto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Hiroyuki_Wakabayashi",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Nankai50000Series01.jpg/960px-Nankai50000Series01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Hiroyuki_Wakabayashi"
+        }
+      }
+    ]
+  }
+}

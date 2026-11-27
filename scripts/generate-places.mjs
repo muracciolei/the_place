@@ -18,15 +18,15 @@ const PER_CATEGORY = 18
 const UA = 'THE-PLACE-DataGenerator/2.0 (static demo data; github.com/muracciolei/the_place)'
 
 const KEYWORDS = {
-  night_clubs: 'nightclub',
-  restaurants: 'restaurant',
-  bars: 'bar',
-  coffee_shops: 'cafe',
-  bookshops: 'bookstore',
-  museums: 'museum',
-  concerts: 'concert hall',
-  fashion: 'clothing store',
-  shops: 'shop',
+  night_clubs: ['nightclub'],
+  restaurants: ['restaurant'],
+  bars: ['bar'],
+  coffee_shops: ['cafe'],
+  bookshops: ['bookstore', 'bookshop'],
+  museums: ['museum'],
+  concerts: ['concert hall', 'music venue'],
+  fashion: ['clothing store', 'boutique', 'fashion shop'],
+  shops: ['shop', 'store'],
 }
 
 const BLOCK = /\b(list|liste|category|fire|shooting|massacre|riot|riots|history|war|attack|protest|trial|scandal|disambiguation|mayor|avenue|street|building|association|society|cat|media|hotel|tourism|inc|corporation|company|in popular culture)\b/i
@@ -64,19 +64,22 @@ function valid(title, keyword) {
 }
 
 async function titlesFor(city, categoryId) {
-  const keyword = KEYWORDS[categoryId]
-  const data = await api({
-    action: 'query', list: 'search',
-    srsearch: `"${keyword}" "${city.name}"`, srlimit: '50',
-  })
   const found = []
   const seen = new Set()
-  for (const item of data?.query?.search || []) {
-    const name = cleanTitle(item.title)
-    if (!seen.has(name) && valid(item.title, keyword)) {
-      seen.add(name)
-      found.push({ name, title: item.title })
+  for (const keyword of KEYWORDS[categoryId] || []) {
+    const data = await api({
+      action: 'query', list: 'search',
+      srsearch: `"${keyword}" "${city.name}"`, srlimit: '50',
+    })
+    for (const item of data?.query?.search || []) {
+      const name = cleanTitle(item.title)
+      if (!seen.has(name) && valid(item.title, keyword.split(' ')[0])) {
+        seen.add(name)
+        found.push({ name, title: item.title })
+      }
     }
+    if (found.length >= PER_CATEGORY) break
+    await delay(400)
   }
   return found.slice(0, PER_CATEGORY)
 }

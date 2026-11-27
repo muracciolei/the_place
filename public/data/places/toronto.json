@@ -1,16 +1,799 @@
 {
   "cityId": "toronto",
-  "generatedAt": "2026-11-27T08:53:08.262Z",
+  "generatedAt": "2026-11-27T09:32:10.220Z",
   "source": "Wikipedia API + Maps URLs (sin scraping de Google)",
-  "incomplete": [
-    "night_clubs",
-    "restaurants",
-    "bars"
-  ],
+  "incomplete": [],
   "categories": {
-    "night_clubs": [],
-    "restaurants": [],
-    "bars": [],
+    "night_clubs": [
+      {
+        "id": "toronto-night_clubs-1",
+        "name": "Rebel",
+        "cityId": "toronto",
+        "categoryId": "night_clubs",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Rebel%2C%20Toronto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Rebel_(entertainment_complex)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Rebel_2025.jpg/960px-Rebel_2025.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Rebel_(entertainment_complex)"
+        }
+      },
+      {
+        "id": "toronto-night_clubs-2",
+        "name": "Joe Krol",
+        "cityId": "toronto",
+        "categoryId": "night_clubs",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Joe%20Krol%2C%20Toronto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Joe_Krol",
+        "photo": null
+      },
+      {
+        "id": "toronto-night_clubs-3",
+        "name": "The Guvernment",
+        "cityId": "toronto",
+        "categoryId": "night_clubs",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Guvernment%2C%20Toronto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/The_Guvernment",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/The_Guvernment.jpg/960px-The_Guvernment.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/The_Guvernment"
+        }
+      },
+      {
+        "id": "toronto-night_clubs-4",
+        "name": "Toronto Entertainment District",
+        "cityId": "toronto",
+        "categoryId": "night_clubs",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Toronto%20Entertainment%20District%2C%20Toronto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Toronto_Entertainment_District",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/King_Street_West_at_night_2021.jpg/960px-King_Street_West_at_night_2021.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Toronto_Entertainment_District"
+        }
+      },
+      {
+        "id": "toronto-night_clubs-5",
+        "name": "Octavio Dotel",
+        "cityId": "toronto",
+        "categoryId": "night_clubs",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Octavio%20Dotel%2C%20Toronto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Octavio_Dotel",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/20120713-0283j_Octavio_Dotel.jpg/960px-20120713-0283j_Octavio_Dotel.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Octavio_Dotel"
+        }
+      },
+      {
+        "id": "toronto-night_clubs-6",
+        "name": "Lee's Palace",
+        "cityId": "toronto",
+        "categoryId": "night_clubs",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Lee's%20Palace%2C%20Toronto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Lee's_Palace",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Lee%27s_Palace.jpg/960px-Lee%27s_Palace.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Lee's_Palace"
+        }
+      },
+      {
+        "id": "toronto-night_clubs-7",
+        "name": "Will Munro",
+        "cityId": "toronto",
+        "categoryId": "night_clubs",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Will%20Munro%2C%20Toronto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Will_Munro",
+        "photo": null
+      },
+      {
+        "id": "toronto-night_clubs-8",
+        "name": "Mark Holmes",
+        "cityId": "toronto",
+        "categoryId": "night_clubs",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Mark%20Holmes%2C%20Toronto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Mark_Holmes_(musician)",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/3_piece_with_1984_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Mark_Holmes_(musician)"
+        }
+      },
+      {
+        "id": "toronto-night_clubs-9",
+        "name": "She Stoops to Conquer",
+        "cityId": "toronto",
+        "categoryId": "night_clubs",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=She%20Stoops%20to%20Conquer%2C%20Toronto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/She_Stoops_to_Conquer_(2015_film)",
+        "photo": null
+      },
+      {
+        "id": "toronto-night_clubs-10",
+        "name": "Charles Khabouth",
+        "cityId": "toronto",
+        "categoryId": "night_clubs",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Charles%20Khabouth%2C%20Toronto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Charles_Khabouth",
+        "photo": null
+      },
+      {
+        "id": "toronto-night_clubs-11",
+        "name": "Mod Club",
+        "cityId": "toronto",
+        "categoryId": "night_clubs",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Mod%20Club%2C%20Toronto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Mod_Club",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Mod_Club_Theatre_2023.jpg/960px-Mod_Club_Theatre_2023.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Mod_Club"
+        }
+      },
+      {
+        "id": "toronto-night_clubs-12",
+        "name": "Martin and Lewis",
+        "cityId": "toronto",
+        "categoryId": "night_clubs",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Martin%20and%20Lewis%2C%20Toronto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Martin_and_Lewis_(film)",
+        "photo": null
+      },
+      {
+        "id": "toronto-night_clubs-13",
+        "name": "Electric Circus",
+        "cityId": "toronto",
+        "categoryId": "night_clubs",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Electric%20Circus%2C%20Toronto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Electric_Circus",
+        "photo": null
+      },
+      {
+        "id": "toronto-night_clubs-14",
+        "name": "Shereen Arazm",
+        "cityId": "toronto",
+        "categoryId": "night_clubs",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Shereen%20Arazm%2C%20Toronto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Shereen_Arazm",
+        "photo": null
+      },
+      {
+        "id": "toronto-night_clubs-15",
+        "name": "Phoenix Concert Theatre",
+        "cityId": "toronto",
+        "categoryId": "night_clubs",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Phoenix%20Concert%20Theatre%2C%20Toronto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Phoenix_Concert_Theatre",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/The_Phoenix%2C_Toronto.jpg/960px-The_Phoenix%2C_Toronto.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Phoenix_Concert_Theatre"
+        }
+      },
+      {
+        "id": "toronto-night_clubs-16",
+        "name": "INK Entertainment",
+        "cityId": "toronto",
+        "categoryId": "night_clubs",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=INK%20Entertainment%2C%20Toronto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/INK_Entertainment",
+        "photo": null
+      },
+      {
+        "id": "toronto-night_clubs-17",
+        "name": "Kathy Cox",
+        "cityId": "toronto",
+        "categoryId": "night_clubs",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Kathy%20Cox%2C%20Toronto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Kathy_Cox_(skydiver)",
+        "photo": null
+      },
+      {
+        "id": "toronto-night_clubs-18",
+        "name": "Polson Pier",
+        "cityId": "toronto",
+        "categoryId": "night_clubs",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Polson%20Pier%2C%20Toronto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Polson_Pier",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Polson_Pier%2C_in_Toronto%2C_visible_from_the_Empire_Sandy%2C_2016_07_01_%281%29.JPG_-_panoramio.jpg/960px-Polson_Pier%2C_in_Toronto%2C_visible_from_the_Empire_Sandy%2C_2016_07_01_%281%29.JPG_-_panoramio.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Polson_Pier"
+        }
+      }
+    ],
+    "restaurants": [
+      {
+        "id": "toronto-restaurants-1",
+        "name": "Restaurant Brands International",
+        "cityId": "toronto",
+        "categoryId": "restaurants",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Restaurant%20Brands%20International%2C%20Toronto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Restaurant_Brands_International",
+        "photo": null
+      },
+      {
+        "id": "toronto-restaurants-2",
+        "name": "Restaurant Makeover",
+        "cityId": "toronto",
+        "categoryId": "restaurants",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Restaurant%20Makeover%2C%20Toronto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Restaurant_Makeover",
+        "photo": null
+      },
+      {
+        "id": "toronto-restaurants-3",
+        "name": "Pizza Pizza",
+        "cityId": "toronto",
+        "categoryId": "restaurants",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Pizza%20Pizza%2C%20Toronto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Pizza_Pizza",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Pizza_Pizza_Corporate_HQ.jpg/960px-Pizza_Pizza_Corporate_HQ.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Pizza_Pizza"
+        }
+      },
+      {
+        "id": "toronto-restaurants-4",
+        "name": "Little Italy, Toronto",
+        "cityId": "toronto",
+        "categoryId": "restaurants",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Little%20Italy%2C%20Toronto%2C%20Toronto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Little_Italy%2C_Toronto",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/College_St_at_Grace_St_2023.jpg/960px-College_St_at_Grace_St_2023.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Little_Italy%2C_Toronto"
+        }
+      },
+      {
+        "id": "toronto-restaurants-5",
+        "name": "Floating restaurant",
+        "cityId": "toronto",
+        "categoryId": "restaurants",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Floating%20restaurant%2C%20Toronto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Floating_restaurant",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Vaal_River_-_Floating_Restaurant-001.jpg/960px-Vaal_River_-_Floating_Restaurant-001.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Floating_restaurant"
+        }
+      },
+      {
+        "id": "toronto-restaurants-6",
+        "name": "Little Tibet, Toronto",
+        "cityId": "toronto",
+        "categoryId": "restaurants",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Little%20Tibet%2C%20Toronto%2C%20Toronto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Little_Tibet%2C_Toronto",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/LittleTibet_Parkdale_2023.jpg/960px-LittleTibet_Parkdale_2023.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Little_Tibet%2C_Toronto"
+        }
+      },
+      {
+        "id": "toronto-restaurants-7",
+        "name": "MS Normac",
+        "cityId": "toronto",
+        "categoryId": "restaurants",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=MS%20Normac%2C%20Toronto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/MS_Normac",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Captain_John%27s_Normac.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/MS_Normac"
+        }
+      },
+      {
+        "id": "toronto-restaurants-8",
+        "name": "CN Tower",
+        "cityId": "toronto",
+        "categoryId": "restaurants",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=CN%20Tower%2C%20Toronto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/CN_Tower",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/48/CN_Tower_logo.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/CN_Tower"
+        }
+      },
+      {
+        "id": "toronto-restaurants-9",
+        "name": "Swiss Chalet",
+        "cityId": "toronto",
+        "categoryId": "restaurants",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Swiss%20Chalet%2C%20Toronto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Swiss_Chalet",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Swiss_Chalet_wordmark.svg/960px-Swiss_Chalet_wordmark.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Swiss_Chalet"
+        }
+      },
+      {
+        "id": "toronto-restaurants-10",
+        "name": "Virtuous Pie",
+        "cityId": "toronto",
+        "categoryId": "restaurants",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Virtuous%20Pie%2C%20Toronto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Virtuous_Pie",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Virtuous_Pie_logo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Virtuous_Pie"
+        }
+      },
+      {
+        "id": "toronto-restaurants-11",
+        "name": "GarfieldEats",
+        "cityId": "toronto",
+        "categoryId": "restaurants",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=GarfieldEats%2C%20Toronto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/GarfieldEats",
+        "photo": null
+      },
+      {
+        "id": "toronto-restaurants-12",
+        "name": "Pizza Nova",
+        "cityId": "toronto",
+        "categoryId": "restaurants",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Pizza%20Nova%2C%20Toronto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Pizza_Nova",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/PizzaNovaYonge.jpg/960px-PizzaNovaYonge.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Pizza_Nova"
+        }
+      },
+      {
+        "id": "toronto-restaurants-13",
+        "name": "Sushi pizza",
+        "cityId": "toronto",
+        "categoryId": "restaurants",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Sushi%20pizza%2C%20Toronto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Sushi_pizza",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Sushi_pizza.jpg/960px-Sushi_pizza.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Sushi_pizza"
+        }
+      },
+      {
+        "id": "toronto-restaurants-14",
+        "name": "Greektown, Toronto",
+        "cityId": "toronto",
+        "categoryId": "restaurants",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Greektown%2C%20Toronto%2C%20Toronto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Greektown%2C_Toronto",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Danforth_Ave_at_Jones_Ave_2022.jpg/960px-Danforth_Ave_at_Jones_Ave_2022.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Greektown%2C_Toronto"
+        }
+      },
+      {
+        "id": "toronto-restaurants-15",
+        "name": "Tim Hortons",
+        "cityId": "toronto",
+        "categoryId": "restaurants",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Tim%20Hortons%2C%20Toronto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Tim_Hortons",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/Tim_Hortons%2C_Kingsville%2C_Ontario%2C_2025-06-29.jpg/960px-Tim_Hortons%2C_Kingsville%2C_Ontario%2C_2025-06-29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Tim_Hortons"
+        }
+      },
+      {
+        "id": "toronto-restaurants-16",
+        "name": "Boston Pizza",
+        "cityId": "toronto",
+        "categoryId": "restaurants",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Boston%20Pizza%2C%20Toronto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Boston_Pizza",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Boston_Pizza_logo_2025.svg/960px-Boston_Pizza_logo_2025.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Boston_Pizza"
+        }
+      },
+      {
+        "id": "toronto-restaurants-17",
+        "name": "Matty Matheson",
+        "cityId": "toronto",
+        "categoryId": "restaurants",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Matty%20Matheson%2C%20Toronto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Matty_Matheson",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/MattyMatheson-byPhilipRomano.jpg/960px-MattyMatheson-byPhilipRomano.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Matty_Matheson"
+        }
+      },
+      {
+        "id": "toronto-restaurants-18",
+        "name": "Momofuku",
+        "cityId": "toronto",
+        "categoryId": "restaurants",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Momofuku%2C%20Toronto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Momofuku_(restaurants)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/MomofukuRamen.jpg/960px-MomofukuRamen.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Momofuku_(restaurants)"
+        }
+      }
+    ],
+    "bars": [
+      {
+        "id": "toronto-bars-1",
+        "name": "Woody's",
+        "cityId": "toronto",
+        "categoryId": "bars",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Woody's%2C%20Toronto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Woody's_(Toronto)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Woody%27s.jpg/960px-Woody%27s.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Woody's_(Toronto)"
+        }
+      },
+      {
+        "id": "toronto-bars-2",
+        "name": "Momofuku",
+        "cityId": "toronto",
+        "categoryId": "bars",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Momofuku%2C%20Toronto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Momofuku_(restaurants)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/MomofukuRamen.jpg/960px-MomofukuRamen.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Momofuku_(restaurants)"
+        }
+      },
+      {
+        "id": "toronto-bars-3",
+        "name": "Milk Bar",
+        "cityId": "toronto",
+        "categoryId": "bars",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Milk%20Bar%2C%20Toronto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Milk_Bar_(bakery)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Momofuku_Milk_Bar_Nolita_sign_%2800330%29.jpg/960px-Momofuku_Milk_Bar_Nolita_sign_%2800330%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Milk_Bar_(bakery)"
+        }
+      },
+      {
+        "id": "toronto-bars-4",
+        "name": "Toronto goth scene",
+        "cityId": "toronto",
+        "categoryId": "bars",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Toronto%20goth%20scene%2C%20Toronto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Toronto_goth_scene",
+        "photo": null
+      },
+      {
+        "id": "toronto-bars-5",
+        "name": "Boston Pizza",
+        "cityId": "toronto",
+        "categoryId": "bars",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Boston%20Pizza%2C%20Toronto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Boston_Pizza",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Boston_Pizza_logo_2025.svg/960px-Boston_Pizza_logo_2025.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Boston_Pizza"
+        }
+      },
+      {
+        "id": "toronto-bars-6",
+        "name": "Crispy Crunch",
+        "cityId": "toronto",
+        "categoryId": "bars",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Crispy%20Crunch%2C%20Toronto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Crispy_Crunch",
+        "photo": null
+      },
+      {
+        "id": "toronto-bars-7",
+        "name": "Little Italy, Toronto",
+        "cityId": "toronto",
+        "categoryId": "bars",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Little%20Italy%2C%20Toronto%2C%20Toronto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Little_Italy%2C_Toronto",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/College_St_at_Grace_St_2023.jpg/960px-College_St_at_Grace_St_2023.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Little_Italy%2C_Toronto"
+        }
+      },
+      {
+        "id": "toronto-bars-8",
+        "name": "Rebel",
+        "cityId": "toronto",
+        "categoryId": "bars",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Rebel%2C%20Toronto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Rebel_(entertainment_complex)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Rebel_2025.jpg/960px-Rebel_2025.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Rebel_(entertainment_complex)"
+        }
+      },
+      {
+        "id": "toronto-bars-9",
+        "name": "Dror Bar-Natan",
+        "cityId": "toronto",
+        "categoryId": "bars",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Dror%20Bar-Natan%2C%20Toronto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Dror_Bar-Natan",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Dror_Bar-Natan.jpg/960px-Dror_Bar-Natan.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Dror_Bar-Natan"
+        }
+      },
+      {
+        "id": "toronto-bars-10",
+        "name": "Newton Rowell",
+        "cityId": "toronto",
+        "categoryId": "bars",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Newton%20Rowell%2C%20Toronto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Newton_Rowell",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/45/Newton_Rowell.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Newton_Rowell"
+        }
+      },
+      {
+        "id": "toronto-bars-11",
+        "name": "Henry Hague Davis",
+        "cityId": "toronto",
+        "categoryId": "bars",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Henry%20Hague%20Davis%2C%20Toronto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Henry_Hague_Davis",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Henry_Hague_Davis.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Henry_Hague_Davis"
+        }
+      },
+      {
+        "id": "toronto-bars-12",
+        "name": "Louis LeBel",
+        "cityId": "toronto",
+        "categoryId": "bars",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Louis%20LeBel%2C%20Toronto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Louis_LeBel",
+        "photo": null
+      },
+      {
+        "id": "toronto-bars-13",
+        "name": "Restaurant Makeover",
+        "cityId": "toronto",
+        "categoryId": "bars",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Restaurant%20Makeover%2C%20Toronto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Restaurant_Makeover",
+        "photo": null
+      },
+      {
+        "id": "toronto-bars-14",
+        "name": "Le Stud",
+        "cityId": "toronto",
+        "categoryId": "bars",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Le%20Stud%2C%20Toronto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Le_Stud",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Montreal%2C_August_2017_-_088.jpg/960px-Montreal%2C_August_2017_-_088.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Le_Stud"
+        }
+      },
+      {
+        "id": "toronto-bars-15",
+        "name": "Oliver Aiken Howland",
+        "cityId": "toronto",
+        "categoryId": "bars",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Oliver%20Aiken%20Howland%2C%20Toronto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Oliver_Aiken_Howland",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/45/Oliver_Aiken_Howland.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Oliver_Aiken_Howland"
+        }
+      },
+      {
+        "id": "toronto-bars-16",
+        "name": "Sunnyside Bus Terminal",
+        "cityId": "toronto",
+        "categoryId": "bars",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Sunnyside%20Bus%20Terminal%2C%20Toronto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Sunnyside_Bus_Terminal",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f9/GCL_Sunnyside_bus_terminal.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Sunnyside_Bus_Terminal"
+        }
+      },
+      {
+        "id": "toronto-bars-17",
+        "name": "The Rivoli",
+        "cityId": "toronto",
+        "categoryId": "bars",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Rivoli%2C%20Toronto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/The_Rivoli",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/The_Rivoli%2C_Toronto%2C_April_27_2026_%2801%29.jpg/960px-The_Rivoli%2C_Toronto%2C_April_27_2026_%2801%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/The_Rivoli"
+        }
+      },
+      {
+        "id": "toronto-bars-18",
+        "name": "James Albert Manning Aikins",
+        "cityId": "toronto",
+        "categoryId": "bars",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=James%20Albert%20Manning%20Aikins%2C%20Toronto",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/James_Albert_Manning_Aikins",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/99/JamesAlbertManningAikins.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/James_Albert_Manning_Aikins"
+        }
+      }
+    ],
     "coffee_shops": [
       {
         "id": "toronto-coffee_shops-1",

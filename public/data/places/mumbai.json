@@ -1,0 +1,2273 @@
+{
+  "cityId": "mumbai",
+  "generatedAt": "2026-11-27T09:27:48.700Z",
+  "source": "Wikipedia API + Maps URLs (sin scraping de Google)",
+  "incomplete": [],
+  "categories": {
+    "night_clubs": [
+      {
+        "id": "mumbai-night_clubs-1",
+        "name": "Gary Lawyer",
+        "cityId": "mumbai",
+        "categoryId": "night_clubs",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Gary%20Lawyer%2C%20Mumbai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Gary_Lawyer",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Gary_Lawyer.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Gary_Lawyer"
+        }
+      },
+      {
+        "id": "mumbai-night_clubs-2",
+        "name": "2002 Bali bombings",
+        "cityId": "mumbai",
+        "categoryId": "night_clubs",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=2002%20Bali%20bombings%2C%20Mumbai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/2002_Bali_bombings",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/Bali_memorial.jpg/960px-Bali_memorial.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/2002_Bali_bombings"
+        }
+      },
+      {
+        "id": "mumbai-night_clubs-3",
+        "name": "Abis Rizvi",
+        "cityId": "mumbai",
+        "categoryId": "night_clubs",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Abis%20Rizvi%2C%20Mumbai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Abis_Rizvi",
+        "photo": null
+      },
+      {
+        "id": "mumbai-night_clubs-4",
+        "name": "Ketan Kadam",
+        "cityId": "mumbai",
+        "categoryId": "night_clubs",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Ketan%20Kadam%2C%20Mumbai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Ketan_Kadam",
+        "photo": null
+      },
+      {
+        "id": "mumbai-night_clubs-5",
+        "name": "Dance bar",
+        "cityId": "mumbai",
+        "categoryId": "night_clubs",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Dance%20bar%2C%20Mumbai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Dance_bar",
+        "photo": null
+      },
+      {
+        "id": "mumbai-night_clubs-6",
+        "name": "Hakkasan",
+        "cityId": "mumbai",
+        "categoryId": "night_clubs",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Hakkasan%2C%20Mumbai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Hakkasan",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Hakkasan_London_-_3.jpg/960px-Hakkasan_London_-_3.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Hakkasan"
+        }
+      },
+      {
+        "id": "mumbai-night_clubs-7",
+        "name": "Jodi No.1",
+        "cityId": "mumbai",
+        "categoryId": "night_clubs",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Jodi%20No.1%2C%20Mumbai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Jodi_No.1_(film)",
+        "photo": null
+      },
+      {
+        "id": "mumbai-night_clubs-8",
+        "name": "Prithvi Shaw",
+        "cityId": "mumbai",
+        "categoryId": "night_clubs",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Prithvi%20Shaw%2C%20Mumbai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Prithvi_Shaw",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Prithvi_shaw.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Prithvi_Shaw"
+        }
+      },
+      {
+        "id": "mumbai-night_clubs-9",
+        "name": "Kavita Radheshyam",
+        "cityId": "mumbai",
+        "categoryId": "night_clubs",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Kavita%20Radheshyam%2C%20Mumbai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Kavita_Radheshyam",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Kavita_Radheshyam_6_Edit.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Kavita_Radheshyam"
+        }
+      },
+      {
+        "id": "mumbai-night_clubs-10",
+        "name": "One 2 Ka 4",
+        "cityId": "mumbai",
+        "categoryId": "night_clubs",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=One%202%20Ka%204%2C%20Mumbai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/One_2_Ka_4",
+        "photo": null
+      },
+      {
+        "id": "mumbai-night_clubs-11",
+        "name": "Bas Ek Pal",
+        "cityId": "mumbai",
+        "categoryId": "night_clubs",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Bas%20Ek%20Pal%2C%20Mumbai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Bas_Ek_Pal",
+        "photo": null
+      },
+      {
+        "id": "mumbai-night_clubs-12",
+        "name": "Gautam Singhania",
+        "cityId": "mumbai",
+        "categoryId": "night_clubs",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Gautam%20Singhania%2C%20Mumbai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Gautam_Singhania",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Gautam_Singhania_delivering_the_keynote_address_at_the_Indian_Navy-ITTA_Clothing_and_Footwear_Seminar_Cum_Exhibition.jpg/960px-Gautam_Singhania_delivering_the_keynote_address_at_the_Indian_Navy-ITTA_Clothing_and_Footwear_Seminar_Cum_Exhibition.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Gautam_Singhania"
+        }
+      },
+      {
+        "id": "mumbai-night_clubs-13",
+        "name": "DJ Aqeel",
+        "cityId": "mumbai",
+        "categoryId": "night_clubs",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=DJ%20Aqeel%2C%20Mumbai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/DJ_Aqeel",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/35/DJ_Aqeel_%281%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/DJ_Aqeel"
+        }
+      },
+      {
+        "id": "mumbai-night_clubs-14",
+        "name": "Steve Banerjee",
+        "cityId": "mumbai",
+        "categoryId": "night_clubs",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Steve%20Banerjee%2C%20Mumbai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Steve_Banerjee",
+        "photo": null
+      },
+      {
+        "id": "mumbai-night_clubs-15",
+        "name": "CityLights",
+        "cityId": "mumbai",
+        "categoryId": "night_clubs",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=CityLights%2C%20Mumbai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/CityLights_(2014_film)",
+        "photo": null
+      },
+      {
+        "id": "mumbai-night_clubs-16",
+        "name": "Usha Uthup",
+        "cityId": "mumbai",
+        "categoryId": "night_clubs",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Usha%20Uthup%2C%20Mumbai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Usha_Uthup",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Usha_Uthupji.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Usha_Uthup"
+        }
+      },
+      {
+        "id": "mumbai-night_clubs-17",
+        "name": "Babli Bouncer",
+        "cityId": "mumbai",
+        "categoryId": "night_clubs",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Babli%20Bouncer%2C%20Mumbai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Babli_Bouncer",
+        "photo": null
+      },
+      {
+        "id": "mumbai-night_clubs-18",
+        "name": "2012 attacks on Israeli diplomats",
+        "cityId": "mumbai",
+        "categoryId": "night_clubs",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=2012%20attacks%20on%20Israeli%20diplomats%2C%20Mumbai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/2012_attacks_on_Israeli_diplomats",
+        "photo": null
+      }
+    ],
+    "restaurants": [
+      {
+        "id": "mumbai-restaurants-1",
+        "name": "Leopold Cafe",
+        "cityId": "mumbai",
+        "categoryId": "restaurants",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Leopold%20Cafe%2C%20Mumbai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Leopold_Cafe",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/LeopoldCafe_gobeirne.jpg/960px-LeopoldCafe_gobeirne.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Leopold_Cafe"
+        }
+      },
+      {
+        "id": "mumbai-restaurants-2",
+        "name": "Cafe Mondegar",
+        "cityId": "mumbai",
+        "categoryId": "restaurants",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Cafe%20Mondegar%2C%20Mumbai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Cafe_Mondegar",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/Cafe_Mondegar_Logo.JPG/960px-Cafe_Mondegar_Logo.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Cafe_Mondegar"
+        }
+      },
+      {
+        "id": "mumbai-restaurants-3",
+        "name": "Suniel Shetty",
+        "cityId": "mumbai",
+        "categoryId": "restaurants",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Suniel%20Shetty%2C%20Mumbai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Suniel_Shetty",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/13/Suniel_Shetty_at_the_Fit_India_Campaign%2C_in_New_Delhi_on_May_26%2C_2018_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Suniel_Shetty"
+        }
+      },
+      {
+        "id": "mumbai-restaurants-4",
+        "name": "Cross Cafe",
+        "cityId": "mumbai",
+        "categoryId": "restaurants",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Cross%20Cafe%2C%20Mumbai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Cross_Cafe",
+        "photo": null
+      },
+      {
+        "id": "mumbai-restaurants-5",
+        "name": "The Hundred-Foot Journey",
+        "cityId": "mumbai",
+        "categoryId": "restaurants",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Hundred-Foot%20Journey%2C%20Mumbai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/The_Hundred-Foot_Journey_(film)",
+        "photo": null
+      },
+      {
+        "id": "mumbai-restaurants-6",
+        "name": "Smokin' Joe's",
+        "cityId": "mumbai",
+        "categoryId": "restaurants",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Smokin'%20Joe's%2C%20Mumbai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Smokin'_Joe's",
+        "photo": null
+      },
+      {
+        "id": "mumbai-restaurants-7",
+        "name": "Yauatcha",
+        "cityId": "mumbai",
+        "categoryId": "restaurants",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Yauatcha%2C%20Mumbai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Yauatcha",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/Yauatchafront.jpg/960px-Yauatchafront.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Yauatcha"
+        }
+      },
+      {
+        "id": "mumbai-restaurants-8",
+        "name": "Rachel Goenka",
+        "cityId": "mumbai",
+        "categoryId": "restaurants",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Rachel%20Goenka%2C%20Mumbai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Rachel_Goenka",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Rachel_Goenka.jpg/960px-Rachel_Goenka.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Rachel_Goenka"
+        }
+      },
+      {
+        "id": "mumbai-restaurants-9",
+        "name": "Westlife Foodworld",
+        "cityId": "mumbai",
+        "categoryId": "restaurants",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Westlife%20Foodworld%2C%20Mumbai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Westlife_Foodworld",
+        "photo": null
+      },
+      {
+        "id": "mumbai-restaurants-10",
+        "name": "2012 Pune bombings",
+        "cityId": "mumbai",
+        "categoryId": "restaurants",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=2012%20Pune%20bombings%2C%20Mumbai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/2012_Pune_bombings",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/16/2012_Pune_bombings_map.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/2012_Pune_bombings"
+        }
+      },
+      {
+        "id": "mumbai-restaurants-11",
+        "name": "Moshe's",
+        "cityId": "mumbai",
+        "categoryId": "restaurants",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Moshe's%2C%20Mumbai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Moshe's",
+        "photo": null
+      },
+      {
+        "id": "mumbai-restaurants-12",
+        "name": "Bhel puri",
+        "cityId": "mumbai",
+        "categoryId": "restaurants",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Bhel%20puri%2C%20Mumbai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Bhel_puri",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Behael_Puri_%286105489342%29.jpg/960px-Behael_Puri_%286105489342%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Bhel_puri"
+        }
+      },
+      {
+        "id": "mumbai-restaurants-13",
+        "name": "Veera Desai Road",
+        "cityId": "mumbai",
+        "categoryId": "restaurants",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Veera%20Desai%20Road%2C%20Mumbai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Veera_Desai_Road",
+        "photo": null
+      },
+      {
+        "id": "mumbai-restaurants-14",
+        "name": "Yazdani Bakery",
+        "cityId": "mumbai",
+        "categoryId": "restaurants",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Yazdani%20Bakery%2C%20Mumbai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Yazdani_Bakery",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Yazdani_Restaurant_and_Bakery%2C_Mumbai.JPG/960px-Yazdani_Restaurant_and_Bakery%2C_Mumbai.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Yazdani_Bakery"
+        }
+      },
+      {
+        "id": "mumbai-restaurants-15",
+        "name": "Colaba Causeway",
+        "cityId": "mumbai",
+        "categoryId": "restaurants",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Colaba%20Causeway%2C%20Mumbai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Colaba_Causeway",
+        "photo": null
+      },
+      {
+        "id": "mumbai-restaurants-16",
+        "name": "Garima Arora",
+        "cityId": "mumbai",
+        "categoryId": "restaurants",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Garima%20Arora%2C%20Mumbai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Garima_Arora",
+        "photo": null
+      },
+      {
+        "id": "mumbai-restaurants-17",
+        "name": "2008 Mumbai attacks",
+        "cityId": "mumbai",
+        "categoryId": "restaurants",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=2008%20Mumbai%20attacks%2C%20Mumbai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/2008_Mumbai_attacks",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/2008_Mumbai_terror_attacks_Taj_dome_burned_2.jpg/960px-2008_Mumbai_terror_attacks_Taj_dome_burned_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/2008_Mumbai_attacks"
+        }
+      },
+      {
+        "id": "mumbai-restaurants-18",
+        "name": "N. N. Krishnadas",
+        "cityId": "mumbai",
+        "categoryId": "restaurants",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=N.%20N.%20Krishnadas%2C%20Mumbai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/N._N._Krishnadas",
+        "photo": null
+      }
+    ],
+    "bars": [
+      {
+        "id": "mumbai-bars-1",
+        "name": "Leopold Cafe",
+        "cityId": "mumbai",
+        "categoryId": "bars",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Leopold%20Cafe%2C%20Mumbai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Leopold_Cafe",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/LeopoldCafe_gobeirne.jpg/960px-LeopoldCafe_gobeirne.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Leopold_Cafe"
+        }
+      },
+      {
+        "id": "mumbai-bars-2",
+        "name": "Dance bar",
+        "cityId": "mumbai",
+        "categoryId": "bars",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Dance%20bar%2C%20Mumbai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Dance_bar",
+        "photo": null
+      },
+      {
+        "id": "mumbai-bars-3",
+        "name": "Chandni Bar",
+        "cityId": "mumbai",
+        "categoryId": "bars",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Chandni%20Bar%2C%20Mumbai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Chandni_Bar",
+        "photo": null
+      },
+      {
+        "id": "mumbai-bars-4",
+        "name": "Nani Palkhivala",
+        "cityId": "mumbai",
+        "categoryId": "bars",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Nani%20Palkhivala%2C%20Mumbai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Nani_Palkhivala",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/94/Nanabhoy_Palkhivala_2004_stamp_of_India.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Nani_Palkhivala"
+        }
+      },
+      {
+        "id": "mumbai-bars-5",
+        "name": "Suchitra Pillai",
+        "cityId": "mumbai",
+        "categoryId": "bars",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Suchitra%20Pillai%2C%20Mumbai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Suchitra_Pillai",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Suchitra_Pillai_graces_the_%E2%80%98Khidkiyaan%E2%80%99_movie_festival_launch_%2813%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Suchitra_Pillai"
+        }
+      },
+      {
+        "id": "mumbai-bars-6",
+        "name": "Fali Sam Nariman",
+        "cityId": "mumbai",
+        "categoryId": "bars",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Fali%20Sam%20Nariman%2C%20Mumbai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Fali_Sam_Nariman",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/The_President%2C_Dr._A.P.J._Abdul_Kalam_presenting_Padma_Vibhushan_to_Shri_Fali_Sam_Nariman%2C_at_an_Investiture_Ceremony_at_Rashtrapati_Bhavan_in_New_Delhi_on_March_23%2C_2007.jpg/960px-thumbnail.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Fali_Sam_Nariman"
+        }
+      },
+      {
+        "id": "mumbai-bars-7",
+        "name": "Shreepati Arcade",
+        "cityId": "mumbai",
+        "categoryId": "bars",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Shreepati%20Arcade%2C%20Mumbai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Shreepati_Arcade",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Bombay12.jpg/960px-Bombay12.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Shreepati_Arcade"
+        }
+      },
+      {
+        "id": "mumbai-bars-8",
+        "name": "Parle Products",
+        "cityId": "mumbai",
+        "categoryId": "bars",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Parle%20Products%2C%20Mumbai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Parle_Products",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/en/thumb/d/d5/Parle_Products_logo.svg/960px-Parle_Products_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Parle_Products"
+        }
+      },
+      {
+        "id": "mumbai-bars-9",
+        "name": "Ram Jethmalani",
+        "cityId": "mumbai",
+        "categoryId": "bars",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Ram%20Jethmalani%2C%20Mumbai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Ram_Jethmalani",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Ram_Jethmalani.jpg/960px-Ram_Jethmalani.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Ram_Jethmalani"
+        }
+      },
+      {
+        "id": "mumbai-bars-10",
+        "name": "Pherozeshah Mehta",
+        "cityId": "mumbai",
+        "categoryId": "bars",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Pherozeshah%20Mehta%2C%20Mumbai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Pherozeshah_Mehta",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/en/5/52/Pherozeshah_Mehta_%28portrait%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Pherozeshah_Mehta"
+        }
+      },
+      {
+        "id": "mumbai-bars-11",
+        "name": "Maharajas' Express",
+        "cityId": "mumbai",
+        "categoryId": "bars",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Maharajas'%20Express%2C%20Mumbai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Maharajas'_Express",
+        "photo": null
+      },
+      {
+        "id": "mumbai-bars-12",
+        "name": "Bombay High Court",
+        "cityId": "mumbai",
+        "categoryId": "bars",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Bombay%20High%20Court%2C%20Mumbai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Bombay_High_Court",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Mumbai_03-2016_41_Bombay_High_Court.jpg/960px-Mumbai_03-2016_41_Bombay_High_Court.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Bombay_High_Court"
+        }
+      },
+      {
+        "id": "mumbai-bars-13",
+        "name": "Rachel Goenka",
+        "cityId": "mumbai",
+        "categoryId": "bars",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Rachel%20Goenka%2C%20Mumbai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Rachel_Goenka",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Rachel_Goenka.jpg/960px-Rachel_Goenka.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Rachel_Goenka"
+        }
+      },
+      {
+        "id": "mumbai-bars-14",
+        "name": "Grand Hyatt Mumbai",
+        "cityId": "mumbai",
+        "categoryId": "bars",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Grand%20Hyatt%20Mumbai%2C%20Mumbai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Grand_Hyatt_Mumbai",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/81/Grand_Hyatt_Mumbai.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Grand_Hyatt_Mumbai"
+        }
+      },
+      {
+        "id": "mumbai-bars-15",
+        "name": "Cross Cafe",
+        "cityId": "mumbai",
+        "categoryId": "bars",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Cross%20Cafe%2C%20Mumbai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Cross_Cafe",
+        "photo": null
+      },
+      {
+        "id": "mumbai-bars-16",
+        "name": "National Law Universities",
+        "cityId": "mumbai",
+        "categoryId": "bars",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=National%20Law%20Universities%2C%20Mumbai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/National_Law_Universities",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/National_Law_School_of_India_University%2C_Bangalore%2C_India_-_20130524-01.JPG/960px-National_Law_School_of_India_University%2C_Bangalore%2C_India_-_20130524-01.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/National_Law_Universities"
+        }
+      },
+      {
+        "id": "mumbai-bars-17",
+        "name": "Madhur Bhandarkar",
+        "cityId": "mumbai",
+        "categoryId": "bars",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Madhur%20Bhandarkar%2C%20Mumbai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Madhur_Bhandarkar",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Madhur_Bhandarkar.jpg/960px-Madhur_Bhandarkar.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Madhur_Bhandarkar"
+        }
+      },
+      {
+        "id": "mumbai-bars-18",
+        "name": "Cafe Mondegar",
+        "cityId": "mumbai",
+        "categoryId": "bars",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Cafe%20Mondegar%2C%20Mumbai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Cafe_Mondegar",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/Cafe_Mondegar_Logo.JPG/960px-Cafe_Mondegar_Logo.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Cafe_Mondegar"
+        }
+      }
+    ],
+    "coffee_shops": [
+      {
+        "id": "mumbai-coffee_shops-1",
+        "name": "Leopold Cafe",
+        "cityId": "mumbai",
+        "categoryId": "coffee_shops",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Leopold%20Cafe%2C%20Mumbai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Leopold_Cafe",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/LeopoldCafe_gobeirne.jpg/960px-LeopoldCafe_gobeirne.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Leopold_Cafe"
+        }
+      },
+      {
+        "id": "mumbai-coffee_shops-2",
+        "name": "Hindustan Times",
+        "cityId": "mumbai",
+        "categoryId": "coffee_shops",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Hindustan%20Times%2C%20Mumbai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Hindustan_Times",
+        "photo": null
+      },
+      {
+        "id": "mumbai-coffee_shops-3",
+        "name": "Cafe Mondegar",
+        "cityId": "mumbai",
+        "categoryId": "coffee_shops",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Cafe%20Mondegar%2C%20Mumbai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Cafe_Mondegar",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/Cafe_Mondegar_Logo.JPG/960px-Cafe_Mondegar_Logo.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Cafe_Mondegar"
+        }
+      },
+      {
+        "id": "mumbai-coffee_shops-4",
+        "name": "Colaba Causeway",
+        "cityId": "mumbai",
+        "categoryId": "coffee_shops",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Colaba%20Causeway%2C%20Mumbai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Colaba_Causeway",
+        "photo": null
+      },
+      {
+        "id": "mumbai-coffee_shops-5",
+        "name": "Irani café",
+        "cityId": "mumbai",
+        "categoryId": "coffee_shops",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Irani%20caf%C3%A9%2C%20Mumbai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Irani_caf%C3%A9",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Yazdani_Bakery_in_Fort.jpg/960px-Yazdani_Bakery_in_Fort.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Irani_caf%C3%A9"
+        }
+      },
+      {
+        "id": "mumbai-coffee_shops-6",
+        "name": "Cross Cafe",
+        "cityId": "mumbai",
+        "categoryId": "coffee_shops",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Cross%20Cafe%2C%20Mumbai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Cross_Cafe",
+        "photo": null
+      },
+      {
+        "id": "mumbai-coffee_shops-7",
+        "name": "Colaba",
+        "cityId": "mumbai",
+        "categoryId": "coffee_shops",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Colaba%2C%20Mumbai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Colaba",
+        "photo": null
+      },
+      {
+        "id": "mumbai-coffee_shops-8",
+        "name": "Zee Café",
+        "cityId": "mumbai",
+        "categoryId": "coffee_shops",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Zee%20Caf%C3%A9%2C%20Mumbai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Zee_Caf%C3%A9",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/Zee_Caf%C3%A9_2025.svg/960px-Zee_Caf%C3%A9_2025.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Zee_Caf%C3%A9"
+        }
+      },
+      {
+        "id": "mumbai-coffee_shops-9",
+        "name": "Madras Cafe",
+        "cityId": "mumbai",
+        "categoryId": "coffee_shops",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Madras%20Cafe%2C%20Mumbai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Madras_Cafe",
+        "photo": null
+      },
+      {
+        "id": "mumbai-coffee_shops-10",
+        "name": "Sourav Mishra",
+        "cityId": "mumbai",
+        "categoryId": "coffee_shops",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Sourav%20Mishra%2C%20Mumbai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Sourav_Mishra",
+        "photo": null
+      },
+      {
+        "id": "mumbai-coffee_shops-11",
+        "name": "Moshe's",
+        "cityId": "mumbai",
+        "categoryId": "coffee_shops",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Moshe's%2C%20Mumbai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Moshe's",
+        "photo": null
+      },
+      {
+        "id": "mumbai-coffee_shops-12",
+        "name": "2008 Mumbai attacks",
+        "cityId": "mumbai",
+        "categoryId": "coffee_shops",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=2008%20Mumbai%20attacks%2C%20Mumbai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/2008_Mumbai_attacks",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/2008_Mumbai_terror_attacks_Taj_dome_burned_2.jpg/960px-2008_Mumbai_terror_attacks_Taj_dome_burned_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/2008_Mumbai_attacks"
+        }
+      },
+      {
+        "id": "mumbai-coffee_shops-13",
+        "name": "Ballard Estate",
+        "cityId": "mumbai",
+        "categoryId": "coffee_shops",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Ballard%20Estate%2C%20Mumbai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Ballard_Estate",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Old_Mumbai_Street.jpg/960px-Old_Mumbai_Street.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Ballard_Estate"
+        }
+      },
+      {
+        "id": "mumbai-coffee_shops-14",
+        "name": "Mumbai Diaries",
+        "cityId": "mumbai",
+        "categoryId": "coffee_shops",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Mumbai%20Diaries%2C%20Mumbai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Mumbai_Diaries_(TV_series)",
+        "photo": null
+      },
+      {
+        "id": "mumbai-coffee_shops-15",
+        "name": "The Attacks of 26/11",
+        "cityId": "mumbai",
+        "categoryId": "coffee_shops",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Attacks%20of%2026%2F11%2C%20Mumbai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/The_Attacks_of_26%2F11",
+        "photo": null
+      },
+      {
+        "id": "mumbai-coffee_shops-16",
+        "name": "Yaz Mubarakai",
+        "cityId": "mumbai",
+        "categoryId": "coffee_shops",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Yaz%20Mubarakai%2C%20Mumbai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Yaz_Mubarakai",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/Yaz_Mubarakai_2019.jpg/960px-Yaz_Mubarakai_2019.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Yaz_Mubarakai"
+        }
+      },
+      {
+        "id": "mumbai-coffee_shops-17",
+        "name": "Yazdani Bakery",
+        "cityId": "mumbai",
+        "categoryId": "coffee_shops",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Yazdani%20Bakery%2C%20Mumbai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Yazdani_Bakery",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Yazdani_Restaurant_and_Bakery%2C_Mumbai.JPG/960px-Yazdani_Restaurant_and_Bakery%2C_Mumbai.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Yazdani_Bakery"
+        }
+      },
+      {
+        "id": "mumbai-coffee_shops-18",
+        "name": "Gharaonda",
+        "cityId": "mumbai",
+        "categoryId": "coffee_shops",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Gharaonda%2C%20Mumbai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Gharaonda",
+        "photo": null
+      }
+    ],
+    "bookshops": [
+      {
+        "id": "mumbai-bookshops-1",
+        "name": "Oxford Bookstore",
+        "cityId": "mumbai",
+        "categoryId": "bookshops",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Oxford%20Bookstore%2C%20Mumbai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Oxford_Bookstore",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Oxford_bookstore.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Oxford_Bookstore"
+        }
+      },
+      {
+        "id": "mumbai-bookshops-2",
+        "name": "Landmark Bookstores",
+        "cityId": "mumbai",
+        "categoryId": "bookshops",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Landmark%20Bookstores%2C%20Mumbai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Landmark_Bookstores",
+        "photo": null
+      },
+      {
+        "id": "mumbai-bookshops-3",
+        "name": "Shobhna S. Kumar",
+        "cityId": "mumbai",
+        "categoryId": "bookshops",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Shobhna%20S.%20Kumar%2C%20Mumbai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Shobhna_S._Kumar",
+        "photo": null
+      },
+      {
+        "id": "mumbai-bookshops-4",
+        "name": "Crossword Bookstores",
+        "cityId": "mumbai",
+        "categoryId": "bookshops",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Crossword%20Bookstores%2C%20Mumbai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Crossword_Bookstores",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/Crossword_Bookstores_Chennai_Tamil_Nadu_India.jpg/960px-Crossword_Bookstores_Chennai_Tamil_Nadu_India.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Crossword_Bookstores"
+        }
+      },
+      {
+        "id": "mumbai-bookshops-5",
+        "name": "Odyssey",
+        "cityId": "mumbai",
+        "categoryId": "bookshops",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Odyssey%2C%20Mumbai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Odyssey_(bookstore)",
+        "photo": null
+      },
+      {
+        "id": "mumbai-bookshops-6",
+        "name": "Hindi Granth Karyalay",
+        "cityId": "mumbai",
+        "categoryId": "bookshops",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Hindi%20Granth%20Karyalay%2C%20Mumbai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Hindi_Granth_Karyalay",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/HGK_logo.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Hindi_Granth_Karyalay"
+        }
+      },
+      {
+        "id": "mumbai-bookshops-7",
+        "name": "Nathuram Premi",
+        "cityId": "mumbai",
+        "categoryId": "bookshops",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Nathuram%20Premi%2C%20Mumbai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Nathuram_Premi",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/81/Nathuram_Premi.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Nathuram_Premi"
+        }
+      },
+      {
+        "id": "mumbai-bookshops-8",
+        "name": "Dara Singh",
+        "cityId": "mumbai",
+        "categoryId": "bookshops",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Dara%20Singh%2C%20Mumbai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Dara_Singh",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Dara_Singh_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Dara_Singh"
+        }
+      },
+      {
+        "id": "mumbai-bookshops-9",
+        "name": "Lal Bahadur Shastri Airport",
+        "cityId": "mumbai",
+        "categoryId": "bookshops",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Lal%20Bahadur%20Shastri%20Airport%2C%20Mumbai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Lal_Bahadur_Shastri_Airport",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Varanasi_Airport.png/960px-Varanasi_Airport.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Lal_Bahadur_Shastri_Airport"
+        }
+      },
+      {
+        "id": "mumbai-bookshops-10",
+        "name": "Meghna Pant",
+        "cityId": "mumbai",
+        "categoryId": "bookshops",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Meghna%20Pant%2C%20Mumbai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Meghna_Pant",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Meghna_Pant_%283%29_%28cropped%29.JPG/960px-Meghna_Pant_%283%29_%28cropped%29.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Meghna_Pant"
+        }
+      },
+      {
+        "id": "mumbai-bookshops-11",
+        "name": "T. S. Shanbhag",
+        "cityId": "mumbai",
+        "categoryId": "bookshops",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=T.%20S.%20Shanbhag%2C%20Mumbai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/T._S._Shanbhag",
+        "photo": null
+      },
+      {
+        "id": "mumbai-bookshops-12",
+        "name": "Saajan",
+        "cityId": "mumbai",
+        "categoryId": "bookshops",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Saajan%2C%20Mumbai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Saajan",
+        "photo": null
+      },
+      {
+        "id": "mumbai-bookshops-13",
+        "name": "K Raheja Corp",
+        "cityId": "mumbai",
+        "categoryId": "bookshops",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=K%20Raheja%20Corp%2C%20Mumbai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/K_Raheja_Corp",
+        "photo": null
+      },
+      {
+        "id": "mumbai-bookshops-14",
+        "name": "Kya Mast Hai Life",
+        "cityId": "mumbai",
+        "categoryId": "bookshops",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Kya%20Mast%20Hai%20Life%2C%20Mumbai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Kya_Mast_Hai_Life",
+        "photo": null
+      },
+      {
+        "id": "mumbai-bookshops-15",
+        "name": "Mahesh Murthy",
+        "cityId": "mumbai",
+        "categoryId": "bookshops",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Mahesh%20Murthy%2C%20Mumbai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Mahesh_Murthy",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/Mahesh_Murthy.jpg/960px-Mahesh_Murthy.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Mahesh_Murthy"
+        }
+      },
+      {
+        "id": "mumbai-bookshops-16",
+        "name": "Kitab Khana",
+        "cityId": "mumbai",
+        "categoryId": "bookshops",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Kitab%20Khana%2C%20Mumbai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Kitab_Khana",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Kitab_Khana_logo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Kitab_Khana"
+        }
+      },
+      {
+        "id": "mumbai-bookshops-17",
+        "name": "Jason Fulford",
+        "cityId": "mumbai",
+        "categoryId": "bookshops",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Jason%20Fulford%2C%20Mumbai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Jason_Fulford",
+        "photo": null
+      },
+      {
+        "id": "mumbai-bookshops-18",
+        "name": "Gita Sahgal",
+        "cityId": "mumbai",
+        "categoryId": "bookshops",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Gita%20Sahgal%2C%20Mumbai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Gita_Sahgal",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Gita_Sahgal_3.png/960px-Gita_Sahgal_3.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Gita_Sahgal"
+        }
+      }
+    ],
+    "museums": [
+      {
+        "id": "mumbai-museums-1",
+        "name": "Chhatrapati Shivaji Maharaj Vastu Sangrahalaya",
+        "cityId": "mumbai",
+        "categoryId": "museums",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Chhatrapati%20Shivaji%20Maharaj%20Vastu%20Sangrahalaya%2C%20Mumbai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Chhatrapati_Shivaji_Maharaj_Vastu_Sangrahalaya",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/Chhatrapati_Shivaji_Maharaj_Vastu_Sangrahalaya.jpg/960px-Chhatrapati_Shivaji_Maharaj_Vastu_Sangrahalaya.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Chhatrapati_Shivaji_Maharaj_Vastu_Sangrahalaya"
+        }
+      },
+      {
+        "id": "mumbai-museums-2",
+        "name": "Dr. Bhau Daji Lad Museum",
+        "cityId": "mumbai",
+        "categoryId": "museums",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Dr.%20Bhau%20Daji%20Lad%20Museum%2C%20Mumbai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Dr._Bhau_Daji_Lad_Museum",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/Dr._Bhau_Daji_Lad_Museum%2C_esterno_01.jpg/960px-Dr._Bhau_Daji_Lad_Museum%2C_esterno_01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Dr._Bhau_Daji_Lad_Museum"
+        }
+      },
+      {
+        "id": "mumbai-museums-3",
+        "name": "Mani Bhavan",
+        "cityId": "mumbai",
+        "categoryId": "museums",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Mani%20Bhavan%2C%20Mumbai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Mani_Bhavan",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Mani_Bhavan_-_Gandhi%27s_house_in_Mumbai.jpg/960px-Mani_Bhavan_-_Gandhi%27s_house_in_Mumbai.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Mani_Bhavan"
+        }
+      },
+      {
+        "id": "mumbai-museums-4",
+        "name": "RBI Monetary Museum",
+        "cityId": "mumbai",
+        "categoryId": "museums",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=RBI%20Monetary%20Museum%2C%20Mumbai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/RBI_Monetary_Museum",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/RBI_Museum.jpg/960px-RBI_Museum.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/RBI_Monetary_Museum"
+        }
+      },
+      {
+        "id": "mumbai-museums-5",
+        "name": "Mumbai–Pune Expressway",
+        "cityId": "mumbai",
+        "categoryId": "museums",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Mumbai%E2%80%93Pune%20Expressway%2C%20Mumbai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Mumbai%E2%80%93Pune_Expressway",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/Express_highway.jpg/960px-Express_highway.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Mumbai%E2%80%93Pune_Expressway"
+        }
+      },
+      {
+        "id": "mumbai-museums-6",
+        "name": "Nehru Planetarium",
+        "cityId": "mumbai",
+        "categoryId": "museums",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Nehru%20Planetarium%2C%20Mumbai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Nehru_Planetarium",
+        "photo": null
+      },
+      {
+        "id": "mumbai-museums-7",
+        "name": "Pune Monorail",
+        "cityId": "mumbai",
+        "categoryId": "museums",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Pune%20Monorail%2C%20Mumbai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Pune_Monorail",
+        "photo": null
+      },
+      {
+        "id": "mumbai-museums-8",
+        "name": "Films Division of India",
+        "cityId": "mumbai",
+        "categoryId": "museums",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Films%20Division%20of%20India%2C%20Mumbai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Films_Division_of_India",
+        "photo": null
+      },
+      {
+        "id": "mumbai-museums-9",
+        "name": "Pune Suburban Railway",
+        "cityId": "mumbai",
+        "categoryId": "museums",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Pune%20Suburban%20Railway%2C%20Mumbai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Pune_Suburban_Railway",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Siemens_EMU_on_Pune-Lonavala_route.jpg/960px-Siemens_EMU_on_Pune-Lonavala_route.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Pune_Suburban_Railway"
+        }
+      },
+      {
+        "id": "mumbai-museums-10",
+        "name": "Jehangir Art Gallery",
+        "cityId": "mumbai",
+        "categoryId": "museums",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Jehangir%20Art%20Gallery%2C%20Mumbai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Jehangir_Art_Gallery",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/JAG_From_Outside.jpg/960px-JAG_From_Outside.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Jehangir_Art_Gallery"
+        }
+      },
+      {
+        "id": "mumbai-museums-11",
+        "name": "Brihanmumbai Electric Supply and Transport",
+        "cityId": "mumbai",
+        "categoryId": "museums",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Brihanmumbai%20Electric%20Supply%20and%20Transport%2C%20Mumbai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Brihanmumbai_Electric_Supply_and_Transport",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Electric-House.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Brihanmumbai_Electric_Supply_and_Transport"
+        }
+      },
+      {
+        "id": "mumbai-museums-12",
+        "name": "Ballard Bunder Gatehouse",
+        "cityId": "mumbai",
+        "categoryId": "museums",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Ballard%20Bunder%20Gatehouse%2C%20Mumbai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Ballard_Bunder_Gatehouse",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/Ballard_Bunder%2C_1920.jpg/960px-Ballard_Bunder%2C_1920.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Ballard_Bunder_Gatehouse"
+        }
+      },
+      {
+        "id": "mumbai-museums-13",
+        "name": "Mahrukh Tarapor",
+        "cityId": "mumbai",
+        "categoryId": "museums",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Mahrukh%20Tarapor%2C%20Mumbai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Mahrukh_Tarapor",
+        "photo": null
+      },
+      {
+        "id": "mumbai-museums-14",
+        "name": "Shivaji Nagar railway station",
+        "cityId": "mumbai",
+        "categoryId": "museums",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Shivaji%20Nagar%20railway%20station%2C%20Mumbai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Shivaji_Nagar_railway_station",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Shivaji_Nagar_entrance.jpg/960px-Shivaji_Nagar_entrance.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Shivaji_Nagar_railway_station"
+        }
+      },
+      {
+        "id": "mumbai-museums-15",
+        "name": "Jijamata Udyaan",
+        "cityId": "mumbai",
+        "categoryId": "museums",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Jijamata%20Udyaan%2C%20Mumbai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Jijamata_Udyaan",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Raje_Shivaji_with_mother_Jijamata.jpg/960px-Raje_Shivaji_with_mother_Jijamata.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Jijamata_Udyaan"
+        }
+      },
+      {
+        "id": "mumbai-museums-16",
+        "name": "Khadki railway station",
+        "cityId": "mumbai",
+        "categoryId": "museums",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Khadki%20railway%20station%2C%20Mumbai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Khadki_railway_station",
+        "photo": null
+      },
+      {
+        "id": "mumbai-museums-17",
+        "name": "Tina Ambani",
+        "cityId": "mumbai",
+        "categoryId": "museums",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Tina%20Ambani%2C%20Mumbai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Tina_Ambani",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Tina_ambani.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Tina_Ambani"
+        }
+      },
+      {
+        "id": "mumbai-museums-18",
+        "name": "Chiplun",
+        "cityId": "mumbai",
+        "categoryId": "museums",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Chiplun%2C%20Mumbai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Chiplun",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Chiplun_scenery_from_Parshuram_Ghat_03.JPG/960px-Chiplun_scenery_from_Parshuram_Ghat_03.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Chiplun"
+        }
+      }
+    ],
+    "concerts": [
+      {
+        "id": "mumbai-concerts-1",
+        "name": "Aarhus Pride",
+        "cityId": "mumbai",
+        "categoryId": "concerts",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Aarhus%20Pride%2C%20Mumbai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Aarhus_Pride",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Aarhus_Pride%2C_2012%2C_start_of_day.jpg/960px-Aarhus_Pride%2C_2012%2C_start_of_day.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Aarhus_Pride"
+        }
+      },
+      {
+        "id": "mumbai-concerts-2",
+        "name": "Anish Kapoor",
+        "cityId": "mumbai",
+        "categoryId": "concerts",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Anish%20Kapoor%2C%20Mumbai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Anish_Kapoor",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Anish_Kapoor_2017.jpg/960px-Anish_Kapoor_2017.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Anish_Kapoor"
+        }
+      },
+      {
+        "id": "mumbai-concerts-3",
+        "name": "Grimanesa Amorós",
+        "cityId": "mumbai",
+        "categoryId": "concerts",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Grimanesa%20Amor%C3%B3s%2C%20Mumbai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Grimanesa_Amor%C3%B3s",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Grimanesa_Amoros_Uros_Island.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Grimanesa_Amor%C3%B3s"
+        }
+      },
+      {
+        "id": "mumbai-concerts-4",
+        "name": "ABU TV Song Festival 2012",
+        "cityId": "mumbai",
+        "categoryId": "concerts",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=ABU%20TV%20Song%20Festival%202012%2C%20Mumbai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/ABU_TV_Song_Festival_2012",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/ABU_TV_Song_Festival_2012_map.svg/960px-ABU_TV_Song_Festival_2012_map.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/ABU_TV_Song_Festival_2012"
+        }
+      },
+      {
+        "id": "mumbai-concerts-5",
+        "name": "Dr. Antonio Da Silva High School and Junior College of Commerce",
+        "cityId": "mumbai",
+        "categoryId": "concerts",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Dr.%20Antonio%20Da%20Silva%20High%20School%20and%20Junior%20College%20of%20Commerce%2C%20Mumbai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Dr._Antonio_Da_Silva_High_School_and_Junior_College_of_Commerce",
+        "photo": null
+      },
+      {
+        "id": "mumbai-concerts-6",
+        "name": "Zubin Mehta",
+        "cityId": "mumbai",
+        "categoryId": "concerts",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Zubin%20Mehta%2C%20Mumbai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Zubin_Mehta",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Zubin_Mehta%2C_1985_-_collezione_Tino_Barindelli.tif/lossy-page1-960px-Zubin_Mehta%2C_1985_-_collezione_Tino_Barindelli.tif.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Zubin_Mehta"
+        }
+      },
+      {
+        "id": "mumbai-concerts-7",
+        "name": "Zarin Mehta",
+        "cityId": "mumbai",
+        "categoryId": "concerts",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Zarin%20Mehta%2C%20Mumbai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Zarin_Mehta",
+        "photo": null
+      },
+      {
+        "id": "mumbai-concerts-8",
+        "name": "November 2015 Paris attacks",
+        "cityId": "mumbai",
+        "categoryId": "concerts",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=November%202015%20Paris%20attacks%2C%20Mumbai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/November_2015_Paris_attacks",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/13_November_2015_Paris_attacks_-_montage.jpg/960px-13_November_2015_Paris_attacks_-_montage.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/November_2015_Paris_attacks"
+        }
+      },
+      {
+        "id": "mumbai-concerts-9",
+        "name": "Csaba Káel",
+        "cityId": "mumbai",
+        "categoryId": "concerts",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Csaba%20K%C3%A1el%2C%20Mumbai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Csaba_K%C3%A1el",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Csaba_K%C3%A1el.jpg/960px-Csaba_K%C3%A1el.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Csaba_K%C3%A1el"
+        }
+      },
+      {
+        "id": "mumbai-concerts-10",
+        "name": "Kedar Naphade",
+        "cityId": "mumbai",
+        "categoryId": "concerts",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Kedar%20Naphade%2C%20Mumbai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Kedar_Naphade",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/84/Sep2026.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Kedar_Naphade"
+        }
+      },
+      {
+        "id": "mumbai-concerts-11",
+        "name": "Contemporary architecture",
+        "cityId": "mumbai",
+        "categoryId": "concerts",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Contemporary%20architecture%2C%20Mumbai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Contemporary_architecture",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Hard_Rock_Hotel_Singapore.jpg/960px-Hard_Rock_Hotel_Singapore.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Contemporary_architecture"
+        }
+      },
+      {
+        "id": "mumbai-concerts-12",
+        "name": "Kim Herforth Nielsen",
+        "cityId": "mumbai",
+        "categoryId": "concerts",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Kim%20Herforth%20Nielsen%2C%20Mumbai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Kim_Herforth_Nielsen",
+        "photo": null
+      },
+      {
+        "id": "mumbai-concerts-13",
+        "name": "Classic Incantations: The German Film Orchestra Babelsberg performs A.R. Rahman",
+        "cityId": "mumbai",
+        "categoryId": "concerts",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Classic%20Incantations%3A%20The%20German%20Film%20Orchestra%20Babelsberg%20performs%20A.R.%20Rahman%2C%20Mumbai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Classic_Incantations%3A_The_German_Film_Orchestra_Babelsberg_performs_A.R._Rahman",
+        "photo": null
+      },
+      {
+        "id": "mumbai-concerts-14",
+        "name": "Svetlana Smolina",
+        "cityId": "mumbai",
+        "categoryId": "concerts",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Svetlana%20Smolina%2C%20Mumbai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Svetlana_Smolina",
+        "photo": null
+      },
+      {
+        "id": "mumbai-concerts-15",
+        "name": "Interactive Introverts",
+        "cityId": "mumbai",
+        "categoryId": "concerts",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Interactive%20Introverts%2C%20Mumbai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Interactive_Introverts",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/Interactive_introverts_nashville.png/960px-Interactive_introverts_nashville.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Interactive_Introverts"
+        }
+      },
+      {
+        "id": "mumbai-concerts-16",
+        "name": "A Fine Balance",
+        "cityId": "mumbai",
+        "categoryId": "concerts",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=A%20Fine%20Balance%2C%20Mumbai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/A_Fine_Balance",
+        "photo": null
+      },
+      {
+        "id": "mumbai-concerts-17",
+        "name": "Ankara Metro",
+        "cityId": "mumbai",
+        "categoryId": "concerts",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Ankara%20Metro%2C%20Mumbai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Ankara_Metro",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Ankara_Metro_logo.svg/960px-Ankara_Metro_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Ankara_Metro"
+        }
+      },
+      {
+        "id": "mumbai-concerts-18",
+        "name": "Glass Duo",
+        "cityId": "mumbai",
+        "categoryId": "concerts",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Glass%20Duo%2C%20Mumbai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Glass_Duo",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Koncert_na_szklanej_harfie._GLASS_DUO_w_Filharmonii_Warmi%C5%84sko-Mazurskiej_w_Olsztynie.jpg/960px-Koncert_na_szklanej_harfie._GLASS_DUO_w_Filharmonii_Warmi%C5%84sko-Mazurskiej_w_Olsztynie.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Glass_Duo"
+        }
+      }
+    ],
+    "fashion": [
+      {
+        "id": "mumbai-fashion-1",
+        "name": "Globus",
+        "cityId": "mumbai",
+        "categoryId": "fashion",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Globus%2C%20Mumbai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Globus_(clothing_retailer)",
+        "photo": null
+      },
+      {
+        "id": "mumbai-fashion-2",
+        "name": "T. S. Shanbhag",
+        "cityId": "mumbai",
+        "categoryId": "fashion",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=T.%20S.%20Shanbhag%2C%20Mumbai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/T._S._Shanbhag",
+        "photo": null
+      },
+      {
+        "id": "mumbai-fashion-3",
+        "name": "Cottonworld",
+        "cityId": "mumbai",
+        "categoryId": "fashion",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Cottonworld%2C%20Mumbai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Cottonworld",
+        "photo": null
+      },
+      {
+        "id": "mumbai-fashion-4",
+        "name": "Miss India Worldwide",
+        "cityId": "mumbai",
+        "categoryId": "fashion",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Miss%20India%20Worldwide%2C%20Mumbai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Miss_India_Worldwide",
+        "photo": null
+      },
+      {
+        "id": "mumbai-fashion-5",
+        "name": "Nazi chic",
+        "cityId": "mumbai",
+        "categoryId": "fashion",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Nazi%20chic%2C%20Mumbai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Nazi_chic",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/52/Nazi_cosplay_uniforms_for_sale_on_display_in_Akihabara%2C_Tokyo%2C_Japan_2006._Panzer%2C_SS_parade_uniform%2C_miniature_cale_models_toy_soldiers_black_uniforms_etc.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Nazi_chic"
+        }
+      },
+      {
+        "id": "mumbai-fashion-6",
+        "name": "Top Model India season 1",
+        "cityId": "mumbai",
+        "categoryId": "fashion",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Top%20Model%20India%20season%201%2C%20Mumbai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Top_Model_India_season_1",
+        "photo": null
+      },
+      {
+        "id": "mumbai-fashion-7",
+        "name": "Ray Brown",
+        "cityId": "mumbai",
+        "categoryId": "fashion",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Ray%20Brown%2C%20Mumbai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Ray_Brown_(designer)",
+        "photo": null
+      },
+      {
+        "id": "mumbai-fashion-8",
+        "name": "Double-decker bus",
+        "cityId": "mumbai",
+        "categoryId": "fashion",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Double-decker%20bus%2C%20Mumbai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Double-decker_bus",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/Abellio_LT157_%28LTZ1157%29_Holborn_Viaduct_20.01.2024.jpg/960px-Abellio_LT157_%28LTZ1157%29_Holborn_Viaduct_20.01.2024.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Double-decker_bus"
+        }
+      },
+      {
+        "id": "mumbai-fashion-9",
+        "name": "Sari",
+        "cityId": "mumbai",
+        "categoryId": "fashion",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Sari%2C%20Mumbai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Sari",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Sari_on_mannequin_for_demo.jpg/960px-Sari_on_mannequin_for_demo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Sari"
+        }
+      },
+      {
+        "id": "mumbai-fashion-10",
+        "name": "A. C. Bhaktivedanta Swami Prabhupada",
+        "cityId": "mumbai",
+        "categoryId": "fashion",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=A.%20C.%20Bhaktivedanta%20Swami%20Prabhupada%2C%20Mumbai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/A._C._Bhaktivedanta_Swami_Prabhupada",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Prabhupada_singing_%28Germany_1974%29.jpg/960px-Prabhupada_singing_%28Germany_1974%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/A._C._Bhaktivedanta_Swami_Prabhupada"
+        }
+      },
+      {
+        "id": "mumbai-fashion-11",
+        "name": "Iraivi",
+        "cityId": "mumbai",
+        "categoryId": "fashion",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Iraivi%2C%20Mumbai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Iraivi",
+        "photo": null
+      },
+      {
+        "id": "mumbai-fashion-12",
+        "name": "Patanjali Ayurved",
+        "cityId": "mumbai",
+        "categoryId": "fashion",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Patanjali%20Ayurved%2C%20Mumbai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Patanjali_Ayurved",
+        "photo": null
+      },
+      {
+        "id": "mumbai-fashion-13",
+        "name": "Economy of Punjab, India",
+        "cityId": "mumbai",
+        "categoryId": "fashion",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Economy%20of%20Punjab%2C%20India%2C%20Mumbai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Economy_of_Punjab%2C_India",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/The_JLPL_Industrial_Area_in_Mohali.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Economy_of_Punjab%2C_India"
+        }
+      },
+      {
+        "id": "mumbai-fashion-14",
+        "name": "Carmen Sandiego",
+        "cityId": "mumbai",
+        "categoryId": "fashion",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Carmen%20Sandiego%2C%20Mumbai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Carmen_Sandiego_(TV_series)",
+        "photo": null
+      },
+      {
+        "id": "mumbai-fashion-15",
+        "name": "The Strat",
+        "cityId": "mumbai",
+        "categoryId": "fashion",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Strat%2C%20Mumbai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/The_Strat",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Aerial_view_Casino_Stratosphere_LAS_09_2017_4912.jpg/960px-Aerial_view_Casino_Stratosphere_LAS_09_2017_4912.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/The_Strat"
+        }
+      },
+      {
+        "id": "mumbai-fashion-16",
+        "name": "Women in aviation",
+        "cityId": "mumbai",
+        "categoryId": "fashion",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Women%20in%20aviation%2C%20Mumbai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Women_in_aviation",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Air_Force%27s_first_African_American_female_fighter_pilot_080317-F-XX000-064.jpg/960px-Air_Force%27s_first_African_American_female_fighter_pilot_080317-F-XX000-064.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Women_in_aviation"
+        }
+      },
+      {
+        "id": "mumbai-fashion-17",
+        "name": "Joe Tucker",
+        "cityId": "mumbai",
+        "categoryId": "fashion",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Joe%20Tucker%2C%20Mumbai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Joe_Tucker_(sportscaster)",
+        "photo": null
+      },
+      {
+        "id": "mumbai-fashion-18",
+        "name": "Bigg Boss (Malayalam TV series) season 5",
+        "cityId": "mumbai",
+        "categoryId": "fashion",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Bigg%20Boss%20(Malayalam%20TV%20series)%20season%205%2C%20Mumbai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Bigg_Boss_(Malayalam_TV_series)_season_5",
+        "photo": null
+      }
+    ],
+    "shops": [
+      {
+        "id": "mumbai-shops-1",
+        "name": "Lamington Road",
+        "cityId": "mumbai",
+        "categoryId": "shops",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Lamington%20Road%2C%20Mumbai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Lamington_Road",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/Lamington_Road_street_view.jpg/960px-Lamington_Road_street_view.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Lamington_Road"
+        }
+      },
+      {
+        "id": "mumbai-shops-2",
+        "name": "Dadabhai Naoroji Road",
+        "cityId": "mumbai",
+        "categoryId": "shops",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Dadabhai%20Naoroji%20Road%2C%20Mumbai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Dadabhai_Naoroji_Road",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/Crawford_Market_2008.jpg/960px-Crawford_Market_2008.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Dadabhai_Naoroji_Road"
+        }
+      },
+      {
+        "id": "mumbai-shops-3",
+        "name": "Once Upon a Time in Mumbaai",
+        "cityId": "mumbai",
+        "categoryId": "shops",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Once%20Upon%20a%20Time%20in%20Mumbaai%2C%20Mumbai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Once_Upon_a_Time_in_Mumbaai",
+        "photo": null
+      },
+      {
+        "id": "mumbai-shops-4",
+        "name": "Raghuleela Mall, Kandivali",
+        "cityId": "mumbai",
+        "categoryId": "shops",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Raghuleela%20Mall%2C%20Kandivali%2C%20Mumbai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Raghuleela_Mall%2C_Kandivali",
+        "photo": null
+      },
+      {
+        "id": "mumbai-shops-5",
+        "name": "Western line",
+        "cityId": "mumbai",
+        "categoryId": "shops",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Western%20line%2C%20Mumbai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Western_line_(Mumbai_Suburban_Railway)",
+        "photo": null
+      },
+      {
+        "id": "mumbai-shops-6",
+        "name": "Linking Road, Mumbai",
+        "cityId": "mumbai",
+        "categoryId": "shops",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Linking%20Road%2C%20Mumbai%2C%20Mumbai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Linking_Road%2C_Mumbai",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Mumbai_belt_shop.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Linking_Road%2C_Mumbai"
+        }
+      },
+      {
+        "id": "mumbai-shops-7",
+        "name": "Chor Bazaar, Mumbai",
+        "cityId": "mumbai",
+        "categoryId": "shops",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Chor%20Bazaar%2C%20Mumbai%2C%20Mumbai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Chor_Bazaar%2C_Mumbai",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Bazaarchitecture5_%284060282163%29.jpg/960px-Bazaarchitecture5_%284060282163%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Chor_Bazaar%2C_Mumbai"
+        }
+      },
+      {
+        "id": "mumbai-shops-8",
+        "name": "Girangaon",
+        "cityId": "mumbai",
+        "categoryId": "shops",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Girangaon%2C%20Mumbai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Girangaon",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/India_United_Mill_1.jpg/960px-India_United_Mill_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Girangaon"
+        }
+      },
+      {
+        "id": "mumbai-shops-9",
+        "name": "Muchhad paanwala",
+        "cityId": "mumbai",
+        "categoryId": "shops",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Muchhad%20paanwala%2C%20Mumbai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Muchhad_paanwala",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/Muchhad_Paanwala_.jpg/960px-Muchhad_Paanwala_.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Muchhad_paanwala"
+        }
+      },
+      {
+        "id": "mumbai-shops-10",
+        "name": "Royal Bombay Yacht Club",
+        "cityId": "mumbai",
+        "categoryId": "shops",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Royal%20Bombay%20Yacht%20Club%2C%20Mumbai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Royal_Bombay_Yacht_Club",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Badge_of_the_Royal_Bombay_Yacht_Club.svg/960px-Badge_of_the_Royal_Bombay_Yacht_Club.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Royal_Bombay_Yacht_Club"
+        }
+      },
+      {
+        "id": "mumbai-shops-11",
+        "name": "Churchgate",
+        "cityId": "mumbai",
+        "categoryId": "shops",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Churchgate%2C%20Mumbai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Churchgate",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Churchgate_Bombay_1863.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Churchgate"
+        }
+      },
+      {
+        "id": "mumbai-shops-12",
+        "name": "Raymond Group",
+        "cityId": "mumbai",
+        "categoryId": "shops",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Raymond%20Group%2C%20Mumbai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Raymond_Group",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Raymond_Store_in_Esplanade%2C_Kolkata.jpg/960px-Raymond_Store_in_Esplanade%2C_Kolkata.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Raymond_Group"
+        }
+      },
+      {
+        "id": "mumbai-shops-13",
+        "name": "Kekoo Gandhy",
+        "cityId": "mumbai",
+        "categoryId": "shops",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Kekoo%20Gandhy%2C%20Mumbai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Kekoo_Gandhy",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Kekoo_Gandhy.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Kekoo_Gandhy"
+        }
+      },
+      {
+        "id": "mumbai-shops-14",
+        "name": "Bombay Gymkhana",
+        "cityId": "mumbai",
+        "categoryId": "shops",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Bombay%20Gymkhana%2C%20Mumbai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Bombay_Gymkhana",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Bombay-Gymnkhana.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Bombay_Gymkhana"
+        }
+      },
+      {
+        "id": "mumbai-shops-15",
+        "name": "Shiwajirao Nalawade",
+        "cityId": "mumbai",
+        "categoryId": "shops",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Shiwajirao%20Nalawade%2C%20Mumbai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Shiwajirao_Nalawade",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Nalawade_Saheb_Photo.jpg/960px-Nalawade_Saheb_Photo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Shiwajirao_Nalawade"
+        }
+      },
+      {
+        "id": "mumbai-shops-16",
+        "name": "Vile Parle",
+        "cityId": "mumbai",
+        "categoryId": "shops",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Vile%20Parle%2C%20Mumbai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Vile_Parle",
+        "photo": null
+      },
+      {
+        "id": "mumbai-shops-17",
+        "name": "Chandralekha",
+        "cityId": "mumbai",
+        "categoryId": "shops",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Chandralekha%2C%20Mumbai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Chandralekha_(1997_film)",
+        "photo": null
+      },
+      {
+        "id": "mumbai-shops-18",
+        "name": "Mumbai FC",
+        "cityId": "mumbai",
+        "categoryId": "shops",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Mumbai%20FC%2C%20Mumbai",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Mumbai_FC",
+        "photo": null
+      }
+    ]
+  }
+}

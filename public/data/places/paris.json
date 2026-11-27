@@ -1,12 +1,8 @@
 {
   "cityId": "paris",
-  "generatedAt": "2026-11-27T08:37:02.424Z",
+  "generatedAt": "2026-11-27T09:28:12.612Z",
   "source": "Wikipedia API + Maps URLs (sin scraping de Google)",
-  "incomplete": [
-    "concerts",
-    "fashion",
-    "shops"
-  ],
+  "incomplete": [],
   "categories": {
     "night_clubs": [
       {
@@ -1638,8 +1634,800 @@
         }
       }
     ],
-    "concerts": [],
-    "fashion": [],
-    "shops": []
+    "concerts": [
+      {
+        "id": "paris-concerts-1",
+        "name": "Philharmonie de Paris",
+        "cityId": "paris",
+        "categoryId": "concerts",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Philharmonie%20de%20Paris%2C%20Paris",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Philharmonie_de_Paris",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/en/thumb/e/ee/Philharmonie_de_Paris.jpg/960px-Philharmonie_de_Paris.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Philharmonie_de_Paris"
+        }
+      },
+      {
+        "id": "paris-concerts-2",
+        "name": "Bataclan",
+        "cityId": "paris",
+        "categoryId": "concerts",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Bataclan%2C%20Paris",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Bataclan_(theatre)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Salle_Spectacle_Bataclan_-_Paris_XI_%28FR75%29_-_2022-01-28_-_3.jpg/960px-Salle_Spectacle_Bataclan_-_Paris_XI_%28FR75%29_-_2022-01-28_-_3.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Bataclan_(theatre)"
+        }
+      },
+      {
+        "id": "paris-concerts-3",
+        "name": "Salle Pleyel",
+        "cityId": "paris",
+        "categoryId": "concerts",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Salle%20Pleyel%2C%20Paris",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Salle_Pleyel",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Salle-Pleyel-P1000321.jpg/960px-Salle-Pleyel-P1000321.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Salle_Pleyel"
+        }
+      },
+      {
+        "id": "paris-concerts-4",
+        "name": "New Morning",
+        "cityId": "paris",
+        "categoryId": "concerts",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=New%20Morning%2C%20Paris",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/New_Morning_(club)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Rue_des_Petites-%C3%89curies_%28Paris%29%2C_New_Morning.jpg/960px-Rue_des_Petites-%C3%89curies_%28Paris%29%2C_New_Morning.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/New_Morning_(club)"
+        }
+      },
+      {
+        "id": "paris-concerts-5",
+        "name": "Nagata Acoustics",
+        "cityId": "paris",
+        "categoryId": "concerts",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Nagata%20Acoustics%2C%20Paris",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Nagata_Acoustics",
+        "photo": null
+      },
+      {
+        "id": "paris-concerts-6",
+        "name": "Brighton Dome",
+        "cityId": "paris",
+        "categoryId": "concerts",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Brighton%20Dome%2C%20Paris",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Brighton_Dome",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Brighton_Dome.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Brighton_Dome"
+        }
+      },
+      {
+        "id": "paris-concerts-7",
+        "name": "Salle Gaveau",
+        "cityId": "paris",
+        "categoryId": "concerts",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Salle%20Gaveau%2C%20Paris",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Salle_Gaveau",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Salle_Gaveau%2C_47_rue_La_Bo%C3%A9tie%2C_Paris_8e.jpg/960px-Salle_Gaveau%2C_47_rue_La_Bo%C3%A9tie%2C_Paris_8e.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Salle_Gaveau"
+        }
+      },
+      {
+        "id": "paris-concerts-8",
+        "name": "Salle",
+        "cityId": "paris",
+        "categoryId": "concerts",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Salle%2C%20Paris",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Salle",
+        "photo": null
+      },
+      {
+        "id": "paris-concerts-9",
+        "name": "Conservatoire de Paris",
+        "cityId": "paris",
+        "categoryId": "concerts",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Conservatoire%20de%20Paris%2C%20Paris",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Conservatoire_de_Paris",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/LogoCNSMDP.svg/960px-LogoCNSMDP.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Conservatoire_de_Paris"
+        }
+      },
+      {
+        "id": "paris-concerts-10",
+        "name": "Halle Tony Garnier",
+        "cityId": "paris",
+        "categoryId": "concerts",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Halle%20Tony%20Garnier%2C%20Paris",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Halle_Tony_Garnier",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/Lyon_7e_-_Avenue_Tony_Garnier%2C_arri%C3%A8re_de_la_halle.jpg/960px-Lyon_7e_-_Avenue_Tony_Garnier%2C_arri%C3%A8re_de_la_halle.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Halle_Tony_Garnier"
+        }
+      },
+      {
+        "id": "paris-concerts-11",
+        "name": "Vineyard style",
+        "cityId": "paris",
+        "categoryId": "concerts",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Vineyard%20style%2C%20Paris",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Vineyard_style",
+        "photo": null
+      },
+      {
+        "id": "paris-concerts-12",
+        "name": "Stefanos Korkolis",
+        "cityId": "paris",
+        "categoryId": "concerts",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Stefanos%20Korkolis%2C%20Paris",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Stefanos_Korkolis",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Stefanos_Korkolis.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Stefanos_Korkolis"
+        }
+      },
+      {
+        "id": "paris-concerts-13",
+        "name": "Cité de la Musique",
+        "cityId": "paris",
+        "categoryId": "concerts",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Cit%C3%A9%20de%20la%20Musique%2C%20Paris",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Cit%C3%A9_de_la_Musique",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/31/1984-1995_The_City_of_Music%2C_Paris_03.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Cit%C3%A9_de_la_Musique"
+        }
+      },
+      {
+        "id": "paris-concerts-14",
+        "name": "We're All Together Again for the First Time",
+        "cityId": "paris",
+        "categoryId": "concerts",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=We're%20All%20Together%20Again%20for%20the%20First%20Time%2C%20Paris",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/We're_All_Together_Again_for_the_First_Time",
+        "photo": null
+      },
+      {
+        "id": "paris-concerts-15",
+        "name": "Opéra Bastille",
+        "cityId": "paris",
+        "categoryId": "concerts",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Op%C3%A9ra%20Bastille%2C%20Paris",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Op%C3%A9ra_Bastille",
+        "photo": null
+      },
+      {
+        "id": "paris-concerts-16",
+        "name": "November 2015 Paris attacks",
+        "cityId": "paris",
+        "categoryId": "concerts",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=November%202015%20Paris%20attacks%2C%20Paris",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/November_2015_Paris_attacks",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/13_November_2015_Paris_attacks_-_montage.jpg/960px-13_November_2015_Paris_attacks_-_montage.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/November_2015_Paris_attacks"
+        }
+      },
+      {
+        "id": "paris-concerts-17",
+        "name": "Le Trianon",
+        "cityId": "paris",
+        "categoryId": "concerts",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Le%20Trianon%2C%20Paris",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Le_Trianon_(theatre)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/Salle_du_trianon_2.JPG/960px-Salle_du_trianon_2.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Le_Trianon_(theatre)"
+        }
+      },
+      {
+        "id": "paris-concerts-18",
+        "name": "European Concert Hall Organisation",
+        "cityId": "paris",
+        "categoryId": "concerts",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=European%20Concert%20Hall%20Organisation%2C%20Paris",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/European_Concert_Hall_Organisation",
+        "photo": null
+      }
+    ],
+    "fashion": [
+      {
+        "id": "paris-fashion-1",
+        "name": "National Stores",
+        "cityId": "paris",
+        "categoryId": "fashion",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=National%20Stores%2C%20Paris",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/National_Stores",
+        "photo": null
+      },
+      {
+        "id": "paris-fashion-2",
+        "name": "Hackett London",
+        "cityId": "paris",
+        "categoryId": "fashion",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Hackett%20London%2C%20Paris",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Hackett_London",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/en/d/d6/Hackett_%28clothing%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Hackett_London"
+        }
+      },
+      {
+        "id": "paris-fashion-3",
+        "name": "Victor Clothing",
+        "cityId": "paris",
+        "categoryId": "fashion",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Victor%20Clothing%2C%20Paris",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Victor_Clothing",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/Los_Angeles_Victor_Clothing_Company_Building.jpg/960px-Los_Angeles_Victor_Clothing_Company_Building.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Victor_Clothing"
+        }
+      },
+      {
+        "id": "paris-fashion-4",
+        "name": "Limbo",
+        "cityId": "paris",
+        "categoryId": "fashion",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Limbo%2C%20Paris",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Limbo_(boutique)",
+        "photo": null
+      },
+      {
+        "id": "paris-fashion-5",
+        "name": "The Easy Way Out",
+        "cityId": "paris",
+        "categoryId": "fashion",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Easy%20Way%20Out%2C%20Paris",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/The_Easy_Way_Out",
+        "photo": null
+      },
+      {
+        "id": "paris-fashion-6",
+        "name": "Retail design",
+        "cityId": "paris",
+        "categoryId": "fashion",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Retail%20design%2C%20Paris",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Retail_design",
+        "photo": null
+      },
+      {
+        "id": "paris-fashion-7",
+        "name": "Emanuela de Paula",
+        "cityId": "paris",
+        "categoryId": "fashion",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Emanuela%20de%20Paula%2C%20Paris",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Emanuela_de_Paula",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Emanuelee.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Emanuela_de_Paula"
+        }
+      },
+      {
+        "id": "paris-fashion-8",
+        "name": "Swelldom",
+        "cityId": "paris",
+        "categoryId": "fashion",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Swelldom%2C%20Paris",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Swelldom",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Swelldom_1924.png/960px-Swelldom_1924.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Swelldom"
+        }
+      },
+      {
+        "id": "paris-fashion-9",
+        "name": "Peter Golding",
+        "cityId": "paris",
+        "categoryId": "fashion",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Peter%20Golding%2C%20Paris",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Peter_Golding",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/Peter_Golding.jpg/960px-Peter_Golding.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Peter_Golding"
+        }
+      },
+      {
+        "id": "paris-fashion-10",
+        "name": "Silverwoods",
+        "cityId": "paris",
+        "categoryId": "fashion",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Silverwoods%2C%20Paris",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Silverwoods",
+        "photo": null
+      },
+      {
+        "id": "paris-fashion-11",
+        "name": "Virginia Wetherell",
+        "cityId": "paris",
+        "categoryId": "fashion",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Virginia%20Wetherell%2C%20Paris",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Virginia_Wetherell",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/47/Dracula_%281973%29_-_Virginia_Wetherell_%28Cropped%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Virginia_Wetherell"
+        }
+      },
+      {
+        "id": "paris-fashion-12",
+        "name": "Yohji Yamamoto",
+        "cityId": "paris",
+        "categoryId": "fashion",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Yohji%20Yamamoto%2C%20Paris",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Yohji_Yamamoto",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Yohji_Yamamoto%2C_New_York_Fashion_Week%2C_February_2010.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Yohji_Yamamoto"
+        }
+      },
+      {
+        "id": "paris-fashion-13",
+        "name": "Schmitz Block",
+        "cityId": "paris",
+        "categoryId": "fashion",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Schmitz%20Block%2C%20Paris",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Schmitz_Block",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Schmitz_Block_-_Fort_Wayne%2C_Indiana.jpg/960px-Schmitz_Block_-_Fort_Wayne%2C_Indiana.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Schmitz_Block"
+        }
+      },
+      {
+        "id": "paris-fashion-14",
+        "name": "Harris & Frank",
+        "cityId": "paris",
+        "categoryId": "fashion",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Harris%20%26%20Frank%2C%20Paris",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Harris_%26_Frank",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Harris_%26_Frank_store_1924.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Harris_%26_Frank"
+        }
+      },
+      {
+        "id": "paris-fashion-15",
+        "name": "Amy Wesson",
+        "cityId": "paris",
+        "categoryId": "fashion",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Amy%20Wesson%2C%20Paris",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Amy_Wesson",
+        "photo": null
+      },
+      {
+        "id": "paris-fashion-16",
+        "name": "Michele Saee",
+        "cityId": "paris",
+        "categoryId": "fashion",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Michele%20Saee%2C%20Paris",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Michele_Saee",
+        "photo": null
+      },
+      {
+        "id": "paris-fashion-17",
+        "name": "Mr. Brainwash",
+        "cityId": "paris",
+        "categoryId": "fashion",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Mr.%20Brainwash%2C%20Paris",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Mr._Brainwash",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Mr_Brainwash_cropped.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Mr._Brainwash"
+        }
+      },
+      {
+        "id": "paris-fashion-18",
+        "name": "Tauentzienstraße",
+        "cityId": "paris",
+        "categoryId": "fashion",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Tauentzienstra%C3%9Fe%2C%20Paris",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Tauentzienstra%C3%9Fe",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/Tauentzienstra%C3%9Fe_%28Berlin-Sch%C3%B6neberg%29%2C_2024_%2802%29.jpg/960px-Tauentzienstra%C3%9Fe_%28Berlin-Sch%C3%B6neberg%29%2C_2024_%2802%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Tauentzienstra%C3%9Fe"
+        }
+      }
+    ],
+    "shops": [
+      {
+        "id": "paris-shops-1",
+        "name": "Bakery",
+        "cityId": "paris",
+        "categoryId": "shops",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Bakery%2C%20Paris",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Bakery",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Belgium_2013_%2811620905224%29.jpg/960px-Belgium_2013_%2811620905224%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Bakery"
+        }
+      },
+      {
+        "id": "paris-shops-2",
+        "name": "Sex shop",
+        "cityId": "paris",
+        "categoryId": "shops",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Sex%20shop%2C%20Paris",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Sex_shop",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Sex-shops-on-boulevard-de-clichi.jpg/960px-Sex-shops-on-boulevard-de-clichi.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Sex_shop"
+        }
+      },
+      {
+        "id": "paris-shops-3",
+        "name": "Shop Girls of Paris",
+        "cityId": "paris",
+        "categoryId": "shops",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Shop%20Girls%20of%20Paris%2C%20Paris",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Shop_Girls_of_Paris",
+        "photo": null
+      },
+      {
+        "id": "paris-shops-4",
+        "name": "Pâtisserie",
+        "cityId": "paris",
+        "categoryId": "shops",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=P%C3%A2tisserie%2C%20Paris",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/P%C3%A2tisserie",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Lille_Meert2.JPG/960px-Lille_Meert2.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/P%C3%A2tisserie"
+        }
+      },
+      {
+        "id": "paris-shops-5",
+        "name": "Pinocchio's Daring Journey",
+        "cityId": "paris",
+        "categoryId": "shops",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Pinocchio's%20Daring%20Journey%2C%20Paris",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Pinocchio's_Daring_Journey",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/31/Pinocchio%27s_Daring_Journey.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Pinocchio's_Daring_Journey"
+        }
+      },
+      {
+        "id": "paris-shops-6",
+        "name": "Rue de la Paix, Paris",
+        "cityId": "paris",
+        "categoryId": "shops",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Rue%20de%20la%20Paix%2C%20Paris%2C%20Paris",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Rue_de_la_Paix%2C_Paris",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/H%C3%B4tel_Westminster%2C_13_Rue_de_la_Paix%2C_75002_Paris%2C_8_October_2009.jpg/960px-H%C3%B4tel_Westminster%2C_13_Rue_de_la_Paix%2C_75002_Paris%2C_8_October_2009.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Rue_de_la_Paix%2C_Paris"
+        }
+      },
+      {
+        "id": "paris-shops-7",
+        "name": "Department store",
+        "cityId": "paris",
+        "categoryId": "shops",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Department%20store%2C%20Paris",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Department_store",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/Bon_March%C3%A9%2C_Paris_-_interior_view.JPG/960px-Bon_March%C3%A9%2C_Paris_-_interior_view.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Department_store"
+        }
+      },
+      {
+        "id": "paris-shops-8",
+        "name": "Brothel",
+        "cityId": "paris",
+        "categoryId": "shops",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Brothel%2C%20Paris",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Brothel",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/Joachim_Beuckelaer_-_Brothel_-_Walters_371784.jpg/960px-Joachim_Beuckelaer_-_Brothel_-_Walters_371784.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Brothel"
+        }
+      },
+      {
+        "id": "paris-shops-9",
+        "name": "Bookselling",
+        "cityId": "paris",
+        "categoryId": "shops",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Bookselling%2C%20Paris",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Bookselling",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/Libraria_Carturesti_Carusel_-_Interior_ziua.jpg/960px-Libraria_Carturesti_Carusel_-_Interior_ziua.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Bookselling"
+        }
+      },
+      {
+        "id": "paris-shops-10",
+        "name": "It's Alright",
+        "cityId": "paris",
+        "categoryId": "shops",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=It's%20Alright%2C%20Paris",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/It's_Alright_(Pet_Shop_Boys_song)",
+        "photo": null
+      },
+      {
+        "id": "paris-shops-11",
+        "name": "Adventureland Bazaar",
+        "cityId": "paris",
+        "categoryId": "shops",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Adventureland%20Bazaar%2C%20Paris",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Adventureland_Bazaar",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Land_Rover_-_Disneyland_Paris_2011.jpg/960px-Land_Rover_-_Disneyland_Paris_2011.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Adventureland_Bazaar"
+        }
+      },
+      {
+        "id": "paris-shops-12",
+        "name": ".shop",
+        "cityId": "paris",
+        "categoryId": "shops",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=.shop%2C%20Paris",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/.shop",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/DotShop_gTLD_logo.svg/960px-DotShop_gTLD_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/.shop"
+        }
+      },
+      {
+        "id": "paris-shops-13",
+        "name": "Rough Trade",
+        "cityId": "paris",
+        "categoryId": "shops",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Rough%20Trade%2C%20Paris",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Rough_Trade_(shops)",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Rough_Trade_Records%2C_Talbot_Road_-_geograph.org.uk_-_1279495.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Rough_Trade_(shops)"
+        }
+      },
+      {
+        "id": "paris-shops-14",
+        "name": "Berthillon",
+        "cityId": "paris",
+        "categoryId": "shops",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Berthillon%2C%20Paris",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Berthillon",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Paris_Berthillon%2C_12_July_2003.jpg/960px-Paris_Berthillon%2C_12_July_2003.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Berthillon"
+        }
+      },
+      {
+        "id": "paris-shops-15",
+        "name": "Teddy bears of the Gobelins",
+        "cityId": "paris",
+        "categoryId": "shops",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Teddy%20bears%20of%20the%20Gobelins%2C%20Paris",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Teddy_bears_of_the_Gobelins",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Nounours_des_Gobelins.jpg/960px-Nounours_des_Gobelins.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Teddy_bears_of_the_Gobelins"
+        }
+      },
+      {
+        "id": "paris-shops-16",
+        "name": "Portrait of Père Tanguy",
+        "cityId": "paris",
+        "categoryId": "shops",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Portrait%20of%20P%C3%A8re%20Tanguy%2C%20Paris",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Portrait_of_P%C3%A8re_Tanguy",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Van_Gogh_-_Portrait_of_Pere_Tanguy_1887-8.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Portrait_of_P%C3%A8re_Tanguy"
+        }
+      },
+      {
+        "id": "paris-shops-17",
+        "name": "Floristry",
+        "cityId": "paris",
+        "categoryId": "shops",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Floristry%2C%20Paris",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Floristry",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/A_Parisian_Flower_Market.jpg/960px-A_Parisian_Flower_Market.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Floristry"
+        }
+      },
+      {
+        "id": "paris-shops-18",
+        "name": "Fantasyland",
+        "cityId": "paris",
+        "categoryId": "shops",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Fantasyland%2C%20Paris",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Fantasyland",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Fantasyland_logo.svg/960px-Fantasyland_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Fantasyland"
+        }
+      }
+    ]
   }
 }

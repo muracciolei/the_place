@@ -1,11 +1,8 @@
 {
   "cityId": "sydney",
-  "generatedAt": "2026-11-27T08:52:11.853Z",
+  "generatedAt": "2026-11-27T09:31:59.778Z",
   "source": "Wikipedia API + Maps URLs (sin scraping de Google)",
-  "incomplete": [
-    "restaurants",
-    "bars"
-  ],
+  "incomplete": [],
   "categories": {
     "night_clubs": [
       {
@@ -257,8 +254,551 @@
         }
       }
     ],
-    "restaurants": [],
-    "bars": [],
+    "restaurants": [
+      {
+        "id": "sydney-restaurants-1",
+        "name": "Sydney River McDonald's murders",
+        "cityId": "sydney",
+        "categoryId": "restaurants",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Sydney%20River%20McDonald's%20murders%2C%20Sydney",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Sydney_River_McDonald's_murders",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/da/Sydney_River_NS_McDonald%27s_Killings.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Sydney_River_McDonald's_murders"
+        }
+      },
+      {
+        "id": "sydney-restaurants-2",
+        "name": "Oporto",
+        "cityId": "sydney",
+        "categoryId": "restaurants",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Oporto%2C%20Sydney",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Oporto_(restaurant)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Oporto_London_Victoria_Place.jpg/960px-Oporto_London_Victoria_Place.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Oporto_(restaurant)"
+        }
+      },
+      {
+        "id": "sydney-restaurants-3",
+        "name": "Chinatown, Sydney",
+        "cityId": "sydney",
+        "categoryId": "restaurants",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Chinatown%2C%20Sydney%2C%20Sydney",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Chinatown%2C_Sydney",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/The_Sydney_Chinatown_in_Dixon_Street.jpg/960px-The_Sydney_Chinatown_in_Dixon_Street.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Chinatown%2C_Sydney"
+        }
+      },
+      {
+        "id": "sydney-restaurants-4",
+        "name": "El Jannah",
+        "cityId": "sydney",
+        "categoryId": "restaurants",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=El%20Jannah%2C%20Sydney",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/El_Jannah",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/en/thumb/e/e3/El_Jannah_logo_2022.png/960px-El_Jannah_logo_2022.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/El_Jannah"
+        }
+      },
+      {
+        "id": "sydney-restaurants-5",
+        "name": "Hungry Jack's",
+        "cityId": "sydney",
+        "categoryId": "restaurants",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Hungry%20Jack's%2C%20Sydney",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Hungry_Jack's",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/en/thumb/2/20/HungryJacksLogo_RGB_local.svg/960px-HungryJacksLogo_RGB_local.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Hungry_Jack's"
+        }
+      },
+      {
+        "id": "sydney-restaurants-6",
+        "name": "Bulletin Place warehouses",
+        "cityId": "sydney",
+        "categoryId": "restaurants",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Bulletin%20Place%20warehouses%2C%20Sydney",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Bulletin_Place_warehouses",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Historical_buildings_on_Bulletin_Place_in_Circular_Quay.jpg/960px-Historical_buildings_on_Bulletin_Place_in_Circular_Quay.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Bulletin_Place_warehouses"
+        }
+      },
+      {
+        "id": "sydney-restaurants-7",
+        "name": "MV Sydney 2000",
+        "cityId": "sydney",
+        "categoryId": "restaurants",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=MV%20Sydney%202000%2C%20Sydney",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/MV_Sydney_2000",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/MV_Sydney_2000%2C_Sydney_Cove%2C_2013_%2802%29.jpg/960px-MV_Sydney_2000%2C_Sydney_Cove%2C_2013_%2802%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/MV_Sydney_2000"
+        }
+      },
+      {
+        "id": "sydney-restaurants-8",
+        "name": "English, Scottish and Australian Bank, The Rocks",
+        "cityId": "sydney",
+        "categoryId": "restaurants",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=English%2C%20Scottish%20and%20Australian%20Bank%2C%20The%20Rocks%2C%20Sydney",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/English%2C_Scottish_and_Australian_Bank%2C_The_Rocks",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Former_English%2C_Scottish_%26_Australian_Chartered_Bank_-_The_Rocks%2C_Sydney%2C_NSW_%287889979044%29.jpg/960px-Former_English%2C_Scottish_%26_Australian_Chartered_Bank_-_The_Rocks%2C_Sydney%2C_NSW_%287889979044%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/English%2C_Scottish_and_Australian_Bank%2C_The_Rocks"
+        }
+      },
+      {
+        "id": "sydney-restaurants-9",
+        "name": "Gloria Jean's Coffees",
+        "cityId": "sydney",
+        "categoryId": "restaurants",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Gloria%20Jean's%20Coffees%2C%20Sydney",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Gloria_Jean's_Coffees",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/Brunswick_St_Mall_Gloria_Jeans_Coffees_tenancy_Brunswick_St_Fortitude_Valley_P1350575.jpg/960px-Brunswick_St_Mall_Gloria_Jeans_Coffees_tenancy_Brunswick_St_Fortitude_Valley_P1350575.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Gloria_Jean's_Coffees"
+        }
+      },
+      {
+        "id": "sydney-restaurants-10",
+        "name": "Nobu Matsuhisa",
+        "cityId": "sydney",
+        "categoryId": "restaurants",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Nobu%20Matsuhisa%2C%20Sydney",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Nobu_Matsuhisa",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Nobu_Matsuhisa_with_sushi.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Nobu_Matsuhisa"
+        }
+      },
+      {
+        "id": "sydney-restaurants-11",
+        "name": "Manu Feildel",
+        "cityId": "sydney",
+        "categoryId": "restaurants",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Manu%20Feildel%2C%20Sydney",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Manu_Feildel",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Manu_Feildel_-_GQ_Men_of_the_Year_Award_2011.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Manu_Feildel"
+        }
+      },
+      {
+        "id": "sydney-restaurants-12",
+        "name": "Kings Cross, New South Wales",
+        "cityId": "sydney",
+        "categoryId": "restaurants",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Kings%20Cross%2C%20New%20South%20Wales%2C%20Sydney",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Kings_Cross%2C_New_South_Wales",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/%281%29Darlinghurst_Road-1.jpg/960px-%281%29Darlinghurst_Road-1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Kings_Cross%2C_New_South_Wales"
+        }
+      },
+      {
+        "id": "sydney-restaurants-13",
+        "name": "Quay",
+        "cityId": "sydney",
+        "categoryId": "restaurants",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Quay%2C%20Sydney",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Quay_(restaurant)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/Quay_Restaurant.jpg/960px-Quay_Restaurant.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Quay_(restaurant)"
+        }
+      },
+      {
+        "id": "sydney-restaurants-14",
+        "name": "Clare Smyth",
+        "cityId": "sydney",
+        "categoryId": "restaurants",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Clare%20Smyth%2C%20Sydney",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Clare_Smyth",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Clare_Smyth_in_2018.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Clare_Smyth"
+        }
+      },
+      {
+        "id": "sydney-restaurants-15",
+        "name": "Dulwich Hill FC",
+        "cityId": "sydney",
+        "categoryId": "restaurants",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Dulwich%20Hill%20FC%2C%20Sydney",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Dulwich_Hill_FC",
+        "photo": null
+      },
+      {
+        "id": "sydney-restaurants-16",
+        "name": "Muteppou",
+        "cityId": "sydney",
+        "categoryId": "restaurants",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Muteppou%2C%20Sydney",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Muteppou",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/Muteppou-Kyoto-Appearance.jpg/960px-Muteppou-Kyoto-Appearance.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Muteppou"
+        }
+      },
+      {
+        "id": "sydney-restaurants-17",
+        "name": "Guzman y Gomez",
+        "cityId": "sydney",
+        "categoryId": "restaurants",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Guzman%20y%20Gomez%2C%20Sydney",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Guzman_y_Gomez",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Guzman_y_Gomez%2C_Westfield_Carousel.jpg/960px-Guzman_y_Gomez%2C_Westfield_Carousel.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Guzman_y_Gomez"
+        }
+      },
+      {
+        "id": "sydney-restaurants-18",
+        "name": "Red Rooster",
+        "cityId": "sydney",
+        "categoryId": "restaurants",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Red%20Rooster%2C%20Sydney",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Red_Rooster",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Red_Rooster_Logo.png/960px-Red_Rooster_Logo.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Red_Rooster"
+        }
+      }
+    ],
+    "bars": [
+      {
+        "id": "sydney-bars-1",
+        "name": "David Bar-Hayim",
+        "cityId": "sydney",
+        "categoryId": "bars",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=David%20Bar-Hayim%2C%20Sydney",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/David_Bar-Hayim",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/27/DavidBarHayim.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/David_Bar-Hayim"
+        }
+      },
+      {
+        "id": "sydney-bars-2",
+        "name": "Sydney Tower",
+        "cityId": "sydney",
+        "categoryId": "bars",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Sydney%20Tower%2C%20Sydney",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Sydney_Tower",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Sydney_Tower_%28Centre_Point_Tower%29_seen_from_Queen%27s_Square%2C_Sydney.jpg/960px-Sydney_Tower_%28Centre_Point_Tower%29_seen_from_Queen%27s_Square%2C_Sydney.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Sydney_Tower"
+        }
+      },
+      {
+        "id": "sydney-bars-3",
+        "name": "Boxa",
+        "cityId": "sydney",
+        "categoryId": "bars",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Boxa%2C%20Sydney",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Boxa",
+        "photo": null
+      },
+      {
+        "id": "sydney-bars-4",
+        "name": "University of Sydney Union",
+        "cityId": "sydney",
+        "categoryId": "bars",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=University%20of%20Sydney%20Union%2C%20Sydney",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/University_of_Sydney_Union",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/USU_Law_Lawns.jpg/960px-USU_Law_Lawns.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/University_of_Sydney_Union"
+        }
+      },
+      {
+        "id": "sydney-bars-5",
+        "name": "Brikha Nasoraia",
+        "cityId": "sydney",
+        "categoryId": "bars",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Brikha%20Nasoraia%2C%20Sydney",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Brikha_Nasoraia",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/de/Ganzibra_Brikha_Nasoraia_July_2016.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Brikha_Nasoraia"
+        }
+      },
+      {
+        "id": "sydney-bars-6",
+        "name": "Tekno Autosports",
+        "cityId": "sydney",
+        "categoryId": "bars",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Tekno%20Autosports%2C%20Sydney",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Tekno_Autosports",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/Van_Gisbergen_Webb_2015_Sandown_500.JPG/960px-Van_Gisbergen_Webb_2015_Sandown_500.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Tekno_Autosports"
+        }
+      },
+      {
+        "id": "sydney-bars-7",
+        "name": "Bar Point",
+        "cityId": "sydney",
+        "categoryId": "bars",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Bar%20Point%2C%20Sydney",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Bar_Point",
+        "photo": null
+      },
+      {
+        "id": "sydney-bars-8",
+        "name": "Stanmore, New South Wales",
+        "cityId": "sydney",
+        "categoryId": "bars",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Stanmore%2C%20New%20South%20Wales%2C%20Sydney",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Stanmore%2C_New_South_Wales",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Stanmore_%281%29.jpg/960px-Stanmore_%281%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Stanmore%2C_New_South_Wales"
+        }
+      },
+      {
+        "id": "sydney-bars-9",
+        "name": "The Star, Sydney",
+        "cityId": "sydney",
+        "categoryId": "bars",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Star%2C%20Sydney%2C%20Sydney",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/The_Star%2C_Sydney",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/The_Star_Logo.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/The_Star%2C_Sydney"
+        }
+      },
+      {
+        "id": "sydney-bars-10",
+        "name": "Gymnastics at the 2000 Summer Olympics – Men's horizontal bar",
+        "cityId": "sydney",
+        "categoryId": "bars",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Gymnastics%20at%20the%202000%20Summer%20Olympics%20%E2%80%93%20Men's%20horizontal%20bar%2C%20Sydney",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Gymnastics_at_the_2000_Summer_Olympics_%E2%80%93_Men's_horizontal_bar",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/%D0%9D%D0%B5%D0%BC%D0%BE%D0%B2%2C_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B5%D0%B9.jpg/960px-%D0%9D%D0%B5%D0%BC%D0%BE%D0%B2%2C_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B5%D0%B9.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Gymnastics_at_the_2000_Summer_Olympics_%E2%80%93_Men's_horizontal_bar"
+        }
+      },
+      {
+        "id": "sydney-bars-11",
+        "name": "Group 3 Rugby League",
+        "cityId": "sydney",
+        "categoryId": "bars",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Group%203%20Rugby%20League%2C%20Sydney",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Group_3_Rugby_League",
+        "photo": null
+      },
+      {
+        "id": "sydney-bars-12",
+        "name": "Poilcourt-Sydney",
+        "cityId": "sydney",
+        "categoryId": "bars",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Poilcourt-Sydney%2C%20Sydney",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Poilcourt-Sydney",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/Poilcourt-Sydney_-_la_Mairie_-_Photo_Francis_Neuvens_lesardennesvuesdusol.fotoloft.fr.JPG/960px-Poilcourt-Sydney_-_la_Mairie_-_Photo_Francis_Neuvens_lesardennesvuesdusol.fotoloft.fr.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Poilcourt-Sydney"
+        }
+      },
+      {
+        "id": "sydney-bars-13",
+        "name": "Kyle Anderson",
+        "cityId": "sydney",
+        "categoryId": "bars",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Kyle%20Anderson%2C%20Sydney",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Kyle_Anderson_(darts_player)",
+        "photo": null
+      },
+      {
+        "id": "sydney-bars-14",
+        "name": "South Bar",
+        "cityId": "sydney",
+        "categoryId": "bars",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=South%20Bar%2C%20Sydney",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/South_Bar",
+        "photo": null
+      },
+      {
+        "id": "sydney-bars-15",
+        "name": "Old Bar, New South Wales",
+        "cityId": "sydney",
+        "categoryId": "bars",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Old%20Bar%2C%20New%20South%20Wales%2C%20Sydney",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Old_Bar%2C_New_South_Wales",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Old_bar_beach.jpg/960px-Old_bar_beach.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Old_Bar%2C_New_South_Wales"
+        }
+      },
+      {
+        "id": "sydney-bars-16",
+        "name": "Bar-class boom defence vessel",
+        "cityId": "sydney",
+        "categoryId": "bars",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Bar-class%20boom%20defence%20vessel%2C%20Sydney",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Bar-class_boom_defence_vessel",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a6/The_Royal_Navy_during_the_Second_World_War_A18277.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Bar-class_boom_defence_vessel"
+        }
+      },
+      {
+        "id": "sydney-bars-17",
+        "name": "James Courtney",
+        "cityId": "sydney",
+        "categoryId": "bars",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=James%20Courtney%2C%20Sydney",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/James_Courtney",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/James_Courtney_at_the_2025_Adelaide_Grand_Final_Parade_-_02.jpg/960px-James_Courtney_at_the_2025_Adelaide_Grand_Final_Parade_-_02.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/James_Courtney"
+        }
+      },
+      {
+        "id": "sydney-bars-18",
+        "name": "David Besnard",
+        "cityId": "sydney",
+        "categoryId": "bars",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=David%20Besnard%2C%20Sydney",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/David_Besnard",
+        "photo": null
+      }
+    ],
     "coffee_shops": [
       {
         "id": "sydney-coffee_shops-1",

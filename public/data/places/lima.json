@@ -1,0 +1,2363 @@
+{
+  "cityId": "lima",
+  "generatedAt": "2026-11-27T09:27:23.356Z",
+  "source": "Wikipedia API + Maps URLs (sin scraping de Google)",
+  "incomplete": [],
+  "categories": {
+    "night_clubs": [
+      {
+        "id": "lima-night_clubs-1",
+        "name": "Los Olivos stampede",
+        "cityId": "lima",
+        "categoryId": "night_clubs",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Los%20Olivos%20stampede%2C%20Lima",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Los_Olivos_stampede",
+        "photo": null
+      },
+      {
+        "id": "lima-night_clubs-2",
+        "name": "Santa Rosa de Lima Cartel",
+        "cityId": "lima",
+        "categoryId": "night_clubs",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Santa%20Rosa%20de%20Lima%20Cartel%2C%20Lima",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Santa_Rosa_de_Lima_Cartel",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Santa_Rosa_Lima.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Santa_Rosa_de_Lima_Cartel"
+        }
+      },
+      {
+        "id": "lima-night_clubs-3",
+        "name": "Los Olivos District",
+        "cityId": "lima",
+        "categoryId": "night_clubs",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Los%20Olivos%20District%2C%20Lima",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Los_Olivos_District",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Plaza_de_armas_de_los_olivos_%2CLima_%2CPer%C3%BA.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Los_Olivos_District"
+        }
+      },
+      {
+        "id": "lima-night_clubs-4",
+        "name": "Jockey Plaza",
+        "cityId": "lima",
+        "categoryId": "night_clubs",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Jockey%20Plaza%2C%20Lima",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Jockey_Plaza",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Lima_Peru_Modern_Shopping_mall.jpg/960px-Lima_Peru_Modern_Shopping_mall.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Jockey_Plaza"
+        }
+      },
+      {
+        "id": "lima-night_clubs-5",
+        "name": "Luis Delgado Aparicio",
+        "cityId": "lima",
+        "categoryId": "night_clubs",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Luis%20Delgado%20Aparicio%2C%20Lima",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Luis_Delgado_Aparicio",
+        "photo": null
+      },
+      {
+        "id": "lima-night_clubs-6",
+        "name": "Niles Marsh",
+        "cityId": "lima",
+        "categoryId": "night_clubs",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Niles%20Marsh%2C%20Lima",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Niles_Marsh",
+        "photo": null
+      },
+      {
+        "id": "lima-night_clubs-7",
+        "name": "Redonda Beach",
+        "cityId": "lima",
+        "categoryId": "night_clubs",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Redonda%20Beach%2C%20Lima",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Redonda_Beach",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/Passeio_Alegre.jpg/960px-Passeio_Alegre.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Redonda_Beach"
+        }
+      },
+      {
+        "id": "lima-night_clubs-8",
+        "name": "FFF",
+        "cityId": "lima",
+        "categoryId": "night_clubs",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=FFF%2C%20Lima",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/FFF_(gang)",
+        "photo": null
+      },
+      {
+        "id": "lima-night_clubs-9",
+        "name": "Leny Andrade",
+        "cityId": "lima",
+        "categoryId": "night_clubs",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Leny%20Andrade%2C%20Lima",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Leny_Andrade",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/Leny_Andrade%2C_1961.tif/lossy-page1-960px-Leny_Andrade%2C_1961.tif.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Leny_Andrade"
+        }
+      },
+      {
+        "id": "lima-night_clubs-10",
+        "name": "Ronaldo",
+        "cityId": "lima",
+        "categoryId": "night_clubs",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Ronaldo%2C%20Lima",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Ronaldo_(Brazilian_footballer)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/12.12.2025_%E2%80%93_Cerim%C3%B4nia_de_lan%C3%A7amento_do_SBT_News_-_54980664160_%28cropped2%29.jpg/960px-12.12.2025_%E2%80%93_Cerim%C3%B4nia_de_lan%C3%A7amento_do_SBT_News_-_54980664160_%28cropped2%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Ronaldo_(Brazilian_footballer)"
+        }
+      },
+      {
+        "id": "lima-night_clubs-11",
+        "name": "Christian Cueva",
+        "cityId": "lima",
+        "categoryId": "night_clubs",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Christian%20Cueva%2C%20Lima",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Christian_Cueva",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/42/Peru_tren_%284%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Christian_Cueva"
+        }
+      },
+      {
+        "id": "lima-night_clubs-12",
+        "name": "Gold Museum of Peru and Arms of the World",
+        "cityId": "lima",
+        "categoryId": "night_clubs",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Gold%20Museum%20of%20Peru%20and%20Arms%20of%20the%20World%2C%20Lima",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Gold_Museum_of_Peru_and_Arms_of_the_World",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/MuseoOroPerou_08.jpg/960px-MuseoOroPerou_08.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Gold_Museum_of_Peru_and_Arms_of_the_World"
+        }
+      },
+      {
+        "id": "lima-night_clubs-13",
+        "name": "Beth Rowley",
+        "cityId": "lima",
+        "categoryId": "night_clubs",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Beth%20Rowley%2C%20Lima",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Beth_Rowley",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Beth_Rowley.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Beth_Rowley"
+        }
+      },
+      {
+        "id": "lima-night_clubs-14",
+        "name": "Dave Haslam",
+        "cityId": "lima",
+        "categoryId": "night_clubs",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Dave%20Haslam%2C%20Lima",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Dave_Haslam",
+        "photo": null
+      },
+      {
+        "id": "lima-night_clubs-15",
+        "name": "Historic Centre of Lima",
+        "cityId": "lima",
+        "categoryId": "night_clubs",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Historic%20Centre%20of%20Lima%2C%20Lima",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Historic_Centre_of_Lima",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Plaza_de_Armas%2C_Lima.jpg/960px-Plaza_de_Armas%2C_Lima.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Historic_Centre_of_Lima"
+        }
+      },
+      {
+        "id": "lima-night_clubs-16",
+        "name": "Cristian Benavente",
+        "cityId": "lima",
+        "categoryId": "night_clubs",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Cristian%20Benavente%2C%20Lima",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Cristian_Benavente",
+        "photo": null
+      },
+      {
+        "id": "lima-night_clubs-17",
+        "name": "Barnaby Conrad",
+        "cityId": "lima",
+        "categoryId": "night_clubs",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Barnaby%20Conrad%2C%20Lima",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Barnaby_Conrad",
+        "photo": null
+      },
+      {
+        "id": "lima-night_clubs-18",
+        "name": "Kina Malpartida",
+        "cityId": "lima",
+        "categoryId": "night_clubs",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Kina%20Malpartida%2C%20Lima",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Kina_Malpartida",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Pms20090620_0182.jpg/960px-Pms20090620_0182.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Kina_Malpartida"
+        }
+      }
+    ],
+    "restaurants": [
+      {
+        "id": "lima-restaurants-1",
+        "name": "Kewpee",
+        "cityId": "lima",
+        "categoryId": "restaurants",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Kewpee%2C%20Lima",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Kewpee",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/OutsidePro.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Kewpee"
+        }
+      },
+      {
+        "id": "lima-restaurants-2",
+        "name": "Lima",
+        "cityId": "lima",
+        "categoryId": "restaurants",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Lima%2C%20Lima",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Lima_(restaurant)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Lima%2C_Fitzrovia%2C_W1.jpg/960px-Lima%2C_Fitzrovia%2C_W1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Lima_(restaurant)"
+        }
+      },
+      {
+        "id": "lima-restaurants-3",
+        "name": "Lee's Famous Recipe Chicken",
+        "cityId": "lima",
+        "categoryId": "restaurants",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Lee's%20Famous%20Recipe%20Chicken%2C%20Lima",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Lee's_Famous_Recipe_Chicken",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Lee%27s_Famous_Recipe_Chicken_Logo.png/960px-Lee%27s_Famous_Recipe_Chicken_Logo.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Lee's_Famous_Recipe_Chicken"
+        }
+      },
+      {
+        "id": "lima-restaurants-4",
+        "name": "Barrio Chino",
+        "cityId": "lima",
+        "categoryId": "restaurants",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Barrio%20Chino%2C%20Lima",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Barrio_Chino_(Lima)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/Chinatown%2C_Lima20060002.JPG/960px-Chinatown%2C_Lima20060002.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Barrio_Chino_(Lima)"
+        }
+      },
+      {
+        "id": "lima-restaurants-5",
+        "name": "Little Italy, Paterson",
+        "cityId": "lima",
+        "categoryId": "restaurants",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Little%20Italy%2C%20Paterson%2C%20Lima",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Little_Italy%2C_Paterson",
+        "photo": null
+      },
+      {
+        "id": "lima-restaurants-6",
+        "name": "East of Chicago Pizza",
+        "cityId": "lima",
+        "categoryId": "restaurants",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=East%20of%20Chicago%20Pizza%2C%20Lima",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/East_of_Chicago_Pizza",
+        "photo": null
+      },
+      {
+        "id": "lima-restaurants-7",
+        "name": "Alex Atala",
+        "cityId": "lima",
+        "categoryId": "restaurants",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Alex%20Atala%2C%20Lima",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Alex_Atala",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Alex_atala_%2815751919598%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Alex_Atala"
+        }
+      },
+      {
+        "id": "lima-restaurants-8",
+        "name": "Penny Cafeteria",
+        "cityId": "lima",
+        "categoryId": "restaurants",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Penny%20Cafeteria%2C%20Lima",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Penny_Cafeteria",
+        "photo": null
+      },
+      {
+        "id": "lima-restaurants-9",
+        "name": "Pollo a la brasa",
+        "cityId": "lima",
+        "categoryId": "restaurants",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Pollo%20a%20la%20brasa%2C%20Lima",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Pollo_a_la_brasa",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Un_cuarto_de_Pollo_a_la_Brasa.JPG/960px-Un_cuarto_de_Pollo_a_la_Brasa.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Pollo_a_la_brasa"
+        }
+      },
+      {
+        "id": "lima-restaurants-10",
+        "name": "Central",
+        "cityId": "lima",
+        "categoryId": "restaurants",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Central%2C%20Lima",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Central_(restaurant)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/The_World%E2%80%99s_50_Best_Restaurants_2023_No.1_winner.jpg/960px-The_World%E2%80%99s_50_Best_Restaurants_2023_No.1_winner.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Central_(restaurant)"
+        }
+      },
+      {
+        "id": "lima-restaurants-11",
+        "name": "La Lima",
+        "cityId": "lima",
+        "categoryId": "restaurants",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=La%20Lima%2C%20Lima",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/La_Lima",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/LaLima_Cortes_Honduras.jpg/960px-LaLima_Cortes_Honduras.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/La_Lima"
+        }
+      },
+      {
+        "id": "lima-restaurants-12",
+        "name": "Bembos",
+        "cityId": "lima",
+        "categoryId": "restaurants",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Bembos%2C%20Lima",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Bembos",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Bembos_logo15.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Bembos"
+        }
+      },
+      {
+        "id": "lima-restaurants-13",
+        "name": "Virgilio Martínez Véliz",
+        "cityId": "lima",
+        "categoryId": "restaurants",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Virgilio%20Mart%C3%ADnez%20V%C3%A9liz%2C%20Lima",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Virgilio_Mart%C3%ADnez_V%C3%A9liz",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/25/Virgilio_Mart%C3%ADnez_V%C3%A9liz.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Virgilio_Mart%C3%ADnez_V%C3%A9liz"
+        }
+      },
+      {
+        "id": "lima-restaurants-14",
+        "name": "Teresa Izquierdo",
+        "cityId": "lima",
+        "categoryId": "restaurants",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Teresa%20Izquierdo%2C%20Lima",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Teresa_Izquierdo",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Chef_Teresa_Izquierdo_at_El_Rinc%C3%B3n_que_No_Conoces_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Teresa_Izquierdo"
+        }
+      },
+      {
+        "id": "lima-restaurants-15",
+        "name": "Edson Luís de Lima Souto",
+        "cityId": "lima",
+        "categoryId": "restaurants",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Edson%20Lu%C3%ADs%20de%20Lima%20Souto%2C%20Lima",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Edson_Lu%C3%ADs_de_Lima_Souto",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Registro_estudantil_de_Edson_Lu%C3%ADs_de_Lima_Souto.tif/lossy-page1-960px-Registro_estudantil_de_Edson_Lu%C3%ADs_de_Lima_Souto.tif.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Edson_Lu%C3%ADs_de_Lima_Souto"
+        }
+      },
+      {
+        "id": "lima-restaurants-16",
+        "name": "Gastón Acurio",
+        "cityId": "lima",
+        "categoryId": "restaurants",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Gast%C3%B3n%20Acurio%2C%20Lima",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Gast%C3%B3n_Acurio",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/Gast%C3%B3n_Acurio_realiz%C3%B3_conversatorio_en_la_ADP_sobre_la_proyecci%C3%B3n_externa_de_la_gastronom%C3%ADa_peruana.jpg/960px-Gast%C3%B3n_Acurio_realiz%C3%B3_conversatorio_en_la_ADP_sobre_la_proyecci%C3%B3n_externa_de_la_gastronom%C3%ADa_peruana.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Gast%C3%B3n_Acurio"
+        }
+      },
+      {
+        "id": "lima-restaurants-17",
+        "name": "Pueblo Libre District, Lima",
+        "cityId": "lima",
+        "categoryId": "restaurants",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Pueblo%20Libre%20District%2C%20Lima%2C%20Lima",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Pueblo_Libre_District%2C_Lima",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Plaza_Bolivar._Pueblo_Libre%2C_Lima%2C_Per%C3%BA_08.jpg/960px-Plaza_Bolivar._Pueblo_Libre%2C_Lima%2C_Per%C3%BA_08.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Pueblo_Libre_District%2C_Lima"
+        }
+      },
+      {
+        "id": "lima-restaurants-18",
+        "name": "Matucana, Peru",
+        "cityId": "lima",
+        "categoryId": "restaurants",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Matucana%2C%20Peru%2C%20Lima",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Matucana%2C_Peru",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Peru_railroad_station.jpg/960px-Peru_railroad_station.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Matucana%2C_Peru"
+        }
+      }
+    ],
+    "bars": [
+      {
+        "id": "lima-bars-1",
+        "name": "Harat Bar, Rahimabad",
+        "cityId": "lima",
+        "categoryId": "bars",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Harat%20Bar%2C%20Rahimabad%2C%20Lima",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Harat_Bar%2C_Rahimabad",
+        "photo": null
+      },
+      {
+        "id": "lima-bars-2",
+        "name": "Harat Bar, Chaboksar",
+        "cityId": "lima",
+        "categoryId": "bars",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Harat%20Bar%2C%20Chaboksar%2C%20Lima",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Harat_Bar%2C_Chaboksar",
+        "photo": null
+      },
+      {
+        "id": "lima-bars-3",
+        "name": "Lima Gavabar",
+        "cityId": "lima",
+        "categoryId": "bars",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Lima%20Gavabar%2C%20Lima",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Lima_Gavabar",
+        "photo": null
+      },
+      {
+        "id": "lima-bars-4",
+        "name": "Pisco sour",
+        "cityId": "lima",
+        "categoryId": "bars",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Pisco%20sour%2C%20Lima",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Pisco_sour",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Pisco_sour_20100613b.JPG/960px-Pisco_sour_20100613b.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Pisco_sour"
+        }
+      },
+      {
+        "id": "lima-bars-5",
+        "name": "Lima Chal",
+        "cityId": "lima",
+        "categoryId": "bars",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Lima%20Chal%2C%20Lima",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Lima_Chal",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/79/Flood_in_Lima_Chal2024-04-13_16.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Lima_Chal"
+        }
+      },
+      {
+        "id": "lima-bars-6",
+        "name": "Carlos Torres Caro",
+        "cityId": "lima",
+        "categoryId": "bars",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Carlos%20Torres%20Caro%2C%20Lima",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Carlos_Torres_Caro",
+        "photo": null
+      },
+      {
+        "id": "lima-bars-7",
+        "name": "Lima, Iran",
+        "cityId": "lima",
+        "categoryId": "bars",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Lima%2C%20Iran%2C%20Lima",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Lima%2C_Iran",
+        "photo": null
+      },
+      {
+        "id": "lima-bars-8",
+        "name": "Caio Souza",
+        "cityId": "lima",
+        "categoryId": "bars",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Caio%20Souza%2C%20Lima",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Caio_Souza",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/2018_South_American_Games_Caio_Souza.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Caio_Souza"
+        }
+      },
+      {
+        "id": "lima-bars-9",
+        "name": "Leila de Lima",
+        "cityId": "lima",
+        "categoryId": "bars",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Leila%20de%20Lima%2C%20Lima",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Leila_de_Lima",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Rep._Leila_De_Lima_%2820th_Congress%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Leila_de_Lima"
+        }
+      },
+      {
+        "id": "lima-bars-10",
+        "name": "Dashtak, Gilan",
+        "cityId": "lima",
+        "categoryId": "bars",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Dashtak%2C%20Gilan%2C%20Lima",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Dashtak%2C_Gilan",
+        "photo": null
+      },
+      {
+        "id": "lima-bars-11",
+        "name": "Chalman Rud",
+        "cityId": "lima",
+        "categoryId": "bars",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Chalman%20Rud%2C%20Lima",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Chalman_Rud",
+        "photo": null
+      },
+      {
+        "id": "lima-bars-12",
+        "name": "Kashkuh, Gilan",
+        "cityId": "lima",
+        "categoryId": "bars",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Kashkuh%2C%20Gilan%2C%20Lima",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Kashkuh%2C_Gilan",
+        "photo": null
+      },
+      {
+        "id": "lima-bars-13",
+        "name": "Kabutar Abkesh",
+        "cityId": "lima",
+        "categoryId": "bars",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Kabutar%20Abkesh%2C%20Lima",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Kabutar_Abkesh",
+        "photo": null
+      },
+      {
+        "id": "lima-bars-14",
+        "name": "Miandeh, Rudsar",
+        "cityId": "lima",
+        "categoryId": "bars",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Miandeh%2C%20Rudsar%2C%20Lima",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Miandeh%2C_Rudsar",
+        "photo": null
+      },
+      {
+        "id": "lima-bars-15",
+        "name": "Kureh Tasheh",
+        "cityId": "lima",
+        "categoryId": "bars",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Kureh%20Tasheh%2C%20Lima",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Kureh_Tasheh",
+        "photo": null
+      },
+      {
+        "id": "lima-bars-16",
+        "name": "Milash",
+        "cityId": "lima",
+        "categoryId": "bars",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Milash%2C%20Lima",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Milash",
+        "photo": null
+      },
+      {
+        "id": "lima-bars-17",
+        "name": "Hajjiabad, Rudsar",
+        "cityId": "lima",
+        "categoryId": "bars",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Hajjiabad%2C%20Rudsar%2C%20Lima",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Hajjiabad%2C_Rudsar",
+        "photo": null
+      },
+      {
+        "id": "lima-bars-18",
+        "name": "Salim Sara",
+        "cityId": "lima",
+        "categoryId": "bars",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Salim%20Sara%2C%20Lima",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Salim_Sara",
+        "photo": null
+      }
+    ],
+    "coffee_shops": [
+      {
+        "id": "lima-coffee_shops-1",
+        "name": "Lee's Famous Recipe Chicken",
+        "cityId": "lima",
+        "categoryId": "coffee_shops",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Lee's%20Famous%20Recipe%20Chicken%2C%20Lima",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Lee's_Famous_Recipe_Chicken",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Lee%27s_Famous_Recipe_Chicken_Logo.png/960px-Lee%27s_Famous_Recipe_Chicken_Logo.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Lee's_Famous_Recipe_Chicken"
+        }
+      },
+      {
+        "id": "lima-coffee_shops-2",
+        "name": "San Francisco crime family",
+        "cityId": "lima",
+        "categoryId": "coffee_shops",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=San%20Francisco%20crime%20family%2C%20Lima",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/San_Francisco_crime_family",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/San_Francisco_crime_family_James_Lanza.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/San_Francisco_crime_family"
+        }
+      },
+      {
+        "id": "lima-coffee_shops-3",
+        "name": "Naná Vasconcelos",
+        "cityId": "lima",
+        "categoryId": "coffee_shops",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Nan%C3%A1%20Vasconcelos%2C%20Lima",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Nan%C3%A1_Vasconcelos",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Nan%C3%A1_Vasconcelos.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Nan%C3%A1_Vasconcelos"
+        }
+      },
+      {
+        "id": "lima-coffee_shops-4",
+        "name": "Sopa de lima",
+        "cityId": "lima",
+        "categoryId": "coffee_shops",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Sopa%20de%20lima%2C%20Lima",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Sopa_de_lima",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/27/Sopa_de_lima.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Sopa_de_lima"
+        }
+      },
+      {
+        "id": "lima-coffee_shops-5",
+        "name": "Piedras",
+        "cityId": "lima",
+        "categoryId": "coffee_shops",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Piedras%2C%20Lima",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Piedras_(Buenos_Aires_Underground)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Buenos_Aires_-_Subte_Estaci%C3%B3n_Piedras_-_20061207a.jpg/960px-Buenos_Aires_-_Subte_Estaci%C3%B3n_Piedras_-_20061207a.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Piedras_(Buenos_Aires_Underground)"
+        }
+      },
+      {
+        "id": "lima-coffee_shops-6",
+        "name": "Darci Vargas",
+        "cityId": "lima",
+        "categoryId": "coffee_shops",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Darci%20Vargas%2C%20Lima",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Darci_Vargas",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Darci_Vargas.tif/lossy-page1-250px-Darci_Vargas.tif.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Darci_Vargas"
+        }
+      },
+      {
+        "id": "lima-coffee_shops-7",
+        "name": "Jockey Plaza",
+        "cityId": "lima",
+        "categoryId": "coffee_shops",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Jockey%20Plaza%2C%20Lima",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Jockey_Plaza",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Lima_Peru_Modern_Shopping_mall.jpg/960px-Lima_Peru_Modern_Shopping_mall.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Jockey_Plaza"
+        }
+      },
+      {
+        "id": "lima-coffee_shops-8",
+        "name": "Miss Peru",
+        "cityId": "lima",
+        "categoryId": "coffee_shops",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Miss%20Peru%2C%20Lima",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Miss_Peru",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/bb/MISS.PERU.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Miss_Peru"
+        }
+      },
+      {
+        "id": "lima-coffee_shops-9",
+        "name": "D'Onofrio",
+        "cityId": "lima",
+        "categoryId": "coffee_shops",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=D'Onofrio%2C%20Lima",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/D'Onofrio_(brand)",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Donofrio23.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/D'Onofrio_(brand)"
+        }
+      },
+      {
+        "id": "lima-coffee_shops-10",
+        "name": "Rubem Braga",
+        "cityId": "lima",
+        "categoryId": "coffee_shops",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Rubem%20Braga%2C%20Lima",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Rubem_Braga",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Rubem_Braga_%281966%29.tiff/lossy-page1-960px-Rubem_Braga_%281966%29.tiff.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Rubem_Braga"
+        }
+      },
+      {
+        "id": "lima-coffee_shops-11",
+        "name": "Nobu Berkeley St",
+        "cityId": "lima",
+        "categoryId": "coffee_shops",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Nobu%20Berkeley%20St%2C%20Lima",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Nobu_Berkeley_St",
+        "photo": null
+      },
+      {
+        "id": "lima-coffee_shops-12",
+        "name": "2017 Primeira Liga",
+        "cityId": "lima",
+        "categoryId": "coffee_shops",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=2017%20Primeira%20Liga%2C%20Lima",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/2017_Primeira_Liga",
+        "photo": null
+      },
+      {
+        "id": "lima-coffee_shops-13",
+        "name": "Larcomar",
+        "cityId": "lima",
+        "categoryId": "coffee_shops",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Larcomar%2C%20Lima",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Larcomar",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/Larcomar_-_Miraflores%2C_Lima_-_Peru_-_panoramio_%281%29.jpg/960px-Larcomar_-_Miraflores%2C_Lima_-_Peru_-_panoramio_%281%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Larcomar"
+        }
+      },
+      {
+        "id": "lima-coffee_shops-14",
+        "name": "Bar Italia",
+        "cityId": "lima",
+        "categoryId": "coffee_shops",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Bar%20Italia%2C%20Lima",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Bar_Italia",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Bar_Italia_-_Soho_%284764432107%29.jpg/960px-Bar_Italia_-_Soho_%284764432107%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Bar_Italia"
+        }
+      },
+      {
+        "id": "lima-coffee_shops-15",
+        "name": "Campana brothers",
+        "cityId": "lima",
+        "categoryId": "coffee_shops",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Campana%20brothers%2C%20Lima",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Campana_brothers",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Humberto_and_Fernando_Campana_on_Cooper_Hewitt.jpg/960px-Humberto_and_Fernando_Campana_on_Cooper_Hewitt.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Campana_brothers"
+        }
+      },
+      {
+        "id": "lima-coffee_shops-16",
+        "name": "Butte Special",
+        "cityId": "lima",
+        "categoryId": "coffee_shops",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Butte%20Special%2C%20Lima",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Butte_Special",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/94/Beaver_Canyon.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Butte_Special"
+        }
+      },
+      {
+        "id": "lima-coffee_shops-17",
+        "name": "1955 in Brazil",
+        "cityId": "lima",
+        "categoryId": "coffee_shops",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=1955%20in%20Brazil%2C%20Lima",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/1955_in_Brazil",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_Brazil_%281889%E2%80%931960%29.svg/960px-Flag_of_Brazil_%281889%E2%80%931960%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/1955_in_Brazil"
+        }
+      },
+      {
+        "id": "lima-coffee_shops-18",
+        "name": "Reinado Internacional del Café 2008",
+        "cityId": "lima",
+        "categoryId": "coffee_shops",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Reinado%20Internacional%20del%20Caf%C3%A9%202008%2C%20Lima",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Reinado_Internacional_del_Caf%C3%A9_2008",
+        "photo": null
+      }
+    ],
+    "bookshops": [
+      {
+        "id": "lima-bookshops-1",
+        "name": "University City of the National University of San Marcos",
+        "cityId": "lima",
+        "categoryId": "bookshops",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=University%20City%20of%20the%20National%20University%20of%20San%20Marcos%2C%20Lima",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/University_City_of_the_National_University_of_San_Marcos",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Vista_Aerea_UNMSM.jpg/960px-Vista_Aerea_UNMSM.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/University_City_of_the_National_University_of_San_Marcos"
+        }
+      },
+      {
+        "id": "lima-bookshops-2",
+        "name": "Brett Shingledecker",
+        "cityId": "lima",
+        "categoryId": "bookshops",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Brett%20Shingledecker%2C%20Lima",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Brett_Shingledecker",
+        "photo": null
+      },
+      {
+        "id": "lima-bookshops-3",
+        "name": "Rodjaraeg Wattanapanit",
+        "cityId": "lima",
+        "categoryId": "bookshops",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Rodjaraeg%20Wattanapanit%2C%20Lima",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Rodjaraeg_Wattanapanit",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Rodjaraeg_Wattanapanit-_IWOC_2016.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Rodjaraeg_Wattanapanit"
+        }
+      },
+      {
+        "id": "lima-bookshops-4",
+        "name": "City Lights Bookstore",
+        "cityId": "lima",
+        "categoryId": "bookshops",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=City%20Lights%20Bookstore%2C%20Lima",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/City_Lights_Bookstore",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/City_Lights_Booksellers.jpg/960px-City_Lights_Booksellers.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/City_Lights_Bookstore"
+        }
+      },
+      {
+        "id": "lima-bookshops-5",
+        "name": "Roseville, Minnesota",
+        "cityId": "lima",
+        "categoryId": "bookshops",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Roseville%2C%20Minnesota%2C%20Lima",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Roseville%2C_Minnesota",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Roseville_Public_Library_02.jpg/960px-Roseville_Public_Library_02.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Roseville%2C_Minnesota"
+        }
+      },
+      {
+        "id": "lima-bookshops-6",
+        "name": "Fondo de Cultura Económica",
+        "cityId": "lima",
+        "categoryId": "bookshops",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Fondo%20de%20Cultura%20Econ%C3%B3mica%2C%20Lima",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Fondo_de_Cultura_Econ%C3%B3mica",
+        "photo": null
+      },
+      {
+        "id": "lima-bookshops-7",
+        "name": "BNED",
+        "cityId": "lima",
+        "categoryId": "bookshops",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=BNED%2C%20Lima",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/BNED",
+        "photo": null
+      },
+      {
+        "id": "lima-bookshops-8",
+        "name": "National University of San Marcos",
+        "cityId": "lima",
+        "categoryId": "bookshops",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=National%20University%20of%20San%20Marcos%2C%20Lima",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/National_University_of_San_Marcos",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/UNMSM_coatofarms_seal.svg/960px-UNMSM_coatofarms_seal.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/National_University_of_San_Marcos"
+        }
+      },
+      {
+        "id": "lima-bookshops-9",
+        "name": "Sandro Mariátegui Chiappe",
+        "cityId": "lima",
+        "categoryId": "bookshops",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Sandro%20Mari%C3%A1tegui%20Chiappe%2C%20Lima",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Sandro_Mari%C3%A1tegui_Chiappe",
+        "photo": null
+      },
+      {
+        "id": "lima-bookshops-10",
+        "name": "Club Estudiantes Lau Chun",
+        "cityId": "lima",
+        "categoryId": "bookshops",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Club%20Estudiantes%20Lau%20Chun%2C%20Lima",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Club_Estudiantes_Lau_Chun",
+        "photo": null
+      },
+      {
+        "id": "lima-bookshops-11",
+        "name": "Bagakay",
+        "cityId": "lima",
+        "categoryId": "bookshops",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Bagakay%2C%20Lima",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Bagakay",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Bagakays.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Bagakay"
+        }
+      },
+      {
+        "id": "lima-bookshops-12",
+        "name": "Historic Centre of Lima",
+        "cityId": "lima",
+        "categoryId": "bookshops",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Historic%20Centre%20of%20Lima%2C%20Lima",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Historic_Centre_of_Lima",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Plaza_de_Armas%2C_Lima.jpg/960px-Plaza_de_Armas%2C_Lima.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Historic_Centre_of_Lima"
+        }
+      },
+      {
+        "id": "lima-bookshops-13",
+        "name": "Conjunto Nacional",
+        "cityId": "lima",
+        "categoryId": "bookshops",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Conjunto%20Nacional%2C%20Lima",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Conjunto_Nacional_(S%C3%A3o_Paulo)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/At_Avenida_Paulista%2C_S%C3%A3o_Paulo_2019_24.jpg/960px-At_Avenida_Paulista%2C_S%C3%A3o_Paulo_2019_24.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Conjunto_Nacional_(S%C3%A3o_Paulo)"
+        }
+      },
+      {
+        "id": "lima-bookshops-14",
+        "name": "Kwitang",
+        "cityId": "lima",
+        "categoryId": "bookshops",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Kwitang%2C%20Lima",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Kwitang",
+        "photo": null
+      },
+      {
+        "id": "lima-bookshops-15",
+        "name": "Os Dias Eram Assim",
+        "cityId": "lima",
+        "categoryId": "bookshops",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Os%20Dias%20Eram%20Assim%2C%20Lima",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Os_Dias_Eram_Assim",
+        "photo": null
+      },
+      {
+        "id": "lima-bookshops-16",
+        "name": "Natalie Lima",
+        "cityId": "lima",
+        "categoryId": "bookshops",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Natalie%20Lima%2C%20Lima",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Natalie_Lima",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Natalie_Lima.jpg/960px-Natalie_Lima.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Natalie_Lima"
+        }
+      },
+      {
+        "id": "lima-bookshops-17",
+        "name": "Astoria Bookshop",
+        "cityId": "lima",
+        "categoryId": "bookshops",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Astoria%20Bookshop%2C%20Lima",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Astoria_Bookshop",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Astoria_Bookshop.jpg/960px-Astoria_Bookshop.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Astoria_Bookshop"
+        }
+      },
+      {
+        "id": "lima-bookshops-18",
+        "name": "Yosemite Mountain Sugar Pine Railroad",
+        "cityId": "lima",
+        "categoryId": "bookshops",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Yosemite%20Mountain%20Sugar%20Pine%20Railroad%2C%20Lima",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Yosemite_Mountain_Sugar_Pine_Railroad",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/YMRR.Shops.jpg/960px-YMRR.Shops.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Yosemite_Mountain_Sugar_Pine_Railroad"
+        }
+      }
+    ],
+    "museums": [
+      {
+        "id": "lima-museums-1",
+        "name": "Lima",
+        "cityId": "lima",
+        "categoryId": "museums",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Lima%2C%20Lima",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Lima",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Bas%C3%ADlica_Catedral_Metropolitana_de_Lima_%28cropped%29.jpg/960px-Bas%C3%ADlica_Catedral_Metropolitana_de_Lima_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Lima"
+        }
+      },
+      {
+        "id": "lima-museums-2",
+        "name": "National Stadium of Peru",
+        "cityId": "lima",
+        "categoryId": "museums",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=National%20Stadium%20of%20Peru%2C%20Lima",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/National_Stadium_of_Peru",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/Vista_a%C3%A9rea_del_estadio_nacional_del_Per%C3%BA_%282021%29.jpg/960px-Vista_a%C3%A9rea_del_estadio_nacional_del_Per%C3%BA_%282021%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/National_Stadium_of_Peru"
+        }
+      },
+      {
+        "id": "lima-museums-3",
+        "name": "Puruchuco",
+        "cityId": "lima",
+        "categoryId": "museums",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Puruchuco%2C%20Lima",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Puruchuco",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Puruchuco_Archaeological_site_-_overview.jpg/960px-Puruchuco_Archaeological_site_-_overview.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Puruchuco"
+        }
+      },
+      {
+        "id": "lima-museums-4",
+        "name": "Huaca Pucllana",
+        "cityId": "lima",
+        "categoryId": "museums",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Huaca%20Pucllana%2C%20Lima",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Huaca_Pucllana",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Huaca_Pucllana_Miraflores.jpg/960px-Huaca_Pucllana_Miraflores.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Huaca_Pucllana"
+        }
+      },
+      {
+        "id": "lima-museums-5",
+        "name": "Lima Stock Exchange",
+        "cityId": "lima",
+        "categoryId": "museums",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Lima%20Stock%20Exchange%2C%20Lima",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Lima_Stock_Exchange",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Bolsa_de_Valores_de_Lima_logo.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Lima_Stock_Exchange"
+        }
+      },
+      {
+        "id": "lima-museums-6",
+        "name": "Huaca Huallamarca",
+        "cityId": "lima",
+        "categoryId": "museums",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Huaca%20Huallamarca%2C%20Lima",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Huaca_Huallamarca",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/San_Isidro_Huallamarca_view01.jpg/960px-San_Isidro_Huallamarca_view01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Huaca_Huallamarca"
+        }
+      },
+      {
+        "id": "lima-museums-7",
+        "name": "University of Lima",
+        "cityId": "lima",
+        "categoryId": "museums",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=University%20of%20Lima%2C%20Lima",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/University_of_Lima",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Universidad_de_Lima_logo.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/University_of_Lima"
+        }
+      },
+      {
+        "id": "lima-museums-8",
+        "name": "Larco Museum",
+        "cityId": "lima",
+        "categoryId": "museums",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Larco%20Museum%2C%20Lima",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Larco_Museum",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/Lima_museo_larco.jpg/960px-Lima_museo_larco.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Larco_Museum"
+        }
+      },
+      {
+        "id": "lima-museums-9",
+        "name": "Pachacamac",
+        "cityId": "lima",
+        "categoryId": "museums",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Pachacamac%2C%20Lima",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Pachacamac",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Pachacamac_-_51163366566.jpg/960px-Pachacamac_-_51163366566.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Pachacamac"
+        }
+      },
+      {
+        "id": "lima-museums-10",
+        "name": "Pontifical Catholic University of Peru",
+        "cityId": "lima",
+        "categoryId": "museums",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Pontifical%20Catholic%20University%20of%20Peru%2C%20Lima",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Pontifical_Catholic_University_of_Peru",
+        "photo": null
+      },
+      {
+        "id": "lima-museums-11",
+        "name": "Balconies of Lima",
+        "cityId": "lima",
+        "categoryId": "museums",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Balconies%20of%20Lima%2C%20Lima",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Balconies_of_Lima",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/Palacio_de_Torre_Tagle.JPG/960px-Palacio_de_Torre_Tagle.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Balconies_of_Lima"
+        }
+      },
+      {
+        "id": "lima-museums-12",
+        "name": "National University of San Marcos",
+        "cityId": "lima",
+        "categoryId": "museums",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=National%20University%20of%20San%20Marcos%2C%20Lima",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/National_University_of_San_Marcos",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/UNMSM_coatofarms_seal.svg/960px-UNMSM_coatofarms_seal.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/National_University_of_San_Marcos"
+        }
+      },
+      {
+        "id": "lima-museums-13",
+        "name": "Federico Villarreal National University",
+        "cityId": "lima",
+        "categoryId": "museums",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Federico%20Villarreal%20National%20University%2C%20Lima",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Federico_Villarreal_National_University",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Universidad_Nacional_Federico_Villarreal%2C_Lima.jpg/960px-Universidad_Nacional_Federico_Villarreal%2C_Lima.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Federico_Villarreal_National_University"
+        }
+      },
+      {
+        "id": "lima-museums-14",
+        "name": "Pantanos de Villa Wildlife Refuge",
+        "cityId": "lima",
+        "categoryId": "museums",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Pantanos%20de%20Villa%20Wildlife%20Refuge%2C%20Lima",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Pantanos_de_Villa_Wildlife_Refuge",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/2014_view_of_Laguna_Principal%2C_Refugio_de_Vida_Silvestre_los_Pantanos_de_Villa.jpg/960px-2014_view_of_Laguna_Principal%2C_Refugio_de_Vida_Silvestre_los_Pantanos_de_Villa.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Pantanos_de_Villa_Wildlife_Refuge"
+        }
+      },
+      {
+        "id": "lima-museums-15",
+        "name": "Lachay National Reserve",
+        "cityId": "lima",
+        "categoryId": "museums",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Lachay%20National%20Reserve%2C%20Lima",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Lachay_National_Reserve",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/Lomas_Lachay_1.jpg/960px-Lomas_Lachay_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Lachay_National_Reserve"
+        }
+      },
+      {
+        "id": "lima-museums-16",
+        "name": "Estadio Monumental \"U\"",
+        "cityId": "lima",
+        "categoryId": "museums",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Estadio%20Monumental%20%22U%22%2C%20Lima",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Estadio_Monumental_%22U%22",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Estadio_Monumental_2021.jpg/960px-Estadio_Monumental_2021.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Estadio_Monumental_%22U%22"
+        }
+      },
+      {
+        "id": "lima-museums-17",
+        "name": "Lima Art Museum",
+        "cityId": "lima",
+        "categoryId": "museums",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Lima%20Art%20Museum%2C%20Lima",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Lima_Art_Museum",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Museo_de_Arte_de_Lima.svg/960px-Museo_de_Arte_de_Lima.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Lima_Art_Museum"
+        }
+      },
+      {
+        "id": "lima-museums-18",
+        "name": "National Library of Peru",
+        "cityId": "lima",
+        "categoryId": "museums",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=National%20Library%20of%20Peru%2C%20Lima",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/National_Library_of_Peru",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/91/Logo_de_la_Biblioteca_Nacional_del_Per%C3%BA.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/National_Library_of_Peru"
+        }
+      }
+    ],
+    "concerts": [
+      {
+        "id": "lima-concerts-1",
+        "name": "Teatro Segura",
+        "cityId": "lima",
+        "categoryId": "concerts",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Teatro%20Segura%2C%20Lima",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Teatro_Segura",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/T_MANUEL_SEGURA_%282%29.jpg/960px-T_MANUEL_SEGURA_%282%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Teatro_Segura"
+        }
+      },
+      {
+        "id": "lima-concerts-2",
+        "name": "Teatro Municipal de Lima",
+        "cityId": "lima",
+        "categoryId": "concerts",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Teatro%20Municipal%20de%20Lima%2C%20Lima",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Teatro_Municipal_de_Lima",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/Teatro_municipal_Lima.jpg/960px-Teatro_municipal_Lima.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Teatro_Municipal_de_Lima"
+        }
+      },
+      {
+        "id": "lima-concerts-3",
+        "name": "Gran Teatro Nacional del Perú",
+        "cityId": "lima",
+        "categoryId": "concerts",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Gran%20Teatro%20Nacional%20del%20Per%C3%BA%2C%20Lima",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Gran_Teatro_Nacional_del_Per%C3%BA",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Museo_de_la_Naci%C3%B3n_y_Teatro_Nacional.jpg/960px-Museo_de_la_Naci%C3%B3n_y_Teatro_Nacional.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Gran_Teatro_Nacional_del_Per%C3%BA"
+        }
+      },
+      {
+        "id": "lima-concerts-4",
+        "name": "Aarhus Pride",
+        "cityId": "lima",
+        "categoryId": "concerts",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Aarhus%20Pride%2C%20Lima",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Aarhus_Pride",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Aarhus_Pride%2C_2012%2C_start_of_day.jpg/960px-Aarhus_Pride%2C_2012%2C_start_of_day.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Aarhus_Pride"
+        }
+      },
+      {
+        "id": "lima-concerts-5",
+        "name": "Gilbert Chase",
+        "cityId": "lima",
+        "categoryId": "concerts",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Gilbert%20Chase%2C%20Lima",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Gilbert_Chase",
+        "photo": null
+      },
+      {
+        "id": "lima-concerts-6",
+        "name": "Grimanesa Amorós",
+        "cityId": "lima",
+        "categoryId": "concerts",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Grimanesa%20Amor%C3%B3s%2C%20Lima",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Grimanesa_Amor%C3%B3s",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Grimanesa_Amoros_Uros_Island.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Grimanesa_Amor%C3%B3s"
+        }
+      },
+      {
+        "id": "lima-concerts-7",
+        "name": "Marco Antonio Mazzini",
+        "cityId": "lima",
+        "categoryId": "concerts",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Marco%20Antonio%20Mazzini%2C%20Lima",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Marco_Antonio_Mazzini",
+        "photo": null
+      },
+      {
+        "id": "lima-concerts-8",
+        "name": "Sala São Paulo",
+        "cityId": "lima",
+        "categoryId": "concerts",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Sala%20S%C3%A3o%20Paulo%2C%20Lima",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Sala_S%C3%A3o_Paulo",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Webysther_20150501201754_-_Interior_Sala_S%C3%A3o_Paulo.jpg/960px-Webysther_20150501201754_-_Interior_Sala_S%C3%A3o_Paulo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Sala_S%C3%A3o_Paulo"
+        }
+      },
+      {
+        "id": "lima-concerts-9",
+        "name": "Juan Diego Flórez",
+        "cityId": "lima",
+        "categoryId": "concerts",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Juan%20Diego%20Fl%C3%B3rez%2C%20Lima",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Juan_Diego_Fl%C3%B3rez",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/19/Florez_Juan_Diego-4300_%2816960810518%29_%282%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Juan_Diego_Fl%C3%B3rez"
+        }
+      },
+      {
+        "id": "lima-concerts-10",
+        "name": "San Borja District",
+        "cityId": "lima",
+        "categoryId": "concerts",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=San%20Borja%20District%2C%20Lima",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/San_Borja_District",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/Cuartel_General_del_Ej%C3%A9rcito_del_Per%C3%BA_%28Vista_a%C3%A9rea%29.jpg/960px-Cuartel_General_del_Ej%C3%A9rcito_del_Per%C3%BA_%28Vista_a%C3%A9rea%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/San_Borja_District"
+        }
+      },
+      {
+        "id": "lima-concerts-11",
+        "name": "Arthur Moreira Lima",
+        "cityId": "lima",
+        "categoryId": "concerts",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Arthur%20Moreira%20Lima%2C%20Lima",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Arthur_Moreira_Lima",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/Arthur_Moreira_Lima.jpg/960px-Arthur_Moreira_Lima.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Arthur_Moreira_Lima"
+        }
+      },
+      {
+        "id": "lima-concerts-12",
+        "name": "Csaba Káel",
+        "cityId": "lima",
+        "categoryId": "concerts",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Csaba%20K%C3%A1el%2C%20Lima",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Csaba_K%C3%A1el",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Csaba_K%C3%A1el.jpg/960px-Csaba_K%C3%A1el.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Csaba_K%C3%A1el"
+        }
+      },
+      {
+        "id": "lima-concerts-13",
+        "name": "Memphis Blues Tour",
+        "cityId": "lima",
+        "categoryId": "concerts",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Memphis%20Blues%20Tour%2C%20Lima",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Memphis_Blues_Tour",
+        "photo": null
+      },
+      {
+        "id": "lima-concerts-14",
+        "name": "Ghost of Tom Joad Tour",
+        "cityId": "lima",
+        "categoryId": "concerts",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Ghost%20of%20Tom%20Joad%20Tour%2C%20Lima",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Ghost_of_Tom_Joad_Tour",
+        "photo": null
+      },
+      {
+        "id": "lima-concerts-15",
+        "name": "Ibirapuera Auditorium",
+        "cityId": "lima",
+        "categoryId": "concerts",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Ibirapuera%20Auditorium%2C%20Lima",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Ibirapuera_Auditorium",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/Parque_Ibirapuera%2C_Oscar_Niemeyer_%285877297727%29.jpg/960px-Parque_Ibirapuera%2C_Oscar_Niemeyer_%285877297727%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Ibirapuera_Auditorium"
+        }
+      },
+      {
+        "id": "lima-concerts-16",
+        "name": "Brazilian Symphony Orchestra",
+        "cityId": "lima",
+        "categoryId": "concerts",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Brazilian%20Symphony%20Orchestra%2C%20Lima",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Brazilian_Symphony_Orchestra",
+        "photo": null
+      },
+      {
+        "id": "lima-concerts-17",
+        "name": "Svetlana Smolina",
+        "cityId": "lima",
+        "categoryId": "concerts",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Svetlana%20Smolina%2C%20Lima",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Svetlana_Smolina",
+        "photo": null
+      },
+      {
+        "id": "lima-concerts-18",
+        "name": "National Theatre",
+        "cityId": "lima",
+        "categoryId": "concerts",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=National%20Theatre%2C%20Lima",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/National_Theatre",
+        "photo": null
+      }
+    ],
+    "fashion": [
+      {
+        "id": "lima-fashion-1",
+        "name": "S.A.C.I. Falabella",
+        "cityId": "lima",
+        "categoryId": "fashion",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=S.A.C.I.%20Falabella%2C%20Lima",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/S.A.C.I._Falabella",
+        "photo": null
+      },
+      {
+        "id": "lima-fashion-2",
+        "name": "Historic Centre of Lima",
+        "cityId": "lima",
+        "categoryId": "fashion",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Historic%20Centre%20of%20Lima%2C%20Lima",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Historic_Centre_of_Lima",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Plaza_de_Armas%2C_Lima.jpg/960px-Plaza_de_Armas%2C_Lima.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Historic_Centre_of_Lima"
+        }
+      },
+      {
+        "id": "lima-fashion-3",
+        "name": "Aero",
+        "cityId": "lima",
+        "categoryId": "fashion",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Aero%2C%20Lima",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Aero",
+        "photo": null
+      },
+      {
+        "id": "lima-fashion-4",
+        "name": "Previously Unaired Christmas",
+        "cityId": "lima",
+        "categoryId": "fashion",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Previously%20Unaired%20Christmas%2C%20Lima",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Previously_Unaired_Christmas",
+        "photo": null
+      },
+      {
+        "id": "lima-fashion-5",
+        "name": "Cristina Ferreira",
+        "cityId": "lima",
+        "categoryId": "fashion",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Cristina%20Ferreira%2C%20Lima",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Cristina_Ferreira",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Cristina_Ferreira_-_Web_Summit_2026_%2810%29_%28cropped%29.jpg/960px-Cristina_Ferreira_-_Web_Summit_2026_%2810%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Cristina_Ferreira"
+        }
+      },
+      {
+        "id": "lima-fashion-6",
+        "name": "Nicole Moreno",
+        "cityId": "lima",
+        "categoryId": "fashion",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Nicole%20Moreno%2C%20Lima",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Nicole_Moreno",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/Copihue_de_Oro_2018_-_Nicole_Moreno_-_02.jpg/960px-Copihue_de_Oro_2018_-_Nicole_Moreno_-_02.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Nicole_Moreno"
+        }
+      },
+      {
+        "id": "lima-fashion-7",
+        "name": "Lazarus",
+        "cityId": "lima",
+        "categoryId": "fashion",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Lazarus%2C%20Lima",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Lazarus_(department_store)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/Lazarus_downtown_01.jpg/960px-Lazarus_downtown_01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Lazarus_(department_store)"
+        }
+      },
+      {
+        "id": "lima-fashion-8",
+        "name": "Ana Hickmann",
+        "cityId": "lima",
+        "categoryId": "fashion",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Ana%20Hickmann%2C%20Lima",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Ana_Hickmann",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Senado_Federal_65_anos_TV_Record_15_Ana_Hickmann.jpg/960px-Senado_Federal_65_anos_TV_Record_15_Ana_Hickmann.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Ana_Hickmann"
+        }
+      },
+      {
+        "id": "lima-fashion-9",
+        "name": "Lívia Andrade",
+        "cityId": "lima",
+        "categoryId": "fashion",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=L%C3%ADvia%20Andrade%2C%20Lima",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/L%C3%ADvia_Andrade",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Live_Casa_Mimosa_-_Participa%C3%A7%C3%A3o_Livia_Andrade_%28cropped%29.jpg/960px-Live_Casa_Mimosa_-_Participa%C3%A7%C3%A3o_Livia_Andrade_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/L%C3%ADvia_Andrade"
+        }
+      },
+      {
+        "id": "lima-fashion-10",
+        "name": "RBD",
+        "cityId": "lima",
+        "categoryId": "fashion",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=RBD%2C%20Lima",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/RBD",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Soy_Rebelde_Tour_-_Rio_de_Janeiro_-_Nov_10%2C_2023_-_53332493867.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/RBD"
+        }
+      },
+      {
+        "id": "lima-fashion-11",
+        "name": "Bandung",
+        "cityId": "lima",
+        "categoryId": "fashion",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Bandung%2C%20Lima",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Bandung",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Bandung_View_dari_Gedung_Wisma_HSBC_Asia_Afrika_4.jpg/960px-Bandung_View_dari_Gedung_Wisma_HSBC_Asia_Afrika_4.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Bandung"
+        }
+      },
+      {
+        "id": "lima-fashion-12",
+        "name": "Gretchen",
+        "cityId": "lima",
+        "categoryId": "fashion",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Gretchen%2C%20Lima",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Gretchen_(singer)",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Gretchen_cantora_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Gretchen_(singer)"
+        }
+      },
+      {
+        "id": "lima-fashion-13",
+        "name": "Joseph Filkowski",
+        "cityId": "lima",
+        "categoryId": "fashion",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Joseph%20Filkowski%2C%20Lima",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Joseph_Filkowski",
+        "photo": null
+      },
+      {
+        "id": "lima-fashion-14",
+        "name": "The Bachelor (American TV series) season 18",
+        "cityId": "lima",
+        "categoryId": "fashion",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Bachelor%20(American%20TV%20series)%20season%2018%2C%20Lima",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/The_Bachelor_(American_TV_series)_season_18",
+        "photo": null
+      },
+      {
+        "id": "lima-fashion-15",
+        "name": "Double-decker bus",
+        "cityId": "lima",
+        "categoryId": "fashion",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Double-decker%20bus%2C%20Lima",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Double-decker_bus",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/Abellio_LT157_%28LTZ1157%29_Holborn_Viaduct_20.01.2024.jpg/960px-Abellio_LT157_%28LTZ1157%29_Holborn_Viaduct_20.01.2024.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Double-decker_bus"
+        }
+      },
+      {
+        "id": "lima-fashion-16",
+        "name": "Quebonafide",
+        "cityId": "lima",
+        "categoryId": "fashion",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Quebonafide%2C%20Lima",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Quebonafide",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Taconafide-2018-04-21-0024_%28cropped%29.jpg/960px-Taconafide-2018-04-21-0024_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Quebonafide"
+        }
+      },
+      {
+        "id": "lima-fashion-17",
+        "name": "Big Brother",
+        "cityId": "lima",
+        "categoryId": "fashion",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Big%20Brother%2C%20Lima",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Big_Brother_(Portuguese_TV_series)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/BB_All_Stars_2026_Logotipo.png/960px-BB_All_Stars_2026_Logotipo.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Big_Brother_(Portuguese_TV_series)"
+        }
+      },
+      {
+        "id": "lima-fashion-18",
+        "name": "Cincinnati Union Terminal",
+        "cityId": "lima",
+        "categoryId": "fashion",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Cincinnati%20Union%20Terminal%2C%20Lima",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Cincinnati_Union_Terminal",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/CMC-Union_Terminal.jpg/960px-CMC-Union_Terminal.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Cincinnati_Union_Terminal"
+        }
+      }
+    ],
+    "shops": [
+      {
+        "id": "lima-shops-1",
+        "name": "Kewpee",
+        "cityId": "lima",
+        "categoryId": "shops",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Kewpee%2C%20Lima",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Kewpee",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/OutsidePro.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Kewpee"
+        }
+      },
+      {
+        "id": "lima-shops-2",
+        "name": "Lima, Ohio",
+        "cityId": "lima",
+        "categoryId": "shops",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Lima%2C%20Ohio%2C%20Lima",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Lima%2C_Ohio",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Lima_public_square.jpg/960px-Lima_public_square.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Lima%2C_Ohio"
+        }
+      },
+      {
+        "id": "lima-shops-3",
+        "name": "Wilson's Sandwich Shop",
+        "cityId": "lima",
+        "categoryId": "shops",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Wilson's%20Sandwich%20Shop%2C%20Lima",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Wilson's_Sandwich_Shop",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/Wilson%27s_Sandwich_Shop.jpg/960px-Wilson%27s_Sandwich_Shop.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Wilson's_Sandwich_Shop"
+        }
+      },
+      {
+        "id": "lima-shops-4",
+        "name": "Klaus Block",
+        "cityId": "lima",
+        "categoryId": "shops",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Klaus%20Block%2C%20Lima",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Klaus_Block",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Klaus_Block%2C_Lima.jpg/960px-Klaus_Block%2C_Lima.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Klaus_Block"
+        }
+      },
+      {
+        "id": "lima-shops-5",
+        "name": "Baldwin Locomotive Works",
+        "cityId": "lima",
+        "categoryId": "shops",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Baldwin%20Locomotive%20Works%2C%20Lima",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Baldwin_Locomotive_Works",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/87/Baldwin_builder%27s_plate.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Baldwin_Locomotive_Works"
+        }
+      },
+      {
+        "id": "lima-shops-6",
+        "name": "Parrillas One",
+        "cityId": "lima",
+        "categoryId": "shops",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Parrillas%20One%2C%20Lima",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Parrillas_One",
+        "photo": null
+      },
+      {
+        "id": "lima-shops-7",
+        "name": "Geared steam locomotive",
+        "cityId": "lima",
+        "categoryId": "shops",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Geared%20steam%20locomotive%2C%20Lima",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Geared_steam_locomotive",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c4/ClassCShaySonoraJuly2006.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Geared_steam_locomotive"
+        }
+      },
+      {
+        "id": "lima-shops-8",
+        "name": "Five-foot way",
+        "cityId": "lima",
+        "categoryId": "shops",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Five-foot%20way%2C%20Lima",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Five-foot_way",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/Five_foot_way_in_George_Town%2C_Penang.jpg/960px-Five_foot_way_in_George_Town%2C_Penang.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Five-foot_way"
+        }
+      },
+      {
+        "id": "lima-shops-9",
+        "name": "Lima Locomotive Works",
+        "cityId": "lima",
+        "categoryId": "shops",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Lima%20Locomotive%20Works%2C%20Lima",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Lima_Locomotive_Works",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/be/Lima_builder%27s_plate.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Lima_Locomotive_Works"
+        }
+      },
+      {
+        "id": "lima-shops-10",
+        "name": "Shay locomotive",
+        "cityId": "lima",
+        "categoryId": "shops",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Shay%20locomotive%2C%20Lima",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Shay_locomotive",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c4/ClassCShaySonoraJuly2006.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Shay_locomotive"
+        }
+      },
+      {
+        "id": "lima-shops-11",
+        "name": "Georgina von Etzdorf",
+        "cityId": "lima",
+        "categoryId": "shops",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Georgina%20von%20Etzdorf%2C%20Lima",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Georgina_von_Etzdorf",
+        "photo": null
+      },
+      {
+        "id": "lima-shops-12",
+        "name": "RSS Formidable",
+        "cityId": "lima",
+        "categoryId": "shops",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=RSS%20Formidable%2C%20Lima",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/RSS_Formidable",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/RSS_Formidable_%2868%29_and_INS_Brahmaputra_%28F_31%29.jpg/960px-RSS_Formidable_%2868%29_and_INS_Brahmaputra_%28F_31%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/RSS_Formidable"
+        }
+      },
+      {
+        "id": "lima-shops-13",
+        "name": "Jorge Chávez International Airport",
+        "cityId": "lima",
+        "categoryId": "shops",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Jorge%20Ch%C3%A1vez%20International%20Airport%2C%20Lima",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Jorge_Ch%C3%A1vez_International_Airport",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/11/Lima_Airport_logotipo.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Jorge_Ch%C3%A1vez_International_Airport"
+        }
+      },
+      {
+        "id": "lima-shops-14",
+        "name": "Larco Museum",
+        "cityId": "lima",
+        "categoryId": "shops",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Larco%20Museum%2C%20Lima",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Larco_Museum",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/Lima_museo_larco.jpg/960px-Lima_museo_larco.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Larco_Museum"
+        }
+      },
+      {
+        "id": "lima-shops-15",
+        "name": "Sergio Barreda",
+        "cityId": "lima",
+        "categoryId": "shops",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Sergio%20Barreda%2C%20Lima",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Sergio_Barreda",
+        "photo": null
+      },
+      {
+        "id": "lima-shops-16",
+        "name": "Interbank",
+        "cityId": "lima",
+        "categoryId": "shops",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Interbank%2C%20Lima",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Interbank",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Torre_de_noche.jpg/960px-Torre_de_noche.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Interbank"
+        }
+      },
+      {
+        "id": "lima-shops-17",
+        "name": "Pet Shop Boys",
+        "cityId": "lima",
+        "categoryId": "shops",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Pet%20Shop%20Boys%2C%20Lima",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Pet_Shop_Boys",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/86/Pet_Shop_Boys_interview_2013_still.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Pet_Shop_Boys"
+        }
+      },
+      {
+        "id": "lima-shops-18",
+        "name": "Anarchism in Peru",
+        "cityId": "lima",
+        "categoryId": "shops",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Anarchism%20in%20Peru%2C%20Lima",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Anarchism_in_Peru",
+        "photo": null
+      }
+    ]
+  }
+}

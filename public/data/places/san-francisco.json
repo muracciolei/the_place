@@ -1,12 +1,8 @@
 {
   "cityId": "san-francisco",
-  "generatedAt": "2026-11-27T08:54:24.262Z",
+  "generatedAt": "2026-11-27T09:29:17.728Z",
   "source": "Wikipedia API + Maps URLs (sin scraping de Google)",
-  "incomplete": [
-    "restaurants",
-    "bars",
-    "coffee_shops"
-  ],
+  "incomplete": [],
   "categories": {
     "night_clubs": [
       {
@@ -263,9 +259,796 @@
         }
       }
     ],
-    "restaurants": [],
-    "bars": [],
-    "coffee_shops": [],
+    "restaurants": [
+      {
+        "id": "san-francisco-restaurants-1",
+        "name": "Paragon",
+        "cityId": "san-francisco",
+        "categoryId": "restaurants",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Paragon%2C%20San%20Francisco",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Paragon_(restaurant)",
+        "photo": null
+      },
+      {
+        "id": "san-francisco-restaurants-2",
+        "name": "Tadich Grill",
+        "cityId": "san-francisco",
+        "categoryId": "restaurants",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Tadich%20Grill%2C%20San%20Francisco",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Tadich_Grill",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Tadich_Grill%2C_San_Francisco%2C_California_-_Stierch.jpg/960px-Tadich_Grill%2C_San_Francisco%2C_California_-_Stierch.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Tadich_Grill"
+        }
+      },
+      {
+        "id": "san-francisco-restaurants-3",
+        "name": "Tonga Room",
+        "cityId": "san-francisco",
+        "categoryId": "restaurants",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Tonga%20Room%2C%20San%20Francisco",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Tonga_Room",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Tonga_Room_window_display.jpg/960px-Tonga_Room_window_display.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Tonga_Room"
+        }
+      },
+      {
+        "id": "san-francisco-restaurants-4",
+        "name": "Kimpton Hotels & Restaurants",
+        "cityId": "san-francisco",
+        "categoryId": "restaurants",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Kimpton%20Hotels%20%26%20Restaurants%2C%20San%20Francisco",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Kimpton_Hotels_%26_Restaurants",
+        "photo": null
+      },
+      {
+        "id": "san-francisco-restaurants-5",
+        "name": "Buena Vista Cafe",
+        "cityId": "san-francisco",
+        "categoryId": "restaurants",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Buena%20Vista%20Cafe%2C%20San%20Francisco",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Buena_Vista_Cafe",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Buena_Vista_Cafe%2C_exterior%2C_San_Francisco_%28May_2025%29_03.jpg/960px-Buena_Vista_Cafe%2C_exterior%2C_San_Francisco_%28May_2025%29_03.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Buena_Vista_Cafe"
+        }
+      },
+      {
+        "id": "san-francisco-restaurants-6",
+        "name": "Sam Wo",
+        "cityId": "san-francisco",
+        "categoryId": "restaurants",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Sam%20Wo%2C%20San%20Francisco",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Sam_Wo",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/New_Sam_Wo_location_on_Clay_St.jpg/960px-New_Sam_Wo_location_on_Clay_St.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Sam_Wo"
+        }
+      },
+      {
+        "id": "san-francisco-restaurants-7",
+        "name": "Greens Restaurant",
+        "cityId": "san-francisco",
+        "categoryId": "restaurants",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Greens%20Restaurant%2C%20San%20Francisco",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Greens_Restaurant",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Greens_Restaurant-view.jpg/960px-Greens_Restaurant-view.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Greens_Restaurant"
+        }
+      },
+      {
+        "id": "san-francisco-restaurants-8",
+        "name": "Jack's Restaurant",
+        "cityId": "san-francisco",
+        "categoryId": "restaurants",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Jack's%20Restaurant%2C%20San%20Francisco",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Jack's_Restaurant",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/Jeanty_at_Jack%27s_front.JPG/960px-Jeanty_at_Jack%27s_front.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Jack's_Restaurant"
+        }
+      },
+      {
+        "id": "san-francisco-restaurants-9",
+        "name": "Stars",
+        "cityId": "san-francisco",
+        "categoryId": "restaurants",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Stars%2C%20San%20Francisco",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Stars_(restaurant)",
+        "photo": null
+      },
+      {
+        "id": "san-francisco-restaurants-10",
+        "name": "Forbes Island",
+        "cityId": "san-francisco",
+        "categoryId": "restaurants",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Forbes%20Island%2C%20San%20Francisco",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Forbes_Island",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Forbes_Island%2C_California%2C_February_2021.jpg/960px-Forbes_Island%2C_California%2C_February_2021.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Forbes_Island"
+        }
+      },
+      {
+        "id": "san-francisco-restaurants-11",
+        "name": "The Stinking Rose",
+        "cityId": "san-francisco",
+        "categoryId": "restaurants",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Stinking%20Rose%2C%20San%20Francisco",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/The_Stinking_Rose",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Tsr.jpg/960px-Tsr.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/The_Stinking_Rose"
+        }
+      },
+      {
+        "id": "san-francisco-restaurants-12",
+        "name": "Quince",
+        "cityId": "san-francisco",
+        "categoryId": "restaurants",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Quince%2C%20San%20Francisco",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Quince_(restaurant)",
+        "photo": null
+      },
+      {
+        "id": "san-francisco-restaurants-13",
+        "name": "Californios",
+        "cityId": "san-francisco",
+        "categoryId": "restaurants",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Californios%2C%20San%20Francisco",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Californios_(restaurant)",
+        "photo": null
+      },
+      {
+        "id": "san-francisco-restaurants-14",
+        "name": "Saison",
+        "cityId": "san-francisco",
+        "categoryId": "restaurants",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Saison%2C%20San%20Francisco",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Saison_(restaurant)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Saison_in_San_Francisco_-_July_2026.jpg/960px-Saison_in_San_Francisco_-_July_2026.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Saison_(restaurant)"
+        }
+      },
+      {
+        "id": "san-francisco-restaurants-15",
+        "name": "OpenTable",
+        "cityId": "san-francisco",
+        "categoryId": "restaurants",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=OpenTable%2C%20San%20Francisco",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/OpenTable",
+        "photo": null
+      },
+      {
+        "id": "san-francisco-restaurants-16",
+        "name": "Benu",
+        "cityId": "san-francisco",
+        "categoryId": "restaurants",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Benu%2C%20San%20Francisco",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Benu_(restaurant)",
+        "photo": null
+      },
+      {
+        "id": "san-francisco-restaurants-17",
+        "name": "Sons & Daughters",
+        "cityId": "san-francisco",
+        "categoryId": "restaurants",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Sons%20%26%20Daughters%2C%20San%20Francisco",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Sons_%26_Daughters_(restaurant)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Sons_%26_Daughters.jpg/960px-Sons_%26_Daughters.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Sons_%26_Daughters_(restaurant)"
+        }
+      },
+      {
+        "id": "san-francisco-restaurants-18",
+        "name": "Thomas Keller",
+        "cityId": "san-francisco",
+        "categoryId": "restaurants",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Thomas%20Keller%2C%20San%20Francisco",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Thomas_Keller",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/93/Thomas_Keller.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Thomas_Keller"
+        }
+      }
+    ],
+    "bars": [
+      {
+        "id": "san-francisco-bars-1",
+        "name": "Tonga Room",
+        "cityId": "san-francisco",
+        "categoryId": "bars",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Tonga%20Room%2C%20San%20Francisco",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Tonga_Room",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Tonga_Room_window_display.jpg/960px-Tonga_Room_window_display.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Tonga_Room"
+        }
+      },
+      {
+        "id": "san-francisco-bars-2",
+        "name": "Paragon",
+        "cityId": "san-francisco",
+        "categoryId": "bars",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Paragon%2C%20San%20Francisco",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Paragon_(restaurant)",
+        "photo": null
+      },
+      {
+        "id": "san-francisco-bars-3",
+        "name": "The Stud",
+        "cityId": "san-francisco",
+        "categoryId": "bars",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Stud%2C%20San%20Francisco",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/The_Stud_(bar)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/The_Stud_bar_in_San_Francisco_-_mural.jpg/960px-The_Stud_bar_in_San_Francisco_-_mural.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/The_Stud_(bar)"
+        }
+      },
+      {
+        "id": "san-francisco-bars-4",
+        "name": "San Francisco Law School",
+        "cityId": "san-francisco",
+        "categoryId": "bars",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=San%20Francisco%20Law%20School%2C%20San%20Francisco",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/San_Francisco_Law_School",
+        "photo": null
+      },
+      {
+        "id": "san-francisco-bars-5",
+        "name": "San Francisco Eagle",
+        "cityId": "san-francisco",
+        "categoryId": "bars",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=San%20Francisco%20Eagle%2C%20San%20Francisco",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/San_Francisco_Eagle",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/San_Francisco_Eagle_Bar_against_a_cloudy_San_Francisco_day_%28cropped%29.jpg/960px-San_Francisco_Eagle_Bar_against_a_cloudy_San_Francisco_day_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/San_Francisco_Eagle"
+        }
+      },
+      {
+        "id": "san-francisco-bars-6",
+        "name": "Masa's Wine Bar & Kitchen",
+        "cityId": "san-francisco",
+        "categoryId": "bars",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Masa's%20Wine%20Bar%20%26%20Kitchen%2C%20San%20Francisco",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Masa's_Wine_Bar_%26_Kitchen",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Masa%27s_Restaurant_-_matchbook.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Masa's_Wine_Bar_%26_Kitchen"
+        }
+      },
+      {
+        "id": "san-francisco-bars-7",
+        "name": "Top of the Mark",
+        "cityId": "san-francisco",
+        "categoryId": "bars",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Top%20of%20the%20Mark%2C%20San%20Francisco",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Top_of_the_Mark",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Top_of_the_Mark_%2816683414895%29.jpg/960px-Top_of_the_Mark_%2816683414895%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Top_of_the_Mark"
+        }
+      },
+      {
+        "id": "san-francisco-bars-8",
+        "name": "Vesuvio Cafe",
+        "cityId": "san-francisco",
+        "categoryId": "bars",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Vesuvio%20Cafe%2C%20San%20Francisco",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Vesuvio_Cafe",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Vesuvio_mural.jpg/960px-Vesuvio_mural.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Vesuvio_Cafe"
+        }
+      },
+      {
+        "id": "san-francisco-bars-9",
+        "name": "Peg's Place",
+        "cityId": "san-francisco",
+        "categoryId": "bars",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Peg's%20Place%2C%20San%20Francisco",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Peg's_Place_(bar)",
+        "photo": null
+      },
+      {
+        "id": "san-francisco-bars-10",
+        "name": "Dino and Carlo's",
+        "cityId": "san-francisco",
+        "categoryId": "bars",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Dino%20and%20Carlo's%2C%20San%20Francisco",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Dino_and_Carlo's",
+        "photo": null
+      },
+      {
+        "id": "san-francisco-bars-11",
+        "name": "University of San Francisco School of Law",
+        "cityId": "san-francisco",
+        "categoryId": "bars",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=University%20of%20San%20Francisco%20School%20of%20Law%2C%20San%20Francisco",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/University_of_San_Francisco_School_of_Law",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/USF_Law_logo.png/960px-USF_Law_logo.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/University_of_San_Francisco_School_of_Law"
+        }
+      },
+      {
+        "id": "san-francisco-bars-12",
+        "name": "Washington Square Bar and Grill",
+        "cityId": "san-francisco",
+        "categoryId": "bars",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Washington%20Square%20Bar%20and%20Grill%2C%20San%20Francisco",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Washington_Square_Bar_and_Grill",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Washington_Square_Bar_and_Grill.jpg/960px-Washington_Square_Bar_and_Grill.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Washington_Square_Bar_and_Grill"
+        }
+      },
+      {
+        "id": "san-francisco-bars-13",
+        "name": "Gary Brown",
+        "cityId": "san-francisco",
+        "categoryId": "bars",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Gary%20Brown%2C%20San%20Francisco",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Gary_Brown_(baseball)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Gary_Brown.jpg/960px-Gary_Brown.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Gary_Brown_(baseball)"
+        }
+      },
+      {
+        "id": "san-francisco-bars-14",
+        "name": "Maud's",
+        "cityId": "san-francisco",
+        "categoryId": "bars",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Maud's%2C%20San%20Francisco",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Maud's_(bar)",
+        "photo": null
+      },
+      {
+        "id": "san-francisco-bars-15",
+        "name": "Comstock Saloon",
+        "cityId": "san-francisco",
+        "categoryId": "bars",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Comstock%20Saloon%2C%20San%20Francisco",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Comstock_Saloon",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Comstock_Saloon.jpg/960px-Comstock_Saloon.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Comstock_Saloon"
+        }
+      },
+      {
+        "id": "san-francisco-bars-16",
+        "name": "LGBTQ culture in San Francisco",
+        "cityId": "san-francisco",
+        "categoryId": "bars",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=LGBTQ%20culture%20in%20San%20Francisco%2C%20San%20Francisco",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/LGBTQ_culture_in_San_Francisco",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/Castro_street_theatre.JPG/960px-Castro_street_theatre.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/LGBTQ_culture_in_San_Francisco"
+        }
+      },
+      {
+        "id": "san-francisco-bars-17",
+        "name": "Leather subculture",
+        "cityId": "san-francisco",
+        "categoryId": "bars",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Leather%20subculture%2C%20San%20Francisco",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Leather_subculture",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/Leather%2C_Latex%2C_and_BDSM_pride.svg/960px-Leather%2C_Latex%2C_and_BDSM_pride.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Leather_subculture"
+        }
+      },
+      {
+        "id": "san-francisco-bars-18",
+        "name": "Bay Area Reporter",
+        "cityId": "san-francisco",
+        "categoryId": "bars",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Bay%20Area%20Reporter%2C%20San%20Francisco",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Bay_Area_Reporter",
+        "photo": null
+      }
+    ],
+    "coffee_shops": [
+      {
+        "id": "san-francisco-coffee_shops-1",
+        "name": "Buena Vista Cafe",
+        "cityId": "san-francisco",
+        "categoryId": "coffee_shops",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Buena%20Vista%20Cafe%2C%20San%20Francisco",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Buena_Vista_Cafe",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Buena_Vista_Cafe%2C_exterior%2C_San_Francisco_%28May_2025%29_03.jpg/960px-Buena_Vista_Cafe%2C_exterior%2C_San_Francisco_%28May_2025%29_03.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Buena_Vista_Cafe"
+        }
+      },
+      {
+        "id": "san-francisco-coffee_shops-2",
+        "name": "Vesuvio Cafe",
+        "cityId": "san-francisco",
+        "categoryId": "coffee_shops",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Vesuvio%20Cafe%2C%20San%20Francisco",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Vesuvio_Cafe",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Vesuvio_mural.jpg/960px-Vesuvio_mural.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Vesuvio_Cafe"
+        }
+      },
+      {
+        "id": "san-francisco-coffee_shops-3",
+        "name": "Cafe Du Nord",
+        "cityId": "san-francisco",
+        "categoryId": "coffee_shops",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Cafe%20Du%20Nord%2C%20San%20Francisco",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Cafe_Du_Nord",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/07/Main_entrance_to_Cafe_Du_Nord_cropped.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Cafe_Du_Nord"
+        }
+      },
+      {
+        "id": "san-francisco-coffee_shops-4",
+        "name": "Zuni Café",
+        "cityId": "san-francisco",
+        "categoryId": "coffee_shops",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Zuni%20Caf%C3%A9%2C%20San%20Francisco",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Zuni_Caf%C3%A9",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Zuni_Cafe_in_San_Francisco.jpg/960px-Zuni_Cafe_in_San_Francisco.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Zuni_Caf%C3%A9"
+        }
+      },
+      {
+        "id": "san-francisco-coffee_shops-5",
+        "name": "American Zoetrope",
+        "cityId": "san-francisco",
+        "categoryId": "coffee_shops",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=American%20Zoetrope%2C%20San%20Francisco",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/American_Zoetrope",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Cafe_Zoetrope_Building.jpg/960px-Cafe_Zoetrope_Building.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/American_Zoetrope"
+        }
+      },
+      {
+        "id": "san-francisco-coffee_shops-6",
+        "name": "Caffe Trieste",
+        "cityId": "san-francisco",
+        "categoryId": "coffee_shops",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Caffe%20Trieste%2C%20San%20Francisco",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Caffe_Trieste",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Caffe_trieste_%287793058868%29.jpg/960px-Caffe_trieste_%287793058868%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Caffe_Trieste"
+        }
+      },
+      {
+        "id": "san-francisco-coffee_shops-7",
+        "name": "John C. Baez",
+        "cityId": "san-francisco",
+        "categoryId": "coffee_shops",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=John%20C.%20Baez%2C%20San%20Francisco",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/John_C._Baez",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/John_Baez%2C_physicist_%282009%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/John_C._Baez"
+        }
+      },
+      {
+        "id": "san-francisco-coffee_shops-8",
+        "name": "Sweetwater Saloon",
+        "cityId": "san-francisco",
+        "categoryId": "coffee_shops",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Sweetwater%20Saloon%2C%20San%20Francisco",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Sweetwater_Saloon",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Sweetwater_Saloon_in_Mill_Valley_2004.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Sweetwater_Saloon"
+        }
+      },
+      {
+        "id": "san-francisco-coffee_shops-9",
+        "name": "Mel's Drive-In",
+        "cityId": "san-francisco",
+        "categoryId": "coffee_shops",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Mel's%20Drive-In%2C%20San%20Francisco",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Mel's_Drive-In",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/be/Mel%27s_Drive-In_neon_sign_cropped_and_cleaned_up.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Mel's_Drive-In"
+        }
+      },
+      {
+        "id": "san-francisco-coffee_shops-10",
+        "name": "Enrico Banducci",
+        "cityId": "san-francisco",
+        "categoryId": "coffee_shops",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Enrico%20Banducci%2C%20San%20Francisco",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Enrico_Banducci",
+        "photo": null
+      },
+      {
+        "id": "san-francisco-coffee_shops-11",
+        "name": "Stars",
+        "cityId": "san-francisco",
+        "categoryId": "coffee_shops",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Stars%2C%20San%20Francisco",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Stars_(restaurant)",
+        "photo": null
+      },
+      {
+        "id": "san-francisco-coffee_shops-12",
+        "name": "DNA Lounge",
+        "cityId": "san-francisco",
+        "categoryId": "coffee_shops",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=DNA%20Lounge%2C%20San%20Francisco",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/DNA_Lounge",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/DNA_Lounge_daytime.jpg/960px-DNA_Lounge_daytime.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/DNA_Lounge"
+        }
+      },
+      {
+        "id": "san-francisco-coffee_shops-13",
+        "name": "Bob Ayres",
+        "cityId": "san-francisco",
+        "categoryId": "coffee_shops",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Bob%20Ayres%2C%20San%20Francisco",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Bob_Ayres",
+        "photo": null
+      },
+      {
+        "id": "san-francisco-coffee_shops-14",
+        "name": "Belden Place",
+        "cityId": "san-francisco",
+        "categoryId": "coffee_shops",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Belden%20Place%2C%20San%20Francisco",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Belden_Place",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Belden_Place_-_Street_Sign_and_Sam%27s_Grill_Neon_Sign.jpg/960px-Belden_Place_-_Street_Sign_and_Sam%27s_Grill_Neon_Sign.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Belden_Place"
+        }
+      },
+      {
+        "id": "san-francisco-coffee_shops-15",
+        "name": "Columbus Tower",
+        "cityId": "san-francisco",
+        "categoryId": "coffee_shops",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Columbus%20Tower%2C%20San%20Francisco",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Columbus_Tower_(San_Francisco)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Columbus_Tower%2C_916_Kearny_St%2C_San_Francisco.jpg/960px-Columbus_Tower%2C_916_Kearny_St%2C_San_Francisco.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Columbus_Tower_(San_Francisco)"
+        }
+      },
+      {
+        "id": "san-francisco-coffee_shops-16",
+        "name": "San Francisco crime family",
+        "cityId": "san-francisco",
+        "categoryId": "coffee_shops",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=San%20Francisco%20crime%20family%2C%20San%20Francisco",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/San_Francisco_crime_family",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/San_Francisco_crime_family_James_Lanza.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/San_Francisco_crime_family"
+        }
+      },
+      {
+        "id": "san-francisco-coffee_shops-17",
+        "name": "Ruth Asawa San Francisco School of the Arts",
+        "cityId": "san-francisco",
+        "categoryId": "coffee_shops",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Ruth%20Asawa%20San%20Francisco%20School%20of%20the%20Arts%2C%20San%20Francisco",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Ruth_Asawa_San_Francisco_School_of_the_Arts",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/04/LOGO_Ruth_Asawa_School_of_the_Arts.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Ruth_Asawa_San_Francisco_School_of_the_Arts"
+        }
+      },
+      {
+        "id": "san-francisco-coffee_shops-18",
+        "name": "Docks of San Francisco",
+        "cityId": "san-francisco",
+        "categoryId": "coffee_shops",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Docks%20of%20San%20Francisco%2C%20San%20Francisco",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Docks_of_San_Francisco",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Docks_of_San_Francisco_FilmPoster.jpeg/960px-Docks_of_San_Francisco_FilmPoster.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Docks_of_San_Francisco"
+        }
+      }
+    ],
     "bookshops": [
       {
         "id": "san-francisco-bookshops-1",

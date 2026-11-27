@@ -1,0 +1,2288 @@
+{
+  "cityId": "istanbul",
+  "generatedAt": "2026-11-27T09:36:12.759Z",
+  "source": "Wikipedia API + Maps URLs (sin scraping de Google)",
+  "incomplete": [],
+  "categories": {
+    "night_clubs": [
+      {
+        "id": "istanbul-night_clubs-1",
+        "name": "Zeytinburnu",
+        "cityId": "istanbul",
+        "categoryId": "night_clubs",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Zeytinburnu%2C%20Istanbul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Zeytinburnu",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Zeytinburnu-Hatboyu.JPG/960px-Zeytinburnu-Hatboyu.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Zeytinburnu"
+        }
+      },
+      {
+        "id": "istanbul-night_clubs-2",
+        "name": "Kirazlı station",
+        "cityId": "istanbul",
+        "categoryId": "night_clubs",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Kirazl%C4%B1%20station%2C%20Istanbul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Kirazl%C4%B1_station",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Kirazl%C4%B1_Metro_%C4%B0stasyonu_M1%CA%99_2024.jpg/960px-Kirazl%C4%B1_Metro_%C4%B0stasyonu_M1%CA%99_2024.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Kirazl%C4%B1_station"
+        }
+      },
+      {
+        "id": "istanbul-night_clubs-3",
+        "name": "March 2016 Istanbul bombing",
+        "cityId": "istanbul",
+        "categoryId": "night_clubs",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=March%202016%20Istanbul%20bombing%2C%20Istanbul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/March_2016_Istanbul_bombing",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/Demir%C3%B6renShoppingMall01.JPG/960px-Demir%C3%B6renShoppingMall01.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/March_2016_Istanbul_bombing"
+        }
+      },
+      {
+        "id": "istanbul-night_clubs-4",
+        "name": "2017 in Turkey",
+        "cityId": "istanbul",
+        "categoryId": "night_clubs",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=2017%20in%20Turkey%2C%20Istanbul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/2017_in_Turkey",
+        "photo": null
+      },
+      {
+        "id": "istanbul-night_clubs-5",
+        "name": "January 2016 Istanbul bombing",
+        "cityId": "istanbul",
+        "categoryId": "night_clubs",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=January%202016%20Istanbul%20bombing%2C%20Istanbul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/January_2016_Istanbul_bombing",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Sultanahmet_Square_%28Hippodrome%29%2C_Istanbul.jpg/960px-Sultanahmet_Square_%28Hippodrome%29%2C_Istanbul.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/January_2016_Istanbul_bombing"
+        }
+      },
+      {
+        "id": "istanbul-night_clubs-6",
+        "name": "Ortaköy",
+        "cityId": "istanbul",
+        "categoryId": "night_clubs",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Ortak%C3%B6y%2C%20Istanbul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Ortak%C3%B6y",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Ortak%C3%B6y_Square_and_Mosque_Istanbul_Turkey.jpg/960px-Ortak%C3%B6y_Square_and_Mosque_Istanbul_Turkey.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Ortak%C3%B6y"
+        }
+      },
+      {
+        "id": "istanbul-night_clubs-7",
+        "name": "The Club",
+        "cityId": "istanbul",
+        "categoryId": "night_clubs",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Club%2C%20Istanbul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/The_Club_(Turkish_TV_series)",
+        "photo": null
+      },
+      {
+        "id": "istanbul-night_clubs-8",
+        "name": "Yeni Akit",
+        "cityId": "istanbul",
+        "categoryId": "night_clubs",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Yeni%20Akit%2C%20Istanbul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Yeni_Akit",
+        "photo": null
+      },
+      {
+        "id": "istanbul-night_clubs-9",
+        "name": "Abu Waheeb",
+        "cityId": "istanbul",
+        "categoryId": "night_clubs",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Abu%20Waheeb%2C%20Istanbul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Abu_Waheeb",
+        "photo": null
+      },
+      {
+        "id": "istanbul-night_clubs-10",
+        "name": "3 Dev Adam",
+        "cityId": "istanbul",
+        "categoryId": "night_clubs",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=3%20Dev%20Adam%2C%20Istanbul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/3_Dev_Adam",
+        "photo": null
+      },
+      {
+        "id": "istanbul-night_clubs-11",
+        "name": "Midnight at the Pera Palace",
+        "cityId": "istanbul",
+        "categoryId": "night_clubs",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Midnight%20at%20the%20Pera%20Palace%2C%20Istanbul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Midnight_at_the_Pera_Palace",
+        "photo": null
+      },
+      {
+        "id": "istanbul-night_clubs-12",
+        "name": "Motreb",
+        "cityId": "istanbul",
+        "categoryId": "night_clubs",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Motreb%2C%20Istanbul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Motreb",
+        "photo": null
+      },
+      {
+        "id": "istanbul-night_clubs-13",
+        "name": "Konstantiniyye",
+        "cityId": "istanbul",
+        "categoryId": "night_clubs",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Konstantiniyye%2C%20Istanbul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Konstantiniyye_(magazine)",
+        "photo": null
+      },
+      {
+        "id": "istanbul-night_clubs-14",
+        "name": "Turkey–Islamic State conflict",
+        "cityId": "istanbul",
+        "categoryId": "night_clubs",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Turkey%E2%80%93Islamic%20State%20conflict%2C%20Istanbul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Turkey%E2%80%93Islamic_State_conflict",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Syrian_Civil_War_map.svg/960px-Syrian_Civil_War_map.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Turkey%E2%80%93Islamic_State_conflict"
+        }
+      },
+      {
+        "id": "istanbul-night_clubs-15",
+        "name": "May 2016 Gaziantep bombing",
+        "cityId": "istanbul",
+        "categoryId": "night_clubs",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=May%202016%20Gaziantep%20bombing%2C%20Istanbul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/May_2016_Gaziantep_bombing",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/2015_Suru%C3%A7_bombing_in_Turkey.jpg/960px-2015_Suru%C3%A7_bombing_in_Turkey.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/May_2016_Gaziantep_bombing"
+        }
+      },
+      {
+        "id": "istanbul-night_clubs-16",
+        "name": "February 2016 Homs bombings",
+        "cityId": "istanbul",
+        "categoryId": "night_clubs",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=February%202016%20Homs%20bombings%2C%20Istanbul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/February_2016_Homs_bombings",
+        "photo": null
+      },
+      {
+        "id": "istanbul-night_clubs-17",
+        "name": "The Diary of Lady M",
+        "cityId": "istanbul",
+        "categoryId": "night_clubs",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Diary%20of%20Lady%20M%2C%20Istanbul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/The_Diary_of_Lady_M",
+        "photo": null
+      },
+      {
+        "id": "istanbul-night_clubs-18",
+        "name": "Dar al-Islam",
+        "cityId": "istanbul",
+        "categoryId": "night_clubs",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Dar%20al-Islam%2C%20Istanbul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Dar_al-Islam_(magazine)",
+        "photo": null
+      }
+    ],
+    "restaurants": [
+      {
+        "id": "istanbul-restaurants-1",
+        "name": "Zuma",
+        "cityId": "istanbul",
+        "categoryId": "restaurants",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Zuma%2C%20Istanbul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Zuma_(restaurant)",
+        "photo": null
+      },
+      {
+        "id": "istanbul-restaurants-2",
+        "name": "Kumkapı",
+        "cityId": "istanbul",
+        "categoryId": "restaurants",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Kumkap%C4%B1%2C%20Istanbul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Kumkap%C4%B1",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Kumkap%C4%B1-night.JPG/960px-Kumkap%C4%B1-night.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Kumkap%C4%B1"
+        }
+      },
+      {
+        "id": "istanbul-restaurants-3",
+        "name": "Ortaköy",
+        "cityId": "istanbul",
+        "categoryId": "restaurants",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Ortak%C3%B6y%2C%20Istanbul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Ortak%C3%B6y",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Ortak%C3%B6y_Square_and_Mosque_Istanbul_Turkey.jpg/960px-Ortak%C3%B6y_Square_and_Mosque_Istanbul_Turkey.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Ortak%C3%B6y"
+        }
+      },
+      {
+        "id": "istanbul-restaurants-4",
+        "name": "Salt Bae",
+        "cityId": "istanbul",
+        "categoryId": "restaurants",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Salt%20Bae%2C%20Istanbul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Salt_Bae",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/97/Salt_Bae.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Salt_Bae"
+        }
+      },
+      {
+        "id": "istanbul-restaurants-5",
+        "name": "Sofra",
+        "cityId": "istanbul",
+        "categoryId": "restaurants",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Sofra%2C%20Istanbul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Sofra_(restaurant)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/Turkish_restaurant%2C_Marylebone_-_geograph.org.uk_-_3763531.jpg/960px-Turkish_restaurant%2C_Marylebone_-_geograph.org.uk_-_3763531.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Sofra_(restaurant)"
+        }
+      },
+      {
+        "id": "istanbul-restaurants-6",
+        "name": "Mutfak Sanatlari Akademisi",
+        "cityId": "istanbul",
+        "categoryId": "restaurants",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Mutfak%20Sanatlari%20Akademisi%2C%20Istanbul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Mutfak_Sanatlari_Akademisi",
+        "photo": null
+      },
+      {
+        "id": "istanbul-restaurants-7",
+        "name": "İstinye",
+        "cityId": "istanbul",
+        "categoryId": "restaurants",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=%C4%B0stinye%2C%20Istanbul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/%C4%B0stinye",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/Istinye_harbor_oct_11%2C_2008.jpg/960px-Istinye_harbor_oct_11%2C_2008.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/%C4%B0stinye"
+        }
+      },
+      {
+        "id": "istanbul-restaurants-8",
+        "name": "Polonezköy",
+        "cityId": "istanbul",
+        "categoryId": "restaurants",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Polonezk%C3%B6y%2C%20Istanbul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Polonezk%C3%B6y",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Polonezkoy.JPG/960px-Polonezkoy.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Polonezk%C3%B6y"
+        }
+      },
+      {
+        "id": "istanbul-restaurants-9",
+        "name": "Beyti",
+        "cityId": "istanbul",
+        "categoryId": "restaurants",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Beyti%2C%20Istanbul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Beyti_(Istanbul)",
+        "photo": null
+      },
+      {
+        "id": "istanbul-restaurants-10",
+        "name": "2016 Bursa bombing",
+        "cityId": "istanbul",
+        "categoryId": "restaurants",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=2016%20Bursa%20bombing%2C%20Istanbul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/2016_Bursa_bombing",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Bursa_Ulu_Cami_Turkey_2013_2.jpg/960px-Bursa_Ulu_Cami_Turkey_2013_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/2016_Bursa_bombing"
+        }
+      },
+      {
+        "id": "istanbul-restaurants-11",
+        "name": "March 2016 Istanbul bombing",
+        "cityId": "istanbul",
+        "categoryId": "restaurants",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=March%202016%20Istanbul%20bombing%2C%20Istanbul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/March_2016_Istanbul_bombing",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/Demir%C3%B6renShoppingMall01.JPG/960px-Demir%C3%B6renShoppingMall01.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/March_2016_Istanbul_bombing"
+        }
+      },
+      {
+        "id": "istanbul-restaurants-12",
+        "name": "Changa",
+        "cityId": "istanbul",
+        "categoryId": "restaurants",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Changa%2C%20Istanbul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Changa_(restaurant)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Changa%2C_on_S%C4%B1raselviler_street_%284580770651%29.jpg/960px-Changa%2C_on_S%C4%B1raselviler_street_%284580770651%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Changa_(restaurant)"
+        }
+      },
+      {
+        "id": "istanbul-restaurants-13",
+        "name": "Çamlıca Tower",
+        "cityId": "istanbul",
+        "categoryId": "restaurants",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=%C3%87aml%C4%B1ca%20Tower%2C%20Istanbul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/%C3%87aml%C4%B1ca_Tower",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/%C3%87aml%C4%B1caTower.jpg/960px-%C3%87aml%C4%B1caTower.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/%C3%87aml%C4%B1ca_Tower"
+        }
+      },
+      {
+        "id": "istanbul-restaurants-14",
+        "name": "SantralIstanbul",
+        "cityId": "istanbul",
+        "categoryId": "restaurants",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=SantralIstanbul%2C%20Istanbul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/SantralIstanbul",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Istanbul_Bilgi_University_Santralistanbul_Campus_in_March_2023.jpg/960px-Istanbul_Bilgi_University_Santralistanbul_Campus_in_March_2023.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/SantralIstanbul"
+        }
+      },
+      {
+        "id": "istanbul-restaurants-15",
+        "name": "Mikla",
+        "cityId": "istanbul",
+        "categoryId": "restaurants",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Mikla%2C%20Istanbul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Mikla",
+        "photo": null
+      },
+      {
+        "id": "istanbul-restaurants-16",
+        "name": "Sümer Tilmaç",
+        "cityId": "istanbul",
+        "categoryId": "restaurants",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=S%C3%BCmer%20Tilma%C3%A7%2C%20Istanbul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/S%C3%BCmer_Tilma%C3%A7",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Sumertilmac3.jpg/960px-Sumertilmac3.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/S%C3%BCmer_Tilma%C3%A7"
+        }
+      },
+      {
+        "id": "istanbul-restaurants-17",
+        "name": "Caferağa Medrese",
+        "cityId": "istanbul",
+        "categoryId": "restaurants",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Cafera%C4%9Fa%20Medrese%2C%20Istanbul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Cafera%C4%9Fa_Medrese",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Caferaga_medresseh_Pano.JPG/960px-Caferaga_medresseh_Pano.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Cafera%C4%9Fa_Medrese"
+        }
+      },
+      {
+        "id": "istanbul-restaurants-18",
+        "name": "Garipçe, Istanbul",
+        "cityId": "istanbul",
+        "categoryId": "restaurants",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Garip%C3%A7e%2C%20Istanbul%2C%20Istanbul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Garip%C3%A7e%2C_Istanbul",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Garip%C3%A7e_2_18.07.2015.jpg/960px-Garip%C3%A7e_2_18.07.2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Garip%C3%A7e%2C_Istanbul"
+        }
+      }
+    ],
+    "bars": [
+      {
+        "id": "istanbul-bars-1",
+        "name": "Zuma",
+        "cityId": "istanbul",
+        "categoryId": "bars",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Zuma%2C%20Istanbul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Zuma_(restaurant)",
+        "photo": null
+      },
+      {
+        "id": "istanbul-bars-2",
+        "name": "Lake Büyükçekmece",
+        "cityId": "istanbul",
+        "categoryId": "bars",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Lake%20B%C3%BCy%C3%BCk%C3%A7ekmece%2C%20Istanbul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Lake_B%C3%BCy%C3%BCk%C3%A7ekmece",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/B%C3%BCy%C3%BCk%C3%A7ekmece_serial_view.jpg/960px-B%C3%BCy%C3%BCk%C3%A7ekmece_serial_view.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Lake_B%C3%BCy%C3%BCk%C3%A7ekmece"
+        }
+      },
+      {
+        "id": "istanbul-bars-3",
+        "name": ".istanbul",
+        "cityId": "istanbul",
+        "categoryId": "bars",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=.istanbul%2C%20Istanbul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/.istanbul",
+        "photo": null
+      },
+      {
+        "id": "istanbul-bars-4",
+        "name": ".bar",
+        "cityId": "istanbul",
+        "categoryId": "bars",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=.bar%2C%20Istanbul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/.bar",
+        "photo": null
+      },
+      {
+        "id": "istanbul-bars-5",
+        "name": "Mutfak Sanatlari Akademisi",
+        "cityId": "istanbul",
+        "categoryId": "bars",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Mutfak%20Sanatlari%20Akademisi%2C%20Istanbul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Mutfak_Sanatlari_Akademisi",
+        "photo": null
+      },
+      {
+        "id": "istanbul-bars-6",
+        "name": "Bengaluru Open",
+        "cityId": "istanbul",
+        "categoryId": "bars",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Bengaluru%20Open%2C%20Istanbul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Bengaluru_Open",
+        "photo": null
+      },
+      {
+        "id": "istanbul-bars-7",
+        "name": "Sezgin Tanrıkulu",
+        "cityId": "istanbul",
+        "categoryId": "bars",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Sezgin%20Tanr%C4%B1kulu%2C%20Istanbul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Sezgin_Tanr%C4%B1kulu",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Sezgin_Tanr%C4%B1kulu_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Sezgin_Tanr%C4%B1kulu"
+        }
+      },
+      {
+        "id": "istanbul-bars-8",
+        "name": "At the Bar",
+        "cityId": "istanbul",
+        "categoryId": "bars",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=At%20the%20Bar%2C%20Istanbul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/At_the_Bar",
+        "photo": null
+      },
+      {
+        "id": "istanbul-bars-9",
+        "name": "RBC Tennis Championships of Dallas",
+        "cityId": "istanbul",
+        "categoryId": "bars",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=RBC%20Tennis%20Championships%20of%20Dallas%2C%20Istanbul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/RBC_Tennis_Championships_of_Dallas",
+        "photo": null
+      },
+      {
+        "id": "istanbul-bars-10",
+        "name": "Balkan Athletics Indoor Championships",
+        "cityId": "istanbul",
+        "categoryId": "bars",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Balkan%20Athletics%20Indoor%20Championships%2C%20Istanbul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Balkan_Athletics_Indoor_Championships",
+        "photo": null
+      },
+      {
+        "id": "istanbul-bars-11",
+        "name": "Istanbul",
+        "cityId": "istanbul",
+        "categoryId": "bars",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Istanbul%2C%20Istanbul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Istanbul",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Historical_peninsula_and_modern_skyline_of_Istanbul.jpg/960px-Historical_peninsula_and_modern_skyline_of_Istanbul.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Istanbul"
+        }
+      },
+      {
+        "id": "istanbul-bars-12",
+        "name": "Rosy Varte",
+        "cityId": "istanbul",
+        "categoryId": "bars",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Rosy%20Varte%2C%20Istanbul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Rosy_Varte",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Rosy_Varte.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Rosy_Varte"
+        }
+      },
+      {
+        "id": "istanbul-bars-13",
+        "name": "Dalia Dorner",
+        "cityId": "istanbul",
+        "categoryId": "bars",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Dalia%20Dorner%2C%20Istanbul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Dalia_Dorner",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/45/Dorner.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Dalia_Dorner"
+        }
+      },
+      {
+        "id": "istanbul-bars-14",
+        "name": "Goldaş",
+        "cityId": "istanbul",
+        "categoryId": "bars",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Golda%C5%9F%2C%20Istanbul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Golda%C5%9F",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Chip_gold_bullion_bar.jpg/960px-Chip_gold_bullion_bar.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Golda%C5%9F"
+        }
+      },
+      {
+        "id": "istanbul-bars-15",
+        "name": "Istanbul Technical University Arı Technopolis",
+        "cityId": "istanbul",
+        "categoryId": "bars",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Istanbul%20Technical%20University%20Ar%C4%B1%20Technopolis%2C%20Istanbul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Istanbul_Technical_University_Ar%C4%B1_Technopolis",
+        "photo": null
+      },
+      {
+        "id": "istanbul-bars-16",
+        "name": ".localhost",
+        "cityId": "istanbul",
+        "categoryId": "bars",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=.localhost%2C%20Istanbul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/.localhost",
+        "photo": null
+      },
+      {
+        "id": "istanbul-bars-17",
+        "name": ".bible",
+        "cityId": "istanbul",
+        "categoryId": "bars",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=.bible%2C%20Istanbul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/.bible",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/8f/DotBible_gTLD_logo.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/.bible"
+        }
+      },
+      {
+        "id": "istanbul-bars-18",
+        "name": ".geo",
+        "cityId": "istanbul",
+        "categoryId": "bars",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=.geo%2C%20Istanbul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/.geo",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/51/Dotgeo.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/.geo"
+        }
+      }
+    ],
+    "coffee_shops": [
+      {
+        "id": "istanbul-coffee_shops-1",
+        "name": "Galatasaray S.K.",
+        "cityId": "istanbul",
+        "categoryId": "coffee_shops",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Galatasaray%20S.K.%2C%20Istanbul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Galatasaray_S.K._(men's_basketball)",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Galatasaray_MCT_Technic_logo.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Galatasaray_S.K._(men's_basketball)"
+        }
+      },
+      {
+        "id": "istanbul-coffee_shops-2",
+        "name": "2011 TBL Playoffs",
+        "cityId": "istanbul",
+        "categoryId": "coffee_shops",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=2011%20TBL%20Playoffs%2C%20Istanbul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/2011_TBL_Playoffs",
+        "photo": null
+      },
+      {
+        "id": "istanbul-coffee_shops-3",
+        "name": "Gebze Technical University",
+        "cityId": "istanbul",
+        "categoryId": "coffee_shops",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Gebze%20Technical%20University%2C%20Istanbul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Gebze_Technical_University",
+        "photo": null
+      },
+      {
+        "id": "istanbul-coffee_shops-4",
+        "name": "Fenerbahçe TV",
+        "cityId": "istanbul",
+        "categoryId": "coffee_shops",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Fenerbah%C3%A7e%20TV%2C%20Istanbul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Fenerbah%C3%A7e_TV",
+        "photo": null
+      },
+      {
+        "id": "istanbul-coffee_shops-5",
+        "name": "2006–07 Turkish Basketball League",
+        "cityId": "istanbul",
+        "categoryId": "coffee_shops",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=2006%E2%80%9307%20Turkish%20Basketball%20League%2C%20Istanbul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/2006%E2%80%9307_Turkish_Basketball_League",
+        "photo": null
+      },
+      {
+        "id": "istanbul-coffee_shops-6",
+        "name": "2005–06 Turkish Basketball League",
+        "cityId": "istanbul",
+        "categoryId": "coffee_shops",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=2005%E2%80%9306%20Turkish%20Basketball%20League%2C%20Istanbul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/2005%E2%80%9306_Turkish_Basketball_League",
+        "photo": null
+      },
+      {
+        "id": "istanbul-coffee_shops-7",
+        "name": "Lebon Patisserie & Café",
+        "cityId": "istanbul",
+        "categoryId": "coffee_shops",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Lebon%20Patisserie%20%26%20Caf%C3%A9%2C%20Istanbul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Lebon_Patisserie_%26_Caf%C3%A9",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/LebonPatisserie%26Caf%C3%A9_%282%29.jpg/960px-LebonPatisserie%26Caf%C3%A9_%282%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Lebon_Patisserie_%26_Caf%C3%A9"
+        }
+      },
+      {
+        "id": "istanbul-coffee_shops-8",
+        "name": "Cafe Istanbul",
+        "cityId": "istanbul",
+        "categoryId": "coffee_shops",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Cafe%20Istanbul%2C%20Istanbul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Cafe_Istanbul",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Marlene_Dietrich_in_Morocco_trailer_3.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Cafe_Istanbul"
+        }
+      },
+      {
+        "id": "istanbul-coffee_shops-9",
+        "name": "2010–11 Turkish Basketball League",
+        "cityId": "istanbul",
+        "categoryId": "coffee_shops",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=2010%E2%80%9311%20Turkish%20Basketball%20League%2C%20Istanbul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/2010%E2%80%9311_Turkish_Basketball_League",
+        "photo": null
+      },
+      {
+        "id": "istanbul-coffee_shops-10",
+        "name": "Ahmet Hamdi Tanpınar Literature Museum Library",
+        "cityId": "istanbul",
+        "categoryId": "coffee_shops",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Ahmet%20Hamdi%20Tanp%C4%B1nar%20Literature%20Museum%20Library%2C%20Istanbul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Ahmet_Hamdi_Tanp%C4%B1nar_Literature_Museum_Library",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Alay_K%C3%B6%C5%9Fk%C3%BC_%282%29.JPG/960px-Alay_K%C3%B6%C5%9Fk%C3%BC_%282%29.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Ahmet_Hamdi_Tanp%C4%B1nar_Literature_Museum_Library"
+        }
+      },
+      {
+        "id": "istanbul-coffee_shops-11",
+        "name": "Spago",
+        "cityId": "istanbul",
+        "categoryId": "coffee_shops",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Spago%2C%20Istanbul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Spago",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/Spago_Beverly_Hills_courtyard_2007.jpg/960px-Spago_Beverly_Hills_courtyard_2007.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Spago"
+        }
+      },
+      {
+        "id": "istanbul-coffee_shops-12",
+        "name": "2008–09 Turkish Basketball League",
+        "cityId": "istanbul",
+        "categoryId": "coffee_shops",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=2008%E2%80%9309%20Turkish%20Basketball%20League%2C%20Istanbul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/2008%E2%80%9309_Turkish_Basketball_League",
+        "photo": null
+      },
+      {
+        "id": "istanbul-coffee_shops-13",
+        "name": "Özdilek",
+        "cityId": "istanbul",
+        "categoryId": "coffee_shops",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=%C3%96zdilek%2C%20Istanbul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/%C3%96zdilek",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/%C3%96zdilek_Center%2C_%C3%96zdilekPark_%C4%B0stanbul_p10.jpg/960px-%C3%96zdilek_Center%2C_%C3%96zdilekPark_%C4%B0stanbul_p10.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/%C3%96zdilek"
+        }
+      },
+      {
+        "id": "istanbul-coffee_shops-14",
+        "name": "Tahtakale Hamam",
+        "cityId": "istanbul",
+        "categoryId": "coffee_shops",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Tahtakale%20Hamam%2C%20Istanbul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Tahtakale_Hamam",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Tahtakale_hamam_DSCF1601.jpg/960px-Tahtakale_hamam_DSCF1601.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Tahtakale_Hamam"
+        }
+      },
+      {
+        "id": "istanbul-coffee_shops-15",
+        "name": "Café-chantant",
+        "cityId": "istanbul",
+        "categoryId": "coffee_shops",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Caf%C3%A9-chantant%2C%20Istanbul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Caf%C3%A9-chantant",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/89/Caf%C3%A9_chantant%2C_Champs-%C3%89lys%C3%A9es%2C_1789.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Caf%C3%A9-chantant"
+        }
+      },
+      {
+        "id": "istanbul-coffee_shops-16",
+        "name": "Time for Love",
+        "cityId": "istanbul",
+        "categoryId": "coffee_shops",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Time%20for%20Love%2C%20Istanbul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Time_for_Love_(radio_program)",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Marlene_Dietrich_in_Morocco_trailer_3.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Time_for_Love_(radio_program)"
+        }
+      },
+      {
+        "id": "istanbul-coffee_shops-17",
+        "name": "Coffeehouse",
+        "cityId": "istanbul",
+        "categoryId": "coffee_shops",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Coffeehouse%2C%20Istanbul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Coffeehouse",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/Caf%C3%A9_de_Flore.jpg/960px-Caf%C3%A9_de_Flore.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Coffeehouse"
+        }
+      },
+      {
+        "id": "istanbul-coffee_shops-18",
+        "name": "The Mad Turks from Istanbul",
+        "cityId": "istanbul",
+        "categoryId": "coffee_shops",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Mad%20Turks%20from%20Istanbul%2C%20Istanbul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/The_Mad_Turks_from_Istanbul",
+        "photo": null
+      }
+    ],
+    "bookshops": [
+      {
+        "id": "istanbul-bookshops-1",
+        "name": "Murat Bardakçı",
+        "cityId": "istanbul",
+        "categoryId": "bookshops",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Murat%20Bardak%C3%A7%C4%B1%2C%20Istanbul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Murat_Bardak%C3%A7%C4%B1",
+        "photo": null
+      },
+      {
+        "id": "istanbul-bookshops-2",
+        "name": "Bedros Sirabyan",
+        "cityId": "istanbul",
+        "categoryId": "bookshops",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Bedros%20Sirabyan%2C%20Istanbul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Bedros_Sirabyan",
+        "photo": null
+      },
+      {
+        "id": "istanbul-bookshops-3",
+        "name": "Maraşlı",
+        "cityId": "istanbul",
+        "categoryId": "bookshops",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Mara%C5%9Fl%C4%B1%2C%20Istanbul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Mara%C5%9Fl%C4%B1_(TV_series)",
+        "photo": null
+      },
+      {
+        "id": "istanbul-bookshops-4",
+        "name": "ICI",
+        "cityId": "istanbul",
+        "categoryId": "bookshops",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=ICI%2C%20Istanbul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/ICI",
+        "photo": null
+      },
+      {
+        "id": "istanbul-bookshops-5",
+        "name": "Hrant Dink",
+        "cityId": "istanbul",
+        "categoryId": "bookshops",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Hrant%20Dink%2C%20Istanbul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Hrant_Dink",
+        "photo": null
+      },
+      {
+        "id": "istanbul-bookshops-6",
+        "name": "The Red-Haired Woman",
+        "cityId": "istanbul",
+        "categoryId": "bookshops",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Red-Haired%20Woman%2C%20Istanbul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/The_Red-Haired_Woman",
+        "photo": null
+      },
+      {
+        "id": "istanbul-bookshops-7",
+        "name": "Salt Research",
+        "cityId": "istanbul",
+        "categoryId": "bookshops",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Salt%20Research%2C%20Istanbul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Salt_Research",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/33/SaltBeyoglu72_%285%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Salt_Research"
+        }
+      },
+      {
+        "id": "istanbul-bookshops-8",
+        "name": "Rober Haddeciyan",
+        "cityId": "istanbul",
+        "categoryId": "bookshops",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Rober%20Haddeciyan%2C%20Istanbul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Rober_Haddeciyan",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Rober_Haddeciyan_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Rober_Haddeciyan"
+        }
+      },
+      {
+        "id": "istanbul-bookshops-9",
+        "name": "Esmahan Aykol",
+        "cityId": "istanbul",
+        "categoryId": "bookshops",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Esmahan%20Aykol%2C%20Istanbul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Esmahan_Aykol",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Esmahan_Aykol.jpg/960px-Esmahan_Aykol.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Esmahan_Aykol"
+        }
+      },
+      {
+        "id": "istanbul-bookshops-10",
+        "name": "Ahmet Altan",
+        "cityId": "istanbul",
+        "categoryId": "bookshops",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Ahmet%20Altan%2C%20Istanbul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Ahmet_Altan",
+        "photo": null
+      },
+      {
+        "id": "istanbul-bookshops-11",
+        "name": "Tan",
+        "cityId": "istanbul",
+        "categoryId": "bookshops",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Tan%2C%20Istanbul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Tan_(newspaper)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Headline_reads_Hitler_says_Germany_threatens_no_one_1939.jpg/960px-Headline_reads_Hitler_says_Germany_threatens_no_one_1939.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Tan_(newspaper)"
+        }
+      },
+      {
+        "id": "istanbul-bookshops-12",
+        "name": "Türkan Şoray",
+        "cityId": "istanbul",
+        "categoryId": "bookshops",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=T%C3%BCrkan%20%C5%9Eoray%2C%20Istanbul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/T%C3%BCrkan_%C5%9Eoray",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Turkan_Soray_1310395.jpg/960px-Turkan_Soray_1310395.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/T%C3%BCrkan_%C5%9Eoray"
+        }
+      },
+      {
+        "id": "istanbul-bookshops-13",
+        "name": "Gizem Karaali",
+        "cityId": "istanbul",
+        "categoryId": "bookshops",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Gizem%20Karaali%2C%20Istanbul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Gizem_Karaali",
+        "photo": null
+      },
+      {
+        "id": "istanbul-bookshops-14",
+        "name": "Ahmet Kavas",
+        "cityId": "istanbul",
+        "categoryId": "bookshops",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Ahmet%20Kavas%2C%20Istanbul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Ahmet_Kavas",
+        "photo": null
+      },
+      {
+        "id": "istanbul-bookshops-15",
+        "name": "Erimtan Archaeology and Arts Museum",
+        "cityId": "istanbul",
+        "categoryId": "bookshops",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Erimtan%20Archaeology%20and%20Arts%20Museum%2C%20Istanbul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Erimtan_Archaeology_and_Arts_Museum",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Erimtan.jpg/960px-Erimtan.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Erimtan_Archaeology_and_Arts_Museum"
+        }
+      },
+      {
+        "id": "istanbul-bookshops-16",
+        "name": "Zabel Sibil Asadour",
+        "cityId": "istanbul",
+        "categoryId": "bookshops",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Zabel%20Sibil%20Asadour%2C%20Istanbul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Zabel_Sibil_Asadour",
+        "photo": null
+      },
+      {
+        "id": "istanbul-bookshops-17",
+        "name": "Ziya Yergök",
+        "cityId": "istanbul",
+        "categoryId": "bookshops",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Ziya%20Yerg%C3%B6k%2C%20Istanbul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Ziya_Yerg%C3%B6k",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/Ziya_Yerg%C3%B6k.jpg/960px-Ziya_Yerg%C3%B6k.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Ziya_Yerg%C3%B6k"
+        }
+      },
+      {
+        "id": "istanbul-bookshops-18",
+        "name": "Hüseyin Velioğlu",
+        "cityId": "istanbul",
+        "categoryId": "bookshops",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=H%C3%BCseyin%20Velio%C4%9Flu%2C%20Istanbul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/H%C3%BCseyin_Velio%C4%9Flu",
+        "photo": null
+      }
+    ],
+    "museums": [
+      {
+        "id": "istanbul-museums-1",
+        "name": "Istanbul",
+        "cityId": "istanbul",
+        "categoryId": "museums",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Istanbul%2C%20Istanbul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Istanbul",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Historical_peninsula_and_modern_skyline_of_Istanbul.jpg/960px-Historical_peninsula_and_modern_skyline_of_Istanbul.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Istanbul"
+        }
+      },
+      {
+        "id": "istanbul-museums-2",
+        "name": "Constantinople",
+        "cityId": "istanbul",
+        "categoryId": "museums",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Constantinople%2C%20Istanbul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Constantinople",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Byzantine_Constantinople-en.png/960px-Byzantine_Constantinople-en.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Constantinople"
+        }
+      },
+      {
+        "id": "istanbul-museums-3",
+        "name": "Sublime Porte",
+        "cityId": "istanbul",
+        "categoryId": "museums",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Sublime%20Porte%2C%20Istanbul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Sublime_Porte",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/Istanbul_asv2020-02_img37_Governors_Office.jpg/960px-Istanbul_asv2020-02_img37_Governors_Office.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Sublime_Porte"
+        }
+      },
+      {
+        "id": "istanbul-museums-4",
+        "name": "Istanbul Archaeology Museums",
+        "cityId": "istanbul",
+        "categoryId": "museums",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Istanbul%20Archaeology%20Museums%2C%20Istanbul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Istanbul_Archaeology_Museums",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Istanbularcheology.jpg/960px-Istanbularcheology.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Istanbul_Archaeology_Museums"
+        }
+      },
+      {
+        "id": "istanbul-museums-5",
+        "name": "Blue Mosque, Istanbul",
+        "cityId": "istanbul",
+        "categoryId": "museums",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Blue%20Mosque%2C%20Istanbul%2C%20Istanbul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Blue_Mosque%2C_Istanbul",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Istanbul_%2834223582516%29_%28cropped%29.jpg/960px-Istanbul_%2834223582516%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Blue_Mosque%2C_Istanbul"
+        }
+      },
+      {
+        "id": "istanbul-museums-6",
+        "name": "Hagia Sophia",
+        "cityId": "istanbul",
+        "categoryId": "museums",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Hagia%20Sophia%2C%20Istanbul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Hagia_Sophia",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Hagia_Sophia_%28228968325%29.jpeg/960px-Hagia_Sophia_%28228968325%29.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Hagia_Sophia"
+        }
+      },
+      {
+        "id": "istanbul-museums-7",
+        "name": "Turkish and Islamic Arts Museum",
+        "cityId": "istanbul",
+        "categoryId": "museums",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Turkish%20and%20Islamic%20Arts%20Museum%2C%20Istanbul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Turkish_and_Islamic_Arts_Museum",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Turkish_and_Islamic_Museum_1432_%28cropped%29.jpg/960px-Turkish_and_Islamic_Museum_1432_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Turkish_and_Islamic_Arts_Museum"
+        }
+      },
+      {
+        "id": "istanbul-museums-8",
+        "name": "Golden Horn",
+        "cityId": "istanbul",
+        "categoryId": "museums",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Golden%20Horn%2C%20Istanbul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Golden_Horn",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Ottoman_Istanbul_-_en.svg/960px-Ottoman_Istanbul_-_en.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Golden_Horn"
+        }
+      },
+      {
+        "id": "istanbul-museums-9",
+        "name": "Topkapı Palace",
+        "cityId": "istanbul",
+        "categoryId": "museums",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Topkap%C4%B1%20Palace%2C%20Istanbul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Topkap%C4%B1_Palace",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/Topkap%C4%B1_-_01.jpg/960px-Topkap%C4%B1_-_01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Topkap%C4%B1_Palace"
+        }
+      },
+      {
+        "id": "istanbul-museums-10",
+        "name": "The Chora",
+        "cityId": "istanbul",
+        "categoryId": "museums",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Chora%2C%20Istanbul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/The_Chora",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Chora_Church_2024.jpg/960px-Chora_Church_2024.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/The_Chora"
+        }
+      },
+      {
+        "id": "istanbul-museums-11",
+        "name": "Dolmabahçe Palace",
+        "cityId": "istanbul",
+        "categoryId": "museums",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Dolmabah%C3%A7e%20Palace%2C%20Istanbul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Dolmabah%C3%A7e_Palace",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Dolmabahce_Istanbul_Turkey.jpg/960px-Dolmabahce_Istanbul_Turkey.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Dolmabah%C3%A7e_Palace"
+        }
+      },
+      {
+        "id": "istanbul-museums-12",
+        "name": "New Mosque, Istanbul",
+        "cityId": "istanbul",
+        "categoryId": "museums",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=New%20Mosque%2C%20Istanbul%2C%20Istanbul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/New_Mosque%2C_Istanbul",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/New_Mosque_in_2025_%2854504109092%29_%28cropped%29.jpg/960px-New_Mosque_in_2025_%2854504109092%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/New_Mosque%2C_Istanbul"
+        }
+      },
+      {
+        "id": "istanbul-museums-13",
+        "name": "Yıldız Palace",
+        "cityId": "istanbul",
+        "categoryId": "museums",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Y%C4%B1ld%C4%B1z%20Palace%2C%20Istanbul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Y%C4%B1ld%C4%B1z_Palace",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/%C4%B0stanbul_5717.jpg/960px-%C4%B0stanbul_5717.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Y%C4%B1ld%C4%B1z_Palace"
+        }
+      },
+      {
+        "id": "istanbul-museums-14",
+        "name": "Camera Museum, Istanbul",
+        "cityId": "istanbul",
+        "categoryId": "museums",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Camera%20Museum%2C%20Istanbul%2C%20Istanbul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Camera_Museum%2C_Istanbul",
+        "photo": null
+      },
+      {
+        "id": "istanbul-museums-15",
+        "name": "Beylerbeyi Palace",
+        "cityId": "istanbul",
+        "categoryId": "museums",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Beylerbeyi%20Palace%2C%20Istanbul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Beylerbeyi_Palace",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Beylerbeyi_Palace_%28cropped%29.jpg/960px-Beylerbeyi_Palace_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Beylerbeyi_Palace"
+        }
+      },
+      {
+        "id": "istanbul-museums-16",
+        "name": "Pammakaristos Church",
+        "cityId": "istanbul",
+        "categoryId": "museums",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Pammakaristos%20Church%2C%20Istanbul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Pammakaristos_Church",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Fethiye_Camii_2.jpg/960px-Fethiye_Camii_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Pammakaristos_Church"
+        }
+      },
+      {
+        "id": "istanbul-museums-17",
+        "name": "Names of Istanbul",
+        "cityId": "istanbul",
+        "categoryId": "museums",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Names%20of%20Istanbul%2C%20Istanbul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Names_of_Istanbul",
+        "photo": null
+      },
+      {
+        "id": "istanbul-museums-18",
+        "name": "Museum of Turkish Calligraphy Art",
+        "cityId": "istanbul",
+        "categoryId": "museums",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Museum%20of%20Turkish%20Calligraphy%20Art%2C%20Istanbul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Museum_of_Turkish_Calligraphy_Art",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Beyazid_II_madrasa_Istanbul_DSCF2217.jpg/960px-Beyazid_II_madrasa_Istanbul_DSCF2217.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Museum_of_Turkish_Calligraphy_Art"
+        }
+      }
+    ],
+    "concerts": [
+      {
+        "id": "istanbul-concerts-1",
+        "name": "Cemal Reşit Rey Concert Hall",
+        "cityId": "istanbul",
+        "categoryId": "concerts",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Cemal%20Re%C5%9Fit%20Rey%20Concert%20Hall%2C%20Istanbul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Cemal_Re%C5%9Fit_Rey_Concert_Hall",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/Cemal_Re%C5%9Fit_Rey_Concert_Hall_02.jpg/960px-Cemal_Re%C5%9Fit_Rey_Concert_Hall_02.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Cemal_Re%C5%9Fit_Rey_Concert_Hall"
+        }
+      },
+      {
+        "id": "istanbul-concerts-2",
+        "name": "Atatürk Cultural Center",
+        "cityId": "istanbul",
+        "categoryId": "concerts",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Atat%C3%BCrk%20Cultural%20Center%2C%20Istanbul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Atat%C3%BCrk_Cultural_Center",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/Atat%C3%BCrk_Kulturzentrums_%28AKM%29_Istanbul%2C_Werner_Sobek_AG%2C_2021.jpg/960px-Atat%C3%BCrk_Kulturzentrums_%28AKM%29_Istanbul%2C_Werner_Sobek_AG%2C_2021.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Atat%C3%BCrk_Cultural_Center"
+        }
+      },
+      {
+        "id": "istanbul-concerts-3",
+        "name": "Jolly Joker",
+        "cityId": "istanbul",
+        "categoryId": "concerts",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Jolly%20Joker%2C%20Istanbul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Jolly_Joker_(venues_chain)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/Tu%C4%9Fba_Yurt_Jolly_Joker_konseri.JPG/960px-Tu%C4%9Fba_Yurt_Jolly_Joker_konseri.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Jolly_Joker_(venues_chain)"
+        }
+      },
+      {
+        "id": "istanbul-concerts-4",
+        "name": "Hagia Irene",
+        "cityId": "istanbul",
+        "categoryId": "concerts",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Hagia%20Irene%2C%20Istanbul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Hagia_Irene",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/Hagia_Irene%2C_Istanbul_%2852112279404%29_%28cropped%29.jpg/960px-Hagia_Irene%2C_Istanbul_%2852112279404%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Hagia_Irene"
+        }
+      },
+      {
+        "id": "istanbul-concerts-5",
+        "name": "IF Performance Hall",
+        "cityId": "istanbul",
+        "categoryId": "concerts",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=IF%20Performance%20Hall%2C%20Istanbul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/IF_Performance_Hall",
+        "photo": null
+      },
+      {
+        "id": "istanbul-concerts-6",
+        "name": "Church of Saint Mary of the Mongols",
+        "cityId": "istanbul",
+        "categoryId": "concerts",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Church%20of%20Saint%20Mary%20of%20the%20Mongols%2C%20Istanbul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Church_of_Saint_Mary_of_the_Mongols",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/db/StMaryOfTheMongols20071010_01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Church_of_Saint_Mary_of_the_Mongols"
+        }
+      },
+      {
+        "id": "istanbul-concerts-7",
+        "name": "Aarhus Pride",
+        "cityId": "istanbul",
+        "categoryId": "concerts",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Aarhus%20Pride%2C%20Istanbul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Aarhus_Pride",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Aarhus_Pride%2C_2012%2C_start_of_day.jpg/960px-Aarhus_Pride%2C_2012%2C_start_of_day.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Aarhus_Pride"
+        }
+      },
+      {
+        "id": "istanbul-concerts-8",
+        "name": "Harbiye, Şişli",
+        "cityId": "istanbul",
+        "categoryId": "concerts",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Harbiye%2C%20%C5%9Ei%C5%9Fli%2C%20Istanbul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Harbiye%2C_%C5%9Ei%C5%9Fli",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Neighbourhoods_of_%C5%9Ei%C5%9Fli.svg/960px-Neighbourhoods_of_%C5%9Ei%C5%9Fli.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Harbiye%2C_%C5%9Ei%C5%9Fli"
+        }
+      },
+      {
+        "id": "istanbul-concerts-9",
+        "name": "Naum Theatre",
+        "cityId": "istanbul",
+        "categoryId": "concerts",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Naum%20Theatre%2C%20Istanbul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Naum_Theatre",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Naum_Tiyatrosu.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Naum_Theatre"
+        }
+      },
+      {
+        "id": "istanbul-concerts-10",
+        "name": "Zorlu PSM",
+        "cityId": "istanbul",
+        "categoryId": "concerts",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Zorlu%20PSM%2C%20Istanbul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Zorlu_PSM",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/EAA_Zorlu_Center.jpg/960px-EAA_Zorlu_Center.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Zorlu_PSM"
+        }
+      },
+      {
+        "id": "istanbul-concerts-11",
+        "name": "Çukurova State Symphony Orchestra",
+        "cityId": "istanbul",
+        "categoryId": "concerts",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=%C3%87ukurova%20State%20Symphony%20Orchestra%2C%20Istanbul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/%C3%87ukurova_State_Symphony_Orchestra",
+        "photo": null
+      },
+      {
+        "id": "istanbul-concerts-12",
+        "name": "Bilkent University",
+        "cityId": "istanbul",
+        "categoryId": "concerts",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Bilkent%20University%2C%20Istanbul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Bilkent_University",
+        "photo": null
+      },
+      {
+        "id": "istanbul-concerts-13",
+        "name": "Şişli",
+        "cityId": "istanbul",
+        "categoryId": "concerts",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=%C5%9Ei%C5%9Fli%2C%20Istanbul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/%C5%9Ei%C5%9Fli",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/Ni%C5%9Fanta%C5%9F%C4%B1_2010-11_Y%C4%B1lba%C5%9F%C4%B1_S%C3%BCslemeleri.jpg/960px-Ni%C5%9Fanta%C5%9F%C4%B1_2010-11_Y%C4%B1lba%C5%9F%C4%B1_S%C3%BCslemeleri.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/%C5%9Ei%C5%9Fli"
+        }
+      },
+      {
+        "id": "istanbul-concerts-14",
+        "name": "Ankara Express",
+        "cityId": "istanbul",
+        "categoryId": "concerts",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Ankara%20Express%2C%20Istanbul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Ankara_Express",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/Ankara_ekspresi%2C_Halkali_station.jpg/960px-Ankara_ekspresi%2C_Halkali_station.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Ankara_Express"
+        }
+      },
+      {
+        "id": "istanbul-concerts-15",
+        "name": "Amelita Baltar",
+        "cityId": "istanbul",
+        "categoryId": "concerts",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Amelita%20Baltar%2C%20Istanbul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Amelita_Baltar",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Charla_con_Amelita_Baltar_en_el_Instituto_Cervantes_de_Tokio_01_%28cropped%29.jpg/960px-Charla_con_Amelita_Baltar_en_el_Instituto_Cervantes_de_Tokio_01_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Amelita_Baltar"
+        }
+      },
+      {
+        "id": "istanbul-concerts-16",
+        "name": "Economy of Ankara",
+        "cityId": "istanbul",
+        "categoryId": "concerts",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Economy%20of%20Ankara%2C%20Istanbul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Economy_of_Ankara",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Sogutozu_Ankara_Turkey.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Economy_of_Ankara"
+        }
+      },
+      {
+        "id": "istanbul-concerts-17",
+        "name": "Süreyya Opera House",
+        "cityId": "istanbul",
+        "categoryId": "concerts",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=S%C3%BCreyya%20Opera%20House%2C%20Istanbul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/S%C3%BCreyya_Opera_House",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/S%C3%BCreyya_Opera_House_in_Istanbul%2C_Turkey.jpg/960px-S%C3%BCreyya_Opera_House_in_Istanbul%2C_Turkey.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/S%C3%BCreyya_Opera_House"
+        }
+      },
+      {
+        "id": "istanbul-concerts-18",
+        "name": "Çengelhan Rahmi M. Koç Museum",
+        "cityId": "istanbul",
+        "categoryId": "concerts",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=%C3%87engelhan%20Rahmi%20M.%20Ko%C3%A7%20Museum%2C%20Istanbul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/%C3%87engelhan_Rahmi_M._Ko%C3%A7_Museum",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/Rahmi_M._Ko%C3%A7_Museum%2C_Ankara.jpg/960px-Rahmi_M._Ko%C3%A7_Museum%2C_Ankara.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/%C3%87engelhan_Rahmi_M._Ko%C3%A7_Museum"
+        }
+      }
+    ],
+    "fashion": [
+      {
+        "id": "istanbul-fashion-1",
+        "name": "Grand Pera",
+        "cityId": "istanbul",
+        "categoryId": "fashion",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Grand%20Pera%2C%20Istanbul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Grand_Pera",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Grand_Pera.jpg/960px-Grand_Pera.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Grand_Pera"
+        }
+      },
+      {
+        "id": "istanbul-fashion-2",
+        "name": "Metropol Istanbul",
+        "cityId": "istanbul",
+        "categoryId": "fashion",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Metropol%20Istanbul%2C%20Istanbul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Metropol_Istanbul",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/Metropol_Istanbul_A.jpg/960px-Metropol_Istanbul_A.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Metropol_Istanbul"
+        }
+      },
+      {
+        "id": "istanbul-fashion-3",
+        "name": "Louisette Texier",
+        "cityId": "istanbul",
+        "categoryId": "fashion",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Louisette%20Texier%2C%20Istanbul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Louisette_Texier",
+        "photo": null
+      },
+      {
+        "id": "istanbul-fashion-4",
+        "name": "Tokyo Cancelled",
+        "cityId": "istanbul",
+        "categoryId": "fashion",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Tokyo%20Cancelled%2C%20Istanbul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Tokyo_Cancelled",
+        "photo": null
+      },
+      {
+        "id": "istanbul-fashion-5",
+        "name": "Run for Money",
+        "cityId": "istanbul",
+        "categoryId": "fashion",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Run%20for%20Money%2C%20Istanbul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Run_for_Money",
+        "photo": null
+      },
+      {
+        "id": "istanbul-fashion-6",
+        "name": "Hülya Avşar",
+        "cityId": "istanbul",
+        "categoryId": "fashion",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=H%C3%BClya%20Av%C5%9Far%2C%20Istanbul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/H%C3%BClya_Av%C5%9Far",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/H%C3%BClya_Av%C5%9Far.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/H%C3%BClya_Av%C5%9Far"
+        }
+      },
+      {
+        "id": "istanbul-fashion-7",
+        "name": "Great Famine",
+        "cityId": "istanbul",
+        "categoryId": "fashion",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Great%20Famine%2C%20Istanbul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Great_Famine_(Greece)",
+        "photo": null
+      },
+      {
+        "id": "istanbul-fashion-8",
+        "name": "El Dorado World Tour",
+        "cityId": "istanbul",
+        "categoryId": "fashion",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=El%20Dorado%20World%20Tour%2C%20Istanbul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/El_Dorado_World_Tour",
+        "photo": null
+      },
+      {
+        "id": "istanbul-fashion-9",
+        "name": "Double-decker bus",
+        "cityId": "istanbul",
+        "categoryId": "fashion",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Double-decker%20bus%2C%20Istanbul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Double-decker_bus",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/Abellio_LT157_%28LTZ1157%29_Holborn_Viaduct_20.01.2024.jpg/960px-Abellio_LT157_%28LTZ1157%29_Holborn_Viaduct_20.01.2024.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Double-decker_bus"
+        }
+      },
+      {
+        "id": "istanbul-fashion-10",
+        "name": "Dominique Deveraux",
+        "cityId": "istanbul",
+        "categoryId": "fashion",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Dominique%20Deveraux%2C%20Istanbul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Dominique_Deveraux",
+        "photo": null
+      },
+      {
+        "id": "istanbul-fashion-11",
+        "name": "1952 New Year Honours",
+        "cityId": "istanbul",
+        "categoryId": "fashion",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=1952%20New%20Year%20Honours%2C%20Istanbul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/1952_New_Year_Honours",
+        "photo": null
+      },
+      {
+        "id": "istanbul-fashion-12",
+        "name": "1978 Birthday Honours",
+        "cityId": "istanbul",
+        "categoryId": "fashion",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=1978%20Birthday%20Honours%2C%20Istanbul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/1978_Birthday_Honours",
+        "photo": null
+      },
+      {
+        "id": "istanbul-fashion-13",
+        "name": "April 1980",
+        "cityId": "istanbul",
+        "categoryId": "fashion",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=April%201980%2C%20Istanbul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/April_1980",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Usburnedhelicopter.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/April_1980"
+        }
+      },
+      {
+        "id": "istanbul-fashion-14",
+        "name": "Women in aviation",
+        "cityId": "istanbul",
+        "categoryId": "fashion",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Women%20in%20aviation%2C%20Istanbul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Women_in_aviation",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Air_Force%27s_first_African_American_female_fighter_pilot_080317-F-XX000-064.jpg/960px-Air_Force%27s_first_African_American_female_fighter_pilot_080317-F-XX000-064.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Women_in_aviation"
+        }
+      },
+      {
+        "id": "istanbul-fashion-15",
+        "name": "Department stores by country",
+        "cityId": "istanbul",
+        "categoryId": "fashion",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Department%20stores%20by%20country%2C%20Istanbul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Department_stores_by_country",
+        "photo": null
+      },
+      {
+        "id": "istanbul-fashion-16",
+        "name": "Sirkeci",
+        "cityId": "istanbul",
+        "categoryId": "fashion",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Sirkeci%2C%20Istanbul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Sirkeci",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/Bahnhofsfront-Istanbul-Sirkeci_retouched.jpg/960px-Bahnhofsfront-Istanbul-Sirkeci_retouched.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Sirkeci"
+        }
+      },
+      {
+        "id": "istanbul-fashion-17",
+        "name": "Rams Beyond",
+        "cityId": "istanbul",
+        "categoryId": "fashion",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Rams%20Beyond%2C%20Istanbul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Rams_Beyond",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/32/Etro_Residences_Istanbul.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Rams_Beyond"
+        }
+      },
+      {
+        "id": "istanbul-fashion-18",
+        "name": "Rekin Teksoy",
+        "cityId": "istanbul",
+        "categoryId": "fashion",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Rekin%20Teksoy%2C%20Istanbul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Rekin_Teksoy",
+        "photo": null
+      }
+    ],
+    "shops": [
+      {
+        "id": "istanbul-shops-1",
+        "name": "Istanbul Toy Museum",
+        "cityId": "istanbul",
+        "categoryId": "shops",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Istanbul%20Toy%20Museum%2C%20Istanbul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Istanbul_Toy_Museum",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/MuzeumhracekIstanbul_budova.JPG/960px-MuzeumhracekIstanbul_budova.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Istanbul_Toy_Museum"
+        }
+      },
+      {
+        "id": "istanbul-shops-2",
+        "name": ".istanbul",
+        "cityId": "istanbul",
+        "categoryId": "shops",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=.istanbul%2C%20Istanbul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/.istanbul",
+        "photo": null
+      },
+      {
+        "id": "istanbul-shops-3",
+        "name": ".shop",
+        "cityId": "istanbul",
+        "categoryId": "shops",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=.shop%2C%20Istanbul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/.shop",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/DotShop_gTLD_logo.svg/960px-DotShop_gTLD_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/.shop"
+        }
+      },
+      {
+        "id": "istanbul-shops-4",
+        "name": "Boza",
+        "cityId": "istanbul",
+        "categoryId": "shops",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Boza%2C%20Istanbul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Boza",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Boza.jpg/960px-Boza.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Boza"
+        }
+      },
+      {
+        "id": "istanbul-shops-5",
+        "name": "Vefa",
+        "cityId": "istanbul",
+        "categoryId": "shops",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Vefa%2C%20Istanbul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Vefa",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/AqueductOfValensInVefa20070407_01.jpg/960px-AqueductOfValensInVefa20070407_01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Vefa"
+        }
+      },
+      {
+        "id": "istanbul-shops-6",
+        "name": "Pudding Shop",
+        "cityId": "istanbul",
+        "categoryId": "shops",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Pudding%20Shop%2C%20Istanbul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Pudding_Shop",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/The_Pudding_shop_1982_and_2012_-_50449732222_%28cropped%29_1982.jpg/960px-The_Pudding_shop_1982_and_2012_-_50449732222_%28cropped%29_1982.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Pudding_Shop"
+        }
+      },
+      {
+        "id": "istanbul-shops-7",
+        "name": ".xyz",
+        "cityId": "istanbul",
+        "categoryId": "shops",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=.xyz%2C%20Istanbul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/.xyz",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/.xyz_logo.svg/960px-.xyz_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/.xyz"
+        }
+      },
+      {
+        "id": "istanbul-shops-8",
+        "name": "Five Cities",
+        "cityId": "istanbul",
+        "categoryId": "shops",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Five%20Cities%2C%20Istanbul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Five_Cities",
+        "photo": null
+      },
+      {
+        "id": "istanbul-shops-9",
+        "name": "Ziya Songülen",
+        "cityId": "istanbul",
+        "categoryId": "shops",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Ziya%20Song%C3%BClen%2C%20Istanbul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Ziya_Song%C3%BClen",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/55/Ziya_Songulen.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Ziya_Song%C3%BClen"
+        }
+      },
+      {
+        "id": "istanbul-shops-10",
+        "name": "Callshop Istanbul",
+        "cityId": "istanbul",
+        "categoryId": "shops",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Callshop%20Istanbul%2C%20Istanbul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Callshop_Istanbul",
+        "photo": null
+      },
+      {
+        "id": "istanbul-shops-11",
+        "name": "Lebon Patisserie & Café",
+        "cityId": "istanbul",
+        "categoryId": "shops",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Lebon%20Patisserie%20%26%20Caf%C3%A9%2C%20Istanbul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Lebon_Patisserie_%26_Caf%C3%A9",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/LebonPatisserie%26Caf%C3%A9_%282%29.jpg/960px-LebonPatisserie%26Caf%C3%A9_%282%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Lebon_Patisserie_%26_Caf%C3%A9"
+        }
+      },
+      {
+        "id": "istanbul-shops-12",
+        "name": "Ülkü Park",
+        "cityId": "istanbul",
+        "categoryId": "shops",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=%C3%9Clk%C3%BC%20Park%2C%20Istanbul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/%C3%9Clk%C3%BC_Park",
+        "photo": null
+      },
+      {
+        "id": "istanbul-shops-13",
+        "name": ".bible",
+        "cityId": "istanbul",
+        "categoryId": "shops",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=.bible%2C%20Istanbul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/.bible",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/8f/DotBible_gTLD_logo.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/.bible"
+        }
+      },
+      {
+        "id": "istanbul-shops-14",
+        "name": ".localhost",
+        "cityId": "istanbul",
+        "categoryId": "shops",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=.localhost%2C%20Istanbul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/.localhost",
+        "photo": null
+      },
+      {
+        "id": "istanbul-shops-15",
+        "name": ".invalid",
+        "cityId": "istanbul",
+        "categoryId": "shops",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=.invalid%2C%20Istanbul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/.invalid",
+        "photo": null
+      },
+      {
+        "id": "istanbul-shops-16",
+        "name": ".geo",
+        "cityId": "istanbul",
+        "categoryId": "shops",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=.geo%2C%20Istanbul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/.geo",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/51/Dotgeo.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/.geo"
+        }
+      },
+      {
+        "id": "istanbul-shops-17",
+        "name": "Faruk Türünz",
+        "cityId": "istanbul",
+        "categoryId": "shops",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Faruk%20T%C3%BCr%C3%BCnz%2C%20Istanbul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Faruk_T%C3%BCr%C3%BCnz",
+        "photo": null
+      },
+      {
+        "id": "istanbul-shops-18",
+        "name": ".nato",
+        "cityId": "istanbul",
+        "categoryId": "shops",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=.nato%2C%20Istanbul",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/.nato",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/NATO_OTAN_landscape_logo.svg/960px-NATO_OTAN_landscape_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/.nato"
+        }
+      }
+    ]
+  }
+}

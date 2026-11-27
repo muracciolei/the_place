@@ -1,0 +1,2363 @@
+{
+  "cityId": "cape-town",
+  "generatedAt": "2026-11-27T09:35:27.292Z",
+  "source": "Wikipedia API + Maps URLs (sin scraping de Google)",
+  "incomplete": [],
+  "categories": {
+    "night_clubs": [
+      {
+        "id": "cape-town-night_clubs-1",
+        "name": "The Side Show",
+        "cityId": "cape-town",
+        "categoryId": "night_clubs",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Side%20Show%2C%20Cape%20Town",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/The_Side_Show_(nightclub)",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/04/Side_Show_Main_Floor_Restaurant_Configuration.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/The_Side_Show_(nightclub)"
+        }
+      },
+      {
+        "id": "cape-town-night_clubs-2",
+        "name": "Café Caprice",
+        "cityId": "cape-town",
+        "categoryId": "night_clubs",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Caf%C3%A9%20Caprice%2C%20Cape%20Town",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Caf%C3%A9_Caprice",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/41/Cafe_Caprice_blue.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Caf%C3%A9_Caprice"
+        }
+      },
+      {
+        "id": "cape-town-night_clubs-3",
+        "name": "Billy Monk",
+        "cityId": "cape-town",
+        "categoryId": "night_clubs",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Billy%20Monk%2C%20Cape%20Town",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Billy_Monk",
+        "photo": null
+      },
+      {
+        "id": "cape-town-night_clubs-4",
+        "name": "Mavericks Cape Town",
+        "cityId": "cape-town",
+        "categoryId": "night_clubs",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Mavericks%20Cape%20Town%2C%20Cape%20Town",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Mavericks_Cape_Town",
+        "photo": null
+      },
+      {
+        "id": "cape-town-night_clubs-5",
+        "name": "Mzoli's",
+        "cityId": "cape-town",
+        "categoryId": "night_clubs",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Mzoli's%2C%20Cape%20Town",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Mzoli's",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Outside_Mzolis.jpg/960px-Outside_Mzolis.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Mzoli's"
+        }
+      },
+      {
+        "id": "cape-town-night_clubs-6",
+        "name": "Mark Lifman",
+        "cityId": "cape-town",
+        "categoryId": "night_clubs",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Mark%20Lifman%2C%20Cape%20Town",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Mark_Lifman",
+        "photo": null
+      },
+      {
+        "id": "cape-town-night_clubs-7",
+        "name": "AKA",
+        "cityId": "cape-town",
+        "categoryId": "night_clubs",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=AKA%2C%20Cape%20Town",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/AKA_(rapper)",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Aka_%28cropped%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/AKA_(rapper)"
+        }
+      },
+      {
+        "id": "cape-town-night_clubs-8",
+        "name": "Matthew Booth",
+        "cityId": "cape-town",
+        "categoryId": "night_clubs",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Matthew%20Booth%2C%20Cape%20Town",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Matthew_Booth_(soccer)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Boothzaf.jpg/960px-Boothzaf.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Matthew_Booth_(soccer)"
+        }
+      },
+      {
+        "id": "cape-town-night_clubs-9",
+        "name": "Genevieve Waite",
+        "cityId": "cape-town",
+        "categoryId": "night_clubs",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Genevieve%20Waite%2C%20Cape%20Town",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Genevieve_Waite",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/Genevi%C3%A8ve_Wa%C3%AFte_%281969%29.jpg/960px-Genevi%C3%A8ve_Wa%C3%AFte_%281969%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Genevieve_Waite"
+        }
+      },
+      {
+        "id": "cape-town-night_clubs-10",
+        "name": "Gay bar",
+        "cityId": "cape-town",
+        "categoryId": "night_clubs",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Gay%20bar%2C%20Cape%20Town",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Gay_bar",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/09/Comptons-Of-Soho.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Gay_bar"
+        }
+      },
+      {
+        "id": "cape-town-night_clubs-11",
+        "name": "Pierre de Vos",
+        "cityId": "cape-town",
+        "categoryId": "night_clubs",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Pierre%20de%20Vos%2C%20Cape%20Town",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Pierre_de_Vos",
+        "photo": null
+      },
+      {
+        "id": "cape-town-night_clubs-12",
+        "name": "The Kiffness",
+        "cityId": "cape-town",
+        "categoryId": "night_clubs",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Kiffness%2C%20Cape%20Town",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/The_Kiffness",
+        "photo": null
+      },
+      {
+        "id": "cape-town-night_clubs-13",
+        "name": "San Junipero",
+        "cityId": "cape-town",
+        "categoryId": "night_clubs",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=San%20Junipero%2C%20Cape%20Town",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/San_Junipero",
+        "photo": null
+      },
+      {
+        "id": "cape-town-night_clubs-14",
+        "name": "ChillOut Festival",
+        "cityId": "cape-town",
+        "categoryId": "night_clubs",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=ChillOut%20Festival%2C%20Cape%20Town",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/ChillOut_Festival",
+        "photo": null
+      },
+      {
+        "id": "cape-town-night_clubs-15",
+        "name": "Michaela Strachan",
+        "cityId": "cape-town",
+        "categoryId": "night_clubs",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Michaela%20Strachan%2C%20Cape%20Town",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Michaela_Strachan",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/7e/BS_2004-07-17_Michaela_Strachan_Chew_Wildlife_Experience_Dsc00185.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Michaela_Strachan"
+        }
+      },
+      {
+        "id": "cape-town-night_clubs-16",
+        "name": "Nightlife",
+        "cityId": "cape-town",
+        "categoryId": "night_clubs",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Nightlife%2C%20Cape%20Town",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Nightlife",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/1_times_square_night_2013.jpg/960px-1_times_square_night_2013.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Nightlife"
+        }
+      },
+      {
+        "id": "cape-town-night_clubs-17",
+        "name": "Gatecrasher",
+        "cityId": "cape-town",
+        "categoryId": "night_clubs",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Gatecrasher%2C%20Cape%20Town",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Gatecrasher",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/en/thumb/7/74/Revelers_at_Gatecrasher_One_%282007%29.jpg/960px-Revelers_at_Gatecrasher_One_%282007%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Gatecrasher"
+        }
+      },
+      {
+        "id": "cape-town-night_clubs-18",
+        "name": "Top 40 Music Magazine",
+        "cityId": "cape-town",
+        "categoryId": "night_clubs",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Top%2040%20Music%20Magazine%2C%20Cape%20Town",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Top_40_Music_Magazine",
+        "photo": null
+      }
+    ],
+    "restaurants": [
+      {
+        "id": "cape-town-restaurants-1",
+        "name": "Café Caprice",
+        "cityId": "cape-town",
+        "categoryId": "restaurants",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Caf%C3%A9%20Caprice%2C%20Cape%20Town",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Caf%C3%A9_Caprice",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/41/Cafe_Caprice_blue.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Caf%C3%A9_Caprice"
+        }
+      },
+      {
+        "id": "cape-town-restaurants-2",
+        "name": "Mzoli's",
+        "cityId": "cape-town",
+        "categoryId": "restaurants",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Mzoli's%2C%20Cape%20Town",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Mzoli's",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Outside_Mzolis.jpg/960px-Outside_Mzolis.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Mzoli's"
+        }
+      },
+      {
+        "id": "cape-town-restaurants-3",
+        "name": "Mugg & Bean",
+        "cityId": "cape-town",
+        "categoryId": "restaurants",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Mugg%20%26%20Bean%2C%20Cape%20Town",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Mugg_%26_Bean",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Mugg_and_Bean_R.jpg/960px-Mugg_and_Bean_R.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Mugg_%26_Bean"
+        }
+      },
+      {
+        "id": "cape-town-restaurants-4",
+        "name": "Underground restaurant",
+        "cityId": "cape-town",
+        "categoryId": "restaurants",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Underground%20restaurant%2C%20Cape%20Town",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Underground_restaurant",
+        "photo": null
+      },
+      {
+        "id": "cape-town-restaurants-5",
+        "name": "Mariner's Wharf",
+        "cityId": "cape-town",
+        "categoryId": "restaurants",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Mariner's%20Wharf%2C%20Cape%20Town",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Mariner's_Wharf",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/PHOTOGRAPH_-_MARINER%27S_WHARF_-_WIKIPEDIA.jpg/960px-PHOTOGRAPH_-_MARINER%27S_WHARF_-_WIKIPEDIA.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Mariner's_Wharf"
+        }
+      },
+      {
+        "id": "cape-town-restaurants-6",
+        "name": "Zeitz Museum of Contemporary Art Africa",
+        "cityId": "cape-town",
+        "categoryId": "restaurants",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Zeitz%20Museum%20of%20Contemporary%20Art%20Africa%2C%20Cape%20Town",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Zeitz_Museum_of_Contemporary_Art_Africa",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Zeitz_Museum_of_Contemporary_Art_Africa%2C_Cape_Town_%28_1050775%29.jpg/960px-Zeitz_Museum_of_Contemporary_Art_Africa%2C_Cape_Town_%28_1050775%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Zeitz_Museum_of_Contemporary_Art_Africa"
+        }
+      },
+      {
+        "id": "cape-town-restaurants-7",
+        "name": "Miller's Point, Western Cape",
+        "cityId": "cape-town",
+        "categoryId": "restaurants",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Miller's%20Point%2C%20Western%20Cape%2C%20Cape%20Town",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Miller's_Point%2C_Western_Cape",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/View_of_Millers_Point_-_South_Africa_9.JPG/960px-View_of_Millers_Point_-_South_Africa_9.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Miller's_Point%2C_Western_Cape"
+        }
+      },
+      {
+        "id": "cape-town-restaurants-8",
+        "name": "Sea Point",
+        "cityId": "cape-town",
+        "categoryId": "restaurants",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Sea%20Point%2C%20Cape%20Town",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Sea_Point",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/Aerial_View_of_Sea_Point%2C_Cape_Town_South_Africa.jpg/960px-Aerial_View_of_Sea_Point%2C_Cape_Town_South_Africa.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Sea_Point"
+        }
+      },
+      {
+        "id": "cape-town-restaurants-9",
+        "name": "Camps Bay",
+        "cityId": "cape-town",
+        "categoryId": "restaurants",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Camps%20Bay%2C%20Cape%20Town",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Camps_Bay",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/View_of_Camps_Bay.jpg/960px-View_of_Camps_Bay.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Camps_Bay"
+        }
+      },
+      {
+        "id": "cape-town-restaurants-10",
+        "name": "Conrad Gallagher",
+        "cityId": "cape-town",
+        "categoryId": "restaurants",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Conrad%20Gallagher%2C%20Cape%20Town",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Conrad_Gallagher",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Chef_Conrad_Gallagher.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Conrad_Gallagher"
+        }
+      },
+      {
+        "id": "cape-town-restaurants-11",
+        "name": "Bloubergstrand",
+        "cityId": "cape-town",
+        "categoryId": "restaurants",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Bloubergstrand%2C%20Cape%20Town",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Bloubergstrand",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Big-Bay-view.jpg/960px-Big-Bay-view.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Bloubergstrand"
+        }
+      },
+      {
+        "id": "cape-town-restaurants-12",
+        "name": "Abigail Mbalo-Mokoena",
+        "cityId": "cape-town",
+        "categoryId": "restaurants",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Abigail%20Mbalo-Mokoena%2C%20Cape%20Town",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Abigail_Mbalo-Mokoena",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Media_and_media_after_media_%28cropped%29.jpg/960px-Media_and_media_after_media_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Abigail_Mbalo-Mokoena"
+        }
+      },
+      {
+        "id": "cape-town-restaurants-13",
+        "name": "Noordhoek, Cape Town",
+        "cityId": "cape-town",
+        "categoryId": "restaurants",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Noordhoek%2C%20Cape%20Town%2C%20Cape%20Town",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Noordhoek%2C_Cape_Town",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Playa_Noordhoek%2C_Sud%C3%A1frica%2C_2018-07-23%2C_DD_126.jpg/960px-Playa_Noordhoek%2C_Sud%C3%A1frica%2C_2018-07-23%2C_DD_126.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Noordhoek%2C_Cape_Town"
+        }
+      },
+      {
+        "id": "cape-town-restaurants-14",
+        "name": "Pollsmoor Prison",
+        "cityId": "cape-town",
+        "categoryId": "restaurants",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Pollsmoor%20Prison%2C%20Cape%20Town",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Pollsmoor_Prison",
+        "photo": null
+      },
+      {
+        "id": "cape-town-restaurants-15",
+        "name": "Karen Dudley",
+        "cityId": "cape-town",
+        "categoryId": "restaurants",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Karen%20Dudley%2C%20Cape%20Town",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Karen_Dudley",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Karen_Dudley1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Karen_Dudley"
+        }
+      },
+      {
+        "id": "cape-town-restaurants-16",
+        "name": "Woodstock, Cape Town",
+        "cityId": "cape-town",
+        "categoryId": "restaurants",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Woodstock%2C%20Cape%20Town%2C%20Cape%20Town",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Woodstock%2C_Cape_Town",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/WoodstockSouthCapeTown.jpg/960px-WoodstockSouthCapeTown.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Woodstock%2C_Cape_Town"
+        }
+      },
+      {
+        "id": "cape-town-restaurants-17",
+        "name": "Groot Constantia",
+        "cityId": "cape-town",
+        "categoryId": "restaurants",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Groot%20Constantia%2C%20Cape%20Town",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Groot_Constantia",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Groot_Constantia.jpg/960px-Groot_Constantia.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Groot_Constantia"
+        }
+      },
+      {
+        "id": "cape-town-restaurants-18",
+        "name": "Melkbosstrand",
+        "cityId": "cape-town",
+        "categoryId": "restaurants",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Melkbosstrand%2C%20Cape%20Town",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Melkbosstrand",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Beach_at_Melkbosstrand.JPG/960px-Beach_at_Melkbosstrand.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Melkbosstrand"
+        }
+      }
+    ],
+    "bars": [
+      {
+        "id": "cape-town-bars-1",
+        "name": "Café Caprice",
+        "cityId": "cape-town",
+        "categoryId": "bars",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Caf%C3%A9%20Caprice%2C%20Cape%20Town",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Caf%C3%A9_Caprice",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/41/Cafe_Caprice_blue.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Caf%C3%A9_Caprice"
+        }
+      },
+      {
+        "id": "cape-town-bars-2",
+        "name": "SAS Somerset",
+        "cityId": "cape-town",
+        "categoryId": "bars",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=SAS%20Somerset%2C%20Cape%20Town",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/SAS_Somerset",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/HMS_Barcross_1943.jpg/960px-HMS_Barcross_1943.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/SAS_Somerset"
+        }
+      },
+      {
+        "id": "cape-town-bars-3",
+        "name": "Owen Rogers",
+        "cityId": "cape-town",
+        "categoryId": "bars",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Owen%20Rogers%2C%20Cape%20Town",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Owen_Rogers",
+        "photo": null
+      },
+      {
+        "id": "cape-town-bars-4",
+        "name": "Mariner's Wharf",
+        "cityId": "cape-town",
+        "categoryId": "bars",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Mariner's%20Wharf%2C%20Cape%20Town",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Mariner's_Wharf",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/PHOTOGRAPH_-_MARINER%27S_WHARF_-_WIKIPEDIA.jpg/960px-PHOTOGRAPH_-_MARINER%27S_WHARF_-_WIKIPEDIA.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Mariner's_Wharf"
+        }
+      },
+      {
+        "id": "cape-town-bars-5",
+        "name": "Slave Lodge, Cape Town",
+        "cityId": "cape-town",
+        "categoryId": "bars",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Slave%20Lodge%2C%20Cape%20Town%2C%20Cape%20Town",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Slave_Lodge%2C_Cape_Town",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Slave_Lodge_museum.jpg/960px-Slave_Lodge_museum.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Slave_Lodge%2C_Cape_Town"
+        }
+      },
+      {
+        "id": "cape-town-bars-6",
+        "name": "Cape Town International Convention Centre",
+        "cityId": "cape-town",
+        "categoryId": "bars",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Cape%20Town%20International%20Convention%20Centre%2C%20Cape%20Town",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Cape_Town_International_Convention_Centre",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/en/thumb/8/87/Cape_Town_International_Convention_Centre.jpg/960px-Cape_Town_International_Convention_Centre.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Cape_Town_International_Convention_Centre"
+        }
+      },
+      {
+        "id": "cape-town-bars-7",
+        "name": "Zandvlei Estuary Nature Reserve",
+        "cityId": "cape-town",
+        "categoryId": "bars",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Zandvlei%20Estuary%20Nature%20Reserve%2C%20Cape%20Town",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Zandvlei_Estuary_Nature_Reserve",
+        "photo": null
+      },
+      {
+        "id": "cape-town-bars-8",
+        "name": "Devon Petersen",
+        "cityId": "cape-town",
+        "categoryId": "bars",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Devon%20Petersen%2C%20Cape%20Town",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Devon_Petersen",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f8/DevonPetersen2025.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Devon_Petersen"
+        }
+      },
+      {
+        "id": "cape-town-bars-9",
+        "name": "Donald Barkly Molteno",
+        "cityId": "cape-town",
+        "categoryId": "bars",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Donald%20Barkly%20Molteno%2C%20Cape%20Town",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Donald_Barkly_Molteno",
+        "photo": null
+      },
+      {
+        "id": "cape-town-bars-10",
+        "name": "Labia Theatre",
+        "cityId": "cape-town",
+        "categoryId": "bars",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Labia%20Theatre%2C%20Cape%20Town",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Labia_Theatre",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Labia_Theatre%2C_Cape_Town_%288490360519%29.jpg/960px-Labia_Theatre%2C_Cape_Town_%288490360519%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Labia_Theatre"
+        }
+      },
+      {
+        "id": "cape-town-bars-11",
+        "name": "Canal Walk",
+        "cityId": "cape-town",
+        "categoryId": "bars",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Canal%20Walk%2C%20Cape%20Town",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Canal_Walk",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Canal_walk_cpt.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Canal_Walk"
+        }
+      },
+      {
+        "id": "cape-town-bars-12",
+        "name": "Bo-Kaap",
+        "cityId": "cape-town",
+        "categoryId": "bars",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Bo-Kaap%2C%20Cape%20Town",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Bo-Kaap",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Boe-Kaap.jpg/960px-Boe-Kaap.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Bo-Kaap"
+        }
+      },
+      {
+        "id": "cape-town-bars-13",
+        "name": "South African Union for Progressive Judaism",
+        "cityId": "cape-town",
+        "categoryId": "bars",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=South%20African%20Union%20for%20Progressive%20Judaism%2C%20Cape%20Town",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/South_African_Union_for_Progressive_Judaism",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/WorldUnionProgressiveJudaism1970.jpg/960px-WorldUnionProgressiveJudaism1970.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/South_African_Union_for_Progressive_Judaism"
+        }
+      },
+      {
+        "id": "cape-town-bars-14",
+        "name": "Army Cross",
+        "cityId": "cape-town",
+        "categoryId": "bars",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Army%20Cross%2C%20Cape%20Town",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Army_Cross",
+        "photo": null
+      },
+      {
+        "id": "cape-town-bars-15",
+        "name": "M5",
+        "cityId": "cape-town",
+        "categoryId": "bars",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=M5%2C%20Cape%20Town",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/M5_(Cape_Town)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Cape_Town_M5_route_map.svg/960px-Cape_Town_M5_route_map.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/M5_(Cape_Town)"
+        }
+      },
+      {
+        "id": "cape-town-bars-16",
+        "name": "U-Carmen eKhayelitsha",
+        "cityId": "cape-town",
+        "categoryId": "bars",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=U-Carmen%20eKhayelitsha%2C%20Cape%20Town",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/U-Carmen_eKhayelitsha",
+        "photo": null
+      },
+      {
+        "id": "cape-town-bars-17",
+        "name": "Gallery Mau Mau",
+        "cityId": "cape-town",
+        "categoryId": "bars",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Gallery%20Mau%20Mau%2C%20Cape%20Town",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Gallery_Mau_Mau",
+        "photo": null
+      },
+      {
+        "id": "cape-town-bars-18",
+        "name": "Eldred Tabachnik",
+        "cityId": "cape-town",
+        "categoryId": "bars",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Eldred%20Tabachnik%2C%20Cape%20Town",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Eldred_Tabachnik",
+        "photo": null
+      }
+    ],
+    "coffee_shops": [
+      {
+        "id": "cape-town-coffee_shops-1",
+        "name": "Café Caprice",
+        "cityId": "cape-town",
+        "categoryId": "coffee_shops",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Caf%C3%A9%20Caprice%2C%20Cape%20Town",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Caf%C3%A9_Caprice",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/41/Cafe_Caprice_blue.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Caf%C3%A9_Caprice"
+        }
+      },
+      {
+        "id": "cape-town-coffee_shops-2",
+        "name": "Woolworths",
+        "cityId": "cape-town",
+        "categoryId": "coffee_shops",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Woolworths%2C%20Cape%20Town",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Woolworths_(South_Africa)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Woolworths_Food_Store_in_Mongague_Gardens%2C_Cape_Town.jpg/960px-Woolworths_Food_Store_in_Mongague_Gardens%2C_Cape_Town.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Woolworths_(South_Africa)"
+        }
+      },
+      {
+        "id": "cape-town-coffee_shops-3",
+        "name": "Table Mountain Aerial Cableway",
+        "cityId": "cape-town",
+        "categoryId": "coffee_shops",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Table%20Mountain%20Aerial%20Cableway%2C%20Cape%20Town",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Table_Mountain_Aerial_Cableway",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/TableMountainAerialCableway2018.jpg/960px-TableMountainAerialCableway2018.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Table_Mountain_Aerial_Cableway"
+        }
+      },
+      {
+        "id": "cape-town-coffee_shops-4",
+        "name": "Bhai's Cafe",
+        "cityId": "cape-town",
+        "categoryId": "coffee_shops",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Bhai's%20Cafe%2C%20Cape%20Town",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Bhai's_Cafe",
+        "photo": null
+      },
+      {
+        "id": "cape-town-coffee_shops-5",
+        "name": "Athlone Stadium",
+        "cityId": "cape-town",
+        "categoryId": "coffee_shops",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Athlone%20Stadium%2C%20Cape%20Town",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Athlone_Stadium",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/Athlone_Stadium_-_panoramio.jpg/960px-Athlone_Stadium_-_panoramio.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Athlone_Stadium"
+        }
+      },
+      {
+        "id": "cape-town-coffee_shops-6",
+        "name": "Harfield Village",
+        "cityId": "cape-town",
+        "categoryId": "coffee_shops",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Harfield%20Village%2C%20Cape%20Town",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Harfield_Village",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/Harfield_Village_-_Hampstead_Park.jpg/960px-Harfield_Village_-_Hampstead_Park.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Harfield_Village"
+        }
+      },
+      {
+        "id": "cape-town-coffee_shops-7",
+        "name": "Noordhoek, Cape Town",
+        "cityId": "cape-town",
+        "categoryId": "coffee_shops",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Noordhoek%2C%20Cape%20Town%2C%20Cape%20Town",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Noordhoek%2C_Cape_Town",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Playa_Noordhoek%2C_Sud%C3%A1frica%2C_2018-07-23%2C_DD_126.jpg/960px-Playa_Noordhoek%2C_Sud%C3%A1frica%2C_2018-07-23%2C_DD_126.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Noordhoek%2C_Cape_Town"
+        }
+      },
+      {
+        "id": "cape-town-coffee_shops-8",
+        "name": "Kommetjie",
+        "cityId": "cape-town",
+        "categoryId": "coffee_shops",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Kommetjie%2C%20Cape%20Town",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Kommetjie",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Kommetjie_from_Hout_Bay.jpg/960px-Kommetjie_from_Hout_Bay.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Kommetjie"
+        }
+      },
+      {
+        "id": "cape-town-coffee_shops-9",
+        "name": "Gardens Shul",
+        "cityId": "cape-town",
+        "categoryId": "coffee_shops",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Gardens%20Shul%2C%20Cape%20Town",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Gardens_Shul",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Cape_Town_Hebrew_Congregation.jpg/960px-Cape_Town_Hebrew_Congregation.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Gardens_Shul"
+        }
+      },
+      {
+        "id": "cape-town-coffee_shops-10",
+        "name": "Newlands Stadium",
+        "cityId": "cape-town",
+        "categoryId": "coffee_shops",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Newlands%20Stadium%2C%20Cape%20Town",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Newlands_Stadium",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/be/Newlands_Rugby.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Newlands_Stadium"
+        }
+      },
+      {
+        "id": "cape-town-coffee_shops-11",
+        "name": "Philippi Stadium",
+        "cityId": "cape-town",
+        "categoryId": "coffee_shops",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Philippi%20Stadium%2C%20Cape%20Town",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Philippi_Stadium",
+        "photo": null
+      },
+      {
+        "id": "cape-town-coffee_shops-12",
+        "name": "Killarney Gardens",
+        "cityId": "cape-town",
+        "categoryId": "coffee_shops",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Killarney%20Gardens%2C%20Cape%20Town",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Killarney_Gardens",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/2011-06-20_13-06-07_South_Africa_-_Killarney_Gardens.JPG/960px-2011-06-20_13-06-07_South_Africa_-_Killarney_Gardens.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Killarney_Gardens"
+        }
+      },
+      {
+        "id": "cape-town-coffee_shops-13",
+        "name": "Cape Town",
+        "cityId": "cape-town",
+        "categoryId": "coffee_shops",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Cape%20Town%2C%20Cape%20Town",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Cape_Town",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Camps_bay_%2853460319478%29_%28cropped%29.jpg/960px-Camps_bay_%2853460319478%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Cape_Town"
+        }
+      },
+      {
+        "id": "cape-town-coffee_shops-14",
+        "name": "Coffee culture",
+        "cityId": "cape-town",
+        "categoryId": "coffee_shops",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Coffee%20culture%2C%20Cape%20Town",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Coffee_culture",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Syria.Damascus.CoffeeHouse.01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Coffee_culture"
+        }
+      },
+      {
+        "id": "cape-town-coffee_shops-15",
+        "name": "South African Sendinggestig Museum",
+        "cityId": "cape-town",
+        "categoryId": "coffee_shops",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=South%20African%20Sendinggestig%20Museum%2C%20Cape%20Town",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/South_African_Sendinggestig_Museum",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Museum_Facade.jpg/960px-Museum_Facade.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/South_African_Sendinggestig_Museum"
+        }
+      },
+      {
+        "id": "cape-town-coffee_shops-16",
+        "name": "Vida e Caffè",
+        "cityId": "cape-town",
+        "categoryId": "coffee_shops",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Vida%20e%20Caff%C3%A8%2C%20Cape%20Town",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Vida_e_Caff%C3%A8",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Inside_a_vida_e_caff%C3%A8_store_in_Constantia%2C_Cape_Town.jpg/960px-Inside_a_vida_e_caff%C3%A8_store_in_Constantia%2C_Cape_Town.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Vida_e_Caff%C3%A8"
+        }
+      },
+      {
+        "id": "cape-town-coffee_shops-17",
+        "name": "Outline of Cape Town",
+        "cityId": "cape-town",
+        "categoryId": "coffee_shops",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Outline%20of%20Cape%20Town%2C%20Cape%20Town",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Outline_of_Cape_Town",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/Ciudad_del_Cabo_desde_Cabeza_de_Le%C3%B3n%2C_Sud%C3%A1frica%2C_2018-07-22%2C_DD_34.jpg/960px-Ciudad_del_Cabo_desde_Cabeza_de_Le%C3%B3n%2C_Sud%C3%A1frica%2C_2018-07-22%2C_DD_34.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Outline_of_Cape_Town"
+        }
+      },
+      {
+        "id": "cape-town-coffee_shops-18",
+        "name": "V&A Waterfront",
+        "cityId": "cape-town",
+        "categoryId": "coffee_shops",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=V%26A%20Waterfront%2C%20Cape%20Town",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/V%26A_Waterfront",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Signal_Hill_and_Ferris_wheel_from_Victoria_Wharf_balcony%2C_Cape_Town.jpg/960px-Signal_Hill_and_Ferris_wheel_from_Victoria_Wharf_balcony%2C_Cape_Town.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/V%26A_Waterfront"
+        }
+      }
+    ],
+    "bookshops": [
+      {
+        "id": "cape-town-bookshops-1",
+        "name": "Clarke's Bookshop",
+        "cityId": "cape-town",
+        "categoryId": "bookshops",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Clarke's%20Bookshop%2C%20Cape%20Town",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Clarke's_Bookshop",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Exterior_of_Clarke%27s_Bookshop_June_2026.jpg/960px-Exterior_of_Clarke%27s_Bookshop_June_2026.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Clarke's_Bookshop"
+        }
+      },
+      {
+        "id": "cape-town-bookshops-2",
+        "name": "August Aimé Balkema",
+        "cityId": "cape-town",
+        "categoryId": "bookshops",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=August%20Aim%C3%A9%20Balkema%2C%20Cape%20Town",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/August_Aim%C3%A9_Balkema",
+        "photo": null
+      },
+      {
+        "id": "cape-town-bookshops-3",
+        "name": "Foyles",
+        "cityId": "cape-town",
+        "categoryId": "bookshops",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Foyles%2C%20Cape%20Town",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Foyles",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/Foyles%2C_Charing_Cross_Road_%28April_2015%29_%28cropped%29.jpg/960px-Foyles%2C_Charing_Cross_Road_%28April_2015%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Foyles"
+        }
+      },
+      {
+        "id": "cape-town-bookshops-4",
+        "name": "Sex shop",
+        "cityId": "cape-town",
+        "categoryId": "bookshops",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Sex%20shop%2C%20Cape%20Town",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Sex_shop",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Sex-shops-on-boulevard-de-clichi.jpg/960px-Sex-shops-on-boulevard-de-clichi.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Sex_shop"
+        }
+      },
+      {
+        "id": "cape-town-bookshops-5",
+        "name": "Exclusive Books",
+        "cityId": "cape-town",
+        "categoryId": "bookshops",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Exclusive%20Books%2C%20Cape%20Town",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Exclusive_Books",
+        "photo": null
+      },
+      {
+        "id": "cape-town-bookshops-6",
+        "name": "Strand",
+        "cityId": "cape-town",
+        "categoryId": "bookshops",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Strand%2C%20Cape%20Town",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Strand",
+        "photo": null
+      },
+      {
+        "id": "cape-town-bookshops-7",
+        "name": "The Amazing Race Norge 2",
+        "cityId": "cape-town",
+        "categoryId": "bookshops",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Amazing%20Race%20Norge%202%2C%20Cape%20Town",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/The_Amazing_Race_Norge_2",
+        "photo": null
+      },
+      {
+        "id": "cape-town-bookshops-8",
+        "name": "Casanegra",
+        "cityId": "cape-town",
+        "categoryId": "bookshops",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Casanegra%2C%20Cape%20Town",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Casanegra_(novel)",
+        "photo": null
+      },
+      {
+        "id": "cape-town-bookshops-9",
+        "name": "Sarah Goldblatt",
+        "cityId": "cape-town",
+        "categoryId": "bookshops",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Sarah%20Goldblatt%2C%20Cape%20Town",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Sarah_Goldblatt",
+        "photo": null
+      },
+      {
+        "id": "cape-town-bookshops-10",
+        "name": "Clarke",
+        "cityId": "cape-town",
+        "categoryId": "bookshops",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Clarke%2C%20Cape%20Town",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Clarke_(disambiguation)",
+        "photo": null
+      },
+      {
+        "id": "cape-town-bookshops-11",
+        "name": "Amazon",
+        "cityId": "cape-town",
+        "categoryId": "bookshops",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Amazon%2C%20Cape%20Town",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Amazon_(company)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Amazon_Tower_I_topped_out%2C_June_2015.jpg/960px-Amazon_Tower_I_topped_out%2C_June_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Amazon_(company)"
+        }
+      },
+      {
+        "id": "cape-town-bookshops-12",
+        "name": "The Mauritius Command",
+        "cityId": "cape-town",
+        "categoryId": "bookshops",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Mauritius%20Command%2C%20Cape%20Town",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/The_Mauritius_Command",
+        "photo": null
+      },
+      {
+        "id": "cape-town-bookshops-13",
+        "name": "Ken Lamberton",
+        "cityId": "cape-town",
+        "categoryId": "bookshops",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Ken%20Lamberton%2C%20Cape%20Town",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Ken_Lamberton",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/65/Ken_amherstIMG_1015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Ken_Lamberton"
+        }
+      },
+      {
+        "id": "cape-town-bookshops-14",
+        "name": "Masande Ntshanga",
+        "cityId": "cape-town",
+        "categoryId": "bookshops",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Masande%20Ntshanga%2C%20Cape%20Town",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Masande_Ntshanga",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/Masande_Ntshanga_-_2021.jpg/960px-Masande_Ntshanga_-_2021.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Masande_Ntshanga"
+        }
+      },
+      {
+        "id": "cape-town-bookshops-15",
+        "name": "Sarah Dryden-Peterson",
+        "cityId": "cape-town",
+        "categoryId": "bookshops",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Sarah%20Dryden-Peterson%2C%20Cape%20Town",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Sarah_Dryden-Peterson",
+        "photo": null
+      },
+      {
+        "id": "cape-town-bookshops-16",
+        "name": "Vancouver Pride Parade",
+        "cityId": "cape-town",
+        "categoryId": "bookshops",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Vancouver%20Pride%20Parade%2C%20Cape%20Town",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Vancouver_Pride_Parade",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Justin_Trudeau_at_the_Vancouver_Pride_Parade_-_2018_%2842968601755%29.jpg/960px-Justin_Trudeau_at_the_Vancouver_Pride_Parade_-_2018_%2842968601755%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Vancouver_Pride_Parade"
+        }
+      },
+      {
+        "id": "cape-town-bookshops-17",
+        "name": "Eleanor Kasrils",
+        "cityId": "cape-town",
+        "categoryId": "bookshops",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Eleanor%20Kasrils%2C%20Cape%20Town",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Eleanor_Kasrils",
+        "photo": null
+      },
+      {
+        "id": "cape-town-bookshops-18",
+        "name": "Sholem Schwarzbard",
+        "cityId": "cape-town",
+        "categoryId": "bookshops",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Sholem%20Schwarzbard%2C%20Cape%20Town",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Sholem_Schwarzbard",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/37/Sholem_Schwarzbard_1926.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Sholem_Schwarzbard"
+        }
+      }
+    ],
+    "museums": [
+      {
+        "id": "cape-town-museums-1",
+        "name": "Heart of Cape Town Museum",
+        "cityId": "cape-town",
+        "categoryId": "museums",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Heart%20of%20Cape%20Town%20Museum%2C%20Cape%20Town",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Heart_of_Cape_Town_Museum",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/Groote_Schuur_Hospital_in_South_Africa.JPG/960px-Groote_Schuur_Hospital_in_South_Africa.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Heart_of_Cape_Town_Museum"
+        }
+      },
+      {
+        "id": "cape-town-museums-2",
+        "name": "Waterworks Museum",
+        "cityId": "cape-town",
+        "categoryId": "museums",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Waterworks%20Museum%2C%20Cape%20Town",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Waterworks_Museum_(Cape_Town)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/Crane_at_Waterworks_Museu.JPG/960px-Crane_at_Waterworks_Museu.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Waterworks_Museum_(Cape_Town)"
+        }
+      },
+      {
+        "id": "cape-town-museums-3",
+        "name": "Bo-Kaap",
+        "cityId": "cape-town",
+        "categoryId": "museums",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Bo-Kaap%2C%20Cape%20Town",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Bo-Kaap",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Boe-Kaap.jpg/960px-Boe-Kaap.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Bo-Kaap"
+        }
+      },
+      {
+        "id": "cape-town-museums-4",
+        "name": "South African Sendinggestig Museum",
+        "cityId": "cape-town",
+        "categoryId": "museums",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=South%20African%20Sendinggestig%20Museum%2C%20Cape%20Town",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/South_African_Sendinggestig_Museum",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Museum_Facade.jpg/960px-Museum_Facade.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/South_African_Sendinggestig_Museum"
+        }
+      },
+      {
+        "id": "cape-town-museums-5",
+        "name": "Cape Town Science Centre",
+        "cityId": "cape-town",
+        "categoryId": "museums",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Cape%20Town%20Science%20Centre%2C%20Cape%20Town",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Cape_Town_Science_Centre",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Cape_Town_Science_Centre.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Cape_Town_Science_Centre"
+        }
+      },
+      {
+        "id": "cape-town-museums-6",
+        "name": "Slave Lodge, Cape Town",
+        "cityId": "cape-town",
+        "categoryId": "museums",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Slave%20Lodge%2C%20Cape%20Town%2C%20Cape%20Town",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Slave_Lodge%2C_Cape_Town",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Slave_Lodge_museum.jpg/960px-Slave_Lodge_museum.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Slave_Lodge%2C_Cape_Town"
+        }
+      },
+      {
+        "id": "cape-town-museums-7",
+        "name": "Iziko Museums of South Africa",
+        "cityId": "cape-town",
+        "categoryId": "museums",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Iziko%20Museums%20of%20South%20Africa%2C%20Cape%20Town",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Iziko_Museums_of_South_Africa",
+        "photo": null
+      },
+      {
+        "id": "cape-town-museums-8",
+        "name": "Cape Town Holocaust Centre",
+        "cityId": "cape-town",
+        "categoryId": "museums",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Cape%20Town%20Holocaust%20Centre%2C%20Cape%20Town",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Cape_Town_Holocaust_Centre",
+        "photo": null
+      },
+      {
+        "id": "cape-town-museums-9",
+        "name": "Chavonnes Battery",
+        "cityId": "cape-town",
+        "categoryId": "museums",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Chavonnes%20Battery%2C%20Cape%20Town",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Chavonnes_Battery",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Chavonnes_Battery%2C_Cape_Town_2018_33.jpg/960px-Chavonnes_Battery%2C_Cape_Town_2018_33.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Chavonnes_Battery"
+        }
+      },
+      {
+        "id": "cape-town-museums-10",
+        "name": "Jacob Gitlin Library",
+        "cityId": "cape-town",
+        "categoryId": "museums",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Jacob%20Gitlin%20Library%2C%20Cape%20Town",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Jacob_Gitlin_Library",
+        "photo": null
+      },
+      {
+        "id": "cape-town-museums-11",
+        "name": "Simon's Town",
+        "cityId": "cape-town",
+        "categoryId": "museums",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Simon's%20Town%2C%20Cape%20Town",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Simon's_Town",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Simons-town.jpg/960px-Simons-town.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Simon's_Town"
+        }
+      },
+      {
+        "id": "cape-town-museums-12",
+        "name": "District Six Museum",
+        "cityId": "cape-town",
+        "categoryId": "museums",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=District%20Six%20Museum%2C%20Cape%20Town",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/District_Six_Museum",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/District_Six_Museum_looking_west_jeh.jpg/960px-District_Six_Museum_looking_west_jeh.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/District_Six_Museum"
+        }
+      },
+      {
+        "id": "cape-town-museums-13",
+        "name": "Zeitz Museum of Contemporary Art Africa",
+        "cityId": "cape-town",
+        "categoryId": "museums",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Zeitz%20Museum%20of%20Contemporary%20Art%20Africa%2C%20Cape%20Town",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Zeitz_Museum_of_Contemporary_Art_Africa",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Zeitz_Museum_of_Contemporary_Art_Africa%2C_Cape_Town_%28_1050775%29.jpg/960px-Zeitz_Museum_of_Contemporary_Art_Africa%2C_Cape_Town_%28_1050775%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Zeitz_Museum_of_Contemporary_Art_Africa"
+        }
+      },
+      {
+        "id": "cape-town-museums-14",
+        "name": "Killarney Gardens",
+        "cityId": "cape-town",
+        "categoryId": "museums",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Killarney%20Gardens%2C%20Cape%20Town",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Killarney_Gardens",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/2011-06-20_13-06-07_South_Africa_-_Killarney_Gardens.JPG/960px-2011-06-20_13-06-07_South_Africa_-_Killarney_Gardens.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Killarney_Gardens"
+        }
+      },
+      {
+        "id": "cape-town-museums-15",
+        "name": "Bertram House",
+        "cityId": "cape-town",
+        "categoryId": "museums",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Bertram%20House%2C%20Cape%20Town",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Bertram_House",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/9_2_018_0190-Bertram_House-Cape_Town-s.jpg/960px-9_2_018_0190-Bertram_House-Cape_Town-s.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Bertram_House"
+        }
+      },
+      {
+        "id": "cape-town-museums-16",
+        "name": "Cape Medical Museum",
+        "cityId": "cape-town",
+        "categoryId": "museums",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Cape%20Medical%20Museum%2C%20Cape%20Town",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Cape_Medical_Museum",
+        "photo": null
+      },
+      {
+        "id": "cape-town-museums-17",
+        "name": "Hout Bay Museum",
+        "cityId": "cape-town",
+        "categoryId": "museums",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Hout%20Bay%20Museum%2C%20Cape%20Town",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Hout_Bay_Museum",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Hout_bay_museum_2.JPG/960px-Hout_bay_museum_2.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Hout_Bay_Museum"
+        }
+      },
+      {
+        "id": "cape-town-museums-18",
+        "name": "Simon's Town Museum",
+        "cityId": "cape-town",
+        "categoryId": "museums",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Simon's%20Town%20Museum%2C%20Cape%20Town",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Simon's_Town_Museum",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Simonstown_Museum_2.JPG/960px-Simonstown_Museum_2.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Simon's_Town_Museum"
+        }
+      }
+    ],
+    "concerts": [
+      {
+        "id": "cape-town-concerts-1",
+        "name": "South African College of Music",
+        "cityId": "cape-town",
+        "categoryId": "concerts",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=South%20African%20College%20of%20Music%2C%20Cape%20Town",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/South_African_College_of_Music",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/SA_College_of_Music.jpg/960px-SA_College_of_Music.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/South_African_College_of_Music"
+        }
+      },
+      {
+        "id": "cape-town-concerts-2",
+        "name": "Aarhus Pride",
+        "cityId": "cape-town",
+        "categoryId": "concerts",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Aarhus%20Pride%2C%20Cape%20Town",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Aarhus_Pride",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Aarhus_Pride%2C_2012%2C_start_of_day.jpg/960px-Aarhus_Pride%2C_2012%2C_start_of_day.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Aarhus_Pride"
+        }
+      },
+      {
+        "id": "cape-town-concerts-3",
+        "name": "Cape Town Philharmonic Orchestra",
+        "cityId": "cape-town",
+        "categoryId": "concerts",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Cape%20Town%20Philharmonic%20Orchestra%2C%20Cape%20Town",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Cape_Town_Philharmonic_Orchestra",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Cape_Philharmonic_Orchestra.jpg/960px-Cape_Philharmonic_Orchestra.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Cape_Town_Philharmonic_Orchestra"
+        }
+      },
+      {
+        "id": "cape-town-concerts-4",
+        "name": "Lionel Bastos",
+        "cityId": "cape-town",
+        "categoryId": "concerts",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Lionel%20Bastos%2C%20Cape%20Town",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Lionel_Bastos",
+        "photo": null
+      },
+      {
+        "id": "cape-town-concerts-5",
+        "name": "Diocesan College",
+        "cityId": "cape-town",
+        "categoryId": "concerts",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Diocesan%20College%2C%20Cape%20Town",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Diocesan_College",
+        "photo": null
+      },
+      {
+        "id": "cape-town-concerts-6",
+        "name": "Unrepentant Geraldines Tour",
+        "cityId": "cape-town",
+        "categoryId": "concerts",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Unrepentant%20Geraldines%20Tour%2C%20Cape%20Town",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Unrepentant_Geraldines_Tour",
+        "photo": null
+      },
+      {
+        "id": "cape-town-concerts-7",
+        "name": "University of Cape Town",
+        "cityId": "cape-town",
+        "categoryId": "concerts",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=University%20of%20Cape%20Town%2C%20Cape%20Town",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/University_of_Cape_Town",
+        "photo": null
+      },
+      {
+        "id": "cape-town-concerts-8",
+        "name": "Henri Arends",
+        "cityId": "cape-town",
+        "categoryId": "concerts",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Henri%20Arends%2C%20Cape%20Town",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Henri_Arends",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/HenriArends1963.jpg/960px-HenriArends1963.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Henri_Arends"
+        }
+      },
+      {
+        "id": "cape-town-concerts-9",
+        "name": "Ernest Fleischmann",
+        "cityId": "cape-town",
+        "categoryId": "concerts",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Ernest%20Fleischmann%2C%20Cape%20Town",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Ernest_Fleischmann",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/12/Blanche_Gerstman_and_Ernest_Fleischmann_in_Conducting_Class_1947.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Ernest_Fleischmann"
+        }
+      },
+      {
+        "id": "cape-town-concerts-10",
+        "name": "Laura Stevens",
+        "cityId": "cape-town",
+        "categoryId": "concerts",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Laura%20Stevens%2C%20Cape%20Town",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Laura_Stevens",
+        "photo": null
+      },
+      {
+        "id": "cape-town-concerts-11",
+        "name": "Amazing Race",
+        "cityId": "cape-town",
+        "categoryId": "concerts",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Amazing%20Race%2C%20Cape%20Town",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Amazing_Race_(French_TV_series)",
+        "photo": null
+      },
+      {
+        "id": "cape-town-concerts-12",
+        "name": "Night of Hunters Tour",
+        "cityId": "cape-town",
+        "categoryId": "concerts",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Night%20of%20Hunters%20Tour%2C%20Cape%20Town",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Night_of_Hunters_Tour",
+        "photo": null
+      },
+      {
+        "id": "cape-town-concerts-13",
+        "name": "Hillsong Church São Paulo",
+        "cityId": "cape-town",
+        "categoryId": "concerts",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Hillsong%20Church%20S%C3%A3o%20Paulo%2C%20Cape%20Town",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Hillsong_Church_S%C3%A3o_Paulo",
+        "photo": null
+      },
+      {
+        "id": "cape-town-concerts-14",
+        "name": "Levy Sekgapane",
+        "cityId": "cape-town",
+        "categoryId": "concerts",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Levy%20Sekgapane%2C%20Cape%20Town",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Levy_Sekgapane",
+        "photo": null
+      },
+      {
+        "id": "cape-town-concerts-15",
+        "name": "NorrlandsOperan",
+        "cityId": "cape-town",
+        "categoryId": "concerts",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=NorrlandsOperan%2C%20Cape%20Town",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/NorrlandsOperan",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Norrlandsoperan_small.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/NorrlandsOperan"
+        }
+      },
+      {
+        "id": "cape-town-concerts-16",
+        "name": "University of Limerick",
+        "cityId": "cape-town",
+        "categoryId": "concerts",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=University%20of%20Limerick%2C%20Cape%20Town",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/University_of_Limerick",
+        "photo": null
+      },
+      {
+        "id": "cape-town-concerts-17",
+        "name": "Albert Tiu",
+        "cityId": "cape-town",
+        "categoryId": "concerts",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Albert%20Tiu%2C%20Cape%20Town",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Albert_Tiu",
+        "photo": null
+      },
+      {
+        "id": "cape-town-concerts-18",
+        "name": "Waterfront",
+        "cityId": "cape-town",
+        "categoryId": "concerts",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Waterfront%2C%20Cape%20Town",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Waterfront",
+        "photo": null
+      }
+    ],
+    "fashion": [
+      {
+        "id": "cape-town-fashion-1",
+        "name": "Ackermans",
+        "cityId": "cape-town",
+        "categoryId": "fashion",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Ackermans%2C%20Cape%20Town",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Ackermans",
+        "photo": null
+      },
+      {
+        "id": "cape-town-fashion-2",
+        "name": "Pick n Pay",
+        "cityId": "cape-town",
+        "categoryId": "fashion",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Pick%20n%20Pay%2C%20Cape%20Town",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Pick_n_Pay",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Pick_n_Pay_Store_in_Cape_Town.jpg/960px-Pick_n_Pay_Store_in_Cape_Town.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Pick_n_Pay"
+        }
+      },
+      {
+        "id": "cape-town-fashion-3",
+        "name": "David Goldblatt",
+        "cityId": "cape-town",
+        "categoryId": "fashion",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=David%20Goldblatt%2C%20Cape%20Town",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/David_Goldblatt",
+        "photo": null
+      },
+      {
+        "id": "cape-town-fashion-4",
+        "name": "Richard Scott",
+        "cityId": "cape-town",
+        "categoryId": "fashion",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Richard%20Scott%2C%20Cape%20Town",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Richard_Scott_(artist)",
+        "photo": null
+      },
+      {
+        "id": "cape-town-fashion-5",
+        "name": "Madiba shirt",
+        "cityId": "cape-town",
+        "categoryId": "fashion",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Madiba%20shirt%2C%20Cape%20Town",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Madiba_shirt",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Nelson_Mandela_1998.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Madiba_shirt"
+        }
+      },
+      {
+        "id": "cape-town-fashion-6",
+        "name": "Blue Route Mall",
+        "cityId": "cape-town",
+        "categoryId": "fashion",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Blue%20Route%20Mall%2C%20Cape%20Town",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Blue_Route_Mall",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Blue_Route_Mall_%28Southern_Entrance%29%2C_in_Tokai%2C_Cape_Town.jpg/960px-Blue_Route_Mall_%28Southern_Entrance%29%2C_in_Tokai%2C_Cape_Town.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Blue_Route_Mall"
+        }
+      },
+      {
+        "id": "cape-town-fashion-7",
+        "name": "Edcon",
+        "cityId": "cape-town",
+        "categoryId": "fashion",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Edcon%2C%20Cape%20Town",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Edcon",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Edgars_Cape_Town.jpg/960px-Edgars_Cape_Town.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Edcon"
+        }
+      },
+      {
+        "id": "cape-town-fashion-8",
+        "name": "Graham Spanier",
+        "cityId": "cape-town",
+        "categoryId": "fashion",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Graham%20Spanier%2C%20Cape%20Town",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Graham_Spanier",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Graham_Spanier.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Graham_Spanier"
+        }
+      },
+      {
+        "id": "cape-town-fashion-9",
+        "name": "Mr Price Group",
+        "cityId": "cape-town",
+        "categoryId": "fashion",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Mr%20Price%20Group%2C%20Cape%20Town",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Mr_Price_Group",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/MRP_Stores_in_Blue_Route_Mall%2C_Tokai%2C_Cape_Town.jpg/960px-MRP_Stores_in_Blue_Route_Mall%2C_Tokai%2C_Cape_Town.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Mr_Price_Group"
+        }
+      },
+      {
+        "id": "cape-town-fashion-10",
+        "name": "Tolkien family",
+        "cityId": "cape-town",
+        "categoryId": "fashion",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Tolkien%20family%2C%20Cape%20Town",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Tolkien_family",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Mabel_Suffield_Christmas_Card.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Tolkien_family"
+        }
+      },
+      {
+        "id": "cape-town-fashion-11",
+        "name": "Rottnest Island",
+        "cityId": "cape-town",
+        "categoryId": "fashion",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Rottnest%20Island%2C%20Cape%20Town",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Rottnest_Island",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/27/Rottnest_Island.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Rottnest_Island"
+        }
+      },
+      {
+        "id": "cape-town-fashion-12",
+        "name": "Bill Brown",
+        "cityId": "cape-town",
+        "categoryId": "fashion",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Bill%20Brown%2C%20Cape%20Town",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Bill_Brown_(cricketer)",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c8/BillBrown2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Bill_Brown_(cricketer)"
+        }
+      },
+      {
+        "id": "cape-town-fashion-13",
+        "name": "Double-decker bus",
+        "cityId": "cape-town",
+        "categoryId": "fashion",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Double-decker%20bus%2C%20Cape%20Town",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Double-decker_bus",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/Abellio_LT157_%28LTZ1157%29_Holborn_Viaduct_20.01.2024.jpg/960px-Abellio_LT157_%28LTZ1157%29_Holborn_Viaduct_20.01.2024.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Double-decker_bus"
+        }
+      },
+      {
+        "id": "cape-town-fashion-14",
+        "name": "1952 New Year Honours",
+        "cityId": "cape-town",
+        "categoryId": "fashion",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=1952%20New%20Year%20Honours%2C%20Cape%20Town",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/1952_New_Year_Honours",
+        "photo": null
+      },
+      {
+        "id": "cape-town-fashion-15",
+        "name": "1979 New Year Honours",
+        "cityId": "cape-town",
+        "categoryId": "fashion",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=1979%20New%20Year%20Honours%2C%20Cape%20Town",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/1979_New_Year_Honours",
+        "photo": null
+      },
+      {
+        "id": "cape-town-fashion-16",
+        "name": "March 1901",
+        "cityId": "cape-town",
+        "categoryId": "fashion",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=March%201901%2C%20Cape%20Town",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/March_1901",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/L.N.Tolstoy_Prokudin-Gorsky.jpg/960px-L.N.Tolstoy_Prokudin-Gorsky.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/March_1901"
+        }
+      },
+      {
+        "id": "cape-town-fashion-17",
+        "name": "Women in aviation",
+        "cityId": "cape-town",
+        "categoryId": "fashion",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Women%20in%20aviation%2C%20Cape%20Town",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Women_in_aviation",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Air_Force%27s_first_African_American_female_fighter_pilot_080317-F-XX000-064.jpg/960px-Air_Force%27s_first_African_American_female_fighter_pilot_080317-F-XX000-064.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Women_in_aviation"
+        }
+      },
+      {
+        "id": "cape-town-fashion-18",
+        "name": "Table View",
+        "cityId": "cape-town",
+        "categoryId": "fashion",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Table%20View%2C%20Cape%20Town",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Table_View",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Table_Mountain_DanieVDM.jpg/960px-Table_Mountain_DanieVDM.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Table_View"
+        }
+      }
+    ],
+    "shops": [
+      {
+        "id": "cape-town-shops-1",
+        "name": "Helderberg Nature Reserve",
+        "cityId": "cape-town",
+        "categoryId": "shops",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Helderberg%20Nature%20Reserve%2C%20Cape%20Town",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Helderberg_Nature_Reserve",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Helderberg_Nature_Reserve_-_Cape_Town_SA_1.jpg/960px-Helderberg_Nature_Reserve_-_Cape_Town_SA_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Helderberg_Nature_Reserve"
+        }
+      },
+      {
+        "id": "cape-town-shops-2",
+        "name": "Zeitz Museum of Contemporary Art Africa",
+        "cityId": "cape-town",
+        "categoryId": "shops",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Zeitz%20Museum%20of%20Contemporary%20Art%20Africa%2C%20Cape%20Town",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Zeitz_Museum_of_Contemporary_Art_Africa",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Zeitz_Museum_of_Contemporary_Art_Africa%2C_Cape_Town_%28_1050775%29.jpg/960px-Zeitz_Museum_of_Contemporary_Art_Africa%2C_Cape_Town_%28_1050775%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Zeitz_Museum_of_Contemporary_Art_Africa"
+        }
+      },
+      {
+        "id": "cape-town-shops-3",
+        "name": "Mariner's Wharf",
+        "cityId": "cape-town",
+        "categoryId": "shops",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Mariner's%20Wharf%2C%20Cape%20Town",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Mariner's_Wharf",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/PHOTOGRAPH_-_MARINER%27S_WHARF_-_WIKIPEDIA.jpg/960px-PHOTOGRAPH_-_MARINER%27S_WHARF_-_WIKIPEDIA.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Mariner's_Wharf"
+        }
+      },
+      {
+        "id": "cape-town-shops-4",
+        "name": "Gatsby",
+        "cityId": "cape-town",
+        "categoryId": "shops",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Gatsby%2C%20Cape%20Town",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Gatsby_(sandwich)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Root44_3_cropped.jpg/960px-Root44_3_cropped.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Gatsby_(sandwich)"
+        }
+      },
+      {
+        "id": "cape-town-shops-5",
+        "name": "Imizamo Yethu",
+        "cityId": "cape-town",
+        "categoryId": "shops",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Imizamo%20Yethu%2C%20Cape%20Town",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Imizamo_Yethu",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/South_Africa_-_Cape_Town_Imizamo_Yethu_Township_%2816497799161%29.jpg/960px-South_Africa_-_Cape_Town_Imizamo_Yethu_Township_%2816497799161%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Imizamo_Yethu"
+        }
+      },
+      {
+        "id": "cape-town-shops-6",
+        "name": "Mugg & Bean",
+        "cityId": "cape-town",
+        "categoryId": "shops",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Mugg%20%26%20Bean%2C%20Cape%20Town",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Mugg_%26_Bean",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Mugg_and_Bean_R.jpg/960px-Mugg_and_Bean_R.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Mugg_%26_Bean"
+        }
+      },
+      {
+        "id": "cape-town-shops-7",
+        "name": "Meadowridge",
+        "cityId": "cape-town",
+        "categoryId": "shops",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Meadowridge%2C%20Cape%20Town",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Meadowridge",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/A_Street_in_Meadowridge%2C_Cape_Town_%282%29.jpg/960px-A_Street_in_Meadowridge%2C_Cape_Town_%282%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Meadowridge"
+        }
+      },
+      {
+        "id": "cape-town-shops-8",
+        "name": "Salt River, Cape Town",
+        "cityId": "cape-town",
+        "categoryId": "shops",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Salt%20River%2C%20Cape%20Town%2C%20Cape%20Town",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Salt_River%2C_Cape_Town",
+        "photo": null
+      },
+      {
+        "id": "cape-town-shops-9",
+        "name": "Mamre, South Africa",
+        "cityId": "cape-town",
+        "categoryId": "shops",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Mamre%2C%20South%20Africa%2C%20Cape%20Town",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Mamre%2C_South_Africa",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/17/Mamre_De_Kleine_Post_1679_Front.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Mamre%2C_South_Africa"
+        }
+      },
+      {
+        "id": "cape-town-shops-10",
+        "name": "Thornton, Cape Town",
+        "cityId": "cape-town",
+        "categoryId": "shops",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Thornton%2C%20Cape%20Town%2C%20Cape%20Town",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Thornton%2C_Cape_Town",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Thornton_OSM_map.svg/960px-Thornton_OSM_map.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Thornton%2C_Cape_Town"
+        }
+      },
+      {
+        "id": "cape-town-shops-11",
+        "name": "Mzoli's",
+        "cityId": "cape-town",
+        "categoryId": "shops",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Mzoli's%2C%20Cape%20Town",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Mzoli's",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Outside_Mzolis.jpg/960px-Outside_Mzolis.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Mzoli's"
+        }
+      },
+      {
+        "id": "cape-town-shops-12",
+        "name": "Montebello Design Centre",
+        "cityId": "cape-town",
+        "categoryId": "shops",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Montebello%20Design%20Centre%2C%20Cape%20Town",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Montebello_Design_Centre",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/Montebello_Design_Centre.jpg/960px-Montebello_Design_Centre.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Montebello_Design_Centre"
+        }
+      },
+      {
+        "id": "cape-town-shops-13",
+        "name": "Koeksister",
+        "cityId": "cape-town",
+        "categoryId": "shops",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Koeksister%2C%20Cape%20Town",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Koeksister",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Koeksisters.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Koeksister"
+        }
+      },
+      {
+        "id": "cape-town-shops-14",
+        "name": "Perseverance Tavern",
+        "cityId": "cape-town",
+        "categoryId": "shops",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Perseverance%20Tavern%2C%20Cape%20Town",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Perseverance_Tavern",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Perseverance_Tavern%2C_83_Buitenkant_Street%2C_Cape_Town.jpg/960px-Perseverance_Tavern%2C_83_Buitenkant_Street%2C_Cape_Town.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Perseverance_Tavern"
+        }
+      },
+      {
+        "id": "cape-town-shops-15",
+        "name": "Bergvliet",
+        "cityId": "cape-town",
+        "categoryId": "shops",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Bergvliet%2C%20Cape%20Town",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Bergvliet",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Tree-lined_Road_in_Bergvliet%2C_Cape_Town.jpg/960px-Tree-lined_Road_in_Bergvliet%2C_Cape_Town.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Bergvliet"
+        }
+      },
+      {
+        "id": "cape-town-shops-16",
+        "name": "District Six Museum",
+        "cityId": "cape-town",
+        "categoryId": "shops",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=District%20Six%20Museum%2C%20Cape%20Town",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/District_Six_Museum",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/District_Six_Museum_looking_west_jeh.jpg/960px-District_Six_Museum_looking_west_jeh.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/District_Six_Museum"
+        }
+      },
+      {
+        "id": "cape-town-shops-17",
+        "name": "Conrad Gallagher",
+        "cityId": "cape-town",
+        "categoryId": "shops",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Conrad%20Gallagher%2C%20Cape%20Town",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Conrad_Gallagher",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Chef_Conrad_Gallagher.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Conrad_Gallagher"
+        }
+      },
+      {
+        "id": "cape-town-shops-18",
+        "name": "Cape Town",
+        "cityId": "cape-town",
+        "categoryId": "shops",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Cape%20Town%2C%20Cape%20Town",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Cape_Town",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Camps_bay_%2853460319478%29_%28cropped%29.jpg/960px-Camps_bay_%2853460319478%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Cape_Town"
+        }
+      }
+    ]
+  }
+}

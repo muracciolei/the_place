@@ -1,0 +1,2228 @@
+{
+  "cityId": "bangkok",
+  "generatedAt": "2026-11-27T09:22:53.638Z",
+  "source": "Wikipedia API + Maps URLs (sin scraping de Google)",
+  "incomplete": [],
+  "categories": {
+    "night_clubs": [
+      {
+        "id": "bangkok-night_clubs-1",
+        "name": "Trocadero",
+        "cityId": "bangkok",
+        "categoryId": "night_clubs",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Trocadero%2C%20Bangkok",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Trocadero",
+        "photo": null
+      },
+      {
+        "id": "bangkok-night_clubs-2",
+        "name": "Phlu Ta Luang",
+        "cityId": "bangkok",
+        "categoryId": "night_clubs",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Phlu%20Ta%20Luang%2C%20Bangkok",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Phlu_Ta_Luang",
+        "photo": null
+      },
+      {
+        "id": "bangkok-night_clubs-3",
+        "name": "Stretch",
+        "cityId": "bangkok",
+        "categoryId": "night_clubs",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Stretch%2C%20Bangkok",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Stretch_(2011_film)",
+        "photo": null
+      },
+      {
+        "id": "bangkok-night_clubs-4",
+        "name": "Jazell Barbie Royale",
+        "cityId": "bangkok",
+        "categoryId": "night_clubs",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Jazell%20Barbie%20Royale%2C%20Bangkok",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Jazell_Barbie_Royale",
+        "photo": null
+      },
+      {
+        "id": "bangkok-night_clubs-5",
+        "name": "2012 Bangkok bombings",
+        "cityId": "bangkok",
+        "categoryId": "night_clubs",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=2012%20Bangkok%20bombings%2C%20Bangkok",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/2012_Bangkok_bombings",
+        "photo": null
+      },
+      {
+        "id": "bangkok-night_clubs-6",
+        "name": "2022 in Thailand",
+        "cityId": "bangkok",
+        "categoryId": "night_clubs",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=2022%20in%20Thailand%2C%20Bangkok",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/2022_in_Thailand",
+        "photo": null
+      },
+      {
+        "id": "bangkok-night_clubs-7",
+        "name": "Kom Chuanchuen",
+        "cityId": "bangkok",
+        "categoryId": "night_clubs",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Kom%20Chuanchuen%2C%20Bangkok",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Kom_Chuanchuen",
+        "photo": null
+      },
+      {
+        "id": "bangkok-night_clubs-8",
+        "name": "Nana Plaza",
+        "cityId": "bangkok",
+        "categoryId": "night_clubs",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Nana%20Plaza%2C%20Bangkok",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Nana_Plaza",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Nana_Plaza_entrance_sign_Bangkok_2017.jpg/960px-Nana_Plaza_entrance_sign_Bangkok_2017.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Nana_Plaza"
+        }
+      },
+      {
+        "id": "bangkok-night_clubs-9",
+        "name": "2002 Bali bombings",
+        "cityId": "bangkok",
+        "categoryId": "night_clubs",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=2002%20Bali%20bombings%2C%20Bangkok",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/2002_Bali_bombings",
+        "photo": null
+      },
+      {
+        "id": "bangkok-night_clubs-10",
+        "name": "Bangkok Dangerous",
+        "cityId": "bangkok",
+        "categoryId": "night_clubs",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Bangkok%20Dangerous%2C%20Bangkok",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Bangkok_Dangerous_(2008_film)",
+        "photo": null
+      },
+      {
+        "id": "bangkok-night_clubs-11",
+        "name": "Maurice Rocco",
+        "cityId": "bangkok",
+        "categoryId": "night_clubs",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Maurice%20Rocco%2C%20Bangkok",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Maurice_Rocco",
+        "photo": null
+      },
+      {
+        "id": "bangkok-night_clubs-12",
+        "name": "Bargirl",
+        "cityId": "bangkok",
+        "categoryId": "night_clubs",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Bargirl%2C%20Bangkok",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Bargirl",
+        "photo": null
+      },
+      {
+        "id": "bangkok-night_clubs-13",
+        "name": "Full Metal Dojo",
+        "cityId": "bangkok",
+        "categoryId": "night_clubs",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Full%20Metal%20Dojo%2C%20Bangkok",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Full_Metal_Dojo",
+        "photo": null
+      },
+      {
+        "id": "bangkok-night_clubs-14",
+        "name": "Go-go bar",
+        "cityId": "bangkok",
+        "categoryId": "night_clubs",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Go-go%20bar%2C%20Bangkok",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Go-go_bar",
+        "photo": null
+      },
+      {
+        "id": "bangkok-night_clubs-15",
+        "name": "The Sidewalks of Bangkok",
+        "cityId": "bangkok",
+        "categoryId": "night_clubs",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Sidewalks%20of%20Bangkok%2C%20Bangkok",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/The_Sidewalks_of_Bangkok",
+        "photo": null
+      },
+      {
+        "id": "bangkok-night_clubs-16",
+        "name": "Art Arya",
+        "cityId": "bangkok",
+        "categoryId": "night_clubs",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Art%20Arya%2C%20Bangkok",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Art_Arya",
+        "photo": null
+      },
+      {
+        "id": "bangkok-night_clubs-17",
+        "name": "Scala",
+        "cityId": "bangkok",
+        "categoryId": "night_clubs",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Scala%2C%20Bangkok",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Scala",
+        "photo": null
+      },
+      {
+        "id": "bangkok-night_clubs-18",
+        "name": "Nai Lert",
+        "cityId": "bangkok",
+        "categoryId": "night_clubs",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Nai%20Lert%2C%20Bangkok",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Nai_Lert",
+        "photo": null
+      }
+    ],
+    "restaurants": [
+      {
+        "id": "bangkok-restaurants-1",
+        "name": "Lebua at State Tower",
+        "cityId": "bangkok",
+        "categoryId": "restaurants",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Lebua%20at%20State%20Tower%2C%20Bangkok",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Lebua_at_State_Tower",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/Lebua_at_State_Tower_IMG_1402_01.jpg/960px-Lebua_at_State_Tower_IMG_1402_01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Lebua_at_State_Tower"
+        }
+      },
+      {
+        "id": "bangkok-restaurants-2",
+        "name": "Thai suki",
+        "cityId": "bangkok",
+        "categoryId": "restaurants",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Thai%20suki%2C%20Bangkok",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Thai_suki",
+        "photo": null
+      },
+      {
+        "id": "bangkok-restaurants-3",
+        "name": "Gaggan",
+        "cityId": "bangkok",
+        "categoryId": "restaurants",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Gaggan%2C%20Bangkok",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Gaggan",
+        "photo": null
+      },
+      {
+        "id": "bangkok-restaurants-4",
+        "name": "L'Atelier de Joël Robuchon",
+        "cityId": "bangkok",
+        "categoryId": "restaurants",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=L'Atelier%20de%20Jo%C3%ABl%20Robuchon%2C%20Bangkok",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/L'Atelier_de_Jo%C3%ABl_Robuchon",
+        "photo": null
+      },
+      {
+        "id": "bangkok-restaurants-5",
+        "name": "Louisa Coffee",
+        "cityId": "bangkok",
+        "categoryId": "restaurants",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Louisa%20Coffee%2C%20Bangkok",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Louisa_Coffee",
+        "photo": null
+      },
+      {
+        "id": "bangkok-restaurants-6",
+        "name": "Conrad Bangkok",
+        "cityId": "bangkok",
+        "categoryId": "restaurants",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Conrad%20Bangkok%2C%20Bangkok",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Conrad_Bangkok",
+        "photo": null
+      },
+      {
+        "id": "bangkok-restaurants-7",
+        "name": "Bang Na district",
+        "cityId": "bangkok",
+        "categoryId": "restaurants",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Bang%20Na%20district%2C%20Bangkok",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Bang_Na_district",
+        "photo": null
+      },
+      {
+        "id": "bangkok-restaurants-8",
+        "name": "Roussillon",
+        "cityId": "bangkok",
+        "categoryId": "restaurants",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Roussillon%2C%20Bangkok",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Roussillon_(restaurant)",
+        "photo": null
+      },
+      {
+        "id": "bangkok-restaurants-9",
+        "name": "Australians in Thailand",
+        "cityId": "bangkok",
+        "categoryId": "restaurants",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Australians%20in%20Thailand%2C%20Bangkok",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Australians_in_Thailand",
+        "photo": null
+      },
+      {
+        "id": "bangkok-restaurants-10",
+        "name": "Sukhothai Airport",
+        "cityId": "bangkok",
+        "categoryId": "restaurants",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Sukhothai%20Airport%2C%20Bangkok",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Sukhothai_Airport",
+        "photo": null
+      },
+      {
+        "id": "bangkok-restaurants-11",
+        "name": "Bawabet Dimashq",
+        "cityId": "bangkok",
+        "categoryId": "restaurants",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Bawabet%20Dimashq%2C%20Bangkok",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Bawabet_Dimashq",
+        "photo": null
+      },
+      {
+        "id": "bangkok-restaurants-12",
+        "name": "Sathon Mansion",
+        "cityId": "bangkok",
+        "categoryId": "restaurants",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Sathon%20Mansion%2C%20Bangkok",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Sathon_Mansion",
+        "photo": null
+      },
+      {
+        "id": "bangkok-restaurants-13",
+        "name": "David Thompson",
+        "cityId": "bangkok",
+        "categoryId": "restaurants",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=David%20Thompson%2C%20Bangkok",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/David_Thompson_(chef)",
+        "photo": null
+      },
+      {
+        "id": "bangkok-restaurants-14",
+        "name": "Bo Songvisava",
+        "cityId": "bangkok",
+        "categoryId": "restaurants",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Bo%20Songvisava%2C%20Bangkok",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Bo_Songvisava",
+        "photo": null
+      },
+      {
+        "id": "bangkok-restaurants-15",
+        "name": "Trat Airport",
+        "cityId": "bangkok",
+        "categoryId": "restaurants",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Trat%20Airport%2C%20Bangkok",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Trat_Airport",
+        "photo": null
+      },
+      {
+        "id": "bangkok-restaurants-16",
+        "name": "2006 Bangkok bombings",
+        "cityId": "bangkok",
+        "categoryId": "restaurants",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=2006%20Bangkok%20bombings%2C%20Bangkok",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/2006_Bangkok_bombings",
+        "photo": null
+      },
+      {
+        "id": "bangkok-restaurants-17",
+        "name": "Jay Fai",
+        "cityId": "bangkok",
+        "categoryId": "restaurants",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Jay%20Fai%2C%20Bangkok",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Jay_Fai",
+        "photo": null
+      },
+      {
+        "id": "bangkok-restaurants-18",
+        "name": "Okonomiyaki",
+        "cityId": "bangkok",
+        "categoryId": "restaurants",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Okonomiyaki%2C%20Bangkok",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Okonomiyaki",
+        "photo": null
+      }
+    ],
+    "bars": [
+      {
+        "id": "bangkok-bars-1",
+        "name": "Lebua at State Tower",
+        "cityId": "bangkok",
+        "categoryId": "bars",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Lebua%20at%20State%20Tower%2C%20Bangkok",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Lebua_at_State_Tower",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/Lebua_at_State_Tower_IMG_1402_01.jpg/960px-Lebua_at_State_Tower_IMG_1402_01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Lebua_at_State_Tower"
+        }
+      },
+      {
+        "id": "bangkok-bars-2",
+        "name": "Baiyoke Tower II",
+        "cityId": "bangkok",
+        "categoryId": "bars",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Baiyoke%20Tower%20II%2C%20Bangkok",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Baiyoke_Tower_II",
+        "photo": null
+      },
+      {
+        "id": "bangkok-bars-3",
+        "name": "Patpong",
+        "cityId": "bangkok",
+        "categoryId": "bars",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Patpong%2C%20Bangkok",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Patpong",
+        "photo": null
+      },
+      {
+        "id": "bangkok-bars-4",
+        "name": "Soi Pratuchai",
+        "cityId": "bangkok",
+        "categoryId": "bars",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Soi%20Pratuchai%2C%20Bangkok",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Soi_Pratuchai",
+        "photo": null
+      },
+      {
+        "id": "bangkok-bars-5",
+        "name": "Soi Cowboy",
+        "cityId": "bangkok",
+        "categoryId": "bars",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Soi%20Cowboy%2C%20Bangkok",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Soi_Cowboy",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/Soi_Cowboy_2023_03.jpg/960px-Soi_Cowboy_2023_03.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Soi_Cowboy"
+        }
+      },
+      {
+        "id": "bangkok-bars-6",
+        "name": "Nana Plaza",
+        "cityId": "bangkok",
+        "categoryId": "bars",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Nana%20Plaza%2C%20Bangkok",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Nana_Plaza",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Nana_Plaza_entrance_sign_Bangkok_2017.jpg/960px-Nana_Plaza_entrance_sign_Bangkok_2017.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Nana_Plaza"
+        }
+      },
+      {
+        "id": "bangkok-bars-7",
+        "name": "Australians in Thailand",
+        "cityId": "bangkok",
+        "categoryId": "bars",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Australians%20in%20Thailand%2C%20Bangkok",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Australians_in_Thailand",
+        "photo": null
+      },
+      {
+        "id": "bangkok-bars-8",
+        "name": "Washington Square",
+        "cityId": "bangkok",
+        "categoryId": "bars",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Washington%20Square%2C%20Bangkok",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Washington_Square_(Bangkok)",
+        "photo": null
+      },
+      {
+        "id": "bangkok-bars-9",
+        "name": "1971 Asian Champion Club Tournament",
+        "cityId": "bangkok",
+        "categoryId": "bars",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=1971%20Asian%20Champion%20Club%20Tournament%2C%20Bangkok",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/1971_Asian_Champion_Club_Tournament",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Maccabi_Tel_Aviv_with_Asian_Club_trophy_%281971%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/1971_Asian_Champion_Club_Tournament"
+        }
+      },
+      {
+        "id": "bangkok-bars-10",
+        "name": "Bangkok Haunted",
+        "cityId": "bangkok",
+        "categoryId": "bars",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Bangkok%20Haunted%2C%20Bangkok",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Bangkok_Haunted",
+        "photo": null
+      },
+      {
+        "id": "bangkok-bars-11",
+        "name": "Lin Chaopan",
+        "cityId": "bangkok",
+        "categoryId": "bars",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Lin%20Chaopan%2C%20Bangkok",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Lin_Chaopan",
+        "photo": null
+      },
+      {
+        "id": "bangkok-bars-12",
+        "name": "Clinton Plaza",
+        "cityId": "bangkok",
+        "categoryId": "bars",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Clinton%20Plaza%2C%20Bangkok",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Clinton_Plaza",
+        "photo": null
+      },
+      {
+        "id": "bangkok-bars-13",
+        "name": "Ping pong show",
+        "cityId": "bangkok",
+        "categoryId": "bars",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Ping%20pong%20show%2C%20Bangkok",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Ping_pong_show",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Ping_Pong_Show.JPG/960px-Ping_Pong_Show.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Ping_pong_show"
+        }
+      },
+      {
+        "id": "bangkok-bars-14",
+        "name": "Rosewood Bangkok",
+        "cityId": "bangkok",
+        "categoryId": "bars",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Rosewood%20Bangkok%2C%20Bangkok",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Rosewood_Bangkok",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Rosewood_Bangkok_2021.jpg/960px-Rosewood_Bangkok_2021.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Rosewood_Bangkok"
+        }
+      },
+      {
+        "id": "bangkok-bars-15",
+        "name": "Prostitution in Thailand",
+        "cityId": "bangkok",
+        "categoryId": "bars",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Prostitution%20in%20Thailand%2C%20Bangkok",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Prostitution_in_Thailand",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Walking_street%2Cpattaya%2CTHAILAND_-_panoramio.jpg/960px-Walking_street%2Cpattaya%2CTHAILAND_-_panoramio.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Prostitution_in_Thailand"
+        }
+      },
+      {
+        "id": "bangkok-bars-16",
+        "name": "British Club",
+        "cityId": "bangkok",
+        "categoryId": "bars",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=British%20Club%2C%20Bangkok",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/British_Club_(Bangkok)",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b6/British_Club_Bangkok_postcard_c._1912.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/British_Club_(Bangkok)"
+        }
+      },
+      {
+        "id": "bangkok-bars-17",
+        "name": "Xiao Ruoteng",
+        "cityId": "bangkok",
+        "categoryId": "bars",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Xiao%20Ruoteng%2C%20Bangkok",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Xiao_Ruoteng",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Xiao_Ruoteng.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Xiao_Ruoteng"
+        }
+      },
+      {
+        "id": "bangkok-bars-18",
+        "name": "Mandarin Oriental, Bangkok",
+        "cityId": "bangkok",
+        "categoryId": "bars",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Mandarin%20Oriental%2C%20Bangkok%2C%20Bangkok",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Mandarin_Oriental%2C_Bangkok",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Mandarin_Oriental_Bangkok_Bang_Rak.jpg/960px-Mandarin_Oriental_Bangkok_Bang_Rak.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Mandarin_Oriental%2C_Bangkok"
+        }
+      }
+    ],
+    "coffee_shops": [
+      {
+        "id": "bangkok-coffee_shops-1",
+        "name": "Café Amazon",
+        "cityId": "bangkok",
+        "categoryId": "coffee_shops",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Caf%C3%A9%20Amazon%2C%20Bangkok",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Caf%C3%A9_Amazon",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Rawai_Beach%2CPhuket_%2811%29.jpg/960px-Rawai_Beach%2CPhuket_%2811%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Caf%C3%A9_Amazon"
+        }
+      },
+      {
+        "id": "bangkok-coffee_shops-2",
+        "name": "Madras Cafe",
+        "cityId": "bangkok",
+        "categoryId": "coffee_shops",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Madras%20Cafe%2C%20Bangkok",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Madras_Cafe",
+        "photo": null
+      },
+      {
+        "id": "bangkok-coffee_shops-3",
+        "name": "Tragedy",
+        "cityId": "bangkok",
+        "categoryId": "coffee_shops",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Tragedy%2C%20Bangkok",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Tragedy_(Hanoi_Rocks_song)",
+        "photo": null
+      },
+      {
+        "id": "bangkok-coffee_shops-4",
+        "name": "Ekkamai BTS station",
+        "cityId": "bangkok",
+        "categoryId": "coffee_shops",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Ekkamai%20BTS%20station%2C%20Bangkok",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Ekkamai_BTS_station",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/BTS%E3%82%A8%E3%82%AB%E3%83%9E%E3%82%A4%E9%A7%85%E3%81%AE%E9%A7%85%E8%88%8E.jpg/960px-BTS%E3%82%A8%E3%82%AB%E3%83%9E%E3%82%A4%E9%A7%85%E3%81%AE%E9%A7%85%E8%88%8E.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Ekkamai_BTS_station"
+        }
+      },
+      {
+        "id": "bangkok-coffee_shops-5",
+        "name": "Rama IX Road",
+        "cityId": "bangkok",
+        "categoryId": "coffee_shops",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Rama%20IX%20Road%2C%20Bangkok",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Rama_IX_Road",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Suan_Luang%2C_Bangkok%2C_Thailand_-_panoramio.jpg/960px-Suan_Luang%2C_Bangkok%2C_Thailand_-_panoramio.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Rama_IX_Road"
+        }
+      },
+      {
+        "id": "bangkok-coffee_shops-6",
+        "name": "Bangkok Israeli embassy hostage crisis",
+        "cityId": "bangkok",
+        "categoryId": "coffee_shops",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Bangkok%20Israeli%20embassy%20hostage%20crisis%2C%20Bangkok",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Bangkok_Israeli_embassy_hostage_crisis",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Thailand_location_map.svg/960px-Thailand_location_map.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Bangkok_Israeli_embassy_hostage_crisis"
+        }
+      },
+      {
+        "id": "bangkok-coffee_shops-7",
+        "name": "Si Kak Phraya Si",
+        "cityId": "bangkok",
+        "categoryId": "coffee_shops",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Si%20Kak%20Phraya%20Si%2C%20Bangkok",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Si_Kak_Phraya_Si",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Si_Kak_Phraya_Si.jpg/960px-Si_Kak_Phraya_Si.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Si_Kak_Phraya_Si"
+        }
+      },
+      {
+        "id": "bangkok-coffee_shops-8",
+        "name": "Ekkamai Road",
+        "cityId": "bangkok",
+        "categoryId": "coffee_shops",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Ekkamai%20Road%2C%20Bangkok",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Ekkamai_Road",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Ekkamai_road.jpg/960px-Ekkamai_road.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Ekkamai_Road"
+        }
+      },
+      {
+        "id": "bangkok-coffee_shops-9",
+        "name": "Jamsai",
+        "cityId": "bangkok",
+        "categoryId": "coffee_shops",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Jamsai%2C%20Bangkok",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Jamsai",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Jamsai_1.jpg/960px-Jamsai_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Jamsai"
+        }
+      },
+      {
+        "id": "bangkok-coffee_shops-10",
+        "name": "J.J Mall",
+        "cityId": "bangkok",
+        "categoryId": "coffee_shops",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=J.J%20Mall%2C%20Bangkok",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/J.J_Mall",
+        "photo": null
+      },
+      {
+        "id": "bangkok-coffee_shops-11",
+        "name": "Holey Artisan Bakery",
+        "cityId": "bangkok",
+        "categoryId": "coffee_shops",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Holey%20Artisan%20Bakery%2C%20Bangkok",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Holey_Artisan_Bakery",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/Holey_Artisan_Bakery_Cafe_Suanplu%2C_Bangkok_%282026%29_-_IMG_03.jpg/960px-Holey_Artisan_Bakery_Cafe_Suanplu%2C_Bangkok_%282026%29_-_IMG_03.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Holey_Artisan_Bakery"
+        }
+      },
+      {
+        "id": "bangkok-coffee_shops-12",
+        "name": "Wang Lang Market",
+        "cityId": "bangkok",
+        "categoryId": "coffee_shops",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Wang%20Lang%20Market%2C%20Bangkok",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Wang_Lang_Market",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/Rear_Palace_Sushi_-_2017-02-25_%28001%29.jpg/960px-Rear_Palace_Sushi_-_2017-02-25_%28001%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Wang_Lang_Market"
+        }
+      },
+      {
+        "id": "bangkok-coffee_shops-13",
+        "name": "Lebua at State Tower",
+        "cityId": "bangkok",
+        "categoryId": "coffee_shops",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Lebua%20at%20State%20Tower%2C%20Bangkok",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Lebua_at_State_Tower",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/Lebua_at_State_Tower_IMG_1402_01.jpg/960px-Lebua_at_State_Tower_IMG_1402_01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Lebua_at_State_Tower"
+        }
+      },
+      {
+        "id": "bangkok-coffee_shops-14",
+        "name": "Prabda Yoon",
+        "cityId": "bangkok",
+        "categoryId": "coffee_shops",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Prabda%20Yoon%2C%20Bangkok",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Prabda_Yoon",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Prabda_Yoon_2017_Small.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Prabda_Yoon"
+        }
+      },
+      {
+        "id": "bangkok-coffee_shops-15",
+        "name": "Suvarnabhumi Airport",
+        "cityId": "bangkok",
+        "categoryId": "coffee_shops",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Suvarnabhumi%20Airport%2C%20Bangkok",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Suvarnabhumi_Airport",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/Suvarnabhumi_Airport_Logo.png/960px-Suvarnabhumi_Airport_Logo.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Suvarnabhumi_Airport"
+        }
+      },
+      {
+        "id": "bangkok-coffee_shops-16",
+        "name": "Modern Dog",
+        "cityId": "bangkok",
+        "categoryId": "coffee_shops",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Modern%20Dog%2C%20Bangkok",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Modern_Dog",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Moderndog.JPG/960px-Moderndog.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Modern_Dog"
+        }
+      },
+      {
+        "id": "bangkok-coffee_shops-17",
+        "name": "Utopia",
+        "cityId": "bangkok",
+        "categoryId": "coffee_shops",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Utopia%2C%20Bangkok",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Utopia_(website)",
+        "photo": null
+      },
+      {
+        "id": "bangkok-coffee_shops-18",
+        "name": "Paradise Park",
+        "cityId": "bangkok",
+        "categoryId": "coffee_shops",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Paradise%20Park%2C%20Bangkok",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Paradise_Park_(mall)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Seri_Center_2.jpg/960px-Seri_Center_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Paradise_Park_(mall)"
+        }
+      }
+    ],
+    "bookshops": [
+      {
+        "id": "bangkok-bookshops-1",
+        "name": "Naiin",
+        "cityId": "bangkok",
+        "categoryId": "bookshops",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Naiin%2C%20Bangkok",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Naiin",
+        "photo": null
+      },
+      {
+        "id": "bangkok-bookshops-2",
+        "name": "Books Kinokuniya",
+        "cityId": "bangkok",
+        "categoryId": "bookshops",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Books%20Kinokuniya%2C%20Bangkok",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Books_Kinokuniya",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/en/thumb/0/02/Books_Kinokuniya_logo_%282026%29.svg/960px-Books_Kinokuniya_logo_%282026%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Books_Kinokuniya"
+        }
+      },
+      {
+        "id": "bangkok-bookshops-3",
+        "name": "Dokya",
+        "cityId": "bangkok",
+        "categoryId": "bookshops",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Dokya%2C%20Bangkok",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Dokya",
+        "photo": null
+      },
+      {
+        "id": "bangkok-bookshops-4",
+        "name": "Asia Books",
+        "cityId": "bangkok",
+        "categoryId": "bookshops",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Asia%20Books%2C%20Bangkok",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Asia_Books",
+        "photo": null
+      },
+      {
+        "id": "bangkok-bookshops-5",
+        "name": "Rodjaraeg Wattanapanit",
+        "cityId": "bangkok",
+        "categoryId": "bookshops",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Rodjaraeg%20Wattanapanit%2C%20Bangkok",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Rodjaraeg_Wattanapanit",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Rodjaraeg_Wattanapanit-_IWOC_2016.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Rodjaraeg_Wattanapanit"
+        }
+      },
+      {
+        "id": "bangkok-bookshops-6",
+        "name": "Amarin Group",
+        "cityId": "bangkok",
+        "categoryId": "bookshops",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Amarin%20Group%2C%20Bangkok",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Amarin_Group",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Amarin_Group.svg/960px-Amarin_Group.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Amarin_Group"
+        }
+      },
+      {
+        "id": "bangkok-bookshops-7",
+        "name": "CentralWorld",
+        "cityId": "bangkok",
+        "categoryId": "bookshops",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=CentralWorld%2C%20Bangkok",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/CentralWorld",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/Central_World_%28I%29.jpg/960px-Central_World_%28I%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/CentralWorld"
+        }
+      },
+      {
+        "id": "bangkok-bookshops-8",
+        "name": "Censorship in Thailand",
+        "cityId": "bangkok",
+        "categoryId": "bookshops",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Censorship%20in%20Thailand%2C%20Bangkok",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Censorship_in_Thailand",
+        "photo": null
+      },
+      {
+        "id": "bangkok-bookshops-9",
+        "name": "Animate",
+        "cityId": "bangkok",
+        "categoryId": "bookshops",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Animate%2C%20Bangkok",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Animate_(retailer)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Animate_head_office.jpg/960px-Animate_head_office.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Animate_(retailer)"
+        }
+      },
+      {
+        "id": "bangkok-bookshops-10",
+        "name": "Wiroj Lakkhanaadisorn",
+        "cityId": "bangkok",
+        "categoryId": "bookshops",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Wiroj%20Lakkhanaadisorn%2C%20Bangkok",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Wiroj_Lakkhanaadisorn",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/be/Wiroj_Lakkhanaadisorn_20230430_cropped.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Wiroj_Lakkhanaadisorn"
+        }
+      },
+      {
+        "id": "bangkok-bookshops-11",
+        "name": "Klang Plaza",
+        "cityId": "bangkok",
+        "categoryId": "bookshops",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Klang%20Plaza%2C%20Bangkok",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Klang_Plaza",
+        "photo": null
+      },
+      {
+        "id": "bangkok-bookshops-12",
+        "name": "Gaël Faye",
+        "cityId": "bangkok",
+        "categoryId": "bookshops",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Ga%C3%ABl%20Faye%2C%20Bangkok",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Ga%C3%ABl_Faye",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Gael_Faye.jpg/960px-Gael_Faye.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Ga%C3%ABl_Faye"
+        }
+      },
+      {
+        "id": "bangkok-bookshops-13",
+        "name": "Nanchang Metro",
+        "cityId": "bangkok",
+        "categoryId": "bookshops",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Nanchang%20Metro%2C%20Bangkok",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Nanchang_Metro",
+        "photo": null
+      },
+      {
+        "id": "bangkok-bookshops-14",
+        "name": "Egg",
+        "cityId": "bangkok",
+        "categoryId": "bookshops",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Egg%2C%20Bangkok",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Egg_(2007_film)",
+        "photo": null
+      },
+      {
+        "id": "bangkok-bookshops-15",
+        "name": "Lorrainne Sade Baskerville",
+        "cityId": "bangkok",
+        "categoryId": "bookshops",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Lorrainne%20Sade%20Baskerville%2C%20Bangkok",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Lorrainne_Sade_Baskerville",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/91/Lorrainne_Portrait_01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Lorrainne_Sade_Baskerville"
+        }
+      },
+      {
+        "id": "bangkok-bookshops-16",
+        "name": "Eddie Woods",
+        "cityId": "bangkok",
+        "categoryId": "bookshops",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Eddie%20Woods%2C%20Bangkok",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Eddie_Woods",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/0b/EddieWoods2007s.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Eddie_Woods"
+        }
+      },
+      {
+        "id": "bangkok-bookshops-17",
+        "name": "Annabelle",
+        "cityId": "bangkok",
+        "categoryId": "bookshops",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Annabelle%2C%20Bangkok",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Annabelle_(doll)",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Raggedy_ann_doll_with_dress.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Annabelle_(doll)"
+        }
+      },
+      {
+        "id": "bangkok-bookshops-18",
+        "name": "Keuka College",
+        "cityId": "bangkok",
+        "categoryId": "bookshops",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Keuka%20College%2C%20Bangkok",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Keuka_College",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Entrance_to_Keuka_College.jpg/960px-Entrance_to_Keuka_College.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Keuka_College"
+        }
+      }
+    ],
+    "museums": [
+      {
+        "id": "bangkok-museums-1",
+        "name": "Bangkok Folk Museum",
+        "cityId": "bangkok",
+        "categoryId": "museums",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Bangkok%20Folk%20Museum%2C%20Bangkok",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Bangkok_Folk_Museum",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Bangkokian_museum.JPG/960px-Bangkokian_museum.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Bangkok_Folk_Museum"
+        }
+      },
+      {
+        "id": "bangkok-museums-2",
+        "name": "Bangkok",
+        "cityId": "bangkok",
+        "categoryId": "museums",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Bangkok%2C%20Bangkok",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Bangkok",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/4Y1A1159_Bangkok_%2833536795515%29.jpg/960px-4Y1A1159_Bangkok_%2833536795515%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Bangkok"
+        }
+      },
+      {
+        "id": "bangkok-museums-3",
+        "name": "Suan Pakkad Palace",
+        "cityId": "bangkok",
+        "categoryId": "museums",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Suan%20Pakkad%20Palace%2C%20Bangkok",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Suan_Pakkad_Palace",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Suan_Pakkad_Palace_%28I%29.jpg/960px-Suan_Pakkad_Palace_%28I%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Suan_Pakkad_Palace"
+        }
+      },
+      {
+        "id": "bangkok-museums-4",
+        "name": "Siriraj Medical Museum",
+        "cityId": "bangkok",
+        "categoryId": "museums",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Siriraj%20Medical%20Museum%2C%20Bangkok",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Siriraj_Medical_Museum",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Siriraj_Bimuksthan_Museum_2023_2.jpg/960px-Siriraj_Bimuksthan_Museum_2023_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Siriraj_Medical_Museum"
+        }
+      },
+      {
+        "id": "bangkok-museums-5",
+        "name": "Bangkok National Museum",
+        "cityId": "bangkok",
+        "categoryId": "museums",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Bangkok%20National%20Museum%2C%20Bangkok",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Bangkok_National_Museum",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/Siwamok_Phiman_Hall_at_Noon.jpg/960px-Siwamok_Phiman_Hall_at_Noon.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Bangkok_National_Museum"
+        }
+      },
+      {
+        "id": "bangkok-museums-6",
+        "name": "Museum of Contemporary Art",
+        "cityId": "bangkok",
+        "categoryId": "museums",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Museum%20of%20Contemporary%20Art%2C%20Bangkok",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Museum_of_Contemporary_Art_(Bangkok)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/Museum_of_Contemporary_Art_%28MOCA%29%2C_Bangkok%2C_Thailand_-_20161201-05.jpg/960px-Museum_of_Contemporary_Art_%28MOCA%29%2C_Bangkok%2C_Thailand_-_20161201-05.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Museum_of_Contemporary_Art_(Bangkok)"
+        }
+      },
+      {
+        "id": "bangkok-museums-7",
+        "name": "Jim Thompson House",
+        "cityId": "bangkok",
+        "categoryId": "museums",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Jim%20Thompson%20House%2C%20Bangkok",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Jim_Thompson_House",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Main_House_of_Jim_Thompson_photo_Don_Ramey_Logan.jpg/960px-Main_House_of_Jim_Thompson_photo_Don_Ramey_Logan.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Jim_Thompson_House"
+        }
+      },
+      {
+        "id": "bangkok-museums-8",
+        "name": "National Gallery",
+        "cityId": "bangkok",
+        "categoryId": "museums",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=National%20Gallery%2C%20Bangkok",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/National_Gallery_(Thailand)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/National_Gallery_of_Thailand%2C_February_2024.jpg/960px-National_Gallery_of_Thailand%2C_February_2024.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/National_Gallery_(Thailand)"
+        }
+      },
+      {
+        "id": "bangkok-museums-9",
+        "name": "Silpa Bhirasri National Museum",
+        "cityId": "bangkok",
+        "categoryId": "museums",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Silpa%20Bhirasri%20National%20Museum%2C%20Bangkok",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Silpa_Bhirasri_National_Museum",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/Silpa_Bhirasri_National_Museum_%E0%B8%9E%E0%B8%B4%E0%B8%9E%E0%B8%B4%E0%B8%98%E0%B8%A0%E0%B8%B1%E0%B8%93%E0%B8%91%E0%B8%AA%E0%B8%96%E0%B8%B2%E0%B8%99%E0%B9%81%E0%B8%AB%E0%B9%88%E0%B8%87%E0%B8%8A%E0%B8%B2%E0%B8%95%E0%B8%B4_%E0%B8%A8%E0%B8%B4%E0%B8%A5%E0%B8%9B%E0%B9%8C_%E0%B8%9E%E0%B8%B5%E0%B8%A3%E0%B8%B0%E0%B8%A8%E0%B8%A3%E0%B8%B5_%E0%B8%AD%E0%B8%99%E0%B8%B8%E0%B8%AA%E0%B8%A3%E0%B8%93%E0%B9%8C_%282020%29_-_img_04.jpg/960px-thumbnail.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Silpa_Bhirasri_National_Museum"
+        }
+      },
+      {
+        "id": "bangkok-museums-10",
+        "name": "National Museum of Royal Barges",
+        "cityId": "bangkok",
+        "categoryId": "museums",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=National%20Museum%20of%20Royal%20Barges%2C%20Bangkok",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/National_Museum_of_Royal_Barges",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/Royal_Barge_National_Museum_-_Bangkok.JPG/960px-Royal_Barge_National_Museum_-_Bangkok.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/National_Museum_of_Royal_Barges"
+        }
+      },
+      {
+        "id": "bangkok-museums-11",
+        "name": "Wat Benchamabophit",
+        "cityId": "bangkok",
+        "categoryId": "museums",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Wat%20Benchamabophit%2C%20Bangkok",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Wat_Benchamabophit",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Wat_Benjamabophit1.jpg/960px-Wat_Benjamabophit1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Wat_Benchamabophit"
+        }
+      },
+      {
+        "id": "bangkok-museums-12",
+        "name": "Bank of Thailand Museum",
+        "cityId": "bangkok",
+        "categoryId": "museums",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Bank%20of%20Thailand%20Museum%2C%20Bangkok",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Bank_of_Thailand_Museum",
+        "photo": null
+      },
+      {
+        "id": "bangkok-museums-13",
+        "name": "Bangkok Art and Culture Centre",
+        "cityId": "bangkok",
+        "categoryId": "museums",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Bangkok%20Art%20and%20Culture%20Centre%2C%20Bangkok",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Bangkok_Art_and_Culture_Centre",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/BKK_Art_and_Culture_Centre_%28II%29.jpg/960px-BKK_Art_and_Culture_Centre_%28II%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Bangkok_Art_and_Culture_Centre"
+        }
+      },
+      {
+        "id": "bangkok-museums-14",
+        "name": "Giant Swing",
+        "cityId": "bangkok",
+        "categoryId": "museums",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Giant%20Swing%2C%20Bangkok",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Giant_Swing",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/Giant_swing_-_Sao_Chingcha_crop_2013-05-20.jpg/960px-Giant_swing_-_Sao_Chingcha_crop_2013-05-20.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Giant_Swing"
+        }
+      },
+      {
+        "id": "bangkok-museums-15",
+        "name": "Devasathan",
+        "cityId": "bangkok",
+        "categoryId": "museums",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Devasathan%2C%20Bangkok",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Devasathan",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/%E0%B9%80%E0%B8%97%E0%B8%A7%E0%B8%AA%E0%B8%96%E0%B8%B2%E0%B8%99_%28%E0%B9%82%E0%B8%9A%E0%B8%AA%E0%B8%96%E0%B9%8C%E0%B8%9E%E0%B8%A3%E0%B8%B2%E0%B8%AB%E0%B8%A1%E0%B8%93%E0%B9%8C%29_%E0%B9%80%E0%B8%82%E0%B8%95%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%99%E0%B8%84%E0%B8%A3_%E0%B8%81%E0%B8%A3%E0%B8%B8%E0%B8%87%E0%B9%80%E0%B8%97%E0%B8%9E%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%99%E0%B8%84%E0%B8%A3_%282%29.jpg/960px-%E0%B9%80%E0%B8%97%E0%B8%A7%E0%B8%AA%E0%B8%96%E0%B8%B2%E0%B8%99_%28%E0%B9%82%E0%B8%9A%E0%B8%AA%E0%B8%96%E0%B9%8C%E0%B8%9E%E0%B8%A3%E0%B8%B2%E0%B8%AB%E0%B8%A1%E0%B8%93%E0%B9%8C%29_%E0%B9%80%E0%B8%82%E0%B8%95%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%99%E0%B8%84%E0%B8%A3_%E0%B8%81%E0%B8%A3%E0%B8%B8%E0%B8%87%E0%B9%80%E0%B8%97%E0%B8%9E%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%99%E0%B8%84%E0%B8%A3_%282%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Devasathan"
+        }
+      },
+      {
+        "id": "bangkok-museums-16",
+        "name": "Chinatown, Bangkok",
+        "cityId": "bangkok",
+        "categoryId": "museums",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Chinatown%2C%20Bangkok%2C%20Bangkok",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Chinatown%2C_Bangkok",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/Yaowarat_at_night_%2832455695783%29.jpg/960px-Yaowarat_at_night_%2832455695783%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Chinatown%2C_Bangkok"
+        }
+      },
+      {
+        "id": "bangkok-museums-17",
+        "name": "Bangkok Doll Museum",
+        "cityId": "bangkok",
+        "categoryId": "museums",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Bangkok%20Doll%20Museum%2C%20Bangkok",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Bangkok_Doll_Museum",
+        "photo": null
+      },
+      {
+        "id": "bangkok-museums-18",
+        "name": "M.R. Kukrit's House",
+        "cityId": "bangkok",
+        "categoryId": "museums",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=M.R.%20Kukrit's%20House%2C%20Bangkok",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/M.R._Kukrit's_House",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/M.R._Kukrit%E2%80%99s_Heritage_Home_%286980958709%29.jpg/960px-M.R._Kukrit%E2%80%99s_Heritage_Home_%286980958709%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/M.R._Kukrit's_House"
+        }
+      }
+    ],
+    "concerts": [
+      {
+        "id": "bangkok-concerts-1",
+        "name": "Siam Paragon",
+        "cityId": "bangkok",
+        "categoryId": "concerts",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Siam%20Paragon%2C%20Bangkok",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Siam_Paragon",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Siam_Paragon_06.23.jpg/960px-Siam_Paragon_06.23.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Siam_Paragon"
+        }
+      },
+      {
+        "id": "bangkok-concerts-2",
+        "name": "Trocadero",
+        "cityId": "bangkok",
+        "categoryId": "concerts",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Trocadero%2C%20Bangkok",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Trocadero",
+        "photo": null
+      },
+      {
+        "id": "bangkok-concerts-3",
+        "name": "Theodore Kerkezos",
+        "cityId": "bangkok",
+        "categoryId": "concerts",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Theodore%20Kerkezos%2C%20Bangkok",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Theodore_Kerkezos",
+        "photo": null
+      },
+      {
+        "id": "bangkok-concerts-4",
+        "name": "Asiola",
+        "cityId": "bangkok",
+        "categoryId": "concerts",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Asiola%2C%20Bangkok",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Asiola",
+        "photo": null
+      },
+      {
+        "id": "bangkok-concerts-5",
+        "name": "Mahidol University",
+        "cityId": "bangkok",
+        "categoryId": "concerts",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Mahidol%20University%2C%20Bangkok",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Mahidol_University",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Mahidol_U.svg/960px-Mahidol_U.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Mahidol_University"
+        }
+      },
+      {
+        "id": "bangkok-concerts-6",
+        "name": "Miss Russia 2018",
+        "cityId": "bangkok",
+        "categoryId": "concerts",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Miss%20Russia%202018%2C%20Bangkok",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Miss_Russia_2018",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/%D0%A4%D0%B8%D0%BD%D0%B0%D0%BB_%D0%BA%D0%BE%D0%BD%D0%BA%D1%83%D1%80%D1%81%D0%B0_%D0%9C%D0%B8%D1%81%D1%81_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F_2018_.jpg/960px-%D0%A4%D0%B8%D0%BD%D0%B0%D0%BB_%D0%BA%D0%BE%D0%BD%D0%BA%D1%83%D1%80%D1%81%D0%B0_%D0%9C%D0%B8%D1%81%D1%81_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F_2018_.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Miss_Russia_2018"
+        }
+      },
+      {
+        "id": "bangkok-concerts-7",
+        "name": "MBK Center",
+        "cityId": "bangkok",
+        "categoryId": "concerts",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=MBK%20Center%2C%20Bangkok",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/MBK_Center",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/MBK_CENTER_%288%29.jpg/960px-MBK_CENTER_%288%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/MBK_Center"
+        }
+      },
+      {
+        "id": "bangkok-concerts-8",
+        "name": "Diary Tour",
+        "cityId": "bangkok",
+        "categoryId": "concerts",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Diary%20Tour%2C%20Bangkok",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Diary_Tour",
+        "photo": null
+      },
+      {
+        "id": "bangkok-concerts-9",
+        "name": "The Avril Lavigne Tour",
+        "cityId": "bangkok",
+        "categoryId": "concerts",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Avril%20Lavigne%20Tour%2C%20Bangkok",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/The_Avril_Lavigne_Tour",
+        "photo": null
+      },
+      {
+        "id": "bangkok-concerts-10",
+        "name": "Prince Mahidol Hall",
+        "cityId": "bangkok",
+        "categoryId": "concerts",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Prince%20Mahidol%20Hall%2C%20Bangkok",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Prince_Mahidol_Hall",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Prince_Mahidol_Hall_1.jpg/960px-Prince_Mahidol_Hall_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Prince_Mahidol_Hall"
+        }
+      },
+      {
+        "id": "bangkok-concerts-11",
+        "name": "Muang Thong Thani",
+        "cityId": "bangkok",
+        "categoryId": "concerts",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Muang%20Thong%20Thani%2C%20Bangkok",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Muang_Thong_Thani",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Muang_Thong_Thani_lake_and_condominiums%2C_Nov_2023.jpg/960px-Muang_Thong_Thani_lake_and_condominiums%2C_Nov_2023.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Muang_Thong_Thani"
+        }
+      },
+      {
+        "id": "bangkok-concerts-12",
+        "name": "Wallflower World Tour",
+        "cityId": "bangkok",
+        "categoryId": "concerts",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Wallflower%20World%20Tour%2C%20Bangkok",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Wallflower_World_Tour",
+        "photo": null
+      },
+      {
+        "id": "bangkok-concerts-13",
+        "name": "Philippine Philharmonic Orchestra",
+        "cityId": "bangkok",
+        "categoryId": "concerts",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Philippine%20Philharmonic%20Orchestra%2C%20Bangkok",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Philippine_Philharmonic_Orchestra",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Philippine_Philharmonic_Orchestra_logo.svg/960px-Philippine_Philharmonic_Orchestra_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Philippine_Philharmonic_Orchestra"
+        }
+      },
+      {
+        "id": "bangkok-concerts-14",
+        "name": "Mary Mei Loc Wu",
+        "cityId": "bangkok",
+        "categoryId": "concerts",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Mary%20Mei%20Loc%20Wu%2C%20Bangkok",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Mary_Mei_Loc_Wu",
+        "photo": null
+      },
+      {
+        "id": "bangkok-concerts-15",
+        "name": "1987 Summer Universiade",
+        "cityId": "bangkok",
+        "categoryId": "concerts",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=1987%20Summer%20Universiade%2C%20Bangkok",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/1987_Summer_Universiade",
+        "photo": null
+      },
+      {
+        "id": "bangkok-concerts-16",
+        "name": "A Summer Night with Olivia Newton-John",
+        "cityId": "bangkok",
+        "categoryId": "concerts",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=A%20Summer%20Night%20with%20Olivia%20Newton-John%2C%20Bangkok",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/A_Summer_Night_with_Olivia_Newton-John",
+        "photo": null
+      },
+      {
+        "id": "bangkok-concerts-17",
+        "name": "Caroline Fischer",
+        "cityId": "bangkok",
+        "categoryId": "concerts",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Caroline%20Fischer%2C%20Bangkok",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Caroline_Fischer",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Caroline-fischer-bangkok-02-_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Caroline_Fischer"
+        }
+      },
+      {
+        "id": "bangkok-concerts-18",
+        "name": "Showgirl: The Greatest Hits Tour",
+        "cityId": "bangkok",
+        "categoryId": "concerts",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Showgirl%3A%20The%20Greatest%20Hits%20Tour%2C%20Bangkok",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Showgirl%3A_The_Greatest_Hits_Tour",
+        "photo": null
+      }
+    ],
+    "fashion": [
+      {
+        "id": "bangkok-fashion-1",
+        "name": "CentralWorld",
+        "cityId": "bangkok",
+        "categoryId": "fashion",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=CentralWorld%2C%20Bangkok",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/CentralWorld",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/Central_World_%28I%29.jpg/960px-Central_World_%28I%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/CentralWorld"
+        }
+      },
+      {
+        "id": "bangkok-fashion-2",
+        "name": "Rahima Dirkse",
+        "cityId": "bangkok",
+        "categoryId": "fashion",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Rahima%20Dirkse%2C%20Bangkok",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Rahima_Dirkse",
+        "photo": null
+      },
+      {
+        "id": "bangkok-fashion-3",
+        "name": "Changing room",
+        "cityId": "bangkok",
+        "categoryId": "fashion",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Changing%20room%2C%20Bangkok",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Changing_room",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/HK_%E5%A0%85%E5%B0%BC%E5%9C%B0%E5%9F%8E_Kennedy_Town_%E5%A3%AB%E7%BE%8E%E9%9D%9E%E8%B7%AF%E5%B8%82%E6%94%BF%E5%A4%A7%E5%BB%88_Smithfield_Municipal_Services_Building_%E6%9B%B4%E8%A1%A3%E5%AE%A4_changing_room_Sept-2011.jpg/960px-HK_%E5%A0%85%E5%B0%BC%E5%9C%B0%E5%9F%8E_Kennedy_Town_%E5%A3%AB%E7%BE%8E%E9%9D%9E%E8%B7%AF%E5%B8%82%E6%94%BF%E5%A4%A7%E5%BB%88_Smithfield_Municipal_Services_Building_%E6%9B%B4%E8%A1%A3%E5%AE%A4_changing_room_Sept-2011.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Changing_room"
+        }
+      },
+      {
+        "id": "bangkok-fashion-4",
+        "name": "Beams",
+        "cityId": "bangkok",
+        "categoryId": "fashion",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Beams%2C%20Bangkok",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Beams_(brand)",
+        "photo": null
+      },
+      {
+        "id": "bangkok-fashion-5",
+        "name": "Nguyễn Thúy Hiền",
+        "cityId": "bangkok",
+        "categoryId": "fashion",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Nguy%E1%BB%85n%20Th%C3%BAy%20Hi%E1%BB%81n%2C%20Bangkok",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Nguy%E1%BB%85n_Th%C3%BAy_Hi%E1%BB%81n",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/NGUY%E1%BB%84N_TH%C3%9AY_HI%E1%BB%80N.jpg/960px-NGUY%E1%BB%84N_TH%C3%9AY_HI%E1%BB%80N.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Nguy%E1%BB%85n_Th%C3%BAy_Hi%E1%BB%81n"
+        }
+      },
+      {
+        "id": "bangkok-fashion-6",
+        "name": "Golden Venture",
+        "cityId": "bangkok",
+        "categoryId": "fashion",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Golden%20Venture%2C%20Bangkok",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Golden_Venture",
+        "photo": null
+      },
+      {
+        "id": "bangkok-fashion-7",
+        "name": "Nazi chic",
+        "cityId": "bangkok",
+        "categoryId": "fashion",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Nazi%20chic%2C%20Bangkok",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Nazi_chic",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/52/Nazi_cosplay_uniforms_for_sale_on_display_in_Akihabara%2C_Tokyo%2C_Japan_2006._Panzer%2C_SS_parade_uniform%2C_miniature_cale_models_toy_soldiers_black_uniforms_etc.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Nazi_chic"
+        }
+      },
+      {
+        "id": "bangkok-fashion-8",
+        "name": "Sogo",
+        "cityId": "bangkok",
+        "categoryId": "fashion",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Sogo%2C%20Bangkok",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Sogo",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/SOGO_Yokohama_001.JPG/960px-SOGO_Yokohama_001.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Sogo"
+        }
+      },
+      {
+        "id": "bangkok-fashion-9",
+        "name": "Jandino Asporaat",
+        "cityId": "bangkok",
+        "categoryId": "fashion",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Jandino%20Asporaat%2C%20Bangkok",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Jandino_Asporaat",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/Jandino_Jullian_Asporaat.JPG/960px-Jandino_Jullian_Asporaat.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Jandino_Asporaat"
+        }
+      },
+      {
+        "id": "bangkok-fashion-10",
+        "name": "Joey Chernyim",
+        "cityId": "bangkok",
+        "categoryId": "fashion",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Joey%20Chernyim%2C%20Bangkok",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Joey_Chernyim",
+        "photo": null
+      },
+      {
+        "id": "bangkok-fashion-11",
+        "name": "2014 in Sri Lanka",
+        "cityId": "bangkok",
+        "categoryId": "fashion",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=2014%20in%20Sri%20Lanka%2C%20Bangkok",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/2014_in_Sri_Lanka",
+        "photo": null
+      },
+      {
+        "id": "bangkok-fashion-12",
+        "name": "Freen Sarocha",
+        "cityId": "bangkok",
+        "categoryId": "fashion",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Freen%20Sarocha%2C%20Bangkok",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Freen_Sarocha",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Freen_Sarocha_Chankimha_2026-01-12.jpg/960px-Freen_Sarocha_Chankimha_2026-01-12.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Freen_Sarocha"
+        }
+      },
+      {
+        "id": "bangkok-fashion-13",
+        "name": "Double-decker bus",
+        "cityId": "bangkok",
+        "categoryId": "fashion",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Double-decker%20bus%2C%20Bangkok",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Double-decker_bus",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/Abellio_LT157_%28LTZ1157%29_Holborn_Viaduct_20.01.2024.jpg/960px-Abellio_LT157_%28LTZ1157%29_Holborn_Viaduct_20.01.2024.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Double-decker_bus"
+        }
+      },
+      {
+        "id": "bangkok-fashion-14",
+        "name": "Redefining Realness",
+        "cityId": "bangkok",
+        "categoryId": "fashion",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Redefining%20Realness%2C%20Bangkok",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Redefining_Realness",
+        "photo": null
+      },
+      {
+        "id": "bangkok-fashion-15",
+        "name": "Choi Young-jae",
+        "cityId": "bangkok",
+        "categoryId": "fashion",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Choi%20Young-jae%2C%20Bangkok",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Choi_Young-jae",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/56/Choi_Youngjae_at_Incheon_airport%2C_16_June_2025_01.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Choi_Young-jae"
+        }
+      },
+      {
+        "id": "bangkok-fashion-16",
+        "name": "Sơn Tùng M-TP",
+        "cityId": "bangkok",
+        "categoryId": "fashion",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=S%C6%A1n%20T%C3%B9ng%20M-TP%2C%20Bangkok",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/S%C6%A1n_T%C3%B9ng_M-TP",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/41/Son_Tung_M-TP_1_%282021%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/S%C6%A1n_T%C3%B9ng_M-TP"
+        }
+      },
+      {
+        "id": "bangkok-fashion-17",
+        "name": "April 1980",
+        "cityId": "bangkok",
+        "categoryId": "fashion",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=April%201980%2C%20Bangkok",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/April_1980",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Usburnedhelicopter.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/April_1980"
+        }
+      },
+      {
+        "id": "bangkok-fashion-18",
+        "name": "Super Junior videography",
+        "cityId": "bangkok",
+        "categoryId": "fashion",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Super%20Junior%20videography%2C%20Bangkok",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Super_Junior_videography",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/81/Super_Junior_from_Acrofan_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Super_Junior_videography"
+        }
+      }
+    ],
+    "shops": [
+      {
+        "id": "bangkok-shops-1",
+        "name": "Thai Airways International",
+        "cityId": "bangkok",
+        "categoryId": "shops",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Thai%20Airways%20International%2C%20Bangkok",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Thai_Airways_International",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/HS-TKZ%40PEK_%2820191029154241%29.jpg/960px-HS-TKZ%40PEK_%2820191029154241%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Thai_Airways_International"
+        }
+      },
+      {
+        "id": "bangkok-shops-2",
+        "name": "Gem scam",
+        "cityId": "bangkok",
+        "categoryId": "shops",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Gem%20scam%2C%20Bangkok",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Gem_scam",
+        "photo": null
+      },
+      {
+        "id": "bangkok-shops-3",
+        "name": "Hua Takhe",
+        "cityId": "bangkok",
+        "categoryId": "shops",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Hua%20Takhe%2C%20Bangkok",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Hua_Takhe",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/%E0%B8%9A%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B8%A3%E0%B8%B4%E0%B8%A1%E0%B8%84%E0%B8%A5%E0%B8%AD%E0%B8%87_-_panoramio.jpg/960px-%E0%B8%9A%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B8%A3%E0%B8%B4%E0%B8%A1%E0%B8%84%E0%B8%A5%E0%B8%AD%E0%B8%87_-_panoramio.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Hua_Takhe"
+        }
+      },
+      {
+        "id": "bangkok-shops-4",
+        "name": "King Prajadhipok Museum",
+        "cityId": "bangkok",
+        "categoryId": "shops",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=King%20Prajadhipok%20Museum%2C%20Bangkok",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/King_Prajadhipok_Museum",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/John_Sampson_%26_Son_Department_Store%2C_BKK.jpg/960px-John_Sampson_%26_Son_Department_Store%2C_BKK.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/King_Prajadhipok_Museum"
+        }
+      },
+      {
+        "id": "bangkok-shops-5",
+        "name": "Tha Tian Market",
+        "cityId": "bangkok",
+        "categoryId": "shops",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Tha%20Tian%20Market%2C%20Bangkok",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Tha_Tian_Market",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/%E0%B8%96%E0%B8%99%E0%B8%99.JPG/960px-%E0%B8%96%E0%B8%99%E0%B8%99.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Tha_Tian_Market"
+        }
+      },
+      {
+        "id": "bangkok-shops-6",
+        "name": "Princess Mother Memorial Park",
+        "cityId": "bangkok",
+        "categoryId": "shops",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Princess%20Mother%20Memorial%20Park%2C%20Bangkok",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Princess_Mother_Memorial_Park",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/Princess_Srinagarindra_Statue.jpg/960px-Princess_Srinagarindra_Statue.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Princess_Mother_Memorial_Park"
+        }
+      },
+      {
+        "id": "bangkok-shops-7",
+        "name": "Bamrung Chat Satsana Ya Thai",
+        "cityId": "bangkok",
+        "categoryId": "shops",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Bamrung%20Chat%20Satsana%20Ya%20Thai%2C%20Bangkok",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Bamrung_Chat_Satsana_Ya_Thai",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Ban_Mo_Wan_%E0%B8%9A%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B8%AB%E0%B8%A1%E0%B8%AD%E0%B8%AB%E0%B8%A7%E0%B8%B2%E0%B8%99_04.jpg/960px-Ban_Mo_Wan_%E0%B8%9A%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B8%AB%E0%B8%A1%E0%B8%AD%E0%B8%AB%E0%B8%A7%E0%B8%B2%E0%B8%99_04.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Bamrung_Chat_Satsana_Ya_Thai"
+        }
+      },
+      {
+        "id": "bangkok-shops-8",
+        "name": "Warrix Sports",
+        "cityId": "bangkok",
+        "categoryId": "shops",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Warrix%20Sports%2C%20Bangkok",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Warrix_Sports",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Thailand_2017.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Warrix_Sports"
+        }
+      },
+      {
+        "id": "bangkok-shops-9",
+        "name": "King Power",
+        "cityId": "bangkok",
+        "categoryId": "shops",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=King%20Power%2C%20Bangkok",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/King_Power",
+        "photo": null
+      },
+      {
+        "id": "bangkok-shops-10",
+        "name": "Samart Group",
+        "cityId": "bangkok",
+        "categoryId": "shops",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Samart%20Group%2C%20Bangkok",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Samart_Group",
+        "photo": null
+      },
+      {
+        "id": "bangkok-shops-11",
+        "name": "J.J Mall",
+        "cityId": "bangkok",
+        "categoryId": "shops",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=J.J%20Mall%2C%20Bangkok",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/J.J_Mall",
+        "photo": null
+      },
+      {
+        "id": "bangkok-shops-12",
+        "name": "Louisa Coffee",
+        "cityId": "bangkok",
+        "categoryId": "shops",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Louisa%20Coffee%2C%20Bangkok",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Louisa_Coffee",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Keelung_Qidu_Store%2C_Louisa_Coffee_20210629.jpg/960px-Keelung_Qidu_Store%2C_Louisa_Coffee_20210629.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Louisa_Coffee"
+        }
+      },
+      {
+        "id": "bangkok-shops-13",
+        "name": "Maeklong Railway",
+        "cityId": "bangkok",
+        "categoryId": "shops",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Maeklong%20Railway%2C%20Bangkok",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Maeklong_Railway",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/Talad_Rom_Hoop_%28II%29.jpg/960px-Talad_Rom_Hoop_%28II%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Maeklong_Railway"
+        }
+      },
+      {
+        "id": "bangkok-shops-14",
+        "name": "Animate",
+        "cityId": "bangkok",
+        "categoryId": "shops",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Animate%2C%20Bangkok",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Animate_(retailer)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Animate_head_office.jpg/960px-Animate_head_office.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Animate_(retailer)"
+        }
+      },
+      {
+        "id": "bangkok-shops-15",
+        "name": "Wang Burapha",
+        "cityId": "bangkok",
+        "categoryId": "shops",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Wang%20Burapha%2C%20Bangkok",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Wang_Burapha",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Wang_burapha_Phirom_subdistrict%2C_Phra_Nakhon_district%2C_Bangkok%2C_Thailand_-_panoramio.jpg/960px-Wang_burapha_Phirom_subdistrict%2C_Phra_Nakhon_district%2C_Bangkok%2C_Thailand_-_panoramio.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Wang_Burapha"
+        }
+      },
+      {
+        "id": "bangkok-shops-16",
+        "name": "108 Shop",
+        "cityId": "bangkok",
+        "categoryId": "shops",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=108%20Shop%2C%20Bangkok",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/108_Shop",
+        "photo": null
+      },
+      {
+        "id": "bangkok-shops-17",
+        "name": "Naiin",
+        "cityId": "bangkok",
+        "categoryId": "shops",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Naiin%2C%20Bangkok",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Naiin",
+        "photo": null
+      },
+      {
+        "id": "bangkok-shops-18",
+        "name": "ASA Architectural Conservation Award",
+        "cityId": "bangkok",
+        "categoryId": "shops",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=ASA%20Architectural%20Conservation%20Award%2C%20Bangkok",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/ASA_Architectural_Conservation_Award",
+        "photo": null
+      }
+    ]
+  }
+}

@@ -1,0 +1,2433 @@
+{
+  "cityId": "zurich",
+  "generatedAt": "2026-11-27T09:20:11.254Z",
+  "source": "Wikipedia API + Maps URLs (sin scraping de Google)",
+  "incomplete": [],
+  "categories": {
+    "night_clubs": [
+      {
+        "id": "zurich-night_clubs-1",
+        "name": "Cabaret Voltaire",
+        "cityId": "zurich",
+        "categoryId": "night_clubs",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Cabaret%20Voltaire%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Cabaret_Voltaire_(Zurich)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/1916_Marcel_S%C5%82odki_Cabaret-Voltaire.jpg/960px-1916_Marcel_S%C5%82odki_Cabaret-Voltaire.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Cabaret_Voltaire_(Zurich)"
+        }
+      },
+      {
+        "id": "zurich-night_clubs-2",
+        "name": "Sihlcity",
+        "cityId": "zurich",
+        "categoryId": "night_clubs",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Sihlcity%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Sihlcity",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Z%C3%BCrich_-_Sihlcity_IMG_0911.JPG/960px-Z%C3%BCrich_-_Sihlcity_IMG_0911.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Sihlcity"
+        }
+      },
+      {
+        "id": "zurich-night_clubs-3",
+        "name": "David Zinman",
+        "cityId": "zurich",
+        "categoryId": "night_clubs",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=David%20Zinman%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/David_Zinman",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Tijdens_het_concert%2C_dirigent_Zinman_%28m_staand%29%2C_Bestanddeelnr_924-6523_%28cropped%29.jpg/960px-Tijdens_het_concert%2C_dirigent_Zinman_%28m_staand%29%2C_Bestanddeelnr_924-6523_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/David_Zinman"
+        }
+      },
+      {
+        "id": "zurich-night_clubs-4",
+        "name": "Zurich Airport",
+        "cityId": "zurich",
+        "categoryId": "night_clubs",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Zurich%20Airport%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Zurich_Airport",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/Aerial_view_of_the_Zurich_Airport%2C_April_2019.jpg/960px-Aerial_view_of_the_Zurich_Airport%2C_April_2019.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Zurich_Airport"
+        }
+      },
+      {
+        "id": "zurich-night_clubs-5",
+        "name": "Mark Fleischman",
+        "cityId": "zurich",
+        "categoryId": "night_clubs",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Mark%20Fleischman%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Mark_Fleischman",
+        "photo": null
+      },
+      {
+        "id": "zurich-night_clubs-6",
+        "name": "Goodbye to Gravity",
+        "cityId": "zurich",
+        "categoryId": "night_clubs",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Goodbye%20to%20Gravity%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Goodbye_to_Gravity",
+        "photo": null
+      },
+      {
+        "id": "zurich-night_clubs-7",
+        "name": "Ruen",
+        "cityId": "zurich",
+        "categoryId": "night_clubs",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Ruen%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Ruen_(DJ)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/8-3-DJRUEN_1.jpg/960px-8-3-DJRUEN_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Ruen_(DJ)"
+        }
+      },
+      {
+        "id": "zurich-night_clubs-8",
+        "name": "John Connolly",
+        "cityId": "zurich",
+        "categoryId": "night_clubs",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=John%20Connolly%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/John_Connolly_(rugby_union_coach)",
+        "photo": null
+      },
+      {
+        "id": "zurich-night_clubs-9",
+        "name": "Nordstern",
+        "cityId": "zurich",
+        "categoryId": "night_clubs",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Nordstern%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Nordstern_(club)",
+        "photo": null
+      },
+      {
+        "id": "zurich-night_clubs-10",
+        "name": "Serge Becker",
+        "cityId": "zurich",
+        "categoryId": "night_clubs",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Serge%20Becker%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Serge_Becker",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Serge_Becker_Portrait.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Serge_Becker"
+        }
+      },
+      {
+        "id": "zurich-night_clubs-11",
+        "name": "Dada",
+        "cityId": "zurich",
+        "categoryId": "night_clubs",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Dada%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Dada",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Grand_opening_of_the_first_Dada_exhibition%2C_Berlin%2C_5_June_1920.jpg/960px-Grand_opening_of_the_first_Dada_exhibition%2C_Berlin%2C_5_June_1920.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Dada"
+        }
+      },
+      {
+        "id": "zurich-night_clubs-12",
+        "name": "Cabaret",
+        "cityId": "zurich",
+        "categoryId": "night_clubs",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Cabaret%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Cabaret",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/Henri_de_Toulouse-Lautrec%2C_French_-_At_the_Moulin_Rouge-_The_Dance_-_Google_Art_Project.jpg/960px-Henri_de_Toulouse-Lautrec%2C_French_-_At_the_Moulin_Rouge-_The_Dance_-_Google_Art_Project.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Cabaret"
+        }
+      },
+      {
+        "id": "zurich-night_clubs-13",
+        "name": "Gstaad Palace",
+        "cityId": "zurich",
+        "categoryId": "night_clubs",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Gstaad%20Palace%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Gstaad_Palace",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/Gstaad_430DSC_0353_%2848618930052%29.jpg/960px-Gstaad_430DSC_0353_%2848618930052%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Gstaad_Palace"
+        }
+      },
+      {
+        "id": "zurich-night_clubs-14",
+        "name": "2012–13 FC Sion season",
+        "cityId": "zurich",
+        "categoryId": "night_clubs",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=2012%E2%80%9313%20FC%20Sion%20season%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/2012%E2%80%9313_FC_Sion_season",
+        "photo": null
+      },
+      {
+        "id": "zurich-night_clubs-15",
+        "name": "Klänge",
+        "cityId": "zurich",
+        "categoryId": "night_clubs",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Kl%C3%A4nge%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Kl%C3%A4nge",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/35/Klange.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Kl%C3%A4nge"
+        }
+      },
+      {
+        "id": "zurich-night_clubs-16",
+        "name": "Justin Tranter",
+        "cityId": "zurich",
+        "categoryId": "night_clubs",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Justin%20Tranter%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Justin_Tranter",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/SXSW-2024-studio-OB7A1814-Justin_Tranter.jpg/960px-SXSW-2024-studio-OB7A1814-Justin_Tranter.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Justin_Tranter"
+        }
+      },
+      {
+        "id": "zurich-night_clubs-17",
+        "name": "Cabral",
+        "cityId": "zurich",
+        "categoryId": "night_clubs",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Cabral%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Cabral_(footballer)",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/87/Adilson_Tavares_Varela_%E2%80%94_Cabral.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Cabral_(footballer)"
+        }
+      },
+      {
+        "id": "zurich-night_clubs-18",
+        "name": "Rave",
+        "cityId": "zurich",
+        "categoryId": "night_clubs",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Rave%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Rave",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Sven_Vath_playing_at_Amnesia.JPG/960px-Sven_Vath_playing_at_Amnesia.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Rave"
+        }
+      }
+    ],
+    "restaurants": [
+      {
+        "id": "zurich-restaurants-1",
+        "name": "Felsenegg",
+        "cityId": "zurich",
+        "categoryId": "restaurants",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Felsenegg%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Felsenegg",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Felsenegg_-_Uetlibergturm_IMG_1620.JPG/960px-Felsenegg_-_Uetlibergturm_IMG_1620.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Felsenegg"
+        }
+      },
+      {
+        "id": "zurich-restaurants-2",
+        "name": "Zürichberg",
+        "cityId": "zurich",
+        "categoryId": "restaurants",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Z%C3%BCrichberg%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Z%C3%BCrichberg",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Z%C3%BCrich_-_Wollishofen_-_Alte_Kirche_IMG_0674.JPG/960px-Z%C3%BCrich_-_Wollishofen_-_Alte_Kirche_IMG_0674.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Z%C3%BCrichberg"
+        }
+      },
+      {
+        "id": "zurich-restaurants-3",
+        "name": "Bavaria",
+        "cityId": "zurich",
+        "categoryId": "restaurants",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Bavaria%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Bavaria_(train)",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/39/DB_218_264-0_%2B_TEE_66.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Bavaria_(train)"
+        }
+      },
+      {
+        "id": "zurich-restaurants-4",
+        "name": "Zünfte of Zurich",
+        "cityId": "zurich",
+        "categoryId": "restaurants",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Z%C3%BCnfte%20of%20Zurich%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Z%C3%BCnfte_of_Zurich",
+        "photo": null
+      },
+      {
+        "id": "zurich-restaurants-5",
+        "name": "Letzigrund",
+        "cityId": "zurich",
+        "categoryId": "restaurants",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Letzigrund%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Letzigrund",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Letzigrund_2024_2.jpg/960px-Letzigrund_2024_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Letzigrund"
+        }
+      },
+      {
+        "id": "zurich-restaurants-6",
+        "name": "Hiltl Restaurant",
+        "cityId": "zurich",
+        "categoryId": "restaurants",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Hiltl%20Restaurant%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Hiltl_Restaurant",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Hiltl_Z%C3%BCrich.jpg/960px-Hiltl_Z%C3%BCrich.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Hiltl_Restaurant"
+        }
+      },
+      {
+        "id": "zurich-restaurants-7",
+        "name": "Blindekuh",
+        "cityId": "zurich",
+        "categoryId": "restaurants",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Blindekuh%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Blindekuh_(restaurant)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/Restaurant_Blinde_Kuh_-_September_2014_-_Bild_5.JPG/960px-Restaurant_Blinde_Kuh_-_September_2014_-_Bild_5.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Blindekuh_(restaurant)"
+        }
+      },
+      {
+        "id": "zurich-restaurants-8",
+        "name": "Oberstrass",
+        "cityId": "zurich",
+        "categoryId": "restaurants",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Oberstrass%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Oberstrass",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Z%C3%BCrich_-_Oberstrass_-_Irchelpark_-_Oerlikon_-_Seebach_-_Uetlibergturm_IMG_1566.JPG/960px-Z%C3%BCrich_-_Oberstrass_-_Irchelpark_-_Oerlikon_-_Seebach_-_Uetlibergturm_IMG_1566.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Oberstrass"
+        }
+      },
+      {
+        "id": "zurich-restaurants-9",
+        "name": "Quaianlagen",
+        "cityId": "zurich",
+        "categoryId": "restaurants",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Quaianlagen%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Quaianlagen_(Zurich)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/Unteres_Z%C3%BCrichseebecken_-_Wollishofen_-_Talweg_2011-08-29_17-59-56.jpg/960px-Unteres_Z%C3%BCrichseebecken_-_Wollishofen_-_Talweg_2011-08-29_17-59-56.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Quaianlagen_(Zurich)"
+        }
+      },
+      {
+        "id": "zurich-restaurants-10",
+        "name": "Unterstrass",
+        "cityId": "zurich",
+        "categoryId": "restaurants",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Unterstrass%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Unterstrass",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/ETH-BIB-Z%C3%BCrich-Unterstrass%2C_Schulhaus%2C_Milchbuck-Inlandfl%C3%BCge-LBS_MH01-007158.tif/lossy-page1-960px-ETH-BIB-Z%C3%BCrich-Unterstrass%2C_Schulhaus%2C_Milchbuck-Inlandfl%C3%BCge-LBS_MH01-007158.tif.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Unterstrass"
+        }
+      },
+      {
+        "id": "zurich-restaurants-11",
+        "name": "Ristorante Cooperativo",
+        "cityId": "zurich",
+        "categoryId": "restaurants",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Ristorante%20Cooperativo%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Ristorante_Cooperativo",
+        "photo": null
+      },
+      {
+        "id": "zurich-restaurants-12",
+        "name": "Zürichhorn",
+        "cityId": "zurich",
+        "categoryId": "restaurants",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Z%C3%BCrichhorn%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Z%C3%BCrichhorn",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Z%C3%BCrichhorn_-_Tiefenbrunnen_-_Uetliberg_2013-11-27_14-54-24.JPG/960px-Z%C3%BCrichhorn_-_Tiefenbrunnen_-_Uetliberg_2013-11-27_14-54-24.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Z%C3%BCrichhorn"
+        }
+      },
+      {
+        "id": "zurich-restaurants-13",
+        "name": "Hardturm",
+        "cityId": "zurich",
+        "categoryId": "restaurants",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Hardturm%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Hardturm",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Hardturm_retouched.jpg/960px-Hardturm_retouched.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Hardturm"
+        }
+      },
+      {
+        "id": "zurich-restaurants-14",
+        "name": "Ufenau",
+        "cityId": "zurich",
+        "categoryId": "restaurants",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Ufenau%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Ufenau",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Ufenau_-_Feldbach_-_Etzel_2015-05-28_12-47-39.JPG/960px-Ufenau_-_Feldbach_-_Etzel_2015-05-28_12-47-39.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Ufenau"
+        }
+      },
+      {
+        "id": "zurich-restaurants-15",
+        "name": "Au Peninsula",
+        "cityId": "zurich",
+        "categoryId": "restaurants",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Au%20Peninsula%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Au_Peninsula",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Au_Halbinsel_-_Z%C3%BCrichsee_-_Albis_Baldern_IMG_5318.jpg/960px-Au_Halbinsel_-_Z%C3%BCrichsee_-_Albis_Baldern_IMG_5318.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Au_Peninsula"
+        }
+      },
+      {
+        "id": "zurich-restaurants-16",
+        "name": "Bernhard-Theater Zürich",
+        "cityId": "zurich",
+        "categoryId": "restaurants",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Bernhard-Theater%20Z%C3%BCrich%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Bernhard-Theater_Z%C3%BCrich",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/Bernhard-Theater_-_Z%C3%BCrich_Theaterplatz_2011-04-06_18-58-56_ShiftN.jpg/960px-Bernhard-Theater_-_Z%C3%BCrich_Theaterplatz_2011-04-06_18-58-56_ShiftN.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Bernhard-Theater_Z%C3%BCrich"
+        }
+      },
+      {
+        "id": "zurich-restaurants-17",
+        "name": "Zurich Opera House",
+        "cityId": "zurich",
+        "categoryId": "restaurants",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Zurich%20Opera%20House%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Zurich_Opera_House",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Opernhaus_Z%C3%BCrich_-_Sechsel%C3%A4utenplatz_2013-08-31_18-30-40.JPG/960px-Opernhaus_Z%C3%BCrich_-_Sechsel%C3%A4utenplatz_2013-08-31_18-30-40.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Zurich_Opera_House"
+        }
+      },
+      {
+        "id": "zurich-restaurants-18",
+        "name": "Bachtel",
+        "cityId": "zurich",
+        "categoryId": "restaurants",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Bachtel%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Bachtel",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Kempraten_-_Bachtel_-_ZSG_Helvetia_2015-09-09_16-41-44.JPG/960px-Kempraten_-_Bachtel_-_ZSG_Helvetia_2015-09-09_16-41-44.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Bachtel"
+        }
+      }
+    ],
+    "bars": [
+      {
+        "id": "zurich-bars-1",
+        "name": "Julius Baer Group",
+        "cityId": "zurich",
+        "categoryId": "bars",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Julius%20Baer%20Group%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Julius_Baer_Group",
+        "photo": null
+      },
+      {
+        "id": "zurich-bars-2",
+        "name": "Rudolf Elmer",
+        "cityId": "zurich",
+        "categoryId": "bars",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Rudolf%20Elmer%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Rudolf_Elmer",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Elmer_Rudolf_Matthias.jpg/960px-Elmer_Rudolf_Matthias.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Rudolf_Elmer"
+        }
+      },
+      {
+        "id": "zurich-bars-3",
+        "name": "Zurich",
+        "cityId": "zurich",
+        "categoryId": "bars",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Zurich%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Zurich",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Altstadt_Z%C3%BCrich_2015.jpg/960px-Altstadt_Z%C3%BCrich_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Zurich"
+        }
+      },
+      {
+        "id": "zurich-bars-4",
+        "name": "Cabaret Voltaire",
+        "cityId": "zurich",
+        "categoryId": "bars",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Cabaret%20Voltaire%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Cabaret_Voltaire_(Zurich)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/1916_Marcel_S%C5%82odki_Cabaret-Voltaire.jpg/960px-1916_Marcel_S%C5%82odki_Cabaret-Voltaire.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Cabaret_Voltaire_(Zurich)"
+        }
+      },
+      {
+        "id": "zurich-bars-5",
+        "name": "Ivan Kecojević",
+        "cityId": "zurich",
+        "categoryId": "bars",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Ivan%20Kecojevi%C4%87%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Ivan_Kecojevi%C4%87",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Ivan_Kecojevi%C4%87.JPG/960px-Ivan_Kecojevi%C4%87.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Ivan_Kecojevi%C4%87"
+        }
+      },
+      {
+        "id": "zurich-bars-6",
+        "name": "Dolder Grand",
+        "cityId": "zurich",
+        "categoryId": "bars",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Dolder%20Grand%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Dolder_Grand",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/CH.ZH.Zurich_Hotel_The-Dolder-Grand_3x2-R_15K.jpg/960px-CH.ZH.Zurich_Hotel_The-Dolder-Grand_3x2-R_15K.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Dolder_Grand"
+        }
+      },
+      {
+        "id": "zurich-bars-7",
+        "name": "Scott Sutter",
+        "cityId": "zurich",
+        "categoryId": "bars",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Scott%20Sutter%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Scott_Sutter",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Scott_Sutter_2009.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Scott_Sutter"
+        }
+      },
+      {
+        "id": "zurich-bars-8",
+        "name": "H. R. Giger",
+        "cityId": "zurich",
+        "categoryId": "bars",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=H.%20R.%20Giger%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/H._R._Giger",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/92/HR_Giger_2012.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/H._R._Giger"
+        }
+      },
+      {
+        "id": "zurich-bars-9",
+        "name": "Studer",
+        "cityId": "zurich",
+        "categoryId": "bars",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Studer%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Studer",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Studer_A800_MK_III_%28Bullet_Sound_Studios%29.jpg/960px-Studer_A800_MK_III_%28Bullet_Sound_Studios%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Studer"
+        }
+      },
+      {
+        "id": "zurich-bars-10",
+        "name": "Valais Women's Cup",
+        "cityId": "zurich",
+        "categoryId": "bars",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Valais%20Women's%20Cup%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Valais_Women's_Cup",
+        "photo": null
+      },
+      {
+        "id": "zurich-bars-11",
+        "name": "Urania Sternwarte",
+        "cityId": "zurich",
+        "categoryId": "bars",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Urania%20Sternwarte%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Urania_Sternwarte",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Sternwarte_Urania2.jpg/960px-Sternwarte_Urania2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Urania_Sternwarte"
+        }
+      },
+      {
+        "id": "zurich-bars-12",
+        "name": "ETH Zurich",
+        "cityId": "zurich",
+        "categoryId": "bars",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=ETH%20Zurich%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/ETH_Zurich",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/ETH_Z%C3%BCrich_-_Hauptgeb%C3%A4ude_-_Unispital_2012-07-30_07-57-03_ShiftN.jpg/960px-ETH_Z%C3%BCrich_-_Hauptgeb%C3%A4ude_-_Unispital_2012-07-30_07-57-03_ShiftN.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/ETH_Zurich"
+        }
+      },
+      {
+        "id": "zurich-bars-13",
+        "name": "High jump",
+        "cityId": "zurich",
+        "categoryId": "bars",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=High%20jump%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/High_jump",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Nicole_Forrester.JPG/960px-Nicole_Forrester.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/High_jump"
+        }
+      },
+      {
+        "id": "zurich-bars-14",
+        "name": "Double Concerto",
+        "cityId": "zurich",
+        "categoryId": "bars",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Double%20Concerto%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Double_Concerto_(Henze)",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Bundesarchiv_B_145_Bild-F008277-0008%2C_K%C3%B6ln%2C_Schloss_Br%C3%BChl%2C_Meisterkurse_Musik.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Double_Concerto_(Henze)"
+        }
+      },
+      {
+        "id": "zurich-bars-15",
+        "name": "JRP-Ringier",
+        "cityId": "zurich",
+        "categoryId": "bars",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=JRP-Ringier%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/JRP-Ringier",
+        "photo": null
+      },
+      {
+        "id": "zurich-bars-16",
+        "name": "Letzigrund",
+        "cityId": "zurich",
+        "categoryId": "bars",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Letzigrund%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Letzigrund",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Letzigrund_2024_2.jpg/960px-Letzigrund_2024_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Letzigrund"
+        }
+      },
+      {
+        "id": "zurich-bars-17",
+        "name": "InterCity",
+        "cityId": "zurich",
+        "categoryId": "bars",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=InterCity%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/InterCity_(Switzerland)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Panneaux_d%C3%A9part_IC_61_et_IC_8_%C3%A0_Berne.jpg/960px-Panneaux_d%C3%A9part_IC_61_et_IC_8_%C3%A0_Berne.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/InterCity_(Switzerland)"
+        }
+      },
+      {
+        "id": "zurich-bars-18",
+        "name": "Kaspar Villiger",
+        "cityId": "zurich",
+        "categoryId": "bars",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Kaspar%20Villiger%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Kaspar_Villiger",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Kaspar_Villiger_2002.jpg/960px-Kaspar_Villiger_2002.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Kaspar_Villiger"
+        }
+      }
+    ],
+    "coffee_shops": [
+      {
+        "id": "zurich-coffee_shops-1",
+        "name": "Amaretto",
+        "cityId": "zurich",
+        "categoryId": "coffee_shops",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Amaretto%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Amaretto",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Amaretto_Bottles_4.JPG/960px-Amaretto_Bottles_4.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Amaretto"
+        }
+      },
+      {
+        "id": "zurich-coffee_shops-2",
+        "name": "Blossoming Chestnut Branches",
+        "cityId": "zurich",
+        "categoryId": "coffee_shops",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Blossoming%20Chestnut%20Branches%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Blossoming_Chestnut_Branches",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Blossoming_Chestnut_Branches.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Blossoming_Chestnut_Branches"
+        }
+      },
+      {
+        "id": "zurich-coffee_shops-3",
+        "name": "Hardturm",
+        "cityId": "zurich",
+        "categoryId": "coffee_shops",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Hardturm%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Hardturm",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Hardturm_retouched.jpg/960px-Hardturm_retouched.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Hardturm"
+        }
+      },
+      {
+        "id": "zurich-coffee_shops-4",
+        "name": "Zurich Opera House",
+        "cityId": "zurich",
+        "categoryId": "coffee_shops",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Zurich%20Opera%20House%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Zurich_Opera_House",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Opernhaus_Z%C3%BCrich_-_Sechsel%C3%A4utenplatz_2013-08-31_18-30-40.JPG/960px-Opernhaus_Z%C3%BCrich_-_Sechsel%C3%A4utenplatz_2013-08-31_18-30-40.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Zurich_Opera_House"
+        }
+      },
+      {
+        "id": "zurich-coffee_shops-5",
+        "name": "Volkshaus",
+        "cityId": "zurich",
+        "categoryId": "coffee_shops",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Volkshaus%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Volkshaus",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/VolkshausZuerich.JPG/960px-VolkshausZuerich.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Volkshaus"
+        }
+      },
+      {
+        "id": "zurich-coffee_shops-6",
+        "name": "Kunsthaus Zürich",
+        "cityId": "zurich",
+        "categoryId": "coffee_shops",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Kunsthaus%20Z%C3%BCrich%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Kunsthaus_Z%C3%BCrich",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Kunsthaus_Z%C3%BCrich_2011-08-06_17-33-46.jpg/960px-Kunsthaus_Z%C3%BCrich_2011-08-06_17-33-46.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Kunsthaus_Z%C3%BCrich"
+        }
+      },
+      {
+        "id": "zurich-coffee_shops-7",
+        "name": "Confiserie Sprüngli",
+        "cityId": "zurich",
+        "categoryId": "coffee_shops",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Confiserie%20Spr%C3%BCngli%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Confiserie_Spr%C3%BCngli",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/David_sprungli_portrait.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Confiserie_Spr%C3%BCngli"
+        }
+      },
+      {
+        "id": "zurich-coffee_shops-8",
+        "name": "Bellevueplatz",
+        "cityId": "zurich",
+        "categoryId": "coffee_shops",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Bellevueplatz%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Bellevueplatz",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/Bellevue_-_Quaibr%C3%BCcke_2012-08-08_19-45-15.JPG/960px-Bellevue_-_Quaibr%C3%BCcke_2012-08-08_19-45-15.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Bellevueplatz"
+        }
+      },
+      {
+        "id": "zurich-coffee_shops-9",
+        "name": "FIFA Museum",
+        "cityId": "zurich",
+        "categoryId": "coffee_shops",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=FIFA%20Museum%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/FIFA_Museum",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/FIFA_World_Football_Museum_-_panoramio.jpg/960px-FIFA_World_Football_Museum_-_panoramio.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/FIFA_Museum"
+        }
+      },
+      {
+        "id": "zurich-coffee_shops-10",
+        "name": "Hallenstadion",
+        "cityId": "zurich",
+        "categoryId": "coffee_shops",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Hallenstadion%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Hallenstadion",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Oerlikon_-_Hallenstadion-Messe_Z%C3%BCrich_2011-03-15_15-20-46.jpg/960px-Oerlikon_-_Hallenstadion-Messe_Z%C3%BCrich_2011-03-15_15-20-46.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Hallenstadion"
+        }
+      },
+      {
+        "id": "zurich-coffee_shops-11",
+        "name": "Lindt",
+        "cityId": "zurich",
+        "categoryId": "coffee_shops",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Lindt%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Lindt",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Kilchberg_-_Lindt_%26_Spr%C3%BCngli_-_ZSG_Helvetia_2015-09-09_18-03-57.JPG/960px-Kilchberg_-_Lindt_%26_Spr%C3%BCngli_-_ZSG_Helvetia_2015-09-09_18-03-57.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Lindt"
+        }
+      },
+      {
+        "id": "zurich-coffee_shops-12",
+        "name": "Rathausbrücke, Zurich",
+        "cityId": "zurich",
+        "categoryId": "coffee_shops",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Rathausbr%C3%BCcke%2C%20Zurich%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Rathausbr%C3%BCcke%2C_Zurich",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Z%C3%BCrich_-_Gm%C3%BCesbrugg_-_Haus_zum_Schwert_-_Rathaus_-_Sicht_vom_Grossm%C3%BCnster_Karlsturm_IMG_6428.JPG/960px-Z%C3%BCrich_-_Gm%C3%BCesbrugg_-_Haus_zum_Schwert_-_Rathaus_-_Sicht_vom_Grossm%C3%BCnster_Karlsturm_IMG_6428.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Rathausbr%C3%BCcke%2C_Zurich"
+        }
+      },
+      {
+        "id": "zurich-coffee_shops-13",
+        "name": "Letzigrund",
+        "cityId": "zurich",
+        "categoryId": "coffee_shops",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Letzigrund%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Letzigrund",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Letzigrund_2024_2.jpg/960px-Letzigrund_2024_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Letzigrund"
+        }
+      },
+      {
+        "id": "zurich-coffee_shops-14",
+        "name": "ETH Zurich",
+        "cityId": "zurich",
+        "categoryId": "coffee_shops",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=ETH%20Zurich%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/ETH_Zurich",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/ETH_Z%C3%BCrich_-_Hauptgeb%C3%A4ude_-_Unispital_2012-07-30_07-57-03_ShiftN.jpg/960px-ETH_Z%C3%BCrich_-_Hauptgeb%C3%A4ude_-_Unispital_2012-07-30_07-57-03_ShiftN.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/ETH_Zurich"
+        }
+      },
+      {
+        "id": "zurich-coffee_shops-15",
+        "name": "Kunsthalle Zürich",
+        "cityId": "zurich",
+        "categoryId": "coffee_shops",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Kunsthalle%20Z%C3%BCrich%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Kunsthalle_Z%C3%BCrich",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Kunsthalle_Zuerich.jpg/960px-Kunsthalle_Zuerich.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Kunsthalle_Z%C3%BCrich"
+        }
+      },
+      {
+        "id": "zurich-coffee_shops-16",
+        "name": "Limmat",
+        "cityId": "zurich",
+        "categoryId": "coffee_shops",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Limmat%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Limmat",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Limmat_River.jpg/960px-Limmat_River.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Limmat"
+        }
+      },
+      {
+        "id": "zurich-coffee_shops-17",
+        "name": "Zurich",
+        "cityId": "zurich",
+        "categoryId": "coffee_shops",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Zurich%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Zurich",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Altstadt_Z%C3%BCrich_2015.jpg/960px-Altstadt_Z%C3%BCrich_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Zurich"
+        }
+      },
+      {
+        "id": "zurich-coffee_shops-18",
+        "name": "Wiedikon",
+        "cityId": "zurich",
+        "categoryId": "coffee_shops",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Wiedikon%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Wiedikon",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/Karte_Z%C3%BCrcher_Stadtkreis_3.png/960px-Karte_Z%C3%BCrcher_Stadtkreis_3.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Wiedikon"
+        }
+      }
+    ],
+    "bookshops": [
+      {
+        "id": "zurich-bookshops-1",
+        "name": "Michael Henss",
+        "cityId": "zurich",
+        "categoryId": "bookshops",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Michael%20Henss%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Michael_Henss",
+        "photo": null
+      },
+      {
+        "id": "zurich-bookshops-2",
+        "name": "Weiser Antiquarian Books",
+        "cityId": "zurich",
+        "categoryId": "bookshops",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Weiser%20Antiquarian%20Books%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Weiser_Antiquarian_Books",
+        "photo": null
+      },
+      {
+        "id": "zurich-bookshops-3",
+        "name": "Neumarkt, Zurich",
+        "cityId": "zurich",
+        "categoryId": "bookshops",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Neumarkt%2C%20Zurich%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Neumarkt%2C_Zurich",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Grimmenturm_-_Neumarkt_Z%C3%BCrich_2014-10-29_11-10-28_%28P7800%29.JPG/960px-Grimmenturm_-_Neumarkt_Z%C3%BCrich_2014-10-29_11-10-28_%28P7800%29.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Neumarkt%2C_Zurich"
+        }
+      },
+      {
+        "id": "zurich-bookshops-4",
+        "name": "TVZ Theologischer Verlag Zürich AG",
+        "cityId": "zurich",
+        "categoryId": "bookshops",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=TVZ%20Theologischer%20Verlag%20Z%C3%BCrich%20AG%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/TVZ_Theologischer_Verlag_Z%C3%BCrich_AG",
+        "photo": null
+      },
+      {
+        "id": "zurich-bookshops-5",
+        "name": "Verlag Harri Deutsch",
+        "cityId": "zurich",
+        "categoryId": "bookshops",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Verlag%20Harri%20Deutsch%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Verlag_Harri_Deutsch",
+        "photo": null
+      },
+      {
+        "id": "zurich-bookshops-6",
+        "name": "Hoepli Editore",
+        "cityId": "zurich",
+        "categoryId": "bookshops",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Hoepli%20Editore%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Hoepli_Editore",
+        "photo": null
+      },
+      {
+        "id": "zurich-bookshops-7",
+        "name": "The Da Vinci Code",
+        "cityId": "zurich",
+        "categoryId": "bookshops",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Da%20Vinci%20Code%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/The_Da_Vinci_Code",
+        "photo": null
+      },
+      {
+        "id": "zurich-bookshops-8",
+        "name": "Georg Olms Verlag",
+        "cityId": "zurich",
+        "categoryId": "bookshops",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Georg%20Olms%20Verlag%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Georg_Olms_Verlag",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Hildesheim_Georg_Olms_Verlag.jpg/960px-Hildesheim_Georg_Olms_Verlag.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Georg_Olms_Verlag"
+        }
+      },
+      {
+        "id": "zurich-bookshops-9",
+        "name": "Orell Füssli",
+        "cityId": "zurich",
+        "categoryId": "bookshops",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Orell%20F%C3%BCssli%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Orell_F%C3%BCssli",
+        "photo": null
+      },
+      {
+        "id": "zurich-bookshops-10",
+        "name": "Michel Sanouillet",
+        "cityId": "zurich",
+        "categoryId": "bookshops",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Michel%20Sanouillet%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Michel_Sanouillet",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Michel.Sanouillet.1986.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Michel_Sanouillet"
+        }
+      },
+      {
+        "id": "zurich-bookshops-11",
+        "name": "YMCA Press",
+        "cityId": "zurich",
+        "categoryId": "bookshops",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=YMCA%20Press%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/YMCA_Press",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Russian_bookstore_Les_Editeurs_R%C3%A9unis_in_Paris%2C_headquarters_of_YMCA-Press_publishing_house.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/YMCA_Press"
+        }
+      },
+      {
+        "id": "zurich-bookshops-12",
+        "name": "Alberto Cattaneo",
+        "cityId": "zurich",
+        "categoryId": "bookshops",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Alberto%20Cattaneo%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Alberto_Cattaneo",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/51/Cattaneo_xu.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Alberto_Cattaneo"
+        }
+      },
+      {
+        "id": "zurich-bookshops-13",
+        "name": "Laura Owens",
+        "cityId": "zurich",
+        "categoryId": "bookshops",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Laura%20Owens%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Laura_Owens",
+        "photo": null
+      },
+      {
+        "id": "zurich-bookshops-14",
+        "name": "Lempertz",
+        "cityId": "zurich",
+        "categoryId": "bookshops",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Lempertz%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Lempertz",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Kunsthaus_Lempertz_%283984-86%29.jpg/960px-Kunsthaus_Lempertz_%283984-86%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Lempertz"
+        }
+      },
+      {
+        "id": "zurich-bookshops-15",
+        "name": "Synagoge Zürich Löwenstrasse",
+        "cityId": "zurich",
+        "categoryId": "bookshops",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Synagoge%20Z%C3%BCrich%20L%C3%B6wenstrasse%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Synagoge_Z%C3%BCrich_L%C3%B6wenstrasse",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Synagoge_Z%C3%BCrich_-_L%C3%B6wenstrasse_2011-08-12_15-07-02_ShiftN2.jpg/960px-Synagoge_Z%C3%BCrich_-_L%C3%B6wenstrasse_2011-08-12_15-07-02_ShiftN2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Synagoge_Z%C3%BCrich_L%C3%B6wenstrasse"
+        }
+      },
+      {
+        "id": "zurich-bookshops-16",
+        "name": "Melchior Wyrsch",
+        "cityId": "zurich",
+        "categoryId": "bookshops",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Melchior%20Wyrsch%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Melchior_Wyrsch",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/DenkmalMelchiorWyrschBuochs.jpg/960px-DenkmalMelchiorWyrschBuochs.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Melchior_Wyrsch"
+        }
+      },
+      {
+        "id": "zurich-bookshops-17",
+        "name": "Scott Campbell",
+        "cityId": "zurich",
+        "categoryId": "bookshops",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Scott%20Campbell%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Scott_Campbell_(tattoo_artist)",
+        "photo": null
+      },
+      {
+        "id": "zurich-bookshops-18",
+        "name": "Akram Pedramnia",
+        "cityId": "zurich",
+        "categoryId": "bookshops",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Akram%20Pedramnia%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Akram_Pedramnia",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/70/Akram_Pedramnia.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Akram_Pedramnia"
+        }
+      }
+    ],
+    "museums": [
+      {
+        "id": "zurich-museums-1",
+        "name": "Zurich",
+        "cityId": "zurich",
+        "categoryId": "museums",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Zurich%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Zurich",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Altstadt_Z%C3%BCrich_2015.jpg/960px-Altstadt_Z%C3%BCrich_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Zurich"
+        }
+      },
+      {
+        "id": "zurich-museums-2",
+        "name": "University of Zurich",
+        "cityId": "zurich",
+        "categoryId": "museums",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=University%20of%20Zurich%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/University_of_Zurich",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Universit%C3%A4t_Z%C3%BCrich_logo.svg/960px-Universit%C3%A4t_Z%C3%BCrich_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/University_of_Zurich"
+        }
+      },
+      {
+        "id": "zurich-museums-3",
+        "name": "ETH Zurich",
+        "cityId": "zurich",
+        "categoryId": "museums",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=ETH%20Zurich%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/ETH_Zurich",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/ETH_Z%C3%BCrich_-_Hauptgeb%C3%A4ude_-_Unispital_2012-07-30_07-57-03_ShiftN.jpg/960px-ETH_Z%C3%BCrich_-_Hauptgeb%C3%A4ude_-_Unispital_2012-07-30_07-57-03_ShiftN.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/ETH_Zurich"
+        }
+      },
+      {
+        "id": "zurich-museums-4",
+        "name": "Kunsthaus Zürich",
+        "cityId": "zurich",
+        "categoryId": "museums",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Kunsthaus%20Z%C3%BCrich%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Kunsthaus_Z%C3%BCrich",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Kunsthaus_Z%C3%BCrich_2011-08-06_17-33-46.jpg/960px-Kunsthaus_Z%C3%BCrich_2011-08-06_17-33-46.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Kunsthaus_Z%C3%BCrich"
+        }
+      },
+      {
+        "id": "zurich-museums-5",
+        "name": "Hallenstadion",
+        "cityId": "zurich",
+        "categoryId": "museums",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Hallenstadion%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Hallenstadion",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Oerlikon_-_Hallenstadion-Messe_Z%C3%BCrich_2011-03-15_15-20-46.jpg/960px-Oerlikon_-_Hallenstadion-Messe_Z%C3%BCrich_2011-03-15_15-20-46.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Hallenstadion"
+        }
+      },
+      {
+        "id": "zurich-museums-6",
+        "name": "Zurich Opera House",
+        "cityId": "zurich",
+        "categoryId": "museums",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Zurich%20Opera%20House%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Zurich_Opera_House",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Opernhaus_Z%C3%BCrich_-_Sechsel%C3%A4utenplatz_2013-08-31_18-30-40.JPG/960px-Opernhaus_Z%C3%BCrich_-_Sechsel%C3%A4utenplatz_2013-08-31_18-30-40.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Zurich_Opera_House"
+        }
+      },
+      {
+        "id": "zurich-museums-7",
+        "name": "Letzigrund",
+        "cityId": "zurich",
+        "categoryId": "museums",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Letzigrund%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Letzigrund",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Letzigrund_2024_2.jpg/960px-Letzigrund_2024_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Letzigrund"
+        }
+      },
+      {
+        "id": "zurich-museums-8",
+        "name": "Museum für Gestaltung Zürich",
+        "cityId": "zurich",
+        "categoryId": "museums",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Museum%20f%C3%BCr%20Gestaltung%20Z%C3%BCrich%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Museum_f%C3%BCr_Gestaltung_Z%C3%BCrich",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/Museum_f%C3%BCr_Gestaltung_2011-08-08_14-21-14_ShiftN.jpg/960px-Museum_f%C3%BCr_Gestaltung_2011-08-08_14-21-14_ShiftN.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Museum_f%C3%BCr_Gestaltung_Z%C3%BCrich"
+        }
+      },
+      {
+        "id": "zurich-museums-9",
+        "name": "Zurich University of the Arts",
+        "cityId": "zurich",
+        "categoryId": "museums",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Zurich%20University%20of%20the%20Arts%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Zurich_University_of_the_Arts",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/ZHdK_Logo.svg/960px-ZHdK_Logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Zurich_University_of_the_Arts"
+        }
+      },
+      {
+        "id": "zurich-museums-10",
+        "name": "Hardturm",
+        "cityId": "zurich",
+        "categoryId": "museums",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Hardturm%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Hardturm",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Hardturm_retouched.jpg/960px-Hardturm_retouched.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Hardturm"
+        }
+      },
+      {
+        "id": "zurich-museums-11",
+        "name": "FIFA Museum",
+        "cityId": "zurich",
+        "categoryId": "museums",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=FIFA%20Museum%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/FIFA_Museum",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/FIFA_World_Football_Museum_-_panoramio.jpg/960px-FIFA_World_Football_Museum_-_panoramio.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/FIFA_Museum"
+        }
+      },
+      {
+        "id": "zurich-museums-12",
+        "name": "Swiss National Museum",
+        "cityId": "zurich",
+        "categoryId": "museums",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Swiss%20National%20Museum%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Swiss_National_Museum",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/2026-04-26_-_Landesmuseum_Z%C3%BCrich_Schweiz.jpg/960px-2026-04-26_-_Landesmuseum_Z%C3%BCrich_Schweiz.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Swiss_National_Museum"
+        }
+      },
+      {
+        "id": "zurich-museums-13",
+        "name": "Lake Zurich",
+        "cityId": "zurich",
+        "categoryId": "museums",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Lake%20Zurich%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Lake_Zurich",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Pfannenstiel_-_Z%C3%BCrichsee_-_Sihltal_-_Albis_Baldern_IMG_5316.jpg/960px-Pfannenstiel_-_Z%C3%BCrichsee_-_Sihltal_-_Albis_Baldern_IMG_5316.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Lake_Zurich"
+        }
+      },
+      {
+        "id": "zurich-museums-14",
+        "name": "Limmat",
+        "cityId": "zurich",
+        "categoryId": "museums",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Limmat%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Limmat",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Limmat_River.jpg/960px-Limmat_River.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Limmat"
+        }
+      },
+      {
+        "id": "zurich-museums-15",
+        "name": "Cabaret Voltaire",
+        "cityId": "zurich",
+        "categoryId": "museums",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Cabaret%20Voltaire%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Cabaret_Voltaire_(Zurich)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/1916_Marcel_S%C5%82odki_Cabaret-Voltaire.jpg/960px-1916_Marcel_S%C5%82odki_Cabaret-Voltaire.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Cabaret_Voltaire_(Zurich)"
+        }
+      },
+      {
+        "id": "zurich-museums-16",
+        "name": "Zürichberg",
+        "cityId": "zurich",
+        "categoryId": "museums",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Z%C3%BCrichberg%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Z%C3%BCrichberg",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Z%C3%BCrich_-_Wollishofen_-_Alte_Kirche_IMG_0674.JPG/960px-Z%C3%BCrich_-_Wollishofen_-_Alte_Kirche_IMG_0674.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Z%C3%BCrichberg"
+        }
+      },
+      {
+        "id": "zurich-museums-17",
+        "name": "Rietberg Museum",
+        "cityId": "zurich",
+        "categoryId": "museums",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Rietberg%20Museum%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Rietberg_Museum",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Zuerich_Villa_Wesendonck.jpg/960px-Zuerich_Villa_Wesendonck.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Rietberg_Museum"
+        }
+      },
+      {
+        "id": "zurich-museums-18",
+        "name": "Pavillon Le Corbusier",
+        "cityId": "zurich",
+        "categoryId": "museums",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Pavillon%20Le%20Corbusier%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Pavillon_Le_Corbusier",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Centre_Le_Corbusier_2011-06-18_18-10-04.jpg/960px-Centre_Le_Corbusier_2011-06-18_18-10-04.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Pavillon_Le_Corbusier"
+        }
+      }
+    ],
+    "concerts": [
+      {
+        "id": "zurich-concerts-1",
+        "name": "Volkshaus",
+        "cityId": "zurich",
+        "categoryId": "concerts",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Volkshaus%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Volkshaus",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/VolkshausZuerich.JPG/960px-VolkshausZuerich.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Volkshaus"
+        }
+      },
+      {
+        "id": "zurich-concerts-2",
+        "name": "Tonhalle, Zurich",
+        "cityId": "zurich",
+        "categoryId": "concerts",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Tonhalle%2C%20Zurich%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Tonhalle%2C_Zurich",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/Tonhalle_Z%C3%BCrich.jpg/960px-Tonhalle_Z%C3%BCrich.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Tonhalle%2C_Zurich"
+        }
+      },
+      {
+        "id": "zurich-concerts-3",
+        "name": "Tonhalle-Orchester Zürich",
+        "cityId": "zurich",
+        "categoryId": "concerts",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Tonhalle-Orchester%20Z%C3%BCrich%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Tonhalle-Orchester_Z%C3%BCrich",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Tonhalle-Orchester_Z%C3%BCrich.svg/960px-Tonhalle-Orchester_Z%C3%BCrich.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Tonhalle-Orchester_Z%C3%BCrich"
+        }
+      },
+      {
+        "id": "zurich-concerts-4",
+        "name": "Zurich Symphony Orchestra",
+        "cityId": "zurich",
+        "categoryId": "concerts",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Zurich%20Symphony%20Orchestra%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Zurich_Symphony_Orchestra",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Zurich_Symphony_Orchestra_logo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Zurich_Symphony_Orchestra"
+        }
+      },
+      {
+        "id": "zurich-concerts-5",
+        "name": "The New Crystal Silence",
+        "cityId": "zurich",
+        "categoryId": "concerts",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20New%20Crystal%20Silence%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/The_New_Crystal_Silence",
+        "photo": null
+      },
+      {
+        "id": "zurich-concerts-6",
+        "name": "Theodore Kerkezos",
+        "cityId": "zurich",
+        "categoryId": "concerts",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Theodore%20Kerkezos%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Theodore_Kerkezos",
+        "photo": null
+      },
+      {
+        "id": "zurich-concerts-7",
+        "name": "Radiohuset",
+        "cityId": "zurich",
+        "categoryId": "concerts",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Radiohuset%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Radiohuset",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Radiohuset_Frederiksberg.jpg/960px-Radiohuset_Frederiksberg.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Radiohuset"
+        }
+      },
+      {
+        "id": "zurich-concerts-8",
+        "name": "IF Performance Hall",
+        "cityId": "zurich",
+        "categoryId": "concerts",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=IF%20Performance%20Hall%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/IF_Performance_Hall",
+        "photo": null
+      },
+      {
+        "id": "zurich-concerts-9",
+        "name": "Philharmonia Zurich",
+        "cityId": "zurich",
+        "categoryId": "concerts",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Philharmonia%20Zurich%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Philharmonia_Zurich",
+        "photo": null
+      },
+      {
+        "id": "zurich-concerts-10",
+        "name": "Melancholy",
+        "cityId": "zurich",
+        "categoryId": "concerts",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Melancholy%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Melancholy_(Cecil_Taylor_album)",
+        "photo": null
+      },
+      {
+        "id": "zurich-concerts-11",
+        "name": "Nailed",
+        "cityId": "zurich",
+        "categoryId": "concerts",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Nailed%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Nailed_(Cecil_Taylor_album)",
+        "photo": null
+      },
+      {
+        "id": "zurich-concerts-12",
+        "name": "Nyle Wolfe",
+        "cityId": "zurich",
+        "categoryId": "concerts",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Nyle%20Wolfe%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Nyle_Wolfe",
+        "photo": null
+      },
+      {
+        "id": "zurich-concerts-13",
+        "name": "Oliver Schnyder",
+        "cityId": "zurich",
+        "categoryId": "concerts",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Oliver%20Schnyder%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Oliver_Schnyder",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Oliver_Schnyder_2015.jpg/960px-Oliver_Schnyder_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Oliver_Schnyder"
+        }
+      },
+      {
+        "id": "zurich-concerts-14",
+        "name": "Tonhalle",
+        "cityId": "zurich",
+        "categoryId": "concerts",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Tonhalle%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Tonhalle",
+        "photo": null
+      },
+      {
+        "id": "zurich-concerts-15",
+        "name": "Ronaldo Miranda",
+        "cityId": "zurich",
+        "categoryId": "concerts",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Ronaldo%20Miranda%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Ronaldo_Miranda",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Ronaldo_Miranda_%282014%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Ronaldo_Miranda"
+        }
+      },
+      {
+        "id": "zurich-concerts-16",
+        "name": "Orchester Musikkollegium Winterthur",
+        "cityId": "zurich",
+        "categoryId": "concerts",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Orchester%20Musikkollegium%20Winterthur%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Orchester_Musikkollegium_Winterthur",
+        "photo": null
+      },
+      {
+        "id": "zurich-concerts-17",
+        "name": "Zurich Chamber Orchestra",
+        "cityId": "zurich",
+        "categoryId": "concerts",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Zurich%20Chamber%20Orchestra%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Zurich_Chamber_Orchestra",
+        "photo": null
+      },
+      {
+        "id": "zurich-concerts-18",
+        "name": "Heinz Isler",
+        "cityId": "zurich",
+        "categoryId": "concerts",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Heinz%20Isler%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Heinz_Isler",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/Gartencenter_Wyss_Zuchwil_01_09.jpg/960px-Gartencenter_Wyss_Zuchwil_01_09.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Heinz_Isler"
+        }
+      }
+    ],
+    "fashion": [
+      {
+        "id": "zurich-fashion-1",
+        "name": "Guy Weill",
+        "cityId": "zurich",
+        "categoryId": "fashion",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Guy%20Weill%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Guy_Weill",
+        "photo": null
+      },
+      {
+        "id": "zurich-fashion-2",
+        "name": "Peterhof, Zurich",
+        "cityId": "zurich",
+        "categoryId": "fashion",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Peterhof%2C%20Zurich%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Peterhof%2C_Zurich",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Peterhof-Leuenhof_-_Bahnhofstrasse_ShiftN2.jpg/960px-Peterhof-Leuenhof_-_Bahnhofstrasse_ShiftN2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Peterhof%2C_Zurich"
+        }
+      },
+      {
+        "id": "zurich-fashion-3",
+        "name": "Otto Baumberger",
+        "cityId": "zurich",
+        "categoryId": "fashion",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Otto%20Baumberger%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Otto_Baumberger",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/ETH-BIB-Baumberger%2C_Otto_%281889-1961%29-Portr_00019.tif/lossy-page1-500px-ETH-BIB-Baumberger%2C_Otto_%281889-1961%29-Portr_00019.tif.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Otto_Baumberger"
+        }
+      },
+      {
+        "id": "zurich-fashion-4",
+        "name": "The Bourne Identity",
+        "cityId": "zurich",
+        "categoryId": "fashion",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Bourne%20Identity%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/The_Bourne_Identity_(novel)",
+        "photo": null
+      },
+      {
+        "id": "zurich-fashion-5",
+        "name": "Vicenza railway station",
+        "cityId": "zurich",
+        "categoryId": "fashion",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Vicenza%20railway%20station%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Vicenza_railway_station",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/Stazione_Vicenza4.JPG/960px-Stazione_Vicenza4.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Vicenza_railway_station"
+        }
+      },
+      {
+        "id": "zurich-fashion-6",
+        "name": "Christa de Carouge",
+        "cityId": "zurich",
+        "categoryId": "fashion",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Christa%20de%20Carouge%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Christa_de_Carouge",
+        "photo": null
+      },
+      {
+        "id": "zurich-fashion-7",
+        "name": "Annelise Kretschmer",
+        "cityId": "zurich",
+        "categoryId": "fashion",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Annelise%20Kretschmer%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Annelise_Kretschmer",
+        "photo": null
+      },
+      {
+        "id": "zurich-fashion-8",
+        "name": "Poland",
+        "cityId": "zurich",
+        "categoryId": "fashion",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Poland%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Poland",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/en/thumb/1/12/Flag_of_Poland.svg/960px-Flag_of_Poland.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Poland"
+        }
+      },
+      {
+        "id": "zurich-fashion-9",
+        "name": "Anastacia",
+        "cityId": "zurich",
+        "categoryId": "fashion",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Anastacia%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Anastacia",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Anastacia_-_2023335220042_2023-12-01_Night_of_the_Proms_-_Sven_-_1D_X_MK_II_-_1849_-_B70I5327_%28cropped%29.jpg/960px-Anastacia_-_2023335220042_2023-12-01_Night_of_the_Proms_-_Sven_-_1D_X_MK_II_-_1849_-_B70I5327_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Anastacia"
+        }
+      },
+      {
+        "id": "zurich-fashion-10",
+        "name": "Mount Stuart Square",
+        "cityId": "zurich",
+        "categoryId": "fashion",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Mount%20Stuart%20Square%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Mount_Stuart_Square",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Mount_Stuart_Square%2C_Cardiff.jpg/960px-Mount_Stuart_Square%2C_Cardiff.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Mount_Stuart_Square"
+        }
+      },
+      {
+        "id": "zurich-fashion-11",
+        "name": "Grande Torino",
+        "cityId": "zurich",
+        "categoryId": "fashion",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Grande%20Torino%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Grande_Torino",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Grande_Torino_1948_49.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Grande_Torino"
+        }
+      },
+      {
+        "id": "zurich-fashion-12",
+        "name": "2008 Tibetan unrest",
+        "cityId": "zurich",
+        "categoryId": "fashion",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=2008%20Tibetan%20unrest%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/2008_Tibetan_unrest",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Tibetan_Monks_arrested_in_2008_%E9%81%AD%E9%80%AE%E6%8D%95%E7%9A%84%E8%A5%BF%E8%97%8F%E5%83%A7%E4%BE%B6.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/2008_Tibetan_unrest"
+        }
+      },
+      {
+        "id": "zurich-fashion-13",
+        "name": "El Dorado World Tour",
+        "cityId": "zurich",
+        "categoryId": "fashion",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=El%20Dorado%20World%20Tour%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/El_Dorado_World_Tour",
+        "photo": null
+      },
+      {
+        "id": "zurich-fashion-14",
+        "name": "Berliner FC Dynamo",
+        "cityId": "zurich",
+        "categoryId": "fashion",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Berliner%20FC%20Dynamo%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Berliner_FC_Dynamo",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Berliner_Fu%C3%9Fballclub_Dynamo.svg/960px-Berliner_Fu%C3%9Fballclub_Dynamo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Berliner_FC_Dynamo"
+        }
+      },
+      {
+        "id": "zurich-fashion-15",
+        "name": "Bernd Dost",
+        "cityId": "zurich",
+        "categoryId": "fashion",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Bernd%20Dost%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Bernd_Dost",
+        "photo": null
+      },
+      {
+        "id": "zurich-fashion-16",
+        "name": "Joker Xue",
+        "cityId": "zurich",
+        "categoryId": "fashion",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Joker%20Xue%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Joker_Xue",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/%E8%96%9B%E4%B9%8B%E8%B0%A6_%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9%E6%B0%B8%E8%BF%9C22%E6%AF%95%E4%B8%9A%E6%AD%8C%E4%BC%9A_20250602_%28cropped%29.jpg/960px-%E8%96%9B%E4%B9%8B%E8%B0%A6_%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9%E6%B0%B8%E8%BF%9C22%E6%AF%95%E4%B8%9A%E6%AD%8C%E4%BC%9A_20250602_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Joker_Xue"
+        }
+      },
+      {
+        "id": "zurich-fashion-17",
+        "name": "April 1980",
+        "cityId": "zurich",
+        "categoryId": "fashion",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=April%201980%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/April_1980",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Usburnedhelicopter.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/April_1980"
+        }
+      },
+      {
+        "id": "zurich-fashion-18",
+        "name": "Timeline of Paris",
+        "cityId": "zurich",
+        "categoryId": "fashion",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Timeline%20of%20Paris%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Timeline_of_Paris",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/Carte_de_France_divis%C3%A9e_suivant_les_quatre_d%C3%A9partements_de_Messieurs_les_secretaires_d%27Etat_-_par_Philippe_Buache_-_btv1b8593230j.jpg/960px-Carte_de_France_divis%C3%A9e_suivant_les_quatre_d%C3%A9partements_de_Messieurs_les_secretaires_d%27Etat_-_par_Philippe_Buache_-_btv1b8593230j.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Timeline_of_Paris"
+        }
+      }
+    ],
+    "shops": [
+      {
+        "id": "zurich-shops-1",
+        "name": "Lindt",
+        "cityId": "zurich",
+        "categoryId": "shops",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Lindt%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Lindt",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Kilchberg_-_Lindt_%26_Spr%C3%BCngli_-_ZSG_Helvetia_2015-09-09_18-03-57.JPG/960px-Kilchberg_-_Lindt_%26_Spr%C3%BCngli_-_ZSG_Helvetia_2015-09-09_18-03-57.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Lindt"
+        }
+      },
+      {
+        "id": "zurich-shops-2",
+        "name": "Chocolate fountain",
+        "cityId": "zurich",
+        "categoryId": "shops",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Chocolate%20fountain%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Chocolate_fountain",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Small_Chocolate_Fountain.JPG/960px-Small_Chocolate_Fountain.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Chocolate_fountain"
+        }
+      },
+      {
+        "id": "zurich-shops-3",
+        "name": "Ex Libris",
+        "cityId": "zurich",
+        "categoryId": "shops",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Ex%20Libris%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Ex_Libris_(bookshop)",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Ex_Libris_Logo.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Ex_Libris_(bookshop)"
+        }
+      },
+      {
+        "id": "zurich-shops-4",
+        "name": "Christoph Froschauer",
+        "cityId": "zurich",
+        "categoryId": "shops",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Christoph%20Froschauer%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Christoph_Froschauer",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Froschau.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Christoph_Froschauer"
+        }
+      },
+      {
+        "id": "zurich-shops-5",
+        "name": "Hans Georg Nägeli",
+        "cityId": "zurich",
+        "categoryId": "shops",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Hans%20Georg%20N%C3%A4geli%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Hans_Georg_N%C3%A4geli",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Hans_Georg_N%C3%A4geli_1838_Esslinger.jpeg/960px-Hans_Georg_N%C3%A4geli_1838_Esslinger.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Hans_Georg_N%C3%A4geli"
+        }
+      },
+      {
+        "id": "zurich-shops-6",
+        "name": "ETH Zurich",
+        "cityId": "zurich",
+        "categoryId": "shops",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=ETH%20Zurich%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/ETH_Zurich",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/ETH_Z%C3%BCrich_-_Hauptgeb%C3%A4ude_-_Unispital_2012-07-30_07-57-03_ShiftN.jpg/960px-ETH_Z%C3%BCrich_-_Hauptgeb%C3%A4ude_-_Unispital_2012-07-30_07-57-03_ShiftN.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/ETH_Zurich"
+        }
+      },
+      {
+        "id": "zurich-shops-7",
+        "name": "Gottfried Honegger",
+        "cityId": "zurich",
+        "categoryId": "shops",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Gottfried%20Honegger%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Gottfried_Honegger",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/12/Gottfried_Honegger_%281995%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Gottfried_Honegger"
+        }
+      },
+      {
+        "id": "zurich-shops-8",
+        "name": "Othmar Schoeck",
+        "cityId": "zurich",
+        "categoryId": "shops",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Othmar%20Schoeck%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Othmar_Schoeck",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/26/Othmar_Schoeck.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Othmar_Schoeck"
+        }
+      },
+      {
+        "id": "zurich-shops-9",
+        "name": "Kalyug",
+        "cityId": "zurich",
+        "categoryId": "shops",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Kalyug%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Kalyug_(2005_film)",
+        "photo": null
+      },
+      {
+        "id": "zurich-shops-10",
+        "name": "Migros",
+        "cityId": "zurich",
+        "categoryId": "shops",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Migros%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Migros",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/DSC_0141_Migros.JPG/960px-DSC_0141_Migros.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Migros"
+        }
+      },
+      {
+        "id": "zurich-shops-11",
+        "name": "Bern railway station",
+        "cityId": "zurich",
+        "categoryId": "shops",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Bern%20railway%20station%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Bern_railway_station",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Bern_bahnhof002.jpg/960px-Bern_bahnhof002.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Bern_railway_station"
+        }
+      },
+      {
+        "id": "zurich-shops-12",
+        "name": "Bahnhofstrasse",
+        "cityId": "zurich",
+        "categoryId": "shops",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Bahnhofstrasse%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Bahnhofstrasse",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/Bahnhofstrasse-2019.jpg/960px-Bahnhofstrasse-2019.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Bahnhofstrasse"
+        }
+      },
+      {
+        "id": "zurich-shops-13",
+        "name": "Confiserie Sprüngli",
+        "cityId": "zurich",
+        "categoryId": "shops",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Confiserie%20Spr%C3%BCngli%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Confiserie_Spr%C3%BCngli",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/David_sprungli_portrait.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Confiserie_Spr%C3%BCngli"
+        }
+      },
+      {
+        "id": "zurich-shops-14",
+        "name": "Verena Conzett",
+        "cityId": "zurich",
+        "categoryId": "shops",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Verena%20Conzett%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Verena_Conzett",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/Photo_Conzett.tif/lossy-page1-960px-Photo_Conzett.tif.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Verena_Conzett"
+        }
+      },
+      {
+        "id": "zurich-shops-15",
+        "name": "Zurich University of Applied Sciences",
+        "cityId": "zurich",
+        "categoryId": "shops",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Zurich%20University%20of%20Applied%20Sciences%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Zurich_University_of_Applied_Sciences",
+        "photo": null
+      },
+      {
+        "id": "zurich-shops-16",
+        "name": "Fotomuseum Winterthur",
+        "cityId": "zurich",
+        "categoryId": "shops",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Fotomuseum%20Winterthur%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Fotomuseum_Winterthur",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/FotoMuseum_Winterthur_%282014%29.jpg/960px-FotoMuseum_Winterthur_%282014%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Fotomuseum_Winterthur"
+        }
+      },
+      {
+        "id": "zurich-shops-17",
+        "name": "Swissôtel Zürich",
+        "cityId": "zurich",
+        "categoryId": "shops",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Swiss%C3%B4tel%20Z%C3%BCrich%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Swiss%C3%B4tel_Z%C3%BCrich",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Swissotel_Zurich-Oerlikon_2010.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Swiss%C3%B4tel_Z%C3%BCrich"
+        }
+      },
+      {
+        "id": "zurich-shops-18",
+        "name": "Zurich Bible",
+        "cityId": "zurich",
+        "categoryId": "shops",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Zurich%20Bible%2C%20Zurich",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Zurich_Bible",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/2022-09-16_GLAM_on_Tour_Zentralbibliothek_Z%C3%BCrich_%28Martin_Rulsch%29_033_%28cropped%29.jpg/960px-2022-09-16_GLAM_on_Tour_Zentralbibliothek_Z%C3%BCrich_%28Martin_Rulsch%29_033_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Zurich_Bible"
+        }
+      }
+    ]
+  }
+}

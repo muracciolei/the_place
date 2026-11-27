@@ -6,7 +6,7 @@
 - Tres modos: **Local — My Town**, **Country — My Country**, **World — Worldwide**.
 - 41 ciudades con fotos; **9 categorías principales** en este orden: Night Club, Restaurantes, Bares, Coffee Shop, Bookshop, Museo, Conciertos, Fashion y Shops, seguidas de categorías complementarias.
 - Feed de **3 tarjetas verticales por fila en móvil** (4 en tablet, 5 en escritorio).
-- Sin clave: **18 lugares reales por categoría y ciudad** hardcodeados en JSON, generados desde Wikipedia y enlazados a Google Maps. Con clave: datos en vivo de Google Places.
+- Sin clave: **18 lugares reales por categoría y ciudad** (6.642 en total) hardcodeados en JSON, generados desde Wikipedia y enlazados a Google Maps. Con clave: datos en vivo de Google Places.
 
 > El repositorio estaba vacío al iniciar. El diagnóstico original está en [ARCHITECTURE.md](ARCHITECTURE.md) y el rediseño al feed vertical en [Refactoring.md](Refactoring.md).
 

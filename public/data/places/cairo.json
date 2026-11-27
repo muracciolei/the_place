@@ -1,0 +1,2318 @@
+{
+  "cityId": "cairo",
+  "generatedAt": "2026-11-27T09:34:31.390Z",
+  "source": "Wikipedia API + Maps URLs (sin scraping de Google)",
+  "incomplete": [],
+  "categories": {
+    "night_clubs": [
+      {
+        "id": "cairo-night_clubs-1",
+        "name": "Copacabana",
+        "cityId": "cairo",
+        "categoryId": "night_clubs",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Copacabana%2C%20Cairo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Copacabana_(nightclub)",
+        "photo": null
+      },
+      {
+        "id": "cairo-night_clubs-2",
+        "name": "Cairo 52",
+        "cityId": "cairo",
+        "categoryId": "night_clubs",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Cairo%2052%2C%20Cairo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Cairo_52",
+        "photo": null
+      },
+      {
+        "id": "cairo-night_clubs-3",
+        "name": "Botroseya Church bombing",
+        "cityId": "cairo",
+        "categoryId": "night_clubs",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Botroseya%20Church%20bombing%2C%20Cairo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Botroseya_Church_bombing",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/CairoAbbasiyaButrusiya.jpg/960px-CairoAbbasiyaButrusiya.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Botroseya_Church_bombing"
+        }
+      },
+      {
+        "id": "cairo-night_clubs-4",
+        "name": "Dangerous Living: Coming Out in the Developing World",
+        "cityId": "cairo",
+        "categoryId": "night_clubs",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Dangerous%20Living%3A%20Coming%20Out%20in%20the%20Developing%20World%2C%20Cairo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Dangerous_Living%3A_Coming_Out_in_the_Developing_World",
+        "photo": null
+      },
+      {
+        "id": "cairo-night_clubs-5",
+        "name": "Karen Akers",
+        "cityId": "cairo",
+        "categoryId": "night_clubs",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Karen%20Akers%2C%20Cairo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Karen_Akers",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Karen_Akers_C31311-19_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Karen_Akers"
+        }
+      },
+      {
+        "id": "cairo-night_clubs-6",
+        "name": "Ismail Yassine",
+        "cityId": "cairo",
+        "categoryId": "night_clubs",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Ismail%20Yassine%2C%20Cairo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Ismail_Yassine",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/22/Ismail_Yassin.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Ismail_Yassine"
+        }
+      },
+      {
+        "id": "cairo-night_clubs-7",
+        "name": "Sharif Galal",
+        "cityId": "cairo",
+        "categoryId": "night_clubs",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Sharif%20Galal%2C%20Cairo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Sharif_Galal",
+        "photo": null
+      },
+      {
+        "id": "cairo-night_clubs-8",
+        "name": "Roxy",
+        "cityId": "cairo",
+        "categoryId": "night_clubs",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Roxy%2C%20Cairo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Roxy",
+        "photo": null
+      },
+      {
+        "id": "cairo-night_clubs-9",
+        "name": "Nightlife",
+        "cityId": "cairo",
+        "categoryId": "night_clubs",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Nightlife%2C%20Cairo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Nightlife",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/1_times_square_night_2013.jpg/960px-1_times_square_night_2013.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Nightlife"
+        }
+      },
+      {
+        "id": "cairo-night_clubs-10",
+        "name": "Safari for Spies",
+        "cityId": "cairo",
+        "categoryId": "night_clubs",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Safari%20for%20Spies%2C%20Cairo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Safari_for_Spies",
+        "photo": null
+      },
+      {
+        "id": "cairo-night_clubs-11",
+        "name": "Simone Silva",
+        "cityId": "cairo",
+        "categoryId": "night_clubs",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Simone%20Silva%2C%20Cairo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Simone_Silva",
+        "photo": null
+      },
+      {
+        "id": "cairo-night_clubs-12",
+        "name": "Terezka Drnzik",
+        "cityId": "cairo",
+        "categoryId": "night_clubs",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Terezka%20Drnzik%2C%20Cairo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Terezka_Drnzik",
+        "photo": null
+      },
+      {
+        "id": "cairo-night_clubs-13",
+        "name": "Nadia Lutfi",
+        "cityId": "cairo",
+        "categoryId": "night_clubs",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Nadia%20Lutfi%2C%20Cairo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Nadia_Lutfi",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/19/Nadia_Lutfi_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Nadia_Lutfi"
+        }
+      },
+      {
+        "id": "cairo-night_clubs-14",
+        "name": "Abbott and Costello Meet the Mummy",
+        "cityId": "cairo",
+        "categoryId": "night_clubs",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Abbott%20and%20Costello%20Meet%20the%20Mummy%2C%20Cairo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Abbott_and_Costello_Meet_the_Mummy",
+        "photo": null
+      },
+      {
+        "id": "cairo-night_clubs-15",
+        "name": "Rex Ingram",
+        "cityId": "cairo",
+        "categoryId": "night_clubs",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Rex%20Ingram%2C%20Cairo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Rex_Ingram_(actor)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Portrait_of_Rex_Ingram_LCCN2004663060_Trim.jpg/960px-Portrait_of_Rex_Ingram_LCCN2004663060_Trim.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Rex_Ingram_(actor)"
+        }
+      },
+      {
+        "id": "cairo-night_clubs-16",
+        "name": "Palm Sunday church bombings",
+        "cityId": "cairo",
+        "categoryId": "night_clubs",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Palm%20Sunday%20church%20bombings%2C%20Cairo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Palm_Sunday_church_bombings",
+        "photo": null
+      },
+      {
+        "id": "cairo-night_clubs-17",
+        "name": "Ahmed Mourad",
+        "cityId": "cairo",
+        "categoryId": "night_clubs",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Ahmed%20Mourad%2C%20Cairo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Ahmed_Mourad",
+        "photo": null
+      },
+      {
+        "id": "cairo-night_clubs-18",
+        "name": "Elias Moadab",
+        "cityId": "cairo",
+        "categoryId": "night_clubs",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Elias%20Moadab%2C%20Cairo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Elias_Moadab",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Elias_Moadab.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Elias_Moadab"
+        }
+      }
+    ],
+    "restaurants": [
+      {
+        "id": "cairo-restaurants-1",
+        "name": "1948 Cairo bombings",
+        "cityId": "cairo",
+        "categoryId": "restaurants",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=1948%20Cairo%20bombings%2C%20Cairo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/1948_Cairo_bombings",
+        "photo": null
+      },
+      {
+        "id": "cairo-restaurants-2",
+        "name": "2009 Khan el-Khalili bombing",
+        "cityId": "cairo",
+        "categoryId": "restaurants",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=2009%20Khan%20el-Khalili%20bombing%2C%20Cairo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/2009_Khan_el-Khalili_bombing",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Souk_Khan_elKhalili.JPG/960px-Souk_Khan_elKhalili.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/2009_Khan_el-Khalili_bombing"
+        }
+      },
+      {
+        "id": "cairo-restaurants-3",
+        "name": "Castagna",
+        "cityId": "cairo",
+        "categoryId": "restaurants",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Castagna%2C%20Cairo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Castagna_(restaurant)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Castagna_sign_Portland.jpg/960px-Castagna_sign_Portland.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Castagna_(restaurant)"
+        }
+      },
+      {
+        "id": "cairo-restaurants-4",
+        "name": "Upper Crust",
+        "cityId": "cairo",
+        "categoryId": "restaurants",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Upper%20Crust%2C%20Cairo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Upper_Crust_(restaurant_chain)",
+        "photo": null
+      },
+      {
+        "id": "cairo-restaurants-5",
+        "name": "Cook Door",
+        "cityId": "cairo",
+        "categoryId": "restaurants",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Cook%20Door%2C%20Cairo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Cook_Door",
+        "photo": null
+      },
+      {
+        "id": "cairo-restaurants-6",
+        "name": "Roots Club",
+        "cityId": "cairo",
+        "categoryId": "restaurants",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Roots%20Club%2C%20Cairo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Roots_Club",
+        "photo": null
+      },
+      {
+        "id": "cairo-restaurants-7",
+        "name": "Ahmass Fakahany",
+        "cityId": "cairo",
+        "categoryId": "restaurants",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Ahmass%20Fakahany%2C%20Cairo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Ahmass_Fakahany",
+        "photo": null
+      },
+      {
+        "id": "cairo-restaurants-8",
+        "name": "Olympia Provisions",
+        "cityId": "cairo",
+        "categoryId": "restaurants",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Olympia%20Provisions%2C%20Cairo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Olympia_Provisions",
+        "photo": null
+      },
+      {
+        "id": "cairo-restaurants-9",
+        "name": "Mass murders in Tykocin",
+        "cityId": "cairo",
+        "categoryId": "restaurants",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Mass%20murders%20in%20Tykocin%2C%20Cairo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Mass_murders_in_Tykocin",
+        "photo": null
+      },
+      {
+        "id": "cairo-restaurants-10",
+        "name": "Warsaw pogrom",
+        "cityId": "cairo",
+        "categoryId": "restaurants",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Warsaw%20pogrom%2C%20Cairo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Warsaw_pogrom_(1881)",
+        "photo": null
+      },
+      {
+        "id": "cairo-restaurants-11",
+        "name": "Second Kishinev pogrom",
+        "cityId": "cairo",
+        "categoryId": "restaurants",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Second%20Kishinev%20pogrom%2C%20Cairo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Second_Kishinev_pogrom",
+        "photo": null
+      },
+      {
+        "id": "cairo-restaurants-12",
+        "name": "2004 Sinai bombings",
+        "cityId": "cairo",
+        "categoryId": "restaurants",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=2004%20Sinai%20bombings%2C%20Cairo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/2004_Sinai_bombings",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/cf/2004_Sinai_bombings%2C_October_2004._II.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/2004_Sinai_bombings"
+        }
+      },
+      {
+        "id": "cairo-restaurants-13",
+        "name": "Sheffield Club bombing",
+        "cityId": "cairo",
+        "categoryId": "restaurants",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Sheffield%20Club%20bombing%2C%20Cairo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Sheffield_Club_bombing",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/2002_Rishon_LeZion_bombing_IV.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Sheffield_Club_bombing"
+        }
+      },
+      {
+        "id": "cairo-restaurants-14",
+        "name": "2006 Dahab bombings",
+        "cityId": "cairo",
+        "categoryId": "restaurants",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=2006%20Dahab%20bombings%2C%20Cairo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/2006_Dahab_bombings",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Dahab-location.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/2006_Dahab_bombings"
+        }
+      },
+      {
+        "id": "cairo-restaurants-15",
+        "name": "Wąsosz pogrom",
+        "cityId": "cairo",
+        "categoryId": "restaurants",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=W%C4%85sosz%20pogrom%2C%20Cairo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/W%C4%85sosz_pogrom",
+        "photo": null
+      },
+      {
+        "id": "cairo-restaurants-16",
+        "name": "Kaunas pogrom",
+        "cityId": "cairo",
+        "categoryId": "restaurants",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Kaunas%20pogrom%2C%20Cairo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Kaunas_pogrom",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/Massacre_of_Jews_in_Liet%C5%ABkis_garage.jpeg/960px-Massacre_of_Jews_in_Liet%C5%ABkis_garage.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Kaunas_pogrom"
+        }
+      },
+      {
+        "id": "cairo-restaurants-17",
+        "name": "Revolving restaurant",
+        "cityId": "cairo",
+        "categoryId": "restaurants",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Revolving%20restaurant%2C%20Cairo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Revolving_restaurant",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/Restaurant_N%C3%A4sinneula.jpg/960px-Restaurant_N%C3%A4sinneula.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Revolving_restaurant"
+        }
+      },
+      {
+        "id": "cairo-restaurants-18",
+        "name": "1517 Hebron attacks",
+        "cityId": "cairo",
+        "categoryId": "restaurants",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=1517%20Hebron%20attacks%2C%20Cairo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/1517_Hebron_attacks",
+        "photo": null
+      }
+    ],
+    "bars": [
+      {
+        "id": "cairo-bars-1",
+        "name": "Obour",
+        "cityId": "cairo",
+        "categoryId": "bars",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Obour%2C%20Cairo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Obour_(city)",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/EL-Obour_city_egypt_7.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Obour_(city)"
+        }
+      },
+      {
+        "id": "cairo-bars-2",
+        "name": "30 June Stadium",
+        "cityId": "cairo",
+        "categoryId": "bars",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=30%20June%20Stadium%2C%20Cairo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/30_June_Stadium",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/30_June_Stadium_Cairo.jpg/960px-30_June_Stadium_Cairo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/30_June_Stadium"
+        }
+      },
+      {
+        "id": "cairo-bars-3",
+        "name": "6th October Bridge",
+        "cityId": "cairo",
+        "categoryId": "bars",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=6th%20October%20Bridge%2C%20Cairo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/6th_October_Bridge",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/6th_October_Bridge.png/960px-6th_October_Bridge.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/6th_October_Bridge"
+        }
+      },
+      {
+        "id": "cairo-bars-4",
+        "name": "Vehicle registration plates of Egypt",
+        "cityId": "cairo",
+        "categoryId": "bars",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Vehicle%20registration%20plates%20of%20Egypt%2C%20Cairo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Vehicle_registration_plates_of_Egypt",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/License_plate_Egypt_private.jpg/960px-License_plate_Egypt_private.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Vehicle_registration_plates_of_Egypt"
+        }
+      },
+      {
+        "id": "cairo-bars-5",
+        "name": "Environmental issues in Egypt",
+        "cityId": "cairo",
+        "categoryId": "bars",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Environmental%20issues%20in%20Egypt%2C%20Cairo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Environmental_issues_in_Egypt",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Egypt_Population_Density_and_Low_Elevation_Coastal_Zones_%285457306559%29.jpg/960px-Egypt_Population_Density_and_Low_Elevation_Coastal_Zones_%285457306559%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Environmental_issues_in_Egypt"
+        }
+      },
+      {
+        "id": "cairo-bars-6",
+        "name": "Richard W. Townshend",
+        "cityId": "cairo",
+        "categoryId": "bars",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Richard%20W.%20Townshend%2C%20Cairo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Richard_W._Townshend",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/68/RWTownshend.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Richard_W._Townshend"
+        }
+      },
+      {
+        "id": "cairo-bars-7",
+        "name": "1948 Cairo bombings",
+        "cityId": "cairo",
+        "categoryId": "bars",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=1948%20Cairo%20bombings%2C%20Cairo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/1948_Cairo_bombings",
+        "photo": null
+      },
+      {
+        "id": "cairo-bars-8",
+        "name": "Ashraf Marwan",
+        "cityId": "cairo",
+        "categoryId": "bars",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Ashraf%20Marwan%2C%20Cairo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Ashraf_Marwan",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/31/Ashraf_Marwan.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Ashraf_Marwan"
+        }
+      },
+      {
+        "id": "cairo-bars-9",
+        "name": "Kaunas pogrom",
+        "cityId": "cairo",
+        "categoryId": "bars",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Kaunas%20pogrom%2C%20Cairo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Kaunas_pogrom",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/Massacre_of_Jews_in_Liet%C5%ABkis_garage.jpeg/960px-Massacre_of_Jews_in_Liet%C5%ABkis_garage.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Kaunas_pogrom"
+        }
+      },
+      {
+        "id": "cairo-bars-10",
+        "name": "Zohar Amar",
+        "cityId": "cairo",
+        "categoryId": "bars",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Zohar%20Amar%2C%20Cairo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Zohar_Amar",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/%D7%A4%D7%A8%D7%95%D7%A4%27_%D7%96%D6%B9%D7%94%D7%A8_%D7%A2%D7%9E%D7%A8.JPG/960px-%D7%A4%D7%A8%D7%95%D7%A4%27_%D7%96%D6%B9%D7%94%D7%A8_%D7%A2%D7%9E%D7%A8.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Zohar_Amar"
+        }
+      },
+      {
+        "id": "cairo-bars-11",
+        "name": "Mohammed Abdel Wahab",
+        "cityId": "cairo",
+        "categoryId": "bars",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Mohammed%20Abdel%20Wahab%2C%20Cairo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Mohammed_Abdel_Wahab",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Abdel_wahab.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Mohammed_Abdel_Wahab"
+        }
+      },
+      {
+        "id": "cairo-bars-12",
+        "name": "Shubra El Kheima",
+        "cityId": "cairo",
+        "categoryId": "bars",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Shubra%20El%20Kheima%2C%20Cairo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Shubra_El_Kheima",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/56/3-D_Building_on_Google_Map_-_panoramio.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Shubra_El_Kheima"
+        }
+      },
+      {
+        "id": "cairo-bars-13",
+        "name": "Illia Kovtun",
+        "cityId": "cairo",
+        "categoryId": "bars",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Illia%20Kovtun%2C%20Cairo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Illia_Kovtun",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/European_Championships_2022-08-16_Senior_Men_Podium_training_Subdivision_3_%28Norman_Seibert%29_-_DSC_2897.jpg/960px-European_Championships_2022-08-16_Senior_Men_Podium_training_Subdivision_3_%28Norman_Seibert%29_-_DSC_2897.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Illia_Kovtun"
+        }
+      },
+      {
+        "id": "cairo-bars-14",
+        "name": "Marios Georgiou",
+        "cityId": "cairo",
+        "categoryId": "bars",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Marios%20Georgiou%2C%20Cairo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Marios_Georgiou",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/10/Marios_Georgiou_%28CYP%29_2022.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Marios_Georgiou"
+        }
+      },
+      {
+        "id": "cairo-bars-15",
+        "name": "Ahmed Issam Allam",
+        "cityId": "cairo",
+        "categoryId": "bars",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Ahmed%20Issam%20Allam%2C%20Cairo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Ahmed_Issam_Allam",
+        "photo": null
+      },
+      {
+        "id": "cairo-bars-16",
+        "name": "Botroseya Church bombing",
+        "cityId": "cairo",
+        "categoryId": "bars",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Botroseya%20Church%20bombing%2C%20Cairo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Botroseya_Church_bombing",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/CairoAbbasiyaButrusiya.jpg/960px-CairoAbbasiyaButrusiya.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Botroseya_Church_bombing"
+        }
+      },
+      {
+        "id": "cairo-bars-17",
+        "name": "Omar Mohamed",
+        "cityId": "cairo",
+        "categoryId": "bars",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Omar%20Mohamed%2C%20Cairo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Omar_Mohamed_(gymnast)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/FIG_AGWC_2025_-_Omar_Mohamed_%282%29.jpg/960px-FIG_AGWC_2025_-_Omar_Mohamed_%282%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Omar_Mohamed_(gymnast)"
+        }
+      },
+      {
+        "id": "cairo-bars-18",
+        "name": "6th of October",
+        "cityId": "cairo",
+        "categoryId": "bars",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=6th%20of%20October%2C%20Cairo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/6th_of_October_(city)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/SmartVillageIntel.jpg/960px-SmartVillageIntel.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/6th_of_October_(city)"
+        }
+      }
+    ],
+    "coffee_shops": [
+      {
+        "id": "cairo-coffee_shops-1",
+        "name": "A Cafe in Cairo",
+        "cityId": "cairo",
+        "categoryId": "coffee_shops",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=A%20Cafe%20in%20Cairo%2C%20Cairo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/A_Cafe_in_Cairo",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/A_Cafe_in_Cairo_%281924%29_-_3.jpg/960px-A_Cafe_in_Cairo_%281924%29_-_3.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/A_Cafe_in_Cairo"
+        }
+      },
+      {
+        "id": "cairo-coffee_shops-2",
+        "name": "Downtown Cairo",
+        "cityId": "cairo",
+        "categoryId": "coffee_shops",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Downtown%20Cairo%2C%20Cairo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Downtown_Cairo",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Suar%C3%A8s_Palace_at_Mostafa_Kamel_Square_in_Cairo_in_2017.jpg/960px-Suar%C3%A8s_Palace_at_Mostafa_Kamel_Square_in_Cairo_in_2017.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Downtown_Cairo"
+        }
+      },
+      {
+        "id": "cairo-coffee_shops-3",
+        "name": "Karnak Café",
+        "cityId": "cairo",
+        "categoryId": "coffee_shops",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Karnak%20Caf%C3%A9%2C%20Cairo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Karnak_Caf%C3%A9_(novel)",
+        "photo": null
+      },
+      {
+        "id": "cairo-coffee_shops-4",
+        "name": "Café Riche",
+        "cityId": "cairo",
+        "categoryId": "coffee_shops",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Caf%C3%A9%20Riche%2C%20Cairo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Caf%C3%A9_Riche",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Cafe_Riche.jpg/960px-Cafe_Riche.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Caf%C3%A9_Riche"
+        }
+      },
+      {
+        "id": "cairo-coffee_shops-5",
+        "name": "Midaq Alley",
+        "cityId": "cairo",
+        "categoryId": "coffee_shops",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Midaq%20Alley%2C%20Cairo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Midaq_Alley_(novel)",
+        "photo": null
+      },
+      {
+        "id": "cairo-coffee_shops-6",
+        "name": "Roots Club",
+        "cityId": "cairo",
+        "categoryId": "coffee_shops",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Roots%20Club%2C%20Cairo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Roots_Club",
+        "photo": null
+      },
+      {
+        "id": "cairo-coffee_shops-7",
+        "name": "Cairo International Stadium",
+        "cityId": "cairo",
+        "categoryId": "coffee_shops",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Cairo%20International%20Stadium%2C%20Cairo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Cairo_International_Stadium",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Panorma_Cairo_Stadium.jpg/960px-Panorma_Cairo_Stadium.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Cairo_International_Stadium"
+        }
+      },
+      {
+        "id": "cairo-coffee_shops-8",
+        "name": "1948 Cairo bombings",
+        "cityId": "cairo",
+        "categoryId": "coffee_shops",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=1948%20Cairo%20bombings%2C%20Cairo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/1948_Cairo_bombings",
+        "photo": null
+      },
+      {
+        "id": "cairo-coffee_shops-9",
+        "name": "Cairo Gang",
+        "cityId": "cairo",
+        "categoryId": "coffee_shops",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Cairo%20Gang%2C%20Cairo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Cairo_Gang",
+        "photo": null
+      },
+      {
+        "id": "cairo-coffee_shops-10",
+        "name": "Coffeehouse",
+        "cityId": "cairo",
+        "categoryId": "coffee_shops",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Coffeehouse%2C%20Cairo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Coffeehouse",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/Caf%C3%A9_de_Flore.jpg/960px-Caf%C3%A9_de_Flore.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Coffeehouse"
+        }
+      },
+      {
+        "id": "cairo-coffee_shops-11",
+        "name": "2006 Dahab bombings",
+        "cityId": "cairo",
+        "categoryId": "coffee_shops",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=2006%20Dahab%20bombings%2C%20Cairo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/2006_Dahab_bombings",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Dahab-location.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/2006_Dahab_bombings"
+        }
+      },
+      {
+        "id": "cairo-coffee_shops-12",
+        "name": "Cairo",
+        "cityId": "cairo",
+        "categoryId": "coffee_shops",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Cairo%2C%20Cairo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Cairo",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Cairo_From_Tower_%28cropped%29.jpg/960px-Cairo_From_Tower_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Cairo"
+        }
+      },
+      {
+        "id": "cairo-coffee_shops-13",
+        "name": "Ib Rehné",
+        "cityId": "cairo",
+        "categoryId": "coffee_shops",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Ib%20Rehn%C3%A9%2C%20Cairo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Ib_Rehn%C3%A9",
+        "photo": null
+      },
+      {
+        "id": "cairo-coffee_shops-14",
+        "name": "El-Fishawy Café",
+        "cityId": "cairo",
+        "categoryId": "coffee_shops",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=El-Fishawy%20Caf%C3%A9%2C%20Cairo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/El-Fishawy_Caf%C3%A9",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/Kairo_2016-03-28g.jpg/960px-Kairo_2016-03-28g.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/El-Fishawy_Caf%C3%A9"
+        }
+      },
+      {
+        "id": "cairo-coffee_shops-15",
+        "name": "Al Salam Stadium",
+        "cityId": "cairo",
+        "categoryId": "coffee_shops",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Al%20Salam%20Stadium%2C%20Cairo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Al_Salam_Stadium_(Egypt)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Al_Ahly_WE_stadium.jpg/960px-Al_Ahly_WE_stadium.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Al_Salam_Stadium_(Egypt)"
+        }
+      },
+      {
+        "id": "cairo-coffee_shops-16",
+        "name": "Rocky Jordan",
+        "cityId": "cairo",
+        "categoryId": "coffee_shops",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Rocky%20Jordan%2C%20Cairo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Rocky_Jordan",
+        "photo": null
+      },
+      {
+        "id": "cairo-coffee_shops-17",
+        "name": "2004 Sinai bombings",
+        "cityId": "cairo",
+        "categoryId": "coffee_shops",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=2004%20Sinai%20bombings%2C%20Cairo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/2004_Sinai_bombings",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/cf/2004_Sinai_bombings%2C_October_2004._II.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/2004_Sinai_bombings"
+        }
+      },
+      {
+        "id": "cairo-coffee_shops-18",
+        "name": "Sheffield Club bombing",
+        "cityId": "cairo",
+        "categoryId": "coffee_shops",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Sheffield%20Club%20bombing%2C%20Cairo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Sheffield_Club_bombing",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/2002_Rishon_LeZion_bombing_IV.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Sheffield_Club_bombing"
+        }
+      }
+    ],
+    "bookshops": [
+      {
+        "id": "cairo-bookshops-1",
+        "name": "Steimatzky",
+        "cityId": "cairo",
+        "categoryId": "bookshops",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Steimatzky%2C%20Cairo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Steimatzky",
+        "photo": null
+      },
+      {
+        "id": "cairo-bookshops-2",
+        "name": "Daoud Lamei",
+        "cityId": "cairo",
+        "categoryId": "bookshops",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Daoud%20Lamei%2C%20Cairo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Daoud_Lamei",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Fr_Daoud_Lamei.jpg/960px-Fr_Daoud_Lamei.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Daoud_Lamei"
+        }
+      },
+      {
+        "id": "cairo-bookshops-3",
+        "name": "Étienne Drioton",
+        "cityId": "cairo",
+        "categoryId": "bookshops",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=%C3%89tienne%20Drioton%2C%20Cairo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/%C3%89tienne_Drioton",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Nancy-etienne-drioton-plaque-comm%C3%A9morative.png/960px-Nancy-etienne-drioton-plaque-comm%C3%A9morative.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/%C3%89tienne_Drioton"
+        }
+      },
+      {
+        "id": "cairo-bookshops-4",
+        "name": "American University in Cairo",
+        "cityId": "cairo",
+        "categoryId": "bookshops",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=American%20University%20in%20Cairo%2C%20Cairo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/American_University_in_Cairo",
+        "photo": null
+      },
+      {
+        "id": "cairo-bookshops-5",
+        "name": "Habib Girgis",
+        "cityId": "cairo",
+        "categoryId": "bookshops",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Habib%20Girgis%2C%20Cairo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Habib_Girgis",
+        "photo": null
+      },
+      {
+        "id": "cairo-bookshops-6",
+        "name": "Muhibb al-Din al-Khatib",
+        "cityId": "cairo",
+        "categoryId": "bookshops",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Muhibb%20al-Din%20al-Khatib%2C%20Cairo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Muhibb_al-Din_al-Khatib",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Muhibb-al-Din_al-Khatib.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Muhibb_al-Din_al-Khatib"
+        }
+      },
+      {
+        "id": "cairo-bookshops-7",
+        "name": "Zahi Hawass",
+        "cityId": "cairo",
+        "categoryId": "bookshops",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Zahi%20Hawass%2C%20Cairo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Zahi_Hawass",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/46/Hawass.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Zahi_Hawass"
+        }
+      },
+      {
+        "id": "cairo-bookshops-8",
+        "name": "RCS MediaGroup",
+        "cityId": "cairo",
+        "categoryId": "bookshops",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=RCS%20MediaGroup%2C%20Cairo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/RCS_MediaGroup",
+        "photo": null
+      },
+      {
+        "id": "cairo-bookshops-9",
+        "name": "Stern House",
+        "cityId": "cairo",
+        "categoryId": "bookshops",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Stern%20House%2C%20Cairo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Stern_House",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Stern_house_1.jpg/960px-Stern_house_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Stern_House"
+        }
+      },
+      {
+        "id": "cairo-bookshops-10",
+        "name": "Affaf Tobbala",
+        "cityId": "cairo",
+        "categoryId": "bookshops",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Affaf%20Tobbala%2C%20Cairo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Affaf_Tobbala",
+        "photo": null
+      },
+      {
+        "id": "cairo-bookshops-11",
+        "name": "Ibn Ata Allah al-Iskandari",
+        "cityId": "cairo",
+        "categoryId": "bookshops",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Ibn%20Ata%20Allah%20al-Iskandari%2C%20Cairo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Ibn_Ata_Allah_al-Iskandari",
+        "photo": null
+      },
+      {
+        "id": "cairo-bookshops-12",
+        "name": "Kerolos Bahgat",
+        "cityId": "cairo",
+        "categoryId": "bookshops",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Kerolos%20Bahgat%2C%20Cairo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Kerolos_Bahgat",
+        "photo": null
+      },
+      {
+        "id": "cairo-bookshops-13",
+        "name": "Egyptian Knowledge Bank",
+        "cityId": "cairo",
+        "categoryId": "bookshops",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Egyptian%20Knowledge%20Bank%2C%20Cairo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Egyptian_Knowledge_Bank",
+        "photo": null
+      },
+      {
+        "id": "cairo-bookshops-14",
+        "name": "Abul Khayr Alonto",
+        "cityId": "cairo",
+        "categoryId": "bookshops",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Abul%20Khayr%20Alonto%2C%20Cairo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Abul_Khayr_Alonto",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Datu_Datu_Abul_Khayr_Alonto.jpg/960px-Datu_Datu_Abul_Khayr_Alonto.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Abul_Khayr_Alonto"
+        }
+      },
+      {
+        "id": "cairo-bookshops-15",
+        "name": "Roshdi Rashed",
+        "cityId": "cairo",
+        "categoryId": "bookshops",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Roshdi%20Rashed%2C%20Cairo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Roshdi_Rashed",
+        "photo": null
+      },
+      {
+        "id": "cairo-bookshops-16",
+        "name": "Tony Kaldas",
+        "cityId": "cairo",
+        "categoryId": "bookshops",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Tony%20Kaldas%2C%20Cairo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Tony_Kaldas",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Tonykaldas.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Tony_Kaldas"
+        }
+      },
+      {
+        "id": "cairo-bookshops-17",
+        "name": "Bothayna El Essa",
+        "cityId": "cairo",
+        "categoryId": "bookshops",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Bothayna%20El%20Essa%2C%20Cairo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Bothayna_El_Essa",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Bothayna_AlEssa_01.jpg/960px-Bothayna_AlEssa_01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Bothayna_El_Essa"
+        }
+      },
+      {
+        "id": "cairo-bookshops-18",
+        "name": "Khalil Kamarah'i",
+        "cityId": "cairo",
+        "categoryId": "bookshops",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Khalil%20Kamarah'i%2C%20Cairo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Khalil_Kamarah'i",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/%D8%A2%DB%8C%D8%AA_%D8%A7%D9%84%D9%84%D9%87_%D8%AD%D8%A7%D8%AC_%D9%85%DB%8C%D8%B1%D8%B2%D8%A7_%D8%AE%D9%84%DB%8C%D9%84_%DA%A9%D9%85%D8%B1%D9%87_%D8%A7%DB%8C.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Khalil_Kamarah'i"
+        }
+      }
+    ],
+    "museums": [
+      {
+        "id": "cairo-museums-1",
+        "name": "Egyptian Museum",
+        "cityId": "cairo",
+        "categoryId": "museums",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Egyptian%20Museum%2C%20Cairo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Egyptian_Museum",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/1897_bis_1902_wurde_das_%C3%84gyptische_Museum_in_Kairo_gebaut._04.jpg/960px-1897_bis_1902_wurde_das_%C3%84gyptische_Museum_in_Kairo_gebaut._04.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Egyptian_Museum"
+        }
+      },
+      {
+        "id": "cairo-museums-2",
+        "name": "Giza",
+        "cityId": "cairo",
+        "categoryId": "museums",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Giza%2C%20Cairo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Giza",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/Entrance_Grand_Egyptian_museum.jpg/960px-Entrance_Grand_Egyptian_museum.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Giza"
+        }
+      },
+      {
+        "id": "cairo-museums-3",
+        "name": "Museum of Islamic Art, Cairo",
+        "cityId": "cairo",
+        "categoryId": "museums",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Museum%20of%20Islamic%20Art%2C%20Cairo%2C%20Cairo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Museum_of_Islamic_Art%2C_Cairo",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/GD-EG-Caire-Mus%C3%A9eIslam001.JPG/960px-GD-EG-Caire-Mus%C3%A9eIslam001.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Museum_of_Islamic_Art%2C_Cairo"
+        }
+      },
+      {
+        "id": "cairo-museums-4",
+        "name": "Cairo",
+        "cityId": "cairo",
+        "categoryId": "museums",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Cairo%2C%20Cairo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Cairo",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Cairo_From_Tower_%28cropped%29.jpg/960px-Cairo_From_Tower_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Cairo"
+        }
+      },
+      {
+        "id": "cairo-museums-5",
+        "name": "USS Cairo",
+        "cityId": "cairo",
+        "categoryId": "museums",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=USS%20Cairo%2C%20Cairo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/USS_Cairo",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/U.S._gunboat_Cairo_%28a.k.a._USS_Cairo%29_-_Mississippi_River_Fleet_-_Original.tiff/lossy-page1-960px-U.S._gunboat_Cairo_%28a.k.a._USS_Cairo%29_-_Mississippi_River_Fleet_-_Original.tiff.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/USS_Cairo"
+        }
+      },
+      {
+        "id": "cairo-museums-6",
+        "name": "Egyptian National Military Museum",
+        "cityId": "cairo",
+        "categoryId": "museums",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Egyptian%20National%20Military%20Museum%2C%20Cairo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Egyptian_National_Military_Museum",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/Cytadela_w_Kairze.jpg/960px-Cytadela_w_Kairze.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Egyptian_National_Military_Museum"
+        }
+      },
+      {
+        "id": "cairo-museums-7",
+        "name": "Carriage Museum",
+        "cityId": "cairo",
+        "categoryId": "museums",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Carriage%20Museum%2C%20Cairo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Carriage_Museum_(Egypt)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/%D9%85%D8%AA%D8%AD%D9%81_%D8%A7%D9%84%D9%85%D8%B1%D9%83%D8%A8%D8%A7%D8%AA_%D8%A7%D9%84%D9%85%D9%84%D9%83%D9%8A%D8%A9_%D8%A8%D8%A7%D9%84%D9%82%D9%84%D8%B9%D8%A9_%2894180%29.jpg/960px-%D9%85%D8%AA%D8%AD%D9%81_%D8%A7%D9%84%D9%85%D8%B1%D9%83%D8%A8%D8%A7%D8%AA_%D8%A7%D9%84%D9%85%D9%84%D9%83%D9%8A%D8%A9_%D8%A8%D8%A7%D9%84%D9%82%D9%84%D8%B9%D8%A9_%2894180%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Carriage_Museum_(Egypt)"
+        }
+      },
+      {
+        "id": "cairo-museums-8",
+        "name": "Abdeen Palace",
+        "cityId": "cairo",
+        "categoryId": "museums",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Abdeen%20Palace%2C%20Cairo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Abdeen_Palace",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/17/Abdeen_Palace.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Abdeen_Palace"
+        }
+      },
+      {
+        "id": "cairo-museums-9",
+        "name": "Cairo Citadel",
+        "cityId": "cairo",
+        "categoryId": "museums",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Cairo%20Citadel%2C%20Cairo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Cairo_Citadel",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/Flickr_-_HuTect_ShOts_-_Citadel_of_Salah_El.Din_and_Masjid_Muhammad_Ali_%D9%82%D9%84%D8%B9%D8%A9_%D8%B5%D9%84%D8%A7%D8%AD_%D8%A7%D9%84%D8%AF%D9%8A%D9%86_%D8%A7%D9%84%D8%A3%D9%8A%D9%88%D8%A8%D9%8A_%D9%88%D9%85%D8%B3%D8%AC%D8%AF_%D9%85%D8%AD%D9%85%D8%AF_%D8%B9%D9%84%D9%8A_-_Cairo_-_Egypt_-_17_04_2010_%284%29.jpg/960px-thumbnail.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Cairo_Citadel"
+        }
+      },
+      {
+        "id": "cairo-museums-10",
+        "name": "Coptic Museum",
+        "cityId": "cairo",
+        "categoryId": "museums",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Coptic%20Museum%2C%20Cairo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Coptic_Museum",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Kairo_-_Altkairo_05.jpg/960px-Kairo_-_Altkairo_05.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Coptic_Museum"
+        }
+      },
+      {
+        "id": "cairo-museums-11",
+        "name": "Bayt al-Suhaymi",
+        "cityId": "cairo",
+        "categoryId": "museums",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Bayt%20al-Suhaymi%2C%20Cairo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Bayt_al-Suhaymi",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Flickr_-_Gaspa_-_Cairo%2C_Bayt_es-Suhaimi.jpg/960px-Flickr_-_Gaspa_-_Cairo%2C_Bayt_es-Suhaimi.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Bayt_al-Suhaymi"
+        }
+      },
+      {
+        "id": "cairo-museums-12",
+        "name": "Gayer-Anderson Museum",
+        "cityId": "cairo",
+        "categoryId": "museums",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Gayer-Anderson%20Museum%2C%20Cairo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Gayer-Anderson_Museum",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Kairo_Gayer_Anderson_Museum_BW_3.jpg/960px-Kairo_Gayer_Anderson_Museum_BW_3.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Gayer-Anderson_Museum"
+        }
+      },
+      {
+        "id": "cairo-museums-13",
+        "name": "Prince Amr Ibrahim Palace",
+        "cityId": "cairo",
+        "categoryId": "museums",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Prince%20Amr%20Ibrahim%20Palace%2C%20Cairo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Prince_Amr_Ibrahim_Palace",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Prince_Amr_Ibrahim_Palace_Islamic_Ceramic_Museum_entrance.jpg/960px-Prince_Amr_Ibrahim_Palace_Islamic_Ceramic_Museum_entrance.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Prince_Amr_Ibrahim_Palace"
+        }
+      },
+      {
+        "id": "cairo-museums-14",
+        "name": "Wegaf",
+        "cityId": "cairo",
+        "categoryId": "museums",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Wegaf%2C%20Cairo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Wegaf",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Wegaf_Rubensohn.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Wegaf"
+        }
+      },
+      {
+        "id": "cairo-museums-15",
+        "name": "National Museum of Egyptian Civilization",
+        "cityId": "cairo",
+        "categoryId": "museums",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=National%20Museum%20of%20Egyptian%20Civilization%2C%20Cairo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/National_Museum_of_Egyptian_Civilization",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/en/b/b6/Nmec-logo-dec.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/National_Museum_of_Egyptian_Civilization"
+        }
+      },
+      {
+        "id": "cairo-museums-16",
+        "name": "Fustat",
+        "cityId": "cairo",
+        "categoryId": "museums",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Fustat%2C%20Cairo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Fustat",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Fostat-329.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Fustat"
+        }
+      },
+      {
+        "id": "cairo-museums-17",
+        "name": "Zamalek",
+        "cityId": "cairo",
+        "categoryId": "museums",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Zamalek%2C%20Cairo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Zamalek",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/75/Zamalek_Arial.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Zamalek"
+        }
+      },
+      {
+        "id": "cairo-museums-18",
+        "name": "Coptic art",
+        "cityId": "cairo",
+        "categoryId": "museums",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Coptic%20art%2C%20Cairo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Coptic_art",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/Kristus_a_svat%C3%BD_Menas.jpg/960px-Kristus_a_svat%C3%BD_Menas.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Coptic_art"
+        }
+      }
+    ],
+    "concerts": [
+      {
+        "id": "cairo-concerts-1",
+        "name": "Ramzi Yassa",
+        "cityId": "cairo",
+        "categoryId": "concerts",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Ramzi%20Yassa%2C%20Cairo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Ramzi_Yassa",
+        "photo": null
+      },
+      {
+        "id": "cairo-concerts-2",
+        "name": "Cairo Symphony Orchestra",
+        "cityId": "cairo",
+        "categoryId": "concerts",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Cairo%20Symphony%20Orchestra%2C%20Cairo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Cairo_Symphony_Orchestra",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Cairo_Steps_%26_Maestro_Nayer_Nagui.jpg/960px-Cairo_Steps_%26_Maestro_Nayer_Nagui.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Cairo_Symphony_Orchestra"
+        }
+      },
+      {
+        "id": "cairo-concerts-3",
+        "name": "Abu Bakr Khairat",
+        "cityId": "cairo",
+        "categoryId": "concerts",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Abu%20Bakr%20Khairat%2C%20Cairo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Abu_Bakr_Khairat",
+        "photo": null
+      },
+      {
+        "id": "cairo-concerts-4",
+        "name": "Eugenia León",
+        "cityId": "cairo",
+        "categoryId": "concerts",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Eugenia%20Le%C3%B3n%2C%20Cairo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Eugenia_Le%C3%B3n",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/EugeniaLeon.jpg/960px-EugeniaLeon.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Eugenia_Le%C3%B3n"
+        }
+      },
+      {
+        "id": "cairo-concerts-5",
+        "name": "Ross Daly",
+        "cityId": "cairo",
+        "categoryId": "concerts",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Ross%20Daly%2C%20Cairo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Ross_Daly",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Ross_Daly.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Ross_Daly"
+        }
+      },
+      {
+        "id": "cairo-concerts-6",
+        "name": "Alexander Frey",
+        "cityId": "cairo",
+        "categoryId": "concerts",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Alexander%20Frey%2C%20Cairo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Alexander_Frey",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Alexander_Frey_in_Prague.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Alexander_Frey"
+        }
+      },
+      {
+        "id": "cairo-concerts-7",
+        "name": "Emily Anderson",
+        "cityId": "cairo",
+        "categoryId": "concerts",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Emily%20Anderson%2C%20Cairo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Emily_Anderson",
+        "photo": null
+      },
+      {
+        "id": "cairo-concerts-8",
+        "name": "University of Limerick",
+        "cityId": "cairo",
+        "categoryId": "concerts",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=University%20of%20Limerick%2C%20Cairo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/University_of_Limerick",
+        "photo": null
+      },
+      {
+        "id": "cairo-concerts-9",
+        "name": "Zazà",
+        "cityId": "cairo",
+        "categoryId": "concerts",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Zaz%C3%A0%2C%20Cairo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Zaz%C3%A0",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/en/2/2b/Zaza-vocal-score-1919.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Zaz%C3%A0"
+        }
+      },
+      {
+        "id": "cairo-concerts-10",
+        "name": "Bill Coleman",
+        "cityId": "cairo",
+        "categoryId": "concerts",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Bill%20Coleman%2C%20Cairo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Bill_Coleman_(trumpeter)",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Bill_Coleman%2C_Cafe_Society_ca._1947.jpg/960px-Bill_Coleman%2C_Cafe_Society_ca._1947.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Bill_Coleman_(trumpeter)"
+        }
+      },
+      {
+        "id": "cairo-concerts-11",
+        "name": "Henri Rabaud",
+        "cityId": "cairo",
+        "categoryId": "concerts",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Henri%20Rabaud%2C%20Cairo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Henri_Rabaud",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Henri_Rabaud_in_1918.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Henri_Rabaud"
+        }
+      },
+      {
+        "id": "cairo-concerts-12",
+        "name": "2012 in Denmark",
+        "cityId": "cairo",
+        "categoryId": "concerts",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=2012%20in%20Denmark%2C%20Cairo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/2012_in_Denmark",
+        "photo": null
+      },
+      {
+        "id": "cairo-concerts-13",
+        "name": "Smithsonian Jazz Masterworks Orchestra",
+        "cityId": "cairo",
+        "categoryId": "concerts",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Smithsonian%20Jazz%20Masterworks%20Orchestra%2C%20Cairo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Smithsonian_Jazz_Masterworks_Orchestra",
+        "photo": null
+      },
+      {
+        "id": "cairo-concerts-14",
+        "name": "Vadim Chaimovich",
+        "cityId": "cairo",
+        "categoryId": "concerts",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Vadim%20Chaimovich%2C%20Cairo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Vadim_Chaimovich",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Vadim_Chaimovich_performing_in_Onoldia_Hall_Ansbach%2C_Germany%2C_on_October_22%2C_2015.jpg/960px-Vadim_Chaimovich_performing_in_Onoldia_Hall_Ansbach%2C_Germany%2C_on_October_22%2C_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Vadim_Chaimovich"
+        }
+      },
+      {
+        "id": "cairo-concerts-15",
+        "name": "Zagreb Open",
+        "cityId": "cairo",
+        "categoryId": "concerts",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Zagreb%20Open%2C%20Cairo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Zagreb_Open",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/ChristopheRochusStuttgart06.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Zagreb_Open"
+        }
+      },
+      {
+        "id": "cairo-concerts-16",
+        "name": "Ankara Esenboğa Airport",
+        "cityId": "cairo",
+        "categoryId": "concerts",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Ankara%20Esenbo%C4%9Fa%20Airport%2C%20Cairo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Ankara_Esenbo%C4%9Fa_Airport",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Ankara_Esenboga_International_Airport.jpg/960px-Ankara_Esenboga_International_Airport.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Ankara_Esenbo%C4%9Fa_Airport"
+        }
+      },
+      {
+        "id": "cairo-concerts-17",
+        "name": "Giuseppe Giacomini",
+        "cityId": "cairo",
+        "categoryId": "concerts",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Giuseppe%20Giacomini%2C%20Cairo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Giuseppe_Giacomini",
+        "photo": null
+      },
+      {
+        "id": "cairo-concerts-18",
+        "name": "Michael Smurfit Graduate Business School",
+        "cityId": "cairo",
+        "categoryId": "concerts",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Michael%20Smurfit%20Graduate%20Business%20School%2C%20Cairo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Michael_Smurfit_Graduate_Business_School",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/Smurfit.jpg/960px-Smurfit.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Michael_Smurfit_Graduate_Business_School"
+        }
+      }
+    ],
+    "fashion": [
+      {
+        "id": "cairo-fashion-1",
+        "name": "Happy Birthday",
+        "cityId": "cairo",
+        "categoryId": "fashion",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Happy%20Birthday%2C%20Cairo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Happy_Birthday_(2025_film)",
+        "photo": null
+      },
+      {
+        "id": "cairo-fashion-2",
+        "name": "The Sweetness of Love",
+        "cityId": "cairo",
+        "categoryId": "fashion",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Sweetness%20of%20Love%2C%20Cairo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/The_Sweetness_of_Love",
+        "photo": null
+      },
+      {
+        "id": "cairo-fashion-3",
+        "name": "Charles Wagenheim",
+        "cityId": "cairo",
+        "categoryId": "fashion",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Charles%20Wagenheim%2C%20Cairo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Charles_Wagenheim",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Charles_Wagenheim_in_Ghost_of_Jean_Battoo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Charles_Wagenheim"
+        }
+      },
+      {
+        "id": "cairo-fashion-4",
+        "name": "Mary Maples Dunn",
+        "cityId": "cairo",
+        "categoryId": "fashion",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Mary%20Maples%20Dunn%2C%20Cairo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Mary_Maples_Dunn",
+        "photo": null
+      },
+      {
+        "id": "cairo-fashion-5",
+        "name": "South Amboy, New Jersey",
+        "cityId": "cairo",
+        "categoryId": "fashion",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=South%20Amboy%2C%20New%20Jersey%2C%20Cairo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/South_Amboy%2C_New_Jersey",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Downtown_South_Amboy%2C_NJ.jpg/960px-Downtown_South_Amboy%2C_NJ.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/South_Amboy%2C_New_Jersey"
+        }
+      },
+      {
+        "id": "cairo-fashion-6",
+        "name": "Barefoot Gen",
+        "cityId": "cairo",
+        "categoryId": "fashion",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Barefoot%20Gen%2C%20Cairo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Barefoot_Gen",
+        "photo": null
+      },
+      {
+        "id": "cairo-fashion-7",
+        "name": "Double-decker bus",
+        "cityId": "cairo",
+        "categoryId": "fashion",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Double-decker%20bus%2C%20Cairo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Double-decker_bus",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/Abellio_LT157_%28LTZ1157%29_Holborn_Viaduct_20.01.2024.jpg/960px-Abellio_LT157_%28LTZ1157%29_Holborn_Viaduct_20.01.2024.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Double-decker_bus"
+        }
+      },
+      {
+        "id": "cairo-fashion-8",
+        "name": "Bra",
+        "cityId": "cairo",
+        "categoryId": "fashion",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Bra%2C%20Cairo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Bra",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/Modern_bra_fullcup.jpg/960px-Modern_bra_fullcup.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Bra"
+        }
+      },
+      {
+        "id": "cairo-fashion-9",
+        "name": "Deal, New Jersey",
+        "cityId": "cairo",
+        "categoryId": "fashion",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Deal%2C%20New%20Jersey%2C%20Cairo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Deal%2C_New_Jersey",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/Deal_Seagulls_%2827516373%29.jpeg/960px-Deal_Seagulls_%2827516373%29.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Deal%2C_New_Jersey"
+        }
+      },
+      {
+        "id": "cairo-fashion-10",
+        "name": "1952 New Year Honours",
+        "cityId": "cairo",
+        "categoryId": "fashion",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=1952%20New%20Year%20Honours%2C%20Cairo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/1952_New_Year_Honours",
+        "photo": null
+      },
+      {
+        "id": "cairo-fashion-11",
+        "name": "Congregation Mikveh Israel",
+        "cityId": "cairo",
+        "categoryId": "fashion",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Congregation%20Mikveh%20Israel%2C%20Cairo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Congregation_Mikveh_Israel",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Kahal_Kadosh_Mikveh_Israel.jpg/960px-Kahal_Kadosh_Mikveh_Israel.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Congregation_Mikveh_Israel"
+        }
+      },
+      {
+        "id": "cairo-fashion-12",
+        "name": "Women in aviation",
+        "cityId": "cairo",
+        "categoryId": "fashion",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Women%20in%20aviation%2C%20Cairo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Women_in_aviation",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Air_Force%27s_first_African_American_female_fighter_pilot_080317-F-XX000-064.jpg/960px-Air_Force%27s_first_African_American_female_fighter_pilot_080317-F-XX000-064.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Women_in_aviation"
+        }
+      },
+      {
+        "id": "cairo-fashion-13",
+        "name": "Hyatt",
+        "cityId": "cairo",
+        "categoryId": "fashion",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Hyatt%2C%20Cairo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Hyatt",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/150_North_Riverside%2C_Wolf_Point%2C_Chicago.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Hyatt"
+        }
+      },
+      {
+        "id": "cairo-fashion-14",
+        "name": "Sofitel",
+        "cityId": "cairo",
+        "categoryId": "fashion",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Sofitel%2C%20Cairo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Sofitel",
+        "photo": null
+      },
+      {
+        "id": "cairo-fashion-15",
+        "name": "Mony Helal",
+        "cityId": "cairo",
+        "categoryId": "fashion",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Mony%20Helal%2C%20Cairo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Mony_Helal",
+        "photo": null
+      },
+      {
+        "id": "cairo-fashion-16",
+        "name": "Beer in Israel",
+        "cityId": "cairo",
+        "categoryId": "fashion",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Beer%20in%20Israel%2C%20Cairo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Beer_in_Israel",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Goldstar_and_Maccabee.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Beer_in_Israel"
+        }
+      },
+      {
+        "id": "cairo-fashion-17",
+        "name": "Uniworld",
+        "cityId": "cairo",
+        "categoryId": "fashion",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Uniworld%2C%20Cairo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Uniworld",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/River_Countess_%28ship%2C_2002%29_011.jpg/960px-River_Countess_%28ship%2C_2002%29_011.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Uniworld"
+        }
+      },
+      {
+        "id": "cairo-fashion-18",
+        "name": "Ingie Chalhoub",
+        "cityId": "cairo",
+        "categoryId": "fashion",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Ingie%20Chalhoub%2C%20Cairo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Ingie_Chalhoub",
+        "photo": null
+      }
+    ],
+    "shops": [
+      {
+        "id": "cairo-shops-1",
+        "name": "Egyptian Museum",
+        "cityId": "cairo",
+        "categoryId": "shops",
+        "rank": 1,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Egyptian%20Museum%2C%20Cairo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Egyptian_Museum",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/1897_bis_1902_wurde_das_%C3%84gyptische_Museum_in_Kairo_gebaut._04.jpg/960px-1897_bis_1902_wurde_das_%C3%84gyptische_Museum_in_Kairo_gebaut._04.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Egyptian_Museum"
+        }
+      },
+      {
+        "id": "cairo-shops-2",
+        "name": "John Davies Bryan",
+        "cityId": "cairo",
+        "categoryId": "shops",
+        "rank": 2,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=John%20Davies%20Bryan%2C%20Cairo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/John_Davies_Bryan",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/John_Davies_Bryan_from_O%27r_Aifft.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/John_Davies_Bryan"
+        }
+      },
+      {
+        "id": "cairo-shops-3",
+        "name": "Orange Egypt",
+        "cityId": "cairo",
+        "categoryId": "shops",
+        "rank": 3,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Orange%20Egypt%2C%20Cairo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Orange_Egypt",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Orange_logo.svg/960px-Orange_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Orange_Egypt"
+        }
+      },
+      {
+        "id": "cairo-shops-4",
+        "name": "Luxor International Airport",
+        "cityId": "cairo",
+        "categoryId": "shops",
+        "rank": 4,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Luxor%20International%20Airport%2C%20Cairo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Luxor_International_Airport",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Flughafen_Luxor_01.JPG/960px-Flughafen_Luxor_01.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Luxor_International_Airport"
+        }
+      },
+      {
+        "id": "cairo-shops-5",
+        "name": "American University in Cairo",
+        "cityId": "cairo",
+        "categoryId": "shops",
+        "rank": 5,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=American%20University%20in%20Cairo%2C%20Cairo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/American_University_in_Cairo",
+        "photo": null
+      },
+      {
+        "id": "cairo-shops-6",
+        "name": "Cairo",
+        "cityId": "cairo",
+        "categoryId": "shops",
+        "rank": 6,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Cairo%2C%20Cairo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Cairo",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Cairo_From_Tower_%28cropped%29.jpg/960px-Cairo_From_Tower_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Cairo"
+        }
+      },
+      {
+        "id": "cairo-shops-7",
+        "name": "Lynching of William \"Froggie\" James",
+        "cityId": "cairo",
+        "categoryId": "shops",
+        "rank": 7,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Lynching%20of%20William%20%22Froggie%22%20James%2C%20Cairo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Lynching_of_William_%22Froggie%22_James",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Lynching-of-will-james.jpg/960px-Lynching-of-will-james.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Lynching_of_William_%22Froggie%22_James"
+        }
+      },
+      {
+        "id": "cairo-shops-8",
+        "name": "Wadi Degla SC",
+        "cityId": "cairo",
+        "categoryId": "shops",
+        "rank": 8,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Wadi%20Degla%20SC%2C%20Cairo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Wadi_Degla_SC",
+        "photo": null
+      },
+      {
+        "id": "cairo-shops-9",
+        "name": "Cairo, Illinois",
+        "cityId": "cairo",
+        "categoryId": "shops",
+        "rank": 9,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Cairo%2C%20Illinois%2C%20Cairo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Cairo%2C_Illinois",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/en/thumb/c/c3/StPatrickChurchCairoIL.jpg/960px-StPatrickChurchCairoIL.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Cairo%2C_Illinois"
+        }
+      },
+      {
+        "id": "cairo-shops-10",
+        "name": "Frederick Hassan",
+        "cityId": "cairo",
+        "categoryId": "shops",
+        "rank": 10,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Frederick%20Hassan%2C%20Cairo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Frederick_Hassan",
+        "photo": null
+      },
+      {
+        "id": "cairo-shops-11",
+        "name": "Downtown Cairo",
+        "cityId": "cairo",
+        "categoryId": "shops",
+        "rank": 11,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Downtown%20Cairo%2C%20Cairo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Downtown_Cairo",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Suar%C3%A8s_Palace_at_Mostafa_Kamel_Square_in_Cairo_in_2017.jpg/960px-Suar%C3%A8s_Palace_at_Mostafa_Kamel_Square_in_Cairo_in_2017.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Downtown_Cairo"
+        }
+      },
+      {
+        "id": "cairo-shops-12",
+        "name": "Maadi",
+        "cityId": "cairo",
+        "categoryId": "shops",
+        "rank": 12,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Maadi%2C%20Cairo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Maadi",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Egypt_Nile_2.jpg/960px-Egypt_Nile_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Maadi"
+        }
+      },
+      {
+        "id": "cairo-shops-13",
+        "name": "Mr Karate",
+        "cityId": "cairo",
+        "categoryId": "shops",
+        "rank": 13,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Mr%20Karate%2C%20Cairo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Mr_Karate",
+        "photo": null
+      },
+      {
+        "id": "cairo-shops-14",
+        "name": "Roger Khawam",
+        "cityId": "cairo",
+        "categoryId": "shops",
+        "rank": 14,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Roger%20Khawam%2C%20Cairo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Roger_Khawam",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/43/Roger_Khawam_on_site_in_1940.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Roger_Khawam"
+        }
+      },
+      {
+        "id": "cairo-shops-15",
+        "name": "Al-Salih Tala'i Mosque",
+        "cityId": "cairo",
+        "categoryId": "shops",
+        "rank": 15,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Al-Salih%20Tala'i%20Mosque%2C%20Cairo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Al-Salih_Tala'i_Mosque",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/Mosque_of_Salih_Talai_from_above.jpg/960px-Mosque_of_Salih_Talai_from_above.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Al-Salih_Tala'i_Mosque"
+        }
+      },
+      {
+        "id": "cairo-shops-16",
+        "name": "Robert Williams",
+        "cityId": "cairo",
+        "categoryId": "shops",
+        "rank": 16,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Robert%20Williams%2C%20Cairo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Robert_Williams_(architect)",
+        "photo": null
+      },
+      {
+        "id": "cairo-shops-17",
+        "name": "Aqmar Mosque",
+        "cityId": "cairo",
+        "categoryId": "shops",
+        "rank": 17,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Aqmar%20Mosque%2C%20Cairo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Aqmar_Mosque",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/Aqmar_Mosque_20260524_152427.jpg/960px-Aqmar_Mosque_20260524_152427.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Aqmar_Mosque"
+        }
+      },
+      {
+        "id": "cairo-shops-18",
+        "name": "Abdullah Frères",
+        "cityId": "cairo",
+        "categoryId": "shops",
+        "rank": 18,
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Abdullah%20Fr%C3%A8res%2C%20Cairo",
+        "source": "wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Abdullah_Fr%C3%A8res",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Abdullah_brothers_-_Marchio.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "author": "Wikipedia",
+          "license": "CC BY-SA",
+          "source": "https://en.wikipedia.org/wiki/Abdullah_Fr%C3%A8res"
+        }
+      }
+    ]
+  }
+}

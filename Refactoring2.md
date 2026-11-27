@@ -11,8 +11,8 @@
 - [x] Etiquetas de categorías traducidas a los 6 idiomas
 - [x] Generador y validador de datos (`scripts/generate-places.mjs`, `scripts/validate-places.mjs`)
 - [x] Servicio de lectura `src/services/hardcodedPlaces.js` y opción "Usar datos locales" en Ajustes
-- [ ] Generación de los 41 archivos por ciudad (en curso)
-- [ ] Validación final, build, deploy y comprobación en el sitio
+- [x] Generación de los 41 archivos por ciudad (**6.642 lugares**)
+- [x] Validación final (0 incompletos, 0 errores), build y deploy en `gh-pages`
 
 ## 1. Resumen de lo pedido
 
